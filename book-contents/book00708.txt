@@ -1,14 +1,10 @@
-Produced by Greg Weeks, Bruce Albrecht, Stephen Blundell
-and the Online Distributed Proofreading Team at
-http://www.pgdp.net
-[Illustration]
 IN CASE OF FIRE
- _There are times when a broken tool is better
- than a sound one, or a twisted personality
- more useful than a whole one. For instance, a
- whole beer bottle isn't half the weapon that
- half a beer bottle is ..._
 By RANDALL GARRETT
+There are times when a broken tool is better
+than a sound one, or a twisted personality
+more useful than a whole one. For instance, a
+whole beer bottle isn't half the weapon that
+half a beer bottle is ...
 Illustrated by Martinez
 In his office apartment, on the top floor of the Terran Embassy Building
 in Occeq City, Bertrand Malloy leafed casually through the dossiers of
@@ -310,8 +306,3 @@ agoraphobia and xenophobia.
 that empty space, even if I'm protected from it by a steel shell." A
 look of revulsion came over his face. "And I can't _stand_ aliens!"
 THE END
-Transcriber's Note:
-  This etext was produced from _Astounding Science Fiction_ March
-  1960. Extensive research did not uncover any evidence that the U.S.
-  copyright on this publication was renewed. Minor spelling and
-  typographical errors have been corrected without note.
