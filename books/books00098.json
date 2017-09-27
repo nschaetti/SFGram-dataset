@@ -1,0 +1,67 @@
+{
+    "content_name": "30177.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Various", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30177/30177-h/images/allah.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/antri.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/banner.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/catapult-lg.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/catapult-sm.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/masthead.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/pirate.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/readers.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/sunken-lg.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/sunken-sm.png", 
+        "http://www.gutenberg.org/files/30177/30177-h/images/xoran.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 98, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Astounding Stories of Super-Science January 1931", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Science_Fiction_of_the_Thirties", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/30177/pg30177.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/21902185-astounding-stories-of-super-science-january-1931", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "loc_class": "PN: Language and Literatures: Literature: General, Criticism, Collections", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30177", 
+        "num": 30177
+    }, 
+    "authors": [
+        17
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2009-10-05T00:00:00", 
+    "author": 17, 
+    "original_title": "Science Fiction of the Thirties", 
+    "summary": "Science Fiction of the Thirties is an anthology of science fiction short stories edited by Damon Knight. It was first published in hardcover by Bobbs-Merrill in January 1976; a book club edition was issued simultaneously by the same publisher together with the Science Fiction Book Club, and a trade paperback edition by Avon Books in March 1977.\nThe book collects eighteen tales by various authors originally published in the 1930s and exemplifying American magazine science fiction of that decade, together with a foreword and three essays on the period by the editor, and a bibliography. The stories were originally published in Astounding Stories and Amazing Stories, the premier science fiction magazines of the time. The book reproduces period illustrations that accompanied the stories' original appearances by H. W. Wesso, Leo Morey, Paul Orban, Howard V. Brown, Elliott Dold, Jr., Thompson, and Charles Schneeman.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "project-gutenberg", 
+        "ebook", 
+        "short-stories", 
+        "science-fiction", 
+        "gutenberg"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}
