@@ -332,7 +332,7 @@ aVThe Halcyon Drift (Hooded Swan, #1)
 p162
 asS'description'
 p163
-VIn this exhilarating sequel to <i>The Skylark of Space</i>, momentous danger again stalks genius inventor and interplanetary adventurer Dr. Richard Seaton. Seaton\u2019s allies on the planet Kondal are suffering devastating attacks by the forces of the Third Planet. Even worse, the menacing and contemptuous Fenachrones are threatening to conquer the galaxy and wipe out all who oppose them. And don\u2019t forget the dastardly machinations of Seaton\u2019s arch-nemesis, DuQuesne, who embarks on a nefarious mission of his own. Against such vile foes and impossible odds, how is victory possible? Featuring even more technological wizardry, alien worlds, and all-out action than its predecessor, <i>Skylark Three</i> is hailed by many as the imaginative high point of the Skylark series.
+VIn this exhilarating sequel to <i>The Skylark of Space</i>, momentous danger again stalks genius inventor and interplanetary adventurer Dr. Richard Seaton. Seaton\u2019s allies on the planet Kondal are suffering devastating attacks by the forces of the Third Planet. Even worse, the menacing and contemptuous Fenachrones are threatening to conquer the galaxy and wipe out all who oppose them. And don\u2019t forget the dastardly machinations of Seaton\u2019s arch-nemesis, DuQuesne, who embarks on a nefarious mission of his own. Against such vile foes and impossible odds, how is victory possible?ï¿½Featuring even more technological wizardry, alien worlds, and all-out action than its predecessor, <i>Skylark Three</i> is hailed by many as the imaginative high point of the Skylark series.
 p164
 sS'format'
 p165

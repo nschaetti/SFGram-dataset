@@ -184,7 +184,7 @@ p85
 (lp86
 Vto-read
 p87
-aVmangá
+aVmangï¿½
 p88
 aVcurrently-reading
 p89
@@ -206,7 +206,7 @@ aVbooks-i-own
 p97
 aVmangas
 p98
-aVmangás
+aVmangï¿½s
 p99
 aVowned
 p100
@@ -360,7 +360,7 @@ aVfavorite-books
 p174
 aVcomics-and-manga
 p175
-aVÇizgi-roman
+aVï¿½izgi-roman
 p176
 aVadult
 p177

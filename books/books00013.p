@@ -134,7 +134,7 @@ aVCollected Stories, Vol. 2
 p63
 asS'description'
 p64
-VContents:<br /><br />ix · H.P. Lovecraft and His Work · August Derleth · in <br />10 · In the Vault · ss The Tryout Nov \u201925; Weird Tales Apr \u201932 <br />19 · Pickman\u2019s Model · ss Weird Tales Oct \u201927 <br />33 · The Rats in the Walls · ss Weird Tales Mar \u201924 <br />53 · The Outsider · ss Weird Tales Apr \u201926 <br />60 · The Colour Out of Space · nv Amazing Sep \u201927 <br />89 · The Music of Erich Zann · ss The National Amateur Mar \u201922; Weird Tales Nov \u201934 <br />98 · The Haunter of the Dark · nv Weird Tales Dec \u201936 <br />121 · The Picture in the House · ss The National Amateur Jul \u201919; Weird Tales Mar \u201937 <br />130 · The Call of Cthulhu [Inspector Legrasse] · nv Weird Tales Feb \u201928 <br />160 · The Dunwich Horror · nv Weird Tales Apr \u201929 <br />203 · Cool Air · ss Tales of Magic and Mystery Mar \u201928; Weird Tales Jul \u201927 <br />212 · The Whisperer in Darkness · na Weird Tales Aug \u201931 <br />278 · The Terrible Old Man · vi The Tryout Jul \u201920; Weird Tales Aug \u201926 <br />281 · The Thing on the Door-step · nv Weird Tales Jan \u201937 <br />308 · The Shadow Over Innsmouth · na Visionary Press: Everett, PA, 1936; Weird Tales Jan \u201942 <br />370 · The Shadow Out of Time · na Astounding Jun \u201936
+VContents:<br /><br />ix ï¿½ H.P. Lovecraft and His Work ï¿½ August Derleth ï¿½ in <br />10 ï¿½ In the Vault ï¿½ ss The Tryout Nov \u201925; Weird Tales Apr \u201932 <br />19 ï¿½ Pickman\u2019s Model ï¿½ ss Weird Tales Oct \u201927 <br />33 ï¿½ The Rats in the Walls ï¿½ ss Weird Tales Mar \u201924 <br />53 ï¿½ The Outsider ï¿½ ss Weird Tales Apr \u201926 <br />60 ï¿½ The Colour Out of Space ï¿½ nv Amazing Sep \u201927 <br />89 ï¿½ The Music of Erich Zann ï¿½ ss The National Amateur Mar \u201922; Weird Tales Nov \u201934 <br />98 ï¿½ The Haunter of the Dark ï¿½ nv Weird Tales Dec \u201936 <br />121 ï¿½ The Picture in the House ï¿½ ss The National Amateur Jul \u201919; Weird Tales Mar \u201937 <br />130 ï¿½ The Call of Cthulhu [Inspector Legrasse] ï¿½ nv Weird Tales Feb \u201928 <br />160 ï¿½ The Dunwich Horror ï¿½ nv Weird Tales Apr \u201929 <br />203 ï¿½ Cool Air ï¿½ ss Tales of Magic and Mystery Mar \u201928; Weird Tales Jul \u201927 <br />212 ï¿½ The Whisperer in Darkness ï¿½ na Weird Tales Aug \u201931 <br />278 ï¿½ The Terrible Old Man ï¿½ vi The Tryout Jul \u201920; Weird Tales Aug \u201926 <br />281 ï¿½ The Thing on the Door-step ï¿½ nv Weird Tales Jan \u201937 <br />308 ï¿½ The Shadow Over Innsmouth ï¿½ na Visionary Press: Everett, PA, 1936; Weird Tales Jan \u201942 <br />370 ï¿½ The Shadow Out of Time ï¿½ na Astounding Jun \u201936
 p65
 sS'format'
 p66
@@ -366,7 +366,7 @@ aVto-read-d
 p177
 aVmi-infancia
 p178
-aVläst-2017-05
+aVlï¿½st-2017-05
 p179
 aVhorror-tmhf-top-reads
 p180

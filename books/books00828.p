@@ -184,7 +184,7 @@ VThe Recruit (novel)
 p86
 sS'summary'
 p87
-VThe Recruit is the first novel in the CHERUB series, written by Robert Muchamore. It introduces most of the main characters, such as James Adams (né Choke), Lauren Adams (née Onions), Kyle Blueman, and Kerry Chang. It was released in the United Kingdom by Hodder Children's Books on 30 April 2004, and by Simon Pulse in the United States on 30 August 2005.\u000a\u000a
+VThe Recruit is the first novel in the CHERUB series, written by Robert Muchamore. It introduces most of the main characters, such as James Adams (nï¿½ Choke), Lauren Adams (nï¿½e Onions), Kyle Blueman, and Kerry Chang. It was released in the United Kingdom by Hodder Children's Books on 30 April 2004, and by Simon Pulse in the United States on 30 August 2005.\u000a\u000a
 p88
 sS'content_cleaned'
 p89

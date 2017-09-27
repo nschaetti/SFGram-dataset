@@ -144,7 +144,7 @@ VWandering Star (novel)
 p66
 sS'summary'
 p67
-VWandering Star (original title: Étoile errante) is a novel by French Nobel laureate writer J. M. G. Le Clézio. The novel tells the story of two teenage girls on the threshold and in the aftermath of World War II. Esther, a French Jew who flees for Jerusalem with her mother just after Italy's occupation of a small section of south-east France ended during World War II; and Nejma, a young Arab orphaned and unable to return to the ancient city of her birth, Akka, after the Israeli declaration of statehood. Esther emigrates to the newborn state of Israel, where she encounters another group of refugees, this time Palestinian.
+VWandering Star (original title: ï¿½toile errante) is a novel by French Nobel laureate writer J. M. G. Le Clï¿½zio. The novel tells the story of two teenage girls on the threshold and in the aftermath of World War II. Esther, a French Jew who flees for Jerusalem with her mother just after Italy's occupation of a small section of south-east France ended during World War II; and Nejma, a young Arab orphaned and unable to return to the ancient city of her birth, Akka, after the Israeli declaration of statehood. Esther emigrates to the newborn state of Israel, where she encounters another group of refugees, this time Palestinian.
 p68
 sS'content_cleaned'
 p69

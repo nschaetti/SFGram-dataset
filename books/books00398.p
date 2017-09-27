@@ -863,7 +863,7 @@ VPublic domain in the USA.
 p431
 sS'title'
 p432
-VLa Vie Électrique
+VLa Vie ï¿½lectrique
 p433
 sS'wikipedia'
 p434
@@ -901,7 +901,7 @@ p447
 (lp448
 sS'description'
 p449
-VLe monde moderne est né de l'électricité. Un monde tour à tour émerveillé, conquis ou inquiet devant la multiplicité des usages de la « fée électricité ».<br />Dans La fée et la servante (1991), ouvrage fondateur, Alain Beltran et Patrice Carré exploraient l'impact social et culturel de la « révolution électrique » sur les mentalités. Vingt-cinq ans plus tard, le paysage des technologies liées à l'électricité \u2013 tout spécialement à l'énergie \u2013 a changé de façon spectaculaire. Le XXIe siècle a mis à mal l'image du progrès à tout prix. Plus que jamais la science est questionnée. Catastrophe nucléaire, dégradation du milieu naturel, nécessité d'économies d'énergie ont mis la société face à de nouveaux défis.<br />Ce sont ces interrogations et ces imaginaires nouveaux qu'analysent ici les auteurs, dans une vision de l'histoire immédiate qui s'irrigue aux plus récents apports des sciences humaines. Ce livre n'est pas seulement un parcours historique de plus de trois siècles, richement documenté, c'est
+VLe monde moderne est nï¿½ de l'ï¿½lectricitï¿½. Un monde tour ï¿½ tour ï¿½merveillï¿½, conquis ou inquiet devant la multiplicitï¿½ des usages de la ï¿½ fï¿½e ï¿½lectricitï¿½ ï¿½.<br />Dans La fï¿½e et la servante (1991), ouvrage fondateur, Alain Beltran et Patrice Carrï¿½ exploraient l'impact social et culturel de la ï¿½ rï¿½volution ï¿½lectrique ï¿½ sur les mentalitï¿½s. Vingt-cinq ans plus tard, le paysage des technologies liï¿½es ï¿½ l'ï¿½lectricitï¿½ \u2013 tout spï¿½cialement ï¿½ l'ï¿½nergie \u2013 a changï¿½ de faï¿½on spectaculaire. Le XXIe siï¿½cle a mis ï¿½ mal l'image du progrï¿½s ï¿½ tout prix. Plus que jamais la science est questionnï¿½e. Catastrophe nuclï¿½aire, dï¿½gradation du milieu naturel, nï¿½cessitï¿½ d'ï¿½conomies d'ï¿½nergie ont mis la sociï¿½tï¿½ face ï¿½ de nouveaux dï¿½fis.<br />Ce sont ces interrogations et ces imaginaires nouveaux qu'analysent ici les auteurs, dans une vision de l'histoire immï¿½diate qui s'irrigue aux plus rï¿½cents apports des sciences humaines. Ce livre n'est pas seulement un parcours historique de plus de trois siï¿½cles, richement documentï¿½, c'est
 p450
 sS'format'
 p451

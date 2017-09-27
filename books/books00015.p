@@ -102,7 +102,7 @@ p46
 (lp47
 VThe Man Whom the Trees Loved
 p48
-aVNachtstücke
+aVNachtstï¿½cke
 p49
 aVThe Spider
 p50

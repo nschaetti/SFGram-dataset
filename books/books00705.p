@@ -46,7 +46,7 @@ VText
 p22
 sS'plot'
 p23
-VThree generations of the Leonides family live together under wealthy patriarch Aristide. His first wife died; her sister Edith has cared for the household since then. His second wife is the indolent Brenda, decades his junior, suspected of having a clandestine love affair with the grandchildren's tutor. After Aristide is poisoned by his own eye medicine (eserine), his granddaughter Sophia tells narrator and fiancé Charles Hayward that they cannot marry until the killer is apprehended. Charles' father, "The Old Man", is the Assistant Commissioner of Scotland Yard, so Charles investigates from the inside along with assigned detective, Chief Inspector Taverner.
+VThree generations of the Leonides family live together under wealthy patriarch Aristide. His first wife died; her sister Edith has cared for the household since then. His second wife is the indolent Brenda, decades his junior, suspected of having a clandestine love affair with the grandchildren's tutor. After Aristide is poisoned by his own eye medicine (eserine), his granddaughter Sophia tells narrator and fiancï¿½ Charles Hayward that they cannot marry until the killer is apprehended. Charles' father, "The Old Man", is the Assistant Commissioner of Scotland Yard, so Charles investigates from the inside along with assigned detective, Chief Inspector Taverner.
 p24
 sS'genres'
 p25

@@ -111,7 +111,7 @@ aVAelita
 p53
 aVThe Little Black Hen
 p54
-aVNo\u010dní klub II
+aVNo\u010dnï¿½ klub II
 p55
 aVHighway of Eternity
 p56
@@ -247,7 +247,7 @@ aV\u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0435\u043d-\u0432\u0430\u044
 p119
 aV\u0414\u0435\u0442\u0441\u043a\u0438
 p120
-aVp\u0159edhádky
+aVp\u0159edhï¿½dky
 p121
 aVcartile-copilariei
 p122

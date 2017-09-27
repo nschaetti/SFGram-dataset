@@ -112,7 +112,7 @@ aVThe Vicar of Tours
 p52
 aVBeasts of New York
 p53
-aVEmpédocles
+aVEmpï¿½docles
 p54
 aVDevil's Eye (Mirus, #1.2)
 p55

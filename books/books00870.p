@@ -208,7 +208,7 @@ aVschool-books
 p100
 aVpoetry
 p101
-aVclàssics
+aVclï¿½ssics
 p102
 aVtheatre
 p103

@@ -23,7 +23,7 @@ p10
 I1954
 sS'author_name'
 p11
-VPhilip José Farmer
+VPhilip Josï¿½ Farmer
 p12
 sS'images_urls'
 p13

@@ -190,7 +190,7 @@ aVto-read-science-fiction
 p90
 aVon-calibre-to-read
 p91
-aVcolecção-argonauta
+aVcolecï¿½ï¿½o-argonauta
 p92
 aVgalciv
 p93
@@ -200,7 +200,7 @@ aVspare-room
 p95
 aVto-read-sf
 p96
-aVbibliothèque-drelich
+aVbibliothï¿½que-drelich
 p97
 aVlolo
 p98

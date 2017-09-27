@@ -175,7 +175,7 @@ VThe Planet Savers
 p82
 sS'summary'
 p83
-VThe Planet Savers is a science fantasy novel by American writer Marion Zimmer Bradley, part of her Darkover series. It was first published in book form in English by Ace Books in 1962, dos-à-dos with Bradley's novel The Sword of Aldones. The story first appeared in the November 1958 issue of the magazine Amazing Stories. It subsequently appeared in a German translation in 1960 with additional chapters added that were not by the author.\u000aThe Planet Savers takes place at least 152 years after the events described in Rediscovery.\u000a\u000a
+VThe Planet Savers is a science fantasy novel by American writer Marion Zimmer Bradley, part of her Darkover series. It was first published in book form in English by Ace Books in 1962, dos-ï¿½-dos with Bradley's novel The Sword of Aldones. The story first appeared in the November 1958 issue of the magazine Amazing Stories. It subsequently appeared in a German translation in 1960 with additional chapters added that were not by the author.\u000aThe Planet Savers takes place at least 152 years after the events described in Rediscovery.\u000a\u000a
 p84
 sS'content_cleaned'
 p85
@@ -345,7 +345,7 @@ aVfour-star-books
 p167
 aVown-audiobook
 p168
-aVmiquel-barceló-guía-de-ciencia-fi
+aVmiquel-barcelï¿½-guï¿½a-de-ciencia-fi
 p169
 aVtbr
 p170
@@ -353,7 +353,7 @@ aVin-audible
 p171
 aV2016-books-read
 p172
-aVcoleção
+aVcoleï¿½ï¿½o
 p173
 aV1899-inn-library
 p174

@@ -261,7 +261,7 @@ aVdidn-t-see-that-coming
 p126
 aVconfusing-at-times
 p127
-aVquero-ler-já-lançados
+aVquero-ler-jï¿½-lanï¿½ados
 p128
 aVpsychological
 p129

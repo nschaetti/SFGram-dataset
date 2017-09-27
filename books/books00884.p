@@ -255,7 +255,7 @@ aVclassic
 p123
 aVbritish
 p124
-aVbibliothèque
+aVbibliothï¿½que
 p125
 aVhave
 p126

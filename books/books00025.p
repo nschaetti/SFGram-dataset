@@ -331,7 +331,7 @@ aVdick-philip
 p160
 aVsocial-commentary
 p161
-aVÖvrigt
+aVï¿½vrigt
 p162
 aVlook-fo
 p163

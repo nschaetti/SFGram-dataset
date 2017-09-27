@@ -95,7 +95,7 @@ aVThe Reawakening
 p45
 aVCacao
 p46
-aVSi te dicen que caí
+aVSi te dicen que caï¿½
 p47
 aVThe Human Race
 p48
@@ -103,7 +103,7 @@ aVBlue Boy
 p49
 aVThe Sadness of the Samurai
 p50
-aVAnna Édes
+aVAnna ï¿½des
 p51
 aVEl arpa y la sombra
 p52
@@ -119,7 +119,7 @@ aVFacing The Extreme: Moral Life in the Concentration Camps
 p57
 asS'description'
 p58
-V<i>The Long Voyage</i> is Jorge Semprún\u2019s devastatingly honest and heartbreaking account of a young Spaniard captured fighting with the French Resistance, and the days and nights he spends in the company of 119 other men, in a cattle truck that rolls slowly but inexorably towards Buchenwald. During the seemingly endless journey, he has conversations that range from his childhood to speculations about the death camps. When at last the fantastic, Wagnerian gates to Buchenwald come into sight, the young Spaniard is left alone to face the camp.<br />
+V<i>The Long Voyage</i> is Jorge Semprï¿½n\u2019s devastatingly honest and heartbreaking account of a young Spaniard captured fighting with the French Resistance, and the days and nights he spends in the company of 119 other men, in a cattle truck that rolls slowly but inexorably towards Buchenwald. During the seemingly endless journey, he has conversations that range from his childhood to speculations about the death camps. When at last the fantastic, Wagnerian gates to Buchenwald come into sight, the young Spaniard is left alone to face the camp.<br />
 p59
 sS'format'
 p60
@@ -249,7 +249,7 @@ aVsg
 p120
 aVhome
 p121
-aVjorge-semprún
+aVjorge-semprï¿½n
 p122
 aVespanol
 p123
@@ -261,7 +261,7 @@ aVtranslations
 p126
 aVto-read-pre-1970
 p127
-aVfrancófonos
+aVfrancï¿½fonos
 p128
 aVbeta
 p129
@@ -311,7 +311,7 @@ aVeuropean-history
 p151
 aVhispanic-caribbean
 p152
-aVsalón-b
+aVsalï¿½n-b
 p153
 aVww2-holocaust
 p154
@@ -341,7 +341,7 @@ aVto-read-2
 p166
 aVstudium
 p167
-aVpriorität
+aVprioritï¿½t
 p168
 aVteahouse-library
 p169

@@ -132,7 +132,7 @@ aVGulliver's Travels
 p62
 asS'description'
 p63
-V<b>\u201cI\u2019ve had a most amazing time....\u201d</b><br /><br />So begins the Time Traveller\u2019s astonishing firsthand account of his journey 800,000 years beyond his own era\u2014and the story that launched H.G. Wells\u2019s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes...and our darkest fears. A pull of the Time Machine\u2019s lever propels him to the age of a slowly dying Earth.  There he discovers two bizarre races\u2014the ethereal Eloi and the subterranean Morlocks\u2014who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well.  Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Wells\u2019s expert storytelling and provocative insight, <b>The Time Machine</b> will continue to enthrall readers for generations to come.<br /><br />
+V<b>\u201cI\u2019ve had a most amazing time....\u201d</b><br /><br />So begins the Time Traveller\u2019s astonishing firsthand account of his journey 800,000 years beyond his own era\u2014and the story that launched H.G. Wells\u2019s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes...and our darkest fears. A pull of the Time Machine\u2019s lever propels him to the age of a slowly dying Earth.ï¿½ There he discovers two bizarre races\u2014the ethereal Eloi and the subterranean Morlocks\u2014who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well.ï¿½ Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Wells\u2019s expert storytelling and provocative insight, <b>The Time Machine</b> will continue to enthrall readers for generations to come.<br /><br />
 p64
 sS'format'
 p65
@@ -356,7 +356,7 @@ aVhorror
 p172
 aVyoung-adult
 p173
-aVciencia-ficción
+aVciencia-ficciï¿½n
 p174
 aVread-in-2017
 p175

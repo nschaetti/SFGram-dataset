@@ -118,9 +118,9 @@ aVAylak Adam
 p55
 aV\u0634\u0627\u0632\u062f\u0647 \u0627\u062d\u062a\u062c\u0627\u0628
 p56
-aVO Primo Basílio
+aVO Primo Basï¿½lio
 p57
-aVLa vida es sueño
+aVLa vida es sueï¿½o
 p58
 aVCronopios and Famas
 p59
@@ -136,7 +136,7 @@ aVDeath in Venice
 p64
 aVSeek: Reports from the Edges of America and Beyond
 p65
-aVÇocuklu\u011fun So\u011fuk Geceleri
+aVï¿½ocuklu\u011fun So\u011fuk Geceleri
 p66
 aVMr Palomar
 p67
@@ -328,7 +328,7 @@ aVmy-books
 p158
 aVclassic-lit
 p159
-aVclàssics
+aVclï¿½ssics
 p160
 aVgeneral-fiction
 p161
@@ -364,7 +364,7 @@ aVgilmore-girls
 p176
 aVread-in-2017
 p177
-aVclásicos
+aVclï¿½sicos
 p178
 aVto-read-classics
 p179

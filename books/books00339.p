@@ -94,7 +94,7 @@ I1955
 ssS'similar_books'
 p43
 (lp44
-VA Muralha de Gelo (As Crónicas de Gelo e Fogo #2)
+VA Muralha de Gelo (As Crï¿½nicas de Gelo e Fogo #2)
 p45
 aVThe Seeress of Kell (The Malloreon, #5)
 p46
@@ -357,7 +357,7 @@ aVfantasy-and-sci-fi
 p172
 aVsf-fantasy
 p173
-aVfantasía
+aVfantasï¿½a
 p174
 aVread-in-2015
 p175

@@ -102,7 +102,7 @@ aVHalo
 p47
 aVCrystal Nights and Other Stories
 p48
-aVCriptonomicón III: El código Aretusa
+aVCriptonomicï¿½n III: El cï¿½digo Aretusa
 p49
 aVFacets
 p50

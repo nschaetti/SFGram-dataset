@@ -130,7 +130,7 @@ aVLight in August
 p61
 aVVurt (Vurt #1)
 p62
-aVSchrödinger's Cat Trilogy
+aVSchrï¿½dinger's Cat Trilogy
 p63
 asS'description'
 p64
@@ -208,7 +208,7 @@ aVclassic
 p98
 aVowned
 p99
-aVclàssics
+aVclï¿½ssics
 p100
 aVliterature
 p101

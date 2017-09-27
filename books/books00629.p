@@ -311,7 +311,7 @@ aVscifi
 p152
 aVto-read-soon
 p153
-aVbibliografía
+aVbibliografï¿½a
 p154
 aVsci-fi-fantasy-horror
 p155
@@ -383,7 +383,7 @@ aVdistopia
 p188
 aVscience-fantasy
 p189
-aVchina-miéville-recommendations
+aVchina-miï¿½ville-recommendations
 p190
 aVto-read-don-t-own
 p191

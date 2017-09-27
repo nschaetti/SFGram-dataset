@@ -240,7 +240,7 @@ aVread-in-2016
 p114
 aVread-in-2015
 p115
-aVséries
+aVsï¿½ries
 p116
 aVwish-list
 p117
@@ -344,7 +344,7 @@ aVfantasy-series
 p166
 aVfantasia
 p167
-aVfantasía
+aVfantasï¿½a
 p168
 aVfavorite-series
 p169

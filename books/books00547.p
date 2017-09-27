@@ -168,7 +168,7 @@ aVebook
 p78
 aVwish-list
 p79
-aValmacén
+aValmacï¿½n
 p80
 aVbooks-i-don-t-own
 p81
@@ -220,7 +220,7 @@ aVbooks-owned
 p104
 aVislam
 p105
-aVnovela-histórica
+aVnovela-histï¿½rica
 p106
 aVhistorical-novel
 p107

@@ -44,7 +44,7 @@ VText
 p21
 sS'plot'
 p22
-VThe story opens some time after the end of the American Civil War. The Gun Club, a society based in Baltimore and dedicated to the design of weapons of all kinds (especially cannons), comes together when Impey Barbicane, its president, calls them to support his latest idea. He's done some calculations, and believes that they could construct a cannon capable of shooting a projectile to the moon. After receiving the support of his companions, another meeting is held to decide the place from which the projectile will be fired, the dimensions and materials of both the cannon and the projectile, and which kind of powder they are to use.\u000aAn old enemy of Barbicane, a Captain Nicholl of Philadelphia, designer of plate armor, declares that the enterprise is absurd and makes a series of bets with Barbicane, each of them of increasing amount, over the impossibility of such feat.\u000aThe first obstacle, the money to construct the cannon (and against which Nicholl has bet 1,000 dollars), is raised from a number of countries in America and Europe. Notably, the US gives four million dollars, while England does not give a farthing, but in the end, nearly five and a half million dollars are raised, which ensures the financial feasibility of the project.\u000aStone's Hill in "Tampa Town", Florida is chosen as the site for the cannon's construction, predating Kennedy Space Center's placement in Florida by almost 100 years. Verne gives the exact position as 27°7' northern latitude and 5°7' western longitude (of course relative to the meridian of Washington that is 27°7\u20320\u2033N 82°9\u20320\u2033W). The Gun Club travels there and starts the construction of the Columbiad cannon, which requires the excavation of a 900-foot-deep (270 m) and 60-foot-wide (18 m) circular hole, which is made in the nick of time, but a surprise awaits Barbicane: Michel Ardan, a French adventurer, plans to travel aboard the projectile.\u000aDuring a meeting between Ardan, the Gun Club, and the inhabitants of Florida, Nicholl appears and challenges Barbicane to a duel. The duel is stopped when Ardan\u2014having been warned by J. T. Maston, secretary of the Gun Club\u2014meets the rivals in the forest where they have agreed to duel. Meanwhile, Barbicane finds the solution to the problem of surviving the incredible acceleration that the explosion would cause. Ardan suggests that Barbicane and Nicholl travel with him in the projectile, and the offer is accepted.\u000aIn the end, the projectile is successfully launched, but the destinies of the three astronauts are left inconclusive. The sequel, Around the Moon, deals with what happens to the three men in their travel from the earth to the moon.
+VThe story opens some time after the end of the American Civil War. The Gun Club, a society based in Baltimore and dedicated to the design of weapons of all kinds (especially cannons), comes together when Impey Barbicane, its president, calls them to support his latest idea. He's done some calculations, and believes that they could construct a cannon capable of shooting a projectile to the moon. After receiving the support of his companions, another meeting is held to decide the place from which the projectile will be fired, the dimensions and materials of both the cannon and the projectile, and which kind of powder they are to use.\u000aAn old enemy of Barbicane, a Captain Nicholl of Philadelphia, designer of plate armor, declares that the enterprise is absurd and makes a series of bets with Barbicane, each of them of increasing amount, over the impossibility of such feat.\u000aThe first obstacle, the money to construct the cannon (and against which Nicholl has bet 1,000 dollars), is raised from a number of countries in America and Europe. Notably, the US gives four million dollars, while England does not give a farthing, but in the end, nearly five and a half million dollars are raised, which ensures the financial feasibility of the project.\u000aStone's Hill in "Tampa Town", Florida is chosen as the site for the cannon's construction, predating Kennedy Space Center's placement in Florida by almost 100 years. Verne gives the exact position as 27ï¿½7' northern latitude and 5ï¿½7' western longitude (of course relative to the meridian of Washington that is 27ï¿½7\u20320\u2033N 82ï¿½9\u20320\u2033W). The Gun Club travels there and starts the construction of the Columbiad cannon, which requires the excavation of a 900-foot-deep (270 m) and 60-foot-wide (18 m) circular hole, which is made in the nick of time, but a surprise awaits Barbicane: Michel Ardan, a French adventurer, plans to travel aboard the projectile.\u000aDuring a meeting between Ardan, the Gun Club, and the inhabitants of Florida, Nicholl appears and challenges Barbicane to a duel. The duel is stopped when Ardan\u2014having been warned by J. T. Maston, secretary of the Gun Club\u2014meets the rivals in the forest where they have agreed to duel. Meanwhile, Barbicane finds the solution to the problem of surviving the incredible acceleration that the explosion would cause. Ardan suggests that Barbicane and Nicholl travel with him in the projectile, and the offer is accepted.\u000aIn the end, the projectile is successfully launched, but the destinies of the three astronauts are left inconclusive. The sequel, Around the Moon, deals with what happens to the three men in their travel from the earth to the moon.
 p23
 sS'genres'
 p24
@@ -55,7 +55,7 @@ VPublic domain in the USA.
 p27
 sS'title'
 p28
-VDe la Terre à la Lune
+VDe la Terre ï¿½ la Lune
 p29
 sS'wikipedia'
 p30
@@ -140,7 +140,7 @@ VFrom the Earth to the Moon
 p64
 sS'summary'
 p65
-VFrom the Earth to the Moon (French: De la terre à la lune) is an 1865 novel by Jules Verne. It tells the story of the Baltimore Gun Club, a post-American Civil War society of weapons enthusiasts, and their attempts to build an enormous Columbiad space gun and launch three people\u2014the Gun Club's president, his Philadelphian armor-making rival, and a French poet\u2014in a projectile with the goal of a moon landing.\u000aThe story is also notable in that Verne attempted to do some rough calculations as to the requirements for the cannon and, considering the comparative lack of any data on the subject at the time, some of his figures are surprisingly close to reality. However, his scenario turned out to be impractical for safe manned space travel since a much longer muzzle would have been required to reach escape velocity while limiting acceleration to survivable limits for the passengers.\u000aThe character of Michel Ardan, the French member of the party in the novel, was inspired by the real-life photographer Félix Nadar.
+VFrom the Earth to the Moon (French: De la terre ï¿½ la lune) is an 1865 novel by Jules Verne. It tells the story of the Baltimore Gun Club, a post-American Civil War society of weapons enthusiasts, and their attempts to build an enormous Columbiad space gun and launch three people\u2014the Gun Club's president, his Philadelphian armor-making rival, and a French poet\u2014in a projectile with the goal of a moon landing.\u000aThe story is also notable in that Verne attempted to do some rough calculations as to the requirements for the cannon and, considering the comparative lack of any data on the subject at the time, some of his figures are surprisingly close to reality. However, his scenario turned out to be impractical for safe manned space travel since a much longer muzzle would have been required to reach escape velocity while limiting acceleration to survivable limits for the passengers.\u000aThe character of Michel Ardan, the French member of the party in the novel, was inspired by the real-life photographer Fï¿½lix Nadar.
 p66
 sS'content_cleaned'
 p67
@@ -162,11 +162,11 @@ aVin-my-library
 p75
 aVcurrently-reading
 p76
-aV1-littérature-fantaisie-fantastique
+aV1-littï¿½rature-fantaisie-fantastique
 p77
 aVbooks-i-own
 p78
-aV1-littérature-française
+aV1-littï¿½rature-franï¿½aise
 p79
 asS'loc_class'
 p80

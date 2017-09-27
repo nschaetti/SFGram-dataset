@@ -161,7 +161,7 @@ aVromance
 p76
 aVcomics
 p77
-aVmangá
+aVmangï¿½
 p78
 aVyoung-adult
 p79

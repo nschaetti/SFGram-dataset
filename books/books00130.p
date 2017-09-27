@@ -272,9 +272,9 @@ aVi-liked-it
 p130
 aVgenre-fantasy
 p131
-aVciencia-ficción
+aVciencia-ficciï¿½n
 p132
-aVbiblio-pública
+aVbiblio-pï¿½blica
 p133
 aVthe-pulps
 p134

@@ -96,11 +96,11 @@ VWomen and Writing
 p44
 aVAphrodite's Daughters: Women's Sexual Stories and the Journey of the Soul
 p45
-aVAnaïs Nin: A Biography
+aVAnaï¿½s Nin: A Biography
 p46
 aVMad in Pursuit
 p47
-aVAnaïs: The Erotic Life of Anaïs Nin
+aVAnaï¿½s: The Erotic Life of Anaï¿½s Nin
 p48
 aVSade My Neighbor
 p49
@@ -112,11 +112,11 @@ aVI'm the One That I Want
 p52
 aVThe Collected Prose
 p53
-aVSelected Crônicas
+aVSelected Crï¿½nicas
 p54
 aVOut of the Blue
 p55
-aVLetters to Anaïs Nin
+aVLetters to Anaï¿½s Nin
 p56
 aVManhood: A Journey from Childhood into the Fierce Order of Virility
 p57
@@ -242,7 +242,7 @@ aVvive-la-france
 p115
 aVnext-to-read
 p116
-aVpróximos
+aVprï¿½ximos
 p117
 aVmy-favourites
 p118
@@ -346,7 +346,7 @@ aVpurchased-but-unread
 p167
 aVliterary-value
 p168
-aVlivres-français-et-belges
+aVlivres-franï¿½ais-et-belges
 p169
 aVread-2016
 p170

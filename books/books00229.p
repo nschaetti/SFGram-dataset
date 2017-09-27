@@ -93,7 +93,7 @@ aVOur Word is Our Weapon: Selected Writings
 p44
 aVBorn in Blood and Fire: A Concise History of Latin America
 p45
-aVEl lugar sin límites
+aVEl lugar sin lï¿½mites
 p46
 aVThe Penguin History of Latin America
 p47
@@ -103,13 +103,13 @@ aVThe Making of New World Slavery: From the Baroque to the Modern 1492-1800
 p49
 aVThe Conquest of New Spain
 p50
-aVMéxico Profundo: Reclaiming a Civilization
+aVMï¿½xico Profundo: Reclaiming a Civilization
 p51
 aVMen of Maize
 p52
 aVLong Life, Honey in the Heart
 p53
-aVPalinuro de México
+aVPalinuro de Mï¿½xico
 p54
 aVThe Broken Spears: The Aztec Account of the Conquest of Mexico
 p55

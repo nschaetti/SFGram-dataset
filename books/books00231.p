@@ -98,7 +98,7 @@ aVFamily Skeletons (Torie O'Shea, #1)
 p45
 aVThe Magic Bullet
 p46
-aVMörder ohne Gnade
+aVMï¿½rder ohne Gnade
 p47
 aVDark Places (Claire Morgan #2)
 p48

@@ -115,7 +115,7 @@ aVNo Name
 p55
 aVLord Jim
 p56
-aVEugénie Grandet
+aVEugï¿½nie Grandet
 p57
 aVThe Ragged Trousered Philanthropists
 p58
@@ -321,7 +321,7 @@ aVto-re-read
 p156
 aVrequired-reading
 p157
-aVclàssics
+aVclï¿½ssics
 p158
 aVaudible
 p159

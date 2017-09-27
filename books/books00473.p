@@ -294,7 +294,7 @@ aVowned-and-to-read
 p143
 aV2017-books
 p144
-aVbøker-jeg-eier
+aVbï¿½ker-jeg-eier
 p145
 aVoutpost
 p146

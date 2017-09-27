@@ -121,7 +121,7 @@ aVA Matter Among Four
 p58
 asS'description'
 p59
-VErotic Futuristic Sci-Fi Ménage a Trois Romance, M/F/M]<br /><br />On the planet Alpha, Andrew and Danny decide to take matters into their own hands and kidnap their bride instead of waiting around for her to choose them, as was the original plan. Now they have Rachel at home with them and need to convince her to stay. Will Rachel fall in love with them and agree to be their bride?<br /><br />Rachel falls in love with the two men but isn\u2019t sure they are as happy with her since they haven\u2019t taken her back for the ceremony. She is afraid that if she doesn\u2019t get pregnant they won\u2019t want her. Rachel is attacked by a strange creature, leaving her with a strange scar. The men realize when they almost lose her that they need to let her know how they feel. Does Rachel feel the same way? Will the men figure out what will make Rachel theirs forever?<br /><br />A Siren Erotic Romance
+VErotic Futuristic Sci-Fi Mï¿½nage a Trois Romance, M/F/M]<br /><br />On the planet Alpha, Andrew and Danny decide to take matters into their own hands and kidnap their bride instead of waiting around for her to choose them, as was the original plan. Now they have Rachel at home with them and need to convince her to stay. Will Rachel fall in love with them and agree to be their bride?<br /><br />Rachel falls in love with the two men but isn\u2019t sure they are as happy with her since they haven\u2019t taken her back for the ceremony. She is afraid that if she doesn\u2019t get pregnant they won\u2019t want her. Rachel is attacked by a strange creature, leaving her with a strange scar. The men realize when they almost lose her that they need to let her know how they feel. Does Rachel feel the same way? Will the men figure out what will make Rachel theirs forever?<br /><br />A Siren Erotic Romance
 p60
 sS'format'
 p61
@@ -220,7 +220,7 @@ aVpermanent-menage
 p106
 aVpart-of-series
 p107
-aVménage-or-more
+aVmï¿½nage-or-more
 p108
 aVmy-library-m-r
 p109

@@ -93,7 +93,7 @@ VMansarda
 p44
 aVThe Sound of Our Steps
 p45
-aVFogság
+aVFogsï¿½g
 p46
 aVHusband and Wife
 p47
@@ -127,7 +127,7 @@ aVThe Way of Man
 p61
 asS'description'
 p62
-VThe place is Serbia, the time is the late 1990s. Our protagonist, a single man, writes a regular op-ed column for a Belgrade newspaper and spends the rest of his time with his best friend, smoking pot and talking about sex, politics, and life in general. One day on the shore of the Danube he spots a man slapping a beautiful woman. Intrigued, he follows the woman into the tangled streets of the city until he loses sight of her. A few days later he receives a mysterious manuscript whose contents seem to mutate each time he opens it. To decipher the manuscript\u2014a collection of fragments on the Kabbalah and the history of the Jews of Zemun and Belgrade\u2014he contacts an old schoolmate, now an eccentric mathematician, and a group of men from the Jewish community. <br /><br />As the narrator delves deeper into arcane topics, he begins to see signs of anti-Semitism, past and present, throughout the city and he feels impelled to denounce it. But his increasingly passionate columns erupt in a scandal culminating in murder. Following in the footsteps of <i>Foucault\u2019s Pendulum</i>, <i>Leeches</i> is a cerebral adventure into the underground worlds of secret societies and conspiracy theories.
+VThe place is Serbia, the time is the late 1990s. Our protagonist, a single man, writes a regular op-ed column for a Belgrade newspaper and spends the rest of his time with his best friend, smoking pot and talking about sex, politics, and life in general. One day on the shore of the Danube he spots a man slapping a beautiful woman. Intrigued, he follows the woman into the tangled streets of the city until he loses sight of her. A few days later he receives a mysterious manuscript whose contents seem to mutate each time he opens it. To decipher the manuscript\u2014a collection of fragments on the Kabbalah and the history of the Jews of Zemun and Belgrade\u2014he contacts an old schoolmate, now an eccentric mathematician, and a group of men from the Jewish community.ï¿½<br /><br />As the narrator delves deeper into arcane topics, he begins to see signs of anti-Semitism, past and present, throughout the city and he feels impelled to denounce it. But his increasingly passionate columns erupt in a scandal culminating in murder. Following in the footsteps of <i>Foucault\u2019s Pendulum</i>, <i>Leeches</i> is a cerebral adventure into the underground worlds of secret societies and conspiracy theories.
 p63
 sS'format'
 p64
@@ -249,7 +249,7 @@ aV2010s
 p120
 aVserbocroat-lit
 p121
-aVlieblingsbücher
+aVlieblingsbï¿½cher
 p122
 aVslavic-yugoslav
 p123

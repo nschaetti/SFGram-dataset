@@ -139,7 +139,7 @@ aVto-read
 p65
 aVshort-stories
 p66
-aVnouvelles-numériques-lues
+aVnouvelles-numï¿½riques-lues
 p67
 aVlus-sur-ma-liseuse
 p68

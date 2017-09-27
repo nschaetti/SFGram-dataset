@@ -160,7 +160,7 @@ VComing Attraction
 p74
 sS'summary'
 p75
-V"Coming Attraction" is a science fiction short story by American writer Fritz Leiber, originally published in the second issue (November 1950) of Galaxy Science Fiction with illustrations by Paul Callé. The story was nominated for a Retro Hugo Award in 2001.
+V"Coming Attraction" is a science fiction short story by American writer Fritz Leiber, originally published in the second issue (November 1950) of Galaxy Science Fiction with illustrations by Paul Callï¿½. The story was nominated for a Retro Hugo Award in 2001.
 p76
 sS'content_cleaned'
 p77

@@ -238,7 +238,7 @@ aVowned
 p115
 aVpurchased
 p116
-aVØnskeliste
+aVï¿½nskeliste
 p117
 aVto-read-aqquired
 p118

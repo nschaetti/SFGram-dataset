@@ -318,7 +318,7 @@ aVpage-turner
 p153
 aVaudio-book
 p154
-aVportuguês
+aVportuguï¿½s
 p155
 aVmystery-thriller-suspense
 p156
@@ -360,7 +360,7 @@ aVwant-to-buy
 p174
 aVall-books
 p175
-aVjännitys
+aVjï¿½nnitys
 p176
 aV2016-read
 p177

@@ -369,7 +369,7 @@ aVinterested-in
 p179
 aVculture-studies
 p180
-aVthéorie
+aVthï¿½orie
 p181
 aVwant-to-read
 p182

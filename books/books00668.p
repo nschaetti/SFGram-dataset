@@ -214,7 +214,7 @@ aV1001-books
 p103
 aVbritish
 p104
-aVclàssics
+aVclï¿½ssics
 p105
 aVdefault
 p106

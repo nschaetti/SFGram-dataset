@@ -261,7 +261,7 @@ aVpages-301-500
 p126
 aV2013-tbr
 p127
-aVmåske
+aVmï¿½ske
 p128
 aVgoodreads-giveaway-books
 p129
@@ -365,7 +365,7 @@ aVread_a-long-time-ago
 p178
 aVa-tbr-04
 p179
-aVfríar-kindlebækur
+aVfrï¿½ar-kindlebï¿½kur
 p180
 aVmystery-us-northeast
 p181

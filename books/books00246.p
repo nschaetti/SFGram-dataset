@@ -218,7 +218,7 @@ aVanno-2017
 p103
 aVread-sci-fi-fantasy
 p104
-aVcolecção-argonauta
+aVcolecï¿½ï¿½o-argonauta
 p105
 aV20th-century-lit
 p106

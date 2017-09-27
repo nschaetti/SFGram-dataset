@@ -289,7 +289,7 @@ aVepub
 p140
 aVrecabar
 p141
-aVpost-apocalípticos
+aVpost-apocalï¿½pticos
 p142
 aVserie-azul
 p143
@@ -335,7 +335,7 @@ aVwish-drama
 p163
 aVdnf
 p164
-aVcol-cs-ficción-hyspamérica
+aVcol-cs-ficciï¿½n-hyspamï¿½rica
 p165
 aVpost-apocalyptic-books
 p166

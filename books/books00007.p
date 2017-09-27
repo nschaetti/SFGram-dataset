@@ -168,7 +168,7 @@ VTwenty Thousand Leagues Under the Sea
 p78
 sS'summary'
 p79
-VTwenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers: Tour du monde sous-marin, Twenty Thousand Leagues Under the Seas: A Tour of the Underwater World) is a classic science fiction novel by French writer Jules Verne published in 1870.\u000aThe novel was originally serialized from March 1869 through June 1870 in Pierre-Jules Hetzel's periodical, the Magasin d'Éducation et de Récréation. The deluxe illustrated edition, published by Hetzel in November 1871, included 111 illustrations by Alphonse de Neuville and Édouard Riou. The book was highly acclaimed when released and still is now; it is regarded as one of the premiere adventure novels and one of Verne's greatest works, along with Around the World in Eighty Days and Journey to the Center of the Earth. The description of Nemo's ship, called the Nautilus, was considered ahead of its time, as it accurately describes features on submarines, which at the time were very primitive vessels.
+VTwenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers: Tour du monde sous-marin, Twenty Thousand Leagues Under the Seas: A Tour of the Underwater World) is a classic science fiction novel by French writer Jules Verne published in 1870.\u000aThe novel was originally serialized from March 1869 through June 1870 in Pierre-Jules Hetzel's periodical, the Magasin d'ï¿½ducation et de Rï¿½crï¿½ation. The deluxe illustrated edition, published by Hetzel in November 1871, included 111 illustrations by Alphonse de Neuville and ï¿½douard Riou. The book was highly acclaimed when released and still is now; it is regarded as one of the premiere adventure novels and one of Verne's greatest works, along with Around the World in Eighty Days and Journey to the Center of the Earth. The description of Nemo's ship, called the Nautilus, was considered ahead of its time, as it accurately describes features on submarines, which at the time were very primitive vessels.
 p80
 sS'content_cleaned'
 p81
@@ -340,7 +340,7 @@ aVtranslated
 p164
 aVown-to-read
 p165
-aVfrançais
+aVfranï¿½ais
 p166
 aVenglish
 p167

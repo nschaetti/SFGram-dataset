@@ -345,7 +345,7 @@ aVweird-horror
 p168
 aVghosts
 p169
-aVskräck
+aVskrï¿½ck
 p170
 aVsff
 p171

@@ -103,7 +103,7 @@ aVIn the Shadow of Young Girls in Flower (In Search of Lost Time, #2)
 p49
 aVA Very Easy Death
 p50
-aVThérèse Desqueyroux
+aVThï¿½rï¿½se Desqueyroux
 p51
 aVFicciones
 p52
@@ -243,7 +243,7 @@ aVtranslated
 p117
 aVabandoned
 p118
-aVfrançais
+aVfranï¿½ais
 p119
 aVtranslation
 p120

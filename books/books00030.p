@@ -107,7 +107,7 @@ aVThe Lurking Fear
 p51
 aVDoctor Who: The Art of Death
 p52
-aVThe Fredric Brown MEGAPACK ®: 33 Classic Science Fiction Stories
+aVThe Fredric Brown MEGAPACK ï¿½: 33 Classic Science Fiction Stories
 p53
 aVThe Merchant Adventurer
 p54

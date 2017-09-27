@@ -184,7 +184,7 @@ VBrooklyn (novel)
 p86
 sS'summary'
 p87
-VBrooklyn is a 2009 novel by Irish author Colm Tóibín. It won the 2009 Costa Novel Award, was shortlisted for the 2011 International IMPAC Dublin Literary Award and was longlisted for the 2009 Man Booker Prize. In 2012, The Observer named it as one of "The 10 best historical novels".\u000a\u000a
+VBrooklyn is a 2009 novel by Irish author Colm Tï¿½ibï¿½n. It won the 2009 Costa Novel Award, was shortlisted for the 2011 International IMPAC Dublin Literary Award and was longlisted for the 2009 Man Booker Prize. In 2012, The Observer named it as one of "The 10 best historical novels".\u000a\u000a
 p88
 sS'content_cleaned'
 p89

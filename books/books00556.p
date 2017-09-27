@@ -248,7 +248,7 @@ aVbooks
 p118
 aVfictie
 p119
-aVmurtomäki
+aVmurtomï¿½ki
 p120
 aVengland-english
 p121
@@ -324,7 +324,7 @@ aVread-in-2016
 p156
 aVracism
 p157
-aVbücherschrank-göttingen
+aVbï¿½cherschrank-gï¿½ttingen
 p158
 aVfiction-english
 p159

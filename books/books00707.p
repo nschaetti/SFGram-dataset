@@ -116,7 +116,7 @@ aVKabu Kabu
 p54
 aVForgotten Suns
 p55
-aVGemsigns (®Evolution, #1)
+aVGemsigns (ï¿½Evolution, #1)
 p56
 aVThe Mad Scientist's Daughter
 p57
@@ -306,7 +306,7 @@ aVnovel
 p147
 aVunfinished
 p148
-aVciencia-ficción
+aVciencia-ficciï¿½n
 p149
 aVfantasy-and-sci-fi
 p150

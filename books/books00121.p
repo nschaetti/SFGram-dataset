@@ -23,7 +23,7 @@ p10
 I1957
 sS'author_name'
 p11
-VPhilip José Farmer
+VPhilip Josï¿½ Farmer
 p12
 sS'images_urls'
 p13
@@ -272,7 +272,7 @@ aVpriority-reads
 p132
 aVvintage-sf
 p133
-aVbibliothèque-drelich
+aVbibliothï¿½que-drelich
 p134
 aVscif-fi
 p135

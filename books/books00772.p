@@ -230,7 +230,7 @@ aVsf-fantasy
 p111
 aValex
 p112
-aVlivros-inglês
+aVlivros-inglï¿½s
 p113
 aVmy-ebooks
 p114

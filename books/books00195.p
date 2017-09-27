@@ -370,7 +370,7 @@ aVread-in-2016
 p179
 aVaudio-book
 p180
-aV2-háló-nagy
+aV2-hï¿½lï¿½-nagy
 p181
 aVaudio
 p182

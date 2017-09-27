@@ -137,7 +137,7 @@ aVRome's Last Citizen: The Life and Legacy of Cato, Mortal Enemy of Caesar
 p66
 asS'description'
 p67
-V<b><i>Imperium</i>...<i>Conspirata</i>...and now, the long-awaited final volume of the author's best-selling Cicero trilogy.</b><br /><br />With<i> Dictator,</i> Robert Harris brings the saga of Cicero's life to a time when some of the most epic events in human history occurred: the collapse of the Roman republic, the subsequent civil war, the murder of Pompey and the assassination of Julius Caesar. Yet the question it asks is a timeless one: how is political freedom to be safeguarded against the triple threat of unscrupulous personal ambition, of an electoral system dominated by vested financial interests, and of the corrupting impact of waging ceaseless foreign wars? And in the very human figure of Cicero--brilliant, flawed, frequently fearful, and yet ultimately brave--Harris gives us a hero for both his own time, and for ours.
+V<b><i>Imperium</i>...<i>Conspirata</i>...and now, the long-awaited final volume of the author's best-selling Cicero trilogy.</b><br /><br />With<i>ï¿½Dictator,</i>ï¿½Robert Harris brings the saga of Cicero's life to a time when some of the most epic events in human history occurred: the collapse of the Roman republic, the subsequent civil war, the murder of Pompey and the assassination of Julius Caesar. Yet the question it asks is a timeless one: how is political freedom to be safeguarded against the triple threat of unscrupulous personal ambition, of an electoral system dominated by vested financial interests, and of the corrupting impact of waging ceaseless foreign wars? And in the very human figure of Cicero--brilliant, flawed, frequently fearful, and yet ultimately brave--Harris gives us a hero for both his own time, and for ours.
 p68
 sS'format'
 p69
@@ -307,7 +307,7 @@ aVroman-fiction
 p149
 aVfavourites
 p150
-aVnovela-histórica
+aVnovela-histï¿½rica
 p151
 aVtype_fictionalhistory
 p152

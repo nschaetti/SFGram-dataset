@@ -99,7 +99,7 @@ aVA Very British Coup
 p47
 aVAn Introduction to Old Norse
 p48
-aVLes Animaux dénaturés
+aVLes Animaux dï¿½naturï¿½s
 p49
 aVJohn Donne: The Reformed Soul
 p50

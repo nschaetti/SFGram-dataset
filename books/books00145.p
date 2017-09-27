@@ -174,7 +174,7 @@ VAn Answer from the Silence
 p81
 sS'summary'
 p82
-VAn Answer from the Silence: A Story from the Mountains (German: Antwort aus der Stille: Eine Erzählung aus den Bergen) is a 1937 novel by the Swiss writer Max Frisch. It tells the story of a young man who escapes to the Swiss Alps ten days before his wedding.
+VAn Answer from the Silence: A Story from the Mountains (German: Antwort aus der Stille: Eine Erzï¿½hlung aus den Bergen) is a 1937 novel by the Swiss writer Max Frisch. It tells the story of a young man who escapes to the Swiss Alps ten days before his wedding.
 p83
 sS'content_cleaned'
 p84

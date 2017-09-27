@@ -128,7 +128,7 @@ aVWeight Loss for People Who Feel Too Much: A 4-Step, 8-Week Plan to Finally Los
 p60
 aVFriends at My Table: Recipes for a Year of Eating, Drinking, and Making Merry
 p61
-aVLos Señores del Narco
+aVLos Seï¿½ores del Narco
 p62
 aVWrede on Writing: Tips, Hints, and Opinions on Writing
 p63
@@ -290,7 +290,7 @@ aVfor-knowledge
 p139
 aVereaderiq
 p140
-aVÉconomie
+aVï¿½conomie
 p141
 aVchangements-climatiques
 p142

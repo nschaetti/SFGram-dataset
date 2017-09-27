@@ -180,7 +180,7 @@ VSanta Evita
 p84
 sS'summary'
 p85
-VSanta Evita is a 1995 novel by the Argentine writer Tomás Eloy Martínez. In a blend of fact and fiction, the novel focuses on the Argentine first lady Eva Perón, and tracks her embalmed corpse after her death from cancer at age 33. The book became a bestseller in Argentina and has been widely translated. Worldwide, it estimated to have sold 10 million copies, which makes it one of the best-selling books of all time.
+VSanta Evita is a 1995 novel by the Argentine writer Tomï¿½s Eloy Martï¿½nez. In a blend of fact and fiction, the novel focuses on the Argentine first lady Eva Perï¿½n, and tracks her embalmed corpse after her death from cancer at age 33. The book became a bestseller in Argentina and has been widely translated. Worldwide, it estimated to have sold 10 million copies, which makes it one of the best-selling books of all time.
 p86
 sS'content_cleaned'
 p87

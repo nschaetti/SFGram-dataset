@@ -132,7 +132,7 @@ aVGlue
 p62
 asS'description'
 p63
-VMikael Blomkvist, ekonomireporter, döms till fängelse för förtal av finansmannen Wennerström, och beslutar sig för att ta time-out från sitt jobb på tidskriften Millennium. I samma veva får han ett ovanligt uppdrag. Henrik Vanger, tidigare en av landets främsta industriledare, vill att Blomkvist ska skriva släkten Vangers historia. Men det visar sig snart bara vara en täckmantel för Blomkvists verkliga uppgift: att ta reda på vad som hänt Vangers unga släkting Harriet, som varit spårlöst försvunnen i snart fyrtio år. Till sin hjälp får han Lisbeth Salander, en ung strulig tjej, tatuerad och piercad, men också professionell hacker och med unika egenskaper som gör henne till en oslagbar researcher.
+VMikael Blomkvist, ekonomireporter, dï¿½ms till fï¿½ngelse fï¿½r fï¿½rtal av finansmannen Wennerstrï¿½m, och beslutar sig fï¿½r att ta time-out frï¿½n sitt jobb pï¿½ tidskriften Millennium. I samma veva fï¿½r han ett ovanligt uppdrag. Henrik Vanger, tidigare en av landets frï¿½msta industriledare, vill att Blomkvist ska skriva slï¿½kten Vangers historia. Men det visar sig snart bara vara en tï¿½ckmantel fï¿½r Blomkvists verkliga uppgift: att ta reda pï¿½ vad som hï¿½nt Vangers unga slï¿½kting Harriet, som varit spï¿½rlï¿½st fï¿½rsvunnen i snart fyrtio ï¿½r. Till sin hjï¿½lp fï¿½r han Lisbeth Salander, en ung strulig tjej, tatuerad och piercad, men ocksï¿½ professionell hacker och med unika egenskaper som gï¿½r henne till en oslagbar researcher.
 p64
 sS'format'
 p65
@@ -178,7 +178,7 @@ VTerra Amata (novel)
 p83
 sS'summary'
 p84
-VTerra Amata is an early fictional novel by French Nobel laureate J. M. G. Le Clézio.
+VTerra Amata is an early fictional novel by French Nobel laureate J. M. G. Le Clï¿½zio.
 p85
 sS'content_cleaned'
 p86

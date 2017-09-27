@@ -98,7 +98,7 @@ VBehemoth: \u03b2-Max (Rifters #3.1)
 p45
 aVAppeals Court
 p46
-aVCriptonomicón III: El código Aretusa
+aVCriptonomicï¿½n III: El cï¿½digo Aretusa
 p47
 aVHalo
 p48

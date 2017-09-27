@@ -106,7 +106,7 @@ aVStar Surgeon (Sector General, #2)
 p49
 aVThe Eighth Science Fiction Megapack: 25 Modern and Classic Stories
 p50
-aVThe Fredric Brown MEGAPACK ®: 33 Classic Science Fiction Stories
+aVThe Fredric Brown MEGAPACK ï¿½: 33 Classic Science Fiction Stories
 p51
 aVThe Robert Sheckley Megapack: 15 Classic Science Fiction Stories
 p52

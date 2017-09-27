@@ -316,7 +316,7 @@ aVkindle-editions
 p152
 aVon-disk
 p153
-aVciencia-ficción
+aVciencia-ficciï¿½n
 p154
 aVdesitjats
 p155
@@ -366,9 +366,9 @@ aVbibliotheca-mea
 p177
 aVin-my-library
 p178
-aVfantasía-literatura-fantástica
+aVfantasï¿½a-literatura-fantï¿½stica
 p179
-aVclásicos
+aVclï¿½sicos
 p180
 aVunread
 p181

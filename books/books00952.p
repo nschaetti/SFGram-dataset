@@ -287,7 +287,7 @@ aVowned-to-read
 p139
 aVa-comprar
 p140
-aVficção-estrangeira
+aVficï¿½ï¿½o-estrangeira
 p141
 aVestrangeiros
 p142

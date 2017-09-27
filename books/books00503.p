@@ -228,7 +228,7 @@ aVchildrens-books
 p108
 aVaudiobook
 p109
-aVclàssics
+aVclï¿½ssics
 p110
 aVowned-books
 p111

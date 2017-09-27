@@ -68,7 +68,7 @@
         }, 
         {
             "name": "United States", 
-            "n_books": 301, 
+            "n_books": 303, 
             "movies": [], 
             "books": [
                 3, 
@@ -371,18 +371,18 @@
                 928, 
                 929, 
                 956, 
-                52
+                52, 
+                6, 
+                27
             ], 
             "authors": [], 
             "id": 2
         }, 
         {
             "name": "Unknown", 
-            "n_books": 601, 
+            "n_books": 599, 
             "movies": [], 
             "books": [
-                6, 
-                27, 
                 30, 
                 34, 
                 37, 

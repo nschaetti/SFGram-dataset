@@ -112,7 +112,7 @@ aVThe Lost Continent
 p52
 aVErewhon (Erewhon , #1)
 p53
-aVFantômas (Fantômas, #1)
+aVFantï¿½mas (Fantï¿½mas, #1)
 p54
 aVA Connecticut Yankee in King Arthur's Court
 p55
@@ -322,7 +322,7 @@ aVclassic-fiction
 p155
 aVclassic-lit
 p156
-aVclásicos
+aVclï¿½sicos
 p157
 aVabandoned
 p158
@@ -340,7 +340,7 @@ aVclassic-sci-fi
 p164
 aVwish-list
 p165
-aVciencia-ficción
+aVciencia-ficciï¿½n
 p166
 aVclassici
 p167

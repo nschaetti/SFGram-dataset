@@ -807,7 +807,7 @@ aVHarvest of Stars (Harvest of Stars, #1)
 p401
 asS'description'
 p402
-VA classic work of science fiction, this novel was one of the first to explore the world of the atom. <i>The Girl in the Golden Atom</i> is the story of a young chemist who finds a hidden atomic world within his mother\u2019s wedding ring. Under a microscope, he sees within the ring a beautiful young woman sitting before a cave. Enchanted by her, he shrinks himself so that he can join her world. Having worked for Thomas Alva Edison, Ray Cummings (1887\u20131957) was inspired by science\u2019s possibilities and began to write science fiction. The <i>Girl in the Golden Atom</i> was enormously successful at its publication in 1923, and Cummings went on to write an equally successful sequel, <i>The People of the Golden Atom</i>. Both volumes are featured in this Bison Books edition, along with a new introduction by Jack Williamson.
+VA classic work of science fiction, this novel was one of the first to explore the world of the atom. <i>The Girl in the Golden Atom</i> is the story of a young chemist who finds a hidden atomic world within his mother\u2019s wedding ring. Under a microscope, he sees within the ring a beautiful young woman sitting before a cave. Enchanted by her, he shrinks himself so that he can join her world.ï¿½Having worked for Thomas Alva Edison, Ray Cummings (1887\u20131957) was inspired by science\u2019s possibilities and began to write science fiction. The <i>Girl in the Golden Atom</i> was enormously successful at its publication in 1923, and Cummings went on to write an equally successful sequel, <i>The People of the Golden Atom</i>. Both volumes are featured in this Bison Books edition, along with a new introduction by Jack Williamson.
 p403
 sS'format'
 p404
@@ -867,7 +867,7 @@ aVsci-fi
 p429
 aVkindle
 p430
-aVciencia-ficción
+aVciencia-ficciï¿½n
 p431
 aVaudiobook
 p432
@@ -923,11 +923,11 @@ aVowned-unread
 p457
 aVowned-ebooks
 p458
-aVmíos
+aVmï¿½os
 p459
-aVclásicos
+aVclï¿½sicos
 p460
-aVacción-aventuras
+aVacciï¿½n-aventuras
 p461
 aVunknown-genre
 p462

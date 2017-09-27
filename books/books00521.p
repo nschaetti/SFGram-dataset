@@ -148,7 +148,7 @@ VIreland: Landscapes of God's Peace
 p68
 sS'summary'
 p69
-VIreland: Landscapes of God's Peace is Máire Brennan's (Moya Brennan) 2000 book. It contains Celtic prayers, lyrics to Brennan's Perfect Time album and her personal thoughts on Ireland, Christianity and Celtic culture. The book comes in a set with the Perfect Time album, although it now considered a collectors item by Brennan's fans. Tynedale House Publishers print a limited number every few years.\u000aExcerpt from Máire Brennan's official website:\u000a\u000aUnfortunately, this book is no longer available to buy and has become a bit of a collector's item. Originally published by Tyndale in the United States the package contains Moya's Perfect Time CD and a luxuriantly designed and bound book of song lyrics, Irish landscapes, Celtic prayers and inspirational thoughts on peace.\u000a\u000a
+VIreland: Landscapes of God's Peace is Mï¿½ire Brennan's (Moya Brennan) 2000 book. It contains Celtic prayers, lyrics to Brennan's Perfect Time album and her personal thoughts on Ireland, Christianity and Celtic culture. The book comes in a set with the Perfect Time album, although it now considered a collectors item by Brennan's fans. Tynedale House Publishers print a limited number every few years.\u000aExcerpt from Mï¿½ire Brennan's official website:\u000a\u000aUnfortunately, this book is no longer available to buy and has become a bit of a collector's item. Originally published by Tyndale in the United States the package contains Moya's Perfect Time CD and a luxuriantly designed and bound book of song lyrics, Irish landscapes, Celtic prayers and inspirational thoughts on peace.\u000a\u000a
 p70
 sS'content_cleaned'
 p71

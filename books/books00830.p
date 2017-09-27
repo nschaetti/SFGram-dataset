@@ -187,7 +187,7 @@ aVdaddy-dark-s-baby-warrior-list
 p89
 aVfiction
 p90
-aVlivros-inglês
+aVlivros-inglï¿½s
 p91
 aVlgbt
 p92

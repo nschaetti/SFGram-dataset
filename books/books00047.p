@@ -130,7 +130,7 @@ aVThe Case of the Waylaid Wolf
 p61
 asS'description'
 p62
-V<blockquote>"Nothing could be done. The thing was universal and beyond our human knowledge or control. It was death for young and old, for weak and strong, for rich and poor, without hope or possibility of escape."</blockquote> <br />Must Professor George Challenger and friends, barricaded in a room, see Earth die? As globe passes through a belt of poisonous ether, terror sweeps mankind; cities riot; communications cease. Novella.
+V<blockquote>"Nothing could be done. The thing was universal and beyond our human knowledge or control. It was death for young and old, for weak and strong, for rich and poor, without hope or possibility of escape."</blockquote>ï¿½<br />Must Professor George Challenger and friends, barricaded in a room, see Earth die? As globe passes through a belt of poisonous ether, terror sweeps mankind; cities riot; communications cease. Novella.
 p63
 sS'format'
 p64
@@ -334,7 +334,7 @@ aVvictorian
 p161
 aVi-own
 p162
-aVlu-en-français
+aVlu-en-franï¿½ais
 p163
 aVeaston-press
 p164

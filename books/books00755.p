@@ -252,7 +252,7 @@ aVall-time-favorites
 p120
 aV1001-books
 p121
-aVclàssics
+aVclï¿½ssics
 p122
 aVadult
 p123

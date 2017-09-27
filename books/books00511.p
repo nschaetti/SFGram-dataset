@@ -185,7 +185,7 @@ aVgraphic-novel
 p88
 aVcurrently-reading
 p89
-aVcómics
+aVcï¿½mics
 p90
 aVfavorites
 p91
@@ -227,7 +227,7 @@ aVlibrary
 p109
 aVgraphic-novels-and-comics
 p110
-aVcómic
+aVcï¿½mic
 p111
 aVretellings
 p112

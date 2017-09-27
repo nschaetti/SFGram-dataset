@@ -107,7 +107,7 @@ aVUnder the Paw: Confessions of a Cat Man
 p51
 aVSilver World (Silver Sequence, #3)
 p52
-aVVenezia è un pesce. Una guida
+aVVenezia ï¿½ un pesce. Una guida
 p53
 aVRound Ireland in Low Gear
 p54
@@ -121,7 +121,7 @@ aVHow I Won the Yellow Jumper: Dispatches from the Tour de France
 p58
 aVA Beginner's Guide to Acting English
 p59
-aVDave Gorman vs. the Rest of the World: Whatever the Game \u2014 Dave Takes on All Comers!
+aVDave Gorman vs. the Rest of the World: Whatever the Game \u2014ï¿½Dave Takes on All Comers!
 p60
 aVA Tour Through the Whole Island of Great Britain
 p61

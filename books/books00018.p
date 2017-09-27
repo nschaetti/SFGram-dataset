@@ -261,7 +261,7 @@ aVlibrivox
 p125
 aVsf
 p126
-aVclásicos
+aVclï¿½sicos
 p127
 aVfantasy-masterworks
 p128

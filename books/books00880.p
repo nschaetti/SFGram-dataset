@@ -97,7 +97,7 @@ aVThe Question of Lay Analysis
 p46
 aVThe Wandering Taoist
 p47
-aVThe Lüscher Color Test
+aVThe Lï¿½scher Color Test
 p48
 aVThe Training and Work of an Initiate
 p49

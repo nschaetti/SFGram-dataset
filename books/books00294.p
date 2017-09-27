@@ -227,7 +227,7 @@ aVchildren
 p109
 aVmy-books
 p110
-aVclàssics
+aVclï¿½ssics
 p111
 aVya
 p112

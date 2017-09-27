@@ -162,7 +162,7 @@ aVfantasy
 p75
 aVon-hold
 p76
-aValmacén
+aValmacï¿½n
 p77
 aVnovel
 p78

@@ -56,7 +56,7 @@
     "release_date": "1994-09-01T00:00:00", 
     "author": 6, 
     "original_title": "Twenty Thousand Leagues Under the Sea", 
-    "summary": "Twenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers: Tour du monde sous-marin, Twenty Thousand Leagues Under the Seas: A Tour of the Underwater World) is a classic science fiction novel by French writer Jules Verne published in 1870.\nThe novel was originally serialized from March 1869 through June 1870 in Pierre-Jules Hetzel's periodical, the Magasin d'\u00c9ducation et de R\u00e9cr\u00e9ation. The deluxe illustrated edition, published by Hetzel in November 1871, included 111 illustrations by Alphonse de Neuville and \u00c9douard Riou. The book was highly acclaimed when released and still is now; it is regarded as one of the premiere adventure novels and one of Verne's greatest works, along with Around the World in Eighty Days and Journey to the Center of the Earth. The description of Nemo's ship, called the Nautilus, was considered ahead of its time, as it accurately describes features on submarines, which at the time were very primitive vessels.", 
+    "summary": "Twenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers: Tour du monde sous-marin, Twenty Thousand Leagues Under the Seas: A Tour of the Underwater World) is a classic science fiction novel by French writer Jules Verne published in 1870.\nThe novel was originally serialized from March 1869 through June 1870 in Pierre-Jules Hetzel's periodical, the Magasin d'\u00ef\u00bf\u00bdducation et de R\u00ef\u00bf\u00bdcr\u00ef\u00bf\u00bdation. The deluxe illustrated edition, published by Hetzel in November 1871, included 111 illustrations by Alphonse de Neuville and \u00ef\u00bf\u00bddouard Riou. The book was highly acclaimed when released and still is now; it is regarded as one of the premiere adventure novels and one of Verne's greatest works, along with Around the World in Eighty Days and Journey to the Center of the Earth. The description of Nemo's ship, called the Nautilus, was considered ahead of its time, as it accurately describes features on submarines, which at the time were very primitive vessels.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 
@@ -141,7 +141,7 @@
         "kids", 
         "translated", 
         "own-to-read", 
-        "fran\u00e7ais", 
+        "fran\u00ef\u00bf\u00bdais", 
         "english", 
         "the-classics", 
         "literary", 

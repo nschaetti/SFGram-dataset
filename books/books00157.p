@@ -130,7 +130,7 @@ aVJerred's Price (Saurellian Federation, #3)
 p61
 asS'description'
 p62
-VBeautiful Trinity Yeager's mission: join Nathan August's star-hopping team of mercenary soldiers. With one condition: Trinity must prove her resilience as a lover for him and his first officer, Sebastian Cole.<br /> <br />Trinity not only sees Nathan's bet. She raises it...Now, from galactic dens of depravity to far-reaching planets of dominant females and strapping male slaves, Trinity, Sebastian, and Nathan join forces, risk flesh and blood, and push the boundaries of erotic adventure in order to protect, honor, and service.<br /><br /><br />Trinity<br />Thrall<br />Claiming Cassidy
+VBeautiful Trinity Yeager's mission: join Nathan August's star-hopping team of mercenary soldiers. With one condition: Trinity must prove her resilience as a lover for him and his first officer, Sebastian Cole.<br />ï¿½<br />Trinity not only sees Nathan's bet. She raises it...Now, from galactic dens of depravity to far-reaching planets of dominant females and strapping male slaves, Trinity, Sebastian, and Nathan join forces, risk flesh and blood, and push the boundaries of erotic adventure in order to protect, honor, and service.<br /><br /><br />Trinity<br />Thrall<br />Claiming Cassidy
 p63
 sS'format'
 p64

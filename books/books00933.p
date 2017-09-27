@@ -239,7 +239,7 @@ aVender-series
 p115
 aVfantasy
 p116
-aVciencia-ficción
+aVciencia-ficciï¿½n
 p117
 aVenders-game
 p118

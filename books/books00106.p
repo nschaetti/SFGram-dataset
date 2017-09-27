@@ -136,7 +136,7 @@ aVThe Jewels of Aptor
 p64
 aVA Song for Lya: And Other Stories
 p65
-aVAlpträume: Nightmares and Dreamscapes
+aVAlptrï¿½ume: Nightmares and Dreamscapes
 p66
 aVThe Humanoid Touch (Humanoids, #2)
 p67
@@ -372,7 +372,7 @@ aVw_us_modern
 p180
 aVfinished-sci-fi-speculative-fiction
 p181
-aVnouvelles-numériques-lues
+aVnouvelles-numï¿½riques-lues
 p182
 aV\u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430
 p183

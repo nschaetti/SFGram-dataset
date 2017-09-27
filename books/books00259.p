@@ -153,7 +153,7 @@ aVThe Mysterious Benedict Society and the Prisoner's Dilemma (The Mysterious Ben
 p74
 aVMolly Moon's Incredible Book of Hypnotism (Molly Moon, #1)
 p75
-aVKrew elfów (Saga o Wied\u017aminie, #3)
+aVKrew elfï¿½w (Saga o Wied\u017aminie, #3)
 p76
 aVThe Raging Fires (Merlin Saga, #3)
 p77

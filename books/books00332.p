@@ -178,7 +178,7 @@ VThe Other Side of Here
 p83
 sS'summary'
 p84
-VThe Other Side of Here is an early science fiction novel by Murray Leinster, first published as a five-part Astounding Stories serial in 1936, under the title "The Incredible Invasion". It was first published in book form, in a "thorough revision", as one side of an Ace Double, in 1955. While no further American editions have been issued, the novel has been translated into Italian (L'altra dimensione, 1955), Spanish (Ataque desde la Cuarta Dimensión, 1956), French (L'autre côté du monde, 1958) and German (Invasion aus einer anderen Welt, 1959). The novels tells the story of "an invasion from the fourth dimension", foiled by an insurrection against the invaders' home government.
+VThe Other Side of Here is an early science fiction novel by Murray Leinster, first published as a five-part Astounding Stories serial in 1936, under the title "The Incredible Invasion". It was first published in book form, in a "thorough revision", as one side of an Ace Double, in 1955. While no further American editions have been issued, the novel has been translated into Italian (L'altra dimensione, 1955), Spanish (Ataque desde la Cuarta Dimensiï¿½n, 1956), French (L'autre cï¿½tï¿½ du monde, 1958) and German (Invasion aus einer anderen Welt, 1959). The novels tells the story of "an invasion from the fourth dimension", foiled by an insurrection against the invaders' home government.
 p85
 sS'content_cleaned'
 p86

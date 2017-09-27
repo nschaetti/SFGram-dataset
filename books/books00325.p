@@ -132,7 +132,7 @@ aVRabbit Angstrom: The Four Novels
 p62
 asS'description'
 p63
-V<i>\u000a  <b>The Great Gatsby</b>\u000a</i> is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional town of West Egg on prosperous Long Island in the summer of 1922. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession for the beautiful former debutante Daisy Buchanan. Considered to be Fitzgerald's magnum opus, <i>The Great Gatsby</i> explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Jazz Age or the Roaring Twenties that has been described as a cautionary tale regarding the American Dream.
+V<i>\u000a  <b>The Great Gatsby</b>\u000a</i>ï¿½is aï¿½1925 novelï¿½written by American authorï¿½F. Scott Fitzgeraldï¿½that follows a cast of characters living in the fictional town of West Egg on prosperousï¿½Long Islandï¿½in the summer of 1922. The story primarily concerns the young and mysterious millionaireï¿½Jay Gatsbyï¿½and his quixotic passion andï¿½obsessionï¿½for the beautiful formerï¿½debutanteï¿½Daisy Buchanan. Considered to be Fitzgerald'sï¿½magnum opus,ï¿½<i>The Great Gatsby</i>ï¿½explores themes ofï¿½decadence,ï¿½idealism, resistance to change, social upheaval, and excess, creating a portrait of theï¿½Jazz Ageï¿½or theï¿½Roaring Twentiesï¿½that has been described as a cautionary tale regarding theï¿½American Dream.
 p64
 sS'format'
 p65
@@ -229,7 +229,7 @@ aVschool-books
 p109
 aVclassic-literature
 p110
-aVclàssics
+aVclï¿½ssics
 p111
 aVadult-fiction
 p112

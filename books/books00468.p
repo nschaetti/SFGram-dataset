@@ -304,7 +304,7 @@ aV2017-books
 p148
 aVpersonal-library
 p149
-aVgénero-terror
+aVgï¿½nero-terror
 p150
 aVrequest-overdrive
 p151

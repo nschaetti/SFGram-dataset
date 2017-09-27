@@ -111,7 +111,7 @@ aVOn the Front Line: The Collected Journalism of Marie Colvin
 p53
 aVThe Sum of Her Parts
 p54
-aVThe First Science Fiction MEGAPACK®: 25 Modern and Classic Science Fiction Tales
+aVThe First Science Fiction MEGAPACKï¿½: 25 Modern and Classic Science Fiction Tales
 p55
 aVBoychiks in the Hood: Travels in the Hasidic Underground
 p56

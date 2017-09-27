@@ -321,7 +321,7 @@ aVtranslated
 p156
 aVown-to-read
 p157
-aVfrançais
+aVfranï¿½ais
 p158
 aVenglish
 p159

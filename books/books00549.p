@@ -144,7 +144,7 @@ VIlium (novel)
 p66
 sS'summary'
 p67
-VIlium is a science fiction novel by American writer Dan Simmons, the first part of the Ilium/Olympos cycle, concerning the re-creation of the events in the Iliad on an alternate Earth and Mars. These events are set in motion by beings who have taken on the roles of the Greek gods. Like Simmons' earlier series, the Hyperion Cantos, the novel is a form of "literary science fiction" which relies heavily on intertextuality, in this case with Homer and Shakespeare, as well as periodic references to Marcel Proust's À la recherche du temps perdu (or In Search of Lost Time) and Vladimir Nabokov's novel Ada or Ardor: A Family Chronicle. In July 2004, Ilium received a Locus Award for best science fiction novel of 2004.
+VIlium is a science fiction novel by American writer Dan Simmons, the first part of the Ilium/Olympos cycle, concerning the re-creation of the events in the Iliad on an alternate Earth and Mars. These events are set in motion by beings who have taken on the roles of the Greek gods. Like Simmons' earlier series, the Hyperion Cantos, the novel is a form of "literary science fiction" which relies heavily on intertextuality, in this case with Homer and Shakespeare, as well as periodic references to Marcel Proust's ï¿½ la recherche du temps perdu (or In Search of Lost Time) and Vladimir Nabokov's novel Ada or Ardor: A Family Chronicle. In July 2004, Ilium received a Locus Award for best science fiction novel of 2004.
 p68
 sS'content_cleaned'
 p69

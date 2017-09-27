@@ -232,7 +232,7 @@ aVall-time-favorites
 p110
 aV1001-books
 p111
-aVclàssics
+aVclï¿½ssics
 p112
 aVadult
 p113

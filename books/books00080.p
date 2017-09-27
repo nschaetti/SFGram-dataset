@@ -186,7 +186,7 @@ VThe Door Through Space
 p87
 sS'summary'
 p88
-VThe Door Through Space is a 1961 science fiction novel by American writer Marion Zimmer Bradley. An expansion of Bradley's story "Bird of Prey", which first appeared in the May, 1957 issue of the magazine Venture, it is her first novel, and was published by Ace Books, bound tête-bêche with Rendezvous on a Lost World by A. Bertram Chandler.\u000aAlthough it is not part of her Darkover book series, Darkover is mentioned (as another planet) in passing in the book; numerous Darkover elements appear in the book, such as a red sun, Dry Towns with chained women, catmen and other nonhumans, Terran Empire trade cities, Ghost Wind.
+VThe Door Through Space is a 1961 science fiction novel by American writer Marion Zimmer Bradley. An expansion of Bradley's story "Bird of Prey", which first appeared in the May, 1957 issue of the magazine Venture, it is her first novel, and was published by Ace Books, bound tï¿½te-bï¿½che with Rendezvous on a Lost World by A. Bertram Chandler.\u000aAlthough it is not part of her Darkover book series, Darkover is mentioned (as another planet) in passing in the book; numerous Darkover elements appear in the book, such as a red sun, Dry Towns with chained women, catmen and other nonhumans, Terran Empire trade cities, Ghost Wind.
 p89
 sS'content_cleaned'
 p90

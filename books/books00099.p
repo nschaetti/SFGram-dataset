@@ -108,23 +108,23 @@ aVAudience
 p50
 aVPrague Tales
 p51
-aVBylo nás p\u011bt
+aVBylo nï¿½s p\u011bt
 p52
-aVTyrolské Elegie
+aVTyrolskï¿½ Elegie
 p53
 aVA Prayer for Katerina Horovitzova
 p54
 aVNoc na Karl\u0161tejn\u011b
 p55
-aVPetrolejové lampy
+aVPetrolejovï¿½ lampy
 p56
-aVStaré \u0159ecké báje a pov\u011bsti
+aVStarï¿½ \u0159eckï¿½ bï¿½je a pov\u011bsti
 p57
-aVSmrt krásných srnc\u016f
+aVSmrt krï¿½snï¿½ch srnc\u016f
 p58
-aVZáhada hlavolamu (Stínadelská trilogie, #1)
+aVZï¿½hada hlavolamu (Stï¿½nadelskï¿½ trilogie, #1)
 p59
-aVHrdý Bud\u017ees
+aVHrdï¿½ Bud\u017ees
 p60
 asS'description'
 p61
@@ -227,7 +227,7 @@ aVtheater
 p108
 aV20th-century
 p109
-aVthéâtre
+aVthï¿½ï¿½tre
 p110
 aVfavourites
 p111
@@ -247,7 +247,7 @@ aVczech-lit
 p118
 aVspeculative-fiction
 p119
-aVpovinná-\u010detba
+aVpovinnï¿½-\u010detba
 p120
 aVebook
 p121
@@ -261,7 +261,7 @@ aVfor-school
 p125
 aVscience
 p126
-aVmaturitní-\u010detba
+aVmaturitnï¿½-\u010detba
 p127
 aVe-book
 p128
@@ -281,7 +281,7 @@ aVaudio
 p135
 aVeastern-europe
 p136
-aV\u010deská-literatura
+aV\u010deskï¿½-literatura
 p137
 aVapocalyptic
 p138
@@ -363,7 +363,7 @@ aVread-2014
 p176
 aVread-in-2014
 p177
-aVciencia-ficción
+aVciencia-ficciï¿½n
 p178
 aVstand-alone
 p179

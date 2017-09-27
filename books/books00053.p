@@ -313,7 +313,7 @@ aVreading-list
 p152
 aVto-read-scifi
 p153
-aVpróxima-lectura
+aVprï¿½xima-lectura
 p154
 aVfirst-100
 p155

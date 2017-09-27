@@ -357,7 +357,7 @@ aVread-owned
 p173
 aV3-stars
 p174
-aVcolecção-argonauta
+aVcolecï¿½ï¿½o-argonauta
 p175
 aVgalciv
 p176

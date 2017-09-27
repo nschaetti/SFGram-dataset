@@ -21,7 +21,7 @@ p9
 I2010
 sS'author_name'
 p10
-VPhilip José Farmer
+VPhilip Josï¿½ Farmer
 p11
 sS'images_urls'
 p12
@@ -186,7 +186,7 @@ aVscifi
 p89
 aVfree-ebook
 p90
-aV3½-\u2605-rating
+aV3ï¿½-\u2605-rating
 p91
 aVnovella
 p92

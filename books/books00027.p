@@ -155,7 +155,7 @@ VEnglish
 p73
 sS'country'
 p74
-I3
+I2
 sS'release_date'
 p75
 S'2010-05-25T00:00:00'

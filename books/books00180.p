@@ -106,7 +106,7 @@ VPLUTO: Urasawa x Tezuka, Volume 002 (Pluto, #2)
 p49
 aVEden: It's an Endless World, Volume 5 (Eden: It's an Endless World, #5)
 p50
-aVNausicaä of the Valley of the Wind, Vol. 6 (Nausicaä of the Valley of the Wind, #6)
+aVNausicaï¿½ of the Valley of the Wind, Vol. 6 (Nausicaï¿½ of the Valley of the Wind, #6)
 p51
 aVTwin Spica, Volume: 04
 p52
@@ -248,7 +248,7 @@ aVmangas-and-comics-i-own
 p118
 aVmangas-and-comics
 p119
-aVleídos-sin-comprar
+aVleï¿½dos-sin-comprar
 p120
 aVonmyshelf
 p121
@@ -258,7 +258,7 @@ aVtranslation
 p123
 aV2000s-ii
 p124
-aVficção-científica
+aVficï¿½ï¿½o-cientï¿½fica
 p125
 aVpunya
 p126
@@ -294,7 +294,7 @@ aVgreat-scifi
 p141
 aVread-mangas
 p142
-aVnovela-gráfica-comic
+aVnovela-grï¿½fica-comic
 p143
 aVp-x
 p144
@@ -362,7 +362,7 @@ aVjapanese-literature
 p175
 aVmanga-gn
 p176
-aVfrançais
+aVfranï¿½ais
 p177
 aVseinen-specials
 p178

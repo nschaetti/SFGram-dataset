@@ -434,7 +434,7 @@ aVtranslated
 p213
 aVown-to-read
 p214
-aVfrançais
+aVfranï¿½ais
 p215
 aVenglish
 p216

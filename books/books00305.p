@@ -383,7 +383,7 @@ aVw_luettu-novelli
 p186
 aVread-scifi
 p187
-aVluettu-käännös
+aVluettu-kï¿½ï¿½nnï¿½s
 p188
 aVadult
 p189

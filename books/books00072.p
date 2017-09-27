@@ -166,7 +166,7 @@ VThe Time Traders
 p77
 sS'summary'
 p78
-VThe Time Traders is a science fiction novel by American writer Andre Norton (pseudonym, née Alice Mary Norton), the first in The Time Traders series. It was first published in 1958, and has been printed in several editions. It was updated by Norton in 2000 to account for real world changes. It is part of Norton's Forerunner universe.\u000aThe Time Traders introduces the premise: a confrontation between Western heroes, and the "Reds", a mysterious alien race that has used time travel to alter Earth. This novel alternates among the present day, a trading tribal society in Britain, 2000 B.C., and a glacial outpost in the last ice age.
+VThe Time Traders is a science fiction novel by American writer Andre Norton (pseudonym, nï¿½e Alice Mary Norton), the first in The Time Traders series. It was first published in 1958, and has been printed in several editions. It was updated by Norton in 2000 to account for real world changes. It is part of Norton's Forerunner universe.\u000aThe Time Traders introduces the premise: a confrontation between Western heroes, and the "Reds", a mysterious alien race that has used time travel to alter Earth. This novel alternates among the present day, a trading tribal society in Britain, 2000 B.C., and a glacial outpost in the last ice age.
 p79
 sS'content_cleaned'
 p80

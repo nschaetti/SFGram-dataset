@@ -328,11 +328,11 @@ aVprox-pdf
 p158
 aVbilim-kurgu
 p159
-aVliteratura-clásica
+aVliteratura-clï¿½sica
 p160
 aVinfantil-juvenil
 p161
-aVfantasía-ciencia-ficción
+aVfantasï¿½a-ciencia-ficciï¿½n
 p162
 aVown-mine
 p163

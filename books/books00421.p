@@ -243,7 +243,7 @@ aVscifi-futuristic
 p117
 aVerotica-romantica
 p118
-aV2½-to-3-star-ratings
+aV2ï¿½-to-3-star-ratings
 p119
 aVqueue
 p120

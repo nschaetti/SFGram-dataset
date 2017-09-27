@@ -97,7 +97,7 @@ g7
 VUnited States
 p20
 sg9
-I301
+I303
 sg10
 (lp21
 sg12
@@ -403,6 +403,8 @@ aI928
 aI929
 aI956
 aI52
+aI6
+aI27
 asg14
 (lp23
 sg16
@@ -417,14 +419,12 @@ g7
 VUnknown
 p27
 sg9
-I601
+I599
 sg10
 (lp28
 sg12
 (lp29
-I6
-aI27
-aI30
+I30
 aI34
 aI37
 aI40

@@ -48,7 +48,7 @@ VText
 p23
 sS'plot'
 p24
-VWhen recovering alcoholic Chloe walks into her apartment to find her fiancé having sex with her boss, the first thing she does is walk into a bar and break the sobriety she's worked so hard for. She passes out and awakens in a strange new world called The Wasteland. In this land magic and gunfights are a way of life, as is the rampant corruption that threatens everyone in it. Siblings Kitty and Jack inform her that she is an "Arrival", a person that has arrived in this world from another time and place. Chloe also discovers that the Arrivals are capable of coming back to life if they die, although nobody knows why this happens and this regeneration is not always guaranteed. Together she and the siblings' rag-tag band must fight against Ajani, a wealthy but insane man set on bending The Wasteland to his will.
+VWhen recovering alcoholic Chloe walks into her apartment to find her fiancï¿½ having sex with her boss, the first thing she does is walk into a bar and break the sobriety she's worked so hard for. She passes out and awakens in a strange new world called The Wasteland. In this land magic and gunfights are a way of life, as is the rampant corruption that threatens everyone in it. Siblings Kitty and Jack inform her that she is an "Arrival", a person that has arrived in this world from another time and place. Chloe also discovers that the Arrivals are capable of coming back to life if they die, although nobody knows why this happens and this regeneration is not always guaranteed. Together she and the siblings' rag-tag band must fight against Ajani, a wealthy but insane man set on bending The Wasteland to his will.
 p25
 sS'genres'
 p26

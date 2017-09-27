@@ -264,7 +264,7 @@ aVclassic
 p126
 aVswords-and-sorcery
 p127
-aVüppiger-stil
+aVï¿½ppiger-stil
 p128
 aVwald
 p129
@@ -276,7 +276,7 @@ aVstarke-frauenfigur
 p132
 aVkrieger
 p133
-aVgötter
+aVgï¿½tter
 p134
 aVgrosser-heros
 p135
@@ -288,7 +288,7 @@ aVromanze
 p138
 aVklassiker
 p139
-aVgroße-ideen
+aVgroï¿½e-ideen
 p140
 aVgore
 p141
@@ -296,7 +296,7 @@ aVgeister
 p142
 aVfemale-badass
 p143
-aVdämonen
+aVdï¿½monen
 p144
 aVbrutal
 p145

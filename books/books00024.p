@@ -126,7 +126,7 @@ aVLearning to Fly
 p59
 aVThe Outlaw Varjak Paw
 p60
-aVO psie, który je\u017adzi\u0142 kolej\u0105
+aVO psie, ktï¿½ry je\u017adzi\u0142 kolej\u0105
 p61
 aVThe Brenner Assignment: The Untold Story of the Most Daring Spy Mission of World War II
 p62

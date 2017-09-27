@@ -220,7 +220,7 @@ aVabandoned
 p104
 aVclassic
 p105
-aVfantasía
+aVfantasï¿½a
 p106
 aVto-buy
 p107
@@ -234,7 +234,7 @@ aVnovels
 p111
 aVterror
 p112
-aVciencia-ficción
+aVciencia-ficciï¿½n
 p113
 aVon-kindle
 p114

@@ -127,7 +127,7 @@ aVKimono
 p61
 asS'description'
 p62
-V<p>There's a mantra that real writers know but wannabe writers don\u2019t. And the secret phrase is this:</p><p>NOBODY WANTS TO READ YOUR SH*T.</p> <p>Recognizing this painful truth is the first step in the writer's transformation from amateur to professional.</p> <p>From Chapter Four:</p> <p>\u201cWhen you understand that nobody wants to read your shit, you develop empathy. You acquire the skill that is indispensable to all artists and entrepreneurs\u2014the ability to switch back and forth in your imagination from your own point of view as writer/painter/seller to the point of view of your reader/gallery-goer/customer. You learn to ask yourself with ev­ery sentence and every phrase: Is this interesting? Is it fun or challenging or inventive? Am I giving the reader enough? Is she bored? Is she following where I want to lead her?"</p>
+V<p>There's a mantra that real writers know but wannabe writers don\u2019t. And the secret phrase is this:</p><p>NOBODY WANTS TO READ YOUR SH*T.</p> <p>Recognizing this painful truth is the first step in the writer's transformation from amateur to professional.</p> <p>From Chapter Four:</p> <p>\u201cWhen you understand that nobody wants to read your shit, you develop empathy. You acquire the skill that is indispensable to all artists and entrepreneurs\u2014the ability to switch back and forth in your imagination from your own point of view as writer/painter/seller to the point of view of your reader/gallery-goer/customer. You learn to ask yourself with evï¿½ery sentence and every phrase: Is this interesting? Is it fun or challenging or inventive? Am I giving the reader enough? Is she bored? Is she following where I want to lead her?"</p>
 p63
 sS'format'
 p64

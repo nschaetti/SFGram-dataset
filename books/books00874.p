@@ -123,7 +123,7 @@ aVDalai Lama, My Son: A Mother's Autobiography
 p59
 aVThe Humanistic Tradition: Prehistory to the Early Modern World (The Humanistic Tradition, #1)
 p60
-aVPaís de las sombras largas
+aVPaï¿½s de las sombras largas
 p61
 aVTaking After Mudear
 p62

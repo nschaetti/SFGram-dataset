@@ -140,7 +140,7 @@ aVDr. Dale's Zombie Dictionary: The A-Z Guide to Staying Alive
 p66
 asS'description'
 p67
-V<p> A satirical joyride in the tradition of Kurt Vonnegut and Douglas Adams, <i>First Contact-Or, It's Later Than You Think (Parrot Sketch Excluded)</i> introduces us to the hyper-intelligent Rigelians, who admire Woody Allen movies and Bundt cake, and who urge the people of Earth to mend their ways to avoid destruction of their planet. But the president of the United States, a God-fearing, science-doubting fitness fanatic, is skeptical of the evidence presented to him and sets in motion a chain of events that will change the lives of his young attachÉ, an alien scam artist, several raccoons, and a scientist who has predicted the end of the universe. Parrot sketch excluded. </p><p></p>
+V<p> A satirical joyride in the tradition of Kurt Vonnegut and Douglas Adams, <i>First Contact-Or, It's Later Than You Think (Parrot Sketch Excluded)</i> introduces us to the hyper-intelligent Rigelians, who admire Woody Allen movies and Bundt cake, and who urge the people of Earth to mend their ways to avoid destruction of their planet. But the president of the United States, a God-fearing, science-doubting fitness fanatic, is skeptical of the evidence presented to him and sets in motion a chain of events that will change the lives of his young attachï¿½, an alien scam artist, several raccoons, and a scientist who has predicted the end of the universe. Parrot sketch excluded. </p><p></p>
 p68
 sS'format'
 p69

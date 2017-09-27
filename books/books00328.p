@@ -23,7 +23,7 @@ p10
 I1988
 sS'author_name'
 p11
-VPierre Benoît
+VPierre Benoï¿½t
 p12
 sS'images_urls'
 p13
@@ -82,7 +82,7 @@ VText
 p40
 sS'plot'
 p41
-VIt is 1896 in the French Algerian Sahara. Two officers, André de Saint-Avit and Jean Morhange investigate the disappearance of their fellow officers. While doing so, they are drugged and kidnapped by a Tarqui warrior, the procurer for the monstrous Queen Antinea. Antinea, descendant of the rulers of Atlantis, has a cave wall with 120 niches carved into it, one for each of her lovers. Only 53 have been filled; when all 120 have been filled, Antinea will sit atop a throne in the center of the cave and rest forever. Saint-Avit is unable to resist Antinea's charms. By her will, he murders the asexual Morhange. Ultimately, he is able to escape and get out of the desert alive.
+VIt is 1896 in the French Algerian Sahara. Two officers, Andrï¿½ de Saint-Avit and Jean Morhange investigate the disappearance of their fellow officers. While doing so, they are drugged and kidnapped by a Tarqui warrior, the procurer for the monstrous Queen Antinea. Antinea, descendant of the rulers of Atlantis, has a cave wall with 120 niches carved into it, one for each of her lovers. Only 53 have been filled; when all 120 have been filled, Antinea will sit atop a throne in the center of the cave and rest forever. Saint-Avit is unable to resist Antinea's charms. By her will, he murders the asexual Morhange. Ultimately, he is able to escape and get out of the desert alive.
 p42
 sS'genres'
 p43

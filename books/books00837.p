@@ -163,7 +163,7 @@ aVto-read-hist-brit-tr
 p77
 aVbooks
 p78
-aVhistórico
+aVhistï¿½rico
 p79
 aVown-to-read
 p80

@@ -203,7 +203,7 @@ aVclassics
 p97
 aVhistorical
 p98
-aVrússia
+aVrï¿½ssia
 p99
 aVwar
 p100
