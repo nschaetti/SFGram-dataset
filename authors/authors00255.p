@@ -1,0 +1,46 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Author
+Author
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'bio'
+p6
+VHamm holds a B.A. in American studies from Rutgers University (1988) and a Ph.D. in American history from the University of California-Davis (1996). His articles about New York City politics and culture have appeared recently in The Village Voice, The Daily Beast, Jacobin (magazine) and City Limits. In 1997, he received the Outstanding Volunteer Service award from San Quentin State Prison for teaching in the prison's college program. He resides in Sunset Park, Brooklyn.
+p7
+sS'name'
+p8
+VT. D. Hamm
+p9
+sS'wikipedia'
+p10
+(dp11
+S'url'
+p12
+Vhttps://en.wikipedia.org/wiki/Theodore_Hamm
+p13
+sS'found'
+p14
+I01
+ssS'n_books'
+p15
+I2
+sS'summary'
+p16
+VTheodore Hamm (born September 14, 1966, in Chicago) is an American author, writer and the founding editor of the New York City-based literary and culture tabloid The Brooklyn Rail. Hamm currently serves as the director of the Journalism and New Media Studies program at St. Joseph\u2019s College, in Clinton Hill, Brooklyn.
+p17
+sS'books'
+p18
+(lp19
+I801
+aI929
+asS'id'
+p20
+I255
+sb.

@@ -1,0 +1,16 @@
+{
+    "name": "Alfred Coppel", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Alfred_Coppel", 
+        "found": true
+    }, 
+    "n_books": 4, 
+    "summary": "Alfred Coppel, Alfredo Jose de Arana-Marini Coppel (November 9, 1921 \u2013 May 30, 2004) was an American author. Born in Oakland, California, he served as a fighter pilot in the United States Army Air Forces during World War II. After his discharge, he started his career as a writer. He became one of the most prolific pulp authors of the 1950s and 1960s, adopting the pseudonyms Robert Cham Gilman and A.C. Marin and writing for a variety of pulp magazines and later \"slick\" publishers. Though writing in a variety of genres, including action thrillers, he is known for his science fiction stories which comprise both short stories and novels.", 
+    "books": [
+        498, 
+        797, 
+        858, 
+        923
+    ], 
+    "id": 166
+}

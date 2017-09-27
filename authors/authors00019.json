@@ -1,0 +1,42 @@
+{
+    "name": "H. Beam Piper", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Empire_(H._Beam_Piper_book)", 
+        "found": true
+    }, 
+    "n_books": 30, 
+    "summary": "Empire is a collection of short stories by American writer H. Beam Piper, edited by John F. Carr. The book was published in 1981 by Ace Books, and again in 1986. Most of these stories take place in his Terro-Human Future History, with the sole exception being \"The Return\".", 
+    "books": [
+        44, 
+        61, 
+        68, 
+        110, 
+        138, 
+        145, 
+        157, 
+        178, 
+        189, 
+        193, 
+        202, 
+        214, 
+        215, 
+        223, 
+        260, 
+        273, 
+        276, 
+        284, 
+        289, 
+        292, 
+        298, 
+        319, 
+        336, 
+        339, 
+        345, 
+        359, 
+        393, 
+        467, 
+        627, 
+        769
+    ], 
+    "id": 19
+}

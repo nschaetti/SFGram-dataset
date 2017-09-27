@@ -1,0 +1,16 @@
+{
+    "bio": "", 
+    "name": "Karel \u010capek", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Karel_%C4%8Capek", 
+        "found": true
+    }, 
+    "n_books": 1, 
+    "summary": "Karel \u010capek (Czech: [\u02c8kar\u025bl \u02c8t\u0283ap\u025bk]; 9 January 1890 \u2013 25 December 1938) was a Czech writer of the early 20th century. He had multiple roles throughout his career, including playwright, dramatist, essayist, publisher, literary reviewer, photographer and art critic. Nonetheless, he is best known for his science fiction including his novel War with the Newts and the play R.U.R. (Rossum's Universal Robots), which introduced the word robot. He also wrote many politically charged works dealing with the social turmoil of his time. Largely influenced by American pragmatic liberalism, he campaigned in favor of free expression and utterly despised the rise of both fascism and communism in Europe.\n\u010capek was nominated for the Nobel Prize in Literature seven times, but he never won. However, several awards are named after him, such as the Karel \u010capek Prize, which is awarded every other year by Czech PEN Club for literary work that contributes to reinforcing or maintaining democratic and humanist values in the society. He was also a key figure in the creation of the Czechoslovak PEN Club as a part of the International PEN. He died on the brink of World War II as a result of lifelong medical condition, but his legacy as a literary figure has been well established after the war.", 
+    "born": "1890-01-09 00:00:00", 
+    "books": [
+        99
+    ], 
+    "id": 37, 
+    "died": "1938-12-25 00:00:00"
+}

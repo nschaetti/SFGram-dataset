@@ -1,0 +1,16 @@
+{
+    "bio": "", 
+    "name": "Robert Bloch", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Robert_Bloch", 
+        "found": true
+    }, 
+    "n_books": 1, 
+    "summary": "Robert Albert Bloch (; April 5, 1917 \u2013 September 23, 1994) was an American fiction writer, primarily of crime, horror, fantasy and science fiction, from Milwaukee, Wisconsin. He is best known as the writer of Psycho, the basis for the film of the same name by Alfred Hitchcock. His fondness for a pun is evident in the titles of his story collections such as Tales in a Jugular Vein, Such Stuff as Screams Are Made Of and Out of the Mouths of Graves.\nBloch wrote hundreds of short stories and over 30 novels. He was one of the youngest members of the Lovecraft Circle. H. P. Lovecraft was Bloch's mentor and one of the first to seriously encourage his talent. However, while Bloch started his career by emulating Lovecraft and his brand of \"cosmic horror\", he later specialized in crime and horror stories dealing with a more psychological approach.\nBloch was a contributor to pulp magazines such as Weird Tales in his early career, and was also a prolific screenwriter and a major contributor to science fiction fanzines and fandom in general.\nHe won the Hugo Award (for his story \"That Hell-Bound Train\"), the Bram Stoker Award, and the World Fantasy Award. He served a term as president of the Mystery Writers of America (1970) and was a member of that organization and of Science Fiction Writers of America, the Writers Guild of America, the Academy of Motion Picture Arts and Sciences and the Count Dracula Society. In 2008, The Library of America selected Bloch's essay \"The Shambles of Ed Gein\" (1962) for inclusion in its two-century retrospective of American true crime.\nHis favorites among his own novels were The Kidnapper, The Star Stalker, Psycho, Night-World, and Strange Eons. His work has been extensively adapted for the movies and television, comics and audio books.", 
+    "born": "1917-04-05 00:00:00", 
+    "books": [
+        128
+    ], 
+    "id": 45, 
+    "died": "1994-09-23 00:00:00"
+}

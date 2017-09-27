@@ -1,0 +1,21 @@
+{
+    "name": "Charles L. Fontenay", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Charles_L._Fontenay", 
+        "found": true
+    }, 
+    "n_books": 7, 
+    "summary": "Charles Louis Fontenay (March 17, 1917 \u2013 January 27, 2007) was an American journalist and science fiction writer. He wrote science fiction novels and short stories. His non-fiction includes the biography of the prominent New Deal era politician Estes Kefauver.\nFontenay was editor of the Nashville Tennessean, among other newspapers, worked with the Associated Press and Gannett News Service. He retired to St. Petersburg, Florida, where he continued to write science fiction until shortly before his death.\nHe held a third-degree black belt in tae kwon do.", 
+    "born": "1917-03-17 00:00:00", 
+    "books": [
+        431, 
+        537, 
+        555, 
+        619, 
+        753, 
+        755, 
+        826
+    ], 
+    "id": 144, 
+    "died": "2007-01-27 00:00:00"
+}

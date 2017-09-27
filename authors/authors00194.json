@@ -1,0 +1,19 @@
+{
+    "name": "Kris Neville", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Kris_Ottman_Neville", 
+        "found": true
+    }, 
+    "n_books": 5, 
+    "summary": "Kris Ottman Neville (May 9, 1925 \u2013 December 23, 1980) was an American science fiction writer from California.\nHe was born in St. Louis. His first science fiction work was published in 1949. His most famous work, the novella Bettyann, is considered a classic of science fiction.", 
+    "born": "1925-08-26 00:00:00", 
+    "books": [
+        580, 
+        620, 
+        839, 
+        916, 
+        941
+    ], 
+    "id": 194, 
+    "died": "1980-12-23 00:00:00"
+}

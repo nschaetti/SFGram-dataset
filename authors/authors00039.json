@@ -1,0 +1,15 @@
+{
+    "books": [
+        103, 
+        237, 
+        268, 
+        583, 
+        648
+    ], 
+    "wikipedia": {
+        "found": false
+    }, 
+    "name": "Tom Godwin", 
+    "n_books": 5, 
+    "id": 39
+}

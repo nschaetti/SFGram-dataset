@@ -1,0 +1,15 @@
+{
+    "name": "Fletcher Pratt", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Fletcher_Pratt", 
+        "found": true
+    }, 
+    "n_books": 1, 
+    "summary": "Murray Fletcher Pratt (25 April 1897 \u2013 10 June 1956) was an American writer of science fiction, fantasy and history. He is best known for his works on naval history and on the American Civil War and for fiction written with L. Sprague de Camp.", 
+    "born": "1897-04-25 00:00:00", 
+    "books": [
+        309
+    ], 
+    "id": 101, 
+    "died": "1956-06-10 00:00:00"
+}

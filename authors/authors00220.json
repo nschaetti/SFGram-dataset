@@ -1,0 +1,17 @@
+{
+    "name": "Daniel F. Galouye", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Daniel_F._Galouye", 
+        "found": true
+    }, 
+    "n_books": 3, 
+    "summary": "Daniel Francis Galouye (11 February 1920 \u2013 7 September 1976) was an American science fiction writer. During the 1950s and 1960s, he contributed novelettes and short stories to various digest size science fiction magazines, sometimes writing under the pseudonym Louis G. Daniels.\nBorn in New Orleans, Galouye (pronounced Gah-lou-ey) graduated from Louisiana State University (B.A.) and then worked as a reporter for several newspapers. During World War II, he served in the US Navy as an instructor and test pilot, receiving injuries that led to later health problems. On December 26, 1945, he married Carmel Barbara Jordan. From the 1940s until his retirement in 1967, he was on the staff of The States-Item. He lived in New Orleans but also had a summer home across Lake Ponchartrain at St. Tammany Parish in Covington, Louisiana.", 
+    "born": "1920-02-11 00:00:00", 
+    "books": [
+        668, 
+        688, 
+        787
+    ], 
+    "id": 220, 
+    "died": "1976-09-07 00:00:00"
+}

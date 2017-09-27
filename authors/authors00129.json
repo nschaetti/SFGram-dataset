@@ -1,0 +1,15 @@
+{
+    "books": [
+        400, 
+        680, 
+        772, 
+        793, 
+        834
+    ], 
+    "wikipedia": {
+        "found": false
+    }, 
+    "name": "Raymond F. Jones", 
+    "n_books": 5, 
+    "id": 129
+}

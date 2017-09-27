@@ -1,0 +1,16 @@
+{
+    "bio": "", 
+    "name": "Walter S. Tevis", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Walter_Tevis", 
+        "found": true
+    }, 
+    "n_books": 1, 
+    "summary": "Walter Stone Tevis (February 28, 1928 \u2013 August 8, 1984) was an American novelist and short story writer. Three of his six novels were adapted into major films: The Hustler, The Color of Money and The Man Who Fell to Earth. His books have been translated into at least 18 languages.", 
+    "born": "1928-08-26 00:00:00", 
+    "books": [
+        670
+    ], 
+    "id": 222, 
+    "died": "1984-08-08 00:00:00"
+}

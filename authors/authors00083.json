@@ -1,0 +1,21 @@
+{
+    "bio": "Born in Youngstown, Ohio, he was raised there and in nearby New Castle, Pennsylvania. Something of a child prodigy, he graduated from high school and entered Westminster College in New Wilmington, Pennsylvania at the age of 14, but washed out at 17.", 
+    "name": "Edmond Hamilton", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Edmond_Hamilton", 
+        "found": true
+    }, 
+    "n_books": 6, 
+    "summary": "Edmond Moore Hamilton (October 21, 1904 \u2013 February 1, 1977) was an American writer of science fiction during the mid-twentieth century.", 
+    "born": "1904-10-21 00:00:00", 
+    "books": [
+        249, 
+        251, 
+        293, 
+        411, 
+        465, 
+        664
+    ], 
+    "id": 83, 
+    "died": "1977-02-01 00:00:00"
+}

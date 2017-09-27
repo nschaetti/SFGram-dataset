@@ -1,0 +1,19 @@
+{
+    "name": "Robert Silverberg", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Alpha_6_(Robert_Silverberg_anthology)", 
+        "found": true
+    }, 
+    "n_books": 7, 
+    "summary": "Alpha 6 is a science fiction anthology edited by American writer Robert Silverberg, first published in 1976.", 
+    "books": [
+        141, 
+        208, 
+        209, 
+        242, 
+        256, 
+        323, 
+        443
+    ], 
+    "id": 50
+}

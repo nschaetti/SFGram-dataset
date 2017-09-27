@@ -1,0 +1,11 @@
+{
+    "books": [
+        234
+    ], 
+    "wikipedia": {
+        "found": false
+    }, 
+    "name": "John Munro", 
+    "n_books": 1, 
+    "id": 77
+}

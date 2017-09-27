@@ -1,0 +1,19 @@
+{
+    "name": "Algis Budrys", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Budrys", 
+        "found": true
+    }, 
+    "n_books": 7, 
+    "summary": "Budrys is a Lithuanian surname. Notable people with the surname include:\nAlgirdas Budrys (born 1939), Lithuanian musician\nAlgis Budrys (1931\u20132008), Lithuanian-American writer\nEugenijus Mindaugas Budrys (1925\u20132007), Lithuanian painter\nIgnas Budrys (1933\u20131999), Lithuanian painter\nPovilas Budrys (born 1962), Lithuanian actor and artist", 
+    "books": [
+        279, 
+        307, 
+        314, 
+        432, 
+        593, 
+        716, 
+        842
+    ], 
+    "id": 91
+}

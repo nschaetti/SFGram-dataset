@@ -1,0 +1,23 @@
+{
+    "name": "Keith Laumer", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Keith_Laumer", 
+        "found": true
+    }, 
+    "n_books": 9, 
+    "summary": "John Keith Laumer ((1925-06-09)June 9, 1925 \u2013 January 23, 1993(1993-01-23)) was an American science fiction author. Prior to becoming a full-time writer, he was an officer in the United States Air Force and a diplomat in the United States Foreign Service. His older brother March Laumer was also a writer, known for his adult reinterpretations of the Land of Oz (also mentioned in Laumer's The Other Side of Time). Frank Laumer, their youngest brother, is a historian and writer.", 
+    "born": "1925-06-09 00:00:00", 
+    "books": [
+        207, 
+        244, 
+        250, 
+        261, 
+        265, 
+        278, 
+        461, 
+        476, 
+        522
+    ], 
+    "id": 67, 
+    "died": "1993-01-23 00:00:00"
+}

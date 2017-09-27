@@ -1,0 +1,17 @@
+{
+    "books": [
+        614, 
+        722, 
+        777, 
+        827, 
+        869, 
+        943, 
+        952
+    ], 
+    "wikipedia": {
+        "found": false
+    }, 
+    "name": "Jack Sharkey", 
+    "n_books": 7, 
+    "id": 205
+}

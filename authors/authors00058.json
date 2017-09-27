@@ -1,0 +1,19 @@
+{
+    "name": "Fredric Brown", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Fredric_Brown", 
+        "found": true
+    }, 
+    "n_books": 5, 
+    "summary": "Fredric Brown (October 29, 1906 \u2013 March 11, 1972) was an American science fiction and mystery writer.  He is known for his use of humor and for his mastery of the \"short short\" form\u2014stories of 1 to 3 pages, often with ingenious plotting devices and surprise endings, such as the masterpiece \"Sentry\". Humor and a somewhat postmodern outlook carried over into his novels as well. One of his stories, \"Arena\", is officially credited for an adaptation as an episode of the American television series Star Trek.", 
+    "born": "1906-10-29 00:00:00", 
+    "books": [
+        167, 
+        217, 
+        226, 
+        271, 
+        290
+    ], 
+    "id": 58, 
+    "died": "1972-03-11 00:00:00"
+}

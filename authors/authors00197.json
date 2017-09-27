@@ -1,0 +1,16 @@
+{
+    "name": "Arthur Leo Zagat", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Arthur_Leo_Zagat", 
+        "found": true
+    }, 
+    "n_books": 2, 
+    "summary": "Arthur Leo Zagat (1896\u20131949) was an American lawyer and writer of pulp fiction and science fiction. Trained in the law, he gave it up to write professionally. Zagat is noted for his collaborations with fellow lawyer Nat Schachner. During the last two decades of his life, Zagat wrote short stories prolifically. About 500 pieces appeared in a variety of pulp magazines, including Thrilling Wonder Stories, Argosy, Dime Mystery Magazine, Horror Stories, Operator No. 5 and Astounding. Zagat also wrote the \"Doc Turner\" stories that regularly appeared in The Spider pulp magazine throughout the 1930s, and wrote for Spicy Mystery Stories as \"Morgan LaFay\". A novel, Seven Out of Time, was published by Fantasy Press in 1949, the year he died.\nZagat was a graduate of City College who served in the US military in Europe during World War I. After the war, he studied at Bordeaux University, then graduated from Fordham Law School. He taught writing at New York University. In 1941, he was elected to the first national executive committee for the Authors League pulp writers' section. During World War II, he held an executive position in the Office of War Information. After that war, Zagat was active in organizing writers' workshops and other assistance for hospitalized veterans.\nZagat was married to Ruth Zagat; the couple had one daughter, Hermine. He died of a heart attack on April 3, 1949, at his home in the Bronx.", 
+    "born": "1896-02-15 00:00:00", 
+    "books": [
+        592, 
+        605
+    ], 
+    "id": 197, 
+    "died": "1949-04-03 00:00:00"
+}

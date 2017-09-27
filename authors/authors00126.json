@@ -1,0 +1,16 @@
+{
+    "bio": "He died of complications from pneumonia in 1989, at age 80, in Los Angeles.", 
+    "name": "Jack Douglas", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Jack_Douglas_(writer)", 
+        "found": true
+    }, 
+    "n_books": 1, 
+    "summary": "Jack Douglas (born Douglas Linley Crickard, July 17, 1908 - January 31, 1989) was an American comedy writer who wrote for radio and television while additionally writing a series of humor books.", 
+    "born": "1908-08-25 00:00:00", 
+    "books": [
+        391
+    ], 
+    "id": 126, 
+    "died": "1989-01-31 00:00:00"
+}

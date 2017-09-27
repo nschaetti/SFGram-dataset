@@ -1,0 +1,21 @@
+{
+    "name": "Poul Anderson", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Many_Worlds_of_Poul_Anderson", 
+        "found": true
+    }, 
+    "n_books": 9, 
+    "summary": "The Many Worlds of Poul Anderson is a collection of science fiction short stories by American writer Poul Anderson, edited by Roger Elwood, first published in hardcover by Chilton in June 1974. A paperback edition retitled The Book of Poul Anderson followed from DAW Books in June 1975, and was reprinted in June 1978, December 1978, and October 1983. Most of the pieces were originally published between 1947 and 1971 in the magazines Astounding Science Fiction, The Magazine of Fantasy and Science Fiction, Analog, Riverside Quarterly, and Other Worlds Science Stories. The others are original to the collection.\nThe book contains eight short fictions and essays by Anderson and others, two of them co-authored, together with an introduction by the editor.", 
+    "books": [
+        77, 
+        92, 
+        93, 
+        107, 
+        125, 
+        155, 
+        177, 
+        181, 
+        183
+    ], 
+    "id": 30
+}

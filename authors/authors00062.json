@@ -1,0 +1,18 @@
+{
+    "name": "Stanley Grauman Weinbaum", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Stanley_G._Weinbaum", 
+        "found": true
+    }, 
+    "n_books": 4, 
+    "summary": "Stanley Grauman Weinbaum (April 4, 1902 \u2013 December 14, 1935) was an American science fiction writer. His career in science fiction was short but influential. His first story, \"A Martian Odyssey\", was published to great (and enduring) acclaim in July 1934, but he succumbed to lung cancer less than a year and a half later.", 
+    "born": "1902-04-04 00:00:00", 
+    "books": [
+        184, 
+        305, 
+        556, 
+        791
+    ], 
+    "id": 62, 
+    "died": "1935-12-14 00:00:00"
+}

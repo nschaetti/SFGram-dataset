@@ -1,0 +1,20 @@
+{
+    "name": "C. M. Kornbluth", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Explorers_(collection)", 
+        "found": true
+    }, 
+    "n_books": 8, 
+    "summary": "The Explorers is the first collection of stories by science fiction writer C. M. Kornbluth, originally published in paperback by Ballantine Books in 1954. Ballantine reissued the collection in 1963. While no further editions of the collection were published, six of its nine stories were included in Ballantine's 1977 The Best of C. M. Kornbluth, and all the stories are contained in NESFA's 1997 His Share of Glory: The Complete Short Science Fiction of C. M. Kornbluth.\n\n", 
+    "books": [
+        142, 
+        171, 
+        361, 
+        447, 
+        485, 
+        540, 
+        596, 
+        829
+    ], 
+    "id": 51
+}

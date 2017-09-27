@@ -1,0 +1,17 @@
+{
+    "bio": "", 
+    "name": "Kurt Vonnegut", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut", 
+        "found": true
+    }, 
+    "n_books": 2, 
+    "summary": "Kurt Vonnegut, Jr. (; November 11, 1922 \u2013 April 11, 2007) was an American writer. In a career spanning over 50 years, Vonnegut published 14 novels, three short story collections, five plays, and five works of non-fiction. He is most famous for his darkly satirical, best-selling novel Slaughterhouse-Five (1969).\nBorn and raised in Indianapolis, Indiana, Vonnegut attended Cornell University, but dropped out in January 1943 and enlisted in the United States Army. As part of his training, he studied mechanical engineering at Carnegie Institute of Technology (now Carnegie Mellon University) and the University of Tennessee. He was then deployed to Europe to fight in World War II, and was captured by the Germans during the Battle of the Bulge. He was interned in Dresden and survived the Allied bombing of the city by taking refuge in a meat locker of the slaughterhouse where he was imprisoned. After the war, Vonnegut married Jane Marie Cox, with whom he had three children. He later adopted his sister's three sons, after she died of cancer and her husband died in a train accident.\nVonnegut published his first novel, Player Piano, in 1952. The novel was reviewed positively, but was not commercially successful. In the nearly 20 years that followed, Vonnegut published several novels that were only marginally successful, such as Cat's Cradle (1963) and God Bless You, Mr. Rosewater (1964). Vonnegut's magnum opus, however, was his immediately successful sixth novel, Slaughterhouse-Five. The book's antiwar sentiment resonated with its readers amidst the ongoing Vietnam War, and its reviews were generally positive. After its release, Slaughterhouse-Five went to the top of The New York Times Best Seller list, thrusting Vonnegut into fame. He was invited to give speeches, lectures, and commencement addresses around the country and received many awards and honors.\nLater in his career, Vonnegut published several autobiographical essays and short-story collections, including Fates Worse Than Death (1991), and A Man Without a Country (2005). After his death, he was hailed as a morbidly comical commentator on the society in which he lived, and as one of the most important contemporary writers. Vonnegut's son Mark published a compilation of his father's unpublished compositions, titled Armageddon in Retrospect. Numerous scholarly works have examined Vonnegut's writing and humor.", 
+    "born": "1922-11-11 00:00:00", 
+    "books": [
+        5, 
+        24
+    ], 
+    "id": 4, 
+    "died": "2007-04-11 00:00:00"
+}

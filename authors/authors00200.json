@@ -1,0 +1,12 @@
+{
+    "books": [
+        599, 
+        876
+    ], 
+    "wikipedia": {
+        "found": false
+    }, 
+    "name": "Joe Gibson", 
+    "n_books": 2, 
+    "id": 200
+}

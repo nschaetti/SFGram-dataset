@@ -1,0 +1,15 @@
+{
+    "name": "Paul Ernst", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Paul_Ernst_(German_writer)", 
+        "found": true
+    }, 
+    "n_books": 3, 
+    "summary": "(Karl Friedrich) Paul Ernst (7 March 1866, Elbingerode, Kingdom of Hanover \u2013 13 May 1933, aged 67) was a German writer, dramatist, critic and journalist.", 
+    "books": [
+        600, 
+        778, 
+        850
+    ], 
+    "id": 201
+}

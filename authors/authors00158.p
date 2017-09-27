@@ -1,0 +1,46 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Author
+Author
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'bio'
+p6
+VHe was born in 1900.\u000aHe began publishing in 1927 with the story "Loup-Garou" in Weird Tales. The majority of West's work, which appeared prior to the 1960s, was short fiction, although he occasionally did turn his hand to writing novels. His novels, mostly published after World War II, were mostly re-workings of his pre-war short fiction.
+p7
+sS'name'
+p8
+VWallace West
+p9
+sS'wikipedia'
+p10
+(dp11
+S'url'
+p12
+Vhttps://en.wikipedia.org/wiki/Wallace_West
+p13
+sS'found'
+p14
+I01
+ssS'n_books'
+p15
+I2
+sS'summary'
+p16
+VWallace West ((1900-05-22)May 22, 1900 \u2013 March 8, 1980(1980-03-08)) was an American science fiction writer.
+p17
+sS'books'
+p18
+(lp19
+I473
+aI920
+asS'id'
+p20
+I158
+sb.

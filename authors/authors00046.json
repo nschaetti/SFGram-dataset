@@ -1,0 +1,15 @@
+{
+    "name": "Samuel R. Delany", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Samuel_R._Delany", 
+        "found": true
+    }, 
+    "n_books": 2, 
+    "summary": "Samuel Ray Delany, Jr. (; born April 1, 1942), Chip Delany to his friends, is an American author, professor and literary critic. His work includes fiction (especially science fiction), memoir, criticism, and essays on sexuality and society.\nHis science fiction novels include Babel-17, The Einstein Intersection (winners of the Nebula Award for 1966 and 1967 respectively), Nova, Dhalgren, and the Return to Nev\u00e8r\u00ffon series. After winning four Nebula awards and two Hugo awards over the course of his career, Delany was inducted by the Science Fiction and Fantasy Hall of Fame in 2002. From January 2001 until his retirement in May 2015, he was a professor of English and Creative Writing at Temple University in Philadelphia. In 2010 he won the third J. Lloyd Eaton Lifetime Achievement Award in Science Fiction from the academic Eaton Science Fiction Conference at UCR Libraries. The Science Fiction Writers of America named him its 30th SFWA Grand Master in 2013.", 
+    "born": "1942-04-01 00:00:00", 
+    "books": [
+        130, 
+        150
+    ], 
+    "id": 46
+}

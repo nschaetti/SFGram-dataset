@@ -1,0 +1,27 @@
+{
+    "name": "Stephen Marlowe", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Stephen_Marlowe", 
+        "found": true
+    }, 
+    "n_books": 15, 
+    "summary": "Stephen Marlowe (born Milton Lesser, (1928-08-07)August 7, 1928 in Brooklyn, New York, died February 22, 2008(2008-02-22) (aged 79), in Williamsburg, Virginia) was an American author of science fiction, mystery novels, and fictional autobiographies of Christopher Columbus, Miguel de Cervantes, and Edgar Allan Poe. He is best known for his detective character Chester Drum, whom he created in the 1955 novel The Second Longest Night. Lesser also wrote under the pseudonyms Adam Chase, Andrew Frazer, C.H. Thames, Jason Ridgway, Stephen Wilder and Ellery Queen.\nLesser attended the College of William & Mary, earning his degree in philosophy, marrying Leigh Lang shortly after graduating. The couple divorced in 1962. He was drafted into the United States Army during the Korean War.\nHe was awarded the French Prix Gutenberg du Livre in 1988 for The Memoirs of Christopher Columbus, and in 1997 he was awarded the \"Life Achievement Award\" by the Private Eye Writers of America. He also served on the board of directors of the Mystery Writers of America. He lived with his second wife Ann in Williamsburg, Virginia.", 
+    "books": [
+        236, 
+        388, 
+        496, 
+        509, 
+        571, 
+        577, 
+        608, 
+        714, 
+        752, 
+        819, 
+        820, 
+        835, 
+        881, 
+        882, 
+        953
+    ], 
+    "id": 79
+}

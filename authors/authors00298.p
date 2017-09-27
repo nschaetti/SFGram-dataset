@@ -1,0 +1,45 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Author
+Author
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'bio'
+p6
+VAnn was born in April 1776 near the village of Llanfihangel-yng-Ngwynfa, six miles (10 km) from the market town of Llanfyllin (in the former county of Montgomeryshire) in Powys. She was the daughter of John Evan Thomas, a tenant farmer and churchwarden, and his wife, Jane. She had two older sisters, an older brother, John, and a younger brother, Edward. Her parents' house, Dolwar Fechan, was an isolated farm-house some two and a half miles (4 km) south of Llanfihangel and one mile (1.6 km) north of Dolanog, set among hills and streams.\u000aNot far away lay Pennant Melangell, where Saint Melangell had lived as a hermit in the 6th century.\u000aAnn was brought up in the Anglican Church; but in 1794, when she was 18, her mother died, and about this time or perhaps earlier she followed her brothers John and Edward in becoming drawn to the Methodist movement. In 1796 she joined the Calvinistic Methodist movement after hearing the preaching of Rev. Benjamin Jones of Pwllheli.\u000aAfter the deaths of both her parents she married Thomas Griffiths, a farmer from the parish of Meifod and an elder of the Calvinistic Methodist church.\u000aShe died following childbirth aged 29, and was buried on 12 August 1805 at Llanfihangel-yng-Ngwynfa.\u000aShe left behind a handful of stanzas in the Welsh language. These were preserved and published by her mentor, the Calvinistic Methodist minister, John Hughes of Pontrobert, and his wife, Ruth, who had been a maid at Ann Griffiths' farm and was a close confidante.\u000aTogether with Mary Jones (1784\u20131864), a poor Welsh girl who walked to Bala to buy a Bible, Ann Griffiths became a national icon by the end of the 19th century, and was a significant figure in Welsh nonconformism.
+p7
+sS'name'
+p8
+VAnn Griffith
+p9
+sS'wikipedia'
+p10
+(dp11
+S'url'
+p12
+Vhttps://en.wikipedia.org/wiki/Ann_Griffiths
+p13
+sS'found'
+p14
+I01
+ssS'n_books'
+p15
+I1
+sS'summary'
+p16
+VAnn Griffiths (née Thomas) (April 1776 \u2013 August 1805) was a Welsh poet and writer of Methodist Christian hymns.
+p17
+sS'books'
+p18
+(lp19
+I968
+asS'id'
+p20
+I298
+sb.

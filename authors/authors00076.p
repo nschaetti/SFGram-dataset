@@ -1,0 +1,45 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Author
+Author
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'bio'
+p6
+VHyne was born 11 May 1866. He was married to Mary Elisabeth Haggis (died 1938). They had a son named Charles Godfrey Haggas Cutcliffe Hyne (1 December 1897 \u2013 21 November 1916). He was wounded in the battle of the Sommes and died from his wounds. They also had a daughter, Nancy Mildred Cutcliffe Hyne (1902\u20131999).\u000aCaptain Kettle first appeared as a side character in the novel Honour of Thieves (1895). His first appearance as a main character was in the short story 'Stealing a President' in vol 1, issue 6 of Pearson's Magazine (1896). This initial short story was followed in 1897 by a series of twelve short stories again in Pearson's Magazine that were later collected and published as Adventures of Captain Kettle. Over the next four years two more sets of twelve stories were published in Pearson's Magazine and subsequently collected as Further Adventures of Captain Kettle ("A master of fortune" in the US) and Captain Kettle K.C.B. respectively.\u000aThe character of Captain Kettle is said to be based on a South Shields sea captain, Davey Proffit, whose physical appearance closely matched the descriptions in the books, but Cutcliffe Hyne insisted emphatically that this was not the case. However, the most enduring image of Kettle was created by Stanley L. Wood, who provided the illustrations for Pearson's Magazine; they were reprinted in the first book compilations of the stories. He found 'the exact spit and image of our little sailor, pulling beer behind a bar' in a pub in north London. This is noteworthy because Wood's Captain Kettle bears a striking resemblance (particularly in his stance, the set of the head on the shoulders, his beard and the characteristic gaze) to the novelist Joseph Conrad, also a sailor. Among the people who saw this remarkable similarity was H. G. Wells, whose War of the Worlds appeared in Pearson's in instalments, alternating with the Captain Kettle stories. Conrad met Wells at just this time, read Pearson's, and borrowed whole phrases, key episodes, and images from the Kettle stories for Heart of Darkness.
+p7
+sS'name'
+p8
+VCharles John Cutcliffe Wright Hyne
+p9
+sS'wikipedia'
+p10
+(dp11
+S'url'
+p12
+Vhttps://en.wikipedia.org/wiki/C._J._Cutcliffe_Hyne
+p13
+sS'found'
+p14
+I01
+ssS'n_books'
+p15
+I1
+sS'summary'
+p16
+VCharles John Cutcliffe Wright Hyne (11 May 1866 \u2013 10 March 1944) was an English novelist who was also known by the pen name Weatherby Chesney. He is perhaps best remembered as the author of The Lost Continent: The Story of Atlantis. He is also remembered for his Captain Kettle stories and for The Recipe for Diamonds.
+p17
+sS'books'
+p18
+(lp19
+I233
+asS'id'
+p20
+I76
+sb.

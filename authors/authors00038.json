@@ -1,0 +1,18 @@
+{
+    "name": "E. Everett Evans", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Evelyn_Everett-Green", 
+        "found": true
+    }, 
+    "n_books": 4, 
+    "summary": "Evelyn Ward Everett-Green (17 November 1856, London \u2013 23 April 1932, Funchal) was an English novelist who started her writing career with improving and pious stories for children, and later wrote historical fiction for older girls, and then adult romantic fiction. She wrote about 350 books: more than 200 under her own name, and others using the pen-names H. F. E., Cecil Adair, E. Ward, or Evelyn Dare.", 
+    "born": "1856-11-17 00:00:00", 
+    "books": [
+        102, 
+        502, 
+        640, 
+        751
+    ], 
+    "id": 38, 
+    "died": "1932-04-23 00:00:00"
+}

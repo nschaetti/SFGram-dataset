@@ -1,0 +1,16 @@
+{
+    "bio": "Robert Barr died from heart disease on 21 October 1912, at his home in Woldingham, a small village to the southeast of London.", 
+    "name": "Robert Barr", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Robert_Barr_(writer)", 
+        "found": true
+    }, 
+    "n_books": 1, 
+    "summary": "Robert Barr (16 September 1849 \u2013 21 October 1912) was a Scottish-Canadian short story writer and novelist, born in Glasgow, Scotland.\n\n", 
+    "born": "1849-09-16 00:00:00", 
+    "books": [
+        229
+    ], 
+    "id": 75, 
+    "died": "1912-10-21 00:00:00"
+}

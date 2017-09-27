@@ -1,0 +1,15 @@
+{
+    "name": "Henry Kuttner", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Kuttner", 
+        "found": true
+    }, 
+    "n_books": 3, 
+    "summary": "Kuttner is a German surname. Notable people with the surname include:\nBrian Kuttner mathematician\nErika Kuttner-Perreau\nHenry Kuttner (1915\u20131958) American author of science fiction, fantasy and horror\nJosua Heschel Kuttner (c.1803 \u2013 1878), Jewish Orthodox scholar and rabbi\nKurt K\u00fcttner (1907\u20131964) German SS officer\nRobert Kuttner, American journalist and writer\nRobert E. Kuttner (1927\u20131987) American biologist\nSarah Kuttner (born 1979) German presenter and writer\nStuart Kuttner (born 1939 or 1940), former newspaper editor\nStephan Kuttner (1907-1996), German law expert", 
+    "books": [
+        379, 
+        613, 
+        634
+    ], 
+    "id": 123
+}

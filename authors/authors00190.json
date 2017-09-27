@@ -1,0 +1,16 @@
+{
+    "name": "Homer Eon Flint", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Homer_Eon_Flint", 
+        "found": true
+    }, 
+    "n_books": 2, 
+    "summary": "Homer Eon Flint (bornas Homer Eon Flindt; 1888 \u20131924) was an American writer of pulp science fiction novels and stories.\nHe began working as a scenarist for silent films (reportedly at his wife's insistence) in 1912. In 1918 he published \"The Planeteer\" in All-Story Weekly. His \"Dr. Kinney\" stories were reprinted by Ace Books in 1965, and with Austin Hall he co-wrote the novel The Blind Spot.\nReportedly he died as a result of an involvement in a bank robbery attempt. According to his granddaughter the only witness was himself a gangster.\nHis son was Max Hugh Flindt (1915-2004), co-founder of the ancient astronaut society who co-authored with Otto Binder Mankind \u2013 Child of the Stars in 1974, and in 2004 published Between the Apes and the Angels.", 
+    "born": "1888-08-26 00:00:00", 
+    "books": [
+        573, 
+        852
+    ], 
+    "id": 190, 
+    "died": "1924-08-26 00:00:00"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Donald A. Wollheim", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Donald_A._Wollheim", 
+        "found": true
+    }, 
+    "n_books": 2, 
+    "summary": "Donald Allen Wollheim (October 1, 1914 \u2013 November 2, 1990) was an American science fiction editor, publisher, writer, and fan. As an author, he published under his own name as well as under pseudonyms, including David Grinnell.\nA founding member of the Futurians, he was a leading influence on science fiction development and fandom in the 20th century United States.", 
+    "born": "1914-08-26 00:00:00", 
+    "books": [
+        301, 
+        744
+    ], 
+    "id": 97, 
+    "died": "1990-11-02 00:00:00"
+}

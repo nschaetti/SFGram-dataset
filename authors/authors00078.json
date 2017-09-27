@@ -1,0 +1,15 @@
+{
+    "books": [
+        235, 
+        299, 
+        406, 
+        598, 
+        639
+    ], 
+    "wikipedia": {
+        "found": false
+    }, 
+    "name": "John Berryman", 
+    "n_books": 5, 
+    "id": 78
+}

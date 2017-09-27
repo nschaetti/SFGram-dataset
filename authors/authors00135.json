@@ -1,0 +1,20 @@
+{
+    "name": "Robert Moore Williams", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Robert_Moore_Williams", 
+        "found": true
+    }, 
+    "n_books": 6, 
+    "summary": "Robert Moore Williams (June 19, 1907 \u2013 May 12, 1977) was an American writer, primarily of science fiction. Pseudonyms included John S Browning, H. H. Harmon, Russell Storm and E. K. Jarvis (a house name).\nWilliams was born in Farmington, Missouri. He graduated from the Missouri School of Journalism in 1931. His first published story was \"Zero as a Limit\", which appeared in Astounding Science Fiction in 1937, under the pseudonym of \"Robert Moore\". He was a prolific author throughout his career, his last novel appearing in 1972. His \"Jongor\" series was originally published in Fantastic Adventures in the 1940s and 1950s, and appeared in book form in 1970. By the 1960s he had published over 150 stories.\n\n", 
+    "born": "1907-08-26 00:00:00", 
+    "books": [
+        414, 
+        584, 
+        612, 
+        691, 
+        779, 
+        911
+    ], 
+    "id": 135, 
+    "died": "1977-05-12 00:00:00"
+}

@@ -1,0 +1,47 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Author
+Author
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'bio'
+p6
+VAfter leaving Ziff-Davis, the magazines' publisher, he focused on writing his own work, often under different names. He ghost-wrote several juveniles, such as The Runaway Robot (1965), based on outlines by Lester del Rey, whose name appeared on the books. He also wrote the Sherlock Holmes part of Ellery Queen's A Study In Terror (1966), in which Ellery finds a previously unknown Sherlock Holmes manuscript.
+p7
+sS'name'
+p8
+VPaul W. Fairman
+p9
+sS'wikipedia'
+p10
+(dp11
+S'url'
+p12
+Vhttps://en.wikipedia.org/wiki/Paul_W._Fairman
+p13
+sS'found'
+p14
+I01
+ssS'n_books'
+p15
+I3
+sS'summary'
+p16
+VPaul Warren Fairman (1916\u20131977) was an editor and writer in a variety of genres under his own name and under pseudonyms. His detective story "Late Rain" was published in the February 1947 issue of Mammoth Detective. He published his story "No Teeth for the Tiger" in the February 1950 issue of Amazing Stories. Two years later, he was the founding editor of If, but only edited four issues. In 1955, he became the editor of Amazing Stories and Fantastic. He held that dual position until 1958. His science fiction short stories "Deadly City" and "The Cosmic Frame" were made into motion pictures.
+p17
+sS'books'
+p18
+(lp19
+I669
+aI893
+aI912
+asS'id'
+p20
+I221
+sb.
