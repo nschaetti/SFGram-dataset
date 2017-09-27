@@ -1,0 +1,73 @@
+{
+    "content_name": "26955.txt.utf-8", 
+    "author_name": "Jack G. Huekels", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26955/26955-h/images/001.png", 
+        "http://www.gutenberg.org/files/26955/26955-page-images/p216-image.png", 
+        "http://www.gutenberg.org/files/26955/26955-page-images/p216.png", 
+        "http://www.gutenberg.org/files/26955/26955-page-images/p217.png", 
+        "http://www.gutenberg.org/files/26955/26955-page-images/p218.png", 
+        "http://www.gutenberg.org/files/26955/26955-page-images/p219.png", 
+        "http://www.gutenberg.org/files/26955/26955-page-images/p220.png", 
+        "http://www.gutenberg.org/files/26955/26955-page-images/p221.png"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 297, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Advanced Chemistry", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.09, 
+    "rating_count": 32, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6350505-advanced-chemistry", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26955", 
+        "num": 26955
+    }, 
+    "authors": [
+        96
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-10-18T00:00:00", 
+    "author": 96, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "science-fiction", 
+        "ebook", 
+        "sci-fi", 
+        "nonfictionreference", 
+        "death", 
+        "audio-books", 
+        "librivox-short-story-collection-11", 
+        "audiobooks", 
+        "short-story", 
+        "books", 
+        "unread", 
+        "calibre", 
+        "owned", 
+        "audio-obtained", 
+        "academic", 
+        "chemistry", 
+        "feedbooks-com", 
+        "audio", 
+        "g-science-fiction", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "un"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

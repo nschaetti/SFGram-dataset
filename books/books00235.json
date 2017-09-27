@@ -1,0 +1,80 @@
+{
+    "content_name": "24277.txt.utf-8", 
+    "isbn": "0486427358", 
+    "author_name": "John Berryman", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24277/24277-h/images/image_01.jpg", 
+        "http://www.gutenberg.org/files/24277/24277-h/images/image_02.jpg", 
+        "http://www.gutenberg.org/files/24277/24277-h/images/image_03.jpg", 
+        "http://www.gutenberg.org/files/24277/24277-h/images/image_04_01.jpg", 
+        "http://www.gutenberg.org/files/24277/24277-h/images/image_04_03.jpg", 
+        "http://www.gutenberg.org/files/24277/24277-h/images/image_05.jpg"
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 235, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Card Trick", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.29, 
+    "rating_count": 32, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/1361505.Scarne_on_Card_Tricks", 
+        "found": true, 
+        "year": 1974
+    }, 
+    "similar_books": [], 
+    "description": "This marvelous treasury of card magic presents the exact details of 155 professional card tricks \u2014 none of them requiring sleight-of-hand dexterity \u2014 assembled by the world's number-one card wizard, John Scarne. An authority on gambling and card tricks, Scarne won renown for teaching professional gamblers how to sharpen their skills and avoid being fleeced. For this collection of mystifying and effective maneuvers, he assembled an exciting series of original effects and classic card tricks, reworked to eliminate the need for sleight-of-hand.<br />Simple instructions and clear diagrams illustrate Houdini's \"Card on the Ceiling,\" Blackstone's \"Card Trick Without Cards,\" Carlyle's \"Piano Card Trick,\" Milton Berle's \"Quickie Card Deal,\" and dozens more. Also included are Scarne's \"Drunken Poker Deal,\" \"Knockout Card Trick,\" and others from his repertoire \u2014 tricks that have fooled some of the world's leading magicians.<br />Scarne presents all tricks with advice on accompanying patter, offering helpful suggestions about the kinds of words and gesturers that give performances a professional gloss. Anyone can learn these tricks, and this single volume contains everything a would-be master of card magic needs to know.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24277", 
+        "num": 24277
+    }, 
+    "authors": [
+        78
+    ], 
+    "pages": 336, 
+    "language": "English", 
+    "isbn13": "9780486427355", 
+    "country": 3, 
+    "release_date": "2008-01-14T00:00:00", 
+    "author": 78, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "magic", 
+        "default", 
+        "cards", 
+        "1", 
+        "magic-tricks", 
+        "sports", 
+        "owned", 
+        "nonfiction", 
+        "magick", 
+        "read-magic", 
+        "lcs-gv", 
+        "jhilam", 
+        "education", 
+        "educational-shite", 
+        "boxes", 
+        "hardcopy", 
+        "box-09", 
+        "card-tricks", 
+        "tricks", 
+        "our-library", 
+        "scarne", 
+        "sports-leisure", 
+        "non-fiction", 
+        "games", 
+        "fiction", 
+        "repository"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

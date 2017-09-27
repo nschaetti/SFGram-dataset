@@ -1,0 +1,63 @@
+{
+    "content_name": "51493.txt.utf-8", 
+    "isbn": "1880448122", 
+    "author_name": "Fritz Leiber", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51493/51493-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51493/51493-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51493/51493-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51493/51493-h/images/illus3.jpg"
+    ], 
+    "year": 1992, 
+    "images": [], 
+    "id": 239, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Kreativity For Kats", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.43, 
+    "rating_count": 5, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51493/pg51493.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/7622966-kreativity-for-kats", 
+        "found": true, 
+        "year": 1992
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51493", 
+        "num": 51493
+    }, 
+    "authors": [
+        32
+    ], 
+    "language": "English", 
+    "isbn13": "9781880448120", 
+    "country": 3, 
+    "release_date": "2016-03-18T00:00:00", 
+    "author": 32, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "short-stories", 
+        "sci-fi", 
+        "shorts", 
+        "scifi-fantasy", 
+        "owned", 
+        "favorites", 
+        "animals", 
+        "science-fiction", 
+        "fiction", 
+        "audiobooks-read", 
+        "4-stars", 
+        "audiobooks", 
+        "audio-books-to-read", 
+        "audiobooks-to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

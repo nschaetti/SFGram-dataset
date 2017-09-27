@@ -1,0 +1,60 @@
+{
+    "content_name": "29133.txt.utf-8", 
+    "author_name": "Eando Binder", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29133/29133-h/images/001-1.jpg", 
+        "http://www.gutenberg.org/files/29133/29133-h/images/001-2.jpg"
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 287, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Shipwreck in the Sky", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.97, 
+    "rating_count": 26, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8544753-shipwreck-in-the-sky", 
+        "found": true, 
+        "year": 1954
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29133", 
+        "num": 29133
+    }, 
+    "authors": [
+        92
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-06-15T00:00:00", 
+    "author": 92, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "sci-fi", 
+        "kindle", 
+        "owned", 
+        "shorts", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "read-2015", 
+        "sf-fantasy", 
+        "1950s", 
+        "13", 
+        "binder-eando", 
+        "e-book", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,62 @@
+{
+    "content_name": "32360.txt.utf-8", 
+    "author_name": "Jerome Bixby", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32360/32360-h/images/img_0000.jpg", 
+        "http://www.gutenberg.org/files/32360/32360-h/images/img_0114i.jpg", 
+        "http://www.gutenberg.org/files/32360/32360-h/images/img_0115i.jpg"
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 254, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Holes Around Mars", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.55, 
+    "rating_count": 21, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10349036-the-holes-around-mars", 
+        "found": true, 
+        "year": 1954
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "ebook", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32360", 
+        "num": 32360
+    }, 
+    "authors": [
+        85
+    ], 
+    "pages": 23, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-05-13T00:00:00", 
+    "author": 85, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "currently-reading", 
+        "ebook", 
+        "20th-century-lit", 
+        "scifi", 
+        "owned-pending-kindle-free-ebook", 
+        "short-fiction", 
+        "20th-century", 
+        "audio-obtained-lvss", 
+        "ebook-kindle-own", 
+        "short-stories", 
+        "1950s", 
+        "classic-books-usb", 
+        "books-i-read-in-2012", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

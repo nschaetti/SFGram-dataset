@@ -1,0 +1,54 @@
+{
+    "content_name": "30679.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "John Berryman", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30679/30679-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30679/30679-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30679/30679-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/30679/30679-h/images/image_004.jpg", 
+        "http://www.gutenberg.org/files/30679/30679-h/images/image_005.jpg", 
+        "http://www.gutenberg.org/files/30679/30679-h/images/image_006.jpg", 
+        "http://www.gutenberg.org/files/30679/30679-h/images/image_d.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 299, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Trouble with Telstar", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 2, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/21520191-the-trouble-with-telstar", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "The real trouble with communications satellites is the enormous difficulty of repairing even the simplest little trouble. You need such a loooong screwdriver.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30679", 
+        "num": 30679
+    }, 
+    "authors": [
+        78
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-12-14T00:00:00", 
+    "author": 78, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "21st-century-lit", 
+        "owned", 
+        "kindle"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

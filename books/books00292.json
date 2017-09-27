@@ -1,0 +1,73 @@
+{
+    "content_name": "18460.txt.utf-8", 
+    "isbn": "1557426643", 
+    "author_name": "H. Beam Piper", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/18460/18460-h/images/ill1.png", 
+        "http://www.gutenberg.org/files/18460/18460-h/images/ill2.png"
+    ], 
+    "year": 2006, 
+    "images": [], 
+    "id": 292, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Flight From Tomorrow", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.6, 
+    "rating_count": 36, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/676226.Flight_from_Tomorrow", 
+        "found": true, 
+        "year": 2006
+    }, 
+    "similar_books": [], 
+    "description": "Five of H. Beam Piper's classic science fiction stories are collected here, including \"Graveyard of Dreams,\" \"Genesis,\" \"Operation R.S.V.P.,\" \"The Answer,\" and \"Flight from Tomorrow.\"", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/18460", 
+        "num": 18460
+    }, 
+    "authors": [
+        19
+    ], 
+    "pages": 112, 
+    "language": "English", 
+    "isbn13": "9781557426642", 
+    "country": 3, 
+    "release_date": "2006-05-27T00:00:00", 
+    "author": 19, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "science-fiction", 
+        "short-stories", 
+        "kindle", 
+        "ebooks", 
+        "fiction", 
+        "sf", 
+        "july-2017", 
+        "to-read-sci-fic-fantasy", 
+        "z2011", 
+        "time-travelling", 
+        "e-reader", 
+        "collected-classics", 
+        "classic-lit", 
+        "own-audiobook", 
+        "my-books", 
+        "the-real-stuff", 
+        "on-disk", 
+        "scifi-fantasy", 
+        "sci-fi-or-speculative", 
+        "hugo-nebula-reading-list", 
+        "to-read-interloan-sd", 
+        "science", 
+        "pdfs"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

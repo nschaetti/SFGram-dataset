@@ -1,0 +1,43 @@
+{
+    "content_name": "51258.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Keith Laumer", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51258/51258-h/images/cover.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 207, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "A Bad Day for Vermin", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51258/pg51258.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/35896849-a-bad-day-for-vermin", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51258", 
+        "num": 51258
+    }, 
+    "authors": [
+        67
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-02-21T00:00:00", 
+    "author": 67, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

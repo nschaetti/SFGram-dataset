@@ -1,0 +1,79 @@
+{
+    "content_name": "23301.txt.utf-8", 
+    "author_name": "Victoria Glad", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23301/23301-h/images/illus.jpg", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p048-image.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p048.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p049.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p050.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p051.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p052.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p053.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p054.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p055.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p056.png", 
+        "http://www.gutenberg.org/files/23301/23301-page-images/p057.png"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 258, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Each Man Kills", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.44, 
+    "rating_count": 7, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6084730-each-man-kills", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23301", 
+        "num": 23301
+    }, 
+    "authors": [
+        87
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-11-03T00:00:00", 
+    "author": 87, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "horror", 
+        "short-stories", 
+        "fiction", 
+        "need-to-read", 
+        "21st-century-lit", 
+        "read-again", 
+        "kindle", 
+        "shelf-g-authors", 
+        "genre-mys-thrill-act", 
+        "weird-fiction", 
+        "vampires", 
+        "supernatural", 
+        "strange-fiction", 
+        "spooky", 
+        "paranormal", 
+        "meh", 
+        "horror-ghost-stories", 
+        "vampire", 
+        "pulp", 
+        "humor", 
+        "20th-century", 
+        "sfbywomen", 
+        "sf", 
+        "short-story", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

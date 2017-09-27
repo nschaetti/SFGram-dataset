@@ -1,0 +1,78 @@
+{
+    "content_name": "31262.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Philip Jos\u00e9 Farmer", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/31262/31262-h/images/cover.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 230, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Rastignac the Devil", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.29, 
+    "rating_count": 47, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/31262/pg31262.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/9897077-rastignac-the-devil", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/31262", 
+        "num": 31262
+    }, 
+    "authors": [
+        42
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-02-12T00:00:00", 
+    "author": 42, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "currently-reading", 
+        "kindle", 
+        "fiction", 
+        "sci-fi", 
+        "genre", 
+        "dystopia", 
+        "thriller", 
+        "revolutions", 
+        "weird", 
+        "20th-century", 
+        "read-in-english", 
+        "audio-cd", 
+        "short-stories-novellas", 
+        "short", 
+        "audiobooks", 
+        "own-audiobook", 
+        "politics", 
+        "novels-and-short-stories", 
+        "fantasy-and-science-fiction", 
+        "e-books", 
+        "library-unread", 
+        "sf", 
+        "14", 
+        "audio-ebooks", 
+        "novel", 
+        "all-ebook", 
+        "scifi", 
+        "free-ebook", 
+        "3\u00bd-\u2605-rating", 
+        "novella", 
+        "2013-reads", 
+        "stories"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

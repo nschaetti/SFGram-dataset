@@ -1,0 +1,80 @@
+{
+    "content_name": "51267.txt.utf-8", 
+    "isbn": "0441206565", 
+    "author_name": "Keith Laumer", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51267/51267-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51267/51267-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51267/51267-h/images/illus2.jpg"
+    ], 
+    "year": 1985, 
+    "images": [], 
+    "id": 250, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "End as a Hero", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.38, 
+    "rating_count": 49, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51267/pg51267.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/1417216.End_As_A_Hero", 
+        "found": true, 
+        "year": 1985
+    }, 
+    "similar_books": [], 
+    "description": "THE CONQUERING HERO<br /><br />Mankind was at war with the hideous Gool...and losing. Then, beyond Ganymead, one man fought the searing brain probe of an alien spy...and won. He mastered the power of its telepathic mind-control, captured the secret of its matter transmitters, and learned how to destroy the Gool Overlords. He called intelligence with news of the victory and headed home.<br /><br />Straight into a barrage of Terran nuclear warheads.<br /><br />Past missiles, shells, and assassins, he made it home -- alone, badly wounded, and branded a traitor by conventional Terran wisdom that said no one could survive the Gool brain probe. No one, that is, except a brainwashed puppet deliberately allowed to survive to serve the Goos as a spy.<br /><br />But he must survive Earth's attempts to kill him -- because no matter how much his fellow humans want him dead, he knows that he is the only one who can lead them against the Gool and have a chance at victory.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51267", 
+        "num": 51267
+    }, 
+    "authors": [
+        67
+    ], 
+    "pages": 150, 
+    "language": "English", 
+    "isbn13": "9780441206568", 
+    "country": 3, 
+    "release_date": "2016-02-22T00:00:00", 
+    "author": 67, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "default", 
+        "fiction", 
+        "sf", 
+        "sci-fi", 
+        "owned", 
+        "science", 
+        "scifi", 
+        "sci-fi-fantasy", 
+        "hard-science-fiction", 
+        "on-calibre-to-read", 
+        "sf-war", 
+        "sf-genetics", 
+        "authors-l", 
+        "new", 
+        "bin-001", 
+        "aliens", 
+        "tg-books", 
+        "2fiction", 
+        "ascience-fiction-fantasy", 
+        "fantasy-sf", 
+        "military-scifi", 
+        "1paper", 
+        "paperback-box-11", 
+        "l-1", 
+        "science-fiction---fantasy", 
+        "--available-at-raspberrys--", 
+        "more-than-once", 
+        "sf-fan"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

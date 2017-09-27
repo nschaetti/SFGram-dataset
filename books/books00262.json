@@ -1,0 +1,54 @@
+{
+    "content_name": "51101.txt.utf-8", 
+    "isbn": "1523984287", 
+    "author_name": "Fritz Leiber", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51101/51101-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51101/51101-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51101/51101-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51101/51101-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 262, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Nice Girl With 5 Husbands", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.75, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51101/pg51101.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29206720-nice-girl-with-5-husbands", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51101", 
+        "num": 51101
+    }, 
+    "authors": [
+        32
+    ], 
+    "pages": 32, 
+    "language": "English", 
+    "isbn13": "9781523984282", 
+    "country": 3, 
+    "release_date": "2016-02-01T00:00:00", 
+    "author": 32, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "short-stories", 
+        "sci-fi"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

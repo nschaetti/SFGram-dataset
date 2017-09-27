@@ -1,0 +1,74 @@
+{
+    "content_name": "32953.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32953/32953-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/cover_2.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/cover_3.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_004.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_a.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_b.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_e.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_h.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_i.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_i1.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_j.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_n.jpg", 
+        "http://www.gutenberg.org/files/32953/32953-h/images/image_t.jpg"
+    ], 
+    "year": 2002, 
+    "images": [], 
+    "id": 236, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Quest of the Golden Ape", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.85, 
+    "rating_count": 18, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32953/pg32953.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8503634-quest-of-the-golden-ape-by-randall-garrett", 
+        "found": true, 
+        "year": 2002
+    }, 
+    "similar_books": [], 
+    "description": "How could this man awaken with no past\u2014no childhood\u2014no recollection except of a vague world of terror from which his mother cried out for vengeance and the slaughter of his own people stood as a monument of infamy?", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32953", 
+        "num": 32953
+    }, 
+    "authors": [
+        49, 
+        79
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-06-23T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "fiction", 
+        "science-fiction", 
+        "have-but-not-read", 
+        "classic-science-fiction", 
+        "lost-interest", 
+        "e-shelf", 
+        "owned-pending-kindle-free-ebook", 
+        "feedbooks-com", 
+        "sff", 
+        "alien-worlds", 
+        "sci-fi", 
+        "pulp"
+    ], 
+    "content_available": true, 
+    "n_authors": 2
+}

@@ -1,0 +1,73 @@
+{
+    "content_name": "23799.txt.utf-8", 
+    "author_name": "Tom Godwin", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23799/23799-h/images/001.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p006-image.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p006.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p007-image.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p007.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p008.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p009.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p010.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p011.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p012.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p013.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p014.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p015.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p016.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p017.png", 
+        "http://www.gutenberg.org/files/23799/23799-page-images/p033.png"
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 237, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Cry from a Far Planet", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.6, 
+    "rating_count": 25, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6328958-cry-from-a-far-planet", 
+        "found": true, 
+        "year": 1951
+    }, 
+    "similar_books": [], 
+    "description": "\"A smile of friendship is a baring of the teeth. So is a snarl of menace. It can be fatal to mistake the latter for the former.\"<br /><br />\"Harm an alien being only under circumstances of self-defense.\"<br /><br />TRUST NO ALIEN BEING UNDER ANY CIRCUMSTANCES.<br /><br />--From \"Exploration Ship's Handbook\"<br /><br />The problem of separating the friends from the enemies was a major one in the conquest of space as many a dead spacer could have testified. A tough job when you could see an alien and judge appearances; far tougher when they were only whispers on the wind.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23799", 
+        "num": 23799
+    }, 
+    "authors": [
+        39
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-10T00:00:00", 
+    "author": 39, 
+    "content_cleaned": true, 
+    "classes": [
+        "currently-reading", 
+        "science-fiction", 
+        "to-read", 
+        "sci-fi", 
+        "kindle", 
+        "fiction", 
+        "20th-century-lit", 
+        "shelf-g-authors", 
+        "a-pending-placement", 
+        "short-stories", 
+        "1950s", 
+        "scifi", 
+        "classic-lit", 
+        "collected-classics", 
+        "books-on-kindle"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

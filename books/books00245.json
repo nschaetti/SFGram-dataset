@@ -1,0 +1,53 @@
+{
+    "content_name": "51273.txt.utf-8", 
+    "author_name": "Christopher Anvil", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51273/51273-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51273/51273-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51273/51273-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51273/51273-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 245, 
+    "category": "Text", 
+    "plot": "Shakespeare, actor and renowned playwright, is contacted by Nicholas Skeres on behalf of members of an underground resistance movement who are plotting to overthrow the Spanish dominion of England and restore Elizabeth I to the throne. To do this, they employ Shakespeare himself, tasking him to write a play depicting the saga of Boudicca, an ancient Iceni queen who rebelled against the Roman invasion of Great Britain in the 1st century A.D. The conspirators hope that the play will inspire its audience, Britons once again under the heel of a foreign enemy, to overthrow the Spanish.\nThe plan is complicated by the Spaniards who, also recognizing Shakespeare's talents, commission him to write a play depicting the life of King Philip II of Spain and the Spanish conquest of England. Now Shakespeare must write two plays\u2014one glorifying the valor of England, the other glorifying its conquest and return to the Catholic Church\u2014at the same time. There is also a subplot of the exploits of the skirt-chasing Spanish playwright and soldier Lope de Vega, who is tasked by his superiors in the Spanish military hierarchy to keep an eye on Shakespeare and while he does so flits from woman to woman. De Vega even acts in Shakespeare's King Philip.\nDespite danger at every turn from both the Spanish Inquisition and a home-grown English Inquisition, the secret play comes to fruition, and despite qualms from Shakespeare and his fellow players it is performed. As the conspirators had hoped, the audience is roused into an anti-Spanish fury and rampages through London, killing any Spaniard they see and freeing Elizabeth from the Tower of London. Despite this victory and England's reclaimed freedom, there is considerable loss of life on both sides.\nShakespeare is rewarded by the reinstated Queen Elizabeth with a knighthood and an annulment of his unhappy marriage to Anne Hathaway, which frees him to marry his longtime mistress. The queen also grants his daring request that his King Philip play, which he considers to contain some of his best work, be staged. At the end of the story, Shakespeare uses his new status to facilitate the release of Lope de Vega from English captivity, provided that he immediately return to the Continent.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Advance Agent", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Ruled_Britannia", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51273/pg51273.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29537857-advance-agent", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51273", 
+        "num": 51273
+    }, 
+    "authors": [
+        81
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2016-02-21T00:00:00", 
+    "author": 81, 
+    "original_title": "Ruled Britannia", 
+    "summary": "Ruled Britannia is an alternate history novel by Harry Turtledove, first published in hardcover by New American Library in 2002.\nThe book is set in the years 1597-1598, in an alternate universe where the Spanish Armada is successful in 1588. The Kingdom of England has been conquered and returned to the fold of the Roman Catholic Church under the rule of Queen Isabella, daughter of Philip II of Spain. Queen Elizabeth is deposed and is imprisoned within the Tower of London as her fellow Protestants are burned as heretics by the English Inquisition.\nThe story is seen from the point of view of two famous playwrights: English poet William Shakespeare, and Spanish poet Lope de Vega; supporting characters include contemporaries Christopher Marlowe, Richard Burbage, and Will Kempe.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "unknown-publication-dates"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

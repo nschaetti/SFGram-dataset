@@ -1,0 +1,71 @@
+{
+    "content_name": "18584.txt.utf-8", 
+    "isbn": "1622343204", 
+    "language_code": "eng", 
+    "author_name": "H. Beam Piper", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/18584/18584-h/images/image_01.jpg", 
+        "http://www.gutenberg.org/files/18584/18584-h/images/image_02.jpg", 
+        "http://www.gutenberg.org/files/18584/18584-h/images/image_03.jpg", 
+        "http://www.gutenberg.org/files/18584/18584-h/images/image_42.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 260, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Edge of the Knife", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.75, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/34615168-edge-of-a-knife", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "Daniil LaChance grew up hard on the streets of the city-state of Allistair. A chance meeting with the shapeshifting Flame known as Knife changed that, though, when Knife took Daniil as her apprentice. The promise of initiation as one of the sexual mystics of the goddess Pelin turned Daniil\u2019s life from one of poverty and desperation to one of magic and mystery\u2014and made possible the renewal of a love affair that has lasted many lifetimes.<br /><br />This opportunity has come in dark times. Mob violence and murder sparked by the resentment of an aggrieved merchant threaten to literally drown the Flame, extinguishing them from the face of Uos. The Emperor stands aside, allowing the killings to go on for his own political gain, leaving the few surviving Flame to provide for their own safety. Daniil and Knife stand alone in the face of a world incensed to genocidal violence, desperately seeking a way to insure the survival of their kind. <br /><br />Knife has a plan, complex and risky, but there\u2019s so much that she\u2019s held back from her apprentice that Daniil doesn\u2019t find it easy to trust his mentor. And so Daniil finds himself torn between initiation as Flame and risking horrible death at the hands of the mob, or hiding in miserable safety in an identity he has always known is not his true self. (M/M, F/F, M/F)", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/18584", 
+        "num": 18584
+    }, 
+    "authors": [
+        19
+    ], 
+    "language": "English", 
+    "isbn13": "9781622343201", 
+    "country": 3, 
+    "release_date": "2006-06-14T00:00:00", 
+    "author": 19, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "m-m", 
+        "fantasy", 
+        "lgbt", 
+        "favorite-author", 
+        "aa-not-own-fr", 
+        "a-not-own-fr", 
+        "transgender", 
+        "thriller", 
+        "supernatural", 
+        "paranormal", 
+        "muliple-partners", 
+        "menage", 
+        "historical", 
+        "glbt", 
+        "f-m", 
+        "f-f", 
+        "erotica", 
+        "erotic", 
+        "drama", 
+        "bi"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

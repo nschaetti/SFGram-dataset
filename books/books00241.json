@@ -1,0 +1,71 @@
+{
+    "content_name": "32041.txt.utf-8", 
+    "isbn": "1463899238", 
+    "author_name": "Robert Sheckley", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32041/32041-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32041/32041-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/32041/32041-h/images/image_a.jpg", 
+        "http://www.gutenberg.org/files/32041/32041-h/images/image_c.jpg", 
+        "http://www.gutenberg.org/files/32041/32041-h/images/image_f.jpg", 
+        "http://www.gutenberg.org/files/32041/32041-h/images/image_h.jpg", 
+        "http://www.gutenberg.org/files/32041/32041-h/images/image_h1.jpg", 
+        "http://www.gutenberg.org/files/32041/32041-h/images/image_n1.jpg", 
+        "http://www.gutenberg.org/files/32041/32041-h/images/image_w.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 241, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "One Man's Poison", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Untouched_by_Human_Hands", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.57, 
+    "rating_count": 17, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32041/pg32041.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14403165-one-man-s-poison", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Something had gone wrong when they'd loaded the ship and the rations hadn't quite lasted long enough to make the outbound end of the uranium prospecting trip. Then they found an abandoned world and landed the ship on an old warehouse facility . . . and tried to found something to eat. Not an easy thing to do, going through an alien warehouse when they could barely read the manuals and had not much clue as to the nature of the local biology. They would have eaten a horse, if there'd been one. But there wasn't. And that was probably for the best -- it might have eaten them first!", 
+    "format": "Hardcover", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32041", 
+        "num": 32041
+    }, 
+    "authors": [
+        23
+    ], 
+    "pages": 26, 
+    "language": "English", 
+    "isbn13": "9781463899233", 
+    "country": 6, 
+    "release_date": "2010-04-18T00:00:00", 
+    "author": 23, 
+    "original_title": "Untouched by Human Hands", 
+    "summary": "Untouched by Human Hands is a collection of science fiction short stories by Robert Sheckley. It was first published in 1954 by Ballantine Books (catalogue number 73). It includes the following stories (magazines in which the stories originally appeared given in parentheses):\n\"The Monsters\" (F&SF 1953/3)\n\"Cost of Living\" (Galaxy 1952/12)\n\"The Altar\" (Fantastic 1953/7&8)\n\"Keep Your Shape\" (Galaxy 1953/11; also known as \"Shape\")\n\"The Impacted Man\" (Astounding 1952/12)\n\"Untouched by Human Hands\" (Galaxy 1953/12; also known as \"One Man's Poison\")\n\"The King's Wishes\" (F&SF 1953/7)\n\"Warm\" (Galaxy 1953/6)\n\"The Demons\" (Fantasy Magazine 1953/3)\n\"Specialist\" (Galaxy 1953/5)\n\"Seventh Victim\" (Galaxy 1953/4)\n\"Ritual\" (Climax 1953; also known as \"Strange Ritual\")\n\"Beside Still Waters\" (Amazing 1953/10&11)\nCritic Groff Conklin reviewed the collection for Galaxy Science Fiction in 1954; although generally favorable, the review claimed that Sheckley was \"still trying to discover his own particular bent\" and that he \"hasn't quite found his footing.\" Sheckley himself, according to a 1980 interview, was aware of the extreme stylistic diversity of the collection and the fact that some stories were not science fiction in the usual sense of the word:\n\nI felt I wasn't really writing science fiction. I was in some way writing a commentary on science fiction, and this sometimes made me feel, a little sadly, that I was not really into it.\n\nThe collection received positive reviews. Writing in The New York Times, Villiers Gerson wrote that Sheckley was \"a writer not quite like any other [whose] forte is his own brand of strange and wonderful humor.\"Boucher and McComas found it \"as brightly individual and entrancing a group of science-fantasies as we've seen in some time.\" P. Schuyler Miller compared Sheckley to Ray Bradbury, citing his \"fresh point of view\", his \"wry distortions of the familiar\", and his \"touch of the same poetry.\" Science fiction historian Michael Ashley, in his 2005 volume on the history of science fiction magazines, praised Sheckley's early work, including \"Untouched by Human Hands\", for the \"sheer lack of sophistication\u2014his ability to run circles around the establishment. [...] Sheckley's work highlights the fact that man's worst enemy is himself.\"\nThe collection was reprinted several times by different publishers. In 1965 the story \"Seventh Victim\" was adapted into The 10th Victim, an Italian film starring Marcello Mastroianni and Ursula Andress, also known as La decima vittima. Sheckley wrote a novelization of the film in 1966 (\"The Tenth Victim\"), and, in late 1980s, two more novels set in the same world.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "ebook", 
+        "junk", 
+        "owned-pending-kindle-free-ebook", 
+        "short-story", 
+        "on-calibre", 
+        "sci-fi", 
+        "fiction-sf", 
+        "currently-reading", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

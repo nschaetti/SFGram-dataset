@@ -1,0 +1,71 @@
+{
+    "content_name": "30199.txt.utf-8", 
+    "isbn": "146380010X", 
+    "author_name": "August Derleth", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30199/30199-h/images/001.png", 
+        "http://www.gutenberg.org/files/30199/30199-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/30199/30199-h/images/002-2.jpg"
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 267, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "McIlvaine's Star", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Harrigan%27s_File", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.33, 
+    "rating_count": 22, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11596326-mcilvaine-s-star", 
+        "found": true, 
+        "year": 1952
+    }, 
+    "similar_books": [], 
+    "description": "\"I've done it,\" McIlvaine said quietly. \"What's that?\" asked Alexander testily. \"I discovered a new star. It lies just off Arcturus,\" McIlvaine went on, \"and it would appear to be coming closer.\" \"Give it my love,\" said Richardson with a wry smile. \"Have you named it yet? Or don't the discoverers of new stars name them any more? McIlvaine's Star -- that's a good name for it. Hard a port of Arcturus, with special displays on windy nights.\" What Thaddeus McIlvaine and Alexander Richardson didn't realize was that they were characters in a horror story. A story written by August Derleth, the man who founded Arkham House. None of these folks knew it yet, but they're all DOOMED! Doomed! Mwahahahaha!", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30199", 
+        "num": 30199
+    }, 
+    "authors": [
+        43
+    ], 
+    "pages": 28, 
+    "language": "English", 
+    "isbn13": "9781463800109", 
+    "country": 2, 
+    "release_date": "2009-10-07T00:00:00", 
+    "author": 43, 
+    "original_title": "Harrigan's File", 
+    "summary": "Harrigan's File is a collection of stories by author August Derleth. It was released in 1975 by Arkham House in an edition of 4,102 copies. The book collects all of Derleth's science fiction. The stories are about newspaper reporter Tex Harrigan.\n\n", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "horror", 
+        "kindle", 
+        "z_fiction", 
+        "x_shortstory", 
+        "wo_scifi", 
+        "w_us_federal", 
+        "sci-fi", 
+        "short-story", 
+        "1950s", 
+        "short-stories-novellas", 
+        "14", 
+        "sci-fic", 
+        "read-in-2013", 
+        "masterpieces", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

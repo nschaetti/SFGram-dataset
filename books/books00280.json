@@ -1,0 +1,66 @@
+{
+    "content_name": "29548.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Robert Sheckley", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29548/29548-h/images/001.png", 
+        "http://www.gutenberg.org/files/29548/29548-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/29548/29548-h/images/002-2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 280, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Warrior Race", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.49, 
+    "rating_count": 29, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/9324436-warrior-race", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "ebook", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29548", 
+        "num": 29548
+    }, 
+    "authors": [
+        23
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-07-30T00:00:00", 
+    "author": 23, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "fiction", 
+        "short-stories", 
+        "classics", 
+        "audiobooks-read", 
+        "3-stars", 
+        "audiobooks", 
+        "owned-pending-kindle-free-ebook", 
+        "amazon-ebooks", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "ebooks", 
+        "eb-other", 
+        "eb", 
+        "si-fi-fantasy", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

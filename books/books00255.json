@@ -1,0 +1,83 @@
+{
+    "content_name": "29283.txt.utf-8", 
+    "author_name": "Jack Williamson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29283/29283-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/29283/29283-h/images/image_002.jpg"
+    ], 
+    "year": 1933, 
+    "images": [], 
+    "id": 255, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Salvage in Space", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.82, 
+    "rating_count": 63, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11342360-salvage-in-space", 
+        "found": true, 
+        "year": 1933
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "Kindle Edition", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29283", 
+        "num": 29283
+    }, 
+    "authors": [
+        86
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-07-01T00:00:00", 
+    "author": 86, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "owned", 
+        "audiobook", 
+        "20th-century-lit", 
+        "books", 
+        "dnf", 
+        "sci-fi-and-fantasy-fiction", 
+        "free-on-kindle", 
+        "currently-reading", 
+        "fiction", 
+        "audiobooks", 
+        "owned-pending-kindle-free-ebook", 
+        "kindle-free-ebook", 
+        "16", 
+        "short-story", 
+        "calibre", 
+        "mystery", 
+        "favorites", 
+        "early-mid-1900s", 
+        "books-i-reviewed", 
+        "books-i-recommend", 
+        "reviewed", 
+        "unread", 
+        "owned-books", 
+        "ebooks", 
+        "own-to-read", 
+        "audio-obtained", 
+        "appendix-n", 
+        "science-fiction-times", 
+        "on-the-standby-shelf", 
+        "sci-fi", 
+        "mmm2013", 
+        "e-book", 
+        "sciencefiction", 
+        "short-stories-novellas", 
+        "audible", 
+        "audio-obtained-lvss", 
+        "aaaaaaaa"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,71 @@
+{
+    "content_name": "41627.txt.utf-8", 
+    "author_name": "Ray Bradbury", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/41627/41627-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/41627/41627-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/41627/41627-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/41627/41627-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/41627/41627-h/images/illus4.jpg", 
+        "http://www.gutenberg.org/files/41627/41627-h/images/illus5.jpg"
+    ], 
+    "year": 2012, 
+    "images": [], 
+    "id": 272, 
+    "category": "Text", 
+    "plot": "Mr. Acton begins the story standing over the body of Mr. Huxley, whom he has just killed. While attempting to cover up his tracks, he has flashbacks of his encounters with Mr. Huxley, with whom he is having an altercation over a woman. These flashbacks reveal to the murderer that there are more and more of his fingerprints all over the man's house, because he thought that he had touched so many different objects. His frenzy to remove all of the evidence distracts him from his actual objective, to get away with the crime, and he is eventually caught after polishing the entire house.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Futuria Fantasia, Winter 1940", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Fruit_at_the_Bottom_of_the_Bowl", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.49, 
+    "rating_count": 41, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/41627/pg41627.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/18887748-futuria-fantasia-winter-1940", 
+        "found": true, 
+        "year": 2012
+    }, 
+    "similar_books": [], 
+    "loc_class": "AP: General Works: Periodicals", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/41627", 
+        "num": 41627
+    }, 
+    "authors": [
+        18
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2012-12-15T00:00:00", 
+    "author": 18, 
+    "original_title": "The Fruit at the Bottom of the Bowl", 
+    "summary": "\"The Fruit at the Bottom of the Bowl\" is a short story by Ray Bradbury. It was first published in Detective Book Magazine in November 1948 (cover date: Winter) as \"Touch and Go\". The story was re-titled and published as \"The Fruit at the Bottom of the Bowl\" in EQMM in January 1953. (Cover image: \"Ellery Queen's Mystery Magazine January 1953\" (jpg). American Mercury. Retrieved 18 October 2012. )", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "sci-fi", 
+        "science-fiction", 
+        "classics", 
+        "classic", 
+        "ebook", 
+        "short-stories", 
+        "library-own-personal-kindle", 
+        "anthologies", 
+        "fun", 
+        "fiction-kindle", 
+        "books-owned", 
+        "amazon", 
+        "on-shelf-to-be-read", 
+        "un-read", 
+        "to-read-low-priority", 
+        "finished-science-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

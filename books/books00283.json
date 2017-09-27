@@ -1,0 +1,82 @@
+{
+    "content_name": "23161.txt.utf-8", 
+    "author_name": "R. A. Lafferty", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23161/23161-h/images/i-01.png", 
+        "http://www.gutenberg.org/files/23161/23161-page-images/c001.jpg", 
+        "http://www.gutenberg.org/files/23161/23161-page-images/p104.png", 
+        "http://www.gutenberg.org/files/23161/23161-page-images/p105.png", 
+        "http://www.gutenberg.org/files/23161/23161-page-images/p106.png", 
+        "http://www.gutenberg.org/files/23161/23161-page-images/p107.png", 
+        "http://www.gutenberg.org/files/23161/23161-page-images/p108.png", 
+        "http://www.gutenberg.org/files/23161/23161-page-images/p109.png", 
+        "http://www.gutenberg.org/files/23161/23161-page-images/p110.png", 
+        "http://www.gutenberg.org/files/23161/23161-page-images/p111.png"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 283, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Sodom and Gomorrah, Texas", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.71, 
+    "rating_count": 45, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6298637-sodom-and-gomorrah-texas", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23161", 
+        "num": 23161
+    }, 
+    "authors": [
+        74
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-10-24T00:00:00", 
+    "author": 74, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "currently-reading", 
+        "sci-fi", 
+        "e-book", 
+        "sf-fantasy", 
+        "unread-owned", 
+        "scifi-fantasy", 
+        "ebook", 
+        "audio", 
+        "modern-fantasy", 
+        "z_fiction", 
+        "x_shortstory", 
+        "wo_scifi", 
+        "w_us_unitary", 
+        "check-out", 
+        "read-short-stories", 
+        "miscellany", 
+        "novellas-poems-shorts", 
+        "fiction", 
+        "america", 
+        "1960s", 
+        "shorts", 
+        "outread-aubrey-2014", 
+        "14", 
+        "gutenberg", 
+        "shortstories", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "short-stories-on-kindle"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

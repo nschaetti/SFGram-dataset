@@ -1,0 +1,74 @@
+{
+    "content_name": "41651.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Various", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/41651/41651-h/images/ad1.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/ad2.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/ad3.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/ad4.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/ad5.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/cover-big.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/illus4.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/illus5.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/illus6.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/illus7.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/illus8.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/illus10.jpg", 
+        "http://www.gutenberg.org/files/41651/41651-h/images/plug.jpg"
+    ], 
+    "year": 1940, 
+    "images": [], 
+    "id": 222, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Futuria Fantasia, Spring 1940", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.19, 
+    "rating_count": 29, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/41651/pg41651.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19089061-futuria-fantasia-spring-1940", 
+        "found": true, 
+        "year": 1940
+    }, 
+    "similar_books": [], 
+    "loc_class": "AP: General Works: Periodicals", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/41651", 
+        "num": 41651
+    }, 
+    "authors": [
+        17
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2012-12-18T00:00:00", 
+    "author": 17, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "science-fiction", 
+        "currently-reading", 
+        "short-story", 
+        "science", 
+        "ebook", 
+        "short-stories", 
+        "2015-reads", 
+        "anthologies", 
+        "3-i-have-not-read", 
+        "un-read", 
+        "classics", 
+        "finished-science-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

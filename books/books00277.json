@@ -1,0 +1,55 @@
+{
+    "content_name": "6630.txt.utf-8", 
+    "author_name": "Garrett Putman Serviss", 
+    "images_urls": [], 
+    "year": 1909, 
+    "images": [], 
+    "id": 277, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Curiosities of the Sky", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.23, 
+    "rating_count": 16, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/5626416-curiosities-of-the-sky", 
+        "found": true, 
+        "year": 1909
+    }, 
+    "similar_books": [], 
+    "loc_class": "QB: Science: Astronomy", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/6630", 
+        "num": 6630
+    }, 
+    "authors": [
+        90
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2004-10-01T00:00:00", 
+    "author": 90, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "kindle", 
+        "science", 
+        "amazon-books", 
+        "over-100-pages", 
+        "librivox", 
+        "free-from-amazon", 
+        "currently-reading", 
+        "owned-to-read", 
+        "reference", 
+        "books-i-own", 
+        "growing-interests", 
+        "humor", 
+        "z-skyosophy", 
+        "w-free-kindles"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,54 @@
+{
+    "content_name": "51768.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Robert Sheckley", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51768/51768-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51768/51768-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51768/51768-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51768/51768-h/images/illus3.jpg"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 247, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Prospector's Special", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.88, 
+    "rating_count": 8, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51768/pg51768.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8390820-prospector-s-special", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "description": "Robert Sheckley (1928-2005) was a Hugo and Nebula nominated American author. First published in the science fiction magazines of the 1950s, his numerous quick-witted stories and novels were famously unpredictable, absurdist, and broadly comical. Sheckley was given the Author Emeritus honor by the Science Fiction and Fantasy Writers of America in 2001. \"Prospector's Special\" originally appeared in \"Galaxy\" science fiction magazine, December 1959, under the editorship of H.L. Gold.", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51768", 
+        "num": 51768
+    }, 
+    "authors": [
+        23
+    ], 
+    "pages": 28, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-04-15T00:00:00", 
+    "author": 23, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "unread", 
+        "limbo-unread", 
+        "ebooks", 
+        "science-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

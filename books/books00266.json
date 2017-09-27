@@ -1,0 +1,47 @@
+{
+    "content_name": "32906.txt.utf-8", 
+    "author_name": "Bryce Walton", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32906/32906-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32906/32906-h/images/illus.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 266, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Thy Name Is Woman", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.33, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32906/pg32906.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/22283668-thy-name-is-woman", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "Bryce Walton (May 31, 1918 - February 5, 1988) was an American pulp fiction writer. He was credited as a writer for the TV serial Captain Video and His Video Rangers. In 1961, he won the Alfred Hitchcock Best Short Story award. He wrote three episodes of Alfred Hitchcock Presents, and two of his stories were adopted for the series, including \"The Greatest Monster of Them All\". This is one of his stories.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32906", 
+        "num": 32906
+    }, 
+    "authors": [
+        88
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-06-20T00:00:00", 
+    "author": 88, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "have-but-not-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

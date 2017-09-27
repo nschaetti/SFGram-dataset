@@ -1,0 +1,57 @@
+{
+    "content_name": "43048.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Karen Anderson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/43048/43048-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/43048/43048-h/images/illus.jpg"
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 286, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Piebald Hippogriff", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.62, 
+    "rating_count": 11, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/43048/pg43048.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/18297247-the-piebald-hippogriff", 
+        "found": true, 
+        "year": 1962
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "ebook", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/43048", 
+        "num": 43048
+    }, 
+    "authors": [
+        34
+    ], 
+    "pages": 6, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2013-06-27T00:00:00", 
+    "author": 34, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "fantasy", 
+        "fiction", 
+        "sfbywomen", 
+        "short-stories", 
+        "science-fiction", 
+        "1960s", 
+        "children-s-literature", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

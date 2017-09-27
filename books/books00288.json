@@ -1,0 +1,55 @@
+{
+    "content_name": "50844.txt.utf-8", 
+    "isbn": "0743220544", 
+    "author_name": "Robert Sheckley", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50844/50844-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50844/50844-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/50844/50844-h/images/illus2.jpg"
+    ], 
+    "year": 2003, 
+    "images": [], 
+    "id": 288, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Proof of the Pudding", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50844/pg50844.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/2742211-proof-of-the-pudding", 
+        "found": true, 
+        "year": 2003
+    }, 
+    "similar_books": [], 
+    "description": "<i>Proof of the Pudding</i> is a collection of more than 200 recipes, all easily achievable at home. Phil Vickery covers the whole range of dessert cookery and draws on various culinary traditions, including British and Continental. Every sort of pudding is represented here, including flans and tarts, sponge puddings, milk and cream puddings, meringues, mousses and cheesecakes, souffles, fruit purees and compotes, and sweet breads.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50844", 
+        "num": 50844
+    }, 
+    "authors": [
+        23
+    ], 
+    "pages": 302, 
+    "language": "English", 
+    "isbn13": "9780743220545", 
+    "country": 3, 
+    "release_date": "2016-01-04T00:00:00", 
+    "author": 23, 
+    "content_cleaned": true, 
+    "classes": [
+        "cookbooks", 
+        "cook-books", 
+        "baking", 
+        "2006-2008-singapore", 
+        "2000-2006"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}
