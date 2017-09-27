@@ -1,0 +1,68 @@
+{
+    "content_name": "37653.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Poul Anderson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/37653/37653-h/images/sfs1953001_1.jpg", 
+        "http://www.gutenberg.org/files/37653/37653-h/images/sfs1953004i.png", 
+        "http://www.gutenberg.org/files/37653/37653-h/images/sfs1953005i.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 155, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Sentiment, Inc.", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.05, 
+    "rating_count": 35, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/17902201-sentiment-inc", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from its physical to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "format": "Kindle Edition", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/37653", 
+        "num": 37653
+    }, 
+    "authors": [
+        30
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2011-10-07T00:00:00", 
+    "author": 30, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "short-stories", 
+        "audiobook", 
+        "currently-reading", 
+        "21st-century-lit", 
+        "audiobooks", 
+        "project-gutenberg", 
+        "englisch", 
+        "ebook", 
+        "sf", 
+        "undecided", 
+        "sf-ordinary", 
+        "mystery-suspense", 
+        "eua", 
+        "speculative-fiction", 
+        "to-read-sort", 
+        "kindle-own", 
+        "one-book-per-week", 
+        "14"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,68 @@
+{
+    "content_name": "22629.txt.utf-8", 
+    "author_name": "E. E. Smith", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/22629/22629-h/images/comet.jpg", 
+        "http://www.gutenberg.org/files/22629/22629-h/images/i-01.png", 
+        "http://www.gutenberg.org/files/22629/22629-h/images/i-02a.png", 
+        "http://www.gutenberg.org/files/22629/22629-h/images/i-02b.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/c001.jpg", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p002.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p003.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p004.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p005.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p006.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p007.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p008.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p009.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p010.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p011.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p012.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p013.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p014.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p015.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p016.png", 
+        "http://www.gutenberg.org/files/22629/22629-page-images/p017.png"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 143, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Vortex Blaster", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Vortex_Blaster", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.5, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/35239311-the-vortex-blaster", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/22629", 
+        "num": 22629
+    }, 
+    "authors": [
+        14
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2007-09-16T00:00:00", 
+    "author": 14, 
+    "original_title": "The Vortex Blaster", 
+    "summary": "The Vortex Blaster is a collection of three science fiction short stories by author Edward E. Smith, Ph.D.. It was simultaneously published in 1960 by Gnome Press in an edition of 3,000 copies and by Fantasy Press in an edition of 341 copies. The book was originally intended to be published by Fantasy Press, but was handed over to Gnome Press when Fantasy Press folded. Lloyd Eshbach, of Fantasy Press, who was responsible for the printing of both editions, printed the extra copies for his longtime customers. The stories originally appeared in the magazines Comet and Astonishing Stories.\nIn 1968, Pyramid Books issued a paperback edition under the title Masters of the Vortex, promoting it as \"the final adventure in the famous Lensman series.\" While the stories are set in the same universe as the Lensman novels, they are only tangentially related. They reference events that happen in the Lensman series, but only \u201coff stage\u201d. No characters from the other Lensmen books show up in this book. From the events spoken of in this book it apparently falls between Second Stage Lensmen and Children of the Lens.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "audiobook"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

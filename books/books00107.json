@@ -1,0 +1,81 @@
+{
+    "content_name": "32436.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Poul Anderson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32436/32436-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32436/32436-h/images/image_001_01.jpg", 
+        "http://www.gutenberg.org/files/32436/32436-h/images/image_001_02.jpg", 
+        "http://www.gutenberg.org/files/32436/32436-h/images/image_b.jpg", 
+        "http://www.gutenberg.org/files/32436/32436-h/images/image_h.jpg", 
+        "http://www.gutenberg.org/files/32436/32436-h/images/image_i.jpg", 
+        "http://www.gutenberg.org/files/32436/32436-h/images/image_k.jpg", 
+        "http://www.gutenberg.org/files/32436/32436-h/images/image_r.jpg", 
+        "http://www.gutenberg.org/files/32436/32436-h/images/image_t.jpg"
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 107, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Duel on Syrtis", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.35, 
+    "rating_count": 37, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32436/pg32436.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8506769-duel-on-syrtis", 
+        "found": true, 
+        "year": 1951
+    }, 
+    "similar_books": [], 
+    "description": "The Man Who Meant To Kill A Martian<br /><br />Bold and ruthless, he was famed throughout the System as a big-game hunter. From the firedrakes of Mercury to the ice-crawlers of Pluto, he'd slain them all. But his trophy-room lacked one item; and now Riordan swore he'd bag the forbidden game that roamed the red deserts . . . a Martian!<br /><br />The night whispered the message. Over the many miles of loneliness it was borne, carried on the wind, rustled by the half-sentient lichens and the dwarfed trees, murmured from one to another of the little creatures that huddled under crags, in caves, by shadowy dunes. In no words, but in a dim pulsing of dread which echoed through Kreega's brain, the warning ran --<br /><br />\"They are hunting again. They are hunting me.\"", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32436", 
+        "num": 32436
+    }, 
+    "authors": [
+        30
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-05-19T00:00:00", 
+    "author": 30, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "sci-fi", 
+        "currently-reading", 
+        "short-story", 
+        "fiction", 
+        "20th-century-lit", 
+        "on-librivox-web-site", 
+        "syfy", 
+        "audiobooks", 
+        "sf", 
+        "1950s", 
+        "my-library", 
+        "unread", 
+        "eua", 
+        "paul", 
+        "14", 
+        "librivox-short-scifi", 
+        "scifi", 
+        "suspense", 
+        "read-2013", 
+        "e-books-read", 
+        "nook", 
+        "3-ebooks", 
+        "type-short-story", 
+        "sci-fi-fantasy", 
+        "3a-ebooks"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

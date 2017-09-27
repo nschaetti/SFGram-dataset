@@ -1,0 +1,72 @@
+{
+    "content_name": "24091.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24091/24091-h/images/001.png", 
+        "http://www.gutenberg.org/files/24091/24091-h/images/002.png", 
+        "http://www.gutenberg.org/files/24091/24091-h/images/003.png", 
+        "http://www.gutenberg.org/files/24091/24091-h/images/004.png", 
+        "http://www.gutenberg.org/files/24091/24091-h/images/005.png", 
+        "http://www.gutenberg.org/files/24091/24091-h/images/006.png"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 161, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Despoilers of the Golden Empire", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.35, 
+    "rating_count": 12, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/3149558-despoilers-of-the-golden-empire", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "description": "THE CONQUERING ALIENS<br /><br />From far, far away the ship of Commander Frank with his squad of warriors with the latest of modern technology landed upon the vast land.<br /><br />Their quest?<br /><br />A metal of great power. Element Seventy Nine.<br /><br />Gold!<br /><br />With Element Seventy Nine, they could make the powerful Gold-179!<br /><br />Ruthless and powerful, Commander Frank kept his troops in line with an iron fist. Nor was it just their flashing weapons that conquered this vast empire.<br /><br />But could the valiant Viceroy hold onto his power in a civilization of alien treachery?<br /><br />But is all this what it seems to be?<br /><br />Find out in this masterpiece of trickery by the devilish Randall Garrett.<br /><br />A SCIENCE FICTION TALE YOU DON'T HAVE TO READ TO BELIEVE", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24091", 
+        "num": 24091
+    }, 
+    "authors": [
+        49
+    ], 
+    "pages": 72, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-31T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "free-from-amazon", 
+        "classic", 
+        "interested-in", 
+        "maybe", 
+        "short-stories", 
+        "kindle", 
+        "project-gutenberg", 
+        "pulp", 
+        "fantasy-sci-fi", 
+        "historical-fiction", 
+        "e-book", 
+        "eua", 
+        "scifi-fantasy", 
+        "gutenberg-org", 
+        "fiction", 
+        "history", 
+        "tomato_surprise", 
+        "novellette", 
+        "don-t-have-yet", 
+        "ebooks"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

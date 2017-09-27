@@ -1,0 +1,62 @@
+{
+    "content_name": "28030.txt.utf-8", 
+    "isbn": "365526660X", 
+    "author_name": "Henry Slesar", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/28030/28030-h/images/001.png", 
+        "http://www.gutenberg.org/files/28030/28030-page-images/p0001-image1.png", 
+        "http://www.gutenberg.org/files/28030/28030-page-images/p0051.png", 
+        "http://www.gutenberg.org/files/28030/28030-page-images/p0052.png", 
+        "http://www.gutenberg.org/files/28030/28030-page-images/p0053.png"
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 172, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Reluctant Genius", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.1, 
+    "rating_count": 13, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12219464-reluctant-genius", 
+        "found": true, 
+        "year": 1957
+    }, 
+    "similar_books": [], 
+    "description": "It is said that Life crawled up from the slime of the sea-bottoms and became Man because of inherent greatness bred into him before the dawn of time. But perhaps this urge was not as formless as we think.<br /><br />note: very short story", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/28030", 
+        "num": 28030
+    }, 
+    "authors": [
+        59
+    ], 
+    "isbn13": "9783655266601", 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-02-09T00:00:00", 
+    "author": 59, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "junk", 
+        "owned", 
+        "sci-fi", 
+        "should-try-to-read", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "want-to-read-have-copy", 
+        "my-ebooks", 
+        "my-library", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

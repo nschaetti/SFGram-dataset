@@ -1,0 +1,77 @@
+{
+    "content_name": "28063.txt.utf-8", 
+    "author_name": "Ben Bova", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/28063/28063-h/images/001.png", 
+        "http://www.gutenberg.org/files/28063/28063-h/images/002.png"
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 137, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Next Logical Step", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.52, 
+    "rating_count": 47, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6271743-the-next-logical-step", 
+        "found": true, 
+        "year": 1962
+    }, 
+    "similar_books": [], 
+    "description": "Ordinarily the military least wants to have the others know the final details of their war plans. But, logically, there would be times--", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/28063", 
+        "num": 28063
+    }, 
+    "authors": [
+        47
+    ], 
+    "pages": 10, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-02-13T00:00:00", 
+    "author": 47, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "reviewed", 
+        "owned", 
+        "short-stories", 
+        "ebook", 
+        "fiction", 
+        "short-stories-or-story", 
+        "free-from-amazon", 
+        "sci-fi-fantasy", 
+        "short-fiction", 
+        "20th-century", 
+        "sf", 
+        "short-story", 
+        "e-book", 
+        "books-i-own", 
+        "pg", 
+        "2014-completed", 
+        "ebook_only", 
+        "14", 
+        "reimport", 
+        "sciencefiction", 
+        "i-read", 
+        "scifi", 
+        "genre", 
+        "free-ebook", 
+        "ben-bova", 
+        "reorganize", 
+        "shelved", 
+        "i-rd", 
+        "to-read-owned"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,63 @@
+{
+    "content_name": "41622.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Ray Bradbury", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/41622/41622-h/images/cover.jpg"
+    ], 
+    "year": 1939, 
+    "images": [], 
+    "id": 118, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Futuria Fantasia, Summer 1939", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/All_Summer_in_a_Day", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.38, 
+    "rating_count": 29, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/41622/pg41622.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19089052-futuria-fantasia-summer-1939", 
+        "found": true, 
+        "year": 1939
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "loc_class": "AP: General Works: Periodicals", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/41622", 
+        "num": 41622
+    }, 
+    "authors": [
+        18
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2012-12-14T00:00:00", 
+    "author": 18, 
+    "original_title": "All Summer in a Day", 
+    "summary": "\"All Summer in a Day\" is a science fiction short story by Ray Bradbury, first published in the March 1954 issue of The Magazine of Fantasy & Science Fiction.\n\n", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "sci-fi", 
+        "science-fiction", 
+        "short-stories", 
+        "ebook", 
+        "classics", 
+        "anthologies", 
+        "stand-alone", 
+        "challenge-16", 
+        "un-read", 
+        "finished-science-fiction", 
+        "books-read-in-2014", 
+        "available-free-on-line"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

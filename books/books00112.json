@@ -1,0 +1,43 @@
+{
+    "content_name": "1353.txt.utf-8", 
+    "isbn": "1548752614", 
+    "author_name": "Jules Verne", 
+    "images_urls": [], 
+    "year": -1, 
+    "images": [], 
+    "id": 112, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Off on a Comet! a Journey through Planetary Space", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/35745162-off-on-a-comet-a-journey-through-planetary-space", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "Off on a Comet! a Journey through Planetary Space By Jules Verne", 
+    "format": "Paperback", 
+    "loc_class": "PQ: Language and Literatures: Romance literatures: French, Italian, Spanish, Portuguese", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/1353", 
+        "num": 1353
+    }, 
+    "authors": [
+        6
+    ], 
+    "language": "English", 
+    "isbn13": "9781548752613", 
+    "country": 3, 
+    "release_date": "1998-06-01T00:00:00", 
+    "author": 6, 
+    "content_cleaned": false, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}
