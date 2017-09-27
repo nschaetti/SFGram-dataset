@@ -1,12 +1,9 @@
-Produced by Greg Weeks, Stephen Blundell and the Online
-Distributed Proofreading Team at http://www.pgdp.net
-[Illustration]
-   Solomon's Orbit
- There will, sooner or later, be problems
- of "space junk," and the right to dump in space.
- But not like this...!
- by William Carroll
-   Illustrated by Schoenherr
+Solomon's Orbit
+by William Carroll
+Illustrated by Schoenherr
+There will, sooner or later, be problems
+of "space junk," and the right to dump in space.
+But not like this...!
 "Comrades," said the senior technician, "notice the clear view of North
 America. From here we watch everything; rivers, towns, almost the
 people. And see, our upper lens shows the dark spot of a meteor in
@@ -344,8 +341,3 @@ the manifolds. Solomon didn't tell many people about the shingles he
 uses for control panels, and the Russians think control is somehow
 related to kitchen matches a newspaper reporter found scattered behind a
 station wagon in Solomon's junk yard.
-Transcriber's Note:
-  This etext was produced from _Analog Science Fact Science Fiction_
-  November 1962. Extensive research did not uncover any evidence that
-  the U.S. copyright on this publication was renewed. Minor spelling
-  and typographical errors have been corrected without note.
