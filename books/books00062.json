@@ -1,0 +1,51 @@
+{
+    "content_name": "50921.txt.utf-8", 
+    "isbn": "1523886129", 
+    "author_name": "Jack McKenty", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50921/50921-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50921/50921-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 62, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "$1,000 A Plate", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.2, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50921/pg50921.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29005087-1-000-a-plate", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50921", 
+        "num": 50921
+    }, 
+    "authors": [
+        24
+    ], 
+    "pages": 26, 
+    "language": "English", 
+    "isbn13": "9781523886128", 
+    "country": 3, 
+    "release_date": "2016-01-14T00:00:00", 
+    "author": 24, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

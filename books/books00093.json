@@ -1,0 +1,79 @@
+{
+    "content_name": "41064.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Poul Anderson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/41064/41064-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/41064/41064-h/images/illus.jpg"
+    ], 
+    "year": 2012, 
+    "images": [], 
+    "id": 93, 
+    "category": "Text", 
+    "plot": "The novel follows a group of ten immortals from the ancient past to the distant future. Most of the novel follows the various immortals throughout their lives as they try to find others like themselves, avoid being killed, and remain quiet about their gift. Gradually, the immortals begin to meet across the world and form a family of sorts. After they share their secret of immortality with the rest of humanity, the ensuing years result in a human culture they no longer relate to or fit in with. Consequently, they create and crew a starship to explore new civilizations within the galaxy.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Chapter Ends", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Boat_of_a_Million_Years", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.46, 
+    "rating_count": 54, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/41064/pg41064.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/17369419-the-chapter-ends", 
+        "found": true, 
+        "year": 2012
+    }, 
+    "similar_books": [], 
+    "description": "What will the end of the Earth's lifespan look like? What will happen to the humans left on the planet when it fades into obsolescence? These are just a few of the profound questions at the center of science fiction master Poul Anderson's thought-provoking tale The Chapter Ends.", 
+    "format": "Kindle Edition", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/41064", 
+        "num": 41064
+    }, 
+    "authors": [
+        30
+    ], 
+    "pages": 33, 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2012-10-14T00:00:00", 
+    "author": 30, 
+    "original_title": "The Boat of a Million Years", 
+    "summary": "The Boat of a Million Years is a science fiction novel by Poul Anderson first published in 1989 and nominated for the Nebula Award for Best Novel that same year. It was also nominated for the Hugo Award for Best Novel and the Prometheus Award in 1990.", 
+    "content_cleaned": true, 
+    "classes": [
+        "sci-fi", 
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "fiction", 
+        "audiobook", 
+        "read-on-kindle", 
+        "21st-century-lit", 
+        "kobo", 
+        "best-free-reads", 
+        "shelf-a-authors", 
+        "genre-syfi-fan-horr", 
+        "sci-fi-non-magyk", 
+        "audiobooks", 
+        "read-not-reviewed", 
+        "sf-fan", 
+        "sf", 
+        "undecided", 
+        "audio-books", 
+        "to-read-sort", 
+        "kindle-own", 
+        "scifi", 
+        "read-in-2013", 
+        "13", 
+        "audio-book", 
+        "audio-books-to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

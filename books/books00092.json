@@ -1,0 +1,50 @@
+{
+    "content_name": "51650.txt.utf-8", 
+    "isbn": "1548751170", 
+    "author_name": "Karen Anderson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51650/51650-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51650/51650-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51650/51650-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51650/51650-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 92, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Innocent at Large", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51650/pg51650.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/35779328-innocent-at-large", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "Innocent at Large By Karen Anderson, Poul Anderson (Authored by)", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51650", 
+        "num": 51650
+    }, 
+    "authors": [
+        34, 
+        30
+    ], 
+    "language": "English", 
+    "isbn13": "9781548751173", 
+    "country": 3, 
+    "release_date": "2016-04-03T00:00:00", 
+    "author": 34, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 2
+}

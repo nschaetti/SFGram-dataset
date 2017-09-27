@@ -1,0 +1,59 @@
+{
+    "content_name": "51193.txt.utf-8", 
+    "isbn": "1515404374", 
+    "author_name": "Katherine MacLean", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51193/51193-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51193/51193-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51193/51193-h/images/illus2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 96, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Pictures Don't Lie", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.88, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51193/pg51193.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29326084-pictures-don-t-lie", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "The aliens were friendly. There was no doubt about that, communication via radio and video made that clear. The decision was made to direct the aliens to a landing spot on Earth. During the landing something goes terrible wrong and the aliens crash land in a swamp and are attacked by hostile creatures. Humanity rushes to find the aliens before it's too late, but will they be in time?", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51193", 
+        "num": 51193
+    }, 
+    "authors": [
+        36
+    ], 
+    "pages": 26, 
+    "language": "English", 
+    "isbn13": "9781515404378", 
+    "country": 3, 
+    "release_date": "2016-02-12T00:00:00", 
+    "author": 36, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "favorites", 
+        "unknown-publication-dates", 
+        "science-fiction", 
+        "z_fiction", 
+        "x_shortstory", 
+        "wo_scifi", 
+        "w_us_unitary", 
+        "sci-fi"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

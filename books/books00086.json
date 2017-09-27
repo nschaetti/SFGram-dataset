@@ -1,0 +1,48 @@
+{
+    "content_name": "11696.txt.utf-8", 
+    "isbn": "1548510211", 
+    "author_name": "H. G. Wells", 
+    "images_urls": [], 
+    "year": -1, 
+    "images": [], 
+    "id": 86, 
+    "category": "Text", 
+    "plot": "The Food of the Gods is divided into three \"books\": \"Book I: The Discovery of the Food\"; \"Book II: The Food in the Village\"; and \"Book III: The Harvest of the Food.\"", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Food of the Gods and How It Came to Earth", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Food_of_the_Gods_and_How_It_Came_to_Earth", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.5, 
+    "rating_count": 2, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/35573645-the-food-of-the-gods-and-how-it-came-to-earth", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "Several novels by H.G. Wells have shown his extraordinary power of vividly realizing the most daringly-imagined conditions. \"The Food of the Gods\" is a surpassing example of these powers; and in it Mr. Wells combines them with a curious but always very telling addition of humor and pathos.", 
+    "format": "Paperback", 
+    "loc_class": "PR: Language and Literatures: English literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/11696", 
+        "num": 11696
+    }, 
+    "authors": [
+        1
+    ], 
+    "language": "English", 
+    "isbn13": "9781548510213", 
+    "country": 1, 
+    "release_date": "2004-03-01T00:00:00", 
+    "author": 1, 
+    "original_title": "The Food of the Gods and How It Came to Earth", 
+    "summary": "The Food of the Gods and How It Came to Earth is a science fiction novel by H. G. Wells, first published in 1904. Wells called it \"a fantasia on the change of scale in human affairs. . . . I had hit upon [the idea] while working out the possibilities of the near future in a book of speculations called Anticipations (1901).\" There have been various B-movie adaptations. The novel is about a group of scientists who invent a food that accelerates the growth of children and turns them into giants when they become adults.", 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}
