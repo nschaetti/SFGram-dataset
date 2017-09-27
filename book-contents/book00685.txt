@@ -1,16 +1,12 @@
-Produced by Greg Weeks, Stephen Blundell and the Online
-Distributed Proofreading Team at http://www.pgdp.net
-  _Robert J. Shea, of Rutgers University, makes an interesting
-  contribution to robotics with this story of Rankin, who prided
-  himself on knowing how to handle robots, but did not realize that
-  the robots of the Clearchan Confederacy were subject to a higher law
-  than implicit obedience to man._
- the
- helpful
- robots
- _by ROBERT J. SHEA_
- They had come to pass judgement on him. He had violated
- their law--wilfully, ignorantly, and very deliberately.
+The helpful robots
+By ROBERT J. SHEA
+Robert J. Shea, of Rutgers University, makes an interesting
+contribution to robotics with this story of Rankin, who prided
+himself on knowing how to handle robots, but did not realize that
+the robots of the Clearchan Confederacy were subject to a higher law
+than implicit obedience to man.
+They had come to pass judgement on him. He had violated
+their law--wilfully, ignorantly, and very deliberately.
 "Our people will be arriving to visit us today," the robot said.
 "Shut up!" snapped Rod Rankin. He jumped, wiry and quick, out of the
 chair on his verandah and stared at a cloud of dust in the distance.
@@ -117,8 +113,3 @@ were simply following that one law. You must be taken to our capital,
 and there be imprisoned and treated for your crime."
 "What law? What crime?"
 "Our law," said the giant robot, "is, _Help thy neighbor_."
-Transcriber's Note:
-  This etext was produced from _Fantastic Universe_ September 1957.
-  Extensive research did not uncover any evidence that the U.S.
-  copyright on this publication was renewed. Minor spelling and
-  typographical errors have been corrected without note.

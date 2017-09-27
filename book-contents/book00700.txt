@@ -1,12 +1,9 @@
-Produced by Greg Weeks, Bruce Albrecht, LN Yaddanapudi and
-the Online Distributed Proofreading Team at
-http://www.pgdp.net
 CUM GRANO SALIS.
 BY DAVID GORDON
 Illustrated by Emsh
- _Just because a man can do something others can't does not,
- unfortunately, mean he knows how to do it. One man could eat the
- native fruit and live ... but how?_
+Just because a man can do something others can't does not,
+unfortunately, mean he knows how to do it. One man could eat the
+native fruit and live ... but how?
 "And that," said Colonel Fennister glumly, "appears to be that."
 The pile of glowing coals that had been Storage Shed Number One was
 still sending up tongues of flame, but they were nothing compared with
@@ -810,25 +807,3 @@ stomach." He reached for another banana-pear, then looked over at
 Petrelli. "Pass the salt, please."
 Silently and solemnly, the chemist handed him the Epsom salts.
 THE END
- +--------------------------------------------------------------+
- | Transcriber's Note and Errata   |
- |     |
- | This etext was produced from Astounding Science Fiction, May |
- | 1959. Extensive research did not uncover any evidence that  |
- | the U.S. copyright on this publication was renewed.   |
- |     |
- | The following typographical errors were corrected:  |
- |     |
- | |Error   |Correction  | |
- | |catastrophies |catastrophes | |
- | |Phenacitin  |Phenacetin  | |
- | |Caffiene |Caffeine | |
- | |stacatto |staccato | |
- | |phosphorpus  |phosphorus  | |
- | |charteuse |chartreuse  | |
- | |dizzness |dizziness  | |
- | |MacNeal  |MacNeil | |
- |     |
- | A few subscripted numbers have been formatted preceded by an |
- | underscore, e.g., B_12.    |
- +--------------------------------------------------------------+
