@@ -1,13 +1,10 @@
-Produced by Greg Weeks, Stephen Blundell and the Online
-Distributed Proofreading Team at http://www.pgdp.net
-[Illustration]
 JOHN JONES'S DOLLAR
 By HARRY STEPHEN KEELER
-  _Take a board with 64 squares on it. Put a grain of wheat on the
-  first square--two on the second--four on the third. Keep doubling in
-  this manner and you will find there isn't enough wheat in the world
-  to fill the sixty-fourth square. It can be the same with compound
-  interest._
+Take a board with 64 squares on it. Put a grain of wheat on the
+first square--two on the second--four on the third. Keep doubling in
+this manner and you will find there isn't enough wheat in the world
+to fill the sixty-fourth square. It can be the same with compound
+interest.
 On the 201st day of the year 3221 A.D., the professor of history at the
 University of Terra seated himself in front of the Visaphone and
 prepared to deliver the daily lecture to his class, the members of which
@@ -374,11 +371,3 @@ lived in such a dark era as the twentieth century. But how nearly his
 well-contrived scheme went wrong. Suppose that fortieth descendant had
 been born?"
 THE END
-Transcriber's Note:
-  This etext was produced from _Amazing Stories_ April 1956 and was
-  first published in _Amazing Stories_ April 1927. Extensive research
-  did not uncover any evidence that the U.S. copyright on this
-  publication was renewed. Minor spelling and typographical errors
-  have been corrected without note.
-  The original equation given, x (1 + p)n, has been corrected to show
-  the 'n' as superscript: X(1 + p)^n.

@@ -1,9 +1,8 @@
-Produced by Greg Weeks, Stephen Blundell and the Online
-Distributed Proofreading Team at http://www.pgdp.net
 Beyond Pandora
- The ideal way to deal with a pest--any menace--is,
- of course, to make it useful to you....
+of course, to make it useful to you....
 by Robert J. Martin
+The ideal way to deal with a pest--any menace--is,
+of course, to make it useful to you....
 The doctor's pen paused over the chart on his desk, "This is your third
 set of teeth, I believe?"
 His patient nodded, "That's right, Doctor. But they were pretty slow
@@ -74,9 +73,3 @@ of diseases, in itself."
 Returning the man's searching gaze, the doctor opened the door, "We've
 come a long way since then. You see," he said quietly, "in those days
 they called it 'cancer'."
-Transcriber's Note:
-  This etext was produced from _Analog_ September 1962. Extensive
-  research did not uncover any evidence that the U.S. copyright on
-  this publication was renewed. Minor spelling and typographical
-  errors have been corrected without note. Original punctuation style
-  has been retained.
