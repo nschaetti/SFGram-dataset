@@ -1,0 +1,54 @@
+{
+    "content_name": "40993.txt.utf-8", 
+    "author_name": "Neil R. Jones", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/40993/40993-h/images/author.jpg", 
+        "http://www.gutenberg.org/files/40993/40993-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/40993/40993-h/images/illus1.jpg"
+    ], 
+    "year": 1932, 
+    "images": [], 
+    "id": 404, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Spacewrecked on Venus", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.91, 
+    "rating_count": 20, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/40993/pg40993.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19295912-spacewrecked-on-venus", 
+        "found": true, 
+        "year": 1932
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/40993", 
+        "num": 40993
+    }, 
+    "authors": [
+        131
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2012-10-09T00:00:00", 
+    "author": 131, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "science-fiction", 
+        "have-but-not-read", 
+        "20th-century-lit", 
+        "short-stories", 
+        "1930s", 
+        "englisch", 
+        "ebook"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

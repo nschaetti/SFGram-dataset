@@ -1,0 +1,77 @@
+{
+    "content_name": "23103.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Roger D. Aycock", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23103/23103-h/images/001.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p108.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p109.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p110.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p111.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p112.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p113.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p114.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p115.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p116.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p117.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p118.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p119.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p120.png", 
+        "http://www.gutenberg.org/files/23103/23103-page-images/p121.png"
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 489, 
+    "category": "Text", 
+    "plot": "Eldrinson Valdoria took over a year to heal from serious injuries inflicted on him by the Aristo Vitarex. He is happy to reconcile with his daughter Sauscony (Soz) whom he disowned for leaving home to become a Jagernaut. But he can't do the same with his son Althor, who is lying near death in a military hospital after sacrificing himself to save billions of Skolian citizens during a battle with the Eubian Traders.\nAs part of her military training, Soz is assigned to the battlecruiser Roca's Pride, named in honor of her mother Roca Skolia. The training, however, turns out to be hard reality after her half-brother Imperator Kurj is nearly assassinated and falls into a coma. Traders simultaneously launch an attack against the planet Parthonia, seat of the Skolian government. This brings the psiberweb, the most important part of Skolian defence, to a collapse. Using an ancient device called Dyad Chair, Soz struggles to keep at least parts of the psiberweb intact.\nTo repair psiberweb and save Skolia from Eubian invasion, Soz\u2019s father Eldrinson has to join the Dyad, expanding it to a Triad with the risk that this could kill either him or one of the other Triad members.\nThe book also shows the fates of other Ruby Dynasty family members: Soz's brother Shannon dealing with the mystic Blue Dale archers, their mother Roca captured by Traders and Ruby Pharaoh's husband Eldrin who leaves Parthonia on a ship with Skolian refugees while making a withdrawal from the addictive medicament phorine.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Traders Risk", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Final_Key", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.18, 
+    "rating_count": 7, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11772371-traders-risk", 
+        "found": true, 
+        "year": 1958
+    }, 
+    "similar_books": [], 
+    "description": "Keeping this cargo meant death\u2014to jettison it meant to make flotsam and jetsam of a world!<br /><br />First published in Galaxy magazine.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23103", 
+        "num": 23103
+    }, 
+    "authors": [
+        162
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2007-10-20T00:00:00", 
+    "author": 162, 
+    "original_title": "The Final Key", 
+    "summary": "The Final Key is a science fiction novel in the Saga of the Skolian Empire, a series of books by American writer Catherine Asaro. As the direct sequel to Schism, it tells the story of a major Eubian assault against the Skolian government and Eldrinson's rise from a rustic farmer to a member of the powerful imperial Triad.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "owned", 
+        "audio", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "unread", 
+        "novellas-poems-shorts", 
+        "fiction", 
+        "ebooks", 
+        "a", 
+        "sci-fi", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

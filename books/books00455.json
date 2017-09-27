@@ -1,0 +1,62 @@
+{
+    "content_name": "4994.txt.utf-8", 
+    "isbn": "1548044091", 
+    "author_name": "Rockwood, Roy", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/4994/4994-h/images/a251a.png", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/a251b.png", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/a252.png", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/a253.png", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/a254.png", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/a255.png", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/a256.png", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/a257.png", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/illus-046.jpg", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/illus-046f.jpg", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/illus-180.jpg", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/illus-180f.jpg", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/illus-193.jpg", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/illus-193f.jpg", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/illus-fpc.jpg", 
+        "http://www.gutenberg.org/files/4994/4994-h/images/illus-fpcf.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 455, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Five Thousand Miles Underground; Or, the Mystery of the Centre of the Earth", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/4994/pg4994.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/35808682-five-thousand-miles-underground", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "A cruise to the center of the earth through an immense hole found in an island in the ocean.", 
+    "format": "Paperback", 
+    "loc_class": "PZ: Language and Literatures: Juvenile belles lettres", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/4994", 
+        "num": 4994
+    }, 
+    "authors": [
+        155
+    ], 
+    "language": "English", 
+    "isbn13": "9781548044091", 
+    "country": 3, 
+    "release_date": "2004-01-01T00:00:00", 
+    "author": 155, 
+    "content_cleaned": false, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

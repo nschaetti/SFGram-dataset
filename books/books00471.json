@@ -1,0 +1,75 @@
+{
+    "content_name": "23764.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23764/23764-h/images/001.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p051.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p052.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p053.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p054.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p055.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p056.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p057.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p058.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p059-image.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p059.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p060.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p061.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p062.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p063.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p064.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p065.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p066.png", 
+        "http://www.gutenberg.org/files/23764/23764-page-images/p067.png"
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 471, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Bramble Bush", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.45, 
+    "rating_count": 11, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/2319353.The_Bramble_Bush", 
+        "found": true, 
+        "year": 1958
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "Mass Market Paperback", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23764", 
+        "num": 23764
+    }, 
+    "authors": [
+        49
+    ], 
+    "pages": 312, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-07T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "fiction", 
+        "2017-shortlist", 
+        "ebook", 
+        "discard-dtb", 
+        "dead-tree", 
+        "saga", 
+        "american-fiction", 
+        "for-the-lolz", 
+        "for-snarking-purposes", 
+        "richard-burton-diaries", 
+        "20th-century-classics"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,80 @@
+{
+    "content_name": "30399.txt.utf-8", 
+    "author_name": "Frederik Pohl", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30399/30399-h/images/001.png", 
+        "http://www.gutenberg.org/files/30399/30399-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/30399/30399-h/images/002-2.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 488, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Pythias", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.18, 
+    "rating_count": 40, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8377209-pythias", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30399", 
+        "num": 30399
+    }, 
+    "authors": [
+        40
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-11-03T00:00:00", 
+    "author": 40, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "currently-reading", 
+        "owned", 
+        "kindle", 
+        "short-story", 
+        "pulp", 
+        "fiction", 
+        "20th-century", 
+        "owned-pending-kindle-free-ebook", 
+        "need-to-acquire", 
+        "dark-themes", 
+        "free-or-borrowed", 
+        "z_fiction", 
+        "x_shortstory", 
+        "wo_scifi", 
+        "w_us_modern", 
+        "audio-obtained-lvss", 
+        "bought_amazon_bek", 
+        "unread", 
+        "15", 
+        "ebook-kindle-own", 
+        "ebooks", 
+        "amazon", 
+        "sf", 
+        "shortstories", 
+        "e-reader", 
+        "e-books", 
+        "frederik-pohl", 
+        "story", 
+        "short", 
+        "mind", 
+        "capacity", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

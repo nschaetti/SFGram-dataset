@@ -1,0 +1,83 @@
+{
+    "content_name": "24302.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24302/24302-h/images/001.jpg", 
+        "http://www.gutenberg.org/files/24302/24302-h/images/002.jpg", 
+        "http://www.gutenberg.org/files/24302/24302-h/images/003.jpg", 
+        "http://www.gutenberg.org/files/24302/24302-h/images/004.jpg", 
+        "http://www.gutenberg.org/files/24302/24302-h/images/005.jpg", 
+        "http://www.gutenberg.org/files/24302/24302-h/images/T.jpg", 
+        "http://www.gutenberg.org/files/24302/24302-h/images/cover.jpg"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 401, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Highest Treason", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.65, 
+    "rating_count": 29, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/24302/pg24302.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6597732-the-highest-treason", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "description": "TRAITOR TO THE HUMAN RACE<br /><br />It was a space war on a massive scale against an alien enemy sworn to enslave mankind on Earth and all its colonies . . .<br /><br />But mankind's society had grown weak, forgetting the key component that had made it reach for the stars in the first place.<br /><br />Now it was mired in a bland, homogenized, politically-correct mess, bankrupt of values.<br /><br />Sebastian MacMaine, a master strategist, abandoned the Earth Empire to work for the Kerothi and their alien space fleets. His was the most startling mission in human history.<br /><br />His tactics?<br /><br />Ruthless.<br /><br />*<br /><br />Here is a shocking story of thrilling space battles. It is political and philosophical science fiction that you will never forget, by a master of the form.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24302", 
+        "num": 24302
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-15T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "librivox", 
+        "fiction", 
+        "sci-fi", 
+        "21st-century-lit", 
+        "partial", 
+        "classics", 
+        "short-stories", 
+        "audiobooks", 
+        "currently-reading", 
+        "own-audiobook", 
+        "shelfari-fiction", 
+        "shelfari-english", 
+        "shelfari-e-book", 
+        "space-travel", 
+        "literature-20th-century", 
+        "estados-unidos", 
+        "tvtropes-read", 
+        "reviewed", 
+        "cleanreads", 
+        "feedbooks-com", 
+        "short-story", 
+        "military-sf", 
+        "dystopia", 
+        "alien-invasion", 
+        "war", 
+        "stories", 
+        "science", 
+        "fixme", 
+        "sf", 
+        "fixme-pages"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

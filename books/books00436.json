@@ -1,0 +1,66 @@
+{
+    "content_name": "25028.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/25028/25028-h/images/001.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0022.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0023-image.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0023.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0024.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0025.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0026.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0027.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0028.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0029.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0030.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0031.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0032.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0033.png", 
+        "http://www.gutenberg.org/files/25028/25028-page-images/p0034.png"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 436, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Heist Job on Thizar", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.82, 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6465639-heist-job-on-thizar", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/25028", 
+        "num": 25028
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-04-10T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "free-from-amazon", 
+        "classic", 
+        "21st-century-lit", 
+        "short-stories", 
+        "short-story", 
+        "did-not-finish", 
+        "fiction", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

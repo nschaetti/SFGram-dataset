@@ -1,0 +1,82 @@
+{
+    "content_name": "29619.txt.utf-8", 
+    "author_name": "C. M. Kornbluth", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29619/29619-h/images/001.png", 
+        "http://www.gutenberg.org/files/29619/29619-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/29619/29619-h/images/002-2.jpg"
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 447, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Altar at Midnight", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Explorers_(collection)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.12, 
+    "rating_count": 31, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10987581-the-altar-at-midnight", 
+        "found": true, 
+        "year": 1952
+    }, 
+    "similar_books": [], 
+    "description": "Doing something for humanity may be fine -- for humanity -- but rough on the individual!", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29619", 
+        "num": 29619
+    }, 
+    "authors": [
+        51
+    ], 
+    "pages": 17, 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2009-08-05T00:00:00", 
+    "author": 51, 
+    "original_title": "The Explorers (collection)", 
+    "summary": "The Explorers is the first collection of stories by science fiction writer C. M. Kornbluth, originally published in paperback by Ballantine Books in 1954. Ballantine reissued the collection in 1963. While no further editions of the collection were published, six of its nine stories were included in Ballantine's 1977 The Best of C. M. Kornbluth, and all the stories are contained in NESFA's 1997 His Share of Glory: The Complete Short Science Fiction of C. M. Kornbluth.\n\n", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "currently-reading", 
+        "short-story", 
+        "owned", 
+        "ebooks", 
+        "fik", 
+        "on-librivox-web-site", 
+        "sf-short-stories", 
+        "short-stories", 
+        "gutenberg", 
+        "audiobooks", 
+        "z_fiction", 
+        "x_shortstory", 
+        "wo_scifi", 
+        "w_us_modern", 
+        "fiction", 
+        "audio-obtained", 
+        "what-short-stories", 
+        "what-scifi", 
+        "what-classics", 
+        "kindle-shorts", 
+        "13", 
+        "kindle", 
+        "books-i-own", 
+        "mass-romance", 
+        "calibre", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "e-reader"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

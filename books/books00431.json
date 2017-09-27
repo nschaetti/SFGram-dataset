@@ -1,0 +1,70 @@
+{
+    "content_name": "20739.txt.utf-8", 
+    "isbn": "1434495450", 
+    "author_name": "Charles L. Fontenay", 
+    "images_urls": [], 
+    "year": 1961, 
+    "images": [], 
+    "id": 431, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Rebels of the Red Planet", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.95, 
+    "rating_count": 26, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/3358300-rebels-of-the-red-planet", 
+        "found": true, 
+        "year": 1961
+    }, 
+    "similar_books": [], 
+    "description": "MARS FOR THE MARTIANS! Dark Kensington had been dead for twenty-five years. It was a fact; everyone knew it. Then suddenly he reappeared, youthful, brilliant, ready to take over the Phoenix, the rebel group that worked to overthrow the tyranny that gripped the settlers on Mars.<br /><br />The Phoenix had been destroyed not once, not twice, but three times! But this time the resurrected Dark had new plans, plans which involved dangerous experiments in mutation and psionics.<br /><br />And now the rebels realized they were in double jeopardy. Not only from the government's desperate hatred of their movement, but also from the growing possibility that the new breed of mutated monsters would get out of hand and bring terrors never before known to man.<br /><br />*<br /><br />Charles L. Fontenay writes: \"I was born in Brazil of a father who was by birth English and by parentage German and French, and of a mother who was by birth American and by parentage American and Scottish. This mess of internationalism caused me some trouble in the army during World War II as the government couldn't decide whether I was American, British, or Brazilian; and both as an enlisted man and an officer I dealt in secret work which required citizenship by birth. On three occasions I had to dig into the lawbooks. Finally they gave up and admitted I was an American citizen....<br /><br />\"I was raised on a West Tennessee farm and distinguished myself in school principally by being the youngest, smallest (and consequently the fastest-running) child in my classes ... Newspaper work has been my career since 1936. I have worked for three newspapers, including \"The Nashville Tennessean\" for which I am now rewrite man, and before the war for theAssociated Press.\"<br /><br />Mr. Fontenay is married, lives in Madison, Tenn., and has had one other novel published by Ace Books.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/20739", 
+        "num": 20739
+    }, 
+    "authors": [
+        144
+    ], 
+    "pages": 144, 
+    "language": "English", 
+    "isbn13": "9781434495457", 
+    "country": 3, 
+    "release_date": "2007-03-04T00:00:00", 
+    "author": 144, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "feedbooks-com", 
+        "fiction", 
+        "ebooks", 
+        "audiobook", 
+        "southern-authors", 
+        "own-audiobook", 
+        "my-collection", 
+        "20th-century", 
+        "owned-books", 
+        "unread", 
+        "cover-art-collection", 
+        "ace-doubles", 
+        "librivox", 
+        "library", 
+        "currently-reading", 
+        "mangineering", 
+        "year-unknown", 
+        "general", 
+        "public-domain-science-fiction", 
+        "public-domain", 
+        "sf-adventures-investigations-and-mi", 
+        "sf", 
+        "podiobook"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

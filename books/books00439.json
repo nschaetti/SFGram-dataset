@@ -1,0 +1,57 @@
+{
+    "content_name": "41062.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Sam Merwin", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/41062/41062-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/41062/41062-h/images/illus.jpg"
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 439, 
+    "category": "Text", 
+    "plot": "Jack Sawyer, twelve years old, sets out from Arcadia Beach, New Hampshire in a bid to save his mother, who is dying from cancer, by finding a crystal called \"the Talisman.\" Jack's journey takes him simultaneously through the American heartland and \"the Territories,\" a strange fantasy land which is set in a universe parallel to that of Jack's America. Individuals in the Territories have \"twinners,\" or parallel individuals, in our world. Twinners' births, deaths, and (it is intimated) other major life events are usually paralleled. Twinners can also \"flip\" or migrate to the other world, but only share the body of their alternate universe's analogue. When flipped, the Twinner, or the actual person, will automatically start speaking and thinking the language of where they are flipping into subconsciously.\nIn rare instances (such as Jack's), a person may die in one world but not the other, making the survivor \"single-natured\" with the ability to switch back and forth, body and mind, between the two worlds. Jack is taught how to flip by a mysterious figure known as Speedy Parker, who is the twinner of a gunslinger named Parkus in the Territories. In the Territories, the beloved Queen Laura DeLoessian, the twinner of Jack's mother (a movie actress known as the \"Queen of the B Movies\") is dying as well.\nVarious people help or hinder Jack in his quest. Of particular importance are the werewolves, known simply as Wolfs, who inhabit the Territories. These are not the savage killers of tradition: they serve as royal herdsmen or bodyguards, and can sometimes under stress voluntarily change to wolf form, in addition to facing an involuntary transformation that lasts about three days at the time of the full moon. A sixteen-year-old Wolf, simply named Wolf, is pulled into America by Jack Sawyer and adopts Jack as his pack, serving as his companion. Wolf is extremely likeable, kind, loyal and friendly, much like a dog, though his wolf nature shows through on occasion. On the other hand, some Wolfs have joined the malevolent faction which is trying to stop Jack.\nAs the story goes back and forth between the Territories and the familiar United States, or \"American Territories\" as Jack comes to call them, Jack escapes from one life-threatening situation after another. Accompanied by Wolf and later by his childhood friend Richard, Jack must retrieve the Talisman before it falls into the hands of evil schemer Morgan Sloat, Richard's father, who, we later learn, was Jack's father's business partner before arranging to have the latter murdered. He wants to seize their business from Jack's mother. Morgan Sloat's twinner, Morgan of Orris, also plans to seize the Territories in the event of Queen Laura's death.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Final Figure", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Talisman_(King_and_Straub_novel)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 2, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/41062/pg41062.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/17343911-the-final-figure", 
+        "found": true, 
+        "year": 1954
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "ebook", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/41062", 
+        "num": 41062
+    }, 
+    "authors": [
+        147
+    ], 
+    "pages": 32, 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2012-10-14T00:00:00", 
+    "author": 147, 
+    "original_title": "The Talisman (King and Straub novel)", 
+    "summary": "The Talisman is a 1984 fantasy novel by Stephen King and Peter Straub. The plot is not related to that of Walter Scott's 1825 novel of the same name, although there is one oblique reference to \"a Sir Walter Scott novel.\" The Talisman was nominated for both the Locus and World Fantasy Awards in 1985. King and Straub followed up with a sequel, Black House (2001), that picks up with a now-adult Jack as a retired Los Angeles homicide detective trying to solve a series of murders in the small town of French Landing, Wisconsin.\nThe book is dedicated to the authors' mothers: \"This book is for Ruth King, Elvena Straub.\"", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "project-gutenberg", 
+        "englisch", 
+        "ebook"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

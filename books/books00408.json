@@ -1,0 +1,54 @@
+{
+    "content_name": "51752.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51752/51752-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51752/51752-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51752/51752-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51752/51752-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 408, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "If You Was A Moklin", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.57, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51752/pg51752.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29612120-if-you-was-a-moklin", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "<i>If You Was a Moklin</i> is a classic short story by Murray Leinster, originally published in Galaxy Magazine, September 1951. The inhabitants of the planet Moklin may be the most dangerous race every encountered by humanity. In 40 years of trading with them, they have been nothing less than friendly and wildly enthusiastic about mankind. They are even beginning to look like humans... As special bonus features, this version includes Enhanced Audio: the complete 1956 radio program, plus a lengthy introduction about the author Murray Leinster.", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51752", 
+        "num": 51752
+    }, 
+    "authors": [
+        61
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-04-13T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "short-stories", 
+        "audio", 
+        "illustrated", 
+        "humour", 
+        "sci-fi-fantasy-horror"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,47 @@
+{
+    "content_name": "32124.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Jesse F. Bone", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32124/32124-h/images/title.jpg"
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 479, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "To Choke an Ocean", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32124/pg32124.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/18114953-to-choke-an-ocean", 
+        "found": true, 
+        "year": 1960
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "Kindle Edition", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32124", 
+        "num": 32124
+    }, 
+    "authors": [
+        68
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-04-24T00:00:00", 
+    "author": 68, 
+    "content_cleaned": false, 
+    "classes": [
+        "to-read", 
+        "currently-reading"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

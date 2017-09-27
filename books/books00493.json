@@ -1,0 +1,71 @@
+{
+    "content_name": "20920.txt.utf-8", 
+    "isbn": "3655198914", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/20920/20920-h/images/illus-1.jpg", 
+        "http://www.gutenberg.org/files/20920/20920-h/images/illus-2.jpg", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p402.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p403.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p404.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p405.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p406.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p407.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p408.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p409.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p410.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p411.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p412.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p413.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p414.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p415.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p416.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p417.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p418.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p419.png", 
+        "http://www.gutenberg.org/files/20920/20920-page-images/p420.png"
+    ], 
+    "year": 1931, 
+    "images": [], 
+    "id": 493, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Morale: A Story of the War of 1941-43", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.5, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12948150-morale-a-story-of-the-war-of-1941-43", 
+        "found": true, 
+        "year": 1931
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/20920", 
+        "num": 20920
+    }, 
+    "authors": [
+        61
+    ], 
+    "language": "English", 
+    "isbn13": "9783655198919", 
+    "country": 3, 
+    "release_date": "2007-03-28T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "currently-reading", 
+        "sci-fi", 
+        "library", 
+        "social-commentary", 
+        "calibre"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,64 @@
+{
+    "content_name": "26989.txt.utf-8", 
+    "author_name": "S. P. Meek", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26989/26989-h/images/001.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p005.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p006.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p007.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p013.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p014.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p015.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p016.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p017.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p018.png", 
+        "http://www.gutenberg.org/files/26989/26989-page-images/p019.png"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 425, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "B. C. 30,000", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Patriots_(novel_series)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.0, 
+    "rating_count": 1, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/31367368-b-c-30-000", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26989", 
+        "num": 26989
+    }, 
+    "authors": [
+        139
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2008-10-21T00:00:00", 
+    "author": 139, 
+    "original_title": "Patriots (novel series)", 
+    "summary": "The Patriots novel series is a five-novel series by best-selling survivalist novelist and former U.S. Army officer and blogger, James Wesley Rawles. It is followed by his Counter-Caliphate Chronicles novel series.\nPatriots: A Novel of Survival in the Coming Collapse, the first book in the series, was first distributed as shareware in 1995 and first published in paperback in 1998. It was updated and re-published in paperback 2009, and then in hardback in 2012. In one week of April 2009, shortly after its release, it was ranked #6 in Amazon.com's overall book sales rankings, which was attributed by the Library Journal to the book's appeal to \"a small but vociferous group of people concerned with survivalism\".\nSet in the near future midst hyperinflation and a catastrophic global economic collapse, Patriots tells the story of a group of survivalists that flee riots and chaos in metropolitan Chicago to a survivalist retreat that they have prepared near Bovill, Idaho.", 
+    "content_cleaned": true, 
+    "classes": [
+        "short-stories", 
+        "sci-fi", 
+        "review", 
+        "pulp", 
+        "prehistory", 
+        "fiction", 
+        "fantasy", 
+        "20th-century"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

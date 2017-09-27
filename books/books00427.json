@@ -1,0 +1,48 @@
+{
+    "content_name": "51832.txt.utf-8", 
+    "author_name": "Jim Harmon", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51832/51832-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51832/51832-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51832/51832-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51832/51832-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 427, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Place Where Chicago Was", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51832/pg51832.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/31292604-the-place-where-chicago-was", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51832", 
+        "num": 51832
+    }, 
+    "authors": [
+        142
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-04-22T00:00:00", 
+    "author": 142, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "unknown-publication-dates"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

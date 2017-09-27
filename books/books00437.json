@@ -1,0 +1,55 @@
+{
+    "content_name": "30583.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30583/30583-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30583/30583-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30583/30583-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/30583/30583-h/images/image_004.jpg", 
+        "http://www.gutenberg.org/files/30583/30583-h/images/image_w.jpg"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 437, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Asses of Balaam", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.67, 
+    "rating_count": 3, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/9311023-the-asses-of-balaam", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30583", 
+        "num": 30583
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-12-02T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "short-stories", 
+        "short-story", 
+        "audio-obtained", 
+        "to-read", 
+        "science", 
+        "fiction", 
+        "short", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

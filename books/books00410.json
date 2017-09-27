@@ -1,0 +1,56 @@
+{
+    "content_name": "24418.txt.utf-8", 
+    "author_name": "Robert Wicks", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24418/24418-h/images/title.jpg"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 410, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Quantum Jump", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.3, 
+    "rating_count": 18, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/24418/pg24418.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6328927-the-quantum-jump", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24418", 
+        "num": 24418
+    }, 
+    "authors": [
+        133
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-24T00:00:00", 
+    "author": 133, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "science-fiction", 
+        "short-story", 
+        "21st-century-lit", 
+        "audio", 
+        "16", 
+        "audio-obtained-lvss", 
+        "fiction", 
+        "sci-fi", 
+        "librivox", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,56 @@
+{
+    "content_name": "51616.txt.utf-8", 
+    "isbn": "1580628516", 
+    "author_name": "Con Blomberg", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51616/51616-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51616/51616-h/images/illus.jpg"
+    ], 
+    "year": 2003, 
+    "images": [], 
+    "id": 475, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Sales Talk", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Patriots_(novel_series)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.75, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51616/pg51616.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/1993726.Sales_Talk", 
+        "found": true, 
+        "year": 2003
+    }, 
+    "similar_books": [], 
+    "description": "The key to successful sales is in the medium and going back to the basics -- talking, writing, and nonverbal communication. Sales Talk is a complete program designed to improve communication skills through myriad means -- from reading more to listening better to developing effective presentations to employing the timely, refreshing pause. Using his highly effective techniques, longtime sales trainer Len Serafino guides the reader on how to: -- Convey passion in a pitch -- Use presentation tools to one's best advantage -- Approach the sales call -- Know when to listen -- Factor in nonverbal communication -- Master public speaking Perfect for salespeople at any level, Sales Talk is an ideal resource guaranteed to be an asset during any sales situation -- no matter how challenging.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51616", 
+        "num": 51616
+    }, 
+    "authors": [
+        159
+    ], 
+    "pages": 208, 
+    "language": "English", 
+    "isbn13": "9781580628518", 
+    "country": 2, 
+    "release_date": "2016-04-01T00:00:00", 
+    "author": 159, 
+    "original_title": "Patriots (novel series)", 
+    "summary": "The Patriots novel series is a five-novel series by best-selling survivalist novelist and former U.S. Army officer and blogger, James Wesley Rawles. It is followed by his Counter-Caliphate Chronicles novel series.\nPatriots: A Novel of Survival in the Coming Collapse, the first book in the series, was first distributed as shareware in 1995 and first published in paperback in 1998. It was updated and re-published in paperback 2009, and then in hardback in 2012. In one week of April 2009, shortly after its release, it was ranked #6 in Amazon.com's overall book sales rankings, which was attributed by the Library Journal to the book's appeal to \"a small but vociferous group of people concerned with survivalism\".\nSet in the near future midst hyperinflation and a catastrophic global economic collapse, Patriots tells the story of a group of survivalists that flee riots and chaos in metropolitan Chicago to a survivalist retreat that they have prepared near Bovill, Idaho.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "_to-read", 
+        "_business"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

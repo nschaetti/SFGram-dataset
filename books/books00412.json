@@ -1,0 +1,69 @@
+{
+    "content_name": "27392.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Lee Archer", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/27392/27392-h/images/001.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p078.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p079.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p080.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p081.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p082.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p083.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p084.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p085.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p086.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p087.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p088.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p089.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p090.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p091.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p092.png", 
+        "http://www.gutenberg.org/files/27392/27392-page-images/p093.png"
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 412, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Lease to Doomsday", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.75, 
+    "rating_count": 15, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6360347-lease-to-doomsday", 
+        "found": true, 
+        "year": 1956
+    }, 
+    "similar_books": [], 
+    "description": "The twins were a rare team indeed. They wanted to build a printing plant on a garbage dump. When Muldoon asked them why, their answer was entirely logical: \"Because we live here.\" They were developing the land, but for what purpose? Deena and Muldoon seldom saw each other during the middle of the week; they were her busy days and she needed the nights for complete rest. But he had called her and asked to see her. They were at dinner in a small Italian place close to her apartment. He had briefly brought her up to date on what had happened since she had seen him last, and was at the moment finishing the last of the lasagna he had ordered. \"They're phonies, honey, real phonies,\" he said. \"I'll bet my last buck on that.\" She was looking at the last piece of steak on her plate. With an almost defiant gesture she speared it and put it in her mouth. \"Atta girl,\" he said. \"Mind your own business,\" she said. \"How do you mean they're phonies?\" \"I spent all Monday investigating them!\" \"A fine way to make a dollar,\" she said. \"What do you care who they are?\"", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/27392", 
+        "num": 27392
+    }, 
+    "authors": [
+        134
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-12-02T00:00:00", 
+    "author": 134, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "sci-fi", 
+        "short-story", 
+        "to-read", 
+        "free-from-amazon", 
+        "classic", 
+        "humor", 
+        "science-ficiton", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

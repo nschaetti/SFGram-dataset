@@ -1,0 +1,68 @@
+{
+    "content_name": "29389.txt.utf-8", 
+    "author_name": "Donald A. Wandrei", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29389/29389-h/images/001.png", 
+        "http://www.gutenberg.org/files/29389/29389-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/29389/29389-h/images/002-2.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 495, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Raiders of the Universes", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace_(novel)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.25, 
+    "rating_count": 14, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19328675-raiders-of-the-universes", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29389", 
+        "num": 29389
+    }, 
+    "authors": [
+        165
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2009-07-12T00:00:00", 
+    "author": 165, 
+    "original_title": "Star Wars: Episode I \u2013 The Phantom Menace (novel)", 
+    "summary": "The Star Wars Episode I: The Phantom Menace novelization was written by Terry Brooks and published on April 21, 1999, by Del Rey. It is based on the script of the film of the same name and released with multiple covers, including Darth Maul, Obi-Wan Kenobi, Anakin Skywalker and Queen Amidala.\n\n", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "science-fiction", 
+        "short-stories", 
+        "audiobooks", 
+        "sci-fi", 
+        "21st-century-lit", 
+        "fiction", 
+        "classics", 
+        "audiobooks-read", 
+        "3-stars", 
+        "free-from-amazon", 
+        "shelf-w-authors", 
+        "genre-syfi-fan-horr", 
+        "audio-books-to-read", 
+        "audio-obtained-lvss", 
+        "calibre", 
+        "14", 
+        "audiobooks-to-read", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

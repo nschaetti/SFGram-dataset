@@ -1,0 +1,72 @@
+{
+    "content_name": "42987.txt.utf-8", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/42987/42987-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/illus4.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/illus5.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/illus6.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/illus7.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/illus8.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/illus9.jpg", 
+        "http://www.gutenberg.org/files/42987/42987-h/images/pic.jpg"
+    ], 
+    "year": 2013, 
+    "images": [], 
+    "id": 472, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Nightmare Planet", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Forgotten_Planet", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.25, 
+    "rating_count": 15, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/42987/pg42987.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/22400807-nightmare-planet", 
+        "found": true, 
+        "year": 2013
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/42987", 
+        "num": 42987
+    }, 
+    "authors": [
+        61
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2013-06-19T00:00:00", 
+    "author": 61, 
+    "original_title": "The Forgotten Planet", 
+    "summary": "The Forgotten Planet is a science fiction novel by American writer Murray Leinster. It was released in 1954 by Gnome Press in an edition of 5,000 copies. The novel is a fix-up from three short stories, \"The Mad Planet\" and \"The Red Dust\", both of which had originally appeared in the magazine Argosy in 1920 and 1921, and \"Nightmare Planet\", which had been published in Science Fiction Plus in 1953.", 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "scifi", 
+        "fiction", 
+        "stand-alone-book", 
+        "3rd-person-narration", 
+        "to-read", 
+        "sci-fi", 
+        "library", 
+        "northern-america", 
+        "speculative-fiction", 
+        "librivox-org", 
+        "fantasy", 
+        "audio", 
+        "guttenberg", 
+        "currently-reading"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

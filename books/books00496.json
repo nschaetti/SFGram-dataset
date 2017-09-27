@@ -1,0 +1,59 @@
+{
+    "content_name": "32150.txt.utf-8", 
+    "author_name": "Stephen Marlowe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32150/32150-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32150/32150-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/32150/32150-h/images/image_a.jpg", 
+        "http://www.gutenberg.org/files/32150/32150-h/images/image_i.jpg", 
+        "http://www.gutenberg.org/files/32150/32150-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/32150/32150-h/images/image_t.jpg"
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 496, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Prison of a Billion Years", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.15, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32150/pg32150.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8157627-prison-of-a-billion-years", 
+        "found": true, 
+        "year": 1956
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32150", 
+        "num": 32150
+    }, 
+    "authors": [
+        79
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-04-27T00:00:00", 
+    "author": 79, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "audiobooks", 
+        "sci-fi", 
+        "short-works-and-collections", 
+        "short-story", 
+        "to-read", 
+        "audio-obtained-lvss", 
+        "feedbooks-com", 
+        "13", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,49 @@
+{
+    "content_name": "51688.txt.utf-8", 
+    "author_name": "Jim Harmon", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51688/51688-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51688/51688-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51688/51688-h/images/illus2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 460, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Air of Castor Oil", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51688/pg51688.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/31951435-the-air-of-castor-oil", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51688", 
+        "num": 51688
+    }, 
+    "authors": [
+        142
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-04-07T00:00:00", 
+    "author": 142, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "unknown-publication-dates", 
+        "shelf-h-authors", 
+        "genre-syfi-fan-horr"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

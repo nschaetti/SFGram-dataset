@@ -1,0 +1,68 @@
+{
+    "content_name": "24064.txt.utf-8", 
+    "language_code": "en-US", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24064/24064-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/24064/24064-h/images/i002.jpg", 
+        "http://www.gutenberg.org/files/24064/24064-h/images/i003.jpg", 
+        "http://www.gutenberg.org/files/24064/24064-h/images/i004.jpg", 
+        "http://www.gutenberg.org/files/24064/24064-h/images/i005.jpg", 
+        "http://www.gutenberg.org/files/24064/24064-h/images/i006.jpg", 
+        "http://www.gutenberg.org/files/24064/24064-h/images/i007.jpg"
+    ], 
+    "year": 2012, 
+    "images": [], 
+    "id": 470, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Damned If You Don't", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.09, 
+    "rating_count": 15, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/24064/pg24064.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20428548-damned-if-you-don-t", 
+        "found": true, 
+        "year": 2012
+    }, 
+    "similar_books": [], 
+    "description": "Raised in the Sixties on picket lines and peace marches, activist Hannah Fox can't turn her back when a friend's land is targeted by an eminent domain scam that threatens her small town in the Catskill Mountains of upstate New York. When the developer behind the fraudulent scheme is murdered and her young friend becomes a suspect, Hannah probes the dead man's shameful past. She faces hard choices, convinced the murder was a heroic act even when it's clear she may be the killer's next victim.<br /><br />Hannah volunteers at a domestic abuse hotline. Trying to help the women and children whose lives become entwined with her own, she is caught in the town\u2019s secrets, lies, and double dealing. Trouble invades her private life as she tries to curb the mounting attraction between herself and Jack Grundy, Senior Investigator for the New York State Police, while watching her own marriage crumble.<br /><br />Damned If You Don\u2019t, which skillfully exposes the entrenched corruption in a rough-edged mountain town, is moving and disturbing, atmospheric and authentic. This dark traditional mystery, with its strong female protagonist, keeps readers guessing until the very end.", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24064", 
+        "num": 24064
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-28T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "mystery", 
+        "currently-reading", 
+        "freebies", 
+        "not-read", 
+        "mystery-series", 
+        "kindle-4", 
+        "mystery-series-cozy", 
+        "to-be-read", 
+        "2013-books-read", 
+        "to-purchase", 
+        "private-investigator", 
+        "murder-mystery", 
+        "detective", 
+        "crime", 
+        "amateur-sleuth"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

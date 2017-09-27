@@ -1,0 +1,59 @@
+{
+    "content_name": "32563.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Robert Moore Williams", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32563/32563-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32563/32563-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/32563/32563-h/images/illus2.jpg"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 414, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Lost Warship", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.89, 
+    "rating_count": 2, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32563/pg32563.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10567604-the-lost-warship", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "description": "Jap bombs rained down, there was a tremendous blast--and a weird thing happened to the Idaho", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32563", 
+        "num": 32563
+    }, 
+    "authors": [
+        135
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-05-28T00:00:00", 
+    "author": 135, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "junk", 
+        "21st-century-lit", 
+        "e-shelf", 
+        "ebook", 
+        "on-calibre", 
+        "feedbooks-com", 
+        "3-ebooks", 
+        "sci-fi", 
+        "classic-sci-fi", 
+        "3a-ebooks"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

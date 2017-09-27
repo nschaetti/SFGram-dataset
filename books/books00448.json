@@ -1,0 +1,67 @@
+{
+    "content_name": "28550.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "C. L. Moore", 
+    "images_urls": [], 
+    "year": 1940, 
+    "images": [], 
+    "id": 448, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Song in a Minor Key", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.33, 
+    "rating_count": 17, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12231989-song-in-a-minor-key", 
+        "found": true, 
+        "year": 1940
+    }, 
+    "similar_books": [], 
+    "description": "First published in the fanzine Scienti-Snap, February 1940.<br /><br />This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/28550", 
+        "num": 28550
+    }, 
+    "authors": [
+        151
+    ], 
+    "pages": 3, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-04-10T00:00:00", 
+    "author": 151, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "short-stories", 
+        "for-the-sony", 
+        "currently-reading", 
+        "fiction", 
+        "novellas-short-stories", 
+        "1930s-50s-sf-f-golden-age", 
+        "z_fiction", 
+        "x_shortstory", 
+        "w_us_federal", 
+        "tragedy", 
+        "women-s-and-queer-fiction", 
+        "speculative-fiction-women", 
+        "gutenberg", 
+        "ebooks", 
+        "books", 
+        "short-story", 
+        "science-fiction", 
+        "_author-sex-female", 
+        "e-book", 
+        "15", 
+        "mass-romance", 
+        "calibre"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

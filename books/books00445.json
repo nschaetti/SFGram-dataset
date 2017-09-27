@@ -1,0 +1,51 @@
+{
+    "content_name": "51436.txt.utf-8", 
+    "author_name": "Fritz Leiber", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51436/51436-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51436/51436-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51436/51436-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51436/51436-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 445, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Bullet With His Name", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51436/pg51436.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29543159-bullet-with-his-name", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51436", 
+        "num": 51436
+    }, 
+    "authors": [
+        32
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-03-13T00:00:00", 
+    "author": 32, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "short-stories", 
+        "unknown-publication-dates", 
+        "sci-fi", 
+        "science-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

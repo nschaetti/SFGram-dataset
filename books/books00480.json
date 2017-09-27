@@ -1,0 +1,65 @@
+{
+    "content_name": "30304.txt.utf-8", 
+    "isbn": "1463800894", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30304/30304-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30304/30304-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30304/30304-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/30304/30304-h/images/image_t.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 480, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Psichopath", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.07, 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14402731-psichopath", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Arriving at his destination, he paused on the sidewalk to light a cigarette, shielding it against the wind and drizzle with cupped hands while his mind made one last check on the surroundings. Then he strode quickly up the five steps to the double doors which were marked: \"The Society For Mystical And Metaphysical Research, Inc.\"<br /><br />*<br /><br />One way to hide an ex-officio agency of the United States Government was to label it truthfully -- \"The Society For Mystical And Metaphysical Research.\" In spite of the fact that the label was literally true, it sounded so crackpot that no one but a crackpot would bother to look into it. As a consequence, better than ninety per cent of the membership of the Society was composed of just such people. Only a few members of the \"core\" knew the organization's true function and purpose.<br /><br />A classic Randall Garrett tale . . .", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30304", 
+        "num": 30304
+    }, 
+    "authors": [
+        49
+    ], 
+    "pages": 34, 
+    "language": "English", 
+    "isbn13": "9781463800895", 
+    "country": 3, 
+    "release_date": "2009-10-20T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "short-stories", 
+        "science-fiction", 
+        "fiction", 
+        "currently-reading", 
+        "free-from-amazon", 
+        "classic", 
+        "21st-century-lit", 
+        "sci-fi", 
+        "pulp", 
+        "humor", 
+        "20th-century", 
+        "to-read-someday", 
+        "amazon-ebooks", 
+        "13"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

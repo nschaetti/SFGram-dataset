@@ -1,0 +1,58 @@
+{
+    "content_name": "32651.txt.utf-8", 
+    "author_name": "Irving E. Cox", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32651/32651-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32651/32651-h/images/illus.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 478, 
+    "category": "Text", 
+    "plot": "The main character is a young girl named Jeanette, who is adopted by evangelists from the Elim Pentecostal Church. She believes she is destined to become a missionary. The book depicts religious enthusiasm as an exploration of the power of love. As an adolescent, Jeanette finds herself attracted to another girl, and her mother's group of religious friends subject her and her partner to exorcisms.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Adolescents Only", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Oranges_Are_Not_the_Only_Fruit", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.67, 
+    "rating_count": 7, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32651/pg32651.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12492875-adolescents-only", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32651", 
+        "num": 32651
+    }, 
+    "authors": [
+        160
+    ], 
+    "language": "English", 
+    "country": 1, 
+    "release_date": "2010-06-02T00:00:00", 
+    "author": 160, 
+    "original_title": "Oranges Are Not the Only Fruit", 
+    "summary": "Oranges Are Not the Only Fruit is a novel by Jeanette Winterson published in 1985, which she subsequently adapted into a BBC television drama of the same name. It is a coming-of-age story about a lesbian girl who grows up in an English Pentecostal community. Key themes of the book include transition from youth to adulthood, complex family relationships, same sex relationships, and religion.\nIn England and Wales, it has been included on both GCSE and A Level curriculums, such as the OCR English Literature A Level, Literature Post 1900.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "21st-century-lit", 
+        "ebook-epub", 
+        "novella", 
+        "books", 
+        "owned", 
+        "entertainment", 
+        "got-it"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}
