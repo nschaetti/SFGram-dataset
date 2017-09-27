@@ -1,7 +1,5 @@
-Produced by Greg Weeks, LN Yaddanapudi and the Online
-Distributed Proofreading Team at http://www.pgdp.net
 THE HILLS OF HOME
-by Alfred Coppel
+By Alfred Coppel
 [Illustration]
  +--------------------------------------------------------------+
  | _"Normality" is a myth; we're all a little neurotic, and the |
@@ -11,7 +9,7 @@ by Alfred Coppel
  | to have crossed the border into psychosis) can be not only  |
  | useful, but perhaps necessary for certain kinds of work...._ |
  +--------------------------------------------------------------+
-_The river ran still and deep, green and gray in the eddies with the
+The river ran still and deep, green and gray in the eddies with the
 warm smell of late summer rising out of the slow water. Madrone and
 birch and willow, limp in the evening quiet, and the taste of
 smouldering leaves....
@@ -29,7 +27,7 @@ his harness. A soft smile touched his lips. He was well armed; there was
 nothing he had to fear from the Plant Men. His bare feet turned
 up-stream, away from the sound of the phonograph, toward the shallows in
 the river that would permit him to cross and continue his search along
-the base of the Golden Cliffs--_
+the base of the Golden Cliffs--
   *  *  *  *  *
 The sergeant's voice cut through the pre-dawn darkness. "Oh, three
 hundred, Colonel.... Briefing in thirty minutes."
@@ -318,16 +316,3 @@ He began stumbling across the empty, lifeless plain. He knew the voice,
 he knew the man, and he knew the hills that he must reach, quickly now,
 or die.
 They were the hills of home.
- +--------------------------------------------------------------+
- | Transcriber's Note and Errata   |
- |     |
- | This etext was produced from "Future Science Fiction" No. 30 |
- | 1956. Extensive research did not uncover any evidence that  |
- | the U.S. copyright on this publication was renewed.   |
- |     |
- | The following errors have been corrected: |
- |     |
- |  Error Correction  |
- |  cooly coolly  |
- |  fantasic fantastic  |
- +--------------------------------------------------------------+
