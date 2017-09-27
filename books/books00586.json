@@ -1,0 +1,75 @@
+{
+    "content_name": "26957.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Robert F. Young", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26957/26957-page-images/p069.png", 
+        "http://www.gutenberg.org/files/26957/26957-page-images/p070.png", 
+        "http://www.gutenberg.org/files/26957/26957-page-images/p071.png", 
+        "http://www.gutenberg.org/files/26957/26957-page-images/p072.png", 
+        "http://www.gutenberg.org/files/26957/26957-page-images/p073.png"
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 586, 
+    "category": "Text", 
+    "plot": "In the year 1944 in a mountainous area on the French-Italian border Esther and her mother and all the Jews in the village of Saint-Martin must cross from France to Italy to avoid the SS. After the war, she and her mother, Elizabeth, begin their long journey to France, to the sailing ship Sette Fratelli which will take them to Palestine. When Esther finally arrives in Jerusalem, she briefly meets and exchanges names with Nejma, a Palestinian, another wanderer, one who ends up, in the summer of 1948, in the Nour Chams Refugee Camp.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Star Mother", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Wandering_Star_(novel)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.19, 
+    "rating_count": 23, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6280593-star-mother", 
+        "found": true, 
+        "year": 1959
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26957", 
+        "num": 26957
+    }, 
+    "authors": [
+        153
+    ], 
+    "pages": 10, 
+    "language": "English", 
+    "country": 4, 
+    "release_date": "2008-10-18T00:00:00", 
+    "author": 153, 
+    "original_title": "Wandering Star (novel)", 
+    "summary": "Wandering Star (original title: \u00c9toile errante) is a novel by French Nobel laureate writer J. M. G. Le Cl\u00e9zio. The novel tells the story of two teenage girls on the threshold and in the aftermath of World War II. Esther, a French Jew who flees for Jerusalem with her mother just after Italy's occupation of a small section of south-east France ended during World War II; and Nejma, a young Arab orphaned and unable to return to the ancient city of her birth, Akka, after the Israeli declaration of statehood. Esther emigrates to the newborn state of Israel, where she encounters another group of refugees, this time Palestinian.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-story", 
+        "sci-fi", 
+        "owned", 
+        "audiobooks", 
+        "books", 
+        "15", 
+        "audio-obtained-lvss", 
+        "short-stories", 
+        "ebooks", 
+        "1950s", 
+        "scifi-and-horror", 
+        "eb-other", 
+        "eb", 
+        "3-ebooks", 
+        "si-fi-fantasy", 
+        "pdfs", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "3a-ebooks", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

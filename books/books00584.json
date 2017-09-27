@@ -1,0 +1,59 @@
+{
+    "content_name": "32696.txt.utf-8", 
+    "language_code": "vie", 
+    "author_name": "Robert Moore Williams", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32696/32696-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32696/32696-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/32696/32696-h/images/illus2.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 584, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Planet of the Gods", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.07, 
+    "rating_count": 9, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32696/pg32696.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10567723-planet-of-the-gods", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32696", 
+        "num": 32696
+    }, 
+    "authors": [
+        135
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-06-05T00:00:00", 
+    "author": 135, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "pulp", 
+        "audiobooks-to-read", 
+        "have-but-not-read", 
+        "21st-century-lit", 
+        "currently-reading", 
+        "audiobooks", 
+        "feedbooks-com", 
+        "3-ebooks", 
+        "sci-fi", 
+        "classic-sci-fi", 
+        "3a-ebooks"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

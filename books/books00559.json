@@ -1,0 +1,59 @@
+{
+    "content_name": "32780.txt.utf-8", 
+    "isbn": "1463800177", 
+    "author_name": "Raymond Z. Gallun", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32780/32780-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32780/32780-h/images/illus.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 559, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Asteroid of Fear", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.37, 
+    "rating_count": 19, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32780/pg32780.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12931750-asteroid-of-fear", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "All space was electrified as that harsh challenge rang out . . . but John Endlich hesitated. For he saw beyond his own murder -- saw the horror and destruction his death would unleash -- and knew he dared not fight back!<br /><br />The space ship landed briefly, and John Endlich lifted the huge Asteroids Homesteaders Office box, which contained everything from a prefabricated house to toothbrushes for his family, down from the hold-port without help or visible effort.<br /><br />In the tiny gravity of the asteroid, Vesta, doing this was no trouble at all. But beyond this point the situation was -- bitter.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32780", 
+        "num": 32780
+    }, 
+    "authors": [
+        148
+    ], 
+    "pages": 56, 
+    "language": "English", 
+    "isbn13": "9781463800178", 
+    "country": 3, 
+    "release_date": "2010-06-12T00:00:00", 
+    "author": 148, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "audiobooks", 
+        "currently-reading", 
+        "sci-fi", 
+        "science-fiction", 
+        "sci-fi-classics", 
+        "21st-century-lit", 
+        "sff", 
+        "short-scifi-story", 
+        "sci-fi-fantasy"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

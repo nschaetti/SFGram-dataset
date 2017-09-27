@@ -1,0 +1,47 @@
+{
+    "content_name": "49693.txt.utf-8", 
+    "author_name": "Joe Gibson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/49693/49693-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/49693/49693-h/images/illus.jpg", 
+        "http://www.gutenberg.org/files/49693/49693-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 599, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Machine That Floats", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/49693/pg49693.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/28110429-the-machine-that-floats", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/49693", 
+        "num": 49693
+    }, 
+    "authors": [
+        200
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2015-08-13T00:00:00", 
+    "author": 200, 
+    "content_cleaned": true, 
+    "classes": [
+        "anthos-shorts", 
+        "2015-challenge-oldish"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

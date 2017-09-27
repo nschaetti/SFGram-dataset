@@ -1,0 +1,66 @@
+{
+    "content_name": "30034.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Helen Huber", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30034/30034-h/images/001.png", 
+        "http://www.gutenberg.org/files/30034/30034-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/30034/30034-h/images/002-2.jpg"
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 548, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "I'll Kill You Tomorrow", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.11, 
+    "rating_count": 16, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/13349438-i-ll-kill-you-tomorrow", 
+        "found": true, 
+        "year": 1953
+    }, 
+    "similar_books": [], 
+    "description": "The entities were utterly, ambitiously evil; their line of defense, apparently, was absolutely impregnable.", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30034", 
+        "num": 30034
+    }, 
+    "authors": [
+        183
+    ], 
+    "pages": 13, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-09-19T00:00:00", 
+    "author": 183, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "to-read", 
+        "short-stories", 
+        "nouvelles-num\u00e9riques-lues", 
+        "lus-sur-ma-liseuse", 
+        "lus-en-anglais", 
+        "moon-reader", 
+        "schoolassigned", 
+        "sfbywomen", 
+        "sf", 
+        "short-story", 
+        "horror", 
+        "sciencefiction", 
+        "sci-fi", 
+        "fiction", 
+        "ebooks", 
+        "2011-reads", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

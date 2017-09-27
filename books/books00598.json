@@ -1,0 +1,60 @@
+{
+    "content_name": "30311.txt.utf-8", 
+    "isbn": "1599988216", 
+    "author_name": "John Berryman", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30311/30311-h/images/image_001_01.jpg", 
+        "http://www.gutenberg.org/files/30311/30311-h/images/image_001_02.jpg", 
+        "http://www.gutenberg.org/files/30311/30311-h/images/image_001_03.jpg", 
+        "http://www.gutenberg.org/files/30311/30311-h/images/image_002_01.jpg", 
+        "http://www.gutenberg.org/files/30311/30311-h/images/image_002_02.jpg", 
+        "http://www.gutenberg.org/files/30311/30311-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/30311/30311-h/images/image_004_01.jpg", 
+        "http://www.gutenberg.org/files/30311/30311-h/images/image_004_02.jpg", 
+        "http://www.gutenberg.org/files/30311/30311-h/images/image_b.jpg"
+    ], 
+    "year": 2007, 
+    "images": [], 
+    "id": 598, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Modus Vivendi", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/4138167-modus-vivendi", 
+        "found": true, 
+        "year": 2007
+    }, 
+    "similar_books": [], 
+    "description": "Can a friendship of three survive the trials of love and war? Book One in The Affairs of Mortons Pointe series. Aidan Morrison, Virgil Craig and Drea Samuels have rarely been separated during their decade-long friendship. While war rages in Europe in the summer of 1917, two young men prepare to face the unknown. Leaving the girl they grew up with drives one man to propose to Drea and the other to seduce her. To complicate matters, the men share a secret relationship of their own. Life on the home front is no less perilous than the front lines as Drea must face a personal tragedy alone while her friends try to survive the brutalities of war. After more than a year away, first Aidan and then Virgil return. Their unresolved issues reemerge and long-kept secrets are revealed. Can Aidan, Virgil and Drea find a way through the confusion, misunderstanding and undeniable attraction each of them feels for the others? Or will they have to accept that the ties they formed as children are not meant to last into adulthood? Warning, this title contains the following: explicit sex involving M/F/M in all permutations.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30311", 
+        "num": 30311
+    }, 
+    "authors": [
+        78
+    ], 
+    "pages": 232, 
+    "language": "English", 
+    "isbn13": "9781599988214", 
+    "country": 3, 
+    "release_date": "2009-10-22T00:00:00", 
+    "author": 78, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "already-own-need-to-read", 
+        "wrote", 
+        "to-acquire", 
+        "paperback-wishlist"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

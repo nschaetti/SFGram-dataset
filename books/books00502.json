@@ -1,0 +1,83 @@
+{
+    "content_name": "50863.txt.utf-8", 
+    "isbn": "1940812658", 
+    "language_code": "eng", 
+    "author_name": "E. Everett Evans", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50863/50863-h/images/cover.jpg"
+    ], 
+    "year": 2005, 
+    "images": [], 
+    "id": 502, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Alien Minds", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Alien_Minds", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 4.53, 
+    "rating_count": 5, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50863/pg50863.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/23350290-the-alien-mind", 
+        "found": true, 
+        "year": 2005
+    }, 
+    "similar_books": [], 
+    "description": "When a group of aliens called the <b>Aruk</b> abduct Young <b>Rivinaig </b>and several other children, they are thrown into the <i>adventure of a lifetime</i>. The <b>Aunantet</b>, a benevolent race of aliens, rescue the children and adopt them into their culture and raised them as if they belong. <br /><br />The children's new families teach them how to harness the full capacity of their minds, <i>enabling them to defy the laws of physics and develop special mental abilities</i>.<br /><br />The past returns to haunt them as the <b>Aruk</b> plot revenge and regain control of their former captives. <i>The fate of the entire galaxy depends on whether the children can maintain their freedom.</i>", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50863", 
+        "num": 50863
+    }, 
+    "authors": [
+        38
+    ], 
+    "pages": 192, 
+    "language": "English", 
+    "isbn13": "9781940812656", 
+    "country": 2, 
+    "release_date": "2016-01-07T00:00:00", 
+    "author": 38, 
+    "original_title": "Alien Minds", 
+    "summary": "Alien Minds is a science fiction novel by author E. Everett Evans. It was first published in 1955 by Fantasy Press in an edition of 1,417 copies. The book is a sequel to Man of Many Minds", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "giveaway", 
+        "6th-grade-fiction", 
+        "middle-grade", 
+        "summer-reading-2016", 
+        "favorite-books", 
+        "speculative-fiction", 
+        "science-fiction-for-teens", 
+        "middle-grade-science-fiction", 
+        "not-interested", 
+        "young-adult", 
+        "suspense", 
+        "scifi-fantasy", 
+        "relationships", 
+        "paranormal", 
+        "horror", 
+        "coming-of-age", 
+        "ya", 
+        "women-authors", 
+        "kindle", 
+        "to-read-may-be-at-some-time", 
+        "sf_space", 
+        "sf", 
+        "daddy-dark-s-baby-warrior-list", 
+        "4-5", 
+        "lisa", 
+        "currently-reading", 
+        "top-shelf"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,53 @@
+{
+    "content_name": "29190.txt.utf-8", 
+    "author_name": "Arthur Leo Zagat", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29190/29190-h/images/image_001.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 592, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Great Dome on Mercury", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 7, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12672031-the-great-dome-on-mercury", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Trapped in the great dome, Darl valiantly defends Earth's outpost against the bird-man of Mars and his horde of pigmy henchmen.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29190", 
+        "num": 29190
+    }, 
+    "authors": [
+        197
+    ], 
+    "isbn13": "2940012020321", 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-06-21T00:00:00", 
+    "author": 197, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "21st-century-lit", 
+        "15", 
+        "calibre", 
+        "z", 
+        "fiction", 
+        "so-bad-it-s-good", 
+        "science-fiction", 
+        "duplicate"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

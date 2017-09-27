@@ -1,0 +1,56 @@
+{
+    "content_name": "51867.txt.utf-8", 
+    "author_name": "Evelyn E. Smith", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51867/51867-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51867/51867-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51867/51867-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51867/51867-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/51867/51867-h/images/illus4.jpg", 
+        "http://www.gutenberg.org/files/51867/51867-h/images/illus5.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 516, 
+    "category": "Text", 
+    "plot": "When the Viking 1 space probe lands on Minerva in 1976 it takes a picture of a native Minervan wielding a primitive tool, thus proving the existence of intelligent life on other worlds.\nThe main action of the story involves separate American and Soviet missions, who both pay lip service to non-interference with Minervan society, but in the course of their research, the teams' respective political ideologies inevitably come to the fore. This leads the teams and their commanders back home to use the Minervans in a transparent analogy to Third World/Cold War proxy conflicts on Earth. One of the Americans saves the life of a female Minervan after she gives birth. Eventually Minervans get their hands on high tech items like steel hatchets, rubber rafts, and finally AK-74s, which severely disrupt their way of life.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Sentry Of The Sky", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/A_World_of_Difference_(novel)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51867/pg51867.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/32908448-sentry-of-the-sky", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51867", 
+        "num": 51867
+    }, 
+    "authors": [
+        172
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2016-04-26T00:00:00", 
+    "author": 172, 
+    "original_title": "A World of Difference (novel)", 
+    "summary": "A World of Difference is a 1990 science fiction novel by Harry Turtledove.\n\n", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "unknown-publication-dates", 
+        "free-from-amazon"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

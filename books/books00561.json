@@ -1,0 +1,78 @@
+{
+    "content_name": "22545.txt.utf-8", 
+    "author_name": "Ron Cocking", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/22545/22545-h/images/001.png", 
+        "http://www.gutenberg.org/files/22545/22545-h/images/002.jpg", 
+        "http://www.gutenberg.org/files/22545/22545-h/images/002t.jpg", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/c001.jpg", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p007.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p008.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p009.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p010.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p011.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p012.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p013.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p014.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p015.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p016.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p017.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p018.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p019.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p020.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p021.png", 
+        "http://www.gutenberg.org/files/22545/22545-page-images/p022.png"
+    ], 
+    "year": 2007, 
+    "images": [], 
+    "id": 561, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Warning from the Stars", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.74, 
+    "rating_count": 23, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/5954793-warning-from-the-stars", 
+        "found": true, 
+        "year": 2007
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/22545", 
+        "num": 22545
+    }, 
+    "authors": [
+        187
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-09-09T00:00:00", 
+    "author": 187, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "science-fiction", 
+        "short-story", 
+        "audio", 
+        "audiobooks", 
+        "audio-obtained-lvss", 
+        "novellas-poems-shorts", 
+        "scifi-and-horror", 
+        "available-on-website", 
+        "short-stories", 
+        "audiobook", 
+        "sci-fi", 
+        "unfinished", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

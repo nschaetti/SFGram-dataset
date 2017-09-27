@@ -1,0 +1,57 @@
+{
+    "content_name": "30322.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Tom Godwin", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30322/30322-h/images/image_001_01.jpg", 
+        "http://www.gutenberg.org/files/30322/30322-h/images/image_001_02.jpg", 
+        "http://www.gutenberg.org/files/30322/30322-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30322/30322-h/images/image_003.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 583, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Helpful Hand of God", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.46, 
+    "rating_count": 10, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10410170-the-helpful-hand-of-god", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "Kindle Edition", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30322", 
+        "num": 30322
+    }, 
+    "authors": [
+        39
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-10-24T00:00:00", 
+    "author": 39, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "21st-century-lit", 
+        "short-stories", 
+        "sci-fi", 
+        "pulp", 
+        "fiction", 
+        "science-fiction-fantasy", 
+        "scifi", 
+        "not-reviewed"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

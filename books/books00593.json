@@ -1,0 +1,76 @@
+{
+    "content_name": "22967.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Algis Budrys", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/22967/22967-h/images/001.png", 
+        "http://www.gutenberg.org/files/22967/22967-h/images/002.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p059-image.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p059.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p060.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p061.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p062.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p063.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p064.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p065.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p066.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p067.png", 
+        "http://www.gutenberg.org/files/22967/22967-page-images/p068.png"
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 593, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Stoker and the Stars", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.84, 
+    "rating_count": 13, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11775807-the-stoker-and-the-stars", 
+        "found": true, 
+        "year": 1959
+    }, 
+    "similar_books": [], 
+    "description": "Free ebook download, all formats.<br /><br />When you've had your ears pinned back in a bowknot, it's sometimes hard to remember that an intelligent people has no respect for a whipped enemy . . . but does for a fairly beaten enemy.<br /><br />Know him? Yes, I know him -- \"knew\" him. That was twenty years ago.Everybody knows him now. Everybody who passed him on the street knows him. Everybody who went to the same schools, or even to different schools in different towns, knows him now. Ask them. But I knew him. I lived three feet away from him for a month and a half. I shipped with him and called him by his first name.", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/22967", 
+        "num": 22967
+    }, 
+    "authors": [
+        91
+    ], 
+    "pages": 22, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-10-12T00:00:00", 
+    "author": 91, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "short-stories", 
+        "ebook", 
+        "currently-reading", 
+        "scifi", 
+        "owned-pending-kindle-free-ebook", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "books-i-own", 
+        "short", 
+        "1950s", 
+        "sci-fi-short-stories", 
+        "14", 
+        "fiction", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

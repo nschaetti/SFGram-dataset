@@ -1,0 +1,55 @@
+{
+    "content_name": "24529.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24529/24529-h/images/001.png", 
+        "http://www.gutenberg.org/files/24529/24529-h/images/002.png", 
+        "http://www.gutenberg.org/files/24529/24529-h/images/003.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 507, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Unnecessary Man", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.56, 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20573853-the-unnecessary-man", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24529", 
+        "num": 24529
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-02-06T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "free-from-amazon", 
+        "classic", 
+        "21st-century-lit", 
+        "short-stories", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "fiction", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

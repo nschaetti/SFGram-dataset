@@ -1,0 +1,53 @@
+{
+    "content_name": "21897.txt.utf-8", 
+    "author_name": "James H. Schmitz", 
+    "images_urls": [], 
+    "year": 2009, 
+    "images": [], 
+    "id": 545, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "An Incident on Route 12", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.24, 
+    "rating_count": 25, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8435442-an-incident-on-route-12", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "description": "He was already a thief, prepared to steal again. He didn't know that he himself was only booty! Phil Garfield was thirty miles south of the little town of Redmon on Route Twelve when he was startled by a series of sharp, clanking noises. They came from under the Packard's hood. The car immediately began to lose speed. Garfield jammed down the accelerator, had a sense of sick helplessness at the complete lack of response from the motor. The Packard rolled on, getting rid of its momentum, and came to a stop.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/21897", 
+        "num": 21897
+    }, 
+    "authors": [
+        136
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-06-21T00:00:00", 
+    "author": 136, 
+    "content_cleaned": false, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "audiobook", 
+        "short-stories", 
+        "audio", 
+        "review-done", 
+        "short-story", 
+        "sci-fi_short_stories", 
+        "novellas-poems-shorts", 
+        "fiction", 
+        "sci-fi", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

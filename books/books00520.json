@@ -1,0 +1,70 @@
+{
+    "content_name": "24149.txt.utf-8", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24149/24149-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/24149/24149-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/24149/24149-h/images/illus3.jpg"
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 520, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Ambulance Made Two Trips", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.31, 
+    "rating_count": 32, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8708923-the-ambulance-made-two-trips", 
+        "found": true, 
+        "year": 1960
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24149", 
+        "num": 24149
+    }, 
+    "authors": [
+        61
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-03T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "sci-fi", 
+        "fiction", 
+        "classics", 
+        "audiobooks-read", 
+        "3-stars", 
+        "books", 
+        "library", 
+        "audio-books-to-read", 
+        "lost-interest", 
+        "audiobooks", 
+        "short-story", 
+        "audio-obtained", 
+        "librivox", 
+        "read-since-june-2012", 
+        "novels", 
+        "01_sf-and-fantasy-short-stories", 
+        "audio-book", 
+        "scifi", 
+        "science-fict", 
+        "short", 
+        "audiobooks-to-read", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

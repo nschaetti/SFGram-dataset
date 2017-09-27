@@ -1,0 +1,58 @@
+{
+    "content_name": "31355.txt.utf-8", 
+    "isbn": "1463801610", 
+    "author_name": "Bryce Walton", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/31355/31355-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/31355/31355-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/31355/31355-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/31355/31355-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/31355/31355-h/images/image_r.jpg", 
+        "http://www.gutenberg.org/files/31355/31355-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/31355/31355-h/images/image_t.jpg", 
+        "http://www.gutenberg.org/files/31355/31355-h/images/image_y1.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 570, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "To Each His Star", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.89, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/31355/pg31355.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12726469-to-each-his-star", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "\"Nothing around those other suns but ashes and dried blood,\" old Dunbar told the space-wrecked, desperate men. \"Only one way to go, where we can float down through the clouds to Paradise. That's straight ahead to the sun with the red rim around it.\"<br /><br />But Dunbar's eyes were old and uncertain. How could they believe in his choice when every star in this forsaken section of space was surrounded by a beckoning red rim?", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/31355", 
+        "num": 31355
+    }, 
+    "authors": [
+        88
+    ], 
+    "pages": 22, 
+    "language": "English", 
+    "isbn13": "9781463801618", 
+    "country": 3, 
+    "release_date": "2010-02-22T00:00:00", 
+    "author": 88, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "on-the-shelf"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,79 @@
+{
+    "content_name": "29177.txt.utf-8", 
+    "author_name": "Jack Williamson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29177/29177-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/29177/29177-h/images/image_002_01.jpg", 
+        "http://www.gutenberg.org/files/29177/29177-h/images/image_002_02.jpg"
+    ], 
+    "year": 1932, 
+    "images": [], 
+    "id": 582, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Pygmy Planet", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.03, 
+    "rating_count": 15, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6630012-the-pygmy-planet", 
+        "found": true, 
+        "year": 1932
+    }, 
+    "similar_books": [], 
+    "description": "Down into the infinitely small goes Larry on his mission to the Pygmy Planet.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29177", 
+        "num": 29177
+    }, 
+    "authors": [
+        86
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-06-20T00:00:00", 
+    "author": 86, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "science-fiction", 
+        "d-d", 
+        "fiction", 
+        "appendix-e", 
+        "short-story", 
+        "d-d-inspiration", 
+        "appendix-n", 
+        "dndrecommended", 
+        "sci-fi-and-fantasy-fiction", 
+        "free-on-kindle", 
+        "dungeons-and-dragons", 
+        "d-d-5e-reading", 
+        "dnd-reading-list", 
+        "owned-pending-kindle-free-ebook", 
+        "kindle-free-ebook", 
+        "to-read-scifi", 
+        "16", 
+        "calibre", 
+        "gary-gygax-list", 
+        "buy", 
+        "to-buy", 
+        "dnd-inspirational-reading", 
+        "science-fiction-times", 
+        "sci-fi", 
+        "mmm2013", 
+        "so-bad-it-s-good", 
+        "e-book", 
+        "just-a-lookin", 
+        "science", 
+        "general", 
+        "adventure", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,53 @@
+{
+    "content_name": "29936.txt.utf-8", 
+    "isbn": "1606644815", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29936/29936-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/29936/29936-h/images/image_002.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 557, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Flamedown", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.9, 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14465288-flamedown", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Charlie Holmes lost touch with reality amid rending and shattering sounds that lingered dimly. Blackness engulfed him in a wave of agony.<br /><br />He was not sure exactly when the possibility of opening his eyes occurred to him. Vaguely, he could sense -- \"remember\" was too definite -- much tugging and hauling upon his supine body. It doubtless seemed justifiable, but he flinched from recalling more clearly that which must have been so extremely unpleasant.<br /><br />Gently, now, he tried rolling his head a few inches right, then left. When it hurt only one-tenth as much as he feared, he let his eyes open.<br /><br />\"Hel-lo!\" rasped the bulbous creature squatting beside his pallet.<br /><br />Charlie shut his eyes quickly, and very tightly.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29936", 
+        "num": 29936
+    }, 
+    "authors": [
+        94
+    ], 
+    "pages": 18, 
+    "language": "English", 
+    "isbn13": "9781606644812", 
+    "country": 3, 
+    "release_date": "2009-09-08T00:00:00", 
+    "author": 94, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "audiobooks", 
+        "short-story", 
+        "science-fiction", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

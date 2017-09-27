@@ -1,0 +1,56 @@
+{
+    "content_name": "41027.txt.utf-8", 
+    "author_name": "Raymond Z. Gallun", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/41027/41027-h/images/author.jpg", 
+        "http://www.gutenberg.org/files/41027/41027-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/41027/41027-h/images/illus.jpg"
+    ], 
+    "year": 2012, 
+    "images": [], 
+    "id": 508, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Revolt of the Star Men", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.29, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/41027/pg41027.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19295914-the-revolt-of-the-star-men", 
+        "found": true, 
+        "year": 2012
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/41027", 
+        "num": 41027
+    }, 
+    "authors": [
+        148
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2012-10-11T00:00:00", 
+    "author": 148, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "21st-century-lit", 
+        "science-fiction", 
+        "pulp", 
+        "illustrated", 
+        "shelf-g-authors", 
+        "genre-syfi-fan-horr", 
+        "sci-fi-classics", 
+        "pg", 
+        "short-scifi-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,86 @@
+{
+    "content_name": "50719.txt.utf-8", 
+    "isbn": "0986037362", 
+    "language_code": "eng", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50719/50719-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50719/50719-h/images/illus.jpg"
+    ], 
+    "year": 2013, 
+    "images": [], 
+    "id": 590, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Juju", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.12, 
+    "rating_count": 15, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50719/pg50719.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/18816137-the-starburst-juju", 
+        "found": true, 
+        "year": 2013
+    }, 
+    "similar_books": [
+        "Pinkalicious: Pink or Treat!", 
+        "Secrets at the Chocolate Mansion", 
+        "Robomop", 
+        "Dinosaurology (Ologies, #12)", 
+        "Grave Images", 
+        "Lone Wolves", 
+        "The Lost Planet (Chase Garrety #1)", 
+        "Millions, Billions, & Trillions", 
+        "Lost on Mars", 
+        "Nothing... Except My Genius", 
+        "Rufus Goes to School", 
+        "A Perfect Storm (Saranormal, #10)", 
+        "Stick!", 
+        "Runt", 
+        "Blucy: The Blue Cat", 
+        "Raids and Rescues (The Secret Zoo #5)", 
+        "Darkbeast Rebellion (Darkbeast, #2)", 
+        "The Changeling"
+    ], 
+    "description": "Perfect for Middle Graders: Pepper, a 15-year-old girl living in the aftermath of an economically collapsed earth, prepares to witness the annual abduction of humans by extraterrestrials. When its Pepper's parents who are taken, she learns that they are not the humble human schoolteachers she thought she knew, but two of the most powerful inventors throughout many worlds. Desperate to find them, Pepper will do anything to get them back, even if it means finding the otherworldly Starburst Juju, a stone that can free her parents from alien confinement.<br /><br />A percentage of this purchase will go to Book Trust, whose mission is to deliver choice and ownership of books to children from low-income families, increasing their literacy skills and fostering life-long learning.<br /><br /><a target=\"_blank\" href=\"http://www.BookTrust.org\" rel=\"nofollow\">www.BookTrust.org</a><br /><br />Designer: David M.F. Powers", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50719", 
+        "num": 50719
+    }, 
+    "authors": [
+        61
+    ], 
+    "pages": 280, 
+    "language": "English", 
+    "isbn13": "9780986037368", 
+    "country": 3, 
+    "release_date": "2015-12-19T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "i-need-these", 
+        "read-but-not-finished", 
+        "to-read-or-not-to-read", 
+        "entered-in-giveaway", 
+        "young-adult", 
+        "female-pov", 
+        "2013-release", 
+        "first-reads", 
+        "on-deck", 
+        "random", 
+        "reordering", 
+        "entered-to-win", 
+        "maybe-read", 
+        "kindle-books", 
+        "books-i-own"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,52 @@
+{
+    "content_name": "32665.txt.utf-8", 
+    "author_name": "Roger D. Aycock", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32665/32665-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32665/32665-h/images/illus.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 566, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Anglers of Arz", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.67, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32665/pg32665.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8631460-the-anglers-of-arz", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32665", 
+        "num": 32665
+    }, 
+    "authors": [
+        162
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-06-02T00:00:00", 
+    "author": 162, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "sf-short-stories", 
+        "short-story", 
+        "audio-obtained", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

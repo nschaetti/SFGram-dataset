@@ -1,0 +1,55 @@
+{
+    "content_name": "51687.txt.utf-8", 
+    "isbn": "0886469376", 
+    "author_name": "Donald E. Westlake", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51687/51687-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51687/51687-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51687/51687-h/images/illus2.jpg"
+    ], 
+    "year": 1997, 
+    "images": [], 
+    "id": 501, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Spy in the Elevator", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Spy_High", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 5, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51687/pg51687.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/1271037.The_Spy_in_the_Elevator", 
+        "found": true, 
+        "year": 1997
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "format": "Audio Cassette", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51687", 
+        "num": 51687
+    }, 
+    "authors": [
+        168
+    ], 
+    "language": "English", 
+    "isbn13": "9780886469375", 
+    "country": 1, 
+    "release_date": "2016-04-07T00:00:00", 
+    "author": 168, 
+    "original_title": "Spy High", 
+    "summary": "Spy High is an English book series by English writer A. J. Butcher about a high school for secret agents in training. It is divided into two series of six books each. Series One, first published in 2003 and 2004, is about Bond Team as a whole. Series Two, first published in 2004 and 2005, follows each member of Bond Team on a mission, taking place two years after graduation.\nOnly the first five books of Series One are released in the United States, although the sixth was scheduled and pulled prior to publication. Series one and series two have been released in the United Kingdom.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "wish-list"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

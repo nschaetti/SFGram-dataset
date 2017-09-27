@@ -1,0 +1,55 @@
+{
+    "content_name": "32272.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Jesse F. Bone", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32272/32272-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32272/32272-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/32272/32272-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/32272/32272-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/32272/32272-h/images/illus4.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 532, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Insidekick", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.56, 
+    "rating_count": 8, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32272/pg32272.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/18130180-insidekick", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from it physical edition to the digital format by a team of volunteers. You may find it free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "format": "Kindle Edition", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32272", 
+        "num": 32272
+    }, 
+    "authors": [
+        68
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-05-06T00:00:00", 
+    "author": 68, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "21st-century-lit", 
+        "sci-fi", 
+        "e-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

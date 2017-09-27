@@ -1,0 +1,53 @@
+{
+    "content_name": "31840.txt.utf-8", 
+    "isbn": "B004TPBO7A", 
+    "language_code": "eng", 
+    "author_name": "Robert Arthur", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/31840/31840-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/31840/31840-h/images/image_001_01.jpg", 
+        "http://www.gutenberg.org/files/31840/31840-h/images/image_001_02.jpg", 
+        "http://www.gutenberg.org/files/31840/31840-h/images/image_t.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 505, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Ring Once for Death", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.85, 
+    "rating_count": 11, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/31840/pg31840.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/13459914-ring-once-for-death", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "Kindle Edition", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/31840", 
+        "num": 31840
+    }, 
+    "authors": [
+        169
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-03-31T00:00:00", 
+    "author": 169, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "horror", 
+        "science-fiction", 
+        "short-stories"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

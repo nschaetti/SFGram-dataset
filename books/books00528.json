@@ -1,0 +1,50 @@
+{
+    "content_name": "11583.txt.utf-8", 
+    "isbn": "1588074757", 
+    "author_name": "Michael D. Cooper", 
+    "images_urls": [], 
+    "year": 2014, 
+    "images": [], 
+    "id": 528, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Copyrighted. Read the copyright notice inside this book for details.", 
+    "title": "The Runaway Asteroid", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 3, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8440237-the-runaway-asteroid", 
+        "found": true, 
+        "year": 2014
+    }, 
+    "similar_books": [], 
+    "description": "Lurton Zimbardo and his pirates threaten Mars with destruction from outer space and he makes good on his threat. Next he puts Earth in his sights. He operates from deep within the asteroid belt; his headquarters housed in a massive asteroid fashioned into a spacecraft by aliens from ages past. It is invisible to detection.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/11583", 
+        "num": 11583
+    }, 
+    "authors": [
+        174
+    ], 
+    "isbn13": "9781588074751", 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2004-03-01T00:00:00", 
+    "author": 174, 
+    "content_cleaned": false, 
+    "classes": [
+        "to-read", 
+        "16", 
+        "sff", 
+        "children-ya", 
+        "fiction", 
+        "science-fiction", 
+        "for-fun"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

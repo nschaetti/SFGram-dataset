@@ -1,0 +1,49 @@
+{
+    "content_name": "40954.txt.utf-8", 
+    "author_name": "Mack Reynolds", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/40954/40954-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/40954/40954-h/images/illus.jpg"
+    ], 
+    "year": 2012, 
+    "images": [], 
+    "id": 525, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Potential Enemy", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.5, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/40954/pg40954.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20344731-potential-enemy", 
+        "found": true, 
+        "year": 2012
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/40954", 
+        "num": 40954
+    }, 
+    "authors": [
+        69
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2012-10-06T00:00:00", 
+    "author": 69, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "audiobooks", 
+        "fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

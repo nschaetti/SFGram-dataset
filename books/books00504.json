@@ -1,0 +1,55 @@
+{
+    "content_name": "50063.txt.utf-8", 
+    "isbn": "1530772648", 
+    "author_name": "Raymond Z. Gallun", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50063/50063-h/images/cover.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 504, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "People Minus X", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50063/pg50063.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29842968-people-minus-x", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "The hero of the novel is Ed Doukas, who is the nephew of the scientist whom everyone blames for the destruction of the Moon (though it's never clear if the scientist is actually guilty); this uncle survived, because he had left the Moon the day before the experiment. Soon, the government learns of the survival of the uncle, and he goes underground. Ed soon finds himself a pariah due to his relation to his uncle. As the story proceeds, there begins to be a debate, then more animosity between people who are natural, and the re-created android personalities, until it begins to resemble McCarthyism, as the naturally-born people believe the androids want to take over the world. Ed learns where his uncle is hiding, and decides to stand with the androids, since the natural-born are so hysterical and are becoming luddites, i.e. they are against all science. Soon, there is a war between the two sides, and that fills up the rest of the story.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50063", 
+        "num": 50063
+    }, 
+    "authors": [
+        148
+    ], 
+    "pages": 98, 
+    "language": "English", 
+    "isbn13": "9781530772643", 
+    "country": 3, 
+    "release_date": "2015-09-27T00:00:00", 
+    "author": 148, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "audiobook", 
+        "science-fiction", 
+        "mars", 
+        "digitised-consciousness", 
+        "androids", 
+        "ace-doubles"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

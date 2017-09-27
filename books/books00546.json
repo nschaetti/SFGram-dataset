@@ -1,0 +1,54 @@
+{
+    "content_name": "51758.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Rosel George Brown", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51758/51758-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51758/51758-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51758/51758-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51758/51758-h/images/illus3.jpg"
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 546, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "From An Unseen Censor", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.5, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51758/pg51758.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/17791419-from-an-unseen-censor", 
+        "found": true, 
+        "year": 1958
+    }, 
+    "similar_books": [], 
+    "description": "<b>You can't beat my uncle Isadore - he's dead but he's quick - yet that is just what he was daring me to try and do!.</b><br /><br /><i>Science Fiction </i><br />Play Duration: 00:56:49 <br />Public Domain stories from archive.org that are read by volunteers. <br />First published in <i>\u201dGalaxy Magazine\u201d</i> <br /><br /><u>Free download from LibriVox.org</u>", 
+    "format": "Audiobook", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51758", 
+        "num": 51758
+    }, 
+    "authors": [
+        182
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-04-14T00:00:00", 
+    "author": 182, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "short-story", 
+        "audio-obtained", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

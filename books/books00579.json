@@ -1,0 +1,55 @@
+{
+    "content_name": "29271.txt.utf-8", 
+    "author_name": "Jesse F. Bone", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29271/29271-h/images/001-1.jpg", 
+        "http://www.gutenberg.org/files/29271/29271-h/images/001-2.jpg"
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 579, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Issahar Artifacts", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.22, 
+    "rating_count": 13, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8517856-the-issahar-artifacts", 
+        "found": true, 
+        "year": 1960
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29271", 
+        "num": 29271
+    }, 
+    "authors": [
+        68
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-06-29T00:00:00", 
+    "author": 68, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "currently-reading", 
+        "20th-century-lit", 
+        "sci-fi", 
+        "pulp", 
+        "fiction", 
+        "20th-century", 
+        "short-story", 
+        "1960s", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

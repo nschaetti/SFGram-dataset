@@ -1,0 +1,51 @@
+{
+    "content_name": "29038.txt.utf-8", 
+    "author_name": "Roman Frederick Starzl", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29038/29038-h/images/image_001.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 538, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "In the Orbit of Saturn", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.4, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20568421-in-the-orbit-of-saturn", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29038", 
+        "num": 29038
+    }, 
+    "authors": [
+        178
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-06-04T00:00:00", 
+    "author": 178, 
+    "content_cleaned": true, 
+    "classes": [
+        "short-stories", 
+        "spce-opera", 
+        "pulp", 
+        "fiction", 
+        "20th-century", 
+        "sci-fi-classics", 
+        "calibre", 
+        "to-read", 
+        "scifi"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

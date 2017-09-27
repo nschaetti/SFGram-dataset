@@ -1,0 +1,61 @@
+{
+    "content_name": "24121.txt.utf-8", 
+    "author_name": "John O'Keefe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24121/24121-h/images/001.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 544, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "As Long As You Wish", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.93, 
+    "rating_count": 24, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8423077-as-long-as-you-wish", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24121", 
+        "num": 24121
+    }, 
+    "authors": [
+        181
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-02T00:00:00", 
+    "author": 181, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "fiction", 
+        "favorites", 
+        "science-fiction", 
+        "essence-of-rhetoric", 
+        "dialogue", 
+        "short-stories", 
+        "20th-century", 
+        "modern-fiction", 
+        "audiobooks", 
+        "short-story", 
+        "audio-obtained", 
+        "kindle", 
+        "droid-laputa", 
+        "sci-fi", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "laputa", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

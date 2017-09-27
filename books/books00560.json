@@ -1,0 +1,43 @@
+{
+    "content_name": "30337.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30337/30337-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30337/30337-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30337/30337-h/images/image_d.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 560, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Fifty Per Cent Prophet", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/34245198-fifty-per-cent-prophet", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30337", 
+        "num": 30337
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-10-25T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

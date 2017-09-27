@@ -1,0 +1,54 @@
+{
+    "content_name": "30497.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30497/30497-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30497/30497-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30497/30497-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/30497/30497-h/images/image_004.jpg", 
+        "http://www.gutenberg.org/files/30497/30497-h/images/image_005.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 533, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Foreign Hand Tie", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12570362-the-foreign-hand-tie", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30497", 
+        "num": 30497
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "isbn13": "2940012506702", 
+    "country": 3, 
+    "release_date": "2009-11-18T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "free-from-amazon", 
+        "classic", 
+        "amazon-ebooks", 
+        "scifi", 
+        "spy", 
+        "sci-fi"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,51 @@
+{
+    "content_name": "29990.txt.utf-8", 
+    "isbn": "2819907830", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29990/29990-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/29990/29990-h/images/image_h.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 575, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Satellite System", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.5, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12944585-satellite-system", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29990", 
+        "num": 29990
+    }, 
+    "authors": [
+        94
+    ], 
+    "language": "English", 
+    "isbn13": "9782819907831", 
+    "country": 3, 
+    "release_date": "2009-09-14T00:00:00", 
+    "author": 94, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "to-read", 
+        "short-stories", 
+        "librivox-free-editions", 
+        "short-story", 
+        "calibre"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

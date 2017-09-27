@@ -1,0 +1,82 @@
+{
+    "content_name": "23439.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23439/23439-h/images/001.jpg", 
+        "http://www.gutenberg.org/files/23439/23439-h/images/002.jpg", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p057-image.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p057.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p058.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p059.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p060.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p061.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p062.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p063.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p064.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p065-image.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p065.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p066.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p067.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p068.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p069.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p070.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p071.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p072.png", 
+        "http://www.gutenberg.org/files/23439/23439-page-images/p073.png"
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 543, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Attention Saint Patrick", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.06, 
+    "rating_count": 10, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12072149-attention-saint-patrick", 
+        "found": true, 
+        "year": 1960
+    }, 
+    "similar_books": [], 
+    "description": "Legends do, of course, get somewhat distorted in the passage of time. In the future, the passage across space to other planets may cause a slight modification here and there ... and on Eire, a planet for the Irish, that might be the only thing that saves them!", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23439", 
+        "num": 23439
+    }, 
+    "authors": [
+        61
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-11-10T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "science-fiction", 
+        "currently-reading", 
+        "books", 
+        "library", 
+        "audiobooks", 
+        "short-story", 
+        "short-stories", 
+        "audio-obtained", 
+        "1960s", 
+        "scifi", 
+        "backlogue", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "loan-od", 
+        "ebook"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

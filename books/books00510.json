@@ -1,0 +1,51 @@
+{
+    "content_name": "30901.txt.utf-8", 
+    "isbn": "1463897030", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30901/30901-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30901/30901-h/images/image_f.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 510, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Fee of the Frontier", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.33, 
+    "rating_count": 3, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14403001-fee-of-the-frontier", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "They didn't think of themselves as pioneers. They simply had a job to do. And if they had to give up money, or power, or love -- or life itself -- that was . . . the Fee of the Frontier.", 
+    "format": "Hardcover", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30901", 
+        "num": 30901
+    }, 
+    "authors": [
+        94
+    ], 
+    "pages": 28, 
+    "language": "English", 
+    "isbn13": "9781463897031", 
+    "country": 3, 
+    "release_date": "2010-01-09T00:00:00", 
+    "author": 94, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "free-from-amazon", 
+        "classic"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}
