@@ -1,0 +1,899 @@
+﻿The Project Gutenberg eBook, The Big Bounce, by Walter S. Tevis,
+Illustrated by  Johnson
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: The Big Bounce
+
+
+Author: Walter S. Tevis
+
+
+
+Release Date: October 23, 2007  [eBook #23153]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK THE BIG BOUNCE***
+
+
+E-text prepared by Greg Weeks, Jacqueline Jeremy, and the Project
+Gutenberg Online Distributed Proofreading Team (http://www.pgdp.net)
+
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustration.
+      See 23153-h.htm or 23153-h.zip:
+      (http://www.gutenberg.net/dirs/2/3/1/5/23153/23153-h/23153-h.htm)
+      or
+      (http://www.gutenberg.net/dirs/2/3/1/5/23153/23153-h.zip)
+
+
+
+
+
+THE BIG BOUNCE
+
+by
+
+WALTER S. TEVIS
+
+_Seeing it in action, anybody would quaver in
+alarm: What hath Farnsworth overwrought?_
+
+Illustrated by Johnson
+
+
+
+
+
+
+
+"Let me show you something," Farnsworth said. He set his near-empty
+drink--a Bacardi martini--on the mantel and waddled out of the room
+toward the basement.
+
+I sat in my big leather chair, feeling very peaceful with the world,
+watching the fire. Whatever Farnsworth would have to show to-night
+would be far more entertaining than watching T.V.--my custom on other
+evenings. Farnsworth, with his four labs in the house and his very
+tricky mind, never failed to provide my best night of the week.
+
+When he returned, after a moment, he had with him a small box, about
+three inches square. He held this carefully in one hand and stood by
+the fireplace dramatically--or as dramatically as a very small, very
+fat man with pink cheeks can stand by a fireplace of the sort that
+seems to demand a big man with tweeds, pipe and, perhaps, a saber
+wound.
+
+Anyway, he held the box dramatically and he said, "Last week, I was
+playing around in the chem lab, trying to make a new kind of rubber
+eraser. Did quite well with the other drafting equipment, you know,
+especially the dimensional curve and the photosensitive ink. Well, I
+approached the job by trying for a material that would absorb graphite
+without abrading paper."
+
+I was a little disappointed with this; it sounded pretty tame. But I
+said, "How did it come out?"
+
+       *       *       *       *       *
+
+He screwed his pudgy face up thoughtfully. "Synthesized the material,
+all right, and it seems to work, but the interesting thing is that it
+has a certain--ah--secondary property that would make it quite awkward
+to use. Interesting property, though. Unique, I am inclined to
+believe."
+
+This began to sound more like it. "And what property is that?" I
+poured myself a shot of straight rum from the bottle sitting on the
+table beside me. I did not like straight rum, but I preferred it to
+Farnsworth's rather imaginative cocktails.
+
+"I'll show you, John," he said. He opened the box and I could see that
+it was packed with some kind of batting. He fished in this and
+withdrew a gray ball about the size of a golfball and set the box on
+the mantel.
+
+"And that's the--eraser?" I asked.
+
+"Yes," he said. Then he squatted down, held the ball about a half-inch
+from the floor, dropped it.
+
+It bounced, naturally enough. Then it bounced again. And again. Only
+this was not natural, for on the second bounce the ball went higher in
+the air than on the first, and on the third bounce higher still. After
+a half minute, my eyes were bugging out and the little ball was
+bouncing four feet in the air and going higher each time.
+
+I grabbed my glass. "What the hell!" I said.
+
+Farnsworth caught the ball in a pudgy hand and held it. He was smiling
+a little sheepishly. "Interesting effect, isn't it?"
+
+"Now wait a minute," I said, beginning to think about it. "What's the
+gimmick? What kind of motor do you have in that thing?"
+
+His eyes were wide and a little hurt. "No gimmick, John. None at all.
+Just a very peculiar molecular structure."
+
+"Structure!" I said. "Bouncing balls just don't pick up energy out of
+nowhere, I don't care how their molecules are put together. And you
+don't get energy out without putting energy in."
+
+"Oh," he said, "that's the really interesting thing. Of course you're
+right; energy _does_ go into the ball. Here, I'll show you."
+
+He let the ball drop again and it began bouncing, higher and higher,
+until it was hitting the ceiling. Farnsworth reached out to catch it,
+but he fumbled and the thing glanced off his hand, hit the mantelpiece
+and zipped across the room. It banged into the far wall, richocheted,
+banked off three other walls, picking up speed all the time.
+
+When it whizzed by me like a rifle bullet, I began to get worried, but
+it hit against one of the heavy draperies by the window and this
+damped its motion enough so that it fell to the floor.
+
+       *       *       *       *       *
+
+It started bouncing again immediately, but Farnsworth scrambled across
+the room and grabbed it. He was perspiring a little and he began
+instantly to transfer the ball from one hand to another and back again
+as if it were hot.
+
+"Here," he said, and handed it to me.
+
+I almost dropped it.
+
+"It's like a ball of ice!" I said. "Have you been keeping it in the
+refrigerator?"
+
+"No. As a matter of fact, it was at room temperature a few minutes
+ago."
+
+"Now wait a minute," I said. "I only teach physics in high school, but
+I know better than that. Moving around in warm air doesn't make
+anything cold except by evaporation."
+
+"Well, there's your input and output, John," he said. "The ball lost
+heat and took on motion. Simple conversion."
+
+My jaw must have dropped to my waist. "Do you mean that that little
+thing is converting heat to kinetic energy?"
+
+"Apparently."
+
+"But that's impossible!"
+
+He was beginning to smile thoughtfully. The ball was not as cold now
+as it had been and I was holding it in my lap.
+
+"A steam engine does it," he said, "and a steam turbine. Of course,
+they're not very efficient."
+
+"They work mechanically, too, and only because water expands when it
+turns to steam."
+
+"This seems to do it differently," he said, sipping thoughtfully at
+his dark-brown martini. "I don't know exactly how--maybe something
+piezo-electric about the way its molecules slide about. I ran some
+tests--measured its impact energy in foot pounds and compared that
+with the heat loss in BTUs. Seemed to be about 98 per cent efficient,
+as close as I could tell. Apparently it converts heat into bounce very
+well. Interesting, isn't it?"
+
+"_Interesting?_" I almost came flying out of my chair. My mind was
+beginning to spin like crazy. "If you're not pulling my leg with this
+thing, Farnsworth, you've got something by the tail there that's just
+a little bit bigger than the discovery of fire."
+
+He blushed modestly. "I'd rather thought that myself," he admitted.
+
+"Good Lord, look at the heat that's available!" I said, getting really
+excited now.
+
+       *       *       *       *       *
+
+Farnsworth was still smiling, very pleased with himself. "I suppose
+you could put this thing in a box, with convection fins, and let it
+bounce around inside--"
+
+"I'm way ahead of you," I said. "But that wouldn't work. All your
+kinetic energy would go right back to heat, on impact--and eventually
+that little ball would build up enough speed to blast its way through
+any box you could build."
+
+"Then how would you work it?"
+
+"Well," I said, choking down the rest of my rum, "you'd seal the ball
+in a big steel cylinder, attach the cylinder to a crankshaft and
+flywheel, give the thing a shake to start the ball bouncing back and
+forth, and let it run like a gasoline engine or something. It would
+get all the heat it needed from the air in a normal room. Mount the
+apparatus in your house and it would pump your water, operate a
+generator and keep you cool at the same time!"
+
+I sat down again, shakily, and began pouring myself another drink.
+
+Farnsworth had taken the ball from me and was carefully putting it
+back in its padded box. He was visibly showing excitement, too; I
+could see that his cheeks were ruddier and his eyes even brighter than
+normal. "But what if you want the cooling and don't have any work to
+be done?"
+
+"Simple," I said. "You just let the machine turn a flywheel or lift
+weights and drop them, or something like that, outside your house. You
+have an air intake inside. And if, in the winter, you don't want to
+lose heat, you just mount the thing in an outside building, attach it
+to your generator and use the power to do whatever you want--heat your
+house, say. There's plenty of heat in the outside air even in
+December."
+
+"John," said Farnsworth, "you are very ingenious. It might work."
+
+"Of course it'll work." Pictures were beginning to light up in my
+head. "And don't you realize that this is the answer to the solar
+power problem? Why, mirrors and selenium are, at best, ten per cent
+efficient! Think of big pumping stations on the Sahara! All that heat,
+all that need for power, for irrigation!" I paused a moment for
+effect. "Farnsworth, this can change the very shape of the Earth!"
+
+Farnsworth seemed to be lost in thought. Finally he looked at me
+strangely and said, "Perhaps we had better try to build a model."
+
+       *       *       *       *       *
+
+I was so excited by the thing that I couldn't sleep that night. I kept
+dreaming of power stations, ocean liners, even automobiles, being
+operated by balls bouncing back and forth in cylinders.
+
+I even worked out a spaceship in my mind, a bullet-shaped affair with
+a huge rubber ball on its end, gyroscopes to keep it oriented
+properly, the ball serving as solution to that biggest of
+missile-engineering problems, excess heat. You'd build a huge concrete
+launching field, supported all the way down to bedrock, hop in the
+ship and start bouncing. Of course it would be kind of a rough
+ride....
+
+In the morning, I called my superintendent and told him to get a
+substitute for the rest of the week; I was going to be busy.
+
+Then I started working in the machine shop in Farnsworth's basement,
+trying to turn out a working model of a device that, by means of a
+crankshaft, oleo dampers and a reciprocating cylinder, would pick up
+some of that random kinetic energy from the bouncing ball and do
+something useful with it, like turning a drive shaft. I was just
+working out a convection-and-air pump system for circulating hot air
+around the ball when Farnsworth came in.
+
+He had tucked carefully under his arm a sphere of about the size of a
+basketball and, if he had made it to my specifications, weighing
+thirty-five pounds. He had a worried frown on his forehead.
+
+"It looks good," I said. "What's the trouble?"
+
+"There seems to be a slight hitch," he said. "I've been testing for
+conductivity. It seems to be quite low."
+
+"That's what I'm working on now. It's just a mechanical problem of
+pumping enough warm air back to the ball. We can do it with no more
+than a twenty per cent efficiency loss. In an engine, that's nothing."
+
+"Maybe you're right. But this material conducts heat even less than
+rubber does."
+
+"The little ball yesterday didn't seem to have any trouble," I said.
+
+"Naturally not. It had had plenty of time to warm up before I started
+it. And its mass-surface area relationship was pretty low--the larger
+you make a sphere, of course, the more mass inside in proportion to
+the outside area."
+
+"You're right, but I think we can whip it. We may have to honeycomb
+the ball and have part of the work the machine does operate a big hot
+air pump; but we can work it out."
+
+       *       *       *       *       *
+
+All that day, I worked with lathe, milling machine and hacksaw. After
+clamping the new big ball securely to a workbench, Farnsworth pitched
+in to help me. But we weren't able to finish by nightfall and
+Farnsworth turned his spare bedroom over to me for the night. I was
+too tired to go home.
+
+And too tired to sleep soundly, too. Farnsworth lived on the edge of
+San Francisco, by a big truck by-pass, and almost all night I wrestled
+with the pillow and sheets, listening half-consciously to those heavy
+trucks rumbling by, and in my mind, always, that little gray ball,
+bouncing and bouncing and bouncing....
+
+At daybreak, I came abruptly fully awake with the sound of crashing
+echoing in my ears, a battering sound that seemed to come from the
+basement. I grabbed my coat and pants, rushed out of the room, almost
+knocked over Farnsworth, who was struggling to get his shoes on out in
+the hall, and we scrambled down the two flights of stairs together.
+
+The place was a chaos, battered and bashed equipment everywhere, and
+on the floor, overturned against the far wall, the table that the ball
+had been clamped to. The ball itself was gone.
+
+I had not been fully asleep all night, and the sight of that mess, and
+what it meant, jolted me immediately awake. Something, probably a
+heavy truck, had started a tiny oscillation in that ball. And the ball
+had been heavy enough to start the table bouncing with it until, by
+dancing that table around the room, it had literally torn the clamp
+off and shaken itself free. What had happened afterward was obvious,
+with the ball building up velocity with every successive bounce.
+
+But where was the ball now?
+
+Suddenly Farnsworth cried out hoarsely, "Look!" and I followed his
+outstretched, pudgy finger to where, at one side of the basement, a
+window had been broken open--a small window, but plenty big enough for
+something the size of a basketball to crash through it.
+
+There was a little weak light coming from outdoors. And then I saw the
+ball. It was in Farnsworth's back yard, bouncing a little sluggishly
+on the grass. The grass would damp it, hold it back, until we could
+get to it. Unless....
+
+I took off up the basement steps like a streak. Just beyond the back
+yard, I had caught a glimpse of something that frightened me. A few
+yards from where I had seen the ball was the edge of the big six-lane
+highway, a broad ribbon of smooth, hard concrete.
+
+[Illustration]
+
+I got through the house to the back porch, rushed out and was in the
+back yard just in time to see the ball take its first bounce onto
+the concrete. I watched it, fascinated, when it hit--after the soft,
+energy absorbing turf, the concrete was like a springboard.
+Immediately the ball flew high in the air. I was running across the
+yard toward it, praying under my breath, _Fall on that grass next
+time_.
+
+It hit before I got to it, and right on the concrete again, and this
+time I saw it go straight up at least fifty feet.
+
+       *       *       *       *       *
+
+My mind was suddenly full of thoughts of dragging mattresses from the
+house, or making a net or something to stop that hurtling thirty-five
+pounds; but I stood where I was, unable to move, and saw it come down
+again on the highway. It went up a hundred feet. And down again on the
+concrete, about fifteen feet further down the road. In the direction
+of the city.
+
+That time it was two hundred feet, and when it hit again, it made a
+thud that you could have heard for a quarter of a mile. I could
+practically see it flatten out on the road before it took off upward
+again, at twice the speed it had hit at.
+
+Suddenly generating an idea, I whirled and ran back to Farnsworth's
+house. He was standing in the yard now, shivering from the morning
+air, looking at me like a little lost and badly scared child.
+
+"Where are your car keys?" I almost shouted at him.
+
+"In my pocket."
+
+"Come on!"
+
+I took him by the arm and half dragged him to the carport. I got the
+keys from him, started the car, and by mangling about seven traffic
+laws and three prize rosebushes, managed to get on the highway, facing
+in the direction that the ball was heading.
+
+"Look," I said, trying to drive down the road and search for the ball
+at the same time. "It's risky, but if I can get the car under it and
+we can hop out in time, it should crash through the roof. That ought
+to slow it down enough for us to nab it."
+
+"But--what about my car?" Farnsworth bleated.
+
+"What about that first building--or first person--it hits in San
+Francisco?"
+
+"Oh," he said. "Hadn't thought of that."
+
+I slowed the car and stuck my head out the window. It was lighter now,
+but no sign of the ball. "If it happens to get to town--any town, for
+that matter--it'll be falling from about ten or twenty miles. Or
+forty."
+
+"Maybe it'll go high enough first so that it'll burn. Like a meteor."
+
+"No chance," I said. "Built-in cooling system, remember?"
+
+Farnsworth formed his mouth into an "Oh" and exactly at that moment
+there was a resounding _thump_ and I saw the ball hit in a field,
+maybe twenty yards from the edge of the road, and take off again. This
+time it didn't seem to double its velocity, and I figured the ground
+was soft enough to hold it back--but it wasn't slowing down either,
+not with a bounce factor of better than two to one.
+
+       *       *       *       *       *
+
+Without watching for it to go up, I drove as quickly as I could off
+the road and over--carrying part of a wire fence with me--to where it
+had hit. There was no mistaking it; there was a depression about three
+feet deep, like a small crater.
+
+I jumped out of the car and stared up. It took me a few seconds to
+spot it, over my head. One side caught by the pale and slanting
+morning sunlight, it was only a bright diminishing speck.
+
+The car motor was running and I waited until the ball disappeared for
+a moment and then reappeared. I watched for another couple of seconds
+until I felt I could make a decent guess on its direction, hollered at
+Farnsworth to get out of the car--it had just occurred to me that
+there was no use risking his life, too--dove in and drove a hundred
+yards or so to the spot I had anticipated.
+
+I stuck my head out the window and up. The ball was the size of an egg
+now. I adjusted the car's position, jumped out and ran for my life.
+
+It hit instantly after--about sixty feet from the car. And at the same
+time, it occurred to me that what I was trying to do was completely
+impossible. Better to hope that the ball hit a pond, or bounced out to
+sea, or landed in a sand dune. All we could do would be to follow, and
+if it ever was damped down enough, grab it.
+
+It had hit soft ground and didn't double its height that time, but it
+had still gone higher. It was out of sight for almost a lifelong
+minute.
+
+And then--incredibly rotten luck--it came down, with an ear-shattering
+thwack, on the concrete highway again. I had seen it hit, and
+instantly afterward I saw a crack as wide as a finger open along the
+entire width of the road. And the ball had flown back up like a
+rocket.
+
+_My God_, I was thinking, _now it means business. And on the next
+bounce...._
+
+It seemed like an incredibly long time that we craned our necks,
+Farnsworth and I, watching for it to reappear in the sky. And when it
+finally did, we could hardly follow it. It whistled like a bomb and we
+saw the gray streak come plummeting to Earth almost a quarter of a
+mile away from where we were standing.
+
+But we didn't see it go back up again.
+
+For a moment, we stared at each other silently. Then Farnsworth almost
+whispered, "Perhaps it's landed in a pond."
+
+"Or in the world's biggest cow-pile," I said. "Come on!"
+
+We could have met our deaths by rock salt and buckshot that night, if
+the farmer who owned that field had been home. We tore up everything
+we came to getting across it--including cabbages and rhubarb. But we
+had to search for ten minutes, and even then we didn't find the ball.
+
+What we found was a hole in the ground that could have been a
+small-scale meteor crater. It was a good twenty feet deep. But at the
+bottom, no ball.
+
+       *       *       *       *       *
+
+I stared wildly at it for a full minute before I focused my eyes
+enough to see, at the bottom, a thousand little gray fragments.
+
+And immediately it came to both of us at the same time. A poor
+conductor, the ball had used up all its available heat on that final
+impact. Like a golfball that has been dipped in liquid air and
+dropped, it had smashed into thin splinters.
+
+The hole had sloping sides and I scrambled down in it and picked up
+one of the pieces, using my handkerchief, folded--there was no telling
+just how cold it would be.
+
+It was the stuff, all right. And colder than an icicle.
+
+I climbed out. "Let's go home," I said.
+
+Farnsworth looked at me thoughtfully. Then he sort of cocked his head
+to one side and asked, "What do you suppose will happen when those
+pieces thaw?"
+
+I stared at him. I began to think of a thousand tiny slivers whizzing
+around erratically, richocheting off buildings, in downtown San
+Francisco and in twenty counties, and no matter what they hit, moving
+and accelerating as long as there was any heat in the air to give them
+energy.
+
+And then I saw a tool shed, on the other side of the pasture from us.
+
+But Farnsworth was ahead of me, waddling along, puffing. He got the
+shovels out and handed one to me.
+
+We didn't say a word, neither of us, for hours. It takes a long time
+to fill a hole twenty feet deep--especially when you're shoveling
+very, very carefully and packing down the dirt very, very hard.
+
+    --WALTER S. TEVIS
+
+
+    +----------------------------------------------------+
+    |Transcriber's Note:                                 |
+    |                                                    |
+    |The spelling of "richochet" has been retained as in |
+    |the original.                                       |
+    |                                                    |
+    |This etext was produced from Galaxy February 1958.  |
+    |Extensive research did not uncover any evidence that|
+    |the U.S. copyright on this publication was renewed. |
+    +----------------------------------------------------+
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK THE BIG BOUNCE***
+
+
+******* This file should be named 23153.txt or 23153.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/2/3/1/5/23153
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:
+http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

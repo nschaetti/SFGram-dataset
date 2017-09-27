@@ -1,0 +1,1003 @@
+The Super Man and the Bugout
+By Cory Doctorow
+Originally published in On Spec, Fall 2001
+"It is certainly worth noting that the story in this issue which flagrantly
+violates the length limit, Cory Doctorow's 'The Super Man and the Bugout,' at
+close to 10,000 words, is also by far the best story... The story is both very
+funny, and a portrayal of a quite believable non-human human being."
+ - Rich Horton,
+  Tangent Online
+  http://www.tangentonline.com/reviews/magazine.php3?review=463
+--
+Blurbs and quotes:
+* Cory Doctorow straps on his miner's helmet and takes you deep into the
+ caverns and underground rivers of Pop Culture, here filtered through SF-coloured
+ glasses. Enjoy.
+ - Neil Gaiman
+  Author of American Gods and Sandman
+* Few writers boggle my sense of reality as much as Cory Doctorow. His vision
+ is so far out there, you'll need your GPS to find your way back.
+ - David Marusek
+  Winner of the Theodore Sturgeon Award, Nebula Award nominee
+* Cory Doctorow is one of our best new writers: smart, daring, savvy,
+ entertaining, ambitious, plugged-in, and as good a guide to the wired world of
+ the twenty-first century that stretches out before us as you're going to find.
+ - Gardner Dozois
+  Editor, Asimov's SF
+* He sparkles! He fizzes! He does backflips and breaks the furniture! Science
+ fiction needs Cory Doctorow!
+ - Bruce Sterling
+  Author of The Hacker Crackdown and Distraction
+* Cory Doctorow strafes the senses with a geekspeedfreak explosion of gomi kings
+ with heart, weirdass shapeshifters from Pleasure Island and jumping automotive
+ jazz joints. If this is Canadian science fiction, give me more.
+ - Nalo Hopkinson
+  Author of Midnight Robber and Brown Girl in the Ring
+* Cory Doctorow is the future of science fiction. An nth-generation hybrid of
+ the best of Greg Bear, Rudy Rucker, Bruce Sterling and Groucho Marx, Doctorow
+ composes stories that are as BPM-stuffed as techno music, as idea-rich as the
+ latest issue of NEW SCIENTIST, and as funny as humanity's efforts to improve
+ itself. Utopian, insightful, somehow simultaneously ironic and heartfelt, these
+ nine tales will upgrade your basal metabolism, overwrite your cortex with new
+ and efficient subroutines and generally improve your life to the point where
+ you'll wonder how you ever got along with them. Really, you should need a
+ prescription to ingest this book. Out of all the glittering crap life and our
+ society hands us, craphound supreme Doctorow has managed to fashion some
+ industrial-grade art."
+ - Paul Di Filippo
+  Author of The Steampunk Trilogy
+* As scary as the future, and twice as funny. In this eclectic and electric
+ collection Doctorow strikes sparks off today to illuminate tomorrow, which is
+ what SF is supposed to do. And nobody does it better.
+ - Terry Bisson
+  Author of Bears Discover Fire
+--
+A note about this story
+This story is from my collection, "A Place So Foreign and Eight More," published
+by Four Walls Eight Windows Press in September, 2003, ISBN 1568582862. I've
+released this story, along with five others, under the terms of a Creative
+Commons license that gives you, the reader, a bunch of rights that copyright
+normally reserves for me, the creator.
+I recently did the same thing with the entire text of my novel, "Down and Out in
+the Magic Kingdom" (http://craphound.com/down), and it was an unmitigated
+success. Hundreds of thousands of people downloaded the book -- good news -- and
+thousands of people bought the book -- also good news. It turns out that, as
+near as anyone can tell, distributing free electronic versions of books is a
+great way to sell more of the paper editions, while simultaneously getting the
+book into the hands of readers who would otherwise not be exposed to my work.
+I still don't know how it is artists will earn a living in the age of the
+Internet, but I remain convinced that the way to find out is to do basic
+science: that is, to do stuff and observe the outcome. That's what I'm doing
+here. The thing to remember is that the very *worst* thing you can do to me as
+an artist is to not read my work -- to let it languish in obscurity and
+disappear from posterity. Most of the fiction I grew up on is out-of-print, and
+this is doubly true for the short stories. Losing a couple bucks to people who
+would have bought the book save for the availability of the free electronic text
+is no big deal, at least when compared to the horror that is being irrelevant
+and unread. And luckily for me, it appears that giving away the text for free
+gets me more paying customers than it loses me.
+You can find the canonical version of this file at
+http://craphound.com/place/download.php
+If you'd like to convert this file to some other format and distribute it, you
+have my permission, provided that:
+* You don't charge money for the distribution
+* You keep the entire text intact, including this notice, the license below, and
+the metadata at the end of the file
+* You don't use a file-format that has "DRM" or "copy-protection" or any other
+form of use-restriction turned on
+If you'd like, you can advertise the existence of your edition by posting a link
+to it at http://craphound.com/place/000017.php
+--
+Here's a summary of the license:
+http://creativecommons.org/licenses/by-nd-nc/1.0
+Attribution. The licensor permits others to copy, distribute, display, and
+perform the work. In return, licensees must give the original author credit.
+No Derivative Works. The licensor permits others to copy, distribute, display
+and perform only unaltered copies of the work -- not derivative works based on
+it.
+Noncommercial. The licensor permits others to copy, distribute, display, and
+perform the work. In return, licensees may not use the work for commercial
+purposes -- unless they get the licensor's permission.
+And here's the license itself:
+http://creativecommons.org/licenses/by-nd-nc/1.0-legalcode
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS
+PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR
+OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS
+LICENSE IS PROHIBITED.
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE
+BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED
+HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+1. Definitions
+a. "Collective Work" means a work, such as a periodical issue, anthology or
+encyclopedia, in which the Work in its entirety in unmodified form, along with a
+number of other contributions, constituting separate and independent works in
+themselves, are assembled into a collective whole. A work that constitutes a
+Collective Work will not be considered a Derivative Work (as defined below) for
+the purposes of this License.
+b. "Derivative Work" means a work based upon the Work or upon the Work and other
+pre-existing works, such as a translation, musical arrangement, dramatization,
+fictionalization, motion picture version, sound recording, art reproduction,
+abridgment, condensation, or any other form in which the Work may be recast,
+transformed, or adapted, except that a work that constitutes a Collective Work
+will not be considered a Derivative Work for the purpose of this License.
+c. "Licensor" means the individual or entity that offers the Work under the
+terms of this License.
+d. "Original Author" means the individual or entity who created the Work.
+e. "Work" means the copyrightable work of authorship offered under the terms of
+this License.
+f. "You" means an individual or entity exercising rights under this License who
+has not previously violated the terms of this License with respect to the Work,
+or who has received express permission from the Licensor to exercise rights
+under this License despite a previous violation.
+2. Fair Use Rights. Nothing in this license is intended to reduce, limit, or
+restrict any rights arising from fair use, first sale or other limitations on
+the exclusive rights of the copyright owner under copyright law or other
+applicable laws.
+3. License Grant. Subject to the terms and conditions of this License, Licensor
+hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the
+duration of the applicable copyright) license to exercise the rights in the Work
+as stated below:
+a. to reproduce the Work, to incorporate the Work into one or more Collective
+Works, and to reproduce the Work as incorporated in the Collective Works;
+b. to distribute copies or phonorecords of, display publicly, perform publicly,
+and perform publicly by means of a digital audio transmission the Work including
+as incorporated in Collective Works;
+The above rights may be exercised in all media and formats whether now known or
+hereafter devised. The above rights include the right to make such modifications
+as are technically necessary to exercise the rights in other media and formats.
+All rights not expressly granted by Licensor are hereby reserved.
+4. Restrictions. The license granted in Section 3 above is expressly made
+subject to and limited by the following restrictions:
+a. You may distribute, publicly display, publicly perform, or publicly digitally
+perform the Work only under the terms of this License, and You must include a
+copy of, or the Uniform Resource Identifier for, this License with every copy or
+phonorecord of the Work You distribute, publicly display, publicly perform, or
+publicly digitally perform. You may not offer or impose any terms on the Work
+that alter or restrict the terms of this License or the recipients' exercise of
+the rights granted hereunder. You may not sublicense the Work. You must keep
+intact all notices that refer to this License and to the disclaimer of
+warranties. You may not distribute, publicly display, publicly perform, or
+publicly digitally perform the Work with any technological measures that control
+access or use of the Work in a manner inconsistent with the terms of this
+License Agreement. The above applies to the Work as incorporated in a Collective
+Work, but this does not require the Collective Work apart from the Work itself
+to be made subject to the terms of this License. If You create a Collective
+Work, upon notice from any Licensor You must, to the extent practicable, remove
+from the Collective Work any reference to such Licensor or the Original Author,
+as requested.
+b. You may not exercise any of the rights granted to You in Section 3 above in
+any manner that is primarily intended for or directed toward commercial
+advantage or private monetary compensation. The exchange of the Work for other
+copyrighted works by means of digital file-sharing or otherwise shall not be
+considered to be intended for or directed toward commercial advantage or private
+monetary compensation, provided there is no payment of any monetary compensation
+in connection with the exchange of copyrighted works.
+c. If you distribute, publicly display, publicly perform, or publicly digitally
+perform the Work or any Collective Works, You must keep intact all copyright
+notices for the Work and give the Original Author credit reasonable to the
+medium or means You are utilizing by conveying the name (or pseudonym if
+applicable) of the Original Author if supplied; the title of the Work if
+supplied. Such credit may be implemented in any reasonable manner; provided,
+however, that in the case of a Collective Work, at a minimum such credit will
+appear where any other comparable authorship credit appears and in a manner at
+least as prominent as such other comparable authorship credit.
+5. Representations, Warranties and Disclaimer
+a. By offering the Work for public release under this License, Licensor
+represents and warrants that, to the best of Licensor's knowledge after
+reasonable inquiry:
+i. Licensor has secured all rights in the Work necessary to grant the license
+rights hereunder and to permit the lawful exercise of the rights granted
+hereunder without You having any obligation to pay any royalties, compulsory
+license fees, residuals or any other payments;
+ii. The Work does not infringe the copyright, trademark, publicity rights,
+common law rights or any other right of any third party or constitute
+defamation, invasion of privacy or other tortious injury to any third party.
+b. EXCEPT AS EXPRESSLY STATED IN THIS LICENSE OR OTHERWISE AGREED IN WRITING OR
+REQUIRED BY APPLICABLE LAW, THE WORK IS LICENSED ON AN "AS IS" BASIS, WITHOUT
+WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION,
+ANY WARRANTIES REGARDING THE CONTENTS OR ACCURACY OF THE WORK.
+6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, AND
+EXCEPT FOR DAMAGES ARISING FROM LIABILITY TO A THIRD PARTY RESULTING FROM BREACH
+OF THE WARRANTIES IN SECTION 5, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON
+ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR
+EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF
+LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+7. Termination
+a. This License and the rights granted hereunder will terminate automatically
+upon any breach by You of the terms of this License. Individuals or entities who
+have received Collective Works from You under this License, however, will not
+have their licenses terminated provided such individuals or entities remain in
+full compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will survive
+any termination of this License.
+b. Subject to the above terms and conditions, the license granted here is
+perpetual (for the duration of the applicable copyright in the Work).
+Notwithstanding the above, Licensor reserves the right to release the Work under
+different license terms or to stop distributing the Work at any time; provided,
+however that any such election will not serve to withdraw this License (or any
+other license that has been, or is required to be, granted under the terms of
+this License), and this License will continue in full force and effect unless
+terminated as stated above.
+8. Miscellaneous
+a. Each time You distribute or publicly digitally perform the Work or a
+Collective Work, the Licensor offers to the recipient a license to the Work on
+the same terms and conditions as the license granted to You under this License.
+b. If any provision of this License is invalid or unenforceable under applicable
+law, it shall not affect the validity or enforceability of the remainder of the
+terms of this License, and without further action by the parties to this
+agreement, such provision shall be reformed to the minimum extent necessary to
+make such provision valid and enforceable.
+c. No term or provision of this License shall be deemed waived and no breach
+consented to unless such waiver or consent shall be in writing and signed by the
+party to be charged with such waiver or consent.
+d. This License constitutes the entire agreement between the parties with
+respect to the Work licensed here. There are no understandings, agreements or
+representations with respect to the Work not specified here. Licensor shall not
+be bound by any additional provisions that may appear in any communication from
+You. This License may not be modified without the mutual written agreement of
+the Licensor and You.
+###
+The Super Man and the Bugout
+============================
+"Mama, I'm _not_ a super-villain," Hershie said for the millionth time. He
+chased the last of the gravy on his plate with a hunk of dark rye, skirting the
+shriveled derma left behind from his kishka. Ever since the bugouts had inducted
+Earth into their Galactic Federation, promising to end war, crime, and
+corruption, he'd found himself at loose ends. His adoptive Earth-mother, who'd
+named him Hershie Abromowicz, had talked him into meeting her at her favorite
+restaurant in the heart of Toronto's Gaza Strip.
+"Not a super-villain, he says. Listen to him: mister big-stuff. Well,
+smartypants, if you're not a super-villain, what was that mess on the television
+last night then?"
+A busboy refilled their water, and Hershie took a long sip, staring off into the
+middle distance. Lately, he'd taken to avoiding looking at his mother: her
+infra-red signature was like a landing-strip for a coronary, and she wouldn't
+let him take her to one of the bugout clinics for nanosurgery.
+Mrs. Abromowicz leaned across the table and whacked him upside the head with one
+hand, her big rings clicking against the temple of his half-rim specs. Had it
+been anyone else, he would have caught her hand mid-slap, or at least dodged in
+a superfast blur, quicker than any human eye. But his Mama had let him know what
+she thought of _that_ sass before his third birthday. Raising super-infants
+requires strict, _loving_ discipline. "Hey, wake up! Hey! I'm talking to you!
+What was that mess on television last night?"
+"It was a demonstration, Mama. We were protesting. We want to dismantle the
+machines of war -- it's in the Torah, Mama. Isaiah: they shall beat their swords
+into ploughshares and their spears into pruning hooks. Tot would have approved."
+Mrs. Abromowicz sucked air between her teeth. "Your father never would have
+approved of _that_."
+_That_ was the Action last night. It had been his idea, and he'd tossed it
+around with the Movement people who'd planned the demo: they'd gone to an
+army-surplus store and purchased hundreds of decommissioned rifles, their bores
+filled with lead, their firing pins defanged. He'd flown above and ahead of the
+demonstration, in his traditional tights and cape, dragging a cargo net full of
+rifles from his belt. He pulled them out one at a time, and bent them into
+balloon-animals -- fanciful giraffes, wiener-dogs, bumble-bees, poodles -- and
+passed them out the crowds lining Yonge Street. It had been a boffo smash hit.
+And it made great TV.
+Hershie Abromowicz, Man from the Stars, took his mother's hands between his own
+and looked into her eyes. "Mama, I'm a grown man. I have a job to do. It's like
+. . . like a calling. The world's still a big place, bugouts or no bugouts, and
+there's lots of people here who are crazy, wicked, with their fingers on the
+triggers. I care about this planet, and I can't sit by when it's in danger."
+"But why all of a sudden do you have to be off with these _meshuggenahs_? How
+come you didn't _need_ to be with the crazy people until now?"
+"Because there's a _chance_ now. The world is ready to rethink itself. Because
+--" The waiter saved him by appearing with the cheque. His mother started to
+open her purse, but he had his debitcard on the table faster than the eye could
+follow. "It's on me, Ma."
+"Don't be silly. I'll pay."
+"I _want_ to. Let me. A son should take his mother out to lunch once in a
+while."
+She smiled, for the first time that whole afternoon, and patted his cheek with
+one manicured hand. "You're a good boy, Hershie, I know that. I only want that
+you should be happy, and have what's best for you."
+#
+Hershie, in tights and cape, was chilling in his fortress of solitude when his
+comm rang. He checked the callerid and winced: Thomas was calling, from Toronto.
+Hershie's long-distance bills were killing him, ever since the Department of
+Defense had cut off his freebie account.
+Not to mention that talking to Thomas inevitably led to more trouble with his
+mother.
+He got up off of his crystalline recliner and flipped the comm open, floating up
+a couple of metres. "Thomas, what's up?"
+"Supe, didja see the reviews? The critics _love_ us!"
+Hersh held the comm away from his head and sighed the ancient, put-upon Hebraic
+sigh of his departed stepfather. Thomas Aquino Rusk liked to play at being a
+sleazy Broadway producer, his "plays" the eye-catching demonstrations he and his
+band of merry shit-disturbers hijacked.
+"Yeah, it made pretty good vid, all right." He didn't ask why Thomas was
+calling. There was only one reason he _ever_ called: he'd had another idea.
+"You'll never guess why I called."
+"You've had an idea."
+"I've had an idea!"
+"Really."
+"You'll love it."
+Hershie reached out and stroked the diamond-faceted coffins that his birth
+parents lay in, hoping for guidance. His warm fingers slicked with melted
+hoarfrost, and as they skated over the crypt, it sang a pure, high crystal note
+like a crippled flying saucer plummeting to the earth. "I'm sure I will,
+Thomas."
+As usual, Thomas chose not to hear the sarcasm in his voice. "Check this out --
+DefenseFest 33 is being held in Toronto in March. And the new keynote speaker is
+the Patron Ik'Spir Pat! The fricken head fricken bugout! His address is
+'Galactic History and Military Tactics: a Strategic Overview.'"
+"And this is a good thing?"
+"Ohfuckno. It's terrible, terrible, of course. The bugouts are selling us out.
+Going over to the Other Side. Just awful. But think of the possibilities!"
+"But think of the possibilities? Oy." Despite himself, Hershie was smiling.
+Thomas always made him smile.
+"You're smiling, aren't you?"
+"Shut up, Thomas."
+"Can you make a meeting at the Belquees for 18h?"
+Hershie checked his comm. It was 1702h. "I can make it."
+"See you there, buddy." Thomas rang off.
+Hershie folded his comm, wedged it in his belt, and stroked his parents' crypt,
+once more, for luck.
+#
+Hershie loved the commute home. Starting at the Arctic Circle, he flew up and up
+and up above the highest clouds, then flattened out his body and rode the
+currents home, eeling around the wet frozen cloudmasses, slaloming through
+thunderheads, his critical faculties switched off, flying at speed on blind
+instinct alone.
+He usually made visual contact with the surface around Barrie, just outside of
+Toronto, and he wasn't such a goodiegoodie that he didn't feel a thrill of
+superiority as he flew over the cottage-country commuters stuck in the
+end-of-weekend traffic, skis and snowmobiles strapped to their roofs.
+#
+The Belquees had the best Ethiopian food and the worst Ethiopian decor in town.
+Successive generations of managers had added their own touches -- tiki-lanterns,
+textured wallpaper, framed photos of Haile Selassie, tribal spears and grass
+dolls -- and they'd accreted in layers, until the net effect was of an African
+rummage sale. But man, the food was good.
+Downstairs was a banquet room whose decor consisted of material too ugly to be
+shown upstairs, with a stage and a disco ball. It had been a regular meeting
+place for Toronto's radicals for more than fifty years, the chairs worn smooth
+by generations of left-wing buttocks.
+Tonight, it was packed. At least fifty people were crammed around the tables,
+tearing off hunks of tangy rice-pancake and scooping up vegetarian curry with
+them. Even before he saw Thomas, his super-hearing had already picked his voice
+out of the din and located it. Hershie made a beeline for Thomas's table, not
+making eye-contact with the others -- old-guard activists who still saw him as a
+tool of the war-machine.
+Thomas licked his fingers clean and shook his hand. "Supe! Glad you could make
+it! Sit, sit." There was a general shuffling of coats and chairs as the other
+people at the table cleared a space for him. Thomas was already pouring him a
+beer out of one of the pitchers on the table.
+"Geez, how many people did you invite?"
+Tina, a tiny Chinese woman who could rhyme "Hey hey, ho ho" and "One, two,
+three, four" with amazing facility said, "Everyone's here. The Quakers, the
+commies, a couple of councilors, the vets, anyone we could think of. This is
+gonna be _huge_."
+The food hot, and the different curries and salads were a symphony of flavours
+and textures. "This is terrific," he said.
+"Best Ethiopian outside of Addis Ababa," said Thomas.
+_Better than Addis Ababa_, Hershie thought, but didn't say it. He'd been in
+Addis Ababa as the secret weapon behind Canada's third and most ill-fated
+peacekeeping mission there. There hadn't been a lot of restaurants open then,
+just block after block of bombed-out buildings, and tribal warlords driving
+around in tacticals, firing randomly at anything that moved. The ground CO sent
+him off to scatter bands of marauders while the bullets spanged off his chest.
+He'd never understood the tactical significance of those actions -- still didn't
+-- but at the time, he'd been willing to trust those in authority.
+"Good food," he said.
+#
+An hour later, the pretty waitress had cleared away the platters and brought
+fresh pitchers, and Hershie's tights felt a little tighter. One of the Quakers,
+an ancient, skinny man with thin grey hair and sharp, clever features stood up
+and tapped his beer-mug. Gradually, conversation subsided.
+"Thank you," he said. "My name is Stewart Pocock, and I'm here from the Circle
+of Friends. I'd like us all to take a moment to say a silent thanks for the
+wonderful food we've all enjoyed."
+There was a nervous shuffling, and then a general bowing of heads and mostly
+silence, broken by low whispers.
+"Thomas, I thought _you_ called this meeting," Hershie whispered.
+"I did. These guys always do this. Control freaks. Don't worry about it," he
+whispered back.
+"Thank you all. We took the liberty of drawing up an agenda for this meeting."
+"They _always_ do this," Thomas said.
+The Quakers led them in a round of introductions, which came around to Hershie.
+"I'm, uh, The Super Man. I guess most of you know that, right?" Silence. "I'm
+really looking forward to working on this with you all." A moment of silence
+followed, before the next table started in on its own introductions.
+#
+"Time," Louise Pocock said. Blissfully. At last. The agenda had ticks next to
+INTRODUCTION, BACKGROUND, STRATEGY, THE DAY, SUPPORT AND ORGANISING and
+PUBLICITY. Thomas had hardly spoken a word through the course of the meeting.
+Even Hershie's alien buttocks were numb from sitting.
+"It's time for the closing circle. Please, everybody, stand up and hold hands."
+Many of the assembled didn't bother to stifle their groans. Awkwardly, around
+the tables and the knapsacks, they formed a rough circle and took hands. They
+held it for an long, painful moment, then gratefully let go.
+They worked their way upstairs and outside. The wind had picked up, and it blew
+Hershie's cape out on a crackling vertical behind him, so that it caught many of
+the others in the face as they cycled or walked away.
+"Supe, let's you and me grab a coffee, huh?" Thomas said, without any spin on it
+at all, so that Hershie knew that it wasn't a casual request.
+"Yeah, sure."
+#
+The cafe Thomas chose was in a renovated bank, and there was a private room in
+the old vault, and they sat down there, away from prying eyes and autograph
+hounds.
+"So, you pumped?" Thomas said, after they ordered coffees.
+"After _that_ meeting? Yeah, sure."
+Thomas laughed, a slightly patronising but friendly laugh. "That was a _great_
+meeting. Look, if those guys had their way, we'd have about a march a month, and
+we'd walk slowly down a route that we had a permit for, politely asking people
+to see our point of view. And in between, we'd have a million meetings like
+this, where we come up with brilliant ideas like, 'Let's hand out fliers next
+time.'
+"So what we do is, go along with them. Give them enough rope to hang themselves.
+Let 'em have four or five of those, until everyone who shows up is so bored,
+they'll do _anything_, as long as its not that.
+"So, these guys want to stage a sit-in in front of the convention centre.
+Bo-ring! We wait until they're ready to sit down, then we start playing music
+and turn it into a _dance-in_. Start playing movies on the side of the building.
+Bring in a hundred secret agents in costume to add to it. They'll never know
+what hit 'em."
+Hershie squirmed. These kinds of Machiavellian shenanigans came slowly to him.
+"That seems kind of, well, disingenuous, Thomas. Why don't we just hold our own
+march?"
+"And split the movement? No, this is much better. These guys do all the
+postering and phoning, they get a good crowd out, this is their natural role.
+Our natural role, my son," he placed a friendly hand on Hershie's caped
+shoulder, "is to see to it that their efforts aren't defeated by their own
+poverty of imagination. They're the feet of the movement, but we're its
+_laugh_." Thomas pulled out his comm and scribbled on its surface. "_They're the
+feet of the movement, but we're its laugh_, that's great, that's one for the
+memoirs."
+#
+Hershie decided he needed to patrol a little to clear his head. He scooped trash
+and syringes from Grenadier Pond. He flew silently through High Park, ears
+cocked for any muggings.
+Nothing.
+He patrolled the Gardner Expressway next and used his heat vision to melt some
+black ice.
+Feeling useless, he headed for home.
+He was most of the way up Yonge Street when he heard the siren. A cop car,
+driving fast, down Jarvis. He sighed his father's sigh and rolled east, heading
+into Regent Park, locating the dopplering siren. He touched down lightly on top
+of one of the ugly, squat tenements, and skipped from roof to roof, until he
+spotted the cop. He was beefy, with the traditional moustache and the flak vest
+that they all wore on downtown patrol. He was leaning against the hood of his
+cruiser, panting, his breath clouding around him.
+A kid rolled on the ground, clutching his groin, gasping for breath. His
+infrared signature throbbed painfully between his legs. Clearly, he'd been
+kicked in the nuts.
+The cop leaned into his cruiser and lowered the volume on his radio, then,
+without warning, kicked the kid in the small of the back. The kid rolled on the
+ice, thrashing painfully.
+Before Hershie knew what he was doing, he was hovering over the ice, between the
+cop and the kid. The cateyes embedded in the emblem on his chest glowed in the
+streetlamps. The cop's eyes widened so that Hershie could see the whites around
+his pupils
+Hershie stared. "What do you think you're doing?" he said, after a measured
+silence.
+The cop took a step back and slipped a little on the ice before catching himself
+on his cruiser.
+"Since when do you kick unarmed civilians in the back?"
+"He -- he ran away. I had to catch him. I wanted to teach him not to run."
+"By inspiring his trust in the evenhandedness of Toronto's Finest?" Hershie
+could see the cooling tracks of the cruiser, skidding and weaving through the
+projects. The kid had put up a good chase. Behind him, he heard the kid regain
+his feet and start running. The cop started forward, but Hershie stopped him
+with one finger, dead centre in the flak jacket.
+"You can't let him get away!"
+"I can catch him. Trust me. But first, we're going to wait for your backup to
+arrive, and I'm going to file a report."
+A _Sun_ reporter arrived before the backup unit. Hershie maintained stony
+silence in the face of his questions, but he couldn't stop the man from
+listening in on his conversation with the old constable who showed up a few
+minutes later, as he filed his report. He found the kid a few blocks away,
+huddled in an alley, hand pressed to the small of his back. He took him to Mount
+Sinai's emerg and turned him over to a uniformed cop.
+#
+The hysterical _Sun_ headlines that vilified Hershie for interfering with the
+cop sparked a round of recriminating voicemails from his mother, filled with
+promises to give him such a _zetz_ in the head when she next saw him. He folded
+his tights and cape and stuffed them in the back of his closet and spent a lot
+of time in the park for the next few weeks. He liked to watch the kids playing,
+a United Nations in miniature, parents looking on amiably, stymied by the
+language barrier that their kids hurdled with ease.
+On March first, he took his tights out of the overstuffed hall closet and flew
+to Ottawa to collect his pension.
+He touched down on the Parliament Hill and was instantly surrounded by
+high-booted RCMP constables, looking slightly panicky. He held his hands up,
+startled. "What gives, guys?"
+"Sorry, sir," one said. "High security today. One of Them is speaking in
+Parliament."
+"Them?"
+"The bugouts. Came down to have a chat about neighbourly relations. Authorised
+personnel only today."
+"Well, that's me," Hershie said, and started past him.
+The constable, looking extremely unhappy, moved to block him. "I'm sorry sir,
+but that's not you. Only people on the list. My orders, I'm afraid."
+Hershie looked into the man's face and thought about hurtling skywards and
+flying straight into the building. The man was only doing his job, though.
+"Look, it's payday. I have to go see the Minister of Defense. I've been doing it
+every month for _years_."
+"I know that sir, but today is a special day. Perhaps you could return
+tomorrow?"
+"Tomorrow? My rent is due _today_, Sergeant. Look, what if I comm his office?"
+"Please, sir, that would be fine." The Sergeant looked relieved.
+Hershie hit a speed dial and waited. A recorded voice told him that the office
+was closed, the Minister at a special session.
+"He's in session. Look, it's probably on his desk -- I've been coming here for
+years; really, this is ridiculous."
+"I'm sorry. I have my orders."
+"I don't think you could stop me, Sergeant."
+The Sergeant and his troops shuffled their feet. "You're probably right, sir.
+But orders are orders."
+"You know, Sergeant, I retired a full colonel from the Armed Forces. I _could_
+order you to let me past."
+"Sorry sir, no. Different chain of command."
+Hershie controlled his frustration with an effort of will. "Fine then. I'll be
+back tomorrow."
+#
+The building super wasn't pleased about the late rent. He threatened Hershie
+with eviction, told him he was in violation of the lease, quoted the relevant
+sections of the Tenant Protection Act from memory, then grudgingly gave in to
+Hershie's pleas. Hershie had half a mind to put his costume on and let the man
+see what a _real_ super was like.
+But his secret identity was sacrosanct. Even in the era of Pax Aliena, the Super
+Man had lots of enemies, all of whom had figured out, long before, that even the
+invulnerable have weaknesses: their friends and families. It terrified him to
+think of what a bitter, obsolete, grudge-bearing terrorist might do to his
+mother, to Thomas, or even his old high-school girlfriends.
+For his part, Thomas refused to acknowledge the risk; he'd was more worried
+about the Powers That Be than mythical terrorists.
+The papers the next day were full of the overnight cabinet shuffle in Ottawa.
+More than half the cabinet had been relegated to the back-benches, and many of
+their portfolios had been eliminated or amalgamated into the new
+"superportfolios:" Domestic Affairs, Trade, and Extraterrestrial Affairs.
+The old Minister of Defense, who'd once had Hershie over for Thanksgiving
+dinner, was banished to the lowest hell of the back-bench. His portfolio had
+been subsumed into Extraterrestrial Affairs, and the new Minister, a young
+up-and-comer named Woolley, wasn't taking Hershie's calls. Hershie called Thomas
+to see if he could loan him rent money.
+Thomas laughed. "Chickens coming home to roost, huh?" he said.
+"What's that supposed to mean?" Hershie said, hotly.
+"Well, there's only so much shit-disturbing you can do before someone sits up
+and takes notice. The Belquees is probably bugged, or maybe one of the commies
+is an informer. Either way, you're screwed. Especially with Woolley."
+"Why, what's wrong with Woolley?" Hershie had met him in passing at Prime
+Minister's Office affairs, a well-dressed twenty-nine-year-old. He'd seemed like
+a nice enough guy.
+"What's _wrong_ with him?" Thomas nearly screamed. "He's the fricken
+_antichrist_! He was the one that came up with the idea of selling advertising
+on squeegee kids' t-shirts! He's heavily supported by private security outfits
+-- he makes Darth Vader look like a swell guy. That slicked-down, blow-dried
+asshole --"
+Hershie cut him off. "OK, OK, I get the idea."
+"No you don't, Supe! You don't get the half of it. This guy isn't your average
+Liberal -- those guys usually basic opportunists. He's a _zealot_! He'd like to
+beat us with _truncheons_! I went to one of his debates, and he showed up with a
+_baseball bat_! He tried to _hit me_ with it!"
+"What were you doing at the time?"
+"What does it matter? Violence is never an acceptable response. I've thrown pies
+at better men than him --"
+Hershie grinned. Thomas hadn't invented pieing, but his contributions to the art
+were seminal. "Thomas, the man is a federal Minister, with obligations. He can't
+just write me off -- he'll have to pay me."
+"Sure, sure," Thomas crooned. "Of _course_ he will -- who ever heard of a
+politician abusing his office to advance his agenda? I don't know what I was
+thinking. I apologise."
+#
+Hershie touched down on Parliament Hill, heart racing. Thomas's warning echoed
+in his head. His memories of Woolley were already morphing, so that the slick,
+neat kid became feral, predatory. The Hill was marshy and cold and gray, and as
+he squelched up to the main security desk, he felt a cold ooze of mud infiltrate
+its way into his super-bootie. There was a new RCMP constable on duty, a
+turbanned Sikh. Normally, he felt awkward around the Sikhs in the Mounties. He
+imagined that their lack of cultural context made his tights and emblem seem
+absurd, that they evoked grins beneath the Sikhs' fierce moustaches. But today,
+he was glad the man was a Sikh, another foreigner with an uneasy berth in the
+Canadian military-industrial complex. The Sikh was expressionless as Hershie
+squirted his clearances from his comm to the security desk's transceiver.
+Imperturbably, the Sikh squirted back directions to Woolley's new office, just a
+short jaunt from the exalted heights of the Prime Minister's Office.
+The Minister's office was guarded by: a dignified antique door that had the rich
+finish of wood that has been buffed daily for two centuries; an RCMP constable
+in plainclothes; a young, handsome receptionist in a silk navy power-suit; a
+slightly older office manager whose heart-stopping beauty was only barely
+restrained by her chaste blouse and skirt; and, finally, a pair of boardroom
+doors with spotless brass handles and a retinal scanner.
+Each obstacle took more time to weather than the last, so it was nearly an hour
+before the office manager stared fixedly into the scanner until the locks opened
+with a soft clack. Hershie squelched in, leaving a slushy dribble on the muted
+industrial-grade brown carpet.
+Woolley knelt on the stool of an ergonomic work-cart, enveloped in an
+articulated nest of displays, comms, keyboards, datagloves, immersive headsets,
+stylii, sticky notes and cup-holders. His posture, hair and expression rivaled
+one-another for flawlessness.
+"Hello, hello," he said, giving Hershie's hand a dry, firm pump. He smelled of
+expensive talc and leather car interiors.
+He led Hershie to a pair of stark Scandinavian chairs whose polished lead
+undersides bristled with user-interface knobs. The old Minister's tastes had run
+to imposing oak desks and horsehair club-chairs, and Hershie felt a moment's
+disorientation as he sank into the brilliantly functional sitting-machine. It
+chittered like a roulette wheel and shifted to firmly support him.
+"Thanks for seeing me," Hershie said. He caught his reflection in the
+bulletproof glass windows that faced out over the Rideau Canal, and felt a flush
+of embarrassment when he saw how clownish his costume looked in the practical
+environs.
+Woolley favoured him with half a smile and stared sincerely with eyes that were
+widely spaced, clever and hazel, surrounded by smile lines. The man fairly oozed
+charisma. "I should be thanking you. I was just about to call you to set up a
+meeting."
+_Then why haven't you been taking my calls_? Hershie thought. Lamely, he said,
+"You were?"
+"I was. I wanted to touch base with you, clarify the way that we were going to
+operate from now on."
+Hershie felt his gorge rise. "From now on?"
+"I phrased that badly. What I mean to say is, this is a new Cabinet, a new
+Ministry. It has its own modus operandi."
+"How can it have its own modus operandi when it was only created last night?"
+Hershie said, hating the petulance in his voice.
+"Oh, I like to keep lots of contingency plans on hand -- the time to plan for
+major changes is far in advance. Otherwise, you end up running around trying to
+get office furniture and telephones installed when you need to be seizing
+opportunity."
+It struck Hershie how _finished_ the office was -- the staff, the systems, the
+security. He imagined Woolley hearing the news of his appointment and calling up
+files containing schematics, purchase orders, staff requisitions. It wasn't
+exactly devious, but it certainly teetered on the meridian separating _planning_
+and _plotting_.
+"Well, you certainly seem to have everything in order."
+"I've been giving some thought to your payment arrangement. Did you know that
+there's a whole body of policy relating to your pension?"
+Hershie nodded, not liking where this was going.
+"Well, that's just not sensible," Woolley said, sensibly. "The Canadian
+government already has its own pension apparatus: we make millions of
+direct-deposits every day, for welfare, pensions, employment insurance, mothers'
+allowance. We're up to our armpits in payment infrastructure. And having you fly
+up to Ottawa every month, well, it's ridiculous. This is the twenty-first
+century -- we have better ways of moving money around.
+"I've been giving it some thought, and I've come up with a solution that should
+make everything easier for everyone. I'm going to transfer your pension to the
+Canada Pension Plan offices; they'll make a monthly deposit directly to your
+account. I've got the paperwork all filled out here; all you need to do is fill
+in your banking information and your Social Insurance Number."
+"But I don't have a Social Insurance Number or a bank account," Hershie said. Of
+course, Hershie Abromowicz had both, but the Super Man didn't.
+"How do you pay taxes, then?" Woolley had a dangerous smile.
+"Well, I --" Hershie stammered. "I don't! I'm tax-exempt! I've never had to pay
+taxes or get a bank account -- I just take my cheques to the Canadian Union of
+Public Employees' Credit Union and they cash them for me. It's the
+_arrangement_."
+Woolley shook his head. "Who told you you were tax-exempt?" he asked,
+wonderingly. "_No one_ is tax-exempt, except Status Indians. As to not having a
+bank account, well, you can open an account at the CUPE Credit Union and we'll
+make the deposits there. But not until this tax status matter is cleared up.
+You'll have to talk to Revenue Canada about getting a SIN, and get that
+information to Canada Pensions."
+"I _pay taxes_! Through my secret identity."
+"But does this. . ." he made quote marks with his fingers, "_secret identity_
+declare your pension income?"
+"Of course I don't! I have to keep my secret identity a _secret_!" His voice was
+shrill in his own ears. "It's a _secret identity_. I served in the Forces as the
+Super Man, so I get paid as the Super Man. Tax exempt, no bank accounts, no SIN.
+Just a cheque, every month."
+Woolley leaned back and clasped his hands in his lap. "I know that's how it used
+to be, but what I'm trying to tell you today is that arrangement, however
+longstanding, however well-intentioned, wasn't proper -- or even _legal_. It had
+to end some time. You're retired now -- you don't need your _secret identity,_"
+again with the finger-quotes. "If you already have a SIN, you can just give it
+to me, along with your secret identity's bank information, and we can have your
+pension processed in a week or two."
+"_A week or two_?" Hershie bellowed. "I need to pay my _rent_! That's not how it
+works!"
+Woolley stood, abruptly. "No sir, that _is_ how it works. I'm trying to be
+reasonable. I'm trying to expedite things for you during this time of
+transition. But you need to meet me halfway. If you could give me your SIN and
+account information right now, I could speed things up considerably, I'm sure.
+I'm willing to make that effort, even though things are very busy here."
+Hershie toyed with the idea of demolishing the man's office, turning his lovely
+furniture into molten nacho topping, and finishing up by leaving the man
+dangling by his suit from the CN Tower's needle. But his mother would kill him.
+"I can't give you my secret identity," Hershie said, pleadingly. "It's a matter
+of national security. I just need enough to pay my rent."
+Woolley stared at the ceiling for a long, long time. "There is one thing," he
+said.
+"Yes?" Hershie said, hating himself for the note of hope in his voice.
+"The people at DefenseFest 33 called my office yesterday, to see if I'd appear
+as a guest speaker with the Patron Ik'Spir Pat. I had to turn them down, of
+course -- I'm far too busy right now. But I'm sure they'd be happy to have a
+veteran of your reputation in that slot, and it carries a substantial
+honorarium. I could call them for you and give them your comm. . .?"
+Hershie thought of Thomas, and of the rent, and of his mother, and of all the
+people at the Belquees who'd stared mistrustfully at him. "Have them call me,"
+he sighed. "I'll talk to them."
+He got to his feet, the toe of his boot squelching out more dirt pudding.
+#
+"Hershie?"
+"Yes, Mama?" She'd caught him on the way home, flying high over the fleabag
+motels on the old Highway 2.
+"It's Friday," she said.
+Right. Friday. He told her he'd come for dinner, and that meant getting there
+before sunset. "I'll be there," he said.
+"Oh, it's not important. It's just me. Don't hurry on my account -- after all,
+you'll have thousands of Shabbas dinners with your mother. I'll live forever."
+"I said I'll be there."
+"And don't wear that costume," she said. She hated the costume. When the
+Department of Defense had issued it to him, she'd wanted to know why they were
+sending her boy into combat wearing red satin panties.
+"I'll change."
+"That's a good boy," she said. "I'm making brisket."
+#
+By the time he touched down on the roof of his building, he knew he'd be late
+for dinner. He skimmed down the elevator shaft to the tenth floor and ducked out
+to his apartment, only to find the door padlocked. There was a note from the
+building super tacked to the peeling green paint. Among other things, it quoted
+the codicil from the Tenant Protection Act that allowed the super to padlock the
+door and forbade Hershie, on penalty of law, from doing anything about it.
+Hershie's super-hearing picked up the sound of a door opening down the hallway.
+In a blur, he flew up to the ceiling and hovered there, pressing himself flat on
+the acoustic tile. One of his neighbours, that guy with the bohemian attitude
+who always seemed to be laughing at poor, nebbishy Hershie Abromowicz, made his
+way down the hall. He paused directly below Hershie's still, hovering form,
+reading the note on the door while he adjusted the collar of his ski-vest. He
+smirked at the note and got in the elevator.
+Hershie let himself float to the ground, his cheeks burning.
+Damn it, he didn't have _time_ for this. Not for any of it. He considered the
+padlock for a moment, then snapped the hasp with his thumb and index finger.
+Moving through the apartment with superhuman speed, he changed into a pair of
+nice slacks, a cable-knit sweater his mother had given him for his last
+birthday, a tweedy jacket and a woolen overcoat. Opening a window, he took
+flight.
+#
+"Thomas, I _really_ can't talk right now," he said. His mother was angrily
+drumming her rings on the table's edge. Abruptly, she grabbed the bowl of
+cooling soup from his place setting and carried it into the kitchen. She hadn't
+done this since he was a kid, but it still inspired the same panicky dread in
+him -- if he wasn't going to eat his dinner, she wasn't going to leave it.
+"Supe, we _have_ to talk about this. I mean, DefenseFest is only a week away.
+We've got things to do!"
+"Look, about DefenseFest. . ."
+"Yes?" Thomas had a wary note in his voice.
+Hershie's mother reappeared with a plate laden with brisket, tsimmis, and kasha.
+She set it down in front of him.
+"We'll talk later, OK?" Hershie said.
+"But what about DefenseFest?"
+"It's complicated," Hershie began. His mother scooped up the plate of brisket
+and headed back to the kitchen. She was muttering furiously. "I have to go," he
+said and closed his comm.
+Hershie chased his mother and snatched the plate from her as she held it
+dramatically over the sink disposal. He held up his comm with the other hand and
+made a show of powering it down.
+"It's off, Mama. Please, come and eat."
+#
+"I've been thinking of selling the house," she said, as they tucked into slices
+of lemon pound-cake.
+Hershie put down his fork. "Sell the house?" While his father hadn't exactly
+_built_ the house with his own hands, he had sold his guts out at his discount
+menswear store to pay for it. His mother had decorated it, but his father's
+essence still haunted the corners. "Why would you sell the house?"
+"Oh, it's too big, Hershie. I'm just one old lady, and it's not like there're
+any grandchildren to come and stay. I could buy a condo in Florida, and there'd
+be plenty left over for you."
+"I don't need any money, Mama. I've got my pension."
+She covered his hands with hers. "Of course you do, bubbie. But fixed incomes
+are for old men. You're young, you need a nest egg, something to start a family
+with." Her sharp eyes, sunk into motherly pillows of soft flesh, bored into him.
+He tried to keep his gaze light and carefree. "You've got money problems?" she
+said, at length.
+Hershie scooped up a forkful of pound-cake and shook his head. His mother's
+powers of perception bordered on clairvoyance, and he didn't trust himself to
+speak the lie outright. He looked around the dining room, furnished with faux
+chinoise screens, oriental rugs, angular art-glass chandeliers.
+"Tell Mama," she said.
+He sighed and finished the cake. "It's the new Minister. He won't give me my
+pension unless I tell him my secret identity."
+"So?" his mother said. "You're so ashamed of your parents, you'd rather starve
+than tell the world that their bigshot hero is Hershie Abromowicz? I, for one
+wouldn't mind -- finally, I could speak up when my girlfriends are going on
+about their sons the lawyers."
+"Mom!" he said, feeling all of eight years old. "I'm not ashamed and you know
+it. But if the world knew who I was, well, who knows what kind of danger you'd
+be in? I've made some powerful enemies, Mama."
+"Enemies, shmenemies," she said, waving her hands. "Don't worry yourself on my
+account. Don't make me the reason that you end up in the cold. I'm not helpless
+you know. I have Mace."
+Hershie thought of the battles he'd fought: the soldiers, the mercenaries, the
+terrorists, the crooks and the super-crooks with their insane plots and
+impractical apparati. His mother was as formidable as an elderly Jewish woman
+with no grandchildren could be, but she was no match for automatic weapons. "I
+can't do it, Mama. It wouldn't be responsible. Can we drop it?"
+"Fine, we won't talk about it anymore. But a mother _worries_. You're sure you
+don't need any money?"
+He cast about desperately for a way to placate her. "I'm fine. I've got a
+speaking engagement lined up."
+#
+There was a message waiting on his comm when he powered it back up. A message
+from a relentlessly cheerful woman with a chirpy Texas accent, who identified
+herself as the programming coordinator for DefenseFest 33. She hoped he would
+return her call that night.
+Hershie hovered in a dark cloud over the lake, the wind blowing his coat
+straight back, holding the comm in his hand. He squinted through the clouds and
+distance until he saw his apartment building, a row of windows lit up like
+teeth, his darkened window a gap in the smile. He didn't mind the cold, it was
+much colder in his fortress of solitude, but his apartment was more than warmth.
+It was his own shabby, homey corner of the hideously expensive city. On the
+flight from his mother's, he'd found an old-style fifty-dollar bill, folded
+neatly and stuck in the breast pocket of his overcoat.
+He returned the phone call.
+#
+The super wasn't happy about being roused from his sitcoms, but he grudgingly
+allowed Hershie to squirt the rent money at his comm. He wanted to come up and
+take the padlock, but Hershie talked him into turning over the key, promising to
+return it in the morning.
+His apartment was a little one-bedroom with a constant symphony of groaning
+radiators. Every stick of furniture in it had been rescued from kerbsides while
+Hershie flew his night patrols, saving chairs, sofas and even a scarred walnut
+armoire from the trashman.
+Hershie sat at the round formica table and commed Thomas.
+"It's me," he said.
+"What's up?"
+He didn't want to beat around the bush. "I'm speaking at DefenseFest. Then I'm
+going on tour, six months, speaking at military shows. It pays well. Very well."
+Very, very well -- well enough that he wouldn't have to worry about his pension.
+The US-based promoters had sorted his tax status out with the IRS, who would
+happily exempt him, totally freeing him from entanglements with Revenue Canada.
+The cheerful Texan had been _glad_ to do it.
+He waited for Thomas's trademark stream of vitriol. It didn't come. Very
+quietly, Thomas said, "I see."
+"Thomas," he said, a note of pleading in his voice. "It's not my choice. If I
+don't do this, I'll have to give Woolley my secret identity -- he won't give me
+my pension without my Social Insurance Number."
+"Or you could get a job," Thomas said, the familiar invective snarl creeping
+back.
+"I just told you, I can't give out my SIN!"
+"So have your secret identity get a job. Wash dishes!"
+"If I took a job," Hershie said, palms sweating, "I'd have to give up flying
+patrols -- I'd have to stop fighting crime."
+"_Fighting crime_?" Thomas's voice was remorseless. "What _crime_? The bugouts
+are taking care of crime -- they're making plans to shut down the _police_!
+Supe, you've been obsoleted."
+"I know," Hershie said, self-pitying. "I know. That's why I got involved with
+you in the first place -- I need to have a _purpose_. I'm the Super Man!"
+"So your purpose is speaking to military shows? Telling the world that it still
+needs its arsenals, even if the bugouts have made war obsolete? Great purpose,
+Supe. Very noble."
+He choked on a hopeless sob. "So what can I do, Thomas? I don't want to sell
+out, but I've got to _eat_."
+"Squeeze coal into diamonds?" he said. It was teasing, but not nasty teasing.
+Hershie felt his tension slip: Thomas didn't hate him.
+"Do you have any idea how big a piece of coal you have to start with to get even
+a one-carat stone? Trust me -- someone would notice if entire coalfaces started
+disappearing."
+"Look, Supe, this is surmountable. You don't have to sell out. You said it
+yourself, you're the Super Man -- you have responsibilities. You have duties.
+You can't just sell out. Let's sleep on it, huh?"
+Hershie was so very, very tired. It was always hardest on him when the Earth's
+yellow sun was hidden; the moon was a paltry substitute for its rejuvenating
+rays. "Let's do that," he said. "Thanks, Thomas."
+#
+DefenseFest 33 opened its doors on one of those incredibly bright March days
+when the snow on the ground throws back lumens sufficient to shrink your pupils
+to microdots. Despite the day's brightness, a bitterly cold wind scoured Front
+Street and the Metro Convention Centre.
+From a distance, Hershie watched demonstration muster out front of the Eaton
+Centre, a few kilometers north, and march down to Front Street, along their
+permit-proscribed route. The turnout was good, especially given the weather:
+about 5,000 showed up with wooly scarves and placards that the wind kept
+threatening to tear loose from their grasp.
+The veterans marched out front, under a banner, in full uniform. Next came the
+Quakers, who were of the same vintage as the veterans, but dressed like elderly
+English professors. Next came three different Communist factions, who circulated
+back and forth, trying to sell each other magazines. Finally, there came the
+rabble: Thomas's group of harlequin-dressed anarchists; high-school students
+with packsacks who industriously commed their browbeaten classmates who'd
+elected to stay at their desks; "civilians" who'd seen a notice and come out,
+and tried gamely to keep up with the chanting.
+The chanting got louder as they neared the security cordon around the Convention
+Centre. The different groups all mingled as they massed on the opposite side of
+the barricades. The Quakers and the vets sang "Give Peace a Chance," while
+Thomas and his cohort prowled around, distributing materiel to various trusted
+individuals.
+The students hollered abuse at the attendees who were trickling into the
+Convention Centre in expensive overcoats, florid with expense-account breakfasts
+and immaculately groomed.
+Hershie's appearance silenced the crowd. He screamed in over the lake, banked
+vertically up the side of the CN Tower, and plummeted downward. The
+demonstrators set up a loud cheer as he skimmed the crowd, then fell silent and
+aghast as he touched down on the _opposite_ side of the barricade, with the
+convention-goers. A cop in riot-gear held the door for him and he stepped
+inside. A groan went up from the protestors, and swelled into a wordless,
+furious howl.
+#
+Hershie avoided the show's floor and headed for the green room. En route, he was
+stopped by a Somali general who'd been acquitted by a War Crimes tribunal, but
+only barely. The man greeted him like an old comrade and got his aide to snap a
+photo of the two of them shaking hands.
+The green room was crowded with coffee-slurping presenters who pecked furiously
+at their comms, revising their slides. Hershie drew curious stares when he
+entered, but by the time he'd gotten his Danish and coffee, everyone around him
+was once again bent over their work, a field of balding cabbages anointed with
+high-tech hair-care products.
+Hershie's palms were slick, his alien hearts throbbing in counterpoint. His
+cowlick wilted in the aggressive heat shimmering out of the vent behind his
+sofa. He tried to keep himself calm, but by the time a gofer commed him and
+squirted directions to the main ballroom, he was a wreck.
+#
+Hershie commed into the feed from the demonstration in time to see the Quakers
+sit, en masse, along the barricade, hands intertwined, asses soaking in the
+slush at the kerbside. The cops watched them impassively, and while they were
+distracted, Thomas gave a signal to his crew, who hastily unreeled a
+stories-high smartscreen, the gossamer fabric snapping taut in the wind as it
+unfurled over the Convention Centre's facade.
+The cops were suddenly alert, moving, but Thomas was careful to keep the screen
+on his side of the barricade. Tina led a team of high-school students who spread
+out a solar collector the size and consistency of a parachute. It glinted in the
+harsh sun.
+Szandor hastily cabled a projector/loudhailer apparatus to the collector.
+Szandor's dog nipped at his heels as he steadied and focused the apparatus on
+the screen, and Szandor plugged his comm into it and powered it up.
+There was a staticky pop as the speakers came to life, loud enough to be heard
+over the street noise. The powerful projector beamed its image onto the screen,
+bright even in the midday glare.
+There were hoots from the crowd as they recognised the feed: a live broadcast of
+the keynote addresses in the Centre. The Patron Ik'Spir Pat's hoverchair
+prominent. The camera lingered on the Patron's eyes, the only part of him
+visible from within the chair's masking infrastructure. They were startling,
+silvery orbs, heavy-lidded and expressionless.
+The camera swung to Hershie. Szandor spat dramatically and led a chorus of
+hisses.
+Hershie hastily closed his comm and cleared his throat, adjusted his mic, and
+addressed the crowd.
+#
+"Uh. . ." he said. His guts somersaulted. Time to go big or go home.
+"Hi." That was better. "Thanks. I'm the Super Man. For years, I worked alongside
+UN Peacekeeping forces around the world. I hoped I was doing good work. Most of
+the time, I suppose I may have been."
+He caught the eye of Brenda, the cheerful Texan who'd booked him in. She looked
+uneasy.
+"There's one thing I'm certain of, though: it's that the preparation for war has
+never led to anything _but_ war. With this show, you ladies and gentlemen are
+participating in a giant conspiracy to commit murder. Individually, you may not
+be evil, but collectively, you're the most amoral supervillain I've ever faced."
+Brenda was talking frantically into her comm. His mic died. He simply expanded
+his mighty diaphragm and kept on speaking, his voice filling the ballroom.
+"I urge you to put this behind you. We've entered into a new era in human
+history. The good Patron here offers the entire Universe; you scurry around,
+arranging the deaths of people you've never met.
+"It's a terribly, stupid, mindless pursuit. You ought to be ashamed of
+yourselves."
+With that, Hershie stepped away from the podium and walked out of the ballroom.
+#
+The camera tracked him as he made his way back through the Convention Centre,
+out the doors. He leapt the barricade and settled in front of the screen. The
+demonstrators gave him a standing ovation, and Thomas gravely shook his hand.
+The handshake was repeated on the giant screen behind them, courtesy of the
+cameraman, who had gamely vaulted the barricade as well.
+The crowd danced, hugged each other, laughed. Szandor's dog bit him on the ass,
+and he nearly dropped the projector.
+He recovered in time to nearly drop it again, as the Patron Ik'Spir Pat's
+hoverchair glided out the Centre's doors and made a beeline for Hershie.
+Hershie watched the car approach with nauseous dread. The Patron stopped a few
+centimetres from him, so they were almost eyeball-to-eyeball. The hoverchair's
+PA popped to life, and the Patron spoke, in the bugouts' thrilling contralto.
+"Thank you for your contribution," the bugout said. "It was refreshing to have
+another perspective presented."
+Hershie tried for a heroic nod. "I'm glad you weren't offended."
+"On the contrary, it was stimulating. I shall have to speak with the
+conference's organisers; this format seems a good one for future engagements."
+Hershie felt his expression slipping, sliding towards slack-jawed incredulity.
+He struggled to hold it, then lost it entirely when one of the Patron's silvery
+eyes drooped closed in an unmistakable wink.
+#
+"Hi, Mama."
+"Hershie, I just saw it on the television."
+He cringed back from his comm as he shrank deeper into the corner of the
+Belquees that he'd moved to when his comm rang.
+"Mama, it's all right. They've signed me for the full six months. I'll be fine
+--"
+"Of course you'll be fine, bubbie. But would it kill you to brush your hair
+before you go on television in front of the whole world? Do you want everyone to
+think your mother raised a slob?"
+Hershie smiled. "I will, Mama."
+"I know you will, bubbie. You're a very good-looking man, you know. But no one
+wants to marry a man with messy hair."
+"I know, Mama."
+"Well, I won't keep you. Do you think you could come for dinner on Friday? I
+know you're busy, but your old mother won't be here forever."
+He sighed his father's sigh. "I'll be there, Mama."
+--

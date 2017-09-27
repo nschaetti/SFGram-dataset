@@ -1,0 +1,1071 @@
+DAY OF THE MORON
+BY H. BEAM PIPER
+It's natural to trust the unproven word of the fellow who's "on my
+side"--but the emotional moron is on no one's side, not even his own.
+Once, such an emotional moron could, at worst, hurt a few. But with the
+mighty, leashed forces Man employs now....
+There were still, in 1968, a few people who were afraid of the nuclear
+power plant. Oldsters, in whom the term "atomic energy" produced
+semantic reactions associated with Hiroshima. Those who saw, in the
+towering steam-column above it, a tempting target for enemy--which still
+meant Soviet--bombers and guided missiles. Some of the Central
+Intelligence and F.B.I. people, who realized how futile even the most
+elaborate security measures were against a resourceful and suicidally
+determined saboteur. And a minority of engineers and nuclear physicists
+who remained unpersuaded that accidental blowups at nuclear-reaction
+plants were impossible.
+Scott Melroy was among these last. He knew, as a matter of fact, that
+there had been several nasty, meticulously unpublicized,
+near-catastrophes at the Long Island Nuclear Reaction Plant, all
+involving the new Doernberg-Giardano breeder-reactors, and that there
+had been considerable carefully-hushed top-level acrimony before the
+Melroy Engineering Corporation had been given the contract to install
+the fully cybernetic control system intended to prevent a recurrence of
+such incidents.
+That had been three months ago. Melroy and his people had moved in, been
+assigned sections of a couple of machine shops, set up an assembly shop
+and a set of plyboard-partitioned offices in a vacant warehouse just
+outside the reactor area, and tried to start work, only to run into the
+almost interminable procedural disputes and jurisdictional wranglings of
+the sort which he privately labeled "bureau bunk". It was only now that
+he was ready to begin work on the reactors.
+He sat at his desk, in the inner of three successively smaller offices
+on the second floor of the converted warehouse, checking over a
+symbolic-logic analysis of a relay system and, at the same time,
+sharpening a pencil, his knife paring off tiny feathery shavings of
+wood. He was a tall, sparely-built, man of indeterminate age, with
+thinning sandy hair, a long Gaelic upper lip, and a wide, half-humorous,
+half-weary mouth; he wore an open-necked shirt, and an old and shabby
+leather jacket, to the left shoulder of which a few clinging flecks of
+paint showed where some military emblem had been, long ago. While his
+fingers worked with the jackknife and his eyes traveled over the page of
+closely-written symbols, his mind was reviewing the eight different ways
+in which one of the efficient but treacherous Doernberg-Giardano
+reactors could be allowed to reach critical mass, and he was wondering
+if there might not be some unsuspected ninth way. That was a possibility
+which always lurked in the back of his mind, and lately it had been
+giving him surrealistic nightmares.
+"Mr. Melroy!" the box on the desk in front of him said suddenly, in a
+feminine voice. "Mr. Melroy, Dr. Rives is here."
+Melroy picked up the handphone, thumbing on the switch.
+"Dr. Rives?" he repeated.
+"The psychologist who's subbing for Dr. von Heydenreich," the box told
+him patiently.
+"Oh, yes. Show him in," Melroy said.
+"Right away, Mr. Melroy," the box replied.
+  *  *  *  *  *
+Replacing the handphone, Melroy wondered, for a moment, why there had
+been a hint of suppressed amusement in his secretary's voice. Then the
+door opened and he stopped wondering. Dr. Rives wasn't a him; she was a
+her. Very attractive looking her, too--dark hair and eyes, rather
+long-oval features, clear, lightly tanned complexion, bright red
+lipstick put on with a micrometric exactitude that any engineer could
+appreciate. She was tall, within four inches of his own six-foot mark,
+and she wore a black tailored outfit, perfectly plain, which had
+probably cost around five hundred dollars and would have looked severe
+and mannish except that the figure under it curved and bulged in just
+the right places and to just the right degree.
+Melroy rose, laying down knife and pencil and taking his pipe out of his
+mouth.
+"Good afternoon," he greeted. "Dr. von Heydenreich gave me quite a
+favorable account of you--as far as it went. He might have included a
+few more data and made it more so.... Won't you sit down?"
+The woman laid her handbag on the desk and took the visitor's chair,
+impish mirth sparking in her eyes.
+"He probably omitted mentioning that the D. is for Doris," she
+suggested. "Suppose I'd been an Englishman with a name like Evelyn or
+Vivian?"
+Melroy tried to visualize her as a male Englishman named Vivian, gave
+up, and grinned at her.
+"Let this be a lesson," he said. "Inferences are to be drawn from
+objects, or descriptions of objects; never from verbal labels. Do you
+initial your first name just to see how people react when they meet
+you?"
+"Well, no, though that's an amusing and sometimes instructive
+by-product. It started when I began contributing to some of the
+professional journals. There's still a little of what used to be called
+male sex-chauvinism among my colleagues, and some who would be favorably
+impressed with an article signed D. Warren Rives might snort in contempt
+at the same article signed Doris Rives."
+"Well, fortunately, Dr. von Heydenreich isn't one of those," Melroy
+said. "How is the Herr Doktor, by the way, and just what happened to
+him? Miss Kourtakides merely told me that he'd been injured and was in a
+hospital in Pittsburgh."
+"The Herr Doktor got shot," Doris Rives informed him. "With a charge of
+BB's, in a most indelicate portion of his anatomy. He was out hunting,
+the last day of small-game season, and somebody mistook him for a
+turkey. Nothing really serious, but he's face down in bed, cursing
+hideously in German, English, Russian, Italian and French, mainly
+because he's missing deer hunting."
+"I might have known it," Melroy said in disgust. "The ubiquitous
+lame-brain with a dangerous mechanism.... I suppose he briefed you on
+what I want done, here?"
+"Well, not too completely. I gathered that you want me to give
+intelligence tests, or aptitude tests, or something of the sort, to some
+of your employees. I'm not really one of these so-called industrial
+anthropologists," she explained. "Most of my work, for the past few
+years, has been for public-welfare organizations, with subnormal
+persons. I told him that, and he said that was why he selected me. He
+said one other thing. He said, 'I used to think Melroy had an obsession
+about fools; well, after stopping this load of shot, I'm beginning to
+think it's a good subject to be obsessed about.'"
+Melroy nodded. "'Obsession' will probably do. 'Phobia' would be more
+exact. I'm afraid of fools, and the chance that I have one working for
+me, here, affects me like having a cobra crawling around my bedroom in
+the dark. I want you to locate any who might be in a gang of new men
+I've had to hire, so that I can get rid of them."
+  *  *  *  *  *
+"And just how do you define the term 'fool', Mr. Melroy?" she asked.
+"Remember, it has no standard meaning. Republicans apply it to
+Democrats, and vice versa."
+"Well, I apply it to people who do things without considering possible
+consequences. People who pepper distinguished Austrian psychologists in
+the pants-seat with turkey-shot, for a starter. Or people who push
+buttons to see what'll happen, or turn valves and twiddle with
+dial-knobs because they have nothing else to do with their hands. Or
+shoot insulators off power lines to see if they can hit them. People who
+don't know it's loaded. People who think warning signs are purely
+ornamental. People who play practical jokes. People who--"
+"I know what you mean. Just day-before-yesterday, I saw a woman toss a
+cocktail into an electric heater. She didn't want to drink it, and she
+thought it would just go up in steam. The result was slightly
+spectacular."
+"Next time, she won't do that. She'll probably throw her drink into a
+lead-ladle, if there's one around. Well, on a statistical basis, I'd
+judge that I have three or four such dud rounds among this new gang I've
+hired. I want you to put the finger on them, so I can bounce them before
+they blow the whole plant up, which could happen quite easily."
+"That," Doris Rives said, "is not going to be as easy as it sounds.
+Ordinary intelligence-testing won't be enough. The woman I was speaking
+of has an I.Q. well inside the meaning of normal intelligence. She just
+doesn't use it."
+"Sure." Melroy got a thick folder out of his desk and handed it across.
+"Heydenreich thought of that, too. He got this up for me, about five
+years ago. The intelligence test is based on the new French Sûreté test
+for mentally deficient criminals. Then there's a memory test, and tests
+for judgment and discrimination, semantic reactions, temperamental and
+emotional makeup, and general mental attitude."
+She took the folder and leafed through it. "Yes, I see. I always liked
+this Sûreté test. And this memory test is a honey--'One hen, two ducks,
+three squawking geese, four corpulent porpoises, five Limerick oysters,
+six pairs of Don Alfonso tweezers....' I'd like to see some of these
+memory-course boys trying to make visual images of six pairs of Don
+Alfonso tweezers. And I'm going to make a copy of this word-association
+list. It's really a semantic reaction test; Korzybski would have loved
+it. And, of course, our old friend, the Rorschach Ink-Blots. I've always
+harbored the impious suspicion that you can prove almost anything you
+want to with that. But these question-suggestions for personal interview
+are really crafty. Did Heydenreich get them up himself?"
+"Yes. And we have stacks and stacks of printed forms for the written
+portion of the test, and big cards to summarize each subject on. And we
+have a disk-recorder to use in the oral tests. There'll have to be a
+pretty complete record of each test, in case--"
+  *  *  *  *  *
+The office door opened and a bulky man with a black mustache entered,
+beating the snow from his overcoat with a battered porkpie hat and
+commenting blasphemously on the weather. He advanced into the room until
+he saw the woman in the chair beside the desk, and then started to back
+out.
+"Come on in, Sid," Melroy told him. "Dr. Rives, this is our general
+foreman, Sid Keating. Sid, Dr. Rives, the new dimwit detector. Sid's in
+direct charge of personnel," he continued, "so you two'll be working
+together quite a bit."
+"Glad to know you, doctor," Keating said. Then he turned to Melroy.
+"Scott, you're really going through with this, then?" he asked. "I'm
+afraid we'll have trouble, then."
+"Look, Sid," Melroy said. "We've been all over that. Once we start work
+on the reactors, you and Ned Puryear and Joe Ricci and Steve Chalmers
+can't be everywhere at once. A cybernetic system will only do what it's
+been assembled to do, and if some quarter-wit assembles one of these
+things wrong--" He left the sentence dangling; both men knew what he
+meant.
+Keating shook his head. "This union's going to bawl like a branded calf
+about it," he predicted. "And if any of the dear sirs and brothers get
+washed out--" That sentence didn't need to be completed, either.
+"We have a right," Melroy said, "to discharge any worker who is, quote,
+of unsound mind, deficient mentality or emotional instability, unquote.
+It says so right in our union contract, in nice big print."
+"Then they'll claim the tests are wrong."
+"I can't see how they can do that," Doris Rives put in, faintly
+scandalized.
+"Neither can I, and they probably won't either," Keating told her. "But
+they'll go ahead and do it. Why, Scott, they're pulling the Number One
+Doernberg-Giardano, tonight. By oh-eight-hundred, it ought to be cool
+enough to work on. Where will we hold the tests? Here?"
+"We'll have to, unless we can get Dr. Rives security-cleared." Melroy
+turned to her. "Were you ever security-cleared by any Government
+agency?"
+"Oh, yes. I was with Armed Forces Medical, Psychiatric Division, in
+Indonesia in '62 and '63, and I did some work with mental fatigue cases
+at Tonto Basin Research Establishment in '64."
+Melroy looked at her sharply. Keating whistled.
+"If she could get into Tonto Basin, she can get in here," he declared.
+"I should think so. I'll call Colonel Bradshaw, the security officer."
+"That way, we can test them right on the job," Keating was saying. "Take
+them in relays. I'll talk to Ben about it, and we'll work up some kind
+of a schedule." He turned to Doris Rives. "You'll need a wrist-Geiger,
+and a dosimeter. We'll furnish them," he told her. "I hope they don't
+try to make you carry a pistol, too."
+"A pistol?" For a moment, she must have thought he was using some
+technical-jargon term, and then it dawned on her that he wasn't. "You
+mean--?" She cocked her thumb and crooked her index finger.
+"Yeah. A rod. Roscoe. The Equalizer. We all have to." He half-lifted one
+out of his side pocket. "We're all United States deputy marshals. They
+don't bother much with counterespionage, here, but they don't fool when
+it comes to countersabotage. Well, I'll get an order cut and posted. Be
+seeing you, doctor."
+  *  *  *  *  *
+"You think the union will make trouble about these tests?" she asked,
+after the general foreman had gone out.
+"They're sure to," Melroy replied. "Here's the situation. I have about
+fifty of my own men, from Pittsburgh, here, but they can't work on the
+reactors because they don't belong to the Industrial Federation of
+Atomic Workers, and I can't just pay their initiation fees and union
+dues and get union cards for them, because admission to this union is on
+an annual quota basis, and this is December, and the quota's full. So I
+have to use them outside the reactor area, on fabrication and assembly
+work. And I have to hire through the union, and that's handled on a
+membership seniority basis, so I have to take what's thrown at me.
+That's why I was careful to get that clause I was quoting to Sid written
+into my contract.
+"Now, here's what's going to happen. Most of the men'll take the test
+without protest, but a few of them'll raise the roof about it. Nothing
+burns a moron worse than to have somebody question his fractional
+intelligence. The odds are that the ones that yell the loudest about
+taking the test will be the ones who get scrubbed out, and when the test
+shows that they're deficient, they won't believe it. A moron simply
+cannot conceive of his being anything less than perfectly intelligent,
+any more than a lunatic can conceive of his being less than perfectly
+sane. So they'll claim we're framing them, for an excuse to fire them.
+And the union will have to back them up, right or wrong, at least on the
+local level. That goes without saying. In any dispute, the employer is
+always wrong and the worker is always right, until proven otherwise. And
+that takes a lot of doing, believe me!"
+"Well, if they're hired through the union, on a seniority basis,
+wouldn't they be likely to be experienced and competent workers?" she
+asked.
+"Experienced, yes. That is, none of them has ever been caught doing
+anything downright calamitous ... yet," Melroy replied. "The moron I'm
+afraid of can go on for years, doing routine work under supervision, and
+nothing'll happen. Then, some day, he does something on his own
+lame-brained initiative, and when he does, it's only at the whim of
+whatever gods there be that the result isn't a wholesale catastrophe.
+And people like that are the most serious threat facing our civilization
+today, atomic war not excepted."
+Dr. Doris Rives lifted a delicately penciled eyebrow over that. Melroy,
+pausing to relight his pipe, grinned at her.
+"You think that's the old obsession talking?" he asked. "Could be. But
+look at this plant, here. It generates every kilowatt of current used
+between Trenton and Albany, the New York metropolitan area included.
+Except for a few little storage-battery or Diesel generator systems,
+that couldn't handle one tenth of one per cent of the barest minimum
+load, it's been the only source of electric current here since 1962,
+when the last coal-burning power plant was dismantled. Knock this plant
+out and you darken every house and office and factory and street in the
+area. You immobilize the elevators--think what that would mean in lower
+and midtown Manhattan alone. And the subways. And the new endless-belt
+conveyors that handle eighty per cent of the city's freight traffic. And
+the railroads--there aren't a dozen steam or Diesel locomotives left in
+the whole area. And the pump stations for water and gas and fuel oil.
+And seventy per cent of the space-heating is electric, now. Why, you
+can't imagine what it'd be like. It's too gigantic. But what you can
+imagine would be a nightmare.
+"You know, it wasn't so long ago, when every home lighted and heated
+itself, and every little industry was a self-contained unit, that a fool
+couldn't do great damage unless he inherited a throne or was placed in
+command of an army, and that didn't happen nearly as often as our
+leftist social historians would like us to think. But today, everything
+we depend upon is centralized, and vulnerable to blunder-damage. Even
+our food--remember that poisoned soft-drink horror in Chicago, in 1963;
+three thousand hospitalized and six hundred dead because of one man's
+stupid mistake at a bottling plant." He shook himself slightly, as
+though to throw off some shadow that had fallen over him, and looked at
+his watch. "Sixteen hundred. How did you get here? Fly your own plane?"
+"No; I came by T.W.A. from Pittsburgh. I have a room at the new Midtown
+City hotel, on Forty-seventh Street: I had my luggage sent on there from
+the airport and came out on the Long Island subway."
+"Fine. I have a room at Midtown City, myself, though I sleep here about
+half the time." He nodded toward a door on the left. "Suppose we go in
+and have dinner together. This cafeteria, here, is a horrible place.
+It's run by a dietitian instead of a chef, and everything's so
+white-enamel antiseptic that I swear I smell belladonna-icthyol ointment
+every time I go in the place. Wait here till I change clothes."
+  *  *  *  *  *
+At the Long Island plant, no one was concerned about espionage--neither
+the processes nor the equipment used there were secret--but the
+countersabotage security was fantastically thorough. Every person or
+scrap of material entering the reactor area was searched; the
+life-history of every man and woman employed there was known back to the
+cradle. A broad highway encircled it outside the fence, patrolled night
+and day by twenty General Stuart cavalry-tanks. There were a thousand
+soldiers, and three hundred Atomic Power Authority police, and only God
+knew how many F.B.I, and Central Intelligence undercover agents. Every
+supervisor and inspector and salaried technician was an armed United
+States deputy marshal. And nobody, outside the Department of Defense,
+knew how much radar and counter-rocket and fighter protection the place
+had, but the air-defense zone extended from Boston to Philadelphia and
+as far inland as Wilkes-Barre, Pennsylvania.
+The Long Island Nuclear Power Plant, Melroy thought, had all the
+invulnerability of Achilles--and no more.
+The six new Doernberg-Giardano breeder-reactors clustered in a circle
+inside a windowless concrete building at the center of the plant. Beside
+their primary purpose of plutonium production, they furnished heat for
+the sea-water distillation and chemical extraction system, processing
+the water that was run through the steam boilers at the main power
+reactors, condensed, redistilled, and finally pumped, pure, into the
+water mains of New York. Safe outside the shielding, in a corner of a
+high-ceilinged room, was the plyboard-screened on-the-job office of the
+Melroy Engineering Corporation's timekeepers and foremen. Beyond, along
+the far wall, were the washroom and locker room and lunch room of the
+workmen.
+Sixty or seventy men, mostly in white coveralls and all wearing
+identification badges and carrying dosimeters in their breast pockets
+and midget Geigers strapped to their wrists, were crowded about the
+bulletin-board in front of the makeshift office. There was a hum of
+voices--some perplexed or angry, but mostly good-humored and bantering.
+As Melroy and Doris Rives approached, the talking died out and the men
+turned. In the sudden silence, one voice, harshly strident, continued:
+"... do they think this is, anyhow? We don't hafta take none of that."
+Somebody must have nudged the speaker, trying without success to hush
+him. The bellicose voice continued, and Melroy spotted the
+speaker--short, thick-set, his arms jutting out at an angle from his
+body, his heavy features soured with anger.
+"Like we was a lotta halfwits, 'r nuts, 'r some'n! Well, we don't hafta
+stand for this. They ain't got no right--"
+Doris Rives clung tighter to Melroy's arm as he pushed a way for himself
+and her through the crowd and into the temporary office. Inside, they
+were met by a young man with a deputy marshal's badge on his flannel
+shirt and a .38 revolver on his hip.
+"Ben Puryear: Dr. Rives," Melroy introduced. "Who's the mouthy character
+outside?"
+"One of the roustabouts; name's Burris," Puryear replied. "Wash-room
+lawyer."
+Melroy nodded. "You always get one or two like that. How're the rest
+taking it?"
+Puryear shrugged. "About how you'd expect. A lot of kidding about who's
+got any intelligence to test. Burris seems to be the only one who's
+trying to make an issue out of it."
+"Well, what are they doing ganged up here?" Melroy wanted to know. "It's
+past oh-eight-hundred; why aren't they at work?"
+"Reactor's still too hot. Temperature and radioactivity both too high;
+radioactivity's still up around eight hundred REM's."
+"Well, then, we'll give them all the written portion of the test
+together, and start the personal interviews and oral tests as soon as
+they're through." He turned to Doris Rives. "Can you give all of them
+the written test together?" he asked. "And can Ben help
+you--distributing forms, timing the test, seeing that there's no
+fudging, and collecting the forms when they're done?"
+"Oh, yes; all they'll have to do is follow the printed instructions."
+She looked around. "I'll need a desk, and an extra chair for the
+interview subject."
+"Right over here, doctor." Puryear said. "And here are the forms and
+cards, and the sound-recorder, and blank sound disks."
+"Yes," Melroy added. "Be sure you get a recording of every interview and
+oral test; we may need them for evidence."
+He broke off as a man in white coveralls came pushing into the office.
+He was a scrawny little fellow with a wide, loose-lipped mouth and a
+protuberant Adam's apple; beside his identity badge, he wore a two-inch
+celluloid button lettered: I.F.A.W. STEWARD.
+"Wanta use the phone," he said. "Union business."
+Melroy gestured toward a telephone on the desk beside him. The newcomer
+shook his head, twisting his mouth into a smirk.
+"Not that one; the one with the whisper mouthpiece," he said. "This is
+private union business."
+  *  *  *  *  *
+Melroy shrugged and indicated another phone. The man with the union
+steward's badge picked it up, dialed, and held a lengthy conversation
+into it, turning his head away in case Melroy might happen to be a lip
+reader. Finally he turned.
+"Mr. Crandall wants to talk to you," he said, grinning triumphantly, the
+phone extended to Melroy.
+The engineer picked up another phone, snapping a button on the base of
+it.
+"Melroy here," he said.
+Something on the line started going _bee-beep-beep_ softly.
+"Crandall, executive secretary, I.F.A.W.," the man on the other end of
+the line identified himself. "Is there a recorder going on this line?"
+"Naturally," Melroy replied. "I record all business conversations;
+office routine."
+"Mr. Melroy, I've been informed that you propose forcing our members in
+your employ to submit to some kind of a mental test. Is that correct?"
+"Not exactly. I'm not able to force anybody to submit to anything
+against his will. If anybody objects to taking these tests, he can say
+so, and I'll have his time made out and pay him off."
+"That's the same thing. A threat of dismissal is coercion, and if these
+men want to keep their jobs they'll have to take this test."
+"Well, that's stated more or less correctly," Melroy conceded. "Let's
+just put it that taking--and passing--this test is a condition of
+employment. My contract with your union recognizes my right to establish
+standards of intelligence; that's implied by my recognized right to
+dismiss any person of 'unsound mind, deficient mentality or emotional
+instability.' Psychological testing is the only means of determining
+whether or not a person is classifiable in those terms."
+"Then, in case the test purports to show that one of these men is, let's
+say, mentally deficient, you intend dismissing him?"
+"With the customary two weeks' severance-pay, yes."
+"Well, if you do dismiss anybody on those grounds, the union will have
+to insist on reviewing the grounds for dismissal."
+"My contract with your union says nothing whatever about any right of
+review being reserved by the union in such cases. Only in cases of
+disciplinary dismissal, which this is not. I take the position that
+certain minimum standards of intelligence and mental stability are
+essentials in this sort of work, just as, say, certain minimum standards
+of literacy are essential in clerical work."
+"Then you're going to make these men take these tests, whatever they
+are?"
+"If they want to work for me, yes. And anybody who fails to pass them
+will be dropped from my payroll."
+"And who's going to decide whether or not these men have successfully
+passed these tests?" Crandall asked. "You?"
+"Good Lord, no! I'm an electronics engineer, not a psychologist. The
+tests are being given, and will be evaluated, by a graduate
+psychologist, Dr. D. Warren Rives, who has a diploma from the American
+Board of Psychiatry and Neurology and is a member of the American
+Psychological Association. Dr. Rives will be the final arbiter on who is
+or is not disqualified by these tests."
+"Well, our man Koffler says you have some girl there to give the tests,"
+Crandall accused.
+"I suppose he means Dr. Rives," Melroy replied. "I can assure you, she
+is an extremely competent psychologist, however. She came to me most
+highly recommended by Dr. Karl von Heydenreich, who is not inclined to
+be careless with his recommendations."
+"Well, Mr. Melroy, we don't want any more trouble with you than we have
+to have," Crandall told him, "but we will insist on reviewing any
+dismissals which occur as a result of these tests."
+"You can do that. I'd advise, first, that you read over the contract you
+signed with me. Get a qualified lawyer to tell you what we've agreed to
+and what we haven't. Was there anything else you wanted to talk
+about?... No?... Then good morning, Mr. Crandall."
+He hung up. "All right; let's get on with it," he said. "Ben, you get
+them into the lunch room; there are enough tables and benches in there
+for everybody to take the written test in two relays."
+"The union's gotta be represented while these tests is going on," the
+union steward announced. "Mr. Crandall says I'm to stay here an' watch
+what you do to these guys."
+"This man working for us?" Melroy asked Puryear.
+"Yes. Koffler, Julius. Electrical fitter; Joe Ricci's gang."
+"All right. See to it that he gets placed in the first relay for the
+written test, and gets first turn for the orals. That way he can spend
+the rest of his time on duty here for the union, and will know in
+advance what the test is like." He turned to Koffler. "But understand
+this. You keep your mouth out of it. If you see anything that looks
+objectionable, make a note of it, but don't try to interfere."
+The written tests, done on printed forms, required about twenty minutes.
+Melroy watched the process of oral testing and personal interviewing for
+a while, then picked up a big flashlight and dropped it into his
+overcoat pocket, preparatory to going out to inspect some equipment that
+had been assembled outside the reactor area and brought in. As he went
+out, Koffler was straddling a chair, glowering at Doris Rives and making
+occasional ostentatious notes on a pad.
+  *  *  *  *  *
+For about an hour, he poked around the newly assembled apparatus,
+checking the wiring, and peering into it. When he returned to the
+temporary office, the oral testing was still going on; Koffler was still
+on duty as watcher for the union, but the sport had evidently palled on
+him, for he was now studying a comic book.
+Melroy left the reactor area and returned to the office in the converted
+area. During the midafternoon, somebody named Leighton called him from
+the Atomic Power Authority executive office, wanting to know what was
+the trouble between him and the I.F.A.W. and saying that a protest
+against his alleged high-handed and arbitrary conduct had been received
+from the union.
+Melroy explained, at length. He finished: "You people have twenty Stuart
+tanks, and a couple of thousand soldiers and cops and undercover-men,
+here, guarding against sabotage. Don't you realize that a workman who
+makes stupid or careless or impulsive mistakes is just as dangerous to
+the plant as any saboteur? If somebody shoots you through the head, it
+doesn't matter whether he planned to murder you for a year or just
+didn't know the gun was loaded; you're as dead one way as the other. I
+should think you'd thank me for trying to eliminate a serious source of
+danger."
+"Now, don't misunderstand my position, Mr. Melroy," the other man
+hastened to say. "I sympathize with your attitude, entirely. But these
+people are going to make trouble."
+"If they do, it'll be my trouble. I'm under contract to install this
+cybernetic system for you; you aren't responsible for my labor policy,"
+Melroy replied. "Oh, have you had much to do with this man Crandall,
+yourself?"
+"Have I had--!" Leighton sputtered for a moment. "I'm in charge of
+personnel, here; that makes me his top-priority target, all the time."
+"Well, what sort of a character is he, anyhow? When I contracted with
+the I.F.A.W., my lawyer and their lawyer handled everything; I never
+even met him."
+"Well--He has his job to do, the same as I have," Leighton said. "He
+does it conscientiously. But it's like this--anything a workman tells
+him is the truth, and anything an employer tells him is a dirty lie.
+Until proven differently, of course, but that takes a lot of doing. And
+he goes off half-cocked a lot of times. He doesn't stop to analyze
+situations very closely."
+"That's what I was afraid of. Well, you tell him you don't have any
+control over my labor relations. Tell him to bring his gripes to me."
+  *  *  *  *  *
+At sixteen-thirty, Doris Rives came in, finding him still at his desk.
+"I have the written tests all finished, and I have about twenty of the
+tests and interviews completed," she said. "I'll have to evaluate the
+results, though. I wonder if there's a vacant desk around here,
+anywhere, and a record player."
+"Yes, sure. Ask Joan to fix you up; she'll find a place for you to work.
+And if you're going to be working late, I'll order some dinner for you
+from the cafeteria. I'm going to be here all evening, myself."
+Sid Keating came in, a short while later, peeling out of his overcoat,
+jacket and shoulder holster.
+"I don't think they got everything out of that reactor," he said.
+"Radioactivity's still almost active-normal--about eight hundred
+REM's--and the temperature's away up, too. That isn't lingering
+radiation; that's prompt radiation."
+"Radioactivity hasn't dropped since morning; I'd think so, too," Melroy
+said. "What are they getting on the breakdown counter?"
+"Mostly neutrons and alpha-particles. I talked to Fred Hausinger, the
+maintenance boss; he doesn't like it, either."
+"Well, I'm no nuclear physicist," Melroy disclaimed, "but all that alpha
+stuff looks like a big chunk of Pu-239 left inside. What's Fred doing
+about it?"
+"Oh, poking around inside the reactor with telemetered scanners and
+remote-control equipment. When I left, he had a gang pulling out
+graphite blocks with RC-tongs. We probably won't get a chance to work on
+it much before thirteen-hundred tomorrow." He unzipped a bulky brief
+case he had brought in under his arm and dumped papers onto his desk. "I
+still have this stuff to get straightened out, too."
+"Had anything to eat? Then call the cafeteria and have them send up
+three dinners. Dr. Rives is eating here, too. Find out what she wants; I
+want pork chops."
+"Uh-huh; Li'l Abner Melroy; po'k chops unless otherwise specified."
+Keating got up and went out into the middle office. As he opened the
+door. Melroy could hear a recording of somebody being given a
+word-association test.
+Half an hour later, when the food arrived, they spread their table on a
+relatively clear desk in the middle office. Doris Rives had finished
+evaluating the completed tests; after dinner, she intended going over
+the written portions of the uncompleted tests.
+"How'd the finished tests come out?" Melroy asked her.
+"Better than I'd expected. Only two washouts," she replied. "Harvey
+Burris and Julius Koffler."
+"Oh, _no_!" Keating wailed. "The I.F.A.W. steward, and the
+loudest-mouthed I-know-my-rights boy on the job!"
+"Well, wasn't that to be expected?" Melroy asked. "If you'd seen the act
+those two put on--"
+"They're both inherently stupid, infantile, and deficient in reasoning
+ability and judgment," Doris said. "Koffler is a typical adolescent
+problem-child show-off type, and Burris is an almost perfect
+twelve-year-old schoolyard bully. They both have inferiority complexes
+long enough to step on. If the purpose of this test is what I'm led to
+believe it is, I can't, in professional good conscience, recommend
+anything but that you get rid of both of them."
+"What Bob's getting at is that they're the very ones who can claim, with
+the best show of plausibility, that the test is just a pretext to fire
+them for union activities," Melroy explained. "And the worst of it is,
+they're the only ones."
+"Maybe we can scrub out a couple more on the written tests alone. Then
+they'll have company," Keating suggested.
+"No, I can't do that." Doris was firm on the point. "The written part of
+the test was solely for ability to reason logically. Just among the
+three of us, I know some university professors who'd flunk on that. But
+if the rest of the tests show stability, sense of responsibility, good
+judgment, and a tendency to think before acting, the subject can be
+classified as a safe and reliable workman."
+"Well, then, let's don't say anything till we have the tests all
+finished," Keating proposed.
+"No!" Melroy cried. "Every minute those two are on the job, there's a
+chance they may do something disastrous. I'll fire them at
+oh-eight-hundred tomorrow."
+"All right," Keating shook his head. "I only work here. But don't say I
+didn't warn you."
+  *  *  *  *  *
+By 0930 the next morning, Keating's forebodings began to be realized.
+The first intimation came with a phone call to Melroy from Crandall, who
+accused him of having used the psychological tests as a fraudulent
+pretext for discharging Koffler and Burris for union activities. When
+Melroy rejected his demand that the two men be reinstated, Crandall
+demanded to see the records of the tests.
+"They're here at my office," Melroy told him. "You're welcome to look at
+them, and hear recordings of the oral portions of the tests. But I'd
+advise you to bring a professional psychologist along, because unless
+you're a trained psychologist yourself, they're not likely to mean much
+to you."
+"Oh, sure!" Crandall retorted. "They'd have to be unintelligible to
+ordinary people, or you couldn't get away with this frame-up! Well,
+don't worry, I'll be along to see them."
+Within ten minutes, the phone rang again. This time it was Leighton, the
+Atomic Power Authority man.
+"We're much disturbed about this dispute between your company and the
+I.F.A.W.," he began.
+"Well, frankly, so am I," Melroy admitted. "I'm here to do a job, not
+play Hatfields and McCoys with this union. I've had union trouble
+before, and it isn't fun. You're the gentleman who called me last
+evening, aren't you? Then you understand my position in the matter."
+"Certainly, Mr. Melroy. I was talking to Colonel Bradshaw, the security
+officer, last evening. He agrees that a stupid or careless workman is,
+under some circumstances, a more serious threat to security than any
+saboteur. And we realize fully how dangerous those Doernberg-Giardanos
+are, and how much more dangerous they'd be if these cybernetic controls
+were improperly assembled. But this man Crandall is talking about
+calling a strike."
+"Well, let him. In the first place, it'd be against me, not against the
+Atomic Power Authority. And, in the second place, if he does and it goes
+to Federal mediation, his demand for the reinstatement of those men will
+be thrown out, and his own organization will have to disavow his action,
+because he'll be calling the strike against his own contract."
+"Well, I hope so." Leighton's tone indicated that the hope was rather
+dim. "I wish you luck; you're going to need it."
+  *  *  *  *  *
+Within the hour, Crandall arrived at Melroy's office. He was a young
+man; he gave Melroy the impression of having recently seen military
+service; probably in the Indonesian campaign of '62 and '63; he also
+seemed a little cocky and over-sure of himself.
+"Mr. Melroy, we're not going to stand for this," he began, as soon as he
+came into the room. "You're using these so-called tests as a pretext for
+getting rid of Mr. Koffler and Mr. Burris because of their legitimate
+union activities."
+"Who gave you that idea?" Melroy wanted to know. "Koffler and Burris?"
+"That's the complaint they made to me, and it's borne out by the facts,"
+Crandall replied. "We have on record at least half a dozen complaints
+that Mr. Koffler has made to us about different unfair work-assignments,
+improper working conditions, inequities in allotting overtime work, and
+other infractions of union-shop conditions, on behalf of Mr. Burris. So
+you decided to get rid of both of them, and you think you can use this
+clause in our contract with your company about persons of deficient
+intelligence. The fact is, you're known to have threatened on several
+occasions to get rid of both of them."
+"I am?" Melroy looked at Crandall curiously, wondering if the latter
+were serious, and deciding that he was. "You must believe _anything_
+those people tell you. Well, they lied to you if they told you that."
+"Naturally that's what you'd say," Crandall replied. "But how do you
+account for the fact that those two men, and only those two men, were
+dismissed for alleged deficient intelligence?"
+"The tests aren't all made," Melroy replied. "Until they are, you can't
+say that they are the only ones disqualified. And if you look over the
+records of the tests, you'll see where Koffler and Burris failed and the
+others passed. Here." He laid the pile of written-test forms and the
+summary and evaluation sheets on the desk. "Here's Koffler's, and here's
+Burris'; these are the ones of the men who passed the test. Look them
+over if you want to."
+Crandall examined the forms and summaries for the two men who had been
+discharged, and compared them with several random samples from the
+satisfactory pile.
+"Why, this stuff's a lot of gibberish!" he exclaimed indignantly. "This
+thing, here: ... five Limerick oysters, six pairs of Don Alfonso
+tweezers, seven hundred Macedonian warriors in full battle array, eight
+golden crowns from the ancient, secret crypts of Egypt, nine lymphatic,
+sympathetic, peripatetic old men on crutches, and ten revolving
+heliotropes from the Ipsy-Wipsy Institute!' Great Lord, do you actually
+mean that you're using this stuff as an excuse for depriving men of
+their jobs?"
+"I warned you that you should have brought a professional psychologist
+along," Melroy reminded him. "And maybe you ought to get Koffler and
+Burris to repeat their complaints on a lie-detector, while you're at it.
+They took the same tests, in the same manner, as any of the others. They
+just didn't have the mental equipment to cope with them and the others
+did. And for that reason, I won't run the risk of having them working on
+this job."
+"That's just your word against theirs," Crandall insisted obstinately.
+"Their complaint is that you framed this whole thing up to get rid of
+them."
+"Why, I didn't even know who either of them were, until yesterday
+morning."
+"That's not the way they tell it," Crandall retorted. "They say you and
+Keating have been out to get them ever since they were hired. You and
+your supervisors have been persecuting both of those men systematically.
+The fact that Burris has had grounds for all these previous complaints
+proves that."
+"It proves that Burris has a persecution complex, and that Koffler's
+credulous enough to believe him," Melroy replied. "And that tends to
+confirm the results of the tests they failed to pass."
+"Oh, so that's the line you're taking. You persecute a man, and then say
+he has a persecution complex if he recognizes the fact. Well, you're not
+going to get away with it, that's all I have to say to you." Crandall
+flung the test-sheet he had been holding on to the desk. "That stuff's
+not worth the paper it's scribbled on!" He turned on his heel in an
+automatically correct about-face and strode out of the office.
+  *  *  *  *  *
+Melroy straightened out the papers and put them away, then sat down at
+his desk, filling and lighting his pipe. He was still working at 1215
+when Ben Puryear called him.
+"They walked out on us," he reported. "Harry Crandall was out here
+talking to them, and at noon the whole gang handed in their
+wrist-Geigers and dosimeters and cleared out their lockers. They say
+they aren't coming back till Burris and Koffler come back to work with
+them."
+"Then they aren't coming back, period," Melroy replied. "Crandall was to
+see me, a couple of hours ago. He tells me that Burris and Koffler told
+him that we've been persecuting Burris; discriminating against him. You
+know of anything that really happened that might make them think
+anything like that?"
+"No. Burris is always yelling about not getting enough overtime work,
+but you know how it is: he's just a roustabout, a common laborer. Any
+overtime work that has to be done is usually skilled labor on this job.
+We generally have a few roustabouts to help out, but he's been allowed
+to make overtime as much as any of the others."
+"Will the time-records show that?"
+"They ought to. I don't know what he and Koffler told Crandall, but
+whatever it was, I'll bet they were lying."
+"That's all right, then. How's the reactor, now?"
+"Hausinger says the count's down to safe limits, and the temperature's
+down to inactive normal. He and his gang found a big chunk of plutonium,
+about one-quarter CM, inside. He got it out."
+"All right. Tell Dr. Rives to gather up all her completed or partially
+completed test records and come out to the office. You and the others
+stay on the job; we may have some men for you by this afternoon;
+tomorrow morning certainly."
+He hung up, then picked up the communicator phone and called his
+secretary.
+"Joan, is Sid Keating out there? Send him in, will you?"
+Keating, when he entered, was wearing the lugubriously gratified
+expression appropriate to the successful prophet of disaster.
+"All right, Cassandra," Melroy greeted him. "I'm not going to say you
+didn't warn me. Look. This strike is illegal. It's a violation of the
+Federal Labor Act of 1958, being called without due notice of intention,
+without preliminary negotiation, and without two weeks' time-allowance."
+"They're going to claim that it isn't a strike. They're going to call it
+a 'spontaneous work-stoppage.'"
+"Aah! I hope I can get Crandall on record to that effect; I'll fire
+every one of those men for leaving their work without permission and
+absence from duty without leave. How many of our own men, from
+Pittsburgh, do we have working in these machine shops and in the
+assembly shop here? About sixty?"
+"Sixty-three. Why? You're not going to use them to work on the reactor,
+are you?"
+"I just am. They're all qualified cybernetics technicians; they can do
+this work better than this gang we've had to hire here. Just to be on
+the safe side, I'm promoting all of them, as of oh-eight-hundred this
+morning, to assistant gang-foremen, on salaries. That'll take them
+outside union jurisdiction."
+"But how about our contract with the I.F.A.W.?"
+"That's been voided, by Crandall's own act, in interfering with the
+execution of our contract with the Atomic Power Authority. You know what
+I think? I think the I.F.A.W. front office is going to have to disavow
+this. It'll hurt them to do it, but they'll have to. Crandall's put them
+in the middle on this."
+"How about security clearance for our own men?"
+"Nothing to that," Melroy said. "Most of them are security-cleared,
+already, from the work we did installing that counter-rocket control
+system on the U.S.S. _Alaska_, and the work we did on that
+symbolic-logic computer for the Philadelphia Project. It may take all
+day to get the red tape unwound, but I think we can be ready to start by
+oh-eight-hundred tomorrow."
+  *  *  *  *  *
+By the time Keating had rounded up all the regular Melroy Engineering
+Corporation employees and Melroy had talked to Colonel Bradshaw about
+security-clearance, it was 1430. A little later, he was called on the
+phone by Leighton, the Atomic Power Authority man.
+"Melroy, what are you trying to do?" the Power Authority man demanded.
+"Get this whole plant struck shut? The I.F.A.W.'s madder than a
+shot-stung bobcat. They claim you're going to bring in strike-breakers;
+they're talking about picketing the whole reactor area."
+"News gets around fast, here, doesn't it?" Melroy commented. He told
+Leighton what he had in mind. The Power Authority man was considerably
+shaken before he had finished.
+"But they'll call a strike on the whole plant! Have you any idea what
+that would mean?"
+"Certainly I have. They'll either call it in legal form, in which case
+the whole thing will go to mediation and get aired, which is what I
+want, or they'll pull a Pearl Harbor on you, the way they did on me. And
+in that case, the President will have to intervene, and they'll fly in
+technicians from some of the Armed Forces plants to keep this place
+running. And in that case, things'll get settled that much quicker. This
+Crandall thinks these men I fired are martyrs, and he's preaching a
+crusade. He ought to carry an _advocatus diaboli_ on his payroll, to
+scrutinize the qualifications of his martyrs, before he starts
+canonizing them."
+A little later, Doris Rives came into the office, her hands full of
+papers and cards.
+"I have twelve more tests completed," she reported. "Only one washout."
+Melroy laughed. "Doctor, they're all washed out," he told her. "It seems
+there was an additional test, and they all flunked it. Evinced
+willingness to follow unwise leadership and allow themselves to be
+talked into improper courses of action. You go on in to New York, and
+take all the test-material, including sound records, with you. Stay at
+the hotel--your pay will go on--till I need you. There'll be a Federal
+Mediation hearing in a day or so."
+He had two more telephone calls. The first, at 1530, was from Leighton.
+Melroy suspected that the latter had been medicating his morale with a
+couple of stiff drinks: his voice was almost jaunty.
+"Well, the war's on," he announced. "The I.F.A.W.'s walking out on the
+whole plant, at oh-eight-hundred tomorrow."
+"In violation of the Federal Labor Act, Section Eight, paragraphs four
+and five," Melroy supplemented. "Crandall really has stuck his neck in
+the guillotine. What's Washington doing?"
+"President Hartley is ordering Navy personnel flown in from
+Kennebunkport Reaction Lab; they will be here by about oh-three-hundred
+tomorrow. And a couple of Federal mediators are coming in to La Guardia
+at seventeen hundred; they're going to hold preliminary hearings at the
+new Federal Building on Washington Square beginning twenty hundred. A
+couple of I.F.A.W. negotiators are coming in from the national union
+headquarters at Oak Ridge: they should be getting in about the same
+time. You'd better be on hand, and have Dr. Rives there with you.
+There's a good chance this thing may get cleared up in a day or so."
+"I will undoubtedly be there, complete with Dr. Rives," Melroy replied.
+"It will be a pleasure!"
+  *  *  *  *  *
+An hour later, Ben Puryear called from the reactor area, his voice
+strained with anger.
+"Scott, do you know what those--" He gargled obscenities for a moment.
+"You know what they've done? They've re-packed the Number One
+Doernberg-Giardano; got a chain-reaction started again."
+"Who?"
+"Fred Hausinger's gang. Apparently at Harry Crandall's orders. The
+excuse was that it would be unsafe to leave the reactor in its
+dismantled condition during a prolonged shutdown--they were assuming, I
+suppose, that the strike would be allowed to proceed unopposed--but of
+course the real reason was that they wanted to get a chain-reaction
+started to keep our people from working on the reactor."
+"Well, didn't Hausinger try to stop them?"
+"Not very hard. I asked him what he had that deputy marshal's badge on
+his shirt and that Luger on his hip for, but he said he had orders not
+to use force, for fear of prejudicing the mediators."
+Melroy swore disgustedly. "All right. Gather up all our private papers,
+and get Steve and Joe, and come on out. We only work here--when we're
+able."
+  *  *  *  *  *
+Doris Rives was waiting on the street level when Melroy reached the new
+Federal Building, in what had formerly been the Greenwich Village
+district of Manhattan, that evening. She had a heavy brief case with
+her, which he took.
+"I was afraid I'd keep you waiting," she said. "I came down from the
+hotel by cab, and there was a frightful jam at Fortieth Street, and
+another one just below Madison Square."
+"Yes, it gets worse every year. Pardon my obsession, but nine times out
+of ten--ninety-nine out of a hundred--it's the fault of some fool doing
+something stupid. Speaking about doing stupid things, though--I did one.
+Forgot to take that gun out of my overcoat pocket, and didn't notice
+that I had it till I was on the subway, coming in. Have a big flashlight
+in the other pocket, but that doesn't matter. What I'm worried about is
+that somebody'll find out I have a gun and raise a howl about my coming
+armed to a mediation hearing."
+The hearing was to be held in one of the big conference rooms on the
+forty-second floor. Melroy was careful to remove his overcoat and lay it
+on a table in the corner, and then help Doris off with hers and lay it
+on top of his own. There were three men in the room when they arrived:
+Kenneth Leighton, the Atomic Power Authority man, fiftyish, acquiring a
+waistline bulge and losing his hair: a Mr. Lyons, tall and slender, with
+white hair; and a Mr. Quillen, considerably younger, with plastic-rimmed
+glasses. The latter two were the Federal mediators. All three had been
+lounging in arm-chairs, talking about the new plays on Broadway. They
+all rose when Melroy and Doris Rives came over to join them.
+"We mustn't discuss business until the others get here," Leighton
+warned. "It's bad enough that all three of us got here ahead of them;
+they'll be sure to think we're trying to take an unfair advantage of
+them. I suppose neither of you have had time to see any of the new
+plays."
+Fortunately, Doris and Melroy had gone to the theater after dinner, the
+evening-before-last; they were able to join the conversation. Young Mr.
+Quillen wanted Doris Rives' opinion, as a psychologist, of the mental
+processes of the heroine of the play they had seen; as nearly as she
+could determine, Doris replied, the heroine in question had exhibited
+nothing even loosely describable as mental processes of any sort. They
+were still on the subject when the two labor negotiators, Mr. Cronnin
+and Mr. Fields, arrived. Cronnin was in his sixties, with the
+nearsighted squint and compressed look of concentration of an old-time
+precision machinist; Fields was much younger, and sported a Phi Beta
+Kappa key.
+Lyons, who seemed to be the senior mediator, thereupon called the
+meeting to order and they took their places at the table.
+  *  *  *  *  *
+"Now, gentlemen--and Dr. Rives--this will be simply an informal
+discussion, so that everybody can see what everybody else's position in
+the matter is. We won't bother to make a sound recording. Then, if we
+have managed to reach some common understanding of the question this
+evening, we can start the regular hearing say at thirteen hundred
+tomorrow. Is that agreeable?"
+It was. The younger mediator, Quillen, cleared his throat.
+"It seems, from our information, that this entire dispute arises from
+the discharge, by Mr. Melroy, of two of his employees, named Koffler and
+Burris. Is that correct?"
+"Well, there's also the question of the Melroy Engineering Corporation's
+attempting to use strike-breakers, and the Long Island Atomic Power
+Authority's having condoned this unfair employment practice," Cronnin
+said, acidly.
+"And there's also the question of the I.F.A.W.'s calling a Pearl Harbor
+strike on my company," Melroy added.
+"We resent that characterization!" Cronnin retorted.
+"It's a term in common usage; it denotes a strike called without warning
+or declaration of intention, which this was," Melroy told him.
+"And there's also the question of the I.F.A.W. calling a general strike,
+in illegal manner, at the Long Island Reaction Plant," Leighton spoke
+up. "On sixteen hours' notice."
+"Well, that wasn't the fault of the I.F.A.W. as an organization," Fields
+argued. "Mr. Cronnin and I are agreed that the walk-out date should be
+postponed for two weeks, in accordance with the provisions of the
+Federal Labor Act."
+"Well, how about my company?" Melroy wanted to know. "Your I.F.A.W.
+members walked out on me, without any notice whatever, at twelve hundred
+today. Am I to consider that an act of your union, or will you disavow
+it so that I can fire all of them for quitting without permission?"
+"And how about the action of members of your union, acting on
+instructions from Harry Crandall, in re-packing the Number One
+Doernberg-Giardano breeder-reactor at our plant, after the plutonium and
+the U-238 and the neutron-source containers had been removed, in order
+to re-initiate a chain reaction to prevent Mr. Melroy's employees from
+working on the reactor?" Leighton demanded. "Am I to understand that the
+union sustains that action, too?"
+"I hadn't known about that," Fields said, somewhat startled.
+"Neither had I," Cronnin added. "When did it happen?"
+"About sixteen hundred today," Melroy told him.
+"We were on the plane from Oak Ridge, then," Fields declared. "We know
+nothing about that."
+"Well, are you going to take the responsibility for it, or aren't you?"
+Leighton insisted.
+Lyons, who had been toying with a small metal paperweight, rapped on the
+table with it.
+"Gentlemen," he interrupted. "We're trying to cover too many subjects at
+once. I suggest that we confine ourselves, at the beginning, to the
+question of the dismissal of these men, Burris and Koffler. If we find
+that the I.F.A.W. has a legitimate grievance in what we may call the
+Burris-Koffler question, we can settle that and then go on to these
+other questions."
+"I'm agreeable to that," Melroy said.
+"So are we," Cronnin nodded.
+"All right, then. Since the I.F.A.W. is the complaining party in this
+question, perhaps you gentlemen should state the grounds for your
+complaints."
+Fields and Cronnin exchanged glances: Cronnin nodded to Fields and the
+latter rose. The two employees in question, he stated, had been the
+victims of discrimination and persecution because of union activities.
+Koffler was the union shop-steward for the men employed by the Melroy
+Engineering Corporation, and Burris had been active in bringing
+complaints about unfair employment practices. Furthermore, it was the
+opinion of the I.F.A.W. that the psychological tests imposed on their
+members had been a fraudulent pretext for dismissing these two men, and,
+in any case, the practice of compelling workers to submit to such tests
+was insulting, degrading, and not a customary condition of employment.
+With that, he sat down. Melroy was on his feet at once.
+"I'll deny those statements, categorically and seriatim," he replied.
+"They are based entirely upon misrepresentations made by the two men who
+were disqualified by the tests and dropped from my payroll because of
+being, in the words of my contract with your union, 'persons of unsound
+mind, deficient intelligence and/or emotional instability.' What
+happened is that your local official, Crandall, accepted everything they
+told him uncritically, and you accepted everything Crandall told you, in
+the same spirit.
+"Before I go on," Melroy continued, turning to Lyons, "have I your
+permission to let Dr. Rives explain about these tests, herself, and tell
+how they were given and evaluated?"
+  *  *  *  *  *
+Permission granted by Lyons, Doris Rives rose. At some length, she
+explained the nature and purpose of the tests, and her method of scoring
+and correlating them.
+"Well, did Mr. Melroy suggest to you that any specific employee or
+employees of his were undesirable and ought to be eliminated?" Fields
+asked.
+"Certainly not!" Doris Rives became angry. "And if he had, I'd have
+taken the first plane out of here. That suggestion is insulting! And for
+your information, I never met Mr. Melroy before day-before-yesterday
+afternoon; I am not dependent upon him for anything; I took this job as
+an accommodation to Dr. Karl von Heydenreich, who ordinarily does such
+work for the Melroy company, and I'm losing money by remaining here.
+Does that satisfy you?"
+"Yes, it does," Fields admitted. He was obviously impressed by mention
+of the distinguished Austrian psychologist's name. "If I may ask Mr.
+Melroy a question: I gather that these tests are given to all your
+employees. Why do you demand such an extraordinary level of intelligence
+from your employees, even common laborers?"
+"Extraordinary?" Melroy echoed. "If the standards established by those
+tests are extraordinary, then God help this country; we are becoming a
+race of morons! I'll leave that statement to Dr. Rives for confirmation;
+she's already pointed out that all that is required to pass those tests
+is ordinary adult mental capacity.
+"My company specializes in cybernetic-control systems," he continued.
+"In spite of a lot of misleading colloquial jargon about 'thinking
+machines' and 'giant brains', a cybernetic system doesn't really think.
+It only does what it's been designed _and built_ to do, and if somebody
+builds a mistake into it, it will automatically and infallibly repeat
+that mistake in practice."
+"He's right," Cronnin said. "The men that build a machine like that have
+got to be as smart as the machine's supposed to be, or the machine'll be
+as dumb as they are."
+Fields turned on him angrily. "Which side are you supposed to be on,
+anyhow?" he demanded.
+"You're probably a lawyer," Melroy said. "But I'll bet Mr. Cronnin's an
+old reaction-plant man." Cronnin nodded unthinkingly in confirmation.
+"All right, then. Ask him what those Doernberg-Giardanos are like. And
+then let me ask you: Suppose some moron fixed up something that would go
+wrong, or made the wrong kind of a mistake himself, around one of those
+reactors?"
+It was purely a rhetorical question, but, much later, when he would have
+time to think about it, Scott Melroy was to wonder if ever in history
+such a question had been answered so promptly and with such dramatic
+calamitousness.
+Three seconds after he stopped speaking, the lights went out.
+  *  *  *  *  *
+For a moment, they were silent and motionless. Then somebody across the
+table from Melroy began to say, "What the devil--?" Doris Rives, beside
+him, clutched his arm. At the head of the table, Lyons was fuming
+impatiently, and Kenneth Leighton snapped a pocket-lighter and held it
+up.
+The Venetian-screened windows across the room faced east. In the flicker
+of the lighter, Melroy made his way around to them and drew open the
+slats of one, looking out. Except for the headlights of cars, far down
+in the street, and the lights of ships in the harbor, the city was
+completely blacked out. But there was one other, horrible, light far
+away at the distant tip of Long Island--a huge ball of flame, floating
+upward at the tip of a column of fiery gas. As he watched, there were
+twinkles of unbearable brightness at the base of the pillar of fire,
+spreading into awesome sheet-flashes, and other fireballs soared up.
+Then the sound and the shock-wave of the first blast reached them.
+"The main power-reactors, too," Melroy said to himself, not realizing
+that he spoke audibly. "Too well shielded for the blast to get them, but
+the heat melted the fissionables down to critical mass."
+Leighton, the lighter still burning, was beside him, now.
+"That's not--God, it can't be anything else! Why, the whole plant's
+gone! There aren't enough other generators in this area to handle a
+hundredth of the demand."
+"And don't blame that on my alleged strike-breakers," Melroy warned.
+"They hadn't got security-cleared to enter the reactor area when this
+happened."
+"What do you think happened?" Cronnin asked. "One of the
+Doernberg-Giardanos let go?"
+"Yes. Your man Crandall. If he survived that, it's his bad luck," Melroy
+said grimly. "Last night, while Fred Hausinger was pulling the
+fissionables and radioactives out of the Number One breeder, he found a
+big nugget of Pu-239, about one-quarter CM. I don't know what was done
+with it, but I do know that Crandall had the maintenance gang repack
+that reactor, to keep my people from working on it. Nobody'll ever find
+out just what happened, but they were in a hurry; they probably shoved
+things in any old way. Somehow, that big subcritical nugget must have
+got back in, and the breeding-cans, which were pretty ripe by that time,
+must have been shoved in too close to it and to one another. You know
+how fast those D-G's work. It just took this long to build up CM for a
+bomb-type reaction. You remember what I was saying before the lights
+went out? Well, it happened. Some moron--some untested and undetected
+moron--made the wrong kind of a mistake."
+"Too bad about Crandall. He was a good kid, only he didn't stop to think
+often enough," Cronnin said. "Well, I guess the strike's off, now;
+that's one thing."
+"But all those people, out there!" Womanlike, Doris Rives was thinking
+particularly rather than generally and of humans rather than
+abstractions. "It must have killed everybody for miles around."
+Sid Keating, Melroy thought. And Joe Ricci, and Ben Puryear, and Steve
+Chalmers, and all the workmen whom he had brought here from Pittsburgh,
+to their death. Then he stopped thinking about them. It didn't do any
+good to think of men who'd been killed; he'd learned that years ago, as
+a kid second lieutenant in Korea. The people to think about were the
+millions in Greater New York, and up the Hudson Valley to Albany, and as
+far south as Trenton, caught without light in the darkness, without heat
+in the dead of winter, without power in subways and skyscrapers and on
+railroads and interurban lines.
+He turned to the woman beside him.
+"Doris, before you could get your Board of Psychiatry and Neurology
+diploma, you had to qualify as a regular M.D., didn't you?" he asked.
+"Why, yes--"
+"Then you'd better report to the nearest hospital. Any doctor at all is
+going to be desperately needed, for the next day or so. Me, I still have
+a reserve major's commission in the Army Corps of Engineers. They're
+probably calling up reserve officers, with any radios that are still
+working. Until I hear differently, I'm ordering myself on active duty as
+of now." He looked around. "Anybody know where the nearest Army
+headquarters is?"
+"There's a recruiting station down on the thirty-something floor,"
+Quillen said. "It's probably closed, now, though."
+"Ground Defense Command; Midtown City," Leighton said. "They have a
+medical section of their own; they'll be glad to get Dr. Rives, too."
+Melroy helped her on with her coat and handed her her handbag, then
+shrugged into his own overcoat and belted it about him, the weight of
+the flashlight and the automatic sagging the pockets. He'd need both,
+the gun as much as the light--New York had more than its share of
+vicious criminals, to whom this power-failure would be a perfect
+devilsend. Handing Doris the light, he let her take his left arm.
+Together, they left the room and went down the hallway to the stairs and
+the long walk to the darkened street below, into a city that had
+suddenly been cut off from its very life-energy. A city that had put all
+its eggs in one basket, and left the basket in the path of any
+blundering foot.
+THE END

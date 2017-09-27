@@ -1,0 +1,444 @@
+ONE-SHOT
+You can do a great deal if
+you have enough data, and
+enough time to compute on it,
+by logical methods. But given
+the situation that neither data
+nor time is adequate, and an
+answer must be produced ...
+what do you do?
+BY JAMES BLISH
+On the day that the Polish freighter _Ludmilla_ laid an egg in New York
+harbor, Abner Longmans ("One-Shot") Braun was in the city going about
+his normal business, which was making another million dollars. As we
+found out later, almost nothing else was normal about that particular
+week end for Braun. For one thing, he had brought his family with him--a
+complete departure from routine--reflecting the unprecedentedly
+legitimate nature of the deals he was trying to make. From every point
+of view it was a bad week end for the CIA to mix into his affairs, but
+nobody had explained that to the master of the _Ludmilla_.
+I had better add here that we knew nothing about this until afterward;
+from the point of view of the storyteller, an organization like Civilian
+Intelligence Associates gets to all its facts backwards, entering the
+tale at the pay-off, working back to the hook, and winding up with a
+sheaf of background facts to feed into the computer for Next Time. It's
+rough on the various people who've tried to fictionalize what we
+do--particularly for the lazy examples of the breed, who come to us
+expecting that their plotting has already been done for them--but it's
+inherent in the way we operate, and there it is.
+Certainly nobody at CIA so much as thought of Braun when the news first
+came through. Harry Anderton, the Harbor Defense chief, called us at
+0830 Friday to take on the job of identifying the egg; this was when our
+records show us officially entering the affair, but, of course, Anderton
+had been keeping the wires to Washington steaming for an hour before
+that, getting authorization to spend some of his money on us (our
+clearance status was then and is now C&R--clean and routine).
+I was in the central office when the call came through, and had some
+difficulty in making out precisely what Anderton wanted of us. "Slow
+down, Colonel Anderton, please," I begged him. "Two or three seconds
+won't make that much difference. How did you find out about this egg in
+the first place?"
+"The automatic compartment bulkheads on the _Ludmilla_ were defective,"
+he said. "It seems that this egg was buried among a lot of other crates
+in the dump-cell of the hold--"
+"What's a dump cell?"
+"It's a sea lock for getting rid of dangerous cargo. The bottom of it
+opens right to Davy Jones. Standard fitting for ships carrying
+explosives, radioactives, anything that might act up unexpectedly."
+"All right," I said. "Go ahead."
+"Well, there was a timer on the dump-cell floor, set to drop the egg
+when the ship came up the river. That worked fine, but the automatic
+bulkheads that are supposed to keep the rest of the ship from being
+flooded while the cell's open, didn't. At least they didn't do a
+thorough job. The _Ludmilla_ began to list and the captain yelled for
+help. When the Harbor Patrol found the dump-cell open, they called us
+in."
+"I see." I thought about it a moment. "In other words, you don't know
+whether the _Ludmilla_ really laid an egg or not."
+"That's what I keep trying to explain to you, Dr. Harris. We don't know
+what she dropped and we haven't any way of finding out. It could be a
+bomb--it could be anything. We're sweating everybody on board the ship
+now, but it's my guess that none of them know anything; the whole
+procedure was designed to be automatic."
+"All right, we'll take it," I said. "You've got divers down?"
+"Sure, but--"
+"We'll worry about the buts from here on. Get us a direct line from
+your barge to the big board here so we can direct the work. Better get
+on over here yourself."
+"Right." He sounded relieved. Official people have a lot of confidence
+in CIA; too much, in my estimation. Some day the job will come along
+that we can't handle, and then Washington will be kicking itself--or,
+more likely, some scapegoat--for having failed to develop a comparable
+government department.
+Not that there was much prospect of Washington's doing that. Official
+thinking had been running in the other direction for years. The
+precedent was the Associated Universities organization which ran
+Brookhaven; CIA had been started the same way, by a loose corporation of
+universities and industries all of which had wanted to own an ULTIMAC
+and no one of which had had the money to buy one for itself. The
+Eisenhower administration, with its emphasis on private enterprise and
+concomitant reluctance to sink federal funds into projects of such size,
+had turned the two examples into a nice fat trend, which ULTIMAC herself
+said wasn't going to be reversed within the practicable lifetime of CIA.
+  *  *  *  *  *
+I buzzed for two staffers, and in five minutes got Clark Cheyney and
+Joan Hadamard, CIA's business manager and social science division chief
+respectively. The titles were almost solely for the benefit of the
+T/O--that is, Clark and Joan do serve in those capacities, but said
+service takes about two per cent of their capacities and their time. I
+shot them a couple of sentences of explanation, trusting them to pick up
+whatever else they needed from the tape, and checked the line to the
+divers' barge.
+It was already open; Anderton had gone to work quickly and with decision
+once he was sure we were taking on the major question. The television
+screen lit, but nothing showed on it but murky light, striped with
+streamers of darkness slowly rising and falling. The audio went
+_cloonck_ ... _oing_, _oing_ ... _bonk_ ... _oing_ ... Underwater
+noises, shapeless and characterless.
+"Hello, out there in the harbor. This is CIA, Harris calling. Come in,
+please."
+"Monig here," the audio said. _Boink_ ... _oing_, _oing_ ...
+"Got anything yet?"
+"Not a thing, Dr. Harris," Monig said. "You can't see three inches in
+front of your face down here--it's too silty. We've bumped into a couple
+of crates, but so far, no egg."
+"Keep trying."
+Cheyney, looking even more like a bulldog than usual, was setting his
+stopwatch by one of the eight clocks on ULTIMAC's face. "Want me to take
+the divers?" he said.
+"No, Clark, not yet. I'd rather have Joan do it for the moment." I
+passed the mike to her. "You'd better run a probability series first."
+"Check." He began feeding tape into the integrator's mouth. "What's your
+angle, Peter?"
+"The ship. I want to see how heavily shielded that dump-cell is."
+"It isn't shielded at all," Anderton's voice said behind me. I hadn't
+heard him come in. "But that doesn't prove anything. The egg might have
+carried sufficient shielding in itself. Or maybe the Commies didn't care
+whether the crew was exposed or not. Or maybe there isn't any egg."
+"All that's possible," I admitted. "But I want to see it, anyhow."
+"Have you taken blood tests?" Joan asked Anderton.
+"Yes."
+"Get the reports through to me, then. I want white-cell counts,
+differentials, platelet counts, hematocrit and sed rates on every man."
+Anderton picked up the phone and I took a firm hold on the doorknob.
+"Hey," Anderton said, putting the phone down again. "Are you going to
+duck out just like that? Remember, Dr. Harris, we've got to evacuate the
+city first of all! No matter whether it's a real egg or not--we can't
+take the chance on it's _not_ being an egg!"
+"Don't move a man until you get a go-ahead from CIA," I said. "For all
+we know now, evacuating the city may be just what the enemy wants us to
+do--so they can grab it unharmed. Or they may want to start a panic for
+some other reason, any one of fifty possible reasons."
+"You can't take such a gamble," he said grimly. "There are eight and a
+half million lives riding on it. I can't let you do it."
+"You passed your authority to us when you hired us," I pointed out. "If
+you want to evacuate without our O.K., you'll have to fire us first.
+It'll take another hour to get that cleared from Washington--so you
+might as well give us the hour."
+He stared at me for a moment, his lips thinned. Then he picked up the
+phone again to order Joan's blood count, and I got out the door, fast.
+  *  *  *  *  *
+A reasonable man would have said that I found nothing useful on the
+_Ludmilla_, except negative information. But the fact is that anything I
+found would have been a surprise to me; I went down looking for
+surprises. I found nothing but a faint trail to Abner Longmans Braun,
+most of which was fifteen years cold.
+There'd been a time when I'd known Braun, briefly and to no profit to
+either of us. As an undergraduate majoring in social sciences, I'd taken
+on a term paper on the old International Longshoreman's Association, a
+racket-ridden union now formally extinct--although anyone who knew the
+signs could still pick up some traces on the docks. In those days, Braun
+had been the business manager of an insurance firm, the sole visible
+function of which had been to write policies for the ILA and its
+individual dock-wallopers. For some reason, he had been amused by the
+brash youngster who'd barged in on him and demanded the lowdown, and had
+shown me considerable lengths of ropes not normally in view of the
+public--nothing incriminating, but enough to give me a better insight
+into how the union operated than I had had any right to expect--or even
+suspect.
+Hence I was surprised to hear somebody on the docks remark that Braun
+was in the city over the week end. It would never have occurred to me
+that he still interested himself in the waterfront, for he'd gone
+respectable with a vengeance. He was still a professional gambler, and
+according to what he had told the Congressional Investigating Committee
+last year, took in thirty to fifty thousand dollars a year at it, but
+his gambles were no longer concentrated on horses, the numbers, or shady
+insurance deals. Nowadays what he did was called investment--mostly in
+real estate; realtors knew him well as the man who had _almost_ bought
+the Empire State Building. (The _almost_ in the equation stands for the
+moment when the shoestring broke.)
+Joan had been following his career, too, not because she had ever met
+him, but because for her he was a type study in the evolution of what
+she called "the extra-legal ego." "With personalities like that,
+respectability is a disease," she told me. "There's always an
+almost-open conflict between the desire to be powerful and the desire to
+be accepted; your ordinary criminal is a moral imbecile, but people like
+Braun are damned with a conscience, and sooner or later they crack
+trying to appease it."
+"I'd sooner try to crack a Timkin bearing," I said. "Braun's ten-point
+steel all the way through."
+"Don't you believe it. The symptoms are showing all over him. Now he's
+backing Broadway plays, sponsoring beginning actresses, joining
+playwrights' groups--he's the only member of Buskin and Brush who's
+never written a play, acted in one, or so much as pulled the rope to
+raise the curtain."
+"That's investment," I said. "That's his business."
+"Peter, you're only looking at the surface. His real investments almost
+never fail. But the plays he backs _always_ do. They have to; he's
+sinking money in them to appease his conscience, and if they were to
+succeed it would double his guilt instead of salving it. It's the same
+way with the young actresses. He's not sexually interested in them--his
+type never is, because living a rigidly orthodox family life is part of
+the effort towards respectability. He's backing them to 'pay his debt to
+society'--in other words, they're talismans to keep him out of jail."
+"It doesn't seem like a very satisfactory substitute."
+"Of course it isn't," Joan had said. "The next thing he'll do is go in
+for direct public service--giving money to hospitals or something like
+that. You watch."
+She had been right; within the year, Braun had announced the founding of
+an association for clearing the Detroit slum area where he had been
+born--the plainest kind of symbolic suicide: _Let's not have any more
+Abner Longmans Brauns born down here_. It depressed me to see it happen,
+for next on Joan's agenda for Braun was an entry into politics as a
+fighting liberal--a New Dealer twenty years too late. Since I'm mildly
+liberal myself when I'm off duty, I hated to think what Braun's career
+might tell me about my own motives, if I'd let it.
+  *  *  *  *  *
+All of which had nothing to do with why I was prowling around the
+_Ludmilla_--or did it? I kept remembering Anderton's challenge: "You
+can't take such a gamble. There are eight and a half million lives
+riding on it--" That put it up into Braun's normal operating area, all
+right. The connection was still hazy, but on the grounds that any link
+might be useful, I phoned him.
+He remembered me instantly; like most uneducated, power-driven men, he
+had a memory as good as any machine's.
+"You never did send me that paper you was going to write," he said. His
+voice seemed absolutely unchanged, although he was in his seventies now.
+"You promised you would."
+"Kids don't keep their promises as well as they should," I said. "But
+I've still got copies and I'll see to it that you get one, this time.
+Right now I need another favor--something right up your alley."
+"CIA business?"
+"Yes. I didn't know you knew I was with CIA."
+Braun chuckled. "I still know a thing or two," he said. "What's the
+angle?"
+"That I can't tell you over the phone. But it's the biggest gamble there
+ever was, and I think we need an expert. Can you come down to CIA's
+central headquarters right away?"
+"Yeah, if it's that big. If it ain't, I got lots of business here, Andy.
+And I ain't going to be in town long. You're sure it's top stuff?"
+"My word on it."
+He was silent a moment. Then he said, "Andy, send me your paper."
+"The paper? Sure, but--" Then I got it. I'd given him my word. "You'll
+get it," I said. "Thanks, Mr. Braun."
+I called headquarters and sent a messenger to my apartment to look for
+one of those long-dusty blue folders with the legal-length sheets inside
+them, with orders to scorch it over to Braun without stopping to breathe
+more than once. Then I went back myself.
+The atmosphere had changed. Anderton was sitting by the big desk,
+clenching his fists and sweating; his whole posture telegraphed his
+controlled helplessness. Cheyney was bent over a seismograph,
+echo-sounding for the egg through the river bottom. If that even had a
+prayer of working, I knew, he'd have had the trains of the Hudson &
+Manhattan stopped; their rumbling course through their tubes would have
+blanked out any possible echo-pip from the egg.
+"Wild goose chase?" Joan said, scanning my face.
+"Not quite. I've got something, if I can just figure out what it is.
+Remember One-Shot Braun?"
+"Yes. What's he got to do with it?"
+[Illustration]
+"Nothing," I said. "But I want to bring him in. I don't think we'll lick
+this project before deadline without him."
+"What good is a professional gambler on a job like this? He'll just get
+in the way."
+I looked toward the television screen, which now showed an amorphous
+black mass, jutting up from a foundation of even deeper black. "Is that
+operation getting you anywhere?"
+"Nothing's gotten us anywhere," Anderton interjected harshly. "We don't
+even know if that's the egg--the whole area is littered with crates.
+Harris, you've got to let me get that alert out!"
+"Clark, how's the time going?"
+Cheyney consulted the stopwatch. "Deadline in twenty-nine minutes," he
+said.
+"All right, let's use those minutes. I'm beginning to see this thing a
+little clearer. Joan, what we've got here is a one-shot gamble; right?"
+"In effect," she said cautiously.
+"And it's my guess that we're never going to get the answer by diving
+for it--not in time, anyhow. Remember when the Navy lost a barge-load of
+shells in the harbor, back in '52? They scrabbled for them for a year
+and never pulled up a one; they finally had to warn the public that if
+it found anything funny-looking along the shore it shouldn't bang said
+object, or shake it either. We're better equipped than the Navy was
+then--but we're working against a deadline."
+"If you'd admitted that earlier," Anderton said hoarsely, "we'd have
+half a million people out of the city by now. Maybe even a million."
+"We haven't given up yet, colonel. The point is this, Joan: what we need
+is an inspired guess. Get anything from the prob series, Clark? I
+thought not. On a one-shot gamble of this kind, the 'laws' of chance are
+no good at all. For that matter, the so-called ESP experiments showed us
+long ago that even the way we construct random tables is full of
+holes--and that a man with a feeling for the essence of a gamble can
+make a monkey out of chance almost at will.
+"And if there ever was such a man, Braun is it. That's why I asked him
+to come down here. I want him to look at that lump on the screen
+and--play a hunch."
+"You're out of your mind," Anderton said.
+  *  *  *  *  *
+A decorous knock spared me the trouble of having to deny, affirm or
+ignore the judgment. It was Braun; the messenger had been fast, and the
+gambler hadn't bothered to read what a college student had thought of
+him fifteen years ago. He came forward and held out his hand, while the
+others looked him over frankly.
+He was impressive, all right. It would have been hard for a stranger to
+believe that he was aiming at respectability; to the eye, he was already
+there. He was tall and spare, and walked perfectly erect, not without
+spring despite his age. His clothing was as far from that of a gambler
+as you could have taken it by design: a black double-breasted suit with
+a thin vertical stripe, a gray silk tie with a pearl stickpin just
+barely large enough to be visible at all, a black Homburg; all perfectly
+fitted, all worn with proper casualness--one might almost say a formal
+casualness. It was only when he opened his mouth that One-Shot Braun was
+in the suit with him.
+"I come over as soon as your runner got to me," he said. "What's the
+pitch, Andy?"
+"Mr. Braun, this is Joan Hadamard, Clark Cheyney, Colonel Anderton. I'll
+be quick because we need speed now. A Polish ship has dropped something
+out in the harbor. We don't know what it is. It may be a hell-bomb, or
+it may be just somebody's old laundry. Obviously we've got to find out
+which--and we want you to tell us."
+Braun's aristocratic eyebrows went up. "Me? Hell, Andy, I don't know
+nothing about things like that. I'm surprised with you. I thought CIA
+had all the brains it needed--ain't you got machines to tell you answers
+like that?"
+I pointed silently to Joan, who had gone back to work the moment the
+introductions were over. She was still on the mike to the divers. She
+was saying: "What does it look like?"
+"It's just a lump of something, Dr. Hadamard. Can't even tell its
+shape--it's buried too deeply in the mud." _Cloonk_ ... _Oing_, _oing_
+...
+"Try the Geiger."
+"We did. Nothing but background."
+"Scintillation counter?"
+"Nothing, Dr. Hadamard. Could be it's shielded."
+"Let us do the guessing, Monig. All right, maybe it's got a clockwork
+fuse that didn't break with the impact. Or a gyroscopic fuse. Stick a
+stethoscope on it and see if you pick up a ticking or anything that
+sounds like a motor running."
+  *  *  *  *  *
+There was a lag and I turned back to Braun. "As you can see, we're
+stymied. This is a long shot, Mr. Braun. One throw of the dice--one
+show-down hand. We've got to have an expert call it for us--somebody
+with a record of hits on long shots. That's why I called you."
+"It's no good," he said. He took off the Homburg, took his handkerchief
+from his breast pocket, and wiped the hatband. "I can't do it."
+"Why not?"
+"It ain't my _kind_ of thing," he said. "Look, I never in my life run
+odds on anything that made any difference. But this makes a difference.
+If I guess wrong--"
+"Then we're all dead ducks. But why should you guess wrong? Your hunches
+have been working for sixty years now."
+Braun wiped his face. "No. You don't get it. I wish you'd listen to me.
+Look, my wife and my kids are in the city. It ain't only my life, it's
+theirs, too. That's what I care about. That's why it's no good. On
+things that matter to me, _my hunches don't work_."
+I was stunned, and so, I could see, were Joan and Cheyney. I suppose I
+should have guessed it, but it had never occurred to me.
+"Ten minutes," Cheyney said.
+I looked up at Braun. He was frightened, and again I was surprised
+without having any right to be. I tried to keep at least my voice calm.
+"Please try it anyhow, Mr. Braun--as a favor. It's already too late to
+do it any other way. And if you guess wrong, the outcome won't be any
+worse than if you don't try at all."
+"My kids," he whispered. I don't think he knew that he was speaking
+aloud. I waited.
+Then his eyes seemed to come back to the present. "All right," he said.
+"I told you the truth, Andy. Remember that. So--is it a bomb or ain't
+it? That's what's up for grabs, right?"
+I nodded. He closed his eyes. An unexpected stab of pure fright went
+down my back. Without the eyes, Braun's face was a death mask.
+The water sounds and the irregular ticking of a Geiger counter seemed to
+spring out from the audio speaker, four times as loud as before. I could
+even hear the pen of the seismograph scribbling away, until I looked at
+the instrument and saw that Clark had stopped it, probably long ago.
+Droplets of sweat began to form along Braun's forehead and his upper
+lip. The handkerchief remained crushed in his hand.
+Anderton said, "Of all the fool--"
+"Hush!" Joan said quietly.
+  *  *  *  *  *
+Slowly, Braun opened his eyes. "All right," he said. "You guys wanted it
+this way. _I say it's a bomb._" He stared at us for a moment more--and
+then, all at once, the Timkin bearing burst. Words poured out of it.
+"Now you guys do something, do your job like I did mine--get my wife and
+kids out of there--empty the city--do something, _do something_!"
+Anderton was already grabbing for the phone. "You're right, Mr. Braun.
+If it isn't already too late--"
+Cheyney shot out a hand and caught Anderton's telephone arm by the
+wrist. "Wait a minute," he said.
+"What d'you mean, 'wait a minute'? Haven't you already shot enough
+time?"
+Cheyney did not let go; instead, he looked inquiringly at Joan and said,
+"One minute, Joan. You might as well go ahead."
+She nodded and spoke into the mike. "Monig, unscrew the cap."
+"Unscrew the cap?" the audio squawked. "But Dr. Hadamard, if that sets
+it off--"
+"It won't go off. That's the one thing you can be sure it won't do."
+"What is this?" Anderton demanded. "And what's this deadline stuff,
+anyhow?"
+"The cap's off," Monig reported. "We're getting plenty of radiation now.
+Just a minute-- Yeah. Dr. Hadamard, it's a bomb, all right. But it
+hasn't got a fuse. Now how could they have made a fool mistake like
+that?"
+"In other words, it's a dud," Joan said.
+"That's right, a dud."
+Now, at last, Braun wiped his face, which was quite gray. "I told you
+the truth," he said grimly. "My hunches don't work on stuff like this."
+"But they do," I said. "I'm sorry we put you through the wringer--and
+you too, colonel--but we couldn't let an opportunity like this slip. It
+was too good a chance for us to test how our facilities would stand up
+in a real bomb-drop."
+"A real drop?" Anderton said. "Are you trying to say that CIA staged
+this? You ought to be shot, the whole pack of you!"
+"No, not exactly," I said. "The enemy's responsible for the drop, all
+right. We got word last month from our man in Gdynia that they were
+going to do it, and that the bomb would be on board the _Ludmilla_. As I
+say, it was too good an opportunity to miss. We wanted to find out just
+how long it would take us to figure out the nature of the bomb--which we
+didn't know in detail--after it was dropped here. So we had our people
+in Gdynia defuse the thing after it was put on board the ship, but
+otherwise leave it entirely alone.
+"Actually, you see, your hunch was right on the button as far as it
+went. We didn't ask you whether or not that object was a live bomb. We
+asked whether it was a bomb or not. You said it was, and you were
+right."
+The expression on Braun's face was exactly like the one he had worn
+while he had been searching for his decision--except that, since his
+eyes were open, I could see that it was directed at me. "If this was the
+old days," he said in an ice-cold voice, "I might of made the colonel's
+idea come true. I don't go for tricks like this, Andy."
+"It was more than a trick," Clark put in. "You'll remember we had a
+deadline on the test, Mr. Braun. Obviously, in a real drop we wouldn't
+have all the time in the world to figure out what kind of a thing had
+been dropped. If we had still failed to establish that when the deadline
+ran out, we would have had to allow evacuation of the city, with all the
+attendant risk that that was exactly what the enemy wanted us to do."
+"So?"
+"So we failed the test," I said. "At one minute short of the deadline,
+Joan had the divers unscrew the cap. In a real drop that would have
+resulted in a detonation, if the bomb was real; we'd never risk it. That
+we did do it in the test was a concession of failure--an admission that
+our usual methods didn't come through for us in time.
+"And that means that you were the only person who did come through, Mr.
+Braun. If a real bomb-drop ever comes, we're going to have to have you
+here, as an active part of our investigation. Your intuition for the
+one-shot gamble was the one thing that bailed us out this time. Next
+time it may save eight million lives."
+There was quite a long silence. All of us, Anderton included, watched
+Braun intently, but his impassive face failed to show any trace of how
+his thoughts were running.
+When he did speak at last, what he said must have seemed insanely
+irrelevant to Anderton, and maybe to Cheyney too. And perhaps it meant
+nothing more to Joan than the final clinical note in a case history.
+"It's funny," he said, "I was thinking of running for Congress next year
+from my district. But maybe this is more important."
+It was, I believe, the sigh of a man at peace with himself.
+FIN

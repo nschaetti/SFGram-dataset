@@ -1,0 +1,2976 @@
+﻿The Project Gutenberg eBook, A Place so Foreign, by Cory Doctorow
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+
+
+
+Title: A Place so Foreign
+
+
+Author: Cory Doctorow
+
+
+
+Release Date: September 19, 2005  [eBook #16721]
+
+Language: English
+
+
+***START OF THE PROJECT GUTENBERG EBOOK A PLACE SO FOREIGN***
+
+
+Copyright (C) 2000 by Corey Doctorow
+
+
+
+A Place So Foreign
+
+Cory Doctorow
+
+From "A Place So Foreign and Eight More," a short story collection published in
+September, 2003 by Four Walls Eight Windows Press (ISBN 1568582862). See
+http://craphound.com/place for more.
+
+Originally Published in Science Fiction Age, January 2000
+
+--
+
+Blurbs and quotes:
+
+* Cory Doctorow straps on his miner's helmet and takes you deep into the
+  caverns and underground rivers of Pop Culture, here filtered through SF-coloured
+  glasses. Enjoy.
+  
+	- Neil Gaiman
+	  Author of American Gods and Sandman
+
+
+* Few writers boggle my sense of reality as much as Cory Doctorow.  His vision
+  is so far out there, you'll need your GPS to find your way back.
+  
+	- David Marusek 
+	  Winner of the Theodore Sturgeon Award, Nebula Award nominee
+
+* Cory Doctorow is one of our best new writers: smart, daring, savvy,
+  entertaining, ambitious, plugged-in, and as good a guide to the wired world of
+  the twenty-first century that stretches out before us as you're going to find.
+
+	- Gardner Dozois
+	  Editor, Asimov's SF
+
+* He sparkles!  He fizzes!  He does backflips and breaks the furniture! Science
+  fiction needs Cory Doctorow!
+  
+	- Bruce Sterling
+	  Author of The Hacker Crackdown and Distraction
+
+* Cory Doctorow strafes the senses with a geekspeedfreak explosion of gomi kings
+  with heart, weirdass shapeshifters from Pleasure Island and jumping automotive
+  jazz joints.  If this is Canadian science fiction, give me more.
+  
+	- Nalo Hopkinson
+	  Author of Midnight Robber and Brown Girl in the Ring
+
+* Cory Doctorow is the future of science fiction.  An nth-generation hybrid of
+  the best of Greg Bear, Rudy Rucker, Bruce Sterling and Groucho Marx, Doctorow
+  composes stories that are as BPM-stuffed as techno music, as idea-rich as the
+  latest issue of NEW SCIENTIST, and as funny as humanity's efforts to improve
+  itself.  Utopian, insightful, somehow simultaneously ironic and heartfelt, these
+  nine tales will upgrade your basal metabolism, overwrite your cortex with new
+  and efficient subroutines and generally improve your life to the point where
+  you'll wonder how you ever got along with them.  Really, you should need a
+  prescription to ingest this book.  Out of all the glittering crap life and our
+  society hands us, craphound supreme Doctorow has managed to fashion some
+  industrial-grade art."
+ 
+	- Paul Di Filippo
+	  Author of The Steampunk Trilogy
+
+* As scary as the future, and twice as funny. In this eclectic and electric
+  collection Doctorow strikes sparks off today to illuminate tomorrow, which is
+  what SF is supposed to do. And nobody does it better.
+  
+	- Terry Bisson
+	  Author of Bears Discover Fire
+
+--
+
+A note about this story
+
+This story is from my collection, "A Place So Foreign and Eight More," published
+by Four Walls Eight Windows Press in September, 2003, ISBN 1568582862. I've
+released this story, along with five others, under the terms of a Creative
+Commons license that gives you, the reader, a bunch of rights that copyright
+normally reserves for me, the creator.
+
+I recently did the same thing with the entire text of my novel, "Down and Out in
+the Magic Kingdom" (http://craphound.com/down), and it was an unmitigated
+success. Hundreds of thousands of people downloaded the book -- good news -- and
+thousands of people bought the book -- also good news. It turns out that, as
+near as anyone can tell, distributing free electronic versions of books is a
+great way to sell more of the paper editions, while simultaneously getting the
+book into the hands of readers who would otherwise not be exposed to my work.
+
+I still don't know how it is artists will earn a living in the age of the
+Internet, but I remain convinced that the way to find out is to do basic
+science: that is, to do stuff and observe the outcome. That's what I'm doing
+here. The thing to remember is that the very *worst* thing you can do to me as
+an artist is to not read my work -- to let it languish in obscurity and
+disappear from posterity. Most of the fiction I grew up on is out-of-print, and
+this is doubly true for the short stories. Losing a couple bucks to people who
+would have bought the book save for the availability of the free electronic text
+is no big deal, at least when compared to the horror that is being irrelevant
+and unread. And luckily for me, it appears that giving away the text for free
+gets me more paying customers than it loses me.
+
+You can find the canonical version of this file at
+http://craphound.com/place/download.php
+
+If you'd like to convert this file to some other format and distribute it, you
+have my permission, provided that:
+
+* You don't charge money for the distribution
+
+* You keep the entire text intact, including this notice, the license below, and
+the metadata at the end of the file
+
+* You don't use a file-format that has "DRM" or "copy-protection" or any other
+form of use-restriction turned on
+
+If you'd like, you can advertise the existence of your edition by posting a link
+to it at http://craphound.com/place/000013.php
+
+--
+
+Here's a summary of the license:
+
+	http://creativecommons.org/licenses/by-nd-nc/1.0
+	
+	Attribution. The licensor permits others to copy, distribute,
+	display, and perform the work. In return, licensees must give the
+	original author credit.
+	
+	No Derivative Works. The licensor permits others to copy,
+	distribute, display and perform only unaltered copies of the work
+	-- not derivative works based on it.
+	
+	Noncommercial. The licensor permits others to copy, distribute,
+	display, and perform the work. In return, licensees may not use
+	the work for commercial purposes -- unless they get the
+	licensor's permission.
+
+And here's the license itself:
+	
+	http://creativecommons.org/licenses/by-nd-nc/1.0-legalcode
+
+	THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
+	CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK
+	IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF
+	THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE IS
+	PROHIBITED.
+	
+	BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT
+	AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR
+	GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR
+	ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+	
+	1. Definitions
+	
+		a. "Collective Work" means a work, such as a periodical issue,
+		anthology or encyclopedia, in which the Work in its entirety in
+		unmodified form, along with a number of other contributions,
+		constituting separate and independent works in themselves, are
+		assembled into a collective whole. A work that constitutes a
+		Collective Work will not be considered a Derivative Work (as
+		defined below) for the purposes of this License.
+		
+		b. "Derivative Work" means a work based upon the Work or upon the
+		Work and other pre-existing works, such as a translation, musical
+		arrangement, dramatization, fictionalization, motion picture
+		version, sound recording, art reproduction, abridgment,
+		condensation, or any other form in which the Work may be recast,
+		transformed, or adapted, except that a work that constitutes a
+		Collective Work will not be considered a Derivative Work for the
+		purpose of this License.
+		
+		c. "Licensor" means the individual or entity that offers the Work
+		under the terms of this License.
+		
+		d. "Original Author" means the individual or entity who created
+		the Work.
+		
+		e. "Work" means the copyrightable work of authorship offered
+		under the terms of this License.
+		
+		f. "You" means an individual or entity exercising rights under
+		this License who has not previously violated the terms of this
+		License with respect to the Work, or who has received express
+		permission from the Licensor to exercise rights under this
+		License despite a previous violation.
+	
+	2. Fair Use Rights. Nothing in this license is intended to
+	reduce, limit, or restrict any rights arising from fair use,
+	first sale or other limitations on the exclusive rights of the
+	copyright owner under copyright law or other applicable laws.
+	
+	3. License Grant. Subject to the terms and conditions of this
+	License, Licensor hereby grants You a worldwide, royalty-free,
+	non-exclusive, perpetual (for the duration of the applicable
+	copyright) license to exercise the rights in the Work as stated
+	below:
+	
+		a. to reproduce the Work, to incorporate the Work into one or
+		more Collective Works, and to reproduce the Work as incorporated
+		in the Collective Works;
+		
+		b. to distribute copies or phonorecords of, display publicly,
+		perform publicly, and perform publicly by means of a digital
+		audio transmission the Work including as incorporated in
+		Collective Works;
+	
+	The above rights may be exercised in all media and formats
+	whether now known or hereafter devised. The above rights include
+	the right to make such modifications as are technically necessary
+	to exercise the rights in other media and formats. All rights not
+	expressly granted by Licensor are hereby reserved.
+	
+	4. Restrictions. The license granted in Section 3 above is
+	expressly made subject to and limited by the following
+	restrictions:
+	
+		a. You may distribute, publicly display, publicly perform, or
+		publicly digitally perform the Work only under the terms of this
+		License, and You must include a copy of, or the Uniform Resource
+		Identifier for, this License with every copy or phonorecord of
+		the Work You distribute, publicly display, publicly perform, or
+		publicly digitally perform. You may not offer or impose any terms
+		on the Work that alter or restrict the terms of this License or
+		the recipients' exercise of the rights granted hereunder. You may
+		not sublicense the Work. You must keep intact all notices that
+		refer to this License and to the disclaimer of warranties. You
+		may not distribute, publicly display, publicly perform, or
+		publicly digitally perform the Work with any technological
+		measures that control access or use of the Work in a manner
+		inconsistent with the terms of this License Agreement. The above
+		applies to the Work as incorporated in a Collective Work, but
+		this does not require the Collective Work apart from the Work
+		itself to be made subject to the terms of this License. If You
+		create a Collective Work, upon notice from any Licensor You must,
+		to the extent practicable, remove from the Collective Work any
+		reference to such Licensor or the Original Author, as requested.
+		
+		b. You may not exercise any of the rights granted to You in
+		Section 3 above in any manner that is primarily intended for or
+		directed toward commercial advantage or private monetary
+		compensation. The exchange of the Work for other copyrighted
+		works by means of digital file-sharing or otherwise shall not be
+		considered to be intended for or directed toward commercial
+		advantage or private monetary compensation, provided there is no
+		payment of any monetary compensation in connection with the
+		exchange of copyrighted works.
+		
+		c. If you distribute, publicly display, publicly perform, or
+		publicly digitally perform the Work or any Collective Works, You
+		must keep intact all copyright notices for the Work and give the
+		Original Author credit reasonable to the medium or means You are
+		utilizing by conveying the name (or pseudonym if applicable) of
+		the Original Author if supplied; the title of the Work if
+		supplied. Such credit may be implemented in any reasonable
+		manner; provided, however, that in the case of a Collective Work,
+		at a minimum such credit will appear where any other comparable
+		authorship credit appears and in a manner at least as prominent
+		as such other comparable authorship credit.
+	
+	5. Representations, Warranties and Disclaimer
+	
+		a. By offering the Work for public release under this License,
+		Licensor represents and warrants that, to the best of Licensor's
+		knowledge after reasonable inquiry:
+			
+			i. Licensor has secured all rights in the Work necessary to grant
+			the license rights hereunder and to permit the lawful exercise of
+			the rights granted hereunder without You having any obligation to
+			pay any royalties, compulsory license fees, residuals or any
+			other payments;
+			
+			ii. The Work does not infringe the copyright, trademark,
+			publicity rights, common law rights or any other right of any
+			third party or constitute defamation, invasion of privacy or
+			other tortious injury to any third party.
+		
+		b. EXCEPT AS EXPRESSLY STATED IN THIS LICENSE OR OTHERWISE AGREED
+		IN WRITING OR REQUIRED BY APPLICABLE LAW, THE WORK IS LICENSED ON
+		AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS
+		OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES
+		REGARDING THE CONTENTS OR ACCURACY OF THE WORK.
+	
+	6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY
+	APPLICABLE LAW, AND EXCEPT FOR DAMAGES ARISING FROM LIABILITY TO
+	A THIRD PARTY RESULTING FROM BREACH OF THE WARRANTIES IN SECTION
+	5, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY
+	FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY
+	DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN
+	IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+	
+	7. Termination
+	
+		a. This License and the rights granted hereunder will terminate
+		automatically upon any breach by You of the terms of this
+		License. Individuals or entities who have received Collective
+		Works from You under this License, however, will not have their
+		licenses terminated provided such individuals or entities remain
+		in full compliance with those licenses. Sections 1, 2, 5, 6, 7,
+		and 8 will survive any termination of this License.
+		
+		b. Subject to the above terms and conditions, the license granted
+		here is perpetual (for the duration of the applicable copyright
+		in the Work). Notwithstanding the above, Licensor reserves the
+		right to release the Work under different license terms or to
+		stop distributing the Work at any time; provided, however that
+		any such election will not serve to withdraw this License (or any
+		other license that has been, or is required to be, granted under
+		the terms of this License), and this License will continue in
+		full force and effect unless terminated as stated above.
+	
+	8. Miscellaneous
+	
+		a. Each time You distribute or publicly digitally perform the
+		Work or a Collective Work, the Licensor offers to the recipient a
+		license to the Work on the same terms and conditions as the
+		license granted to You under this License.
+	
+		b. If any provision of this License is invalid or unenforceable
+		under applicable law, it shall not affect the validity or
+		enforceability of the remainder of the terms of this License, and
+		without further action by the parties to this agreement, such
+		provision shall be reformed to the minimum extent necessary to
+		make such provision valid and enforceable.
+		
+		c. No term or provision of this License shall be deemed waived
+		and no breach consented to unless such waiver or consent shall be
+		in writing and signed by the party to be charged with such waiver
+		or consent.
+		
+		d. This License constitutes the entire agreement between the
+		parties with respect to the Work licensed here. There are no
+		understandings, agreements or representations with respect to the
+		Work not specified here. Licensor shall not be bound by any
+		additional provisions that may appear in any communication from
+		You. This License may not be modified without the mutual written
+		agreement of the Licensor and You.
+
+###
+
+A Place So Foreign
+==================
+
+My Pa disappeared somewhere in the wilds of 1975, when I was just fourteen years
+old. He was the Ambassador to 1975, but back home in 1898, in New Jerusalem,
+Utah, they all thought he was Ambassador to France. When he disappeared, Mama
+and I came back through the triple-bolted door that led from our apt in 1975 to
+our horsebarn in 1898. We returned to the dusty streets of New Jerusalem, and I
+had to keep on reminding myself that I was supposed to have been in France, and
+"polly-voo" for my chums, and tell whoppers about the Eiffel Tower and the fancy
+bread and the snails and frogs we'd eaten.
+
+I was born in New Jerusalem, and raised there till I was ten. Then, one summer's
+day, my Pa sat me on his knee and told me we'd be going away for a while, that
+he had a new job.
+
+"But what about the store?" I said, scandalised. My Pa's wonderful store, the
+only General Store in town not run by the Saints, was my second home. I'd spent
+my whole life crawling and then walking on the dusty wooden floors, checking
+stock and unpacking crates with waybills from exotic places like Salt Lake City
+and even San Francisco.
+
+Pa looked uncomfortable. "Mr Johnstone is buying it."
+
+My mouth dropped. James H Johnstone was as dandified a city-slicker as you'd
+ever hope to meet. He'd blown into town on the weekly Zephyr Speedball, and skinny
+Tommy Benson had hauled his three huge steamer trunks to the cowboy hotel. He'd
+tipped Tommy two dollars, in Wells-Fargo notes, and later, in the empty lot
+behind the smithy, all the kids in New Jerusalem had gathered 'round Tommy to
+goggle at the small fortune in queer, never-seen bills.
+
+"Pa, no!" I said, without thinking. I knew that if my chums ordered their
+fathers around like that, they'd get a whipping, but my Pa almost never whipped
+me.
+
+He smiled, and stretched his thick moustache across his face. "James, I know you
+love the store, but it's already been decided. Once you've been to France,
+you'll see that it has wonders that beat anything that store can deliver."
+
+"Nothing's better than the store," I said.
+
+He laughed and rumpled my hair. "Don't be so sure, son. There are more things in
+heaven and earth then are dreamed of in your philosophy." It was one of his
+sayings, from Shakespeare, who he'd studied back east, before I was born. It
+meant that the discussion was closed.
+
+I decided to withhold judgement until I saw France, but still couldn't shake the
+feeling that my Pa was going soft in the head. Mr Johnstone wasn't fit to run an
+apple-cart. He was short and skinny and soft, not like my Pa, who, as far as I
+was concerned, was the biggest, strongest man in the whole world. I loved my Pa.
+
+#
+
+Well, when we packed our bags and Pa went into the horsebarn to hitch up our
+team, I figured we'd be taking a short trip out to the train station. All my
+chums were waiting there to see us off, and I'd promised my best pal Oly
+Sweynsdatter that I'd give him my coonskin cap to wear until we came back. But
+instead, Pa rode us to the edge of town, where the road went to rutted trail and
+salt flats, and there was Mr James H Johnstone, in his own fancy-pants trap. Pa
+and me moved our luggage into Johnstone's trap and got inside with Mama and
+hunkered down so, you couldn't see us from outside. Mama said, "You just hush up
+now, James. There's parts of this trip that we couldn't tell you about before we
+left, but you're going to have to stay quiet and hold onto your questions until
+we get to where we're going."
+
+I nearly said, "To where we're going?" but I didn't, because Mama had never
+looked so serious in all my born days. So I spent an hour hunkered down in
+there, listening to the clatter of the wheels and trying to guess where we were
+going. When I heard the trap stop and a set of wooden doors close, all my
+guesses dried up and blew away, because I couldn't think of anywhere we would've
+heard those sounds out in the desert.
+
+So imagine my surprise when I stood up and found us right in our very own
+horsebarn, having made a circle around town and back to where we'd started from!
+Mama held a finger up to her lips and then took Mr Johnstone's soft, girlish
+hand as he helped her down from the trap.
+
+My Pa and Mr Johnstone started shifting one of the piles of hay-bales that
+stacked to the rafters, until they had revealed a triple-bolted door that looked
+new and sturdy, fresh-sawn edges still bright and yellow, and not the weathered
+brown of the rest of the barn.
+
+Pa took a key ring out of his vest pocket and unlocked the door, then swung it
+open. Each of us shouldered our bags and walked through, in eerie silence, into
+a pitch black room.
+
+Pa reached out and pulled the door shut, then there was a sharp click and we
+were in 1975.
+
+#
+
+1975 was a queer sight. Our apartment was a lozenge of silver, spoked into the
+hub of a floating null-gee doughnut. Pa did something fancy with his hands and
+the walls went transparent, and I swear, I dropped to the floor and hugged the
+nubby rubber tiles for all I was worth. My eyes were telling me that we were
+hundreds of yards off the ground, and while I'd jumped from the rafters of the
+horsebarn into the hay countless times, I suddenly discovered that I was afraid
+of heights.
+
+After that first dizzying glimpse of 1975, I kept my eyes squeezed shut and held
+on for all I was worth. After a minute or two of this, my stomach told me that I
+wasn't falling, and I couldn't hear any rushing wind, any birdcalls, anything
+except Mama and Pa laughing, fit to bust. I opened one eye and snuck a peek. My
+folks were laughing so hard they had to hold onto each other to stay up, and
+they were leaning against thin air, Pa's back pressed up against nothing at all.
+
+Cautiously, I got to my feet and walked over to the edge. I extended one finger
+and it bumped up against an invisible wall, cool and smooth as glass in winter.
+
+"James," said my Pa, smiling so wide that his thick moustache stretched all the
+way across his face, "welcome to 1975."
+
+#
+
+Pa's ambassadorial mission meant that he often spent long weeks away from home,
+teleporting in only for Sunday dinner, the stink of aliens and distant worlds
+clinging to him even after he washed up. The last Sunday dinner I had with him,
+Mama had made mashed potatoes and corn bread and sausage gravy and turkey,
+spending the whole day with the wood-fired cooker back in 1898 (actually, it was
+1901 by then, but I always thought of it as 1898). She'd moved the cooker into
+the horsebarn after a week of wrestling with the gadgets we had in our 1975
+kitchen, and when Pa had warned her that the smoke was going to raise questions
+in New Jerusalem, she explained that she was going to run some flexible exhaust
+hose through the door into 75 and into our apt's air-scrubber. Pa had shook his
+head and smiled at her, and every Sunday, she dragged the exhaust pipe through
+the door.
+
+That night, Pa sat down and said grace, and he was in his shirtsleeves with his
+suspenders down, and it almost felt like home -- almost felt like a million
+Sunday dinners eaten by gaslight, with a sweaty pitcher of lemonade in the
+middle of the table, and seasonal wildflowers, and a stinky cheroot for Pa
+afterwards as he tipped his chair back and rested one hand on his belly, as if
+he couldn't believe how much Mama had managed to stuff him this time.
+
+"How are your studies coming, James?" he asked me, when the robutler had
+finished clearing the plates and clattered away into its nook.
+
+"Very well, sir. We're starting calculus now." Truth be told, I hated calculus,
+hated Isaac Newton and asymptotes and the whole smelly business. Even with the
+viral learning shots, it was like swimming in molasses for me.
+
+"Calculus! Well, well, well --" this was one of Pa's catch-all phrases, like
+"How _about_ that?" or "What do you know?" "Well, well, well. I can't believe
+how much they stuff into kids' heads here."
+
+"Yes, sir. There's an awful lot left to learn, yet." We did a subject every two
+weeks. So far, I'd done French, Molecular and Cellular Biology, Physics and
+Astrophysics, Esperanto, Cantonese and Mandarin, and an alien language whose
+name translated as "Standard." I'd been exempted from History, of course, along
+with the other kids there from the past -- the Chinese girl from the Ming
+Dynasty, the Roman boy, and the Injun kid from South America.
+
+Pa laughed around his cigar and crossed his legs. His shoes were so big, they
+looked like canoes. "There surely is, son. There surely is. And how are you
+doing with your classmates? Any tussles your teacher will want to talk to me
+about?"
+
+"No, sir! We're friendly as all get-out, even the girls." The kids in 75 didn't
+even notice what they were doing in school. They just sat down at their
+workstations and waited to have their brains filled with whatever was going on,
+and left at three, and never complained about something being too hard or too
+dull.
+
+"That's good to hear, son. You've always been a good boy. Tell you what: you
+bring home a good report this Christmas, and I'll take you to see Saturn's rings
+on vacation."
+
+Mama shot him a look then, but he pretended he didn't see it. He stubbed out his
+cigar, hitched up his suspenders, and put on his tailcoat and tophat and
+ambassadorial sash and picked up his leather case.
+
+"Good night, son. Good night, Ulla. I'll see you on Wednesday," he said, and
+stepped into the teleporter.
+
+That was the last time I ever saw him.
+
+#
+
+"He died from bad snails?" Oly Sweynsdatter said to me, yet again.
+
+I balled up a fist and stuck it under his nose. "For the last time, yes. Ask me
+again, and I'll feed you this."
+
+I'd been back for a month, and in all that time, Oly had skittered around me
+like a shy pony, always nearby but afraid to talk to me. Finally, I'd grabbed
+him and shook him and told him not to be such a ninny, tell me what was on his
+mind. He wanted to know how my Pa had died, over in France. I told him the
+reason that Mama and Mr Johnstone and the man from the embassy had worked out
+together. Now, I regretted it. I couldn't get him to shut up.
+
+"Sorry, all right, sorry!" he said, taking a step backwards. We were in the
+orchard behind the schoolyard, chucking rotten apples at the tree-trunks to
+watch them splatter. "Want to hear something?"
+
+"Sure," I said.
+
+"Tommy Benson's sweet on Marta Helprin. It's disgusting. They hold hands -- _in
+church_! None of the fellows will talk to him."
+
+I didn't see what the big deal was. Back in 75, we had had a two-week session on
+sexual reproduction, like all the other subjects. Most of the kids there were
+already in couples, sneaking off to low-gee bounceataria and renting private
+cubes with untraceable cash-tokens. I'd even tussled with one girl, Katebe
+M'Buto, another exchange student, from United Africa Trading Sphere. I'd picked
+her up at her apt, and her father had even shaken my hand -- they grow up fast
+in UATS. Of course, I'd never let on to my folks. Pa would've broken an axle.
+"That's pretty disgusting, all right," I said, unconvincingly.
+
+"You want to go down to the river? I told Amos and Luke that I'd meet them after
+lunch."
+
+I didn't much feel like it, but I didn't know what else to do. We walked down to
+the swimming hole, where some boys were already naked, swimming and horsing
+around. I found myself looking away, conscious of their nudity in a way that I'd
+never been before -- all the boys in town swam there, all summer long.
+
+I turned my back to the group and stripped down, then ran into the water as
+quick as I could.
+
+I paddled around a little, half-heartedly, and then I found myself being pulled
+under! My sinuses filled with water and I yelled a stream of bubbles, and closed
+my mouth on a swallow of water. Strong hands pulled at my ankles. I kicked out
+as hard as I could, and connected with someone's head. The hands loosened and I
+shot up like a cork, sputtering and coughing. I ran for the shore, and saw one
+of the Allen brothers surfacing, rubbing at his head and laughing. The four
+Allen boys lived on a ranch with their parents out by the salt flats, and we
+only saw them when they came into town with their folks for supplies. I'd never
+liked them, but now, I saw red.
+
+"You pig!" I shouted at him. "You stupid, rotten, pig! What the heck do you
+think you were doing?"
+
+The Allens kept on laughing -- I used to know some of their names, but in the
+time I'd been in 75, they'd grown as indistinguishable as twins: big, hard boys
+with their heads shaved for lice. They pointed at me and laughed. I scooped up a
+flat stone from the shore and threw it at the head of the one who'd pulled me
+under, as hard as I could.
+
+Lucky for him -- and me! -- I was too angry to aim properly, and the stone hit
+him in the shoulder, knocking him backwards. He shouted at me -- it was like a
+roar of a wild animal -- and the four brothers charged.
+
+Oly appeared at my side. "Run!" he shouted.
+
+I was too angry. I balled my fists and stood my ground. The first one shot out
+of the water towards me, and punched me so hard in the guts, I saw stars. I fell
+to the ground, gasping. I looked up at a forest of strong, bare legs, and knew
+they'd surrounded me.
+
+"It's the Sheriff!" Oly shouted. The legs disappeared. I struggled to my knees.
+
+Oly collapsed to the ground beside me, laughing. "Did you see the way they ran?
+The Sheriff never comes down to the river!"
+
+"Thanks," I said, around gasps, and started to get dressed.
+
+"Any time," he said. "Now, let's do some swimming."
+
+"No, I gotta go home and help Mama," I lied. I didn't feel like going skinny
+dipping anymore -- maybe never again.
+
+Oly gave me a queer look. "OK. See you."
+
+#
+
+I went straight home, pelting down the road as fast as I could, not even looking
+where I was going. I let the door slam behind me and took the stairs two at a
+time up to the attic ladder, then bolted the trap-door shut behind me and sat in
+the dark, with my knees in my chest.
+
+Down below, Mama let out a half-hearted, "James? Is that you?" like she always
+did since I came back home. I ignored her, like always, and she stopped worrying
+about it, like always.
+
+Pa's last trip had been to the Dalai Lama's court in 1975. The man from the
+embassy said that he was going to talk with the monks about a "white-paper that
+the two embassies were jointly presenting on the effect of mimetic
+ambassadorships on the reincarnated soul." It was all nonsense to me. He'd never
+arrived. The teleporter said that it had put him down gentle as you like on the
+floor of the Lama's floating castle over the Caspian Sea, but the monks never
+saw him.
+
+And that was that.
+
+It had been a month since our return. I'd ventured out into town and looked up
+my chums, and found them so full of gossip that didn't mean anything to me; so
+absorbed with games that seemed childish to me; so strange, that I'd retreated
+home. I'd prowled around our house like a burglar at first, and when I came back
+to the attic, all the numbness that had enveloped me since the man from the
+State Department had teleported into our apt melted away and I started bawling.
+
+The attic had always been Pa's domain. He'd come up here with whatever crackpot
+invention he'd ordered this month out of a catalog or one of the expensive,
+foreign journals he subscribed to, and tinker and swear and hit his thumbnail
+and tear his pants on a stray dingus and smoke his cheroots and have a heck of a
+time.
+
+The muffled tread of his feet and the distant cursing while I sat in the parlour
+downstairs had been the homiest sound I knew. Mama and I would lock eyes every
+time a particularly forceful round of hollers shook down, and Mama would get a
+little smile and her eyes would crinkle, and I felt like we were sharing a
+secret.
+
+Now, the attic was my private domain: there was the elixir shelf, full of patent
+medicines, hair-tonics, and soothing syrups. There was the bookcase full of wild
+theories and fantastic adventure stories. There were the crates full of
+dangerous, coal-fired machines -- an automatic clothes-washing-machine, a
+cherry-pitter, and other devices whose nature I couldn't even guess at. None of
+them had ever worked, but I liked to run my hands over them, feel the smooth
+steel of their parts, disassemble and reassemble them. Back in 75, I'd once
+tried to take the robutler apart, just to get a look at how it was all put
+together, but it was a lost cause -- I couldn't even figure out how to get the
+cover off.
+
+I walked through the cool dark, the only light coming from the grimy attic
+window, and fondled each piece. I picked up an oilcan and started oiling the
+joints and bearings and axles of each machine in turn. Pa would have wanted to
+know that everything was in good working order.
+
+#
+
+"I think you should be going to school, James," Mama said, at breakfast. I'd
+already done my morning chores, bringing in the coal, chopping kindling, taking
+care of the milch-cows and making my bed.
+
+I took another forkful of sausage, and a spoonful of mush, chewed, and looked at
+my plate.
+
+"It's time, it's time. You can't spend the rest of your life sulking around
+here. Your father would have wanted us to get on with our lives."
+
+Even though I wasn't looking at her when she said this, I knew that her eyes
+were bright with tears, the way they always got when she mentioned Pa. His chair
+sat, empty, at the head of the table. I had another bite of sausage.
+
+"James Arthur Nicholson! Look at me when I speak to you!"
+
+I looked up, reflexively, as I always did when she used my full name. My eyes
+slid over her face, then focused on a point over her left shoulder.
+
+"Yes'm."
+
+"You're going to school. Today. And I expect to get a good report from Mr
+Adelson."
+
+"Yes'm."
+
+#
+
+We have two schools in New Jerusalem: the elementary school that was built
+twenty years before, when they put in the wooden sidewalks and the town hall;
+and the non-denominational Academy that was built just before I left for 1975.
+
+Miss Tannenbaum, a spinster lady with a moustache and a bristling German accent
+terrorised the little kids in the elementary school -- I'd been stuck in her
+class for five long years. Mr Adelson, who was raised in San Francisco and who
+had worked as a roustabout, a telegraph operator and a merchant seaman taught
+the Academy, and his wild stories were all Oly could talk about.
+
+He raised one eyebrow quizzically when I came through the door at 8:00 that
+morning. He was tall, like my Pa, but Pa had been as big as an ox, and Mr
+Adelson was thin and wiry. He wore rumpled pants and a shirt with a wilted
+celluloid collar. He had a skinny little beard that made him look like a
+gentleman pirate, and used some shiny pomade to grease his hair straight back
+from his high forehead. I caught him reading, thumbing the hand-written pages of
+a leatherbound volume.
+
+"Mr Adelson?"
+
+"Why, James Nicholson! What can I do for you, sonny?" New Jerusalem only had but
+2,000 citizens, and only a hundred or so in town proper, so of course he knew
+who I was, but it surprised me to hear him pronounce my name in his creaky,
+weatherbeaten voice.
+
+"My mother says I have to go to the Academy."
+
+"She does, hey? How do you feel about that?"
+
+I snuck a look at his face to see if he was putting me on, but I couldn't tell
+-- he'd raised up his other eyebrow now, and was looking hard at me. There might
+have been the beginning of a smile on his face, but it was hard to tell with the
+beard. "I guess it don't matter how I feel."
+
+"Oh, I don't know about that. This is a school, not a prison, after all. How old
+are you?"
+
+"Fourteen. Sir."
+
+"That would put you in with the seniors. Do you think you can handle their
+course of study? It's half-way through the semester now, and I don't know how
+much they taught you when you were over in," he swallowed, "France."
+
+I didn't know what to say to that, so I just stared at my hard, uncomfortable
+shoes.
+
+"How are your maths? Have you studied geometry? Basic algebra?"
+
+"Yes, sir. They taught us all that." And lots more besides. I had the feeling of
+icebergs of knowledge floating in my brain, ready to crest the waves and crash
+against the walls of my skull.
+
+"Very good. We will be studying maths today in the seniors' class. We'll see how
+you do. Is that all right?"
+
+Again, I didn't know if he was really asking, so I just said, "Yes, sir."
+
+"Marvelous. We'll see you at the 8:30 bell, then. And James --" he paused,
+waited until I met his gaze. His eyebrows were at rest. "I'm sorry about your
+father. I'd met him several times. He was a good man."
+
+"Thank you, sir," I said, unable to look away from his stare.
+
+#
+
+The first half of the day passed with incredible sloth, as I copied down
+problems to my slate and pretended to puzzle over them before writing down the
+answer I'd known the minute I saw the question.
+
+At lunch I found a seat at the base of the big willow out front of the school
+and unwrapped the waxed paper from the thick ham sandwich Mama had fixed me. I
+munched it and conjugated Latin verbs in my head, trying to make the day pass.
+Oly and the fellows were roughhousing in the yard, playing follow-the-leader
+with Amos Gundersen out front, showing off by walking on his hands and then
+springing upright. Amos' mother came from circus people in Russia, and all the
+kids in his family wanted to be acrobats when they grew up.
+
+I tried not to watch them.
+
+I was engrossed in a caterpillar that was crawling up my pants-leg when Mr
+Adelson cleared his throat behind me. I started, and the caterpillar tumbled to
+the ground, and then Mr Adelson was squatting on his long haunches at my side.
+
+"How are you liking your first day, James?" he asked, in his raspy voice.
+
+"It's fine, sir."
+
+"And the work? You're able to keep up with the class?"
+
+"It's not a problem for me. We studied this when I was away."
+
+"Are you bored? Do you need more of a challenge?"
+
+"It's fine, sir." _Unless you want to assign me some large-prime factoring
+problems_.
+
+"Right, then. Don't hesitate to call on me if things are moving too slowly or
+too quickly. I mean that."
+
+I snuck another look at him. He seemed sincere.
+
+"Why aren't you playing with your chums?"
+
+"I don't feel like it."
+
+"You just wanted to think?"
+
+"I guess so." Why wouldn't he just leave me alone?
+
+"It's hard to come home, isn't it?"
+
+I stared at my shoes. What did he know about it?
+
+"I've been around the world, you know that? I sailed with a tramp steamer, the
+_Slippery Trick_. I saw the naked savages of Polynesia, and the voodoo witches
+that the freed slaves of the Caribbean worship, and the coolies pulling
+rickshaws in Peking. It was so _hard_ to come home to Frisco, after five years
+at sea."
+
+To my surprise, he sat down next to me, in the dirt and roots at the base of the
+tree. "You know, aboard the _Trick_, they called me Runnyguts -- I threw up
+every hour for my first month. I was more reliable than the Watch! But they
+didn't mean anything by it. When you live with a crew for years, you become a
+different person. We'd be out at sea, nothing but water as far as the eye could
+see, and we'd be playing cards on-deck. We'd told each other every joke we knew
+already, and every story about home, and we knew that deck of cards so well,
+which one had salt-water stains on the back and which one turned up at corner
+and which one had been torn, and we'd just scream at the sun, so bored! But then
+we'd put in to port at some foreign city, and we'd come down the plank in our
+best clothes, twenty men who knew each other better than brothers, hard and
+brown from months at sea, and it felt like whatever happened in that strange
+port-of-call, we'd come out on top."
+
+"And then I came back to the Frisco, and the Captain shook my hand and gave me a
+sack of gold and saw me off, and I'd never felt so alone, and I'd never seen a
+place so foreign.
+
+"I went back to my old haunts, the saloons where I'd gone for a beer after a
+day's work at the docks, and the dance-halls, and the theatres, and I saw my old
+chums. That was hard, James."
+
+He stopped then. I found myself saying, "How was it hard, Mr Adelson?"
+
+He looked surprised, like he'd forgotten that he was talking to me. "Well,
+James, it's like this: when you're away that long, you get to invent yourself
+all over again. Of course, everyone invents themselves as they grow up. Your
+chums there --" he gestured at the boys, who were now trying, with varying
+success, to turn somersaults, dirtying their school clothes "-- they're
+inventing themselves right now, whether they know it or not. The smart one, the
+strong one, the brave one, the sad one. It's going on while we watch!
+
+"But when you go away, nobody knows you, and you can be whoever you want. You
+can shed your old skin and grow a new one. When we put out to sea, I was just a
+youngster, eighteen years old and fresh from my Pa's house. He was a cablecar
+engineer, and wanted me to follow in his shoes, get an apprenticeship and join
+him there under the hills, oiling the giant pulleys. But no, not me! I wanted to
+put out to sea and see the world. I'd never been out of the city, can you
+believe that? The first port where I took shore leave was in Haiti, and when I
+stepped onto the dock, it was like my life was starting all over again. I got a
+tattoo, and I drank hard liquor, and gambled in the saloons, and did all the
+things that a man did, as far as I was concerned." He had a faraway look now,
+staring at the boys' game without seeing it. "And when I got back on-board, sick
+and tired and broke, there was a new kid there, a negro from Port-Au-Prince
+who'd signed on to be a cabin boy. His name was Jean-Paul, and he didn't speak a
+word of English and I didn't speak a word of French. But I took him under my
+wing, James, and acted like I'd been at sea all my life, and showed him the
+ropes, and taught him to play cards, and bossed him around, and taught him
+English, one word at a time.
+
+"And that became the new me. Every time a new hand signed on, I would be his
+teacher, his mentor, his guide.
+
+"And then I came home.
+
+"As far as the folks back home were concerned, I was the kid they'd said
+good-bye to five years before. My father thought I was still a kid, even though
+I'd fought pirates and weathered storms. My chums wanted me to be the kid I'd
+been, and do all the boring, kid things we'd done before I left -- riding the
+trolleys, watching the vaudeville shows, fishing off the docks.
+
+"Even though that stuff was still fun, it wasn't _me_, not anymore. I missed the
+old me, and felt him slipping away. So, you know what I did?"
+
+"You moved to New Jerusalem?"
+
+"I moved to New Jerusalem. Well, to Salt Lake City, first. I studied with the
+Jesuits, to be a teacher, then I saw an ad for a teacher in the paper, and I
+packed my bag and caught the next train. And here I am, not the me that came
+home from sea, and not the me who I was before I went to sea, but someone in
+between, a new me -- teaching, but on dry land, and not chasing dangerous
+adventures, but still reading my old log-book and smiling."
+
+We sat for a moment, in companionable silence. Then, abruptly, he checked his
+pocket watch and yelped. "Damn! Lunch was over twenty minutes ago!" He leapt to
+his feet, as smoothly as a boy, and ran into the schoolhouse to ring the bell.
+
+I folded up the waxed-paper, and thought about this adult who talked to me like
+an adult, who didn't worry about swearing, or telling me about his adventures,
+and I made my way back to class.
+
+It went better, the rest of that day.
+
+#
+
+In 75, Pa had almost never been home, but his presence was always around us.
+
+I'd call the robutler out of its closet and have it affix its electrode
+fingertips to my temples and juice my endorphins after a hard day at school, and
+when I was done, the faint smell of Pa's hair-oil, picked up from the 'trodes
+and impossible to be rid of, would cling to me. Or I'd sit down on the oubliette
+and find one of Pa's journals from back home, well-thumbed and open to an
+article on mental telepathy. We did ESP in school, and it was all about a race
+of alien traders who communicated in geometric thought pictures that took
+forever to translate. We'd never learned about Magnetism and Astral Projection
+and all the other things Pa's journals were full of.
+
+And while I never doubted the things in Pa's journals, I never brought them up
+in class, neither. There were lots of different kinds of truth.
+
+"James?"
+
+"Yes, Mama?" I said, on my way out to chop kindling.
+
+"Did you finish your homework?"
+
+"Yes, Mama."
+
+"Good boy."
+
+Homework had been some math, and some biology, and some geology. I'd done it
+before I left school.
+
+#
+
+The report cards came out in the middle of December. Mr Adelson sealed them with
+wax in thick brown envelopes and handed them out at the end of the day. Sealing
+them was a dirty trick -- it mean a boy would have to go home not knowing
+whether to expect a whipping or an extra slice of pie, and the fellows were as
+nervous as long-tailed cats in a rocking-chair factory when class let out. For
+once, there was no horseplay afterwards.
+
+I came home and tossed the envelope on the kitchen table without a moment's
+worry. I'd aced every test, I'd done every take-home assignment, I'd led the
+class, in a bored, sleepy way, regurgitating the things they'd stuck in my brain
+in 1975.
+
+I went up to the attic and started reading one of Pa's adventure stories,
+_Tarzan of the Apes_, by the Frenchman, Jules Verne. Pa had all of Verne's
+books, each of them crisply autographed on the inside cover. He'd met Verne on
+one of his diplomatic missions, and the two had been like two peas in a pod, to
+hear him tell of it -- they both subscribed to all the same crazy journals.
+
+I was reading my favorite part, where Tarzan meets the man in the balloon, when
+Mama's voice called from downstairs. "James Arthur Nicholson! Get your behind
+down here _now_!"
+
+I jumped like I was stung and rattled down the attic stairs so fast I nearly
+broke my neck and then down into the parlour, where Mama was holding my report
+card and looking fit to bust.
+
+"Yes, Mama?" I said. "What is it?"
+
+She handed me the report card and folded her arms over her chest. "Explain that,
+mister. Make it good."
+
+I read the card and my eyes nearly jumped out of my head. The rotten so-and-so
+had given me F's all the way down, in every subject. Below, in his seaman's
+hand, he'd written, "James' performance this semester has disappointed me
+gravely. I would like it very much if I could meet with you and he, Mrs
+Nicholson, at your earliest convenience, to discuss his future at the Academy.
+Signed, Rbt. Adelson."
+
+Mama grabbed my ear and twisted. I howled and dropped the card. Before I knew
+what was happening, she had me over her knee and was paddling my bottom with her
+open hand, hard.
+
+"I don't" -- whack -- "know _what_" -- whack -- "you think" -- whack -- "you're
+doing, James." -- whack -- "If your _father_" -- whack, _whack_ -- "were here,"
+-- whack -- "he'd switch you" -- whack -- "within an inch of your life." And she
+gave me a load more whacks.
+
+I was too stunned even to cry or howl. Pa had only beat me twice in all the time
+I'd known him. Mama had _never_ beat me. My bottom ached distantly, and I felt
+tears come to my eyes.
+
+"Well, what do you have to say for yourself?"
+
+"Mama, it's a mistake --" I began.
+
+"You're durn right!" she said.
+
+"No, really! I did all my homework! I passed all the exams! I showed 'em to you!
+You saw 'em!" The unfairness of it made my heart hammer in time to the throbbing
+of my backside.
+
+Mama's breath fumed angrily out of her nose. "You go straight to your room and
+_stay there_. We're going to see Mr Adelson first thing tomorrow morning."
+
+"What about my chores?" I said.
+
+"Oh, don't worry about that. You'll have _plenty_ of chores to do when I let you
+out."
+
+I went to my room and stripped down, and lay on my tummy and cracked my window
+so the icy winter air blew over my backside. I cried a vale of tears, and rained
+down miserable, mean curses on everyone: Mama, Pa, and especially the lying,
+snaky, backstabbing Runnyguts Adelson.
+
+#
+
+Mama didn't get any less mad through the night, but when she came to my door at
+cock-crow, she seemed to be holding it in better. My throat and eyes were sore
+as sandpaper from crying, and Mama gave me exactly five minutes to wash up and
+dress before dragging me out to the horsebarn. She'd already hitched up our team
+and refused my hand when I tried to help her up.
+
+I'd been angry and righteous when I woke, but seeing Mama's towering, barely
+controlled fury changed my mood to dire terror. I stared out at the trees and
+farms as we rode into town, feeling like a condemned man being taken to the
+gallows.
+
+Mama pulled up out front of the Academy and marched me around back to the
+teacher's cottage. She rapped on the door and waited, blowing clouds of steam
+out of her nose into the frosty morning air.
+
+Mr Adelson answered the door in shirtsleeves and suspenders, unshaved and
+bleary. His hair, normally neatly oiled and slicked, stuck out like frayed
+broom-straw. The muscles on his thin arms stood out like snakes. He blinked at
+us, standing on his doorstep. "Mrs Nicholson!" he said.
+
+"Mr Adelson," my mother said. "We've come to discuss James' report card."
+
+Mr Adelson smoothed his hair back and stepped aside. "Please, come in. Can I
+offer you some coffee?"
+
+"No, thank you," Mama said, primly, standing in his foyer. He held out his hand
+for her coat and kerchief and she handed them to him. I took off my coat and
+struggled out of my boots. He took them both and put them away in a closet.
+
+"I'm going to have some coffee. Are you sure I can't offer you a cup?"
+
+"No. Thank you, all the same."
+
+"As you wish." He disappeared down the dark hallway, and Mama and I found our
+way into his tiny parlour. Books were stacked every which where, dusty and
+precarious. Mama and I sat down in a pair of cushioned chairs, and Mr Adelson
+came in, holding two mugs of coffee. He set one down next to Mama on the floor,
+then smacked himself in the forehead. "You said no, didn't you? Sorry, I'm not
+quite awake yet. Well, leave it there -- there's cream in it, maybe the cat will
+have some."
+
+He settled himself onto another chair and sipped at his coffee. "Let's start
+over, shall we? Hello, Mrs Nicholson. Hello, James. I understand you're here to
+discuss James' report card."
+
+Mama sat back a little in her chair and let hint of a sardonic smile show on her
+face. "Yes, we are. Forgive my coming by unannounced."
+
+"Oh, it's nothing."
+
+Mr Adelson drank more coffee. Mama smoothed her skirts. I kicked my feet against
+the rungs of my chair. Finally, it was too much for me. "What's the big idea,
+anyway?" I said, glaring daggers at him. "I don't deserve no F!"
+
+"Any F," Mr Adelson corrected. "Why don't you think so?"
+
+"Well, because I did all my homework. I gave the right answers in class. I
+passed all the tests. It ain't fair!"
+
+"Not fair," my Mama corrected, gently. She was staring distractedly at Mr
+Adelson.
+
+"What you say is true enough, James. What grade do you suppose you should've
+gotten?"
+
+"Why, an A! An A-plus! Perfect!" I said, glaring again at him, daring him to say
+otherwise.
+
+"Is that what an A-plus is for, James? Perfection?"
+
+"Sure," I said, opening my mouth without thinking.
+
+Mama shifted her stare to me. She was looking even more thoughtful.
+
+"Why do you suppose you go to school?"
+
+"'Cause Mama says I have to," I said, sullenly.
+
+"James!" Mama said.
+
+"Oh, I suppose it's to learn things," I said.
+
+Mr Adelson smiled and nodded, the way he did when one of the students got the
+right answer in class. "Well?"
+
+"Well, what?" I said.
+
+"What did you learn this semester?"
+
+"Why, everything you taught! Geometry! Algebra! Latin! Geography! Biology!
+Physics! Grammar!"
+
+"I see," he said. "James, what's the formula for determining the constant in the
+second derivative of an equation?"
+
+I knew that one: it was one of Newton's dirty calculus proofs. "It's a trick
+question. There's no way to get the constant of second derivative."
+
+"Exactly right," he said.
+
+"Yes," I said, and folded my arms across my chest.
+
+"Where did you learn that?"
+
+"In --" I started to say 1975, but caught myself. "In France."
+
+"Yes."
+
+"Yes," I said. The fingers of dawn crept across my comprehension. "Oh."
+
+Mama smiled at me.
+
+"But it's not fair! So what if I already knew everything before I started? I
+still did all the work."
+
+"Why are you in school, James?" Mr Nicholson asked me again.
+
+"To learn."
+
+"Well, then I think you'd better start learning something, don't you? You're the
+brightest student in the class. You're certainly smarter than I am -- I'm just
+an old sailor struggling along with the rest of the class. But you, you've _got
+it_. You've been marking time in class all semester, and I daresay you haven't
+learned a single thing since you started. That's why you got F's."
+
+"Mr Adelson," Mama said. "Am I to understand that James performed all his
+assignments satisfactorily?"
+
+It was Mr Adelson's turn to squirm. "Yes, but madam, you have to understand --"
+
+Mama waved aside his objections. "If James satisfactorily completed all the work
+assigned to him, then I think he should have a grade that reflects that, don't
+you?" She took a sip of her coffee.
+
+"Yes, well --"
+
+"However, you do have a point. I didn't send my son to your school so that he
+could mark time, as you put it. I sent him there to learn. To be _taught_. Have
+you taught him anything, Mr Adelson?"
+
+Mr Adelson looked so all-fired sad, I forgave him the report card and spoke up.
+"Yes, Mama."
+
+Mama swiveled her head to me. "Really?"
+
+"Yes. He taught me what I was at school for. Just now."
+
+"I see," Mama said. "This is very good coffee, Mr Adelson."
+
+"Thank you," he said, and sipped at his.
+
+"James," Mr Adelson said. "You've learned your first lesson. What do you propose
+your second should be?"
+
+"I dunno," I said, and went back to kicking the rungs of the chair.
+
+"What is it that you have been doing since you came back to town, son?" he
+asked.
+
+"Hanging around in the attic, mostly. Reading. Tinkering. Like my Pa."
+
+"My husband's machines and journals are up there," Mama explained.
+
+"And his books," I said.
+
+"Books?" Mr Adelson looked suddenly interested. "What kind of books?"
+
+"Adventure stories. Stevenson. Wells. Some of it's in French. We have all of
+Verne."
+
+"Well, perhaps that can be your next assignment. I would like to see an original
+composition of no less than twenty pages, discussing each work of Verne's,
+charting his literary progress. Due January fifth, please."
+
+"Twenty pages!" I said. "But it's the holidays!"
+
+"Very well. Whatever length the piece turns out is fine. But be sure you do
+justice to each work."
+
+#
+
+By the time I got through with the assignment, it was thirty-eight pages long. I
+never thought I could write that much but it kept on coming, new thoughts about
+each book, each scene, the different worlds Verne had built: the fantastic
+slopes of Barsoom, the sinister Island of Dr Moreau. . . Each one spawned a new
+insight. I felt like the Verne's detective, Sherlock Holmes, assembling all of
+the seemingly insignificant details into some kind of coherent picture, finding
+the improbable links between the wildly different stories the Frenchman told.
+
+Mama was thrilled to see me working, papers spread out all around me on the
+kitchen table -- I could've used Pa's study, but it felt like an invasion,
+somehow -- writing until my wrists cramped. She let me get away without doing my
+chores, rising early to milk the cow, bringing in the eggs from the henhouse,
+even chopping the kindling. Just so long as I was writing, she was happy to let
+me go on shirking my responsibilities.
+
+Even on Christmas Eve, I was too distracted to really enjoy the smells of goose
+and ham and the stuffing Mama spent days preparing. I was still writing when she
+told me to go change and set the table for three.
+
+"We're having Mr Johnston to dinner," she said.
+
+I made a face. Mr Johnston was the only one in town that I could have talked to
+about my time in 1975, but I never did. He had a way of bossing a fellow around
+while seeming to be nice to him. He still ran Pa's store, using ladders to reach
+the high shelves that Pa had just plucked things off of. I had to see him when
+Mama sent me on errands there, but I made sure that I left as quickly as I
+could. Mama kept saying that I should ask him for a job, but I was pretty good
+at changing the subject whenever it came up.
+
+I put away my papers and changed into my Sunday clothes. I'd been hinting to
+Mama lately that a boy just wasn't complete without a puppy, so I put an extra
+shine on my shoes and said a quick prayer that I wouldn't find socks and
+picture-books under the tree.
+
+Mr Johnstone arrived with a double-armload of gifts. Well, he _did_ run my Pa's
+store, after all, so he could get things wholesale. I took his parcels from him
+and set them under the tree. Then that dandified sissy actually _kissed_ my Mama
+on the cheek, lifting a sprig of mistletoe up with one hand. When Pa and Mama
+stood together, she'd barely come up to his shoulder, while Mr Johnstone had to
+stand on tiptoe to get the mistletoe over their heads. "Merry Christmas, Ulla,"
+he said.
+
+She took his hands and said, "Merry Christmas, James."
+
+I wanted to be sick.
+
+#
+
+Mr Johnstone had a whiskey in our parlour before we ate, sitting in my Pa's
+chair, smoking a cigar from my Pa's humidor. Mama ordered me to keep him company
+while she set out the meal.
+
+"Do they call you Jimmy?" he asked me, staring down his long, pointy nose.
+
+"No, sir. James."
+
+"It's a fine name, isn't it? Served me well, man and boy." He made a face that
+was supposed to be funny, like he'd bit into a lemon.
+
+"I like it fine, sir."
+
+"Are you having any problems adjusting, now that you're home? Finding it hard to
+relate to the other fellows?"
+
+"No, sir."
+
+"You don't find it strange, after seeing 1975?"
+
+"No, sir. It's home."
+
+"Ha!" he said, as though I'd said something profound. "I guess it is, at that.
+Say, why don't you come by the store some time? I just got some samples from a
+new candy company in Oregon, and I need to get an unbiased opinion before I
+order." He gave me a pinched smile, like he thought he was Santa Claus.
+
+"Mama doesn't like me eating sweets," I said, and stared at my reflection in my
+shoes.
+
+Mama rescued me by coming into the parlour then, looking young and pretty in her
+best dress. "Dinner is served, gentlemen."
+
+We followed her into the dining room, and Mr Johnstone took my Pa's seat at the
+head of the table and carved the goose. Even though the bird was brown and
+juicy, I found I didn't have any appetite.
+
+"I have word from Pondicherry," Mr Johnstone said, as he poured gravy over his
+second helping of mashed potatoes.
+
+"Yes?" Mama said.
+
+"Who's he?" I asked.
+
+"Your father's successor," Mr Johnstone said. "A British officer from New Delhi.
+A fat little man, and awfully full of himself."
+
+I repressed a snort. For my money Mr Johnstone was as full of himself as one man
+could be. I couldn't imagine a blacker kettle.
+
+"He says that Nussbaum, from 1952 New York, has rolled back relations with
+extraterrestrials by fifty years. He sold a Centurian half a million defective
+umbrellas from his brother-in-law's factory. The New Yorkers are all defending
+him. _Caveat emptor_."
+
+"I never could keep track of who was friendly and who wasn't," Mama said. "It
+was all Greek to me. Politics."
+
+Mr Johnstone opened his mouth to explain, but Mama held up one hand. "No, no, I
+don't _want_ to understand. Les used to lecture me about this from dawn to
+dusk." She smiled a little sad smile and stared off at the cabbage-roses on our
+dining-room walls. Mr Johnstone put one hand over hers.
+
+"He was a good man, Ulla."
+
+Mama stood and smoothed her skirts. "I'll get dessert."
+
+#
+
+I didn't get a puppy. Mr Johnstone gave me an air-rifle that I was sure Mama
+would have fits over, but she just smiled. She gave me a beautiful fountain-pen
+and a green blotter and a ream of creamy, thick paper.
+
+The pen made the most beautiful, jet-black marks, and the paper drank it up like
+a thirsty man in the desert. I recopied my essay the next day, sitting with Mama
+in the parlour while she darned socks. Mr Johnstone had given her a tin of
+cosmetics from Paris, that he'd ordered in special. I'd heard Mama say that only
+dancehall girls wore makeup, but she blushed when he gave it to her. I gave her
+a carving I'd done, of the robutler we'd had in 75. I'd whittled it out of a
+block of pine, and sanded it and oiled it until it was as smooth as silk.
+
+Oly Sweynsdatter came by after supper and asked if I wanted to go out and play
+with the fellows. To my surprise, I found I did. We had a grand afternoon
+pelting each other with snow-balls, a game that turned into a full-scale war, as
+all the older boys back from high-school came out and joined in, and then,
+later, all the men, even the Sheriff and Mr Adelson. I never laughed so much in
+all my life, even when I got one right in the ear.
+
+Mr Adelson led a charge of adults against the fort that most of the Academy boys
+were hiding behind, but I saw him planning it and started laying in ammunition
+long before they made their go, and we sent them back with their tails between
+their legs. I hit him smack in the behind with one ball as he dove for cover.
+
+Oly's mother gave us both good, Svenska hot cocoa afterwards, with fresh whipped
+cream, and Oly and I exchanged gifts. He gave me a tin soldier, a Confederate
+who was caught in the act of falling over backwards, clutching his chest. I gave
+him my best marble. We followed his mother around their house, recounting the
+adventures in the snow until she told me it was time for me to go home.
+
+#
+
+School started again, and I went in early the first day to turn in my paper. Mr
+Adelson took it without comment and scanned the first few paragraphs. "Thank
+you, James, I think this will do nicely. I'll have it graded for you in the
+afternoon."
+
+I met Oly out in the orchard, where he was chopping kindling for the school's
+stove, a job we all took turns at. "I hear you might be getting a new Pa for
+Christmas," he said. He gave me a smile that meant something, but I couldn't
+guess what.
+
+"What is that supposed to mean?" I asked.
+
+"My Mama says your Mama had old man Johnstone over for Christmas dinner. And the
+widow Ott told my Mama that she'd connected one or two calls between your house
+and the store every day in the last month. My Mama says that Johnstone is
+courting your Mama."
+
+"Mrs Ott isn't supposed to talk about the calls she connects," I said, as my
+mind reeled. "It's like a telegraph operator: it's a confidential trust." Mr
+Adelson had told me that, once when he was telling me stories about his life
+before he went to sea.
+
+"So, is it true?"
+
+"No!" I said, surprising myself with my vehemence. "My Mama just didn't want him
+to be alone at Christmas."
+
+Oly swung the axe a few more times. "Well, sure. But what about all the
+telephone calls?"
+
+"That's business. The store is still partly ours. Mama's just looking after our
+interests."
+
+"If you say so," he said.
+
+I shoved him hard. I drew a line in the snow with my toe. "I _do_ say so. Step
+across the line if you say otherwise!"
+
+Oly got to his feet and looked at me. "I don't want to fight with you, James. I
+was just tellin' you what my Mama said."
+
+"Well, your Mama ought to mind her own business," I said, baiting him.
+
+That did it. He stepped over and popped me one, right in the nose. Oly and I had
+been chums since we could walk, and we'd had a few fights in our days but this
+time it was different. I was so _angry_ at him, at my Mama, at my Pa, at New
+Jerusalem, and we just kept on swinging at each other until Mr Adelson came out
+to ring the bell and separated us. My nose was sore and I was limping, and I'd
+torn Oly's jacket and bent his fingers back, so he cradled his hand in the crook
+of his arm.
+
+"Boys!" Mr Adelson said. "What the hell do you think you're doing? You're
+supposed to be friends."
+
+His language shocked me, but I was still plenty angry. "He's no friend of mine!"
+I said.
+
+"That's fine with me," Oly said and glared at me.
+
+The other kids were milling around, and Mr Adelson gave us both a look that
+could melt steel, then rang the bell.
+
+#
+
+I could hardly concentrate in class that day. My Mama getting married? A new Pa?
+It couldn't be true. But in my mind, I kept seeing my Mama and that Johnstone
+kissing under the mistletoe, and him sitting in my Pa's chair, drinking his
+whiskey.
+
+Oly's desk was next to mine, and he kept shooting me dirty looks. Finally, I
+leaned over and whispered, "Cut it out, you idiot."
+
+Oly said, "You're the idiot. I think you got your brains scrambled in France,
+James."
+
+"I'll scramble your brains!"
+
+"Gentlemen," said Mr Adelson. "Do you have something you'd like to share with
+the class?"
+
+"No sir," we said together, and exchanged glares.
+
+"James, perhaps you'd like to come up to the front and finish the lesson?"
+
+"Sir?" I said, looking at the blackboard. He'd been going through quadratics, an
+elaborate first-principles proof.
+
+"I believe you know this already, don't you? Come up to the front and finish the
+lesson."
+
+Slowly, I got up from my desk, leaving my slate on my desk, and made my way up
+to the front. Some of the kids giggled. I picked up a piece of chalk from the
+chalk-well, and started to write on the board.
+
+Mr Adelson walked back to my seat and sat down. I stopped and looked over my
+shoulder, and he gave me a little scooting gesture that meant go on. I did, and
+by the end of the hour, I found that I was enjoying myself. I stopped frequently
+for questions, and erased the board over and over again, filling it with steady
+columns of numbers and equations. I stopped noticing Mr Adelson in my seat, and
+when he stood and thanked me and told us we could eat our lunches, it seemed
+like no time at all had passed.
+
+Mr Adelson looked up from my essay. "James, I'd like to have a chat with you.
+Stay behind, please."
+
+"Sit," he said, offering me the chair at his desk. He sat on one of the
+front-row desks, and stared at me for a long moment.
+
+"What was that mess this morning all about, James?" he asked.
+
+"Oly and I had an argument," I said, sullenly.
+
+"I could see that. What was it about, if you don't mind my asking?"
+
+"He said something about my Mama," I said.
+
+"I see," he said. "Well, having met your mother, I feel confident in saying that
+she's more than capable of defending herself. Am I right?"
+
+"Yes, sir," I said.
+
+"Then we won't see a repeat?"
+
+"No, sir," I said. I didn't plan on talking to Oly ever again.
+
+"Then we'll say no more about it. Now, about this morning's lesson: you did very
+well."
+
+"It was a dirty trick," I said.
+
+He grinned like a pirate. "I suppose it was. I wouldn't have played it on you if
+I didn't have every confidence in your abilities, though." He leaned across and
+picked up my essay from his desk. "It was this that convinced me, really. This
+is as good as anything I've seen in scholarly journals. I've half a mind to send
+it to the _Idler_."
+
+"I'm just a kid!"
+
+"You're an extraordinary boy. I'm tempted to let you teach all the classes, and
+take up whittling."
+
+He said it so deadpan, I couldn't tell if he was kidding me. "Oh, you can't do
+that! I'm not nearly ready to take over."
+
+He laughed. "You're readier than you think, but I expect the town council would
+stop my salary unless I did _some_ of the work around here. Still, I think
+that's the most active I've seen you since you came to my class, and I'm running
+out of ideas to keep you busy. Maybe I'll keep you teaching maths. I'll give you
+my lesson plan to take home before school's out."
+
+"Yes, sir."
+
+#
+
+Mr Adelson gave me a stack of papers tied up with twine after he dismissed the
+class for the day. I went home and did my chores, then unwrapped the parcel in
+the parlour. The lesson plans were there, laid out, day by day, and in the
+centre of them was a smaller parcel, wrapped in coloured paper. "Merry
+Christmas," was written across it, in his hand.
+
+I opened it, and found a slim book. "War of the Worlds," by Verne. For some
+reason, it rang a bell. I thought that maybe it had been on our bookcase in 75,
+but somehow, it hadn't made it back home with us. I opened it, and read the
+inscription he'd written: "From one traveller to another, Merry Christmas."
+
+I forced myself to read the lesson plans for the next month before I allowed
+myself to start the Verne, and once I started, I found I couldn't stop. Mama had
+to drag me away for dinner.
+
+#
+
+My trip back to 1975 wasn't planned, but it wasn't an accident, either. We'd
+gotten a new load of hay in for our team, and Mama added stacking it in the
+horsebarn to my chores. I'd been consciously avoiding the horsebarn since Pa had
+disappeared. Every time I looked at it, I felt a little hexed, a little
+frightened.
+
+But Mama had a philosophy: a boy should face up to his fears. She'd been
+terrified of spiders when she was a girl, and she told me that she had made a
+point of picking up every spider she saw and letting it crawl around on her
+face. After a year of that, she said, she never met a spider that frightened
+her.
+
+Mama had been sending me to the store more and more, too, and having Mr
+Johnstone over for dinner every Friday night. She knew I didn't like him one
+little bit, and she said that I would just have to learn to live with what I
+didn't like, and if that was the only thing I learned from her, it would be
+enough.
+
+I preferred the horsebarn.
+
+I worked close to the door the first day, which is no way to do it, of course:
+if you blocked the door, it just made it harder to get at the back when the time
+came. The way to do it is to first clear out whatever hay is left over, move it
+out to the pasture, and then fill in from the back forward.
+
+Mama told me so, that first night, when she came out to inspect my work. "You
+sure must love working out here," she said. "If you do it that way, you'll be
+out here stacking for twice as long. Well, you have your fun, but I still expect
+you to be getting your homework and regular chores done. Come in and clean up
+for supper now."
+
+I jammed the pitchfork into a bale, and washed for supper.
+
+The next afternoon, I resolved to do it right. I moved the bales I'd stacked up
+by the door to a corner, and then started cleaning out the back. Before long,
+I'd uncovered the door into 1975. "James," Mama called, from the house.
+"Dinner!"
+
+I took a long look at the door. The wood on the edges had aged to the
+silvery-brown of the rest of the barn-boards, and it looked like it had been
+there forever. I could hardly remember a time when it wasn't there.
+
+I went in for supper.
+
+The next morning, I picked up my lunch and my schoolbooks, kissed Mama good-bye,
+and walked out. I stood on our porch for a long time, staring at the horsebarn.
+I remembered the brave explorers in Verne's books. I looked over my shoulder, at
+the closed door of our house, then walked slowly to the horsebarn. I swung the
+door open, then walked to the back. The triple-bolts had rusted somewhat and
+took real shoving to slide back. One of them was stubborn, so I picked up the
+rake and pried it back with the handle, thinking of how ingenious that was.
+
+I gave the door my shoulder and shoved, and it swung back, complaining on its
+hinges. On the other side was the still-familiar dark of our 1975 apartment. I
+stepped into it, and closed the door behind me.
+
+"Lights," I said, and they came on.
+
+The old place was just like the day we left it. It wasn't even dusty, and as I
+heard the familiar trundle of the robutler, I knew why. My Pa's easy chair sat
+in the parlour, with a print-out of the day's _Salt Lake City Bugler_ folded on
+the side-table. I walked to one wall and laid my palm against it, the familiar
+cool glassy stuff it was made of. "Window," I said, and wiped a line across the
+wall. Wherever my hand wiped went transparent. It was a sunny day in 1975 --
+1980, by then, but it would be 75 in my mind forever. Under the dome, Greater
+Salt Lake was warm and tranquil. I saw boys my age scooting around in jet-packs,
+dodging hover-traffic.
+
+Pa liked to open a big, square window when he came home, and sit in his easy
+chair and smoke a stinky cigar and read the paper and cluck over it -- "Well,
+well, well," he'd say, and "How _about_ that?" Sometimes, he'd have a tumbler of
+whiskey. He'd given me some, once, and the stuff had burned like turpentine and
+I swore I wouldn't try it again for a long, long time.
+
+I sat in Pa's easy chair and snapped up the newspaper, the way he used to.
+"Panorama," I said, and Pa's square window opened before me. "Whiskey," I said,
+and "Cigar," because I was never one for half-measures. The robutler trundled
+over to me with a tumbler and a White Owl in its hover-field. I plucked them
+out. Cautiously, I put the cigar between my lips. The robutler extruded a long,
+snaky arm with a flame, and lit it. I took a deep puff, and coughed
+convulsively. Unthinking, I took a gulp of whiskey. I felt like my lungs had
+turned inside-out.
+
+I finished both the whiskey and the cigar before I got up, taking cautious puffs
+and tiny sips, forcing myself.
+
+My head swam, and nausea nearly drowned me. I staggered into the WC, and hung my
+head in the oubliette for an eternity, but nothing was coming up. I moved into
+my old bedroom and splayed out on my bed, watching the ceiling spin. "Lights," I
+managed to croak, and the room went dark.
+
+#
+
+When I woke in the morning, the walls were at half-opacity, the normal 0700
+schedule, and I dragged myself out of bed.
+
+The robutler had extruded the table and set out my breakfast, ham and eggs and a
+big bulb of milk. One look at it sent me over the edge, and I left a trail of
+sick all the way to the WC.
+
+When I was done, I was as wrung-out as a washcloth. My head pounded. The
+robutler was quietly cleaning up my mess. I started to order it to clear away
+breakfast, but discovered that I was miraculously hungry. I ate everything on
+the table and seconds, besides, and had the robutler juice my temples and clear
+away my headache. I dialed the walls to full transparency, and watched the
+traffic go by.
+
+The robutler maneuvered itself into my field of vision and flashed a clock on
+its chest-plate: 0800 0800 0800. It was my old school-alarm. It snapped me back
+to reality. My Mama was going to whip me raw! She must've been worried sick.
+
+I stood up and ran for the door. It was closed. I punched my code into its
+panel, and waited. Nothing happened. I calmed myself and punched it again. Still
+nothing. After trying it a hundred times, I convinced myself that it had been
+changed.
+
+I summoned the robutler and asked it for the code. Its chest-panel lit up: BAD
+PROGRAM.
+
+That's when I started to really worry. I was near to tears when I remembered the
+emergency override. I punched it in.
+
+Nothing happened.
+
+I think I started crying around then. I was stuck in 1975!
+
+#
+
+I'm not a stupid little kid. I didn't spend much time pewling. Instead, I went
+to the phone and dialed the police. The screen stayed blank. Feeling like I was
+in a dream, I went to the teleporter and dialed for my old school and stepped
+in. I failed to teleport.
+
+Reality sank in.
+
+All outside services to the apartment had been shut off when we moved out. The
+only things that still worked were the ones that ran off our reactor, a squat
+armoured box on the apartment's underbelly. The door in New Jerusalem worked,
+but on the 1975 side, it needed to communicate with the central office to
+approve any passage.
+
+I thought about sitting tight and waiting. Mama would be sick with worry, and
+would check the barn eventually and see the shot bolts. She'd speak to Mr
+Johnstone, who would send a telegram to Paris, and they would relay the message
+to 1975, and _voila_, I'd be rescued. I'd get the whipping of my life, and do
+extra chores until I was seventy, but it was better than starving to death after
+the apartment's pantry ran out. I felt hungry just thinking about it.
+
+Still, there was a better way. The null-gee doughnut that our apartment was
+spoked into had a supply of escape-jumpers, single-use jet-packs with a simple
+transponder that screamed for help on all the emergency channels. I could ride
+one of these down into Greater Salt Lake, wait for the police. The more I
+thought about this plan, the better it sounded. Better, anyway, than sitting
+around like a fairytale princess, waiting for rescue. In my mind, I was the
+rescuing type, not the kind that needed rescuing.
+
+Besides, there wasn't much better than riding around in one of those jet-packs.
+
+I cycled the emergency lock into the doughnut, unracked a pack and a jumpsuit
+that looked like it would fit me, and suited up. The packed whined as it powered
+up and ran through its diagnostics. I checked the idiot-lights to make sure they
+were all green, feeling like a real man of action, then I stepped into the
+exterior lock and jumped, arms and legs streamlined, toes pointed.
+
+The jet-pack coughed to life and kicked me gently, then started lowering me to
+the ground. The emergency beacon's idiot-light came on, and I heaved a sigh of
+relief and got comfortable.
+
+The flight was peaceful and dreamlike, a slow descent over the gleaming metal
+city. I was so engrossed with the view that I didn't see the packjackers until
+they were already on me. They hit me high and low, two kids about my age with
+tricked-out custom jet-packs with their traffic beacons broken off. One snagged
+my knees and hugged them to his chest, while the other took me at the armpits. A
+voice shouted in my ear: "I'm cutting your pack loose. This is a very, very
+sharp knife, and when I'm done, I'll be the only thing holding you up. _Don't
+squirm_."
+
+I didn't even have the chance to squirm. By the time the speech was finished, I
+was separated from my pack, and I spun over upside-down, and watched it continue
+its descent, straps dangling in the wind. My hair hung down, and blood filled my
+head, reawakening my headache. Reflexively, I twisted to get a look at my
+kidnappers, but stopped immediately as I felt their grips loosen. I squeezed my
+eyes shut and prayed.
+
+The three of us dove fast and hard, and I tasted that second helping of
+breakfast again before we leveled off. I risked a peek, then squeezed my eyes
+shut again. We were speeding through the lower levels of Greater Salt Lake, the
+unmanned freight corridors, impossibly claustrophobic, and at our speed,
+dangerous.
+
+We cornered tightly so many times that I lost count, and then we slowed to a
+stop. They dumped me to the ground, steel traction-plate. The wind was knocked
+out of me, and I was barely conscious of the hands that untabbed my jumpsuit,
+then began methodically turning out the pockets of my clothes.
+
+"What the hell are you wearing, kid?" one of them asked. It was the same one
+who'd warned me about squirming. Hearing his voice a second time, I realised
+that he was younger than I was, maybe ten or eleven. Even then, it didn't occur
+to me to fight back -- he had a knife sharp enough to cut through the safety
+strapping on my pack.
+
+"Clothes. I'm from 1898 -- my Pa's an ambassador. I don't have any money." I
+struggled into a sitting position, and was knocked onto my back again.
+
+"Stay down and you won't get hurt," the same voice said. It was young enough
+that I couldn't tell if it was a boy or a girl. Small hands pressed into my
+eyes. "No peeking, now."
+
+Another set of hands systematically rifled my coat and pants, then cut them
+loose and gave the same treatment to my underpants and shirt. I blushed as they
+were cut loose, too.
+
+"You really don't have any money!" the voice said.
+
+"I said so, didn't I?"
+
+The voice said a dirty word that would've gotten it beaten black-and-blue back
+home, and then the hands were gone. I looked up just in time to see two small
+figures jetting away upwards.
+
+I was naked, sitting on a catwalk above a freight corridor, three-quarters of a
+century and God-knew-how-many miles from home. I didn't cry. I was too worried
+to cry. I kicked my ruined clothes down into the freight corridor and pulled on
+the jumpsuit.
+
+Some hero I was!
+
+#
+
+It was hard work, climbing staircase after staircase, up to the shopping levels.
+By the time I reached a level where I could see the sky, I was dripping with
+sweat and my headache had returned.
+
+Foot traffic was light, but what there was pretty frightening. I'd gone walking
+in 75 before of course, but Greater Salt Lake was a big place, and there were
+parts of it that an Ambassador's son would never get to see.
+
+This was one of them. The shopfronts were all iris-open airlocks, and had been
+painted around to look like surprised mouths, or eyes, or, in one fascinating
+case, a woman's private parts. Mostly, they were betting shops, or bars, or
+low-rent bounceaterias. Even in 1975, the Saints had some influence in Salt
+Lake, and the bars and brothels were pretty shameful places, where no
+respectable person would be caught.
+
+The other pedestrians on the street were mostly off-worlders, either spacers in
+uniform or extees. In some cases, it was hard to tell which was which.
+
+I kind of slunk along, sticking to the walls, hands in my pockets. I kept my
+eyes down, except when I was looking around for a public phone. After several
+blocks, I realised that no one was paying any attention to me, and I took my
+hands out of my pockets. The sun filtered down over me, warm through the big
+dome, and I realised that even though I'd gotten myself stuck in 75, been
+'jacked, and left in the worst neighbourhood in the whole State, I'd landed on
+my feet. The thought made me smile. Another kid, say Oly, wouldn't have coped
+nearly as well.
+
+I still hadn't spied a public phone. I figured that the taprooms would have a
+phone, otherwise, how could a drunk call his wife and tell her he was going to
+be late coming home? I picked a bar, whose airlock was painted to look like a
+brick tunnel, and walked in.
+
+The airlock irised shut behind me and I blinked in the gloom. My nose was
+assaulted with sickly sweet incense, and stale liquor, and cigar smoke.
+
+The place was tiny, and crowded with dented metal tables and chairs that were
+bolted to the floorplates. A woman stood behind the bar, looking hard and brassy
+and cheap, watching a soap opera on her vid. A spacer sat in one corner, staring
+at his bulb of beer.
+
+The bartender looked up. "Get lost, kid," she said. "No minors allowed."
+
+"Sorry, ma'am," I said. "I just wanted to use your telephone. I was packjacked,
+and I need to call the police."
+
+The bartender turned back to her soap opera. "Go peddle it somewhere else,
+sonny. The phone's for customers only."
+
+"Please," I said. "My father's an ambassador, from 1898? I don't have any money,
+and I'm stuck here. I won't be a minute."
+
+The spacer looked up from his drink. "Get lost, the lady said," he slurred at
+me.
+
+"I'll buy something," I said.
+
+"You just said you don't have any money," the bartender said.
+
+"I'll pay for it when the police get here. The Embassy will cover it."
+
+"No credit," she said.
+
+"You're not going to let me use your phone?" I said.
+
+"That's right," she said, still staring at her vid.
+
+"I'm a stranger, an ambassador's son, who's been robbed. A kid. Stuck here,
+broke and alone, and you won't let me use your phone to call the police?"
+
+"That's about the size of things," she said.
+
+"Well, I guess my Pa was right. The whole world went to hell after 1914. No
+manners, no human decency."
+
+"You're breaking my heart," she said.
+
+"Fine. Be that way. Send me back out on the street, deny me a favour that won't
+cost you one red cent, just because I'm a stranger."
+
+"Shut _up_, kid, for chrissakes," the spacer said. "I'll stand him to a Coke, if
+that's what it takes. Just let him use the phone and get out of here. He's
+giving me a headache."
+
+"Thank you, sir," I said, politely.
+
+The bartender switched her vid over to phone mode, poured me a Coke, and handed
+me the vid.
+
+#
+
+The policeman who showed up a few minutes later stuck me in the back of his
+cruiser, listened to my story, scanned my retinas, confirmed my identity, and
+retracted the armour between the back and front seats.
+
+"I'll take you to the station house," he said. "We'll contact your Embassy, let
+them handle it from there."
+
+"What about the kids who 'jacked me?" I asked.
+
+The cop turned the jetcar's conn over to wire-fly mode and turned around. "You
+got any description?"
+
+"Well, they had really nice packs on, with the traffic beacons snapped off. One
+was red, and I think the other was green. And they were young. Ten or eleven."
+
+The cop punched at his screen. "Kid," he said, "I got over three million minors
+eight to eleven, flying packs less than a year old. The most popular colour is
+red. Second choice, green. Where would you like me to start? Alphabetically?"
+
+"Sorry, sir, I didn't realise."
+
+"Sure," he said. "Whatever."
+
+"I guess I'm not thinking very clearly. It's been a long day."
+
+The cop looked over to me and smiled. "I guess it has, at that. Don't worry,
+kid, we'll get you home all right."
+
+#
+
+They gave me a fresh jumpsuit, sat me on a bench, called the embassy, and forgot
+about me. A long, boring time later, a fat man with walrus moustaches and ruddy
+skin showed up.
+
+"On your feet, lad," he said. "I'm Pondicherry, your father's successor. You've
+made quite a mess of things, haven't you?" He had a clipped, British accent,
+with a hint of something else. I remembered Mr Johnstone saying he'd been in
+India. He wore a standard unisex jumpsuit, with his ambassadorial sash overtop
+of it. He looked ridiculous.
+
+"Sorry to have disturbed you, sir," I said.
+
+"I'm sure you are," he said. "Come along, we'll see about fixing this mess."
+
+He used the station's teleporter to bring me to his apartment. It was as
+ridiculous as his uniform, and in the same way. He'd taken the basic elegant
+simplicity of a standard 1975 unit and draped all kinds of silly trophies and
+models overtop of it: lions' heads and sabers and model ships and framed medals
+and savage masks and dolls.
+
+"You may look, but not touch, do you understand me?" he said, as we stepped out
+of the teleporter.
+
+"Yes, sir," I said. If anyone else had said it, I would have been offended, but
+coming from this puffed-up pigeon, it didn't sting much.
+
+He went to a vid and punched impatiently at the screen while I prowled the
+apartment. The bookcase was full of old friends, books by the Frenchman, of
+course, and more, with strange names like Wells and Burroughs and Shelley. I
+looked over a long, stone-headed spear, and the curve of an elephant's tusk, and
+a collection of campaign ribbons and medals under glass. I returned to the
+bookcase: something had been bothering me. There, there it was: "War of the
+Worlds," the book that Mr Adelson had given me for Christmas. But there was
+something wrong with the spine of this one: instead of _Jules Verne_, the author
+name was _H.G. Wells_. I snuck a look over my shoulder; Pondicherry was still
+stabbing at the screen. I snuck the book off the shelf and turned to the title
+page: "War of the Worlds, by Herbert George Wells." I turned to the first
+chapter:
+
+The Eve of the War
+
+No one would have believed in the last years of the nineteenth century that this
+world was being watched keenly and closely by intelligences greater than man's
+and yet as mortal as his own; that as men busied themselves about their various
+concerns they were scrutinised and studied, perhaps almost as narrowly as a man
+with a microscope might scrutinise the transient creatures that swarm and
+multiply in a drop of water.
+
+It was just as I remembered it, every word, just as it was in the Verne. I
+couldn't begin to explain it.
+
+A robutler swung out of its niche with a sheaf of papers. I startled at the
+noise, then reflexively stuck the book in my jumpsuit. The roboutler delivered
+them to Pondicherry, who stuffed them in a briefcase.
+
+"The embassy will be able to return you home by courier route in three hours.
+Unfortunately, I don't have the luxury of waiting around here until then. I have
+an important meeting to attend -- you'll have to come along."
+
+"Yes, sir," I said, trying to sound eager and helpful.
+
+"Don't say anything, don't touch anything. This is very sensitive."
+
+"No, sir, I won't. Thank you, sir."
+
+#
+
+The meeting was in a private room in a fancy restaurant, one that I'd been to
+before for an embassy Christmas party. Mama had drunk two glasses of sherry, and
+had flushed right to the neck of her dress. We'd had roast beef, and a goose
+wrapped inside a huge squash, the size of a barrel, like they grew on the Moon.
+
+Pondicherry whisked through the lobby, and the main dining room, and then up a
+narrow set of stairs, without checking to see if I was following. I dawdled a
+little, remembering Pa laughing and raising his glass in toast after toast.
+
+I caught up with Pondicherry just as he was ordering, speaking brusquely into
+the table. Another man sat opposite him. Pondicherry looked up at me and said,
+"Have you dined, boy?"
+
+"No, sir."
+
+He ordered me a plate of calf livers in cream sauce, which is about the worst
+thing you can feed a boy, if you ask me, which he didn't. "Sit down," he said.
+"Mr Nussbaum, Master James Nicholson. I am temporarily in _loco parentis_, until
+he can be sent home."
+
+Nussbaum smiled and extended his hand. He was wearing a grey suit, with a
+strange cut, and a black tie. His fingers dripped with heavy gold rings, and his
+hair, while short, still managed to look fancy and a little sissy-fied. "Good to
+meetcha, son. You Lester's boy?"
+
+"Yes, sir, he was my Pa."
+
+"Good man. A damned shame. What are you doing here? Playing hooky?"
+
+"I guess I just got lost. I'm going home, soon as they can get me there."
+
+"Is that so? Well, I'll be sad to see you go. You look like a smart kid. You
+like chocolate cake, I bet."
+
+"Sometimes," I said.
+
+"Like when?"
+
+"When my mama makes it, with a glass of milk, after school," I said.
+
+He laughed, a strangled har-har-har. "You guys kill me. Your mama, huh? Well,
+they make some fine chocolate cake here, though it may not be as good as the
+stuff from home." He thumbed the table. "Sweetie, send up the biggest piece of
+chocolate cake you got down there, and a glass a milk, willya?"
+
+The table acknowledged his request with a soft green light.
+
+"Thank you, sir," I said.
+
+"That's quite enough, I think," Pondicherry said. "I didn't come here to watch
+you rot young James's teeth. Can we get to business?"
+
+Pondicherry started talking, in rapid, clipped sentences, punctuated by vicious
+bites of his food. I tried to follow what it was about -- trading buffalo steaks
+for rare metals, I got that much, but not much more. The calves' livers were
+worse than I imagined, and I hid as much of them as I could under the potatoes,
+then pushed the plate away and dug into the cake.
+
+I sneaked a look up and saw that Nussbaum was grinning slyly at me. He hadn't
+said much, just ate calmly and waited for Pondicherry to run out of steam. He
+caught my eye and slipped a wink at me. I looked over at Pondicherry, who was
+noisily cudding a piece of steak, oblivious, and winked back at Nussbaum.
+
+Pondicherry daubbed at his mouth with his napkin. "Excuse me," he said, "I'll be
+right back." He stood and walked towards the WC.
+
+Nussbaum suddenly jingled. Distractledly, he patted his pockets until he located
+a tiny phone. He flipped it open and grunted "Nussbaum," into it.
+
+"Jules!" he said a moment later. "How're things?"
+
+He scowled as he listened to the answer. "Now, you and I know that there's a
+difference between _smart_ and _greedy_. I think it's a bad idea."
+
+He listened some more and drummed his fingers on the table.
+
+"Because it's not _credible_, dammit! Even the title is anachronistic: no one in
+1902 is going to understand what _Neuromancer_ means. Think about it, wouldya?
+Why don't you do some of Twain's stuff? Those books've got _legs_."
+
+My jaw dropped. Nussbaum was talking to the Frenchman -- and he was helping him
+to _cheat_! To steal from Mark Twain! I was suddenly conscious of "War of the
+Worlds," down the front of my jumpsuit. I thought back to Mr Adelson's
+assignment, and it all made sudden sense. Verne was a _plagiarist_.
+
+Nussbaum hung up just as Pondicherry re-seated himself. He took a sip of his
+drink, then held up a hand. Pondicherry eyed him coldly.
+
+"Look," Nussbaum said. "We've gone over this a few times, OK? I know where you
+stand. You know where I stand. We're not standing in the same place. Much as I
+enjoy your company, I don't really wanna spend the whole day listening to you
+repeating yourself. All right?"
+
+"Really, I don't think --" Pondicherry started, but Nussbaum held up his hand
+again.
+
+"That's all right, I'm a rude son-of-a-bitch, and I know it. Let's just take it
+as read that you and me spent the whole afternoon letting the other fella know
+how sincere our positions are. Then we can move onto cocktails, and compromise,
+and maybe have some of the day left over." Pondicherry started to talk again,
+but Nussbaum plowed over him. "I'll go to six troy ounces per steer. You won't
+get a better offer. 98% pure ores. Better than anything you'd ever refine back
+home. It's as far as I go."
+
+"Sir, is that an ultimatum?" Pondicherry asked, his eyes narrowing.
+
+"Call it whatever you please, buster. It's my final, iron-clad offer. You don't
+like it, I can talk to the Chinaman. He seemed pretty eager to get some good
+metal home to the Emperor."
+
+"You wouldn't -- he's too far back, it would violate the protocols."
+
+"That's what you say. It may be what the trade court decides. I'll take my
+chances."
+
+"Six and a half ounces," Pondicherry said, in a spoiled-brat voice.
+
+"You don't hear so good, do you? Six ounces is the offer on the table; take it
+or leave it." Nussbaum pushed some papers across the table.
+
+Pondicherry stared at them for a long moment. "I will sign them, sir, but it is
+with the expectation of continued trade opportunities. This is a good-will
+gesture, do you understand?"
+
+Nussbaum snorted and reached for his papers. "This is about steaks and metals.
+This isn't about the future, it's about today, now. That's what's on the table.
+You can sign it, or you can walk away."
+
+Pondicherry blew air out his nose like a crazy horse, and signed. "If you'll
+excuse me, I need to use the WC again." He rose and left the room, purple from
+the collar up.
+
+"What a maroon," Nussbaum said to the closed door. "This's gotta be a real blast
+for you, huh?" he said.
+
+I grinned. "It's not so bad. I liked watchin' you hogtie him."
+
+He laughed. "I never would've tried that on your father, kid. He was too sharp.
+But fatso there, he's terrified the Chinaman will give the Middle Kingdom an
+edge when it faces down his Royal Navy. All it takes is the slightest hint, and
+he folds like a cheap suit."
+
+That made me chuckle -- a cheap suit!
+
+I gave him my best innocent look. "Who else knows about the Frenchman?" I asked
+him.
+
+Nussbaum grinned like he'd been caught with his hand in the cookie jar. "I
+realised about halfway through that conversation that being Lester's boy, you've
+probably read just about every word old Jules 'wrote.'"
+
+"I have," I said. I took out "War of the Worlds." "How does Mr Wells feel about
+this?" I asked.
+
+"I imagine he's pretty mystified," Nussbaum said. "Would you believe, you're the
+first one who's caught on?"
+
+I believed it. I knew enough to know that the agencies that policed the
+protocols had their hands full keeping track of art and gold smugglers. I'd
+never even thought of smuggling _words_. If the trade courts found out. . .
+Well, hardly a week went by that someone didn't propose shutting down the
+ambassadorships; they'd talk about how the future kept on leaking pastwards, and
+if we thought 1975 looked bad, imagine life in 1492 once the future reached it!
+The ambassadors had made a lot of friends in high places, though: they used
+their influence to keep things on an even keel.
+
+Nussbaum raised an eyebrow and studied me. "I think your father may've figured
+it out, but he kept it to himself. He and Jules got along like a house on fire."
+
+I kept the innocent look on my face. "Well, then," I said. "If Pa didn't say
+anything, you'd think that I wouldn't either, right?"
+
+Nussbaum sighed and gave me a sheepish look. "I'd _like_ to think so," he said.
+
+I turned the book over in my hands, keeping my gaze locked with his. I was about
+to tell him that I'd keep it to myself, but at the last minute, some instinct
+told me to keep my mouth shut.
+
+Nussbaum shrugged as though to say, _I give up_. "Hey, you're headed home today,
+right?" he said, carefully.
+
+"Yes, sir."
+
+"I've got a message that you could maybe relay for me, you think?"
+
+"I guess so. . ." I said, doubtfully.
+
+"I'll make it worth your while. It's got to go to a friend of mine in Frisco.
+There's no hurry -- just make sure he gets it in the next ten years or so. Once
+you deliver it, he'll take care of you -- you'll be set for life."
+
+"Gosh," I said, deadpan.
+
+"Are you game?"
+
+"I guess so. Sure." My heart skipped. Set for life!
+
+"The man you want to speak to is Reddekop, he's the organist at the Castro
+theatre. Tell him: 'Nussbaum says get out by October 29th, 1929.' He'll know
+what it means. You got that?"
+
+"Reddekop, Castro Theatre. October 29th, 1929."
+
+"Exac-atac-ally." He slid "War of the Worlds" into his briefcase. "You're doin'
+me a hell of a favour, son."
+
+He shook my hand. Pondicherry came back in then, and glared at me. "The embassy
+contacted me. They can set you at home six months after you left -- there's a
+courier gateway this afternoon."
+
+"Six months!" I said. "My Mama will go crazy! Can't you get me home any sooner?"
+
+Pondicherry smirked. "Don't complain to me, boy. You dug this hole yourself. The
+next scheduled courier going anywhere near your departure-point is in five
+years. We'll send notice to your mother then, to expect you home mid-July."
+
+"Tough break, kiddo," Nussbaum said, and he shook my hand and slipped me another
+wink.
+
+#
+
+The courier gateway let me out in an alleyway in Salt Lake City. The embassy had
+given me ten Wells Fargo dollars, and fitted me out with a pair of jeans and a
+workshirt that were both far too big for me, so that they slopped around me as I
+made my way to the train station and bought my ticket to New Jerusalem.
+
+It was Wednesday, the normal schedule for the Zephyr Speedball, so I didn't have
+too long to wait at the station. I bought copies of the Salt Lake City _Shout_,
+and the San Francisco _Chronicle_ from a passing newsie. The _Chronicle_ was a
+week old, but it was filled with all sorts of fascinating big-city gossip. I
+read it cover-to-cover on the long ride to New Jerusalem.
+
+Mama met me at the train station. I'd been expecting a switching, right then and
+there, but instead she hugged me fiercely with tears in her eyes. I remembered
+that it had been over six months for her since I'd gone.
+
+"James, you will be the death of me, I swear," she said, after she'd squeezed
+every last bit of stuffing out of me.
+
+"I'm sorry, Mama," I said.
+
+"We had to tell everyone you'd gone away to school in France," a familiar male
+voice said. I looked up and saw Mr Johnstone standing a few yards away, with our
+team and trap. He was glaring at me. "I've had the barn gateway sealed
+permanently on both sides."
+
+"I'm sorry, sir," I said. But inside, I wasn't. Even though I'd only been away
+for a few days, I'd had the adventure of a lifetime: smoked and drank and been
+'jacked and escaped and received a secret message. My Mama seemed shorter to me,
+and frailer, and James H Johnstone was a puffed-up nothing of a poltroon.
+
+"We'll put it behind us, son," he said. "But from now on, there will be order in
+our household, do we understand each-other?"
+
+_Our_ house? I looked up sharply at my Mama. She smiled at me, nervously. "We
+married, James. A month ago. Congratulate me!"
+
+I thought about it. My Mama needed someone around to take care of her, and
+vice-versa. After all, it wasn't right for her to be all alone. With a start, I
+realised that in my mind, I'd left my Mama's house. I felt the Wells-Fargo notes
+in my pocket.
+
+"Congratulations, Mama. Congratulations, Mr Johnstone."
+
+Mama hugged me again and the Mr Johnstone drove us home in the trap.
+
+#
+
+All through the rest of the day, Mama kept looking worriedly at me, whenever she
+thought I wasn't watching. I pretended not to notice, and did my chores, then
+took my _Chronicle_ out to the apple orchard behind the Academy. I sat beneath a
+big, shady tree and re-read the paper, all the curious bits and pieces of a city
+frozen in time.
+
+I was hardly surprised to see Mr Adelson, nor did he seem surprised to see me.
+
+"Back from France, James?"
+
+"Yes, sir."
+
+"Looks like it did you some good, though I must say, we missed you around the
+Academy. It just wasn't the same. Have you been keeping up your writing?"
+
+"Sorry, sir, I haven't. There hasn't been time. I'm thinking about writing an
+adventure story, though -- about pirates and space-travellers and airships," I
+said.
+
+"That sound exciting." He sat down beside me, and we sat there in silence for a
+time, watching the flies buzz around. The air was sweet with apple blossoms, and
+the only sound was the wind in the trees.
+
+"I'm going to miss this place," I said, unthinking.
+
+"Me, too," Mr Adelson said.
+
+Our eyes locked, and a slow smile spread over his face. "Well, I know where
+_I'm_ going, but where are you off to, son?"
+
+"You're going away?" I said.
+
+"Yes, sir. Is that a copy of the _Chronicle_? Give it here, I'll show you
+something."
+
+He flipped through the pages, and pointed to an advertisement. "The _Slippery
+Trick_ is in port, and they're signing on crew for a run through the south seas,
+in September. I intend to go as Quartermaster."
+
+"You're leaving?" I said, shocked to my boots.
+
+To my surprise, he pulled out a pouch of tobacco and some rolling papers and
+rolled himself a cigarette. I'd never seen a schoolteacher smoking before. He
+took a thoughtful puff and blew the smoke out into the sky. "To tell you the
+truth, James, I just don't think I'm cut out for this line of work. Not enough
+excitement in a town like this. I've never been happier than I was when I was at
+sea, and that's as good a reason to go back as any. I'll miss you, though, son.
+You were a delight to teach."
+
+"But what will I do?" I said.
+
+"Why, I expect your mother will send you back East to go to school. I graduated
+you from the Academy _in absentia_ during the last week of classes. Your report
+card and diploma are waiting on my desk."
+
+"Graduated?" I said, shocked. I had another year to go at the Academy.
+
+"Don't look so surprised! There was no earthly reason for you to stay at the
+Academy. I'd say you were ready for college, myself. Maybe Harvard!" He tousled
+my hair.
+
+I allowed myself a smile -- I didn't think I was any smarter than the other
+kids, but I sure knew a whole lot more about the world -- the worlds! And maybe,
+in my heart of hearts, I knew that I was a _little_ smarter. "I'll miss you,
+sir," I said.
+
+"Call me Robert. School's out. Where are you off to, James?"
+
+I gestured with my copy of the _Chronicle_.
+
+"My home town! Whatever for?"
+
+I looked at my shoes.
+
+"Oh, a secret. I see. Well, I won't pry. Does your mother know about this?"
+
+I felt like kicking myself. If I said no, he'd have to tell her. If I said yes,
+I'd only have myself to blame if he spilled the news to her. I looked at him,
+and he blew a streamer of smoke into the sky. "No, sir," I said. "No, Robert."
+
+He looked at me. He winked. "Better keep it to ourselves, then," he said.
+
+#
+
+The ticket-girl at the Castro Theatre wasn't any older than I was, but she wore
+her hair shorter than some of the boys I'd known back home, and more makeup than
+even the painted ladies at the saloon. She looked at me like I was some kind of
+small-town fool. It was a look I was getting used to seeing.
+
+"Reddekop only plays for the _evening_ shows, kid. No organ for the _matinee_."
+
+"Who you calling a kid?" I said. I'd kept a civil tongue ever since debarking
+the train, treating adult and kid with equal respect, but I was getting sick of
+being treated like a yokel. I'd been farther than any of these dusty slickers
+would ever go, and I was grown enough that I'd told my Mama and Mr Johnstone
+that I was going off on my own, instead of just leaving a note like I'd
+originally planned.
+
+"You. Kid. You want to talk to Reddekop, you come back after six. In the
+meantime, you can either buy a ticket to the matinee or get lost."
+
+On reflection, telling my Mama was probably a mistake. It meant that I was
+locked in my room for two consecutive Wednesdays so that I couldn't catch the
+train. On the third Wednesday, I climbed out onto the roof and then went down
+the rope-ladder I'd hidden behind a chimney. The Wells Fargo notes I'd started
+with were almost gone, mostly spent on the expensive food on the train -- I
+hadn't dared try to sneak any food away from home, my Mama was no fool.
+
+I thought about buying a ticket to the matinee. I still had almost five dollars,
+but a quick look at the menus in the restaurants had taught me that if I thought
+the food on the train was expensive, I had another think coming. I shouldered my
+rucksack and wandered away, taking care to avoid the filth from dogs and people
+that littered the sidewalks. I told myself that I wasn't homesick -- just tired.
+
+#
+
+"October 29, 1929, huh?" Reddekop was a small German with a greying spade beard
+and a heavily oiled part in his long hair. His fingers were long and nimble, but
+nearly everything else about him was short and crude. He made me nervous.
+
+"Yes, sir. Mr Nussbaum thought you'd know what it meant."
+
+Reddekop struck a match off the side of the organist's pit, lighted a pipe, then
+tossed the match carelessly into the theatre seats. I winced and he chuckled.
+"Not to worry, kid. The place won't burn down for a few years yet. I have it on
+the very best authority.
+
+"Now, Nussbaum says October 29, 1929. What else does he say?"
+
+"He said that you'd take care of me."
+
+He gripped the pipe in his yellow teeth and hissed a laugh around the stem. "He
+did, did he? Well, I suppose I should. Of course, I won't know for sure for more
+than 25 years -- I don't suppose you want to wait that long?"
+
+"No, sir!" I said. I didn't like this little man -- he reminded me of some kind
+of musical rat.
+
+"I thought not. Do you know what a trust is, James?"
+
+We'd covered that in common law -- I could rattle off about thirty different
+kinds without blinking. "I have a general idea," I said.
+
+"Good, good. What I'm thinking is, the best thing is for me to set up a trust
+through a lawyer I know on Market Street. He'll make sure that you're always
+flush, but never so filthy that someone will take a notice in you. How does that
+strike you?"
+
+I thought it over. "How do I know that the trust fund won't disappear in a few
+years?"
+
+"You're nobody's fool, huh? Well, how about this -- you find your own advocate:
+a lawyer, a bondsman, someone you trust, and he can look over all the books and
+papers, make sure it's all square-john. How does that strike you?"
+
+Reddekop knew I was a stranger in town, and maybe he was counting on my not
+being able to find anyone qualified to audit the trust, but I had an ace up my
+sleeve. I wasn't anybody's fool.
+
+"That sounds fair," I said.
+
+#
+
+Back at my Mama's I'd had long hard days, doing chores: chopping wood, stacking
+hay, weeding the garden, carrying water. I'd go to bed bone-tired, limp as a rag
+and as exhausted as I thought I could be.
+
+Boy, was I wrong! By the time I found Mr Adelson's rooming house, I could barely
+stand, my mouth was dry as a salt-flat, and it was hard to keep my eyes open.
+They've got hills in San Francisco that must've been some kind of joke God
+played. His landlady, a worn-out grey woman whose sour expression seemed
+directed at everything and anything, let me in and pointed me up three rickety
+flights of stairs to Mr Adelson's room.
+
+I dragged my luggage up with me, bumping it on the stairs, and rapped on the
+door. Mr Adelson answered in the same shirtsleeves and suspenders I'd seen him
+in that Christmas, an age ago, when my Mama dragged me to his cottage. "James!"
+he said.
+
+"Mr Adelson," I said. "Sorry to drop in like this."
+
+He took my bag from me and ushered me into his room, pulling up a chair. "What
+on earth are you doing here?" he said. "Do your parents know where you are? Are
+you all right? Have you eaten? Are you hungry?"
+
+"I'm pretty hungry -- I haven't eaten since supper last night on the train," I
+tried to make it sound jaunty, but I'm afraid it came out pretty
+tired-sounding."
+
+"I'll fix us sandwiches," he said, and started fishing around his sea-chest. I
+watched his shoulders move for a moment, and then my eyes closed.
+
+#
+
+"Well, good morning," Mr Adelson said, as I sat bolt upright, disoriented in a
+strange bed with a strange blanket. "Coffee?"
+
+He was leaning over a little Sterno stove, heating up a small tin pot. Morning
+sun streamed in through the grimy window.
+
+"I wrapped your sandwich up from last night. It's there, on the dresser."
+
+I stood up and saw that except for my shoes, I was still dressed. The sandwich
+was salt beef and cheese, and the sourdough was stale, and it was the best thing
+I'd ever eaten. Mr Adelson handed me a tin cup full of strong coffee, and though
+I don't much like coffee, I found myself drinking it as fast as I could.
+
+"Thank you, Mr Adelson," I said.
+
+"Robert," he said, and sat down on the room's only chair. I perched on the bed's
+end. "Well, you seem to have had quite a day! Let's hear about it."
+
+I told him as much as I could, fudging around some of the details -- my Mama
+surely did know where I was, even if she wasn't very happy about it; and of
+course, I couldn't tell him that I'd met Nussbaum in 1975, so I just moved the
+locale to France, and caged around what message he'd asked me to deliver to
+Reddekop. It still made for a pretty exciting telling.
+
+"So you want me to go to this lawyer's office with you? To look over the papers?
+James, I'm just a sailor, I'm not qualified."
+
+I'd prepared for this argument, on the long slog to the rooming house. "But _I_
+know something about this; they won't believe it, though, and will slip all
+kinds of dirty tricks in if they think that the only fellow who'll be looking at
+it is just a kid."
+
+"Explain to me again why you don't want to wire Mr Johnstone to come and look it
+over? It sounds like an awful lot of money for him not to be involved."
+
+"He's not my Pa, Robert. I don't even _like_ him, and chances are, he'll hide
+away all that money until I'm eighteen or _twenty-one_, and try to send me off
+to school."
+
+"And what's wrong with that? You have other plans?"
+
+"Sure," I said, too loudly -- I hadn't really worked that part out. I just knew
+that the next time I set foot in New Jerusalem, I'd be my own man, a man of the
+world, and not dependent on anyone. I'd take Mama and Mr Johnstone out for a big
+supper, and stay in the fanciest room at the Stableman's hotel, and hire Tommy
+Benson to carry my bags to my room. "Besides, I'm not asking you to do this for
+_free_. I'll pay you a -- an administrative fee. Five percent, _for life_!"
+
+He looked serious. "James, if I do this -- mind I said _if_ -- I won't take a
+red cent. There are things here that you're not telling me. Now, that's your
+business, but I want to make sure that if anyone ever scrutinises the affair,
+that it's clear that I didn't receive any benefit from it."
+
+I smiled. I knew I had him -- if he'd thought it that far through, he wasn't
+going to say no. Besides, I hadn't even played my trump card yet: that if he
+didn't help me, I'd be out on the streets on my own, and I could tell that he
+didn't like that idea.
+
+#
+
+Mr Adelson wore his teacher clothes for the affair and I wore the good breeches
+and shirt I'd packed. We stopped at a barber's before, Mr Adelson treated me to
+a haircut from the number-two man while he took a shave and a trim. We boarded
+the cablecar to Market like a couple of proper gentlemen, and if I thought
+flying in a jetpack was exciting, it was nothing compared to the terror of
+hanging on the running-board of a cablecar as it laboured up and then --
+quickly! -- down a monster hill.
+
+The lawyer was a foreigner, a Frenchie or a Belgian, and his offices were grubby
+and filled with stinking cigar smoke and the din of the trolleys. He asked no
+embarrassing questions of me. He just sized up Mr Adelson, then put away the
+papers on his desk and presented a set from his briefcase, laying out the terms
+of the trust, and retreated from the office. I read over Mr Adelson's shoulder,
+the terms scribbled in a hasty hand, but every word of it legal and binding,
+near as I could tell.
+
+The amounts in question were staggering. Two hundred dollars, every month!
+Indexed for inflation, for seventy years or the duration of my natural life,
+whichever was lesser. The records of the trust to be deposited with the Wells
+Fargo, subject to scrutiny on demand. Mr Adelson looked long and hard at me.
+"James, I can't begin to imagine what sort of information you've traded for
+this, but son, you're rich as Croesus!"
+
+"Yes, sir," I said.
+
+"Do these papers look legal to you?"
+
+"Yes, sir."
+
+"They seem legal to me, too."
+
+A bubble of excitement filled my chest and I had to restrain myself from
+bouncing on my heels. "I'm going to sign it," I said. "Will you witness it?"
+
+"I've got a better idea. Let's get that lawyer and take this down to the Wells
+Fargo and have the President of the Bank witness it himself."
+
+And that's just what we did.
+
+#
+
+Mr Adelson had spent the previous night on the floor, while I slept in his bed.
+My first month's payment was tucked carefully in my pocket, and over his
+protests, I pried loose a few bills and took my own room in the rooming house,
+and then the two of us ate out at a restaurant whose prices had seemed
+impossibly out-of-reach the day before. We had oysters and steaks and I had a
+slab of apple pie for desert with fresh ice cream and peach syrup, and when I
+was done, I felt like new man. Mr Adelson had a bottle of beer with dinner, and
+a whiskey afterwards, and I insisted on paying.
+
+"Well, then," he said, sipping his whiskey. "You're a very well-set-up young
+man. What will you do now?"
+
+All throughout my scheming since my second return from 75, the prospect of what
+to do with all the money had niggled away at the back of my mind. All I knew for
+sure was that I didn't want to grow up in New Jerusalem. I wanted adventure,
+exotic places and people, danger and excitement. Over dinner, though, a plan had
+been forming in my head.
+
+"Does the _Slippery Trick_ need a cabin-boy?"
+
+He shook his head and smiled at me. "I was afraid it was something like that.
+Son, you could pay for a stateroom on a proper liner with all the money you
+have. Why would you want to be in charge of chamber-pots on a leaky old tub?"
+
+"Why do you want to sail off on a leaky old tub instead of teaching in Utah, or
+working on the trolleys here?"
+
+It took me most of the night to convince him, but there was no doubt in my mind
+that I would, and when the ship sailed, that I'd be on it, with a big,
+leather-bound log, writing stories.
+
+--
+
+<!--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/01/22-rdf-syntax-ns#">
+<Work rdf:about="http://craphound.com/place/Cory_Doctorow_-_A_Place_So_Foreign.txt">
+   <dc:title>A Place So Foreign</dc:title>
+   <dc:date>2000-2-1</dc:date>
+   <dc:description>A science&#45;fiction short story by Cory Doctorow about time&#45;travel between 1902 and 1975, from the short story collection "A Place So Foreign and Eight More," published by Four Walls Eight Windows press in September, 2003 (ISBN: 1568582862)</dc:description>
+   <dc:creator><Agent>
+      <dc:title>Cory Doctorow</dc:title>
+   </Agent></dc:creator>
+   <dc:rights><Agent>
+      <dc:title>Cory Doctorow</dc:title>
+   </Agent></dc:rights>
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+<license rdf:resource="http://creativecommons.org/licenses/by-nd-nc/1.0/" />
+</Work>
+
+<License rdf:about="http://creativecommons.org/licenses/by-nd-nc/1.0/">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <requires rdf:resource="http://web.resource.org/cc/Notice" />
+   <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+   <prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" />
+</License>
+
+</rdf:RDF>
+
+-->
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK A PLACE SO FOREIGN***
+
+
+******* This file should be named 16721-8.txt or 16721-8.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/1/6/7/2/16721
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.net/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.net/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.net/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

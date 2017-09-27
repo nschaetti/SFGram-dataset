@@ -1,0 +1,664 @@
+Produced by Greg Weeks, Bruce Albrecht, Mary Meehan and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+   PUSHBUTTON WAR
+ By JOSEPH P. MARTINO
+  Illustrated by Schoenherr
+[Transcriber's Note: This etext was produced from Astounding Science
+Fiction August 1960. Extensive research did not uncover any evidence
+that the U.S. copyright on this publication was renewed.]
+ _In one place, a descendant of the Vikings rode a ship such as Lief
+ never dreamed of; from another, one of the descendants of the
+ Caesars, and here an Apache rode a steed such as never roamed the
+ plains. But they were warriors all._
+The hatch swung open, admitting a blast of Arctic air and a man clad in
+a heavy, fur-lined parka. He quickly closed the hatch and turned to the
+man in the pilot's couch.
+"O.K., Harry. I'll take over now. Anything to report?"
+"The heading gyro in the autopilot is still drifting. Did you write it
+up for Maintenance?"
+"Yeah. They said that to replace it they'd have to put the ship in the
+hangar, and it's full now with ships going through periodic inspection.
+I guess we'll have to wait. They can't just give us another ship,
+either. With the hangar full, we must be pretty close to the absolute
+minimum for ships on the line and ready to fly."
+"O.K. Let me check out with the tower, and she'll be all yours." He
+thumbed the intercom button and spoke into the mike: "RI 276 to tower.
+Major Lightfoot going off watch."
+When the tower acknowledged, he began to disconnect himself from the
+ship. With smooth, experienced motions, he disconnected the mike cable,
+oxygen hose, air pressure hose, cooling air hose, electrical heating
+cable, and dehumidifier hose which connected his flying suit to the
+ship. He donned the parka and gloves his relief had worn, and stepped
+through the hatch onto the gantry crane elevator. Even through the heavy
+parka, the cold air had a bite to it. As the elevator descended, he
+glanced to the south, knowing as he did so that there would be nothing
+to see. The sun had set on November 17th, and was not due up for three
+more weeks. At noon, there would be a faint glow on the southern
+horizon, as the sun gave a reminder of its existence, but now, at four
+in the morning, there was nothing. As he stepped off the elevator, the
+ground crew prepared to roll the gantry crane away from the ship. He
+opened the door of the waiting personnel carrier and swung aboard. The
+inevitable cry of "close that door" greeted him as he entered. He
+brushed the parka hood back from his head, and sank into the first empty
+seat. The heater struggled valiantly with the Arctic cold to keep the
+interior of the personnel carrier at a tolerable temperature, but it
+never seemed able to do much with the floor. He propped his feet on the
+footrest of the seat ahead of him, spoke to the other occupant of the
+seat.
+"Hi, Mike."
+"Hi, Harry. Say, what's your watch schedule now?"
+"I've got four hours off, back on for four, then sixteen off. Why?"
+"Well, a few of us are getting up a friendly little game before we go
+back on watch. I thought you might want to join us."
+"Well, I--"
+"Come on, now. What's your excuse this time for not playing cards?"
+"To start with, I'm scheduled for a half hour in the simulator, and
+another half hour in the procedural trainer. Then if I finish the exam
+in my correspondence course, I can get it on this week's mail plane. If
+I don't get it in the mail now, I'll have to wait until next week."
+"All right, I'll let you off this time. How's the course coming?"
+"This is the final exam. If I pass, I'll have only forty-two more
+credits to go before I have my degree in Animal Husbandry."
+"What on earth do you want with a degree like that?"
+"I keep telling you. When I retire, I'm going back to Oklahoma and raise
+horses. If I got into all the card games you try to organize, I'd retire
+with neither the knowledge to run a horse ranch, nor the money to start
+one."
+"But why raise horses? Cabbages, I can see. Tomatoes, yes. But why
+horses?"
+"Partly because there's always a market for them, so I'll have a fair
+amount of business to keep me eating regularly. But mostly because I
+like horses. I practically grew up in the saddle. By the time I was old
+enough to do much riding, Dad had his own ranch, and I helped earn my
+keep by working for him. Under those circumstances, I just naturally
+learned to like horses."
+"Guess I never thought of it like that. I was a city boy myself. The
+only horses I ever saw were the ones the cops rode. I didn't get much
+chance to became familiar with the beasts."
+  *  *  *  *  *
+"Well, you don't know what you missed. It's just impossible to describe
+what it's like to use a high-spirited and well-trained horse in your
+daily work. The horse almost gets to sense what you want him to do next.
+You don't have to direct his every move. Just a word or two, and a touch
+with your heel or the pressure of your knee against his side, and he's
+got the idea. A well-trained horse is perfectly capable of cutting a
+particular cow out of a herd without any instructions beyond showing him
+which one you want."
+"It's too bad the Army did away with the cavalry. Sounds like you belong
+there, not in the Air Force."
+"No, because if there's anything I like better than riding a good horse,
+it's flying a fast and responsive airplane. I've been flying fighters
+for almost seventeen years now, and I'll be quite happy to keep flying
+them as long as they'll let me. When I can't fly fighters any more, then
+I'll go back to horses. And much as I like horses, I hope that's going
+to be a long time yet."
+"You must hate this assignment, then. How come I never hear you complain
+about it?"
+"The only reason I don't complain about this assignment is that I
+volunteered for it. And I've been kicking myself ever since. When I
+heard about the Rocket Interceptors, I was really excited. Imagine a
+plane fast enough to catch up with an invading ballistic missile and
+shoot it down. I decided this was for me, and jumped at the assignment.
+They sounded like the hot fighter planes to end all hot fighter planes.
+And what do I find? They're so expensive to fly that we don't get any
+training missions. I've been up in one just once, and that was my
+familiarization flight, when I got into this assignment last year. And
+then it was only a ride in the second seat of that two-seat version they
+use for checking out new pilots. I just lay there through the whole
+flight. And as far as I could see, the pilot didn't do much more. He
+just watched things while the autopilot did all the work."
+"Well, don't take it too hard. You might get some flights."
+"That's true. They do mistake a meteor for a missile now and then. But
+that happens only two or three times a year. That's not enough. I want
+some regular flying. I haven't got any flying time in for more than a
+year. The nearest I come to flying is my time in the procedural trainer,
+to teach me what buttons to push, and in the simulator, to give me the
+feel of what happens when I push the buttons."
+"That's O.K. They still give you your flying pay."
+"I know, but that's not what I'm after. I fly because I love flying. I
+use the flying pay just to keep up the extra premiums the insurance
+companies keep insisting on so long as I indulge my passion for fighter
+planes."
+"I guess about the only way you could get any regular flying on this job
+would be for a war to come along."
+"That's about it. We'd fly just as often as they could recover our ships
+and send us back up here for another launch. And that would go on until
+the economy on both sides broke down so far they couldn't make any more
+missiles for us to chase, or boosters to send us up after them. No
+thanks. I don't want to fly that badly. I like civilization."
+"In the meantime, then, you ought to try to enjoy it here. Where else
+can you spend most of your working hours lying flat on your back on the
+most comfortable couch science can devise?"
+"That's the trouble. Just lying there, where you can't read, write,
+talk, or listen. It might be O.K. for a hermit, but I'd rather fly
+fighter planes. Here's the trainer building. I've got to get out."
+  *  *  *  *  *
+Seven o'clock. Harry Lightfoot licked the flap on the envelope, sealed
+it shut, stuck some stamps on the front, and scrawled "AIR MAIL" under
+the stamps. He dropped the letter into the "STATESIDE" slot. The exam
+hadn't been so bad. What did they think he was, anyway? A city slicker
+who had never seen a live cow in his life? He ambled into the off-duty
+pilots' lounge. He had an hour to kill before going on watch, and this
+was as good a place as any to kill it. The lounge was almost empty. Most
+of the pilots must have been asleep. They couldn't all be in Mike's
+game. He leaned over a low table in the center of the room and started
+sorting through the stack of magazines.
+"Looking for anything in particular, Harry?"
+He turned to face the speaker. "No, just going through these fugitives
+from a dentist's office to see if there's anything I haven't read yet. I
+can't figure out where all the new magazines go. The ones in here always
+seem to be exactly two months old."
+"Here's this month's _Western Stories_. I just finished it. It had some
+pretty good stories in it."
+"No, thanks, the wrong side always wins in that one."
+"The wrong ... oh, I forgot. I guess they don't write stories where your
+side wins."
+"It's not really a question of 'my side'. My tribe gave up the practice
+of tribal life and tribal customs over fifty years ago. I had the same
+education in a public school as any other American child. I read the
+same newspapers and watch the same TV shows as anyone else. My Apache
+ancestry means as little to me as the nationality of his immigrant
+ancestors means to the average American. I certainly don't consider
+myself to be part of a nation still at war with the 'palefaces'."
+"Then what's wrong with Western stories where the United States Cavalry
+wins?"
+"That's a different thing entirely. Some of the earliest memories I have
+are of listening to my grandfather tell me about how he and his friends
+fought against the horse-soldiers when he was a young man. I imagine he
+put more romance than historical accuracy into his stories. After all,
+he was telling an eager kid about the adventures he'd had over fifty
+years before. But at any rate, he definitely fixed my emotions on the
+side of the Indians and against the United States Cavalry. And the fact
+that culturally I'm descended from the Cavalry rather than from the
+Apache Indians doesn't change my emotions any."
+"I imagine that would have a strong effect on you. These stories are
+really cheering at the death of some of your grandfather's friends."
+"Oh, it's worse than that. In a lot of hack-written stories, the Indians
+are just convenient targets for the hero to shoot at while the author
+gets on with the story. Those stories are bad enough. But the worst are
+the ones where the Indians are depicted as brutal savages with no
+redeeming virtues. My grandfather had an elaborate code of honor which
+governed his conduct in battle. It was different from the code of the
+people he fought, but it was at least as rigid, and deviations from it
+were punished severely. He'd never read Clausewitz. To him, war wasn't
+an 'Instrument of National Policy'. It was a chance for the individual
+warrior to demonstrate his skill and bravery. His code put a high
+premium on individual courage in combat, and the weakling or coward was
+crushed contemptuously. I don't even attempt to justify the Indian
+treatment of captured civilians and noncombatants, but nevertheless, I
+absorbed quite a few of my grandfather's ideals and views about war,
+and it's downright disgusting to see him so falsely represented by the
+authors of the run-of-the-mill Western story or movie."
+"Well, those writers have to eat, too. And maybe they can't hold an
+honest job. Besides, you don't still look at war the way your
+grandfather did, do you? Civilization requires plenty of other virtues
+besides courage in combat, and we have plenty of better ways to display
+those virtues. And the real goal of the fighting man is to be alive
+after the war so he can go home to enjoy the things he was fighting
+for."
+"No, I hadn't been in Korea long before I lost any notions I might have
+had of war as the glorious adventure my grandfather described it to be.
+It's nothing but a bloody business, and should be resorted to only if
+everything else fails. But I still think the individual fighter could do
+a lot worse than follow the code that my grandfather believed in."
+"That's so, especially since the coward usually gets shot anyway; if not
+by the enemy, then by his own side. Hey, it's getting late! I've got
+some things to do before going on watch. Be seeing you."
+"O.K. I'll try to find something else here I haven't read yet."
+  *  *  *  *  *
+Eight o'clock. Still no sign of the sun. The stars didn't have the sky
+to themselves, however. Two or three times a minute a meteor would be
+visible, most of them appearing to come from a point about halfway
+between the Pole Star and the eastern horizon. Harry Lightfoot stopped
+the elevator, opened the hatch, and stepped in.
+"She's all yours, Harry. I've already checked out with the tower."
+"O.K. That gyro any worse?"
+"No, it seems to have steadied a bit. Nothing else gone wrong, either."
+"Looks like we're in luck for a change."
+"Let me have the parka and I'll clear out. I'll think of you up here
+while I'm relaxing. Just imagine; a whole twenty-four hours off, and not
+even any training scheduled."
+"Someone slipped up, I'll bet. By the way, be sure to look at the
+fireworks when you go out. They're better now than I've seen them at any
+time since they started."
+"The meteor shower, you mean? Thanks. I'll take a look. I'll bet they're
+really cluttering up the radar screens. The Launch Control Officer must
+be going quietly nuts."
+  *  *  *  *  *
+The Launch Control Officer wasn't going nuts. Anyone who went nuts under
+stress simply didn't pass the psychological tests required of
+prospective Launch Control Officers. However, he was decidedly unhappy.
+He sat in a dimly-lighted room, facing three oscilloscope screens. On
+each of them a pie-wedge section was illuminated by a white line which
+swept back and forth like a windshield wiper. Unlike a windshield wiper,
+however, it put little white blobs on the screen, instead of removing
+them. Each blob represented something which had returned a radar echo.
+The center screen was his own radar. The outer two were televised images
+of the radar screens at the stations a hundred miles on either side of
+him, part of a chain of stations extending from Alaska to Greenland. In
+the room, behind him, and facing sets of screens similar to his, sat his
+assistants. They located the incoming objects on the screen and set
+automatic computers to determining velocity, trajectory, and probable
+impact point.
+This information appeared as coded symbols beside the tracks on the
+center screen of the Launch Control Officer, as well as all duplicate
+screens. The Launch Control Officer, and he alone, had the
+responsibility to determine whether the parameters for a given track
+were compatible with an invading Intercontinental Ballistic Missile, or
+whether the track represented something harmless. If he failed to launch
+an interceptor at a track that turned out to be hostile, it meant the
+death of an American city. However, if he made a habit of launching
+interceptors at false targets, he would soon run out of interceptors.
+And only under the pressure of actual war would the incredible cost of
+shipping in more interceptors during the winter be paid without a second
+thought. Normally, no more could be shipped in until spring. That would
+mean a gap in the chain that could not be covered adequately by
+interceptors from the adjacent stations.
+His screens were never completely clear. And to complicate things, the
+Quadrantids, which start every New Year's Day and last four days, were
+giving him additional trouble. Each track had to be analyzed, and the
+presence of the meteor shower greatly increased the number of tracks he
+had to worry about. However, the worst was past. One more day and they
+would be over. The clutter on his screens would drop back to normal.
+Even under the best of circumstances, his problem was bad. He was hemmed
+in on one side by physics, and on the other by arithmetic. The most
+probable direction for an attack was from over the Pole. His radar beam
+bent only slightly to follow the curve of the Earth. At great range, the
+lower edge of the beam was too far above the Earth's surface to detect
+anything of military significance. On a minimum altitude trajectory, an
+ICBM aimed for North America would not be visible until it reached 83°
+North Latitude on the other side of the Pole. One of his interceptors
+took three hundred eighty-five seconds to match trajectories with such a
+missile, and the match occurred only two degrees of latitude south of
+the station. The invading missile traveled one degree of latitude in
+fourteen seconds. Thus he had to launch the interceptor when the missile
+was twenty-seven degrees from intercept. This turned out to be 85° North
+Latitude on the other side of the Pole. This left him at most thirty
+seconds to decide whether or not to intercept a track crossing the
+Pole. And if several tracks were present, he had to split that time
+among them. If too many tracks appeared, he would have to turn over
+portions of the sky to his assistants, and let them make the decisions
+about launching. This would happen only if he felt an attack was in
+progress, however.
+Low-altitude satellites presented him with a serious problem, since
+there is not a whole lot of difference between the orbit of such a
+satellite and the trajectory of an ICBM. Fortunately most satellite
+orbits were catalogued and available for comparison with incoming
+tracks. However, once in a while an unannounced satellite was launched,
+and these could cause trouble. Only the previous week, at a station down
+the line, an interceptor had been launched at an unannounced satellite.
+Had the pilot not realized what he was chasing and held his fire, the
+international complications could have been serious. It was hard to
+imagine World War III being started by an erroneous interceptor
+launching, but the State Department would be hard put to soothe the
+feelings of some intensely nationalistic country whose expensive new
+satellite had been shot down. Such mistakes were bound to occur, but the
+Launch Control Officer preferred that they be made when someone else,
+not he, was on watch. For this reason he attempted to anticipate all
+known satellites, so they would be recognized as soon as they appeared.
+According to the notes he had made before coming on watch, one of the
+UN's weather satellites was due over shortly. A blip appeared on the
+screen just beyond the 83° latitude line, across the Pole. He checked
+the time with the satellite ephemeris. If this were the satellite, it
+was ninety seconds early. That was too much error in the predicted orbit
+of a well-known satellite. Symbols sprang into existence beside the
+track. It was not quite high enough for the satellite, and the velocity
+was too low. As the white line swept across the screen again, more
+symbols appeared beside the track. Probable impact point was about 40°
+Latitude. It certainly wasn't the satellite. Two more blips appeared on
+the screen, at velocities and altitudes similar to the first. Each swipe
+of the white line left more new tracks on the screen. And the screens
+for the adjacent stations were showing similar behavior. These couldn't
+be meteors.
+The Launch Control Officer slapped his hand down on a red push-button
+set into the arm of his chair, and spoke into his mike. "Red Alert.
+Attack is in progress." Then switching to another channel, he spoke to
+his assistants: "Take your preassigned sectors. Launch one interceptor
+at each track identified as hostile." He hadn't enough interceptors to
+double up on an attack of this size, and a quick glance at the screens
+for the adjacent stations showed he could expect no help from them. They
+would have their hands full. In theory, one interceptor could handle a
+missile all by itself. But the theory had never been tried in combat.
+That lack was about to be supplied.
+  *  *  *  *  *
+Harry Lightfoot heard the alarm over the intercom. He vaguely understood
+what would happen before his launch order came. As each track was
+identified as hostile, a computer would be assigned to it. It would
+compute the correct time of launch, select an interceptor, and order it
+off the ground at the correct time. During the climb to intercept, the
+computer would radio steering signals to the interceptor, to assure that
+the intercept took place in the most efficient fashion. He knew RI 276
+had been selected when a green light on the instrument panel flashed on,
+and a clock dial started indicating the seconds until launch. Just as
+the clock reached zero, a relay closed behind the instrument panel. The
+solid-fuel booster ignited with a roar. He was squashed back into his
+couch under four gees' acceleration.
+Gyroscopes and acceleration-measuring instruments determined the actual
+trajectory of the ship; the navigation computer compared the actual
+trajectory with the trajectory set in before take-off; when a deviation
+from the pre-set trajectory occurred, the autopilot steered the ship
+back to the proper trajectory. As the computer on the ground obtained
+better velocity and position information about the missile from the
+ground radar, it sent course corrections to the ship, which were
+accepted in the computer as changes to the pre-set trajectory. The
+navigation computer hummed and buzzed; lights flickered on and off on
+the instrument panel; relays clicked behind the panel. The ship steered
+itself toward the correct intercept point. All this automatic operation
+was required because no merely human pilot had reflexes fast enough to
+carry out an intercept at twenty-six thousand feet per second. And even
+had his reflexes been fast enough, he could not have done the precise
+piloting required while being pummeled by this acceleration.
+As it was, Major Harry Lightfoot, fighter pilot, lay motionless in his
+acceleration couch. His face was distorted by the acceleration. His
+breathing was labored. Compressed-air bladders in the legs of his
+gee-suit alternately expanded and contracted, squeezing him like the
+obscene embrace of some giant snake, as the gee-suit tried to keep his
+blood from pooling in his legs. Without the gee-suit, he would have
+blacked out, and eventually his brain would have been permanently
+damaged from the lack of blood to carry oxygen to it.
+A red light on the instrument panel blinked balefully at him as it
+measured out the oxygen he required. Other instruments on the panel
+informed him of the amount of cooling air flowing through his suit to
+keep his temperature within the tolerable range, and the amount of
+moisture the dehumidifier had to carry away from him so that his suit
+didn't become a steam-bath. He was surrounded by hundreds of pounds of
+equipment which added nothing to the performance of the ship; which
+couldn't be counted as payload; which cut down on the speed and altitude
+the ship might have reached without them. Their sole purpose was to keep
+this magnificent high-performance, self-steering machine from killing
+its load of fragile human flesh.
+At one hundred twenty-eight seconds after launch, the acceleration
+suddenly dropped to zero. He breathed deeply again, and swallowed
+repeatedly to get the salty taste out of his throat. His stomach was
+uneasy, but he wasn't spacesick. Had he been prone to spacesickness, he
+would never have been accepted as a Rocket Interceptor pilot. Rocket
+Interceptor pilots had to be capable of taking all the punishment their
+ships could dish out.
+He knew there would be fifty seconds of free-fall before the rockets
+fired again. One solid-fuel stage had imparted to the ship a velocity
+which would carry it to the altitude of the missile it was to intercept.
+A second solid-fuel stage would match trajectories with the missile.
+Final corrections would be made with the liquid-fuel rockets in the
+third stage. The third stage would then become a glider which eventually
+would carry him back to Earth.
+Before the second stage was fired, however, the ship had to be oriented
+properly. The autopilot consulted its gyros, took some star sights, and
+asked the navigation computer some questions. The answers came back in
+seconds, an interval which was several hours shorter than a human pilot
+would have required. Using the answers, the autopilot started to swing
+the ship about, using small compressed-gas jets for the purpose.
+Finally, satisfied with the ship's orientation, the autopilot rested. It
+patiently awaited the moment, precisely calculated by the computer on
+the ground, when it would fire the second stage.
+Major Harry Lightfoot, fighter pilot, waited idly for the next move of
+his ship. He could only fume inwardly. This was no way for an Apache
+warrior to ride into battle. What would his grandfather think of a steed
+which directed itself into battle and which could kill its rider, not by
+accident, but in its normal operation? He should be actively hunting for
+that missile, instead of lying here, strapped into his couch so he
+wouldn't hurt himself, while the ship did all the work.
+As for the missile, it was far to the north and slightly above the ship.
+Without purpose of its own, but obedient to the laws of Mr. Newton and
+to the wishes of its makers, it came on inexorably. It was a sleek
+aluminum cylinder, glinting in the sunlight it had just recently
+entered. On one end was a rocket-motor, now silent but still warm with
+the memory of flaming gas that had poured forth from it only minutes
+ago. On the other end was a sleek aerodynamic shape, the product of
+thousands of hours of design work. It was designed to enter the
+atmosphere at meteoric speed, but without burning up. It was intended to
+survive the passage through the air and convey its contents intact to
+the ground. The contents might have been virulent bacteria or toxic gas,
+according to the intentions of its makers. Among its brothers elsewhere
+in the sky this morning, there were such noxious loads. This one,
+however, was carrying the complex mechanism of a hydrogen bomb. Its
+destination was an American city; its object to replace that city with
+an expanding cloud of star-hot gas.
+  *  *  *  *  *
+Suddenly the sleek cylinder disappeared in a puff of smoke, which
+quickly dissipated in the surrounding vacuum. What had been a
+precisely-built rocket had been reduced, by carefully-placed charges of
+explosive, to a collection of chunks of metal. Some were plates from the
+skin and fuel tanks. Others were large lumps from the computer-banks,
+gyro platform, fuel pumps, and other more massive components. This was
+not wanton destruction, however. It was more careful planning by the
+same brains which had devised the missile itself. To a radar set on the
+ground near the target, each fragment was indistinguishable from the
+nose cone carrying the warhead. In fact, since the fragments were
+separating only very slowly, they never would appear as distinct
+objects. By the time the cloud of decoys entered the atmosphere, its
+more than two dozen members would appear to the finest radar available
+on the ground as a single echo twenty-five miles across. It would be a
+giant haystack in the sky, concealing the most deadly needle of all
+time. No ground-controlled intercept scheme had any hope of selecting
+the warhead from among that deceptive cloud and destroying it.
+The cloud of fragments possessed the same trajectory as the missile
+originally had. At the rate it was overtaking RI 276, it would soon pass
+the ship by. The autopilot of RI 276 had no intention of letting this
+happen, of course. At the correct instant, stage two thundered into
+life, and Harry Lightfoot was again smashed back into his acceleration
+couch. Almost absentmindedly, the ship continued to minister to his
+needs. Its attention was focused on its mission. After a while, the
+ground computer sent some instructions to the ship. The navigation
+computer converted these into a direction, and pointed a radar antenna
+in that direction. The antenna sent forth a stream of questing pulses,
+which quickly returned, confirming the direction and distance to the
+oncoming cloud of missile fragments. A little while later, fuel pumps
+began to whine somewhere in the tail of the ship. Then the acceleration
+dropped to zero as the second-stage thrust was terminated. There was a
+series of thumps as explosive bolts released the second stage. The whine
+of the pumps dropped in pitch as fuel gushed through them, and
+acceleration returned in a rush. The acceleration lasted for a few
+seconds, tapered off quickly, and ended. A light winked on on the
+instrument panel as the ship announced its mission was accomplished.
+Major Harry Lightfoot, fighter pilot, felt a glow of satisfaction as he
+saw the light come on. He might not have reflexes fast enough to pilot
+the ship up here; he might not be able to survive the climb to intercept
+without the help of a lot of fancy equipment; but he was still
+necessary. He saw still one step ahead of this complex robot which had
+carried him up here. It was his human judgment and his ability to react
+correctly in an unpredictable situation which were needed to locate the
+warhead from among the cluster of decoys and destroy it. This was a job
+no merely logical machine could do. When all was said and done, the only
+purpose for the existence of this magnificent machine was to put him
+where he was now; in the same trajectory as the missile, and slightly
+behind it.
+Harry Lightfoot reached for a red-handled toggle switch at the top of
+the instrument panel, clicked it from AUTO to MANUAL, and changed his
+status from passenger to pilot. He had little enough time to work. He
+could not follow the missile down into the atmosphere; his ship would
+burn up. He must begin his pull-out at not less than two hundred miles
+altitude. That left him one hundred eighty-three seconds in which to
+locate and destroy the warhead. The screen in the center of his
+instrument panel could show a composite image of the space in front of
+his ship, based on data from a number of sensing elements and detectors.
+He switched on an infrared scanner. A collection of spots appeared on
+the screen, each spot indicating by its color the temperature of the
+object it represented. The infrared detector gave him no range
+information, of course. But if the autopilot had done its job well, the
+nearest fragment would be about ten miles away. Thus even if he set off
+the enemy warhead, he would be safe. At that range the ship would not
+suffer any structural damage from the heat, and he could be down on the
+ground and in a hospital before any radiation effects could become
+serious.
+He reflected quickly on the possible temperature range of the missile
+components. The missile had been launched from Central Asia, at night,
+in January. There was no reason to suppose that the warhead had been
+temperature-controlled during the pre-launch countdown. Thus it probably
+was at the ambient temperature of the launch site. If it had been fired
+in the open, that might be as low as minus 70° F. Had it been fired from
+a shelter, that might be as high as 70° F. To leave a safety margin, he
+decided to reject only those objects outside the range plus or minus
+100° F. There were two fragments at 500° F. He rejected these as
+probably fragments of the engine. Six more exhibited a temperature of
+near minus 320° F. These probably came from the liquid oxygen tanks.
+They could be rejected. That eliminated eight of the objects on the
+screen. He had nineteen to go. It would be a lot slower for the rest,
+too.
+  *  *  *  *  *
+He switched on a radar transmitter. The screen blanked out almost
+completely. The missile had included a micro-wave transmitter, to act as
+a jammer. It must have been triggered on by his approach. It obviously
+hadn't been operating while the ship was maneuvering into position. Had
+it been transmitting then, the autopilot would simply have homed on it.
+He switched the radar to a different frequency. That didn't work. The
+screen was still blank, indicating that the jammer was sweeping in
+frequency. He next tried to synchronize his radar pulses with the
+jammer, in order to be looking when it was quiet. The enemy,
+anticipating him, had given the jammer a variable pulse repetition rate.
+He switched off the transmitter, and scanned the radar antenna manually.
+He slowly swung it back and forth, attempting to fix the direction of
+the jammer by finding the direction of maximum signal strength. He found
+that the enemy had anticipated him again, and the jammer's signal
+strength varied. However, he finally stopped the antenna, satisfied that
+he had it pointed at the jammer. The infrared detector confirmed that
+there was something in the direction the antenna pointed, but it
+appeared too small to be the warhead.
+He then activated the manual piloting controls. He started the fuel
+pumps winding up, and swung the ship to point normal to the
+line-of-sight to the jammer. A quick blast from the rockets sent the
+image of the jammer moving sideways across the screen. But, of greater
+importance, two other objects moved across the screen faster than the
+jammer, indicating they were nearer the ship than was the jammer. He
+picked the one which appeared the nearest to him, and with a series of
+maneuvers and blasts from the rockets placed the object between himself
+and the jammer. He switched the radar on again. Some of the jammer
+signal was still leaking through, but the object, whatever it was, made
+an effective shield. The radar images were quite sharp and clear.
+He glanced at the clock. Nullifying the jammer had cost him seventy-five
+seconds. He'd have to hurry, in order to make up for that time. The
+infrared detector showed two targets which the radar insisted weren't
+there. He shifted radar frequency. They still weren't there. He decided
+they were small fragments which didn't reflect much radar energy, and
+rejected them. He set the radar to a linearly polarized mode. Eight of
+the targets showed a definite amplitude modulation on the echo. That
+meant they were rotating slowly. He switched to circular polarization,
+to see if they presented a constant area to the radar beam. He compared
+the echoes for both modes of polarization. Five of the targets were skin
+fragments, spinning about an axis skewed with respect to the radar beam.
+These he rejected. Two more were structural spars. They couldn't conceal
+a warhead. He rejected them. After careful examination of the fine
+structure of the echo from the last object, he was able to classify it
+as a large irregular mass, probably a section of computer, waving some
+cables about. Its irregularity weighed against its containing the
+warhead. Even if it didn't burn up in the atmosphere, its trajectory
+would be too unpredictable.
+He turned to the rest of the targets. Time was getting short. He
+extracted every conceivable bit of information out of what his detectors
+told him. He checked each fragment for resonant frequencies, getting an
+idea of the size and shape of each. He checked the radiated infrared
+spectrum. He checked the decrement of the reflected radar pulse. Each
+scrap of information was an indication about the identity of the
+fragments. With frequent glances at the clock, constantly reminding him
+of how rapidly his time was running out, he checked and cross-checked
+the data coming in to him. Fighting to keep his mind calm and his
+thoughts clear, he deduced, inferred, and decided. One fragment after
+another, he sorted, discarded, rejected, eliminated, excluded. Until the
+screen was empty.
+Now what? Had the enemy camouflaged the warhead so that it looked like a
+section of the missile's skin? Not likely. Had he made a mistake in his
+identification of the fragments? Possibly, but there wasn't time to
+recheck every fragment. He decided that the most likely event was that
+the warhead was hidden by one of the other fragments. He swung the ship;
+headed it straight for the object shielding him from the jammer, which
+had turned out to be a section from the fuel tank. A short blast from
+the rockets sent him drifting toward the object. One image on the screen
+broadened; split in two. A hidden fragment emerged from behind one of
+the ones he had examined. He rejected it immediately. Its temperature
+was too low. He was almost upon the fragment shielding him from the
+jammer. If he turned to avoid it, the jammer would blank-out his radar
+again. He thought back to his first look at the cloud of fragments.
+There had been nothing between his shield and the jammer. The only
+remaining possibility, then, was that the warhead was being hidden from
+him by the jammer itself. He would have to look on the other side of the
+jammer, using the ship itself as a shield.
+He swung out from behind the shielding fragment, and saw his radar
+images blotted out. He switched off the radar, and aimed the ship
+slightly to one side of the infrared image of the jammer. Another blast
+from the rockets sent him towards the jammer. Without range information
+from the radar, he would have to guess its distance by noting the rate
+at which it swept across the screen. The image of the jammer started to
+expand as he approached it. Then it became dumbbell shaped and split in
+two.
+As he passed by the jammer, he switched the radar back on. That second
+image was something which had been hidden by the jammer. He looked
+around. No other new objects appeared on the screen. This had to be the
+warhead. He checked it anyway. Temperature was minus 40° F. A smile
+flickered on his lips as he caught the significance of the temperature.
+He hoped the launching crew had gotten their fingers frozen off while
+they were going through the countdown. The object showed no anomalous
+radar behavior. Beyond doubt, it was the warhead.
+Then he noted the range. A mere thirteen hundred yards! His own missile
+carried a small atomic warhead. At that range it would present no danger
+to him. But what if it triggered the enemy warhead? He and the ship
+would be converted into vapor within microseconds. Even a partial,
+low-efficiency explosion might leave the ship so weakened that it could
+not stand the stresses of return through the atmosphere. Firing on the
+enemy warhead at this range was not much different from playing Russian
+Roulette with a fully-loaded revolver.
+Could he move out of range of the explosion and then fire? No. There
+were only twelve seconds left before he had to start the pull-out. It
+would take him longer than that to get to a safe range, get into
+position, and fire. He'd be dead anyway, as the ship plunged into the
+atmosphere and burned up. And to pull out without firing would be saving
+his own life at the cost of the lives he was under oath to defend. That
+would be sheer cowardice.
+  *  *  *  *  *
+He hesitated briefly, shrugged his shoulders as well as he could inside
+his flying suit, and snapped a switch on the instrument panel. A set of
+cross hairs sprang into existence on the screen. He gripped a small
+lever which projected up from his right armrest; curled his thumb over
+the firing button on top of it. Moving the lever, he caused the cross
+hairs to center on the warhead. He flicked the firing button, to tell
+the fire control system that _this_ was the target. A red light blinked
+on, informing him that the missile guidance system was tracking the
+indicated target.
+He hesitated again. His body tautened against the straps holding it in
+the acceleration couch. His right arm became rigid; his fingers
+petrified. Then, with a convulsive twitch of his thumb, he closed the
+firing circuit. He stared at the screen, unable to tear his eyes from
+the streak of light that leaped away from his ship and toward the
+target. The missile reached the target, and there was a small flare of
+light. His radiation counter burped briefly. The target vanished from
+the radar, but the infrared detector insisted there was a nebulous fog
+of hot gas, shot through with a rain of molten droplets, where the
+target had been. That was all. He had destroyed the enemy warhead
+without setting it off. He stabbed the MISSION ACCOMPLISHED button, and
+flicked the red-handled toggle switch, resigning his status as pilot.
+Then he collapsed, nerveless, into the couch.
+The autopilot returned to control. It signaled the Air Defense network
+that this hostile track was no longer dangerous. It received
+instructions about a safe corridor to return to the ground, where it
+would not be shot at. As soon as the air was thick enough for the
+control surfaces to bite, the autopilot steered into the safe corridor.
+It began the slow, tedious process of landing safely. The ground was
+still a long way down. The kinetic and potential energy of the ship, if
+instantly transformed into heat, was enough to flash the entire ship
+into vapor. This tremendous store of energy had to be dissipated without
+harm to the ship and its occupant.
+Major Harry Lightfoot, fighter pilot, lay collapsed in his couch,
+exhibiting somewhat less ambition than a sack of meal. He relaxed to the
+gentle massage of his gee-suit. The oxygen control winked reassuringly
+at him as it maintained a steady flow. The cabin temperature soared, but
+he was aware of it only from a glance at a thermometer; the air
+conditioning in his suit automatically stepped up its pace to keep him
+comfortable. He reflected that this might not be so bad after all.
+Certainly none of his ancestors had ever had this comfortable a ride
+home from battle.
+After a while, the ship had reduced its speed and altitude to reasonable
+values. The autopilot requested, and received, clearance to land at its
+preassigned base. It lined itself up with the runway, precisely followed
+the correct glide-path, and flared out just over the end of the runway.
+The smoothness of the touchdown was broken only by the jerk of the drag
+parachute popping open. The ship came to a halt near the other end of
+the runway. Harry Lightfoot disconnected himself from the ship and
+opened the hatch. Carefully avoiding contact with the still-hot metal
+skin of the ship, he jumped the short distance to the ground. The low
+purr of a motor behind him announced the arrival of a tractor to tow the
+ship off the runway.
+"You'll have to ride the tractor back with me, sir. We're a bit short of
+transportation now."
+"O.K., sergeant. Be careful hooking up. She's still hot."
+"How was the flight, sir?"
+"No sweat. She flies herself most of the time."
+THE END

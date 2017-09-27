@@ -1,0 +1,1293 @@
+THE TROUBLE WITH TELSTAR
+by JOHN BERRYMAN
+The real trouble with communications satellites is
+the enormous difficulty of repairing
+even the simplest little trouble.
+You need such a loooong screwdriver.
+  *  *  *  *  *
+Doc Stone made sure I wouldn't give him the "too busy" routine. He
+sent Millie to get me.
+"Okay, Millie," I said to Stone's secretary. "I'll be right with you."
+I cleared the restricted notes and plans from my desk and locked them
+in the file cabinet, per regulations, and walked beside Millie to
+Stone's office.
+"It's a reflex mechanism, Mike," Dr. Stone said as Millie showed me
+in. "Every type knows how to fight for survival." He took one
+thoughtful puff on his pipe. "The old fud," he added.
+"The solenoid again, Doc?" I asked.
+"What else, Mike?" he said, raising his pale eyebrows. "It's Paul
+Cleary's baby, and after all these years with the company, he doesn't
+figure to go down without a fight."
+So I was in the middle of it. I had no business to be there, either.
+The design of that solenoid certainly hadn't been mine. All I had ever
+done was find out how to destroy it. And after all, that's part of
+what my lab does, and what I do, for a living.
+"Quit staring out the window, Mike," Doc said behind me. "Here, sit
+down."
+I took the chair beside the desk and watched him go through the
+business of unloading his pipe, taking the carefully air-tight top off
+the humidor we had machined for him down in the lab, and loading up
+with the cheapest Burley you can buy. So much for air-tight
+containers. Doc got it going, which took two wooden matches, because
+the stuff was wringing wet--thanks again to an air-tight container.
+"I just left Cleary's office, Mike," he explained. "He won't admit
+that there's any significance to the failures you have introduced in
+his solenoid. He insists that your test procedures affected
+performance more than design did, and he wants to talk with you."
+"Great," I said glumly. "Can I count on you to give me a good
+recommendation for my next employer?"
+"Cut it out, Mike," he said, coming as near to a snap as his careful
+voice could manage. He blew smoke out around the stem of his pipe. I
+think sometimes it's a part of his act, like the slightly-out-of-press
+sports jacket and flannel trousers. It says he is a sure enough Ph.D.
+If you ask me, he's a comer. You can't rate him for lack of brains. He
+knows an awful lot about solid-state physics, and for a physicist, he
+sure learned enough about micro-assemblies of electronic components. I
+guess that's why he was in charge of final assembly of the Telstar
+satellites for COMCORP.
+"Don't worry about what Paul Cleary can do _to_ you, Mike," he
+suggested. "Think a little bit more about what Fred Stone can do _for_
+you. Cleary is only a year or so from retirement, and you know it."
+"He could make that an awful tough year, Doc." I said. "You told me he
+won't hear of design bugs in that solenoid. He'll insist something
+went wrong in assembly."
+Doc Stone smiled thinly at me and brushed at his blond crew cut. "It
+is a tough spot, Mike," he agreed. "Because I won't hear any talk of
+faulty assembly. You'll have to choose, I guess. If you think you can
+make your bed by playing footsie with an old fud who has only a year
+to go, try it. Just remember that I've got another thirty years to go,
+and I'll breathe down your neck every minute of them if you let me
+down!"
+"Sure," I said. "When do I see him?"
+"Now."
+  *  *  *  *  *
+Doc Stone got someone named Sylvia on the phone and then told me to go
+right up. After I got there, I had to sit and wait in Cleary's outer
+office.
+I shared it with a small, intense girl named Sylvia Shouff, if you
+believed the little plastic sign on her desk. There was barely room
+for it in the welter of paper, files, notebooks, phones, calendars and
+other junk she had squirreled. She was much too busy banging at a
+typewriter and handling the phone to pay any attention to me. Her
+pert, lively manner said she hadn't taken any wooden nickels lately.
+But I had. The last series of tests in my lab had put me in the middle
+of a hell of a scrap. It had all started a couple years back, when the
+final design had been approved for a whole sky-full of communications
+satellites. Well, eighteen, to be exact. One of the parts in the
+design had been a solenoid, part No. M1537, which handled a switching
+operation too potent for a solid-state switch. That solenoid was one
+of the few moving parts in the Telstars, and it had been designed for
+skeighty-eight million cycles before it got sloppy or quit.
+In practice, out in space, the switching operation simply hadn't
+worked. After about a hundred hours of use in Telstar One, it failed.
+Unfortunately, this had not been discovered until the first six
+satellites had been launched. Further launchings were postponed while
+they ran accelerated switching tests on satellites Two through Six out
+in space. The same kind of failure took place on each bird.
+There were two schools of thought on licking the bug. Doc Stone, of
+course, insisted that solenoid M1537 had failed, which was one
+possible interpretation of the telemetry. And Paul Cleary, who had
+been in charge of design, insisted that faulty assembly was to blame.
+Well, somebody would make up his mind pretty soon, and my evidence
+would have a lot to do with it. I had done the appraisal tests of the
+circuit in the test lab once the bug had been detected, and now Cleary
+was going to smoke it out of me.
+"Mr. Seaman," Sylvia Shouff said to me, kind of waking me up. "Mr.
+Cleary will see you now. Have you ever met?" she added, as I came
+toward her desk.
+I shook my head. "I'm a working stiff," I said, "I never get to meet
+the brass."
+"You are also somewhat insolent," she said tartly. "Better wash out
+your mouth before you try that on Paul Cleary. He eats wise young
+laboratory technicians for breakfast."
+"Yes, _mam_!" I said, feeling my ears burn. She led me to the door,
+opened it, and introduced me to Paul Cleary. He lumbered out around
+his desk and shook my hand with his rather gnarled and boney paw.
+"Hello, Seaman. I'm glad to meet you, young man. Come in. We have a
+lot to talk about," he said.
+  *  *  *  *  *
+Considering that Cleary was a wheel, and had thirty years of service
+with Western Electric behind him, his office wasn't especially large.
+Maybe that's because Communications Corporation is owned half by the
+government and half by AT&T. The government half makes us watch our
+pennies.
+"Have a seat, Mike," Cleary said, going around to lower himself
+carefully into a tall swivel chair. He learned back and rocked slowly,
+like an old woman on the front porch of a resort hotel. His pipe was
+still smoking in a rather large ashtray. He picked it up, showing it
+to be a curve-stemmed old-man's style, and puffed contentedly at it.
+On him it didn't look like an act.
+"Well," he said, pulling big shaggy eyebrows down so they shaded his
+pale blue eyes. "You've become something of a celebrity around here,
+Mike."
+This was an unexpected approach. "Nobody told _me_," I complained.
+"Does this kind of fame show up in the paycheck?"
+"Not always," Cleary said, scowling a little. "I just meant that your
+name gets bandied about. Every time I talk to Fred Stone he says, 'Dr.
+Seaman says this,' or 'Dr. Seaman says that.' I just had to see what
+this doctor looked like."
+"You can forget the doctor part," I said uncomfortably. I had heard
+that Cleary was sensitive about having no advanced degree. When he
+went to work for the Western, college was plenty. You did your
+post-graduate work on the job. He sure had--and he had a string of
+patents as long as your arm to prove it.
+"That's good," he said. "I'd hate to think I was competing with you in
+the field of knowledge where you are the world's specialist."
+I grinned at him a little sickly. "COMCORP has never made any use of
+my specialty," I conceded. "You already had about ten guys around here
+who had learned twice as much as I had simply by doing it every day
+for a living. They could have written rings around my thesis."
+"Sure," he said contentedly, puffing more smoke. "So we made a testing
+engineer out of you. And you may amount to something, to hear Fred
+Stone tell it."
+"Thanks," I said.
+"Now let me hear what you've been doing for Fred," Cleary suggested,
+in a sort of avuncular tone. "I'd like to measure you myself."
+"You mean the tests I ran on the switching gate?" I asked.
+"Why, yes, we can start there," he nodded, squinting his blue eyes
+more and blowing a real screen up between us.
+  *  *  *  *  *
+"When Telstar One packed up, they sent me down the whole gate from
+that sector," I said. "Dr. Stone asked me to run destruct tests on the
+whole assembly, which I did. The only failures I have induced so far
+are failures in M1537, the solenoid that all the shouting is about."
+"What kind of failures did you get?"
+"Armature froze on the field," I said. "I guess the bearings really
+went. When there was enough load on them, they couldn't maintain
+concentricity."
+"What kind of loads?" he growled, sinking down lower in his chair. He
+put his elbows on the arm and laced hairy-backed fingers together
+under his chin.
+"I put the whole gate on the centrifuge and swung it up to twelve
+gees" I said. "Switching was normal there for the twenty thousand
+cycles I gave the gate. But when I added undamped vibration at twelve
+thousand to fifteen thousand cycles per second, I could induce failure
+pretty quickly. Say an hour or so."
+"You had to apply the vibration throughout the whole test period to
+get these failures?"
+"Yes, Mr. Cleary."
+"Then how do you explain how vibration during no more than six or
+eight minutes of blast-off and launch could have the same effect on
+the actual installation on M1537 in a satellite, Mr. Seaman?" Smoke
+poured from the curve-stem.
+"I don't have to explain it," I said, beginning to get a little hot.
+"All I have done is find a way to make one part quit. I haven't said
+it did quit in use, or that it could be made to quit in use."
+"Then what the hell are you good for?" Cleary growled.
+I didn't have any answer for that.
+He repeated his question, blue eyes glittering. "I asked you what the
+hell you were good for, Seaman!" he said, much more loudly.
+"For putting in the middle," I snapped back.
+"That's how you interpret this affair, then?"
+"Yes."
+"All right," Cleary said, straightening up. "We'll stop talking about
+your work as if it were scientific study and talk about it as a play
+in office politics. Is that what you want?"
+"I don't want any part of it," I said, hoping I wasn't plaintive. "I
+work under orders. The director of assembly asked me to test the part
+to destruction. I tested it. I'm sorry that it wasn't a soldered joint
+that failed. It wasn't. It was a solenoid. What has that got to do
+with me?"
+"Nothing, maybe," Cleary conceded, pushing himself up out of his
+chair. He went to his window to stare out at the parking lot. "You can
+be a test engineer all your life, if that's what you want."
+"It isn't."
+"And what do you want, Mike?" he said, turning back to face me.
+"Your job," I said. "In time."
+  *  *  *  *  *
+He nodded. "Well said," he decided. "But if you want it, you'll have
+to learn that business is about ninety per cent people and about ten
+per cent operations. You know, as you have clearly shown, that Fred
+Stone is pushing to get me out of here a little before my time, and
+pushing to make sure that he gets this spot, for which there are other
+claimants of equal rank in the organization. Oh no," he said, holding
+up his hand. "Don't tell me that is none of your affair. Right now you
+are in the unusual position of being able to cast a vote that will
+decide just how soon Fred Stone can make his move for the top spot.
+And as long as you sit there and try that smug line of 'I just test
+'em and let the chips fall where they may,' you are really siding with
+Fred Stone. I need something else out of you, and you know it. What's
+it going to be? Are you a wise enough head at your years to pick a
+winner in this scrap? And what if it _isn't_ Fred? I'll have your
+hide, young man."
+[Illustration]
+"That's what your snippy little brunette said," I told him. "She told
+me that you'd eat me for breakfast, and she was right." I got to my
+feet.
+"Where are you going," he growled. He was still standing behind his
+chair.
+"To look for another job, Mr. Cleary. There must be some place where
+the honest result of a test will be assessed as the honest result of a
+test rather than a move in a political fight."
+"Honest result?" he echoed, and snorted. "_Was_ your test honest? What
+_really_ happened out there in space?"
+"Nobody asked me," I said hotly. "My assignment was to test that gate
+until a part failed."
+"A dishonest assignment," Cleary said. "Sit down a minute." We both
+calmed down and took our seats. I got a cigar out of my coat, peeled
+the wrapper and made counter-smoke. "Here, I'll give you an honest
+assignment, Seaman. You're a test engineer. Tell me what happened _out
+there in space_. Why did that switching operation fail?"
+"I haven't the faintest idea," I said.
+"Then find out!"
+I chewed my cigar. "Without duplicating the conditions?" I protested.
+"And how can we? There's zero gravity--zero pressure--all sorts of
+things going on out there we can't duplicate in a lab."
+"I really don't care how you do it," he said. "But if it were my job
+I'd just light my pipe and sit here and think for a week or so. Why
+don't _you_ try it?"
+I got up again. "Yes, sir," I said. "I suppose it would help to have
+the original telemetry data so that I could evaluate for myself what
+went wrong."
+"I thought you'd get to that," he said, passing me a fat file-folder.
+"Here it is." He stood up, too, and led me to the door. "And other
+data you might want?" he asked, now a good deal more kindly. His hand
+was on my elbow.
+I looked at him. "How about the phone number of the brunette out
+there?" I asked without taking the stogey from my teeth.
+"Sylvia? That's pretty valuable information," he said, beginning to
+grin in a sleepy old fashion. "But she only dates astronauts. If you
+haven't made at least three orbits, she won't even have dinner with
+you."
+[Illustration]
+I stopped at Sylvia's desk with half an idea of asking her for a date.
+"Well, Dr. Seaman," she demanded as I chewed on my pacifier. "What did
+you learn?"
+I thought about it. "That a lot depends on knowing where to put your
+feet," I said, puffing smoke. "And my name is Mike."
+She sniffed. "If you think Paul Cleary hasn't been around long enough
+to catch Fred Stone trying to fake him out of position with a
+meaningless test," she said, "you have another think coming!"
+"He'd never have tried it," I told her, "if he'd known Cleary had you
+to look after him." That got me a much louder sniff and toss of the
+dark curly head, which broke up my plans to ask her to dinner.
+The telemetry results had been decoded, of course, so that a mere
+mortal could read them. I didn't have a pipe, which probably meant I'd
+be a failure as a physicist, so I chewed cigars ragged for about three
+days and did some serious thinking. When I got a result, I looked up
+Shouff, Sylvia, Secy./Mgr./Dsgn., in the phone directory, and talked
+to my favorite brunette.
+"Mr. Cleary's office," she said.
+"When would he like to see Mike Seaman?" I tried.
+"Probably never," she told me. "But I suppose he'll have to. Isn't
+Fred Stone going to run your errand for you?"
+"I'm running Fred Stone's errands, isn't that what you really think,
+Sylvia?" I asked her.
+Sniff! "He can see you at eleven." Click.
+Paul Cleary had his coat off and was poring over a large
+black-on-white schematic when I was shown in by sniffin' Sylvia.
+"Hello, Mike," he growled. "Here, Sylvia. Mike's not supposed to see
+this stuff. Drag it away, honey. Drag it away!"
+With quick motions she rolled up the drawings, snapped a rubber binder
+around them and went out. Cleary wagged his hairy old paw to the chair
+beside his desk.
+"So you've been thinking?" he asked, reaching for his curve-stemmed
+pipe.
+"How do you know?"
+"My spies tell me you haven't been out in the lab since the other day.
+Certainly you were doing something besides sulk in your office."
+"Yes."
+"Well, what did you come up with? Why did that switching operation
+fail out in space."
+"I don't know."
+His shaggy eyebrows shot up. "You don't know? Is that all COMCORP got
+for three days' pay?"
+"A confession of ignorance is a hell of a lot more revealing than a
+solid error," I snapped. "The honest answer that I get out of the
+telemetry data is that something in that gate broke the circuit and
+the switching operation failed. I think there are about seven thousand
+components in the gate. I don't know which one failed. A few I can
+rule out, because they would only cause part of the gate to fail. But
+a hundred different breaks could account for the data. So I don't
+know."
+He lit his pipe and blew smoke around the curved stem before he made
+reply. "So we got a philosopher for our money," he said. "A confession
+of ignorance, eh? What are you going to do about it?"
+"You tell me, Mr. Cleary. You're the old head around here."
+"So I am," he said evenly. "So I am. Well, my advice to young pups is
+that they should not be ashamed when they don't know. They should say
+so. But they should have something else to say along with it."
+"For example," I suggested grumpily.
+"They should say, 'I don't know, but I know where to find out,'" he
+said. "Tell me, Dr. Seaman, do you know where to find out?"
+He puffed at me for the two or three minutes I thought about it.
+Really, that's a very long time to think. Most ideas come to you the
+moment you identify the problem, which is the really hard part of
+thinking. But this problem took some thought, and I wanted him to
+think I was thinking.
+"Yes," I said at last. "I know where to find out."
+"Where?"
+"Out in space."
+  *  *  *  *  *
+This called for a lot more smoke. "You mean, go out there and look at
+the satellite, in space?"
+"Yes, I can't imagine any other way really to figure it out."
+He nodded. "You may be right, Mike. But do you know how much it costs
+to send a manned satellite aloft?"
+"Oh," I agreed. "There are cheaper ways. We can beef up every part in
+that gate, test it much tougher than we already have, and when we get
+the gate to where all seven thousand components can stand any
+imaginable strain, we can rebuild the twelve Telstars we haven't
+launched yet and be pretty sure they won't have switching failures.
+But that isn't what you asked me."
+"We'd have to fix eighteen of them," he said. "The first six are about
+sixty per cent useless. They'd have to be replaced."
+"I still think you should consider sending a man to examine the
+Telstars in orbit," I suggested.
+"Science demands it, eh" he growled.
+"No, I was thinking that perhaps a simple repair could be made in
+space, and that you wouldn't have to launch six extra birds."
+He got out of the chair and went to the clothes tree to put on his
+coat. The elbows were shiny from leaning on his desk. "It might be
+cheaper at that," he said. "The first six are launched in only two
+orbits. Three telstars in each orbit, separated by one hundred and
+twenty degrees. Two launches of a repair man might do it, with careful
+handling. Is that what you had in mind?"
+"Something like that."
+"We'd have to send a pretty rare kind of a repair man, Mike," he said,
+coming back to sit on the corner of his desk and glower down at me.
+That was about his kindest expression.
+"Yes," I agreed. "You need somebody who can test and diagnose, and
+then make a repair."
+"And who is an astronaut, too," he said. "I wonder if there is such a
+thing?"
+"Make one," I suggested.
+He scowled a little more fiercely. "Explain that," he ordered.
+"I figure you could take one of our men from my laboratory, who knows
+how to test the gate, and a man who is handy enough with miniature
+components to cut out the one that failed and replace it, and teach
+him how to get around in a spacesuit. That would surer than hell be
+quicker than taking one of these hot-shot astronauts and teaching him
+solid-state physics."
+"Yes," he agreed, looking down his fingers. "That was a pretty sneaky
+way to get out from between Fred Stone and me, young man."
+I couldn't resist it: "That's what took most of the three days," I
+said, just a little too smugly.
+"I liked you better in the middle," Cleary grumped. "Well, you have a
+thought, and it calls for a conference." He took his coat off again,
+hung it on the clothes tree, came back to his desk and got on the
+phone.
+"Sylvia? Have Fred Stone come up, and you come in with him, eh? That's
+a dear."
+He racked up the instrument and smiled at me as he stoked his pipe
+into more activity. "Relax," he advised me. "It always takes a while
+to round up Fred Stone."
+He wanted no small talk, so I fidgeted in my chair while Cleary rocked
+gently in his. In about ten minutes, curly-headed Sylvia brought Dr.
+Stone in with her.
+  *  *  *  *  *
+It was, "Hello, Fred," and "Hello there, Paul," when they came in.
+Sylvia didn't have anything to say, although she gave me a hot-eyed
+glance before pulling out the dictation board on Paul Cleary's desk
+and making herself comfortable with her notebook.
+Cleary offered Doc Stone some of his tobacco, which was politely
+refused. The old man began it:
+"Your Dr. Seaman has quite an idea, Fred," he said, in a mild, kindly
+voice, with a dumb, guileless look on his face.
+"Good, Paul," Doc Stone smiled thinly. "I've told you he's a good
+boy."
+"Hm-m-m," said Cleary. "He says his tests can't prove what went wrong
+with the switching gate on the satellites, and in effect that the
+telemetry doesn't make it plain whether we have design or assembly
+trouble."
+"Well, _well_!" said Fred Stone. I decided to start shopping for a
+marker for my grave.
+"Yes," Cleary said. "He made quite a suggestion, that we send a man
+out in space to look over the Telstars and find out what went wrong.
+Even better, he says it might be possible to make a repair at the same
+time and get the bird working. You can see the advantages of doing
+that, the way they are orbiting."
+"Yes, indeed," Doc Stone said, looking at me with slitted eyes. "Quite
+a unique adventure for some technician."
+"Just what I was thinking," Cleary said. "The problem resolves into:
+Who do we send? Now Mike, here, says we should take a man from his lab
+who knows the bird and its assembly and teach him how to get around in
+a spacesuit--that, he claims, would be quicker than taking one of
+these space jockeys and making a technician out of him."
+"I think he's right."
+"So--there we are. Who do we send?"
+"There can hardly be any choice," Dr. Stone said, looking at me with
+eyes like granite.
+"Hardly," Cleary agreed. "The head of the lab is the best man, beyond
+a doubt."
+They were talking about me! Try to get out of taking sides, would I?
+Cleary wanted me back in the middle. Stone wanted me dead. They were
+both likely to get their way, unless I told them off.
+I opened my mouth. Cleary cleared his throat loudly.
+"Oh, Dr. Seaman!" Sylvia cut in, breaking her careful silence. "What a
+thrilling opportunity for you!"
+I gaped at her. Well, Cleary had said it. She only went out with
+astronauts. She was space-happy.
+"There are men in the shop who deserve the chance...." I started.
+"Nonsense!" she said quickly. "It's your idea, doctor, and you deserve
+the fame!"
+"And the promotion this will undoubtedly earn--if you can bring it
+off," Cleary added.
+"Yes!" Dr. Stone said with relish. He didn't think I could, either.
+Well, that made three of us, unless Sylvia made four.
+"Thank you very much," I started, as a prelude to backing out.
+"Good, that's settled," Cleary said. "That's all, Sylvia."
+She got up and left. She had done her dirty work. If I hadn't been so
+sick at my stomach, I would have had to admire really great teamwork.
+Stone shook my hand with an evil kind of relish and followed her out.
+That left Paul Cleary and me alone. "This is a great thing, young
+man," he said.
+I couldn't stand him any longer. "You are a worm!" I told him.
+"You're probably right, Mike," he agreed, without any particular heat.
+"But a rather just one. I think you'll admit you've been paid off in
+your own coin. All you had to do was beg off."
+"In front of her? You knew I wouldn't."
+"I _figured_ you wouldn't. That's one of the advantages of being
+older. You know more about how the young will behave. Come on," he
+said, getting up to put on his coat again. "We have to see a man."
+"One thing," I said, as I got up, "while we're being so just."
+"Yes?"
+"I had thought of asking your Sylvia for a date. But she was so snippy
+the other night I decided to forget it. Now, she got me into this, and
+she'll have to pay and pay! How do I get to her? It'll be quite a
+while before I'm an astronaut."
+He took his pipe from between his teeth. "This calls for the wisdom of
+a Solomon," he decided. "But you might try oysters."
+  *  *  *  *  *
+It was pretty good advice. I hung behind him long enough to tell
+Sylvia about the Chincoteague oysters they put in the stew at Grand
+Central Terminal, and got a dinner date. That was all, just the date,
+because Cleary was itching to take me to see a man.
+Politics must be an awfully large part of business. The man we went to
+see was the government side of COMCORP, and I guess he had had to do
+as much explaining about Telstar failures to a Senate Committee as
+Paul Cleary had had to do to the Western. He wanted an out just as bad
+as Paul did.
+There were a good many conferences before a sufficient number of
+people decided the cheapest way out was to send a man to fix the
+Telstars that had broken down. The question was whether it was
+possible.
+We went at it from two directions. They got a team assigned to
+figuring out if the Dyna-Soar rocket could be modified to make the
+three contacts around the orbit, carry two men and enough air and fuel
+for the job, and at COMCORP we appointed a crew to figure out what it
+meant to make the repair in orbit.
+Cleary put me in charge of our crew. They gave me a full-size Telstar
+satellite for my lab, and I went to work.
+Fancy electronic equipment consists of millions of parts, and Telstar
+is no exception. One of the bonuses America got from its poor rocket
+booster performance, as compared with the Russians, was a forced-draft
+course in miniaturization. Our engineers have learned how to make
+almost anything about one-tenth the size you'd think it ought to be,
+and still work. To get all these tiny parts into a total system, they
+are assembled in racks. In the Telstar each of these long skinny
+sticks of perforated magnesium alloy is hinged to the main framework
+so that it can be swung out for testing or for replacement of parts,
+which is why the engineers call each component a "gate."
+I spent several weeks learning how to take each suspected component
+out of the gate. Most of the time I needed a screwdriver. Sometimes I
+had to drill out a soft aluminium rivet. The hard part was that some
+of the components were so deep inside, even with a couple gates swung
+out the way, that I needed all kinds of extension tools.
+Of course, I had to visualize what it would be like doing all this out
+in space. I'd be in a spacesuit, wearing thick gloves, and when I
+removed a screw that would have looked good in a Swiss watch, there'd
+be no work bench on which to place it while I took out the next one.
+Worse yet, I would have to put it back in.
+The longer I worked with the parts, the harder it looked. There
+wouldn't be a prayer of just turning the parts loose in space. In
+theory they'd follow along in orbit. In practice you can't bring your
+hand to a halt and release a tiny part without imparting a small
+proper motion to it. And even worse, you couldn't handle the little
+wretches when you tried to put them back in. With a solid floor to lie
+on, with gravity to give things a position orientation, I kept losing
+tiny screws. Magnets didn't help, because the screws were nonmagnetic
+for what seemed pretty good reasons. Some were made of dural for
+lightness. Some were silicon bronze. None of them was steel.
+That put us back in the lab to find out what would happen if we used
+steel screws. The answer was, surprisingly, nothing important. So
+there was one solid achievement. I had a few thousand of each of the
+thirty-four different sizes of fasteners machined from steel, and
+magnetized a fly-tier's tweezers. The result was that I could get
+screws back into their holes without dropping them, especially when I
+put little pads of Alnico on the point of each tweezer to give me a
+really potent magnet. Then we had to cook up an offset screwdriver
+with a ratchet that would let me reach in about a yard and still run
+a number 0-80 machine screw up tight. That called for a kind of
+torque-limit clutch and other snivies.
+It was the fanciest and most expensive screwdriver you ever saw. The
+handle was a good two feet long. The problem then became that of
+seeing what you were doing, and one of the boys faked up a kind of
+binocular jeweler's loupe with long focus, so that I could lie back a
+yard from the screw and focus on it with about ten diameters
+magnification. The trouble was that the long focal length gave a field
+of vision about six times the diameter of the screw-head, which meant
+that every time my heart beat my head moved enough to throw the field
+of vision off the work.
+  *  *  *  *  *
+By that time I was working in a simulated spacesuit--the actual number
+was still being made to fit an accurate plaster cast of my body. So
+the boys figured out a clamp that would hold my helmet firmly to the
+gate, and a chin rack inside the helmet against which I could press
+and hold my head steady enough to keep my binoculars focused where
+they had to be focused. At a certain point I went back to Paul Cleary
+and said I thought I could make the necessary tests, dismount what I
+had to dismount, and replace any affected part.
+"All worked out, eh?" he said, reaching for his pipe.
+"Not by a county mile, Mr. Cleary. But I know what the problems are,
+and the shop can figure out sensible answers. Some of the hardest
+parts turned out to be the easiest."
+"Name any three," he suggested.
+"Well, the screws. As I take them out, I'll discard them into space. I
+have to use magnetic screws on reassembly, so there is no point saving
+what I take out. Doug Folley has doped out something like a motorman's
+change-dispenser that will dispense one screw at a time into my
+tweezers, and I'll carry a supply of all thirty-four kinds at my
+waist."
+"That's one," he counted on a hairy forefinger.
+"We can use something like a double-faced pressure-sensitive tape to
+hold other parts," I said. "We'll draw a diagram on it, stick it to
+some unopened part of the satellite near where I'm working, and as I
+pull pieces out, I'll just press them against the other sticky face,
+in the correct place in the diagram, and they'll be there to pull
+loose when I want them."
+"At absolute zero?" he scoffed. "That sticky face will be hard as
+glass."
+"We'll face the bird around to the sun," I said. "And warm it up. If
+we have to, we'll put wiring in the tape, connect it to Telstar's
+battery supply, and keep it warm."
+"Might work," he grumped. "That's two. How about the spacesuit part?"
+That had been tougher. Some forty or fifty men had made the ride into
+space and back from Cape Canaveral by this time, and there had been
+rendezvous in space in preparation for flights to the moon. But so far
+no one had done any free maneuvering in space in a suit.
+[Illustration]
+They had put me in a swimming pool in a concentrated salt solution
+that gave me just zero buoyancy, and I had practiced a kind of
+skin-diving in a spacesuit. The problem was one of mobility, and the
+one thing we could not reproduce, of course, was frictionless motion.
+No matter how I moved, the viscosity of the solution quickly slowed me
+down. Out in space I'd have to learn on the first try how to get
+around where every force imparted a motion that would continue
+indefinitely until an equal and opposite force had been applied.
+The force part had been worked out in theory long before. To my
+spacesuit they had fixed two tiny rockets. One aimed out from the
+small of my back, the other straight out from my belly. Two
+pressurized containers contained hydrazine and nitric acid, which
+could be released in tiny streams into peanut rocket chambers by a
+single valve-release. They were self-igniting, and spurted out a
+needle-fine jet of fire that imparted a few dynes of force as long as
+the valve was held open. It only had two positions--full open, or
+closed, so that navigation would consist of triggering the valve
+briefly open until a little push had been imparted, and drifting until
+you triggered the opposite rocket for braking.
+The airtanks on my back were right off a scuba outfit.
+Really, they spent more time on the gloves than anything else. At
+first we thought of the problem as a heat problem, but it was tougher
+than that. Heat loss was not much, out there in a vacuum, and they
+made arrangements to warm the handles of my tools so that I wouldn't
+bleed heat through my gloves to them and thus freeze my fingers. No,
+the problem was to get a glove that stood up to a pressure difference
+of three or four pounds per square inch and could still be flexed with
+any accuracy by my fingers. We could make a glove that was pretty
+thin, but it stiffened out under pressure and made delicate work
+really tough. It was a lot like trying to do brain surgery in mittens.
+They eventually gave me a porous glove that leaked air when you flexed
+your fingers. Air, they said, could always be gotten from the
+Dyna-Soar rocket that would be hanging close at hand in space. Well,
+we hoped it would work. I could do pretty fair work with the leaky
+gloves, and all we could hope was that the vapor would be dry enough
+as it seeped out through the gloves to prevent formation of a foggy
+cloud all around me, or the formation of frost on the gloves. That we
+could not test under any conditions easy to simulate.
+Each team spent ninety days. They tell me that's right quick work for
+pointing up a launch. But at the end of three months I had assembled
+enough stuff to do the job, and still well within the weight limit
+they had to set. I wasn't a walking machine shop, but there was a lot
+I could do if I had to.
+  *  *  *  *  *
+Ninety days had been enough for several dates with Sylvia. Out of the
+office she wasn't quite the protective harpy about Paul Cleary that
+she had been in the office, although the thought was never far from
+her mind.
+We spent my final night in New York before leaving for the Cape at
+Sweets, a real old fashioned seafood house down on Fulton street.
+After the obligatory oysters, we had broiled bluefish, and otherwise
+lived it up. They serve a good piece of apple pie, and we had that
+with our coffee.
+"Are you scared?" Sylvia asked me.
+"Of what?" I lied innocently.
+"Of being out in space--just floating around?"
+"Yes," I told her honestly. "I'm scared to death. What if I have a
+queasy stomach? They say a good half of the men who have been in orbit
+have chucked up or gotten dizzy or something. What if they go to all
+this trouble and I get spacesick?"
+"What if you drift away and can't get back?" she said. "It isn't like
+swimming back to shore."
+"There's always a way," I said, my stomach tightening as I thought of
+what she said.
+That was the night she kissed me good night. It wasn't much of a kiss,
+because we were standing in the lobby of her apartment house, and she
+wasn't going to invite me up, because she never did. But she said:
+"Hurry back."
+"Just you know it, Shouff," I said, bitter inside.
+I'd have been a lot more bitter if I had known what was in store for
+me at the Cape. COMCORP flew me down in one of our private prop-jets,
+with only Paul Cleary for company. He introduced me to the brass, and
+we sat through a couple conferences while the idea was spelled out to
+a group of sure-enough spacemen. Then they turned that mob loose on
+me.
+I was emotionally unprepared. First off, Cleary and Fred had been
+building me up all through the three months, and I had actually gotten
+to the point where I thought I knew what I was doing. These
+space-jockeys spent most of their time deflating my ego.
+My tormentor-in-chief was a wise punk from Brooklyn named Sid Stein.
+"How have you made out in your centrifuge tests?" he asked me at
+breakfast the first morning after I had reached the Cape.
+"I have never done any of that stuff, Mr. Stein," I said.
+"Well, how many gees can you pull?"
+I shrugged. "Same as you, I suppose. How many is that?"
+"Brot_her_!"
+The space medic wasn't any better. The mission chief insisted that it
+wasn't safe to put anybody in a satellite who couldn't pass the
+physical. I guess you know that about one man in a thousand can
+qualify. This was supposed to wash me out.
+"Remarkable shape." The space medic kept saying. "You must take
+considerable exercise, doctor."
+"Oh, no," I said. "Just jog a mile or so before breakfast. Nothing
+spectacular."
+"No other formal activity?"
+"Well," I snarled, "just swimming, fencing and weight lifting. I've
+given up the boxing and handball."
+"Kept in excellent shape, nevertheless," he said. "You'll be a
+disappointment to them."
+"Look," Stein said to me after a week of tests and countertests.
+"Don't be deceived by these tests. All they show is that your heart is
+still beating. The big thing is emotional. Doc, I think you should
+reconsider this idea of flopping around out there in the void. We've
+got experienced men here, and none of them is ready to try it."
+"Fools rush in, eh, Mr. Stein."
+"Precisely."
+In the meantime I got a daily phone call from Paul Cleary. That I
+could have snarled off, but Sylvia always came on the line first, and
+there was a minute or so of chit-chat before she cut her boss in on
+the line. I'm sure she listened to all the calls. But her first words
+were deadly. For example:
+"Mike! Hi, Mike. Mr. Cleary wants to see how you're doing."
+"Good. Put him on."
+"In a minute. I think it's so wonderful you passed the final physical,
+Mike. You're really so deceptive. I never had imagined you had such a
+steely physique."
+"Clean living," I said. "No girls."
+"There'd better not be!"
+"Don't worry. How could I get to see any girls down here? Every time I
+look away from my work all I can see is Bikini swim suits."
+"Cut that out!" she snickered, and put Cleary on the line.
+  *  *  *  *  *
+There came a final day when the mission chief called me in to his
+office.
+"Come in, Mike. Come in," he said shortly. "Sit down." He leaned back
+against his desk and started talking to me, like they say, straight
+from the shoulder:
+"I'll give it to you straight, Mike. We've tried every legal way to
+wash you out of this mission. There isn't a one of us here at the Cape
+that wants any part of taking an armchair theorist and slapping him
+into space--into the kind of a mission you've cooked up. Somebody's
+going to get hurt out there, because you aren't fit for the job. Now,
+physically, yes, you have the capacity. But emotionally and
+environmentally, you simply don't add up. You're looking at this thing
+as an extension of your laboratory, and instead it is an enormous
+physical and mental hazard that you are undertaking. This country has
+never lost a man in space--and you'll be the cause of our first
+casualty, as well as being one yourself. I'm asking you man to man to
+disqualify yourself."
+"And put an end to this mission?"
+"We'll train one of our men," he said.
+"In two or three years your best man might be barely capable," I said.
+"I don't think COMCORP is prepared to waste that much time. After
+all," I said ingratiatingly, "all you have to do is refuse the
+mission. Say I'm a built-in hazard and let it go at that." I grinned
+at him. I was learning from Paul Cleary. I _figured_ how space-jockeys
+would react to that.
+He told me: "Do you think any of these men would admit they are not up
+to a mission a mere technician is ready to try? No! I can't get them
+to beg off, either!"
+"When do we go?" I asked.
+Sid Stein was assigned as my pilot. He had made the trip into orbit
+and back four times with the Dyna-Soar rocket, and was considered the
+best risk to get me there and get me back. He was also the least
+convinced I had any right to sit beside him in the cabin.
+His final briefing was a beaut: "This is a spaceship, doctor," he said
+frigidly. "And I want you to remember the 'ship' part of it. I'm in
+command, and my every word, my every _belch_, has got to be law. Do
+you understand that? This is my mission, and I'll tell you where to
+put your feet."
+"Sure," I said. "Who wants it?"
+"Can't figure out why you do!"
+"I'm just paying somebody back," I said. "Is it tomorrow?"
+  *  *  *  *  *
+The start was a drag. Eighteen hours before blast-off Sid and I went
+into a tank so that we would get rid of our nitrogen. We breathed the
+standard helium-oxygen mix at normal pressure until about four hours
+before H-hour. They wouldn't even let me smoke. Then we suited up and
+were lifted by a crane and stuck in the control room of _Nelly Bly_,
+as I had named our Dyna-Soar rocket-glider. The hatch stayed open, but
+we were buttoned up tight in our suits. They had a couple of mods that
+were supposed to fit them better for the mission. Instead of the usual
+metal helmet with face plate, we had full-vision bubble helmets of
+clear plastic. The necks were large enough so that we could, in
+theory, drag our arms out of our suits and clean the inside of the
+bubbles. That was in case I sicked up out in space, which all
+experience said was a real enough hazard. They figured that filling me
+full of motion sickness pills was partial prevention.
+These space-jockeys have their own vocabulary, and their own oh, so
+cool way of playing it during the countdown. I'm pretty familiar with
+complex components, but they were checking off equipment I never heard
+of. We had gyros--hell, our _gyros_ had gyros. And we had tanks, and
+pressures and temperatures and voltages and who-stuck-John. It was all
+very impressive.
+There were suited men up on the gantry unplugging our air feed and
+closing our hatch. Sid was straining up from where he lay on his back
+to dog it down tight.
+"Roger," Sid was saying to somebody, as he had been all morning.
+The white vapor from our umbilical stopped, which let me know our
+tanks had been topped off and sealed, and that we were about to blast
+off.
+"This is it, Seaman," Sid Stein said. "Now for Pete's sake don't move,
+don't speak, just lie there. I've got the con."
+That was a bunch of baloney. He really had nothing to do until we were
+in orbit. The delicate accelerometers and inertial guidance components
+did all the piloting until the second stage kicked us loose. But I
+kept my mouth shut. He'd have some work to do before the ride was
+over, and I might need him.
+  *  *  *  *  *
+When the lift-off came, it was gentle as a dove's wing. But as we
+burned off fuel, the twenty-million pound thrust of our Apollo booster
+began to tell, and my vision started to go black. The gee-meter said
+we were pulling about ten gees when I could no longer read it, and I
+learned later we peaked out at eleven gees in the final seconds before
+first-stage burn-out. I didn't like it a little bit.
+The liquid hydrogen second stage kicked in like a hopped up mule, and
+we pulled ten gees, right at the limit of my vision, for its whole
+four minutes of burning. My earphones were talking now as Sid gave it
+the A-OK and Roger bit all the way. This was the stuff, kid!
+Our Dyna-Soar had been modified to some degree for this mission. It's
+essentially a big delta-winged glider with a squarish fuselage in the
+center. The mods had consisted of tying a third rocket stage out
+behind, so that Sid could move us around the orbit from one Telstar to
+the next if my work on the first one proved out. The retro-rockets had
+several times their normal complement of fuel, so that he could stop
+after he got started. The same was true of our steering jets.
+The ship was not pressurized on the lift off. Cabin pressure fell
+rather quickly, as we could feel from the inflation of our suits, to
+their three and a half-pound pressure. No bends for either of us,
+because of the helium substitution for nitrogen. Because there were
+two of us, we could chuck and unchuck airtanks for each other as we
+needed fresh supplies. We had enough air and water for forty-eight
+hours. Together with our low-residue diet for the final week, they
+figured we could sweat it out in our suits for two days. We had suit
+radios, of course, and could talk with each other for a distance of a
+mile or so.
+Burnout of the second stage came suddenly, and we heaved slightly
+against our belts as the springs in our seats pushed back out. And
+then I got my first taste of free fall. Each veteran astronaut I had
+talked to at the Cape had a different way of trying to scare me with
+the idea of falling endlessly, and each had different ideas about how
+to lick it. In spite of all the talk, I grabbed the arms of my seat to
+keep from falling. I turned my head and in the glow from our
+instruments could see Sid sneering across at me through his
+transparent bubble helmet.
+"How you like them apples?" his voice came from my earphone.
+"That first step is a killer, Sid," I said, trying to sound chipper. I
+felt horrible.
+"Let me know when you've had enough," he suggested. "I've got things
+to do."
+I knew he did. We had dry-run it a hundred times. If we had been
+inserted correctly in orbit, the _Nelly Bly_ was right in the path
+that three of the Telstars were now following, and catching up with
+Number One at several hundred miles an hour. On the ground, radars all
+around the world were taking fixes on us, and Sid was talking shop
+over his long-range radio with the radar crews.
+By the time my stomach had made up its mind that it would stick with
+me, he had a report.
+"It could be worse," he said. "We've got a lot more velocity than I'd
+like, but we're on course. Our orbit would differ quite some, Seaman.
+Because of this speed we'd be somewhat more eccentric--maybe swing out
+a hundred miles beyond the birds we're chasing. Are you making it?"
+"Easy, Sid. Do we slow down yet?"
+"I'll fire the retros and retard us to the speed of what we're
+chasing," he said. "That will equalize our orbits very nearly. Get
+busy on that scope if you're up to it. I'll compute my retro."
+  *  *  *  *  *
+They had made an amateur radar operator out of me, because it was easy
+to do, and gave Sid more time for actual rocket valving. My belt cut
+me hard as he braked for several seconds.
+"There," Sid's voice said in my ear. "We should still be catching up
+about fifty miles an hour. Let's not ram that thing. See any blip?"
+"Not yet. How close are we supposed to be?"
+He lit the cabin light and tapped at the calculator that he swung out
+from its rack. "Still got a hundred miles to go, I'd judge." He moved
+awkwardly in his suit to finger a switch on his neck and I heard him
+speaking to the ground again, and heard in my earphones the answer
+that came up from Woomera. We had eighty miles to go, and were now a
+little below the orbit of the bird we were chasing.
+"Can't have both ends of the stick, Mike," Sid explained, calling me
+by name for the first time. "As soon as we slowed down we had to drop
+lower." He fooled around with the steering jets, which were
+hydrazine-nitric acid rockets much like the tiny motors on my suit,
+and re-oriented _Nelly Bly_. A little burst from the nose, and I got
+my first blip.
+"There!" I said, putting a finger on the PPI. "Turn out the light,
+Sid, so I can see the 'scope'."
+He switched off the cabin light and followed my directions with tiny
+shoves, sometimes from the rockets, sometimes from the steering jets,
+while I conned us closer.
+Our radar would only read within about half a mile. When we got that
+close I got the searchlight going and took my first real look through
+the forward port out into space.
+It's black. Nothing--nothing you have ever seen will persuade you how
+dark it is out there. That was my first big shock. Oh, I had practiced
+in the dark, with only my helmet light to guide my tests and
+assemblies, but this was a different kind of dark. Our light had no
+visible beam--you couldn't even tell it was working. At first I had
+the idea we'd see the satellite occulting some stars, but a little
+mental arithmetic told me that an object six or eight feet in section
+would not subtend much of an angle of vision at half a mile.
+We had chosen, I decided, much too narrow a beam of light for the
+searchlight, but just at that moment I got a flash from out in space,
+and worked the light back on to our objective.
+"Got it," I said.
+"Yoicks!" Sid said, and went back to the fine controls. After a long
+time, and lots of patience, we were hanging about fifty feet out from
+our bird. We were farther out in space so that the dark bulk of the
+satellite was silhouetted against the crescent light of Earth. I
+turned off the spot and switched on the floodlight.
+"Here goes nothing, Sid," I said, and undid the dogs that held the
+canopy above our heads.
+My earphone spoke to me: "This is Cleary. Do you read me, Mike?"
+I fumbled around to find the right jack and plugged myself into the
+radio. "Yes, Paul. Loud and clear."
+"Watch yourself. Think first. You've got all the time in the world."
+"Sure."
+"Sylvia would miss you," he added.
+I hoped he was right.
+  *  *  *  *  *
+Clinging carefully to the handholds that had been specially provided
+on the outside of _Nelly Bly_, I clambered through the hatch and hung
+in the darkness, looking down at South America. The world was turning
+visibly under me, although I knew that in fact we were skimming
+rapidly about three thousand miles over its surface. I got myself
+lined up nice and straight with the bird and did my first bit of
+non-thinking. I pushed off good and proper with my feet, the way you'd
+dive into a swimming pool. It was a fool stunt for my first act. I was
+doing a good five or six feet a second. You may not think that is very
+fast, but before I could gulp twice I had zipped past that bird and
+was headed for Buenos Aires.
+I know I screamed. That was the first time I realized I really was
+falling. Earth looked awfully close, and seemed to be rushing up to
+meet me.
+My orientation was all wrong for stopping. By diving head first I had
+neither my back nor my belly rocket lined up to stop me.
+My training failed completely. I tried to squirm straight, and by
+proper swinging of my arms out to full length, and kicking the same
+way with my feet, I got turned around to where my belly was facing the
+floodlight on _Nelly Bly_. That's not how I was supposed to do it.
+The glider had disappeared--all I could see was the floodlight. It was
+still by far the brightest thing in the sky, but if I drifted much
+longer, I would have to use radio direction-finding to get back. I
+triggered the motor on my back and felt its gentle push against my
+spine.
+"Sid!" I called.
+"Roger, Mike!"
+"Light the tip lights. I've got to get a fix on my velocity. I went
+way past and I'm trying to get back."
+Two new stars winked into being, on either side of the floodlight.
+This had been some bright guy's idea, and it was paying off. I kept
+watching the apparent distance between them shrink as I continued my
+trip toward Earth. Memory and a little calculating told me that my
+acceleration of three inches per second per second would take twenty
+seconds of blast to slow me to a stop. I counted them off, aloud:
+"Mississippi one, Mississippi two, Mississippi three," as I had been
+taught to measure seconds. When I got to Mississippi twenty my visual
+measurement said I was about stationary with regard to _Nelly Bly_.
+I used a little more blast and let a couple minutes go by while I
+drifted closer to the Telstar. I started squirming again, until I
+remembered to use the deflection plate they had given me to hold in my
+belly blast, and that got me lined up. But finally I was within
+touching distance of the bird, which was rotating with a certain slow
+majesty on its long axis.
+The leisurely spin was there to make sure one side didn't face the sun
+too long and heat up. My plan called for stopping the bird's spin so
+that I could get reasonable solar heating of the part I was working
+on. The trouble was there was nothing to grab as the satellite turned.
+But we had worked on that part, too, and I went into my act of backing
+off the right distance, accelerating with my back rocket until I
+drifted close by the bird at its translational speed. I got one end of
+my sticky webbing stuck to it by pressure and decelerated so that the
+bird turned under me while I paid off the web. In a moment I had it
+girdled, and snapped the nifty sort of buckle they had made for me.
+Then drawing the webbing tight was no trouble, and I was spinning with
+the bird. My added weight slowed its spin down some.
+  *  *  *  *  *
+Next came the trick of getting some special equipment loose from my
+right leg. This was a little rocket canister which had just enough
+poof, the slide-rule boys had said, to stop the rotation of the bird.
+I fastened the canister to the webbing, pushed softly with one finger
+to get me a few feet away, and drifted while waiting for the delayed
+fuse to fire the antispin rocket. It lanced out a flame for a few
+seconds, and sputtered dead. The bird hung virtually motionless
+beneath me--or above me--or beside me--or whatever you want to call
+it when there is no up or down.
+Our light was dimming as we passed the terminator and pulled over
+Earth's dark side. The sun was still visible, however, although soon
+to be eclipsed by Earth. I jetted softly back to the bird and lit my
+helmet light. I had to find the right face of the twelve-sided thing
+so that I could open the right gate. The markings were there. They
+were just hard to read from inside a helmet. Then the sun was
+eclipsed, and my headlamp gave me the kind of light I was used to
+working with. The sector I wanted was on the satellite's dark side. I
+had to clamp on to the girdle and jet quite a while to turn it halfway
+round, and then decelerate just as long to bring it to a stop. I
+fooled around several minutes getting the sector to face where the sun
+would soon rise.
+My earphone spoke.
+"Mike!"
+"Roger, Sid. What's up."
+"Take it easy on your steering fuel. You're getting low."
+"Roger."
+I had to wait for the sun before I could start work. When it came up,
+heating seemed quick. First a test with a thermocouple showed that
+Telstar's surface was warming nicely and would soon support the
+pressure-sensitive mat I was going to stick to some of her solar
+generators. When the 'couple said Telstar had reached zero centigrade,
+I pulled the mat loose from where it was stuck to my left leg and
+plastered it above the gate I was going to open. I say above, because
+it was closer to one pole--the "North" pole of the satellite--than the
+gate.
+It was time to go to work on my first screw. And there I got my next
+lesson. It was a real big screw, as they go, a 4-40 flat head machine
+screw with a length of about three-quarters of an inch. I would have
+to give it thirty turns to back it out. I never gave it the first
+turn. The head snapped off as soon as I applied a few inch-pounds of
+torque.
+Yes, the surface had heated up nicely, but the shank of the screw was
+about two hundred below zero centigrade, and far brittler than glass.
+I cussed some and reported to Sid what had happened.
+"Have to drill it out," I said.
+My drill was a cutie. It was a modified dentists' drill, the kind
+that's run by a little air turbine at about two hundred thousand
+r.p.m.'s. I really mean that. They turn like mad.
+I'd been taught to use it with care. When a dentist drills your teeth,
+he blows olive oil and water through the turbine, and the mixture
+cools the tooth--and the drill--while the cutting is going on. We
+couldn't afford any cloud of vapor--or the shorting out that ice would
+cause--so I had only the pressurized mixture of oxygen and helium in
+the tanks on my back to run the drill. And that meant light and
+intermittent pressures on the number 43 wire gauge drill--the one
+that's the right size to drill out a 4-40. It took me about fifteen
+minutes and I was down to my last number 43 drill bit when she broke
+free.
+From then on I had to heat each screw before I went to work on it. I
+had something like a soldering iron that I could press against the
+screw-head. Heat would flow through the highly conductive alloy and
+make it less brittle. I flicked each screw I removed out into space
+and at last carefully hinged the gate wide open.
+The gate was the length of the sector--about two feet. It was four
+inches wide and about an inch thick and had parts strung along it like
+kernels on an ear of corn.
+At this stage I readjusted the position of my webbing girdle until I
+could clamp my head in position and begin the testing. It was slow
+work. The first sad thing was to learn that the solenoid M1537 was as
+good as new. When I put enough voltage across its terminals, the
+actuator clicked down through the core.
+I swore a blue streak.
+"What is it Mike?" Sid's voice came in my ear.
+"Trouble," I said. "What did we expect?"
+"Roger," he said in that toneless unexcited astronauts' voice. "Return
+to ship, Mike."
+"Not now," I said. "I've just got the oyster opened."
+His voice cut like my drill-bit. "I ordered you to return to ship.
+Your air supply is about shot."
+"I haven't been out that long," I protested, not feeling too sure
+about the lapse of time.
+"Your drill chewed it up pretty fast. Quit talking and start moving."
+I was thankful for the experience of moving in close to the bird. The
+same tricks worked much more smoothly as I used my deflection plate in
+front of my belly blast to turn me to face the floodlight, and then
+followed up with a light shove or two in the spine to start me
+drifting toward _Nelly Bly_. There didn't seem any rush, and I drifted
+slowly over, using only a couple triggered bursts of deceleration to
+slow me down as I approached the open hatch.
+Inside we went through the drill. My ears popped a little as Sid
+unchucked my spent tanks, and popped again as the new ones came on
+with a hiss.
+"Take it easy on that steering fuel, Mike," he said again. "You're
+getting awfully low."
+"Sure," I said and let myself drift out the hatch. I had enough sense
+to twist so that my back jet wouldn't hit the ship. Then I took a
+zig-zag course through the darkness to my bird, got oriented at the
+open gate and went back to work. Before I could get started, my
+earphones spoke.
+"Mike, Cleary here."
+"Roger, Paul. What is it?"
+"Have you gotten to that solenoid yet?"
+"Yes."
+"What can you tell me?"
+"That you're a fathead. Now shut up. I'm busy."
+"Roger, Mike," Paul Cleary acknowledged quite meekly.
+So I started again, reaching with my leads from point to point. After
+a certain number of tests, I had the area isolated, but not the part.
+From here on it would have to be disassembly. Every tiny screw had to
+be heated, then teased out with a jeweler's screwdriver. Some took my
+patented ratchet extension. The big miracle was that I didn't break
+anything.
+[Illustration]
+When I got to it, it was ridiculous. A small length of wire connected
+one component to another. Space was lacking, and the wire was tight
+against the metal of the gate. Its insulation was one of these
+space-age wonders, a form of clear plastic that would remain ductile
+under zero temperature and pressure. Only it didn't. It had shrunk and
+cracked, and there was a simple short against the metal of the gate.
+There were so many forms of circuit-breakers and self-protectors in
+the machine that the whole gate had been switched off as long as the
+short was in existence. No wonder telemetry hadn't told us anything.
+As I prepared to fix the trouble, I switched on my radio and had Sid
+connect me with the ground. "Canaveral Control," one of those
+emotionless voices said. He could afford to be. He was on the ground.
+"Get me Cleary," I ordered.
+"Cleary here, Mike. What have you found, boy?" He sure was anxious
+about that solenoid.
+"Not much, Paul. Just that Fred Stone is a fathead, too. Over and out,
+like they say." I switched off and went back to my work.
+  *  *  *  *  *
+[Illustration]
+The one thing I had nothing of was any kind of insulating material.
+With my screwdriver I hacked a piece loose from the double-faced
+sticky-tape I had used to keep loose parts from flying around, and
+teased it under the wire with my tweezers. Perhaps I could have done
+as well by heating the wire and bending it straight, but there was
+little room, and I was afraid of melting a solder joint. So I took my
+time teasing the tape through and finally got it to act as an
+insulator without breaking the wire. How long it would stay there was
+anybody's guess. It was held mechanically as well as by its sticky
+action, but when the bird cooled off enough, the sticky effect would
+lessen. I hoped the pressure between the wire and the gate could be
+enough to keep it in place. Certainly no forces would be acting to
+move it.
+Just as I had figured, the reassembly was the tedious part. I had to
+move around into about sixteen screwy positions to do all the fixing.
+Finally it was back in one piece and I swung the gate closed.
+When the final 4-40's were run up as tight as they were supposed to be
+run, I reported to Paul Cleary. "Try her," I suggested. "I think I
+found the trouble. No point my coming back down if it doesn't work."
+They made me sweat it out for about ten minutes before Paul said,
+"Runs like a watch, Mike. Put the spin back on her, boy." At least he
+was quiet about his solenoid.
+This called for the second rocket canister, which I hooked on to the
+girdle and, after thinking it out carefully, got headed in the right
+direction. I eased away with finger pressure, and let the delayed fuse
+do the firing. Telstar started her slow spin again.
+Getting the girdle off was a lot harder than getting it on, something
+we hadn't figured on, and in the final stages of the job I found that
+my steering motors no longer fired.
+[Illustration]
+"Sid!"
+"Roger, Mike."
+"How much fuel do you read in my steering jets?"
+"You've been out of fuel for about five minutes, by my gauge. But
+don't worry about it," Sid said. "I'll nurse _Nelly_ over there with
+my steering jets and pick you up."
+"O.K.," I said doubtfully. "But watch it. Bump this bird and we'll
+have it all to do over again."
+Sid had more trouble than he had figured. He had steering jets to run
+him in every direction except fore and aft. For that motion the
+retro-rockets were considered enough. But one belch out of them was
+enough to get me screaming into the mike: "Cut those retros!" I
+yelled, the volume making my earphones crack, as it undoubtedly did
+his.
+"Roger. What's wrong?"
+"You'll burn the solar generators right off the bird, you fool!
+Steering jets, do you hear, steering jets!"
+"Roger."
+But it was not that easy. Finally Sid got _Nelly_ within about twenty
+feet, and pretty near at zero relative velocity.
+"All right, Sid," I said. "Hold it there. I'll push over."
+A gentle shove against the side of Telstar was all it took. I got it
+straight, which was all that counted. My drift was slow, and I was a
+good five minutes making the twenty-foot crossing. But a handhold came
+within reach, and I worked my way back into the cabin and climbed in
+without shutting the hatch.
+"Don't try that again," I cautioned him. "This thing weighs ten
+thousand pounds, and that bird half as much. Even at a couple feet a
+second, you can crush me to jelly between them, even if you don't burn
+one or the other of us to a crisp."
+"Roger," Sid said, not quite so emotionlessly. "Are we ready to move?"
+"What for?" I asked him. "Until we get me some steering fuel, I'm
+useless."
+"I thought we'd abort this mission before we were through," he
+sneered.
+"Not so fast. You've got the same rig on your suit. All we have to do
+is put your fuel tanks on my suit."
+"Are you nuts?" he demanded.
+"What's the matter with it? Those tanks aren't welded to you, and I've
+got tools."
+I could see him shake his head in the dim light from the instrument
+panel. "You know those fuels ignite on contact with each other," he
+pointed out. "If we spill a couple drops of each in here, and they
+vaporize, we'll blow this kite to pieces!"
+"Then we'll get outside to make the switch," I insisted. "It won't
+hurt anything if a few grams burn up out there, will it, with nothing
+to confine the expansion."
+"But then I won't be able to come after you if anything goes wrong,"
+he pointed out. "No dice."
+"You're grasping, Stein," I growled. "At this stage I'm in charge
+around here. I'll take my chances on getting back."
+  *  *  *  *  *
+With the cabin light on I went as far as possible in dismounting both
+our tanks. After a couple rehearsals to make sure that at least one of
+us would always have a glove on a handhold, we both climbed out the
+hatch and I made the switch. Just as Sid suspected, we spilled a few
+drops. They vaporized, and again as we had feared, combined in what
+would have been an explosion in a confined space. The soundless flash,
+dim but real, said we had released quite a little energy uniformly all
+around us. I never felt a thing except a faint warmth from infrared
+through my helmet.
+Best of all, my jets worked. We both climbed back aboard _Nelly_,
+dogged the hatch, and started after Telstar Two.
+The second bird was about fifteen thousand miles ahead of us. I slept
+most of the time, for after Sid gave us a jolt of added velocity, we
+had to settle down to about six hours of drifting. I woke up as the
+belt cut me when he fired the retros. We went through the radar and
+searchlight bit, and had the devil's own time finding our bird. But at
+last I got the flash of reflection and went to work.
+I won't say the second job was any easier, except for the fact that I
+removed only one part to make room to do my bit with the insulation,
+and thus had very few screws to replace. My navigating in space was a
+lot better, and I didn't use steering fuel as wastefully as the first
+time. Still, when we dogged down to chase after the final bird, the
+cabin gauge said that I had less than half my load of steering fuel
+left. Equally glum, _Nelly_ herself was even lower on steering fuel.
+Neither Sid nor I had been as expert as we were supposed to be.
+Nevertheless, we took off after the third bird, and found it
+glistening in bright sunlight without the help of the searchlight. I
+thought that was a good omen. But from there on nothing seemed to work
+right.
+We had been aloft about thirty-six hours, and fatigue was setting in.
+I was clumsy on the steering and had quite a time making contact.
+The repair went according to Hoyle, but after I had put the spin back
+on the bird I found that I had no more steering fuel. I hung about ten
+or fifteen feet from Telstar Three and maybe eighty feet from _Nelly_,
+drifting slowly from both.
+"Sid!"
+"Roger, Mike."
+"This one will have to make it with the girdle on."
+"Can't you get it off?"
+"I can't get back to it. Steering fuel gone."
+"Oh, no!"
+"No sweat, Sid. It occludes a small share of the solar generators, but
+not enough to hurt anything."
+"That's not what I meant," he said quietly into my ear. "_Nelly's_ out
+of steering fuel, too. I can't pick you up!"
+I gulped on that one.
+"Canaveral Control!" I heard him call.
+"Cut that out," I said. "They can't help. Shut up and let me think."
+But he didn't, and I couldn't. I had no fuel with which to move. Sid
+had only the retros and stern rockets, no good for swinging or
+turning. I was out of touching range of the bird, and couldn't shove
+against it to build up a little drift. Just as Sylvia said, it's not
+like swimming back to shore.
+There was a lot of excited chatter in my earphones, in which I did not
+participate. Nobody made any sense, and Sid shut the thing down.
+"Mike!"
+"Yeah." Disgusted.
+"Whatever you dope out, make it quick. You don't have all the air in
+the world." Sid warned me.
+"How much?"
+"Ten minutes or so."
+"All right," I said. "It ought to be enough. Keep your eye on me. You
+may have to reach out an arm or leg for me to grab as I go by."
+"How are you going to move?"
+"I've got a lifesaver," I said.
+  *  *  *  *  *
+I writhed and squirmed and made every use of the law of conservation
+of angular momentum until I had my back to _Nelly_. Then I wound up
+and threw my fancy screwdriver as hard as I could heave it away from
+me. I didn't get the zip on it I would have liked, but because it was
+sort of like a throwing stick, I got a little more on it than you
+might expect, maybe fifty or sixty feet a second. And the thing
+weighed about four pounds, with its fancy ratchet and torque clutch.
+Since in my suit I weighed just about a hundred times as much, I
+started toward _Nelly_ at just one-one-hundredth of the velocity I had
+imparted to the screwdriver. In a couple minutes I was drifting pretty
+close, but tumbling. I had forgotten that part.
+Throwing the screwdriver had given my body the correct vector and some
+velocity, but I had set up quite a tumbling moment, since I had thrown
+from the shoulder and not from my center of gravity.
+I chucked a couple lighter tools away to correct my drift, and Sid
+snagged me as I drifted by the hatch.
+"Come to Papa," he said, and drew me inside. We didn't horse around
+congratulating ourselves. My air tanks were no longer hissing, and we
+made a quick swap.
+Sid let me dog down the hatch while he figured position. He used the
+iron compass method, just taking a close look at Earth, which was more
+or less dead ahead of us. That was a good place for it, because we had
+no steering fuel.
+The re-entry was a mess, from Sid's point of view. We came in at a
+weird angle and heated up to beat hell before there was enough
+atmosphere for our rudder to swing us around straight. He bounced us
+off twice after that as we slowed down, but the creak of heating metal
+was all about us each time we dropped in. He cussed me plenty all the
+way.
+The trick, of course, was to slow down to the point where he could
+spiral us down to Muroc Dry Lake. _Nelly_ was a sort of glider. Her
+performance at about Mach 10 and two hundred thousand feet was quite
+respectable, but the lower and slower we went, the more she flew like
+the proverbial kitchen sink. Sid only had one bright spot: Our big
+fuel supply gave him plenty of rocket and retro when he wanted it, and
+allowed him to get us back over Muroc.
+I can't say he made the landing look easy, because he didn't. It
+looked like plain hell to me, for we scorched in at something over
+four hundred miles an hour.
+When _Nelly_ screeched to a stop, we just sat there. There was none of
+this romantic business about snapping open face plates and exchanging
+witty remarks. Bubble helmets don't have face plates, and besides, I
+didn't have anything I wanted to say to Sid. I was as tired of him as
+he was of me. I was just plain tired, if you want to know the truth.
+They didn't let us alone, of course. While the crash trucks were still
+kicking up a dust trail tearing out to get us, there were guys on the
+radio with those cool voices, and Sid was tiredly saying "Roger," to
+all their questions. And we didn't do any moving about. You'd be
+surprised how weighing four hundred pounds makes you willing to wait
+for the crane to lift you from your seat. All at once I almost wanted
+to be back in space again, where I didn't weigh anything at all.
+Almost.
+  *  *  *  *  *
+They flew us back to Canaveral for the de-briefing, both asleep. The
+whole mob was there to greet us, Paul Cleary, Fred Stone, and even
+Sylvia. They met us at the plane and Sylvia was the first to grab me
+as I came down the steps.
+"Mike!" she squealed. "Are you all right?"
+"Better now," I said, kind of untangling from her. "How did you manage
+this?" I looked up. "Hi, Paul," I said to his sleepy old grin, and
+knew how.
+"Dinner tonight?" she insisted.
+"I don't know," I said, looking over at Paul. "I think there's a
+de-briefing or something before they turn me loose."
+"Don't be silly," Sylvia said. "It's not as if you were an astronaut
+or something."
+I was back on the ground, all right.
+Well, there was sort of a de-briefing. Cleary and Stone got me alone
+for a moment in somebody's office.
+"Well, Mike," Paul said, "that was a great performance. What was the
+trouble up there?"
+I laughed at both of them. "Go jump in the lake," I said. "I'm out of
+the middle."
+"What do you mean, Mike?" Doc Stone asked, holding his young-man's
+pipe at arm's length.
+"It wasn't design--because the solenoid worked. And it wasn't
+installation. It was materials." I told them about the no-good
+insulation.
+"Lucky it's only used in a couple points," Paul said, scowling. "I
+guess any other point where it broke up wasn't as critical in
+dimension and no short resulted."
+"Not yet," I grinned. "It may. And I couldn't care less."
+"You're a big winner, then, Mike," Paul grinned. "Fred and I have kind
+of made up anyway, and you're in solid with Sylvia."
+"Not with that noise," I said. "No dame was worth that ride. Let Sid
+have her."
+  *  *  *  *  *

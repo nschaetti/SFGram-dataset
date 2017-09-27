@@ -1,0 +1,668 @@
+ATOM DRIVE
+BY CHARLES FONTENAY
+It was a race between the tortoise and the hare. But this hare was
+using some dirty tricks to make sure the ending would be
+different....
+[Illustration: Illustrated by Ed Emsh]
+The two spaceship crews were friendly enemies, sitting across the table
+from each other for their last meal before blastoff. Outside the ports,
+the sky was nothing but light-streaked blackness, punctured periodically
+by Earth glare, for Space Station 2 whirled swiftly on its axis,
+creating an artificial gravity.
+"Jonner, I figured you the last man ever to desert the rockets for a
+hot-rod tow-job," chided Russo Baat, captain of the Mars Corporation's
+gleaming new freighter, _Marsward XVIII_. Baat was fat and red-faced,
+and one of the shrewdest space captains in the business.
+Jonner Jons, at the other end of the table, inclined his grizzled head
+and smiled.
+"Times change, Russo," he answered quietly. "Even the Mars Corporation
+can't stop that."
+"Is it true that you're pulling five thousand tons of cargo, Captain?"
+asked one of the crewmen of the _Marsward XVIII_.
+"Something like that," agreed Jonner, and his smile broadened. "And I
+have only about twice the fuel supply you carry for a 100-ton payload."
+The communicator above them squawked and blared:
+"Captain Jons and Captain Baat of Martian competition run, please report
+to control for final briefing."
+"I knew it!" grumbled Baat, getting heavily and reluctantly to his feet.
+"I haven't gotten to finish a meal on this blasted merry-go-round yet."
+In the space station's control section, Commander Ortega of the Space
+Control Commission, an ascetic officer in plain blues, looked them up
+and down severely.
+"As you know, gentlemen," he said, "blastoff time is 0600. Tonnage of
+cargo, fuel and empty vessels cannot be a factor, under the law. The
+Mars Corporation will retain its exclusive franchise to the Earth-Mars
+run, unless the ship sponsored by the Atom-Star Company returns to Earth
+with full cargo at least twenty hours ahead of the ship sponsored by the
+Mars Corporation. Cargo must be unloaded at Mars and new cargo taken on.
+I do not consider the twenty-hour bias in favor of the Mars Corporation
+a fair one," said Ortega severely, turning his gaze to Baat, "but the
+Space Control Commission does not make the laws. It enforces them.
+Docking and loading facilities will be available to both of you on an
+equal basis at Phobos and Marsport. Good luck."
+He shook hands with both of them.
+"Saturn, I'm glad to get out of there!" exclaimed Baat, mopping his brow
+as they left the control section. "Every time I take a step, I feel like
+I'm falling on my face."
+"It's because the control section's so close to the center," replied
+Jonner. "The station's spinning to maintain artificial gravity, and your
+feet are away from the center. As long as you're standing upright, the
+pull is straight up and down to you, but actually your feet are moving
+faster than your head, in a larger orbit. When you try to move, as in
+normal gravity, your body swings out of that line of pull and you nearly
+fall. The best corrective, I've found, is to lean backward slightly when
+you start to walk."
+As the two space captains walked back toward the wardroom together, Baat
+said:
+"Jonner, I hear the Mars Corporation offered you the _Marsward XVIII_
+for this run first, and you turned them down. Why? You piloted the
+_Marsward V_ and the _Wayward Lady_ for Marscorp when those upstarts in
+the Argentine were trying to crack the Earth-Mars run. This Atom-Star
+couldn't have enough money to buy you away from Marscorp."
+"No, Marscorp offered me more," said Jonner, soberly now. "But this
+atomic drive is the future of space travel, Russo. Marscorp has it, but
+they're sitting on it because they've got their fingers in hydrazine
+interests here, and the atom drive will make hydrazine useless for space
+fuel. Unless I can break the franchise for Atom-Star, it may be a
+hundred years before we switch to the atom drive in space."
+"What the hell difference does that make to you?" asked Baat bluntly.
+"Hydrazine's expensive," replied Jonner. "Reaction mass isn't, and you
+use less of it. I was born on Mars, Russo. Mars is my home, and I want
+to see my people get the supplies they need from Earth at a reasonable
+transport cost, not pay through the nose for every packet of vegetable
+seed."
+They reached the wardroom door.
+"Too bad I have to degrav my old chief," said Baat, chuckling. "But I'm
+a rocket man, myself, and I say to hell with your hot-rod atom drive.
+I'm sorry you got deflected into this run, Jonner; you'll never break
+Marscorp's orbit."
+  *  *  *  *  *
+The _Marsward XVIII_ was a huge vessel, the biggest the Mars Corporation
+ever had put into space. It was a collection of spheres and cylinders,
+joined together by a network of steel ties. Nearly 90% of its weight was
+fuel, for the one-way trip to Mars.
+Its competitor, the _Radiant Hope_, riding ten miles away in orbit
+around the Earth, was the strangest looking vessel ever to get clearance
+from a space station. It looked like a tug towing a barge. The tug was
+the atomic power plant. Two miles behind, attached by a thin cable, was
+the passenger compartment and cargo.
+On the control deck of the _Radiant Hope_, Jonner gripped a microphone
+and shouted profane instructions at the pilot of a squat ground-to-space
+rocket twenty miles away. T'an Li Cho, the ship's engineer, was peering
+out the port at the speck of light toward which Jonner was directing his
+wrath, while Qoqol, the Martian astrogator, worked at his charts on the
+other side of the deck.
+"I thought all cargo was aboard, Jonner," said T'an.
+"It is," said Jonner, laying the mike aside. "That G-boat isn't hauling
+cargo. It's going with us. I'm not taking any chances on Marscorp
+refusing to ferry our cargo back and forth at Mars."
+"Is plotted, Jonner," boomed Qoqol, turning his head to peer at them
+with huge eyes through the spidery tangle of his thin, double-jointed
+arms and legs. He reached an eight-foot arm across the deck and handed
+Jonner his figures. Jonner gave them to T'an.
+"Figure out power for that one, T'an," ordered Jonner, and took his seat
+in the cushioned control chair.
+T'an pulled a slide rule from his tunic pocket, but his black almond
+eyes rested quizzically on Jonner.
+"It's four hours before blastoff," he reminded.
+"I've cleared power for this with Space Control," replied Jonner. "That
+planet-loving G-boat jockey missed orbit. We'll have to swing out a
+little and go to him."
+On a conventional space craft, the order for acceleration would have
+sent the engineer to the engine deck to watch his gauges and report by
+intercom. But the _Radiant Hope_'s "engine deck" was the atomic tug two
+miles ahead, which T'an, in heavy armor, would enter only in
+emergencies. He calculated for a moment, then called softly to Jonner:
+"Pile One, in ten."
+"In ten," confirmed Jonner, pulling a lever on the calibrated gauge of
+the radio control.
+"Pile Two, in fifteen."
+"In fifteen."
+"Check. I'll have the length of burst figured for you in a jiffy."
+A faint glow appeared around the atomic tug far ahead, and there was the
+faintest shiver in the ship. But after a moment, Qoqol said in a puzzled
+tone:
+"No Gs, Jonner. Engine not work?"
+"Sure, she's working," said Jonner with a grin. "You'll never get any
+more G than we've got now, Qoqol, all the way to Mars. Our maximum
+acceleration will be 1/3,000th-G."
+"One three-thousandth?" exclaimed T'an, shaken out of his Oriental calm.
+"Jonner, the _Marsward_ will blast away at one or two Gs. How do you
+expect to beat that at 1/3,000th?"
+"Because they have to cut off and coast most of the way in an elliptic
+orbit, like any other rocket," answered Jonner calmly. "We drive
+straight across the system, under power all the time. We accelerate half
+way, decelerate the other half."
+"But 1/3,000th!"
+"You'll be surprised at what constant power can do. I know Baat, and I
+know the trick he's going to use. It's obvious from the blastoff time
+they arranged. He's going to tack off the Moon and use his power right
+to cut 20 days off that regular 237-day schedule. But this tug-boat will
+make it in 154 days!"
+They took aboard the 200-ton landing boat. By the time they got it
+secured, the radio already was sounding warnings for blastoff.
+Zero hour arrived. Again Jonner pulled levers and again the faint glow
+appeared around the tail of their distant tug. Across space the exhaust
+of the _Marsward XVIII_ flared into blinding flame. In a moment, it
+began to pull ahead visibly and soon was receding like a meteor.
+Near the _Radiant Hope_, the space station seemed not to have changed
+position at all.
+"The race is not always to the swift," remarked Jonner philosophically.
+"And we're the tortoise," said T'an. "How about filling us in on this
+jaunt, Jonner?"
+"Is should, Jonner," agreed Qoqol. "T'an know all about crazy new
+engine, I know all about crazy new orbit. Both not know all. You tell."
+"I planned to, anyway," said Jonner. "I had figured on having Serj in on
+it, but he wouldn't understand much of it anyhow. There's no use in
+waking him up."
+Serj was the ship's doctor-psychologist and fourth member of the crew.
+He was asleep below on the centerdeck.
+"For your information, Qoqol," said Jonner, "the atomic engine produces
+electrical energy, which accelerates reaction mass. Actually, it's a
+crude ion engine. T'an can explain the details to you later, but the
+important thing is that the fuel is cheap, the fuel-to-cargo ratio is
+low and constant acceleration is practical.
+"As for you, Tan, I was surprised at your not understanding why we'll
+use low acceleration. To boost the engine power and give us more Gs,
+we'd either have to carry more fuel or coast part of the way on
+momentum, like an ordinary rocket. This way's more efficient, and our
+63-day margin over the _Marsward_ each way is more than enough for
+unloading and loading more cargo and fuel."
+"With those figures, I can't see how Marscorp expects to win this
+competition," said T'an.
+"We've got them, flat, on the basis of performance," agreed Jonner. "So
+we'll have to watch for tricks. I know Marscorp. That's why I arranged
+to take aboard that G-boat at the last minute. Marscorp controls all the
+G-boats at Marsport, and they're smart enough to keep us from using
+them, in spite of the Space Control Commission. As for refueling for the
+return trip, we can knock a chunk off of Phobos for reaction mass."
+The meteor alarm bells clanged suddenly, and the screen lit up once with
+a fast-moving red line that traced the path of the approaching object.
+"Miss us about half a mile," said Jonner after a glance at the screen.
+"Must be pretty big ... and it's coming _up_!"
+He and T'an floated to one of the ports, and in a few moments saw the
+object speed by.
+"That's no meteor!" exclaimed Jonner with a puzzled frown. "That's
+man-made. But it's too small for a G-boat."
+The radio blared: "All craft in orbit near Space Station 2! Warning! All
+craft near Space Station 2! Experimental missile misfired from White
+Sands! Repeat: experimental missile misfired from White Sands!
+Coordinates...."
+"Fine time to tell us," remarked T'an drily.
+"Experimental missile, hell!" snorted Jonner, comprehension dawning.
+"Qoqol, what would have happened if we hadn't shifted orbit to take
+aboard that G-boat?"
+Qoqol calculated a moment.
+"Hit our engines," he announced. "Dead center."
+Jonner's blue eyes clouded ominously. "Looks like they're playing for
+keeps this time, boys."
+  *  *  *  *  *
+The brotherhood of spacemen is an exclusive club. Any captain,
+astrogator or engineer is likely to be well known to his colleagues,
+either personally or by reputation.
+The ship's doctor-psychologist is in a different category. Most of them
+sign on for a few runs for the adventure of it, as a means of getting
+back and forth between planets without paying the high cost of passage
+or to pick up even more money than they can get from lucrative
+planetbound practice.
+Jonner did not know Serj, the _Radiant Hope_'s doctor. Neither T'an nor
+Qoqol ever had heard of him. But Serj appeared to know his business well
+enough, and was friendly enough.
+It was Serj's first trip and he was very interested in the way the ship
+operated. He nosed into every corner of it and asked a hundred questions
+a day.
+"You're as inquisitive as a cadet spaceman, Serj," Jonner told him on
+the twenty-fifth day out. Everybody knew everyone else well by then,
+which meant that Jonner and Qoqol, who had served together before, had
+become acquainted with T'an and Serj.
+"There's a lot to see and learn about space, Captain," said Serj. He was
+a young fellow, with fair hair and an easy grin. "Think I could go
+outside?"
+"If you keep a lifeline hooked on. The suits have magnetic shoes to hold
+you to the hull of the ship, but you can lose your footing."
+"Thanks," said Serj. He touched his hand to his forehead and left the
+control deck.
+Jonner, near the end of his eight-hour duty shift, watched the dials.
+The red light showing the inner airlock door was open blinked on. It
+blinked off, then the outer airlock indicator went on, and off.
+A shadow fell across Jonner briefly. He glanced at the port and reached
+for the microphone.
+"Careful and don't step on any of the ports," he warned Serj. "The
+magnetic soles won't hold on them."
+"I'll be careful, sir," answered Serj.
+No one but a veteran spaceman would have noticed the faint quiver that
+ran through the ship, but Jonner felt it. Automatically, he swung his
+control chair and his eyes swept the bank of dials.
+At first he saw nothing. The outer lock light blinked on and off, then
+the inner lock indicator. That was Serj coming back inside.
+Then Jonner noted that the hand on one dial rested on zero. Above the
+dial was the word: "ACCELERATION."
+His eyes snapped to the radio controls. The atomic pile levers were
+still at their proper calibration. The dials above them said the engines
+were working properly.
+The atomic tug was still accelerating, but passengers and cargo were in
+free fall.
+Swearing Jonner jerked at the levers to pull out the piles aboard the
+tug.
+A blue flash flared across the control board, momentarily blinding him.
+Jonner recoiled, only his webbed safety belt preventing him from
+plummeting from the control chair.
+He swung back anxiously to the dials, brushing futilely at the spots
+that swam before his eyes. He breathed a sigh of relief. The radio
+controls had operated. The atomic engines had ceased firing.
+Tentatively, cautiously, he reversed the lever. There was no blue flash
+this time, but neither did the dials quiver. He swore. Something had
+burned out in the radio controls. He couldn't reverse the tug.
+He punched the general alarm button viciously, and the raucous clangor
+of the bell sounded through the confines of the ship. One by one, the
+other crew members popped up to the control deck from below.
+He turned the controls over to Qoqol.
+"Take readings on that damn tug," Jonner ordered. "I think our cable
+broke. T'an, let's go take a look."
+When they got outside, they found about a foot of the one-inch cable
+still attached to the ship. The rest of it, drawn away by the tug before
+Jonner could cut acceleration, was out of sight.
+"Can it be welded, T'an?"
+"It can, but it'll take a while," replied the engineer slowly. "First,
+we'll have to reverse that tug and get the other end of that break."
+"Damn, and the radio control's burned out. I tried to reverse it before
+I sounded the alarm. T'an, how fast can you get those controls
+repaired?"
+"Great space!" exclaimed T'an softly. "Without seeing it, I'd say at
+least two days, Jonner. Those controls are complicated as hell."
+They re-entered the ship. Qoqol was working at his diagrams, and Serj
+was looking over his shoulder. Jonner took a heat-gun quietly from the
+rack and pointed it at Serj.
+"You'll get below, mister," he commanded grimly. "You'll be handcuffed
+to your bunk from here on out."
+"Sir?... I don't understand," stammered Serj.
+"Like hell you don't. You cut that cable," Jonner accused.
+Serj started to shrug, but he dropped his eyes.
+"They paid me," he said in a low tone. "They paid me a thousand solars."
+"What good would a thousand solars do you when you're dead, Serj ...
+dead of suffocation and drifting forever in space?"
+Serj looked up in astonishment.
+"Why, you can still reach Earth by radio, easy," he said. "It wouldn't
+take long for a rescue ship to reach us."
+"Chemical rockets have their limitations," said Jonner coldly.
+"And you don't realize what speed we've built up with steady
+acceleration. We'd head straight out of the system, and nothing could
+intercept us, if that tug had gotten too far before we noticed it was
+gone."
+He jabbed the white-faced doctor with the muzzle of the heat-gun.
+"Get below," he ordered. "I'll turn you over to Space Control at Mars."
+When Serj had left the control deck, Jonner turned to the others. His
+face was grave.
+"That tug picked up speed before I could shut off the engines, after the
+cable was cut," he said. "It's moving away from us slowly, and at a
+tangent. And solar gravity's acting on both bodies now. By the time we
+get those controls repaired, the drift may be such that we'll waste
+weeks maneuvering the tug back."
+"I could jet out to the tug in a spacesuit, before it gets too far
+away," said T'an thoughtfully. "But that wouldn't do any good. There's
+no way of controlling the engines, at the tug. It has to be done by
+radio."
+"If we get out of this, remind me to recommend that atomic ships always
+carry a spare cable," said Jonner gloomily. "If we had one, we could
+splice them and hold the ship to the tug until the controls are
+repaired."
+"Is cable in cargo strong enough, Jonner?" asked Qoqol.
+"That's right!" exclaimed Jonner, brightening. "Most of our cargo's
+cable! That 4,000-ton spool we're hauling back there is 6,000 miles of
+cable to lay a television network between the Martian cities."
+"Television cable?" repeated T'an doubtfully. "Will that be strong
+enough?"
+"It's bound in flonite, that new fluorine compound. It's strong enough
+to tow this whole cargo at a couple of Gs. There's nothing aboard this
+ship that would cut off a length of it--a heat-gun at full power
+wouldn't even scorch it--but we can unwind enough of it, and block the
+spool. It'll hold the ship to the tug until the controls can be
+repaired, then we can reverse the tug and weld the cable."
+"You mean the whole 6,000 miles of it's in one piece?" demanded T'an in
+astonishment.
+"That's not so much. The cable-laying steamer _Dominia_ carried 3,000
+miles in one piece to lay Atlantic cables in the early 20th century."
+"But how'll we ever get 4,000 tons in one piece down to Mars?" asked
+T'an. "No G-boat can carry that load."
+Jonner chuckled.
+"Same way they got it up from Earth to the ship," he answered. "They
+attached one end of it to a G-boat and sent it up to orbit, then wound
+it up on a fast winch. Since the G-boat will be decelerating to Mars,
+the unwinding will have to be slowed or the cable would tangle itself
+all over Syrtis."
+"Sounds like it's made to order," said T'an, grinning. "I'll get into my
+spacesuit."
+"You'll get to work on the radio controls," contradicted Jonner, getting
+up. "That's something I can't do, and I can get into a spacesuit and
+haul a length of cable out to the tug. Qoqol can handle the winch."
+  *  *  *  *  *
+Deveet, the Atom-Star Company's representative at Mars City, and Kruger
+of the Space Control Commission were waiting when the _Radiant Hope_'s
+G-boat dropped down from the Phobos station and came to rest in a wash
+of jets. They rode out to the G-boat together in a Commission groundcar.
+Jonner emerged from the G-boat, following the handcuffed Serj.
+"He's all yours," Jonner told Kruger, gesturing at Serj. "You have my
+radio reports on the cable-cutting, and I'll make my log available to
+you."
+Kruger put his prisoner in the front seat of the groundcar beside him,
+and Jonner climbed in the back seat with Deveet.
+"I brought the crates of dies for the groundcar factory down this time,"
+Jonner told Deveet. "We'll bring down all the loose cargo before
+shooting the television cable down. While they're unloading the G-boat,
+I wish you'd get the tanks refilled with hydrazine and nitric acid.
+I've got enough to get back up, but not enough for a round trip."
+"What do you plan to do?" asked Deveet. He was a dark-skinned,
+long-faced man with a sardonic twist to his mouth.
+"I've got to sign on a new ship's doctor to replace Serj. When the
+_Marsward_ comes in, Marscorp will have a dozen G-boats working round
+the clock to unload and reload her. With only one G-boat, we've got to
+make every hour count. We still have reaction mass to pick up on
+Phobos."
+"Right," agreed Deveet. "You can take the return cargo up in one load,
+though. It's just twenty tons of Martian relics for the Solar Museum.
+Mars-to-Earth cargos run light."
+At the administration building, Jonner took his leave of Deveet and went
+up to the Space Control Commission's personnel office on the second
+floor. He was in luck. On the board as applying for a Mars-Earth run as
+ship's doctor-psychologist was one name: Lana Elden.
+He looked up the name in the Mars City directory and dialed into the
+city from a nearby telephone booth. A woman's voice answered.
+"Is Lana Elden there?" asked Jonner.
+"I'm Lana Elden," she said.
+Jonner swore under his breath. A woman! But if she weren't qualified,
+her name would not have been on the Commission board.
+The verbal contract was made quickly, and Jonner cut the Commission
+monitor into the line to make it binding. That was done often when rival
+ships, even of the same line, were bidding for the services of crewmen.
+"Blastoff time is 2100 tonight," he said, ending the interview. "Be
+here."
+Jonner left the personnel office and walked down the hall. At the
+elevator, Deveet and Kruger hurried out, almost colliding with him.
+"Jonner, we've run into trouble!" exclaimed Deveet. "Space Fuels won't
+sell us any hydrazine and nitric acid to refill the tanks. They say they
+have a new contract with Marscorp that takes all their supply."
+"Contract, hell!" snorted Jonner. "Marscorp owns Space Fuels. What can
+be done about it, Kruger?"
+Kruger shook his head.
+"I'm all for you, but Space Control has no jurisdiction," he said. "If a
+private firm wants to restrict its sales to a franchised line, there's
+nothing we can do about it. If you had a franchise, we could force them
+to allot fuel on the basis of cargo handled, since Space Fuels has a
+monopoly here. But you don't have a franchise yet."
+Jonner scratched his grey head thoughtfully.
+It was a serious situation. The atom-powered _Radiant Hope_ could no
+more make a planetary landing than the chemically-powered ships. Its
+power gave a low, sustained thrust that permitted it to accelerate
+constantly over long periods of time. To beat the powerful pull of
+planetary surface gravity, the terrific burst of quick energy from the
+streamlined G-boats, the planetary landing craft, was needed.
+"We can still handle it," Jonner said at last. "With only twenty tons
+return cargo, we can take it up this trip. Add some large parachutes to
+that, Deveet. We'll shoot the end of the cable down by signal rocket,
+out in the lowlands, and stop the winch when we've made contact, long
+enough to attach the rest of the cargo to the cable. Pull it down with
+the cable and, with Mars' low gravity, the parachutes will keep it from
+being damaged."
+But when Jonner got back to the landing field to check on unloading
+operations, his plan was smashed. As he approached the G-boat, a
+mechanic wearing an ill-concealed smirk came up to him.
+"Captain, looks like you sprung a leak in your fuel line," he said. "All
+your hydrazine's leaked out in the sand."
+Jonner swung from the waist and knocked the man flat. Then he turned on
+his heel and went back to the administration building to pay the
+10-credit fine he would be assessed for assaulting a spaceport employee.
+  *  *  *  *  *
+The Space Control Commission's hearing room in Mars City was almost
+empty. The examiner sat on the bench, resting his chin on his hand as he
+listened to testimony. In the plaintiff's section sat Jonner, flanked by
+Deveet and Lana Elden. In the defense box were the Mars Corporation
+attorney and Captain Russo Baat of the _Marsward XVIII_. Kruger, seated
+near the rear of the room, was the only spectator.
+The Mars Corporation attorney had succeeded in delaying the final
+hearing more than a 42-day Martian month by legal maneuvers. Meanwhile,
+the _Marsward XVIII_ had blasted down to Phobos, and G-boats had been
+shuttling back and forth unloading the vessel and reloading it for the
+return trip to Earth.
+When testimony had been completed, the examiner shuffled through his
+papers. He put on his spectacles and peered over them at the litigants.
+"It is the ruling of this court," he said formally, "that the plaintiffs
+have not presented sufficient evidence to prove tampering with the fuel
+line of the G-boat of the spaceship _Radiant Hope_. There is no evidence
+that it was cut or burned, but only that it was broken. The court must
+remind the plaintiffs that this could have been done accidentally,
+through inept handling of cargo.
+"Since the plaintiffs have not been able to prove their contention, this
+court of complaint has no alternative than to dismiss the case."
+The examiner arose and left the hearing room. Baat waddled across the
+aisle, puffing.
+"Too bad, Jonner," he said. "I don't like the stuff Marscorp's pulling,
+and I think you know I don't have anything to do with it.
+"I want to win, but I want to win fair and square. If there's anything I
+can do to help...."
+"Haven't got a spare G-boat in your pocket, have you?" retorted Jonner,
+with a rueful smile.
+Baat pulled at his jowls.
+"The _Marsward_ isn't carrying G-boats," he said regretfully. "They all
+belong to the port, and Marscorp's got them so tied up you'll never get
+a sniff of one. But if you want to get back to your ship, Jonner, I can
+take you up to Phobos with me, as my guest."
+Jonner shook his head.
+"I figure on taking the _Radiant Hope_ back to Earth," he said. "But I'm
+not blasting off without cargo until it's too late for me to beat you on
+the run."
+"You sure? This'll be my last ferry trip. The _Marsward_ blasts off for
+Earth at 0300 tomorrow."
+"No, thanks, Russo. But I will appreciate your taking my ship's doctor,
+Dr. Elden, up to Phobos."
+"Done!" agreed Baat. "Let's go, Dr. Elden. The G-boat leaves Marsport in
+two hours."
+Jonner watched Baat puff away, with the slender, white-clad brunette at
+his side. Baat personally would see Lana Elden safely aboard the
+_Radiant Hope_, even if it delayed his own blastoff.
+Morosely, he left the hearing room with Deveet.
+"What I can't understand," said the latter, "is why all this dirty work,
+why didn't Marscorp just use one of their atom-drive ships for the
+competition run?"
+"Because whatever ship is used on a competition run has to be kept in
+service on the franchised run," answered Jonner. "Marscorp has millions
+tied up in hydrazine interests, and they're more interested in keeping
+an atomic ship off this run than they are in a monopoly franchise. But
+they tie in together: if Marscorp loses the monopoly franchise and
+Atom-Star puts in atom-drive ships, Marscorp will have to switch to
+atom-drive to meet the competition."
+"If we had a franchise, we could force Space Fuels to sell us
+hydrazine," said Deveet unhappily.
+"Well, we don't. And, at this rate, we'll never get one."
+  *  *  *  *  *
+Jonner and Deveet were fishing at the Mars City Recreation Center. It
+had been several weeks since the _Marsward XVIII_ blasted off to Earth
+with a full cargo. And still the atomic ship _Radiant Hope_ rested on
+Phobos with most of her Marsbound cargo still aboard; and still her crew
+languished at the Phobos space station; and still Jonner moved back and
+forth between Mars City and Marsport daily, racking his brain for a
+solution that would not come.
+"How in space do you get twenty tons of cargo up to an orbit 5,800 miles
+out, without any rocket fuel?" he demanded of Deveet more than once. He
+received no satisfactory answer.
+The Recreation Center was a two-acre park that lay beneath the plastic
+dome of Mars City. Above them they could see swift-moving Phobos and
+distant Deimos among the other stars that powdered the night. In the
+park around them, colonists rode the amusement machines, canoed along
+the canal that twisted through the park or sipped refreshment at
+scattered tables. A dozen or more sat, like Jonner and Deveet, around
+the edge of the tiny lake, fishing.
+Deveet's line tightened. He pulled in a streamlined, flapping object
+from which the light glistened wetly.
+"Good catch," complimented Jonner. "That's worth a full credit."
+Deveet unhooked his catch and laid it on the bank beside him. It was a
+metal fish: live fish were unknown on Mars. They paid for the privilege
+of fishing for a certain time and any fish caught were "sold" back to
+the management at a fixed price, depending on size, to be put back into
+the lake.
+"You're pretty good at it," said Jonner. "That's your third tonight."
+"It's all in the speed at which you reel in your line," explained
+Deveet. "The fish move at pre-set speeds. They're made to turn and catch
+a hook that moves across their path at a slightly slower speed than
+they're swimming. The management changes the speeds once a week to keep
+the fishermen from getting too expert."
+"You can't beat the management," chuckled Jonner. "But if it's a matter
+of matching orbital speeds to make contact, I ought to do pretty well
+when I get the hang of it."
+He cocked an eye up toward the transparent dome. Phobos had moved across
+the sky into Capricorn since he last saw her. His memory automatically
+ticked off the satellite's orbital speed: 1.32 miles a second; speed in
+relation to planetary motion....
+Why go over that again? One had to have fuel first. Meanwhile, the
+_Radiant Hope_ lay idle on Phobos and its crew whiled away the hours at
+the space station inside the moon, their feet spinning faster than their
+heads ... no, that wasn't true on Phobos, because it didn't have a spin
+to impart artificial gravity, like the space stations around Earth.
+He sat up suddenly. Deveet looked at him in surprise. Jonner's lips
+moved silently for a moment, then he got to his feet.
+"Where can we use a radiophone?" he asked.
+"One in my office," said Deveet, standing up.
+"Let's go. Quick, before Phobos sets."
+They turned in their rods, Deveet collecting the credits for his fish,
+and left the Recreation Center.
+When they reached the Atom-Star Company's Martian office Jonner plugged
+in the radiophone and called the Phobos space station. He got T'an.
+"All of you get aboard," Jonner ordered. "Then have Qoqol call me."
+He signed off and turned to Deveet. "Can we charter a plane to haul our
+Earthbound cargo out of Marsport?"
+"A plane? I suppose so. Where do you want to haul it?"
+"Charax is as good as any other place. But I need a fast plane."
+"I think we can get it. Marscorp still controls all the airlines, but
+the Mars government keeps a pretty strict finger on their planetbound
+operations. They can't refuse a cargo haul without good reason."
+"Just to play safe, have some friend of yours whom they don't know,
+charter the plane in his name. They won't know it's us till we start
+loading cargo."
+"Right," said Deveet, picking up the telephone. "I know just the man."
+  *  *  *  *  *
+Towmotors scuttled across the landing area at Marsport, shifting the
+cargo that had been destined for the _Radiant Hope_ from the helpless
+G-boat to a jet cargo-plane. Nearby, watching the operation, were Jonner
+and Deveet, with the Marsport agent of Mars Air Transport Company.
+"We didn't know Atom-Star was the one chartering the plane until you
+ordered the G-boat cargo loaded on it," confessed the Mars-Air agent.
+"I see you and Mr. Deveet are signed up to accompany the cargo. You'll
+have to rent suits for the trip. We have to play it safe, and there's
+always the possibility of a forced landing."
+"There are a couple of spacesuits aboard the G-boat that we want to take
+along," said Jonner casually. "We'll just wear those instead."
+"Okay." The agent spread his hands and shrugged. "Everybody at Marsport
+knows about you bucking Marscorp, Captain. What you expect to gain by
+transferring your cargo to Charax is beyond me, but it's your business."
+An hour later, the chartered airplane took off with a thunder of jets.
+Aboard was the 20-ton cargo the _Radiant Hope_ was supposed to carry to
+Earth, plus some large parachutes. The Mars-Air pilot wore a light suit
+with plastic helmet designed for survival in the thin, cold Martian air.
+Jonner and Deveet wore the bulkier spacesuits.
+Five minutes out of Marsport, Jonner thrust the muzzle of a heat-gun in
+the pilot's back.
+"Set it on automatic, strap on your parachute and bail out," he ordered.
+"We're taking over."
+The pilot had no choice. He went through the plane's airlock and jumped,
+helped by a hearty boost from Jonner. His parachute blossomed out as he
+drifted down toward the green Syrtis Major Lowland. Jonner didn't worry
+about him. He knew the pilot's helmet radio would reach Marsport and a
+helicopter would rescue him shortly.
+"I don't know what you're trying to do, Jonner," said Deveet
+apprehensively over his spacehelmet radio. "But whatever it is, you'd
+better do it fast. They'll have every plane on Mars looking for us in
+half an hour."
+"Let 'em look, and keep quiet a while," retorted Jonner. "I've got some
+figuring to do."
+He put the plane on automatic, took off the spacesuit handhooks and
+scribbled figures on a scrap of paper. He tuned in the plane's radio and
+called Qoqol on Phobos. They talked to each other briefly in Martian.
+The darker green line of a canal crossed the green lowland below them.
+"Good, there's Drosinas," muttered Jonner. "Let's see, time 1424 hours,
+speed 660 miles an hour...."
+Jonner boosted the jets a bit and watched the terrain.
+"By Saturn, I almost overran it!" he exclaimed. "Deveet, smash out those
+ports."
+"Break out the ports?" repeated Deveet. "That'll depressurize the
+cabin!"
+"That's right. So you'd better be sure your spacesuit's secure."
+Obviously puzzled, Deveet strode up and down the cabin, knocking out its
+six windows with the handhooks of his spacesuit. Jonner maneuvered the
+plane gently, and set it on automatic. He got out of the pilot's seat
+and strode to the right front port.
+Reaching through the broken window, he pulled in a section of cable that
+was trailing alongside. While the baffled Deveet watched, he reeled it
+in until he brought up the end of it, to which was attached a
+fish-shaped finned metal missile.
+Jonner carried the cable end and the attached missile across the cabin
+and tossed it out the broken front port on the other side, swinging it
+so that the 700-mile-an-hour slipstream snapped it back in through the
+rearmost port like a bullet.
+"Pick it up and pass it out the right rear port," he commanded. "We'll
+have to pass it to each other from port to port. The slipstream won't
+let us swing it forward and through."
+In a few moments, the two of them had worked the missile and the cable
+end to the right front port and in through it. Originating above the
+plane, it now made a loop through the four open ports. Jonner untied the
+missile and tied the end to the portion which came into the cabin,
+making a bowline knot of the loop. Deveet picked up the missile from the
+floor, where Jonner had thrown it.
+"Looks like a spent rocket shell," he commented.
+"It's a signal rocket," said Jonner. "The flare trigger was
+disconnected."
+He picked up the microphone and called the _Radiant Hope_ on Phobos.
+"We've hooked our fish, Qoqol," he told the Martian, and laid the mike
+aside.
+"What does that mean?" asked Deveet.
+"Means we'd better strap in," said Jonner, suiting the action to the
+words. "You're in for a short trip to Phobos, Deveet."
+Jonner pulled back slowly on the elevator control, and the plane began a
+shallow climb. At 700 miles an hour, it began to attain a height at
+which its broad wings--broader than those of any terrestrial
+plane--would not support it.
+"I'm trying to decide," said Deveet with forced calm, "whether you've
+flipped your helmet."
+"Nope," answered Jonner. "Trolling for those fish in Mars City gave me
+the idea. The rest was no more than an astrogation problem, like any
+rendezvous with a ship in a fixed orbit, which Qoqol could figure.
+Remember that 6,000-mile television cable the ship's hauling? Qoqol just
+shot the end of it down to Mars' surface by signal rocket, we hooked on
+and now he'll haul us up to Phobos. He's got the ship's engine hooked
+onto the cable winch."
+The jets coughed and stopped. The plane was out of fuel. It was on
+momentum--to be drawn by the cable, or to snap it and fall.
+"Impossible!" cried Deveet in alarm. "Phobos' orbital speed is more than
+a mile a second! No cable can take the sudden difference in that and the
+speed we're traveling. When the slack is gone, it'll break!"
+"The slack's gone already. You're thinking of the speed of Phobos, _at
+Phobos_. At this end of the cable, we're like the head of a man in the
+control section of a space station, which is traveling slower than his
+feet because its orbit is smaller--but it revolves around the center in
+the same time.
+"Look," Jonner added, "I'll put it in round numbers. Figure your cable
+as part of a radius of Phobos' orbit. Phobos travels at 1.32, but the
+other end of the radius travels at zero because it's at the center. The
+cable end, at the Martian surface, travels at a speed in
+between--roughly 1,200 miles an hour--but it keeps up with Phobos'
+revolution. Since the surface of Mars itself rotates at 500 miles an
+hour, all I had to do was boost the plane up to 700 to match the speed
+of the cable end.
+"That cable will haul a hell of a lot more than twenty tons, and that's
+all that's on it right now. By winching us up slowly, there'll never be
+too great a strain on it."
+Deveet looked apprehensively out of the port. The plane was hanging
+sidewise now, and the distant Martian surface was straight out the
+left-hand ports. The cable was holding.
+"We can make the trip to Earth 83 days faster than the _Marsward_," said
+Jonner, "and they have only about 20 days' start. It won't take us but a
+few days to make Phobos and get this cable and the rest of the cargo
+shot back to Mars. Atom-Star will get its franchise, and you'll see all
+spaceships switching to the atomic drive within the next decade."
+"How about this plane?" asked Deveet. "We stole it, you know."
+"You can hire a G-boat to take it back to Marsport," said Jonner with a
+chuckle. "Pay Mars-Air for the time and the broken ports, and settle out
+of court with that pilot we dropped. I don't think they'll send you to
+jail, Deveet."
+He was silent for a few minutes.
+"By the way, Deveet," said Jonner then, "radio Atom-Star to buy some
+flonite cable of their own and ship it to Phobos. Damned if I don't
+think this is cheaper than G-boats!"

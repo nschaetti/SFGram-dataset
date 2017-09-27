@@ -1,0 +1,1029 @@
+Copyright (C) 1999 by Cory Doctorow
+Return to Pleasure Island
+Cory Doctorow
+From "A Place So Foreign and Eight More," a short story collection published in
+September, 2003 by Four Walls Eight Windows Press (ISBN 1568582862). See
+http://craphound.com/place for more.
+Originally Published in Realms of Fantasy August 1999
+"By design or default, something about this story (and I can't describe exactly
+what because I don't know) disturbed me a great deal, though it's a well-written
+and unique take on an old tale. Others may find it more palatable. If Doctorow's
+intent was to unsettle, he succeeded..."
+ - J. G. Stinson,
+  Tangent Online
+  http://www.tangentonline.com/reviews/magazine.php3?review=153
+--
+Blurbs and quotes:
+* Cory Doctorow straps on his miner's helmet and takes you deep into the
+ caverns and underground rivers of Pop Culture, here filtered through SF-coloured
+ glasses. Enjoy.
+ - Neil Gaiman
+  Author of American Gods and Sandman
+* Few writers boggle my sense of reality as much as Cory Doctorow. His vision
+ is so far out there, you'll need your GPS to find your way back.
+ - David Marusek
+  Winner of the Theodore Sturgeon Award, Nebula Award nominee
+* Cory Doctorow is one of our best new writers: smart, daring, savvy,
+ entertaining, ambitious, plugged-in, and as good a guide to the wired world of
+ the twenty-first century that stretches out before us as you're going to find.
+ - Gardner Dozois
+  Editor, Asimov's SF
+* He sparkles! He fizzes! He does backflips and breaks the furniture! Science
+ fiction needs Cory Doctorow!
+ - Bruce Sterling
+  Author of The Hacker Crackdown and Distraction
+* Cory Doctorow strafes the senses with a geekspeedfreak explosion of gomi kings
+ with heart, weirdass shapeshifters from Pleasure Island and jumping automotive
+ jazz joints. If this is Canadian science fiction, give me more.
+ - Nalo Hopkinson
+  Author of Midnight Robber and Brown Girl in the Ring
+* Cory Doctorow is the future of science fiction. An nth-generation hybrid of
+ the best of Greg Bear, Rudy Rucker, Bruce Sterling and Groucho Marx, Doctorow
+ composes stories that are as BPM-stuffed as techno music, as idea-rich as the
+ latest issue of NEW SCIENTIST, and as funny as humanity's efforts to improve
+ itself. Utopian, insightful, somehow simultaneously ironic and heartfelt, these
+ nine tales will upgrade your basal metabolism, overwrite your cortex with new
+ and efficient subroutines and generally improve your life to the point where
+ you'll wonder how you ever got along with them. Really, you should need a
+ prescription to ingest this book. Out of all the glittering crap life and our
+ society hands us, craphound supreme Doctorow has managed to fashion some
+ industrial-grade art."
+ - Paul Di Filippo
+  Author of The Steampunk Trilogy
+* As scary as the future, and twice as funny. In this eclectic and electric
+ collection Doctorow strikes sparks off today to illuminate tomorrow, which is
+ what SF is supposed to do. And nobody does it better.
+ - Terry Bisson
+  Author of Bears Discover Fire
+--
+A note about this story
+This story is from my collection, "A Place So Foreign and Eight More," published
+by Four Walls Eight Windows Press in September, 2003, ISBN 1568582862. I've
+released this story, along with five others, under the terms of a Creative
+Commons license that gives you, the reader, a bunch of rights that copyright
+normally reserves for me, the creator.
+I recently did the same thing with the entire text of my novel, "Down and Out in
+the Magic Kingdom" (http://craphound.com/down), and it was an unmitigated
+success. Hundreds of thousands of people downloaded the book -- good news -- and
+thousands of people bought the book -- also good news. It turns out that, as
+near as anyone can tell, distributing free electronic versions of books is a
+great way to sell more of the paper editions, while simultaneously getting the
+book into the hands of readers who would otherwise not be exposed to my work.
+I still don't know how it is artists will earn a living in the age of the
+Internet, but I remain convinced that the way to find out is to do basic
+science: that is, to do stuff and observe the outcome. That's what I'm doing
+here. The thing to remember is that the very *worst* thing you can do to me as
+an artist is to not read my work -- to let it languish in obscurity and
+disappear from posterity. Most of the fiction I grew up on is out-of-print, and
+this is doubly true for the short stories. Losing a couple bucks to people who
+would have bought the book save for the availability of the free electronic text
+is no big deal, at least when compared to the horror that is being irrelevant
+and unread. And luckily for me, it appears that giving away the text for free
+gets me more paying customers than it loses me.
+You can find the canonical version of this file at
+http://craphound.com/place/download.php
+If you'd like to convert this file to some other format and distribute it, you
+have my permission, provided that:
+* You don't charge money for the distribution
+* You keep the entire text intact, including this notice, the license below, and
+the metadata at the end of the file
+* You don't use a file-format that has "DRM" or "copy-protection" or any other
+form of use-restriction turned on
+If you'd like, you can advertise the existence of your edition by posting a link
+to it at http://craphound.com/place/000014.php
+--
+Here's a summary of the license:
+ http://creativecommons.org/licenses/by-nd-nc/1.0
+ Attribution. The licensor permits others to copy, distribute,
+ display, and perform the work. In return, licensees must give the
+ original author credit.
+ No Derivative Works. The licensor permits others to copy,
+ distribute, display and perform only unaltered copies of the work
+ -- not derivative works based on it.
+ Noncommercial. The licensor permits others to copy, distribute,
+ display, and perform the work. In return, licensees may not use
+ the work for commercial purposes -- unless they get the
+ licensor's permission.
+And here's the license itself:
+ http://creativecommons.org/licenses/by-nd-nc/1.0-legalcode
+ THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
+ CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK
+ IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF
+ THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE IS
+ PROHIBITED.
+ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT
+ AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR
+ GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR
+ ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+ 1. Definitions
+ a. "Collective Work" means a work, such as a periodical issue,
+ anthology or encyclopedia, in which the Work in its entirety in
+ unmodified form, along with a number of other contributions,
+ constituting separate and independent works in themselves, are
+ assembled into a collective whole. A work that constitutes a
+ Collective Work will not be considered a Derivative Work (as
+ defined below) for the purposes of this License.
+ b. "Derivative Work" means a work based upon the Work or upon the
+ Work and other pre-existing works, such as a translation, musical
+ arrangement, dramatization, fictionalization, motion picture
+ version, sound recording, art reproduction, abridgment,
+ condensation, or any other form in which the Work may be recast,
+ transformed, or adapted, except that a work that constitutes a
+ Collective Work will not be considered a Derivative Work for the
+ purpose of this License.
+ c. "Licensor" means the individual or entity that offers the Work
+ under the terms of this License.
+ d. "Original Author" means the individual or entity who created
+ the Work.
+ e. "Work" means the copyrightable work of authorship offered
+ under the terms of this License.
+ f. "You" means an individual or entity exercising rights under
+ this License who has not previously violated the terms of this
+ License with respect to the Work, or who has received express
+ permission from the Licensor to exercise rights under this
+ License despite a previous violation.
+ 2. Fair Use Rights. Nothing in this license is intended to
+ reduce, limit, or restrict any rights arising from fair use,
+ first sale or other limitations on the exclusive rights of the
+ copyright owner under copyright law or other applicable laws.
+ 3. License Grant. Subject to the terms and conditions of this
+ License, Licensor hereby grants You a worldwide, royalty-free,
+ non-exclusive, perpetual (for the duration of the applicable
+ copyright) license to exercise the rights in the Work as stated
+ below:
+ a. to reproduce the Work, to incorporate the Work into one or
+ more Collective Works, and to reproduce the Work as incorporated
+ in the Collective Works;
+ b. to distribute copies or phonorecords of, display publicly,
+ perform publicly, and perform publicly by means of a digital
+ audio transmission the Work including as incorporated in
+ Collective Works;
+ The above rights may be exercised in all media and formats
+ whether now known or hereafter devised. The above rights include
+ the right to make such modifications as are technically necessary
+ to exercise the rights in other media and formats. All rights not
+ expressly granted by Licensor are hereby reserved.
+ 4. Restrictions. The license granted in Section 3 above is
+ expressly made subject to and limited by the following
+ restrictions:
+ a. You may distribute, publicly display, publicly perform, or
+ publicly digitally perform the Work only under the terms of this
+ License, and You must include a copy of, or the Uniform Resource
+ Identifier for, this License with every copy or phonorecord of
+ the Work You distribute, publicly display, publicly perform, or
+ publicly digitally perform. You may not offer or impose any terms
+ on the Work that alter or restrict the terms of this License or
+ the recipients' exercise of the rights granted hereunder. You may
+ not sublicense the Work. You must keep intact all notices that
+ refer to this License and to the disclaimer of warranties. You
+ may not distribute, publicly display, publicly perform, or
+ publicly digitally perform the Work with any technological
+ measures that control access or use of the Work in a manner
+ inconsistent with the terms of this License Agreement. The above
+ applies to the Work as incorporated in a Collective Work, but
+ this does not require the Collective Work apart from the Work
+ itself to be made subject to the terms of this License. If You
+ create a Collective Work, upon notice from any Licensor You must,
+ to the extent practicable, remove from the Collective Work any
+ reference to such Licensor or the Original Author, as requested.
+ b. You may not exercise any of the rights granted to You in
+ Section 3 above in any manner that is primarily intended for or
+ directed toward commercial advantage or private monetary
+ compensation. The exchange of the Work for other copyrighted
+ works by means of digital file-sharing or otherwise shall not be
+ considered to be intended for or directed toward commercial
+ advantage or private monetary compensation, provided there is no
+ payment of any monetary compensation in connection with the
+ exchange of copyrighted works.
+ c. If you distribute, publicly display, publicly perform, or
+ publicly digitally perform the Work or any Collective Works, You
+ must keep intact all copyright notices for the Work and give the
+ Original Author credit reasonable to the medium or means You are
+ utilizing by conveying the name (or pseudonym if applicable) of
+ the Original Author if supplied; the title of the Work if
+ supplied. Such credit may be implemented in any reasonable
+ manner; provided, however, that in the case of a Collective Work,
+ at a minimum such credit will appear where any other comparable
+ authorship credit appears and in a manner at least as prominent
+ as such other comparable authorship credit.
+ 5. Representations, Warranties and Disclaimer
+ a. By offering the Work for public release under this License,
+ Licensor represents and warrants that, to the best of Licensor's
+ knowledge after reasonable inquiry:
+  i. Licensor has secured all rights in the Work necessary to grant
+  the license rights hereunder and to permit the lawful exercise of
+  the rights granted hereunder without You having any obligation to
+  pay any royalties, compulsory license fees, residuals or any
+  other payments;
+  ii. The Work does not infringe the copyright, trademark,
+  publicity rights, common law rights or any other right of any
+  third party or constitute defamation, invasion of privacy or
+  other tortious injury to any third party.
+ b. EXCEPT AS EXPRESSLY STATED IN THIS LICENSE OR OTHERWISE AGREED
+ IN WRITING OR REQUIRED BY APPLICABLE LAW, THE WORK IS LICENSED ON
+ AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS
+ OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES
+ REGARDING THE CONTENTS OR ACCURACY OF THE WORK.
+ 6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY
+ APPLICABLE LAW, AND EXCEPT FOR DAMAGES ARISING FROM LIABILITY TO
+ A THIRD PARTY RESULTING FROM BREACH OF THE WARRANTIES IN SECTION
+ 5, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY
+ FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY
+ DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN
+ IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ 7. Termination
+ a. This License and the rights granted hereunder will terminate
+ automatically upon any breach by You of the terms of this
+ License. Individuals or entities who have received Collective
+ Works from You under this License, however, will not have their
+ licenses terminated provided such individuals or entities remain
+ in full compliance with those licenses. Sections 1, 2, 5, 6, 7,
+ and 8 will survive any termination of this License.
+ b. Subject to the above terms and conditions, the license granted
+ here is perpetual (for the duration of the applicable copyright
+ in the Work). Notwithstanding the above, Licensor reserves the
+ right to release the Work under different license terms or to
+ stop distributing the Work at any time; provided, however that
+ any such election will not serve to withdraw this License (or any
+ other license that has been, or is required to be, granted under
+ the terms of this License), and this License will continue in
+ full force and effect unless terminated as stated above.
+ 8. Miscellaneous
+ a. Each time You distribute or publicly digitally perform the
+ Work or a Collective Work, the Licensor offers to the recipient a
+ license to the Work on the same terms and conditions as the
+ license granted to You under this License.
+ b. If any provision of this License is invalid or unenforceable
+ under applicable law, it shall not affect the validity or
+ enforceability of the remainder of the terms of this License, and
+ without further action by the parties to this agreement, such
+ provision shall be reformed to the minimum extent necessary to
+ make such provision valid and enforceable.
+ c. No term or provision of this License shall be deemed waived
+ and no breach consented to unless such waiver or consent shall be
+ in writing and signed by the party to be charged with such waiver
+ or consent.
+ d. This License constitutes the entire agreement between the
+ parties with respect to the Work licensed here. There are no
+ understandings, agreements or representations with respect to the
+ Work not specified here. Licensor shall not be bound by any
+ additional provisions that may appear in any communication from
+ You. This License may not be modified without the mutual written
+ agreement of the Licensor and You.
+###
+Return to Pleasure Island
+=========================
+George twiddled his thumbs in his booth and watched how the brown, clayey
+knuckles danced overtop of one another. Not as supple as they had once been, his
+thumbs -- no longer the texture of wet clay on a potter's wheel; more like clay
+after it had been worked to exhausted crackling and brittleness. He reached into
+the swirling vortex of the cotton-candy machine with his strong right hand and
+caught the stainless-steel sweep-arm. The engines whined and he felt them strain
+against his strong right arm, like a live thing struggling to escape a trap.
+Still strong, he thought, still strong, and he released the sweep-arm to go back
+to spinning sugar into floss.
+A pack of boys sauntered down the midway, laughing and calling, bouncing high on
+sugar and g-stresses. One of them peeled off from the group and ran to his
+booth, still laughing at some cruelty. He put his palms on George's counter and
+pushed against it, using them to lever his little body in a high-speed pogo.
+"Hey, mister," he said, "how about some three-color swirl, with sprinkles?"
+George smiled and knocked the rack of paper cones with his strong right elbow,
+jostled it so one cone spun high in the air, and he caught it in his quick left
+hand. "Coming _riiiiiight_ up," he sang, and flipped the cone into the
+floss-machine. He spun a beehive of pink, then layered it with stripes of blue
+and green. He reached for the nipple that dispensed the sprinkles, but before he
+turned its spigot, he said, "Are you sure you don't want a dip, too? Fudge?
+Butterscotch? Strawberry?"
+The boy bounced even higher, so that he was nearly vaulting the counter. "All
+three! All three!" he said.
+George expertly spiraled the floss through the dips, then applied a thick crust
+of sprinkles. "Open your mouth, kid!" he shouted, with realistic glee.
+The boy opened his mouth wide, so that the twinkling lights of the midway
+reflected off his back molars and the pool of saliva on his tongue. George's
+quick, clever left hand dipped a long-handled spoon into the hot fudge, then
+flipped the sticky gob on a high arc that terminated perfectly in the boy's open
+mouth. The boy swallowed and laughed gooely. George handed over the dripping
+confection in his strong right hand, and the boy plunged his face into it. When
+he whirled and ran to rejoin his friends, George saw that his ears were already
+getting longer, and his delighted laugh had sounded a little like a bray. A job
+well done, he thought, and watched the rain spatter the spongy rubber cobbles of
+the midway.
+#
+George was supposed to go off-shift at midnight. He always showed up promptly at
+noon, but he rarely left as punctually. The soft one who had the midnight-to-six
+shift was lazy and late, and generally staggered in at twelve thirty, grumbling
+about his tiredness. George knew how to deal with the soft ones, though -- his
+father had brought him up surrounded by them, so that he spoke without his
+father's thick accent, so that he never inadvertently crushed their soft hands
+when he shook with them, so that he smiled good-naturedly and gave up a
+realistic facsimile of sympathy when they griped their perennial gripes.
+His father! How wise the old man had been, and how proud, and how _stupid_.
+George shucked his uniform backstage and tossed it into a laundry hamper, noting
+with dismay how brown the insides were, how much of himself had eroded away
+during his shift. He looked at his clever left thumb and his strong right thumb,
+and tasted their good, earthy tastes, and then put them away. He dressed himself
+in the earth-coloured dungarees and workshirt that his own father had stolen
+from a laundry line when he left the ancestral home of George's people for the
+society of the soft ones.
+He boarded a Cast Member tram that ran through the ultidors underneath Pleasure
+Island's midway, and stared aimlessly at nothing as the soft ones on the tram
+gabbled away, as the tram sped away to the Cast housing, and then it was just
+him and the conductor, all the way to the end of the line, to the cottage he
+shared with his two brothers, Bill and Joe. The conductor wished him a good
+night when he debarked, and he shambled home.
+Bill was already home, napping in the pile of blankets that all three brothers
+shared in the back room of the cottage. Joe wasn't home yet, even though his
+shift finished earlier than theirs. He never came straight home; instead, he
+wandered backstage, watching the midway through the peepholes. Joe's Lead had
+spoken to George about it, and George had spoken to Joe, but you couldn't tell
+Joe anything. George thought of how proud his father had been, having three sons
+-- three! George, the son of his strong right thumb, and Bill, the son of his
+clever left thumb, and Joe. Joe, the son of his tongue, an old man's folly, that
+left him wordless for the remainder of his days. He hadn't needed words, though:
+his cracked and rheumy eyes had shone with pride every time they lit on Joe, and
+the boy could do no wrong by him.
+George busied himself with supper for his brothers. In the little wooded area
+behind the cottage, he found good, clean earth with juicy roots in it. In the
+freezer, he had a jar of elephant-dung sauce, spiced with the wrung-out sweat of
+the big top acrobats' leotards, which, even after reheating, still carried the
+tang of vitality. Preparing a good meal for his kind meant a balance of earthy
+things and living things, things to keep the hands supple and things to make
+them strong, and so he brought in a chicken from the brothers' henhouse and
+covered it in the sloppy green-brown sauce, feathers and all. Bill, being the
+clever one, woke when the smell of the sauce bubbling in the microwave reached
+him, and he wandered into the kitchen.
+To an untutored eye, Bill and George were indistinguishable. Both of them big,
+even for their kind -- for their father had been an especially big specimen
+himself -- whose faces were as expressive as sculptor's clay, whose
+chisel-shaped teeth were white and hard as rocks. When they were alone together,
+they went without clothing, as was the custom of their kind, and their bodies
+bulged with baggy, loose muscle. They needed no clothing, for they lacked the
+shame of the soft ones, the small thumb between the legs. They had a more
+civilised way of reproducing.
+"Joe hasn't returned yet?" Bill asked his strong brother.
+"Not yet," George told his clever brother.
+"We eat, then. No sense in waiting for him. He knows the supper hour," Bill
+said, and since he was the clever one, they ate.
+#
+Joe returned as the sun was rising, and burrowed in between his brothers on
+their nest of blankets. George flung one leg over his smallest brother, and
+smelled the liquor on his breath in his sleep, and his dreams were tainted with
+the stink of rotting grapes.
+George was the first one awake, preparing the morning meal. A maggoty side of
+beef, ripe with the vitality of its parasites, and gravel. Joe came for
+breakfast before Bill, as was his custom. Bill needed the sleep, to rest his
+cleverness.
+"God-_damn_, I am _hungry!_," Joe said loudly, without regard for his sleeping
+brother.
+"You missed dinner," George said.
+"I had more important things to do," Joe said. "I was out with an Imagineer!"
+George stared hard at him. "What did the Imagineer want? Is there trouble?"
+Joe gave a deprecating laugh. "Why do you always think there's trouble? The guy
+wanted to chat with me -- he likes me, wants to get to know me. His name is
+Woodrow, he's in charge of a whole operations division, and he was interested in
+what I thought of some of his plans." He stopped and waited for George to be
+impressed.
+George knew what the pause was for. "That's very good. You must be doing a good
+job for your Lead to mention you to him."
+"That little prick? He hates my guts. Woodrow's building a special operations
+unit out of lateral thinkers -- he wants new blood, creativity. He says I have a
+unique perspective."
+"Did you talk to Orville?" Orville was the soft one who'd brought them from
+their father's shack to the Island, and he was their mentor and advocate inside
+its Byzantine politics. Bill had confided to George that he suspected Orville
+was of a different species from the soft ones -- he certainly seemed to know
+more about George's kind than a soft one had any business knowing.
+Joe tore a hunk from the carcass on the rickety kitchen table and stuffed it
+into his mouth. Around it, he mumbled something that might have been yes and
+might have been no. It was Joe's favorite stratagem, and it was responsible for
+the round belly that bulged out beneath his skinny chest.
+Joe tore away more than half of the meat and made for the door. "Woodrow wants
+to meet with me again this morning. Don't wait up for me tonight!" He left the
+cottage and set off toward the tram-stop.
+Bill rolled over on his bedding and said, "I don't like this at all."
+George kept quiet. Bill's voice surprised him, but it shouldn't have. Bill was
+clever enough to lie still and feign sleep so that he could overhear Joe's
+conversations, where George would have just sat up and started talking.
+"Orville should know about this, but I can't tell if it would make him angry. If
+it made him angry and he punished Joe, it would be our fault for telling him."
+"Then we won't tell him," George said.
+Bill held up his hand. "But if we don't tell him and he finds out on his own, he
+may be angry with us."
+"Then we should tell him," George said.
+"But Joe and this Woodrow may not get along after all, and if that happens, the
+whole thing will end on its own."
+"Then we won't tell him," George said.
+"But if they do get along, then they may do something that would make Orville
+angry," Bill looked expectantly at George.
+"Then we should tell him?" George said, uncertainly.
+"I don't know," Bill said. "I haven't decided."
+George knew that this meant that Bill would have to think on it, and so he left
+him. He had to catch the tram to make it to his shift, anyway.
+#
+The soft one with the six-to-noon shift left as soon as George arrived, without
+a word. George was used to soft ones not having anything to say to him, and
+preferred it that way. He was better off than Bill -- soft ones always wanted to
+talk to Bill, and he hated it, since they never had anything to say that Bill
+wanted to know. The weather needed no discussion, Bill said. And as for the
+complaints about the shift's Lead, well, one soft one was just about the same as
+any other, and Orville had told them that at the end of the day, they worked for
+him, not for any Lead.
+Joe liked talking to the soft ones. Joe liked to talk, period. He told the soft
+ones lies about their childhood in the shack with their father, and told them
+about how his brothers tormented, and even talked about the weather. When he got
+back home, he told his brothers all over again, everything he'd told the soft
+ones.
+George had memorised the SOP manual when they came to the Island, five years
+before. It clearly said that the floor of the booth would be disinfected every
+three hours, and the surfaces polished clean, and the pots and machines
+refilled. The soft one with the six-to-noon shift never did any of these things,
+which could get him disciplined by their Lead, but George didn't complain. He
+just wiped and disinfected and re-stocked when he arrived, even though he had to
+be extra careful with the water, so that he didn't wash any of himself away.
+Boys ran up and down the midway, baking in the mid-day sun. They reminded George
+of the boys he'd gone to school with, after the social worker had come to his
+father's shack. They'd teased him to begin with, but he'd just stood with his
+hands at his sides until they stopped. Every time he started a new grade, or a
+new kid came to the school, it was the same: they'd tease him, or hit him, or
+throw things at him, and he'd stand strong and silent until they stopped, even
+if it took months. His teachers quickly learned that calling on him in class
+meant standing in awkward silence, while he sat stoic and waited for them to
+call on someone else. The social worker could make him go to school with the
+soft ones, but she couldn't make him act like one.
+George watched the boys carefully, as carefully as he had when he stood silently
+in the schoolyard, not seeming to watch anything. He was better at spotting a
+donkey than any of the soft ones. When a boy was ready to turn, George could
+almost see the shape of the donkey superimposed on the boy, and he radioed a
+keeper to pick up the donkey come morning. He got a bonus for each one he
+spotted, and according to Bill, it had accumulated to a sizable nest-egg.
+George looked at the inventory and decided that the fudge was getting a little
+long in the tooth. He'd start pushing fudge-nut dips, and by the end of his
+shift, the tub would be empty and he'd be able to give it a thorough cleaning
+and a refill from fresh stock. "Hey guys!" he called to three boys. "Is anybody
+_hungry_?" He dipped a floss and held it up, so that it oozed fudge down his
+wrist. The boys shyly approached his booth. George knew from their manner that
+they were new to the Island: probably just picked up from a video-arcade or
+lasertag tent on the mainland that afternoon. They didn't know what to make of
+their surroundings, that was clear.
+"Step right up," he said, "I don't bite!" He smiled a smile he'd practiced in
+the mirror, one that shaped his soft, flexible features into a good-natured
+expression of idiotic fun. Cautiously, the boys came forward. They were the
+target age, eleven-to-fourteen, and they'd already accumulated some merch,
+baseball hats and fanny packs made from neoprene in tropical-fish colours,
+emblazoned with the Island's logomarks and character trademarks. They had the
+beginnings of dark circles under their eyes, and they dragged a little with low
+blood-sugar. George dipped two more and distributed them around. The eldest, a
+towheaded kid near the upper age range, said, "Mister, we haven't got any money
+-- what do these cost?"
+George laughed like a freight train. "It's all free, sonny, free as air!
+Courtesy of the Management, as a reward for very _special_ customers like you."
+This was scripted, but the trick was to sell the line like it was fresh.
+The boys took the cones from him timidly, but ate ravenously. George gave them
+some logoed serviettes to wipe up with and ground the fudge into his wrists and
+forearms with one of his own. He looked at his watch and consulted the laminated
+timetable taped to the counter. 1300h, which meant that the bulk of the Guests
+would be migrating towards Actionland and the dinosaur rides, and it was time to
+push the slightly down-at-the-heels FreakZone, to balance the crowds. "You boys
+like rollercoasters?" he said.
+The youngest -- they were similar enough in appearance and distant enough in
+ages to be brothers -- spoke up. "Yeah!" The middle elbowed him, and the
+youngest flipped the middle the bird.
+"Well, if you follow the midway around this curve to the right, and go through
+the big clown-mouth, you'll be in the FreakZone. We've got a fifteen-storey
+coaster called _The Obliterator_ that loops fifty times in five minutes --
+running over _ninety-five miles per hour_! If you hurry, you can beat the line!"
+He looked the youngest in the eye at the start of the speech, then switched to
+the middle when he talked about the line.
+The youngest started vibrating with excitement, and the middle looked pensive,
+and then to the eldest said, "Sounds good, huh, Tom?"
+The eldest said, "We haven't even found out where we're sleeping yet -- maybe we
+can do the ride afterwards."
+George winked at the youngest, then said, "Don't worry about it, kids. I'll get
+that sorted out for you right now." He picked up the white house phone and asked
+the operator to connect him with Guest Services. "Hi there! This is George on
+the midway! I need reservations for three young men for tonight -- a suite, I
+think, with in-room Nintendo and a big-screen TV. They look like they'd enjoy
+the Sportaseum. OK, I'll hold," he covered the mouthpiece and said to the boys,
+"You'll love the Sportaseum -- the chairs are shaped like giant catcher's mitts,
+and the beds are giant Air Jordans, and the suite comes with a regulation
+half-court. What name should I put the reservation under?"
+The eldest said, "Tom Mitchell."
+George made the reservation. "You're all set," he said. "The monorails run right
+into the hotel lobby, every ten minutes. Anyone with a name tag can show you to
+the nearest stop. Here's a tip -- try the football panzerotto: it's a fried
+pizza turnover as big as a football, with beef-jerky laces. It's _my_ favorite!"
+"I want a football!" the youngest said.
+"We'll have it for dinner," the eldest said, looking off at the skyline of
+coaster-skeletons in the distance. "Let's go on some rides first."
+George beamed his idiot's grin at them as they left, then his face went slack
+and he went back to wiping down the surfaces. A moment later, a hand reached
+across the counter and plucked the cloth from his grip. He looked up, startled,
+into Joe's grinning face. Unlike his brothers', Joe's face was all sharp angles
+and small teeth. Nobody knew what a child of a tongue was supposed to look like,
+but George had always suspected that Joe wasn't right, even for a third son.
+"Big guy!" Joe shouted. "Workin' hard?"
+George said, "Yes." He stood, patiently, waiting for Joe to give him the cloth
+back.
+Joe held it over his head like a standard, dancing back out of reach, even
+though George hadn't made a grab for it. George waited. Joe walked back to his
+counter and gave it back.
+"We're dozing the FreakZone," Joe said, in a conspiratorial whisper. He put a
+spin on _We're_, making sure that George knew he was including himself with the
+Island's management.
+"Really," George said, neutrally.
+"Yeah! We're gonna flatten that sucker, start fresh, and build us a new theme
+land. I'm a Strategic Project Consultant! By the time it's over, I'll be an
+Imagineer!"
+George knew that the lands on Pleasure Island were flattened and rebuilt on a
+regular basis, as management worked to stay ahead of the lightspeed
+boredom-threshold of the mainland. Still, he said, "Well, Joe, that's marvelous.
+I'm sure you'll do a fabulous job."
+Joe sneered at him. "Oh, I know I will. We all do just _fabulous_ jobs, brother.
+Just some of us _have_ fabulous jobs to do."
+George refused to rise to the bait. He could always outwait Joe.
+Joe said, "We're thinking of giving it a monster theme -- monsters are testing
+very high with eleven-to-fourteens this year. Dragons, ogres, cyborgs, you know.
+We may even do a walk-through -- there hasn't been one of those here since the
+sixties!"
+George didn't know what Joe wanted him to say. He said, "That sounds very nice."
+Joe gave him a pitying look, and then his chest started ringing. He extracted a
+slim phone from his shirt-pocket and turned away. A moment later, he turned
+back. "Gotta go!" he said. "Meeting with Woodrow and Orville, down at Ops!"
+Alarm-bells went off in George's head. "Shouldn't Bill go along if you're
+meeting with Orville?"
+Joe sneered at him, then took off at a fast clip down the midway. George watched
+him until he disappeared through one of the access doors.
+#
+Bill was clearly upset about it. George couldn't help but feel responsible. He
+should have called Bill as soon as Joe told him he was meeting with Orville, but
+he'd waited until he got home.
+He'd been home for hours, and Joe still wasn't back. Bill picked absently at the
+dinner he'd made and fretted.
+"He didn't say how Orville found out?" Bill asked.
+George shook his head mutely.
+"Why didn't he invite me?" Bill asked. "I always handle negotiations for us."
+George couldn't eat. The more Bill fretted, the more he couldn't eat. It was
+long dark outside, hours and hours after Joe should've been home. Bill fretted,
+George stared out the window, and Joe didn't come home.
+Then, an electric cart's headlights swept up the trail to their cabin. The
+lights dazzled George, so he couldn't see who was driving. Bill joined him at
+the window and squinted. "It's Joe and Orville!" he said. George squinted too,
+but couldn't make anything out. He took Bill's word for it and joined him
+outside.
+It was indeed Orville and Joe. Orville was driving, and Joe was lolling
+drunkenly beside him. Orville shook hands with Bill and nodded to George, who
+lifted Joe out of the cart and carried him inside.
+When he got back, Orville and Bill were staring calmly into each other's eyes,
+each waiting for the other to say something. Orville was dressed in his working
+clothes: a natty white suit with a sport-shirt underneath. His bald head gleamed
+in the moonlight. His fleshy, unreadable face was ruddy in the glow from the
+cabin's door. George bit his tongue to keep from speaking.
+"He's drunk," Orville said, at last. Orville didn't beat around the bush.
+"I can see that," Bill said. "Did you get him drunk?"
+"Yes, I did. We were celebrating."
+Bill's eyes narrowed. "So you know."
+Orville smiled. "Of course I know. I set it up. I thought you'd approve: Joe
+clearly needed something to keep him out of trouble."
+Bill said, "This will keep him out of trouble?"
+Orville leaned against the cart's bumper, pulled out a pipe, stuffed it and lit
+it. He puffed at it, and watched the smoke wisp away in the swamp breezes. "I
+think that Joe's going to really like life with the Imagineers. They're
+Management's precious darlings who can do no wrong. Anything they ask for, they
+get. There won't be any more discipline problems."
+Bill said, "Why not?"
+Orville grinned without showing his teeth. "Where there's no discipline,
+there're no discipline problems. He can work whatever hours he wants. He'll have
+access to anything he needs: budget, staff, an office, whatever. It's his dream
+job."
+Bill said, "I don't like this."
+George wondered why not. It sounded pretty good to him.
+Orville puffed at his pipe. "Like it or not, I think you'll have a hard time
+convincing Joe not to do it. He's sold."
+Bill went back into the cabin and closed the door.
+"He took that well, don't you think?" Orville asked.
+George said, "I suppose so."
+Orville said, "Is everything working out all right for you? Shifts OK?
+Co-workers?"
+George said, "Everything's fine. Thank you."
+Orville tapped his pipe out on the bumper, then got back into the cart. "All
+right then. Good night, George."
+#
+George started cooking dinner for two. More and more, Joe spent the night in a
+suite at one of the hotels, "working late." George didn't know what sort of work
+he was doing, but he sure seemed to enjoy it. He hardly came back to the cabin
+at all. The first time he'd stayed out all night, Bill had gone back to the
+Island and gotten Orville out of bed to help him search. After that, Joe started
+sending out a runner, usually some poor Ops trainee, to tell them he wasn't
+coming back for dinner. Eventually, he stopped bothering, and Bill stopped
+worrying.
+One night, a month after Orville had come out to the cabin, George slathered a
+muskrat's carcass with mayonnaise and lemon and dragonfly eggs and set it out
+for him and Joe.
+Bill hardly ate, which was usually a signal that he was thinking. George left
+him half of the dinner and waited for him to speak. Bill picked his way through
+the rest, then pushed his plate away. George cleared it and brought them both
+mason jars full of muddy water from the swamp out back. Bill took his jar out
+front of the cabin and leaned against the wall and stared out into the night,
+sipping. George joined him.
+"We're getting old," Bill said, at last.
+"Every night, the inside of my uniform is black," George said.
+"Mine, too. We're getting very old. I think that you're at least thirty, and I'm
+pretty sure that I'm twenty-five. That's old. Our father told me that he thought
+he was fifty, the year he died. And he was very old for one of us."
+George thought of their father on his deathbed, eating the food they chewed for
+him, eyes nearly blind, skin crazed with cracks. "He was very old," George said.
+Bill held his two whole hands up against the stars. "When father was my age, he
+had two sons. Can you remember how proud he was of us? How proud he was of
+himself? He'd done well enough that he could lose both his thumbs, and still
+know that his sons would take care of him."
+George shifted and sighed. He'd been thinking about sons, too.
+"I've wanted a son since we came to the Island," Bill said. "I never did
+anything about it because I couldn't take care of Joe and a son." Bill turned to
+look at George. "I think Joe's finally taking care of himself."
+George didn't know what to say. If Bill had a son, then he couldn't. They
+couldn't both stop working to raise their sons. But Bill always made the
+decisions for them. George didn't know what to say, so he said nothing.
+"I'm going to have a son," Bill said.
+#
+Bill did it the next night. He told Orville that he'd need a month off, and
+after eating the dinner George made for them, he made a nest of earth and
+blankets on the floor of their cabin.
+George sat in the corner and watched Bill as he stared at his thumbs. It was the
+most important decision one of their kind ever made: a clever son of the left
+hand, or a strong son of the right. George knew that his son would come from the
+left hand. In the world his father had put them into, cleverness was far more
+important than strength. After all, Bill was having the first son.
+Bill put his clever left thumb in his mouth and slowly, slowly, bit down. George
+felt muddy tears pricking at his eyes. Bill's hand coursed with silty blood. He
+ignored it, and used his strong right hand to take the severed thumb from his
+mouth and bed it down with infinite care in the nest he'd built.
+George cautiously moved forward to peer at the thumb, which was already moving
+blindly in its nest, twisting like a grub. Bill looked on, his eyes shining.
+"It's perfect," George breathed.
+George felt an uncharacteristic welling up inside him, and he put his arm around
+Bill's shoulders. Bill leaned into him, and said, "Thank you, George. This
+family wouldn't exist without you."
+They both slept curled around the nest that night.
+By morning, the thumb had sprouted tiny arm- and leg-buds, and it inched itself
+blindly around the nest. George marveled at it before going to work.
+Joe stopped by his stand that day. His belly was bigger than ever, and his skin
+was cracking like their father's had. "Big guy!" he shouted, vaulting the
+counter into George's stand. "Where's Bill today? He wasn't at his post."
+George said, "Bill had a son last night. From his left hand."
+Joe rolled his eyes, which had gone the murky yellow of swamp water. "Wonderful,
+right? Ugh. There are better ways to achieve immortality, bro. I'm designing a
+crawl-through for HorrorZone: you're an earthworm crawling underneath a
+graveyard. It's gonna be huge: maggots as big as horses, chasing the Guests
+through the tunnels; huge ghost hands grabbing at them. We're building a giant
+tombstone as the weenie, you'll be able to see it from anywhere on the Island.
+We'll build out over the midway for HorrorZone -- it's the biggest rehab we've
+done since they brought in electric power."
+As usual, George didn't know what to say to Joe. "That sounds very nice," he
+said.
+Joe rolled his eyes again and started to say something, but stopped when three
+Guests came up to George's booth. George hardly recognised the Mitchell
+brothers. The youngest was already three-quarters donkey, so dangerously close
+that it was a miracle he hadn't been picked up already. He was hunched over, and
+his hands were fused into fists. His hair had grown down over his shoulders in a
+coarse mane, and his lips bulged around his elongated jaws.
+The middle and eldest were well on their ways, too. The points of their ears
+poked out from under their hair, and they carried themselves painfully, forcing
+their legs and hips upright.
+George flipped over his phone and punched 911, but left it out of sight below
+the counter. Loudly, he said, "Come on over, boys! You look like you could use
+one of George's triple-dips, the best on the midway!"
+From the phone, he heard the security operator say, "Thank you, George, we'll be
+along in a moment." Surreptitiously, he racked the receiver and smiled at the
+boys.
+"How are you enjoying your stay, boys?" he said.
+"It'th aw-thome!" the youngest said around his clumsy teeth.
+George handed him a cone piled high with floss, then started building two more
+for his brothers. Joe smirked at them. George hoped he wouldn't say anything
+before security got there.
+The eldest said, "I don't think my brother's feeling too good. Is there a doctor
+here I can take him to?"
+The youngest, face sticky with confection, kicked his brother. "I'm fine!" he
+said. "I wanna go on more rideth!"
+His brother said, "We'll go on more rides after we see a doctor."
+The youngest dropped to his knees and cried. "No!" he said, hammering his fists
+on the ground. "No no no no!" George watched in alarm as the boy went all the
+way over to donkey. His cries turned to brays, and his shorts split around his
+haunches and tail. His shirt went next, and George smoothly vaulted the counter
+and stood in front of the donkey, blocking him from passers-by. The other two
+made a run for it. George snagged the middle by his collar, but the boy tore
+free and took off down the midway. George looked about wildly for security, but
+they still hadn't arrived.
+Then Joe tore past him, moving faster than George had ever seen him go. He
+caught the boys and stuffed one under each arm, kicking and squirming. He
+grinned ferociously as he pinned them beneath his knees at George's feet. He
+clamped his hands over their mouths. "Got 'em!" he said to George.
+A security team emerged from the utilidor beside George's booth, wearing clown
+makeup and baggy pants. Two of them tranquilised the boys and the third fitted
+the donkey out with a halter and bit. The clown slapped the donkey's haunch
+appreciatively. "He's a healthy one."
+The security team disappeared down the utilidor with the Mitchell brothers: two
+boys and a donkey. Joe smacked George on the back. "Did you see me catch them?
+Like greased lightning! Bounty, here I come!"
+George didn't mind sharing his bounty with Joe, so he just smiled and nodded and
+went back around to his booth.
+#
+Bill named his son Tom. Names weren't very important to their people, but the
+soft ones' world demanded them. Within a week, Tom was eagerly toddling through
+their cabin, tasting everything, exploring everything. His eyes shone with
+curious brilliance. The clever son of a clever son.
+George loved Bill's son. He loved to watch Tom as he gnawed at their bedding, as
+he dug at the floor in search of grubs. Tom was clearly delighted with his
+surroundings, and George basked in Tom's delight. Bill could barely restrain
+himself from picking Tom up and hugging him every moment. The only time he left
+George alone with Tom was a few precious moments after each evening's meal, when
+he would duck into the woods to find some new toy for Tom: a crippled chipmunk;
+a handful of pretty rocks; a discarded beer can. The son built bizarre towers
+out of them, then knocked them down in a fit of giggles. Tom ate all day long,
+and spoke a steady stream of adorable nonsense.
+Bill hardly spoke to George. Their evening meals were given over to watching the
+son eat. George didn't mind. Talking to the Guests all day wore him out.
+When Tom was two months old, Joe came by George's booth.
+"Well, it's final. Tomorrow, we shut down the midway. Too old-fashioned -- it's
+only stood this long because some of the older Imagineers had an emotional
+attachment to it. I told 'em: 'That's _your_ demographic, not the _target_
+demographic.' So we're knocking it down. HorrorZone's gonna be _huge_." He
+skipped off before George could say anything. His ears were long and pointed. It
+wasn't the first time George noticed it, but now, he could see that Joe's
+hunched-over gait wasn't just because of his belly.
+George built a dozen cones for the Guests, but his heart wasn't in it. Besides,
+most of the Guests already had their hands full of gummi spiders and snakes,
+from the Actionland Jungle Treats buffet. His thoughts were full of Joe, and he
+turned them over in his slow, cautious manner. Joe was turning into a donkey. He
+didn't think that one of their kind could turn into a donkey, but this was
+Pleasure Island. Indulging your vices was a dangerous pastime here. He should
+tell Bill, but there was no phone at the cabin. He couldn't send a runner for
+him, because this was family business. His shift wouldn't end for hours yet, and
+this was too important to wait.
+Finally, he called his Lead. "I have to get offstage. I'm having a bad day."
+Technically, this was allowed. Management didn't want anyone onstage who wasn't
+100 percent. But it was something that none of the brothers, not even Joe, had
+ever done. The Lead was surprised, but he sent over a soft one to relieve
+George.
+#
+Orville and Bill were sitting out front of the cabin, watching Tom, when George
+got back. He wrung his hands as he approached them, not sure of what to say, and
+whether he should talk in front of Orville at all. He held his left thumb in his
+right hand, and it comforted him, a little.
+Bill and Orville were so engrossed in Tom's antics that they didn't even notice
+George until he cleared his throat. Orville raised his eyebrows and looked
+significantly at Bill.
+"I just saw Joe," George said. "On the midway. His ears are pointed, and he's
+walking all hunched over. I give him a few days at the most before he's all the
+way gone." George held his breath, waiting for Bill's reaction.
+"Too bad," Bill said. "It was inevitable, I suppose. A child of the tongue! What
+was father thinking?"
+Orville smiled and puffed at his pipe. "Don't you worry about it, George. Joe's
+going to be much, much happier. Focussed. If you'd like, I can bring him out
+here to live. Little Tom could have pony rides."
+Bill said, "I don't think that's such a good idea. Joe's too wild to play with a
+child."
+Orville put a hand on his shoulder. "You'd be amazed at how docile he'll
+become."
+Bill scooped up Tom, who was up to his waist now, and who liked to grab onto
+Bill's nose. "We'll see, then." He retreated into the cabin with his son.
+Orville turned to George and said, "You've probably heard that we're taking down
+the midway tomorrow. The others are all being reassigned until the rehab is
+done, but I thought I'd see if I could get you a couple months off. You could
+stay here and play with Tom -- it's not every day you get to be a new uncle."
+Orville had always taken obvious pleasure in the transformation of boys into
+donkeys. It was the whole why of Pleasure Island, after all. Orville seemed
+especially pleased tonight, and George thought that he was as surprised about
+Bill as George was.
+George, not knowing what to say to any of it, said nothing.
+#
+It didn't take long for George to start missing the midway. Stuck at the cabin
+with Bill and Tom, he sat against an outside wall and tried not to get in the
+way. He prepared meals in silence, taking a long time in the woods, gathering up
+choice morsels. Bill and Tom ate on the floor, away from the table. Bill chewed
+the tougher morsels first, and then put them in Tom's mouth with his crippled
+left hand. Most of the time, neither of them took any notice of George.
+One day, he prepared a whole day's worth of meals and left them on the table,
+then walked to the utilidor at the other side of the woods. He boarded a tram
+and rode to the old midway entrance.
+The midway was fenced in with tall plywood sheets, and construction crews
+bustled over the naked skeletons of the new HorrorZone. Heavy machinery groaned
+and crashed. Nothing but the distant silhouettes of Actionland's skyline were
+familiar. George tried to imagine working here for years to come. An
+overwhelming tiredness weighed him down.
+He took the tram back to the cabin and stripped off his clothes. They were
+browner than ever. His arms felt weak and tired. He suddenly knew that he would
+never have a son of his own.
+Bill and Tom were playing out front of the cabin. He sat in his usual spot
+against the wall and watched them. "Bill," he said, softly.
+"Yes?" Bill said.
+"When will I have a son of my own?" Bill always knew the answers.
+Bill gathered Tom up to his chest unconsciously while he thought. "I suppose
+that once Tom is grown, you could take some time off and have a son of your
+own."
+To his own surprise, George said, "I want to have a son now."
+Bill said, "That's out of the question, George. We're too busy with Tom." On
+hearing Bill's annoyed tone, Tom leaned into him.
+George said, "I'm not busy. I am old, though. If I don't have a son soon, I
+won't be able to care for it until it's old enough to care for me."
+Bill said, "You're thinking like Father. We're living with the soft ones now.
+Orville will make sure that you and your son will be fine until he's grown."
+George never won arguments with Bill. He went inside the cabin and set out
+dinner.
+#
+Orville visited the brothers the next morning. He chucked Tom under the chin and
+shook hands with Bill. Then he took George out into the woods for a walk.
+"Your brother tells me you want a son of your own," he said.
+George nodded, and stooped to put a small, mossy log in his basket.
+"Bill doesn't want you to, huh?"
+George didn't feel very comfortable discussing the family with Orville. That was
+Bill's job. After some thought, he said, "Not right now."
+Orville said, "I can see that that makes you unhappy. No one should be unhappy
+here. I'll see what I can do. Come down to Ops tomorrow morning, we'll talk
+more."
+When George got back to the cabin, Bill was lying on his back on the floor,
+laughing while Tom climbed all over him. Tom still babbled, but they were real
+words now, though nonsensical. With his constant talking, he reminded George of
+Joe, and that made him even sadder.
+#
+George had never been to Ops before, but he knew where it was, in a collection
+of low-slung prefab buildings hidden behind the topiary sculptures near
+MagicLand. He clutched his right thumb nervously as he stood and waited in the
+reception area for Orville to come and get him. The secretary had taken his name
+and buzzed Orville, and now kept sneaking him horrified looks. George's family
+were the only of their kind to leave their homeland and join the soft ones, and
+here at Ops, there were any number of low-ranking babus who'd never heard tell
+of them.
+Orville was all smiles and effusion as he breezed through the glass
+security-door and pounded George on the back. "George! I'm so _glad_ you came
+down!"
+He took George by the arm and led him away, stopping to wink at the secretary,
+who looked at him with a mixture of disgust and admiration.
+Orville's office was buried in a twisting maze of door-lined, fluorescent-lit
+corridors, where busy soft ones talked on telephones and clattered on keyboards.
+He led George through his door, into an office as big as George's cabin.
+Orville paced and talked. "Did I say I was glad you came? I'm glad you came.
+Now, let's talk about Bill. Bill's happy. He's got what he wants. A son. He
+doesn't have to take care of Joe. It's good for him."
+He paused and looked at George. George nodded.
+"OK. There's a problem, though. You want a son, too, only Bill won't allow it."
+It didn't need any comment, so George kept quiet.
+"My thinking is, Bill's so busy with Tom, he wouldn't really notice if you were
+there or not. You're an adult, you can take care of yourself. Do you see where
+I'm going with this?"
+George assumed it was a rhetorical question.
+"Right. What I'm thinking is, there's no reason that both of you shouldn't have
+your own son. This is Pleasure Island, after all. No one should be sad on
+Pleasure Island. You've worked hard and well for us for a long time here. We can
+take care of you."
+George felt an uncomfortable sensation in his stomach, a knot of guilt like
+rising vomit.
+"I thought about having another cabin built in the woods, but that's no good. I
+think that you and Bill need your own space. So let me bounce my current thought
+off you: we'll put you up in the new Monster's Arms, that's the hotel we're
+building for HorrorZone. It's way ahead of schedule, almost finished now.
+There's a penthouse suite that you can take for as long as you like. It's only
+temporary, just until you and Bill have had some time to raise up your sons.
+Then, we'll get the whole family together back at the cabin."
+The guilt rose higher, choking George.
+"Don't worry about eating, either. I've briefed the house chef on your tastes,
+and he'll send up three squares every day; everything a growing boy needs." He
+flashed a grin.
+"And forget about Bill. I'll smooth things over with him. He'll see that it's
+for the best."
+Finally, George had something to say. "What about Joe?"
+Orville had been almost dancing as he spoke, enchanted with his own words. He
+pulled up short when George spoke. "What about him?"
+"I want to live with him again," George said.
+"He's gone, you know that." Orville pointed his fingers alongside his ears.
+"Hee-haw, hee-haw. The monthly ferry will take him to the mainland tomorrow."
+"I don't care about that," George said. "I want him there."
+Orville said, "I don't think that's such a good idea, George. You're going away
+to concentrate on _you_ -- Joe's a handful, even now. I don't want you
+distracted."
+George said, "I want Joe."
+Orville stared at him. George set his face into a blank mask. Finally, Orville
+said, "If that's what you want, that's what you'll get."
+#
+George didn't have anything to fetch from the cabin, and Orville thought it
+would be best if he spoke to Bill alone, so he sent George to the stables to get
+Joe.
+The donkey stables were beyond Ops, at the very edge of the island, opposite the
+docks where the ferries brought new boys in. A different kind of boat docked
+there, large utility freighters that brought in everything the Island needed and
+took away braying, kicking herds of jackasses.
+The donkeys shifted nervously in their stalls. George smelled horse-apples and
+hay, and heard fidgeting hooves and quiet, braying sobs. He wasn't clear on what
+happened to donkeys when they went back to the mainland, but he had an idea that
+it wasn't very pleasant. On the Island, donkeys were prizes, a sign that a boy's
+every wish had been gratified. What happened afterwards wasn't something that
+they were encouraged to think about.
+He walked down the clean, wooden aisles, peering into the stalls, looking for
+Joe. Finally, in a dark stall in the very darkest corner of the stables, he
+found him. A large, pot-bellied jackass, who leapt up and brayed loudly at him
+when he clucked his tongue at it.
+"Joe?" he asked softly.
+The donkey brayed again and kicked at the stall's door. It was already
+splintered from many such kicks. George opened the catch and was nearly trampled
+beneath Joe's hooves as he ran out and away, braying loudly. George chased his
+brother. He didn't start very fast, but once he got going, inertia made him
+unstoppable.
+He cornered Joe at the door that led out to the Island. The donkey was kicking
+at it, trying for escape. George locked his strong right arm around Joe's neck.
+"Stop it, Joe," he said. "I'm taking you out with me, but you have to stop it."
+Joe's eyes rolled madly, and he struggled against George, kicking and biting.
+George waited in silence until the donkey tired, then used a bridle hanging on
+the wall to lead Joe out of the stables.
+When Joe saw Orville waiting for them, he went wild again. George caught him by
+the hind leg and dragged him to the ground, while Orville danced back with a
+strange grace.
+Orville grinned and said, "I guess he doesn't like me very much." He came
+forward and darted an affectionate pat on Joe's haunch.
+Joe brayed loudly and George kept his own counsel. Orville led them down a
+utilidor and into an electric tram with an open car. George led Joe in and held
+onto his neck while Orville sped down the utilidor. He drove up a service ramp
+and out into HorrorZone, then to the doors of the newly completed Monster's
+Arms.
+#
+George and Joe lived in the Monster's Arms. Every morning, Orville paid them a
+visit and snuck looks at George's thumbs. They were intact.
+George wanted to have a son, but he couldn't bring himself to do it. Orville's
+visits grew shorter, and Orville's manner grew more irritated. Still, George had
+no son.
+One day, he waited until Joe was napping, and slipped out through the
+iron-maiden elevator, right down into the utilidor.
+The tram driver recognised him and took him out to the cabin. The last mile of
+the utilidor was dusty and disused. George leaped off the tram and walked
+quickly to the cabin, his heart racing. It had been so long since he'd seen Bill
+and little Tom. He missed them terribly.
+The little cabin was even smaller than George remembered it, and it looked sad,
+sagging and ramshackle. He hesitated at the door, then, feeling a stranger,
+knocked.
+There was movement inside, but no voices, and the door stayed shut. George
+opened the door.
+It was a disaster. The kitchen cupboards were smashed in, the little table
+knocked over and splintered, the bedding scattered and soiled. Deep shadows
+collected in the corners.
+"Bill?" George called, softly. A shadow stirred, an indistinct figure within its
+depths.
+"Bill, it's George. I missed you. I need to talk with you. I'm confused."
+The shadow stirred again. George crept forward, peering, his old eyes
+night-dimmed.
+Bill huddled in the corner, wracked and wasted. He stared up at George through
+eyes filmed with tears. He held up his hands. They had already begun to shape
+themselves into hooves, but George could still see that both his thumbs were
+gone. His ears were pointed and long.
+"Oh, Bill," George said.
+His brother let out a braying sob, and George saw he had no tongue.
+#
+Orville came looking for them the next morning.
+"Where are the sons?" George asked him, while stroking the donkey's head in his
+lap.
+Orville smiled a slightly abashed smile. "I'm keeping them safe. I didn't think
+that Bill was in any shape to take care of them."
+George said, "I'll take care of them. Bring them here. Joe, too -- he's in the
+room. I'll take care of them all."
+Orville smiled his abashed smile again, then gave George an ironic salute. "Yes,
+sir," he said. He patted Bill's haunch and smiled to himself.
+George didn't know how to respond to irony, so he held his brother more tightly.
+Eventually, Orville went away, and then came back a while after that. He drove
+an electric cart. In the front seat, three sons bounced -- Tom, bright and
+curious; another, strong and big; a third, whose little pot belly jiggled as he
+talked and talked and talked. In a trailer, Joe kicked and fought against his
+bonds.
+George let him out first, then took the sons to the porch. Joe and Bill stared
+at each other for a long moment, then Bill brayed out a long, donkeyish laugh.
+Orville looked with proprietary satisfaction at the donkeys, then at the sons,
+then at George. He waggled a finger at George, as if to say, _I'll be back for
+you, someday_. Then he got into his tram and drove off.
+George went back inside and made dinner for his family.
+--
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:rdf="http://www.w3.org/1999/08/22-rdf-syntax-ns#">
+<Work rdf:about="http://craphound.com/place/Cory_Doctorow_-_Return_to_Pleasure_Island.txt">
+  <dc:title>Home Again, Home Again</dc:title>
+  <dc:date>1999-2-1</dc:date>
+  <dc:description>A science&#45;fiction short story by Cory Doctorow about the
+  golems who tend the rides at Pleasure Island, the park where Pinnocchio and his
+  friend Lamwick are turned into donkeys in Carlo Collodi's novel Pinnocchio, from the
+  short story collection "A Place So Foreign and Eight More," published by Four Walls
+  Eight Windows press in September, 2003 (ISBN: 1568582862)</dc:description>
+  <dc:creator><Agent>
+ <dc:title>Cory Doctorow</dc:title>
+  </Agent></dc:creator>
+  <dc:rights><Agent>
+ <dc:title>Cory Doctorow</dc:title>
+  </Agent></dc:rights>
+  <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+<license rdf:resource="http://creativecommons.org/licenses/by-nd-nc/1.0/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd-nc/1.0/">
+  <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+  <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+  <requires rdf:resource="http://web.resource.org/cc/Notice" />
+  <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+  <prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" />
+</License>
+</rdf:RDF>
+-->

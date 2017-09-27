@@ -1,0 +1,1203 @@
+Copyright (C) 1999 by Cory Doctorow
+Home Again, Home Again
+Cory Doctorow
+From "A Place So Foreign and Eight More," a short story collection published in
+September, 2003 by Four Walls Eight Windows Press (ISBN 1568582862). See
+http://craphound.com/place for more.
+Originally Published in Tesseracts 8 (Tesseract Press, 1999)
+"'Home Again, Home Again,' is at once intimate and spectacular."
+ - Farren Miller
+  Locus Magazine
+  Issue 512, Vol 51, No 3
+  Sept 2003
+--
+Blurbs and quotes:
+* Cory Doctorow straps on his miner's helmet and takes you deep into the
+ caverns and underground rivers of Pop Culture, here filtered through SF-coloured
+ glasses. Enjoy.
+ - Neil Gaiman
+  Author of American Gods and Sandman
+* Few writers boggle my sense of reality as much as Cory Doctorow. His vision
+ is so far out there, you'll need your GPS to find your way back.
+ - David Marusek
+  Winner of the Theodore Sturgeon Award, Nebula Award nominee
+* Cory Doctorow is one of our best new writers: smart, daring, savvy,
+ entertaining, ambitious, plugged-in, and as good a guide to the wired world of
+ the twenty-first century that stretches out before us as you're going to find.
+ - Gardner Dozois
+  Editor, Asimov's SF
+* He sparkles! He fizzes! He does backflips and breaks the furniture! Science
+ fiction needs Cory Doctorow!
+ - Bruce Sterling
+  Author of The Hacker Crackdown and Distraction
+* Cory Doctorow strafes the senses with a geekspeedfreak explosion of gomi kings
+ with heart, weirdass shapeshifters from Pleasure Island and jumping automotive
+ jazz joints. If this is Canadian science fiction, give me more.
+ - Nalo Hopkinson
+  Author of Midnight Robber and Brown Girl in the Ring
+* Cory Doctorow is the future of science fiction. An nth-generation hybrid of
+ the best of Greg Bear, Rudy Rucker, Bruce Sterling and Groucho Marx, Doctorow
+ composes stories that are as BPM-stuffed as techno music, as idea-rich as the
+ latest issue of NEW SCIENTIST, and as funny as humanity's efforts to improve
+ itself. Utopian, insightful, somehow simultaneously ironic and heartfelt, these
+ nine tales will upgrade your basal metabolism, overwrite your cortex with new
+ and efficient subroutines and generally improve your life to the point where
+ you'll wonder how you ever got along with them. Really, you should need a
+ prescription to ingest this book. Out of all the glittering crap life and our
+ society hands us, craphound supreme Doctorow has managed to fashion some
+ industrial-grade art."
+ - Paul Di Filippo
+  Author of The Steampunk Trilogy
+* As scary as the future, and twice as funny. In this eclectic and electric
+ collection Doctorow strikes sparks off today to illuminate tomorrow, which is
+ what SF is supposed to do. And nobody does it better.
+ - Terry Bisson
+  Author of Bears Discover Fire
+--
+A note about this story
+This story is from my collection, "A Place So Foreign and Eight More," published
+by Four Walls Eight Windows Press in September, 2003, ISBN 1568582862. I've
+released this story, along with five others, under the terms of a Creative
+Commons license that gives you, the reader, a bunch of rights that copyright
+normally reserves for me, the creator.
+I recently did the same thing with the entire text of my novel, "Down and Out in
+the Magic Kingdom" (http://craphound.com/down), and it was an unmitigated
+success. Hundreds of thousands of people downloaded the book -- good news -- and
+thousands of people bought the book -- also good news. It turns out that, as
+near as anyone can tell, distributing free electronic versions of books is a
+great way to sell more of the paper editions, while simultaneously getting the
+book into the hands of readers who would otherwise not be exposed to my work.
+I still don't know how it is artists will earn a living in the age of the
+Internet, but I remain convinced that the way to find out is to do basic
+science: that is, to do stuff and observe the outcome. That's what I'm doing
+here. The thing to remember is that the very *worst* thing you can do to me as
+an artist is to not read my work -- to let it languish in obscurity and
+disappear from posterity. Most of the fiction I grew up on is out-of-print, and
+this is doubly true for the short stories. Losing a couple bucks to people who
+would have bought the book save for the availability of the free electronic text
+is no big deal, at least when compared to the horror that is being irrelevant
+and unread. And luckily for me, it appears that giving away the text for free
+gets me more paying customers than it loses me.
+You can find the canonical version of this file at
+http://craphound.com/place/download.php
+If you'd like to convert this file to some other format and distribute it, you
+have my permission, provided that:
+* You don't charge money for the distribution
+* You keep the entire text intact, including this notice, the license below, and
+the metadata at the end of the file
+* You don't use a file-format that has "DRM" or "copy-protection" or any other
+form of use-restriction turned on
+If you'd like, you can advertise the existence of your edition by posting a link
+to it at http://craphound.com/place/000016.php
+--
+Here's a summary of the license:
+ http://creativecommons.org/licenses/by-nd-nc/1.0
+ Attribution. The licensor permits others to copy, distribute,
+ display, and perform the work. In return, licensees must give the
+ original author credit.
+ No Derivative Works. The licensor permits others to copy,
+ distribute, display and perform only unaltered copies of the work
+ -- not derivative works based on it.
+ Noncommercial. The licensor permits others to copy, distribute,
+ display, and perform the work. In return, licensees may not use
+ the work for commercial purposes -- unless they get the
+ licensor's permission.
+And here's the license itself:
+ http://creativecommons.org/licenses/by-nd-nc/1.0-legalcode
+ THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
+ CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK
+ IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF
+ THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE IS
+ PROHIBITED.
+ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT
+ AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR
+ GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR
+ ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+ 1. Definitions
+ a. "Collective Work" means a work, such as a periodical issue,
+ anthology or encyclopedia, in which the Work in its entirety in
+ unmodified form, along with a number of other contributions,
+ constituting separate and independent works in themselves, are
+ assembled into a collective whole. A work that constitutes a
+ Collective Work will not be considered a Derivative Work (as
+ defined below) for the purposes of this License.
+ b. "Derivative Work" means a work based upon the Work or upon the
+ Work and other pre-existing works, such as a translation, musical
+ arrangement, dramatization, fictionalization, motion picture
+ version, sound recording, art reproduction, abridgment,
+ condensation, or any other form in which the Work may be recast,
+ transformed, or adapted, except that a work that constitutes a
+ Collective Work will not be considered a Derivative Work for the
+ purpose of this License.
+ c. "Licensor" means the individual or entity that offers the Work
+ under the terms of this License.
+ d. "Original Author" means the individual or entity who created
+ the Work.
+ e. "Work" means the copyrightable work of authorship offered
+ under the terms of this License.
+ f. "You" means an individual or entity exercising rights under
+ this License who has not previously violated the terms of this
+ License with respect to the Work, or who has received express
+ permission from the Licensor to exercise rights under this
+ License despite a previous violation.
+ 2. Fair Use Rights. Nothing in this license is intended to
+ reduce, limit, or restrict any rights arising from fair use,
+ first sale or other limitations on the exclusive rights of the
+ copyright owner under copyright law or other applicable laws.
+ 3. License Grant. Subject to the terms and conditions of this
+ License, Licensor hereby grants You a worldwide, royalty-free,
+ non-exclusive, perpetual (for the duration of the applicable
+ copyright) license to exercise the rights in the Work as stated
+ below:
+ a. to reproduce the Work, to incorporate the Work into one or
+ more Collective Works, and to reproduce the Work as incorporated
+ in the Collective Works;
+ b. to distribute copies or phonorecords of, display publicly,
+ perform publicly, and perform publicly by means of a digital
+ audio transmission the Work including as incorporated in
+ Collective Works;
+ The above rights may be exercised in all media and formats
+ whether now known or hereafter devised. The above rights include
+ the right to make such modifications as are technically necessary
+ to exercise the rights in other media and formats. All rights not
+ expressly granted by Licensor are hereby reserved.
+ 4. Restrictions. The license granted in Section 3 above is
+ expressly made subject to and limited by the following
+ restrictions:
+ a. You may distribute, publicly display, publicly perform, or
+ publicly digitally perform the Work only under the terms of this
+ License, and You must include a copy of, or the Uniform Resource
+ Identifier for, this License with every copy or phonorecord of
+ the Work You distribute, publicly display, publicly perform, or
+ publicly digitally perform. You may not offer or impose any terms
+ on the Work that alter or restrict the terms of this License or
+ the recipients' exercise of the rights granted hereunder. You may
+ not sublicense the Work. You must keep intact all notices that
+ refer to this License and to the disclaimer of warranties. You
+ may not distribute, publicly display, publicly perform, or
+ publicly digitally perform the Work with any technological
+ measures that control access or use of the Work in a manner
+ inconsistent with the terms of this License Agreement. The above
+ applies to the Work as incorporated in a Collective Work, but
+ this does not require the Collective Work apart from the Work
+ itself to be made subject to the terms of this License. If You
+ create a Collective Work, upon notice from any Licensor You must,
+ to the extent practicable, remove from the Collective Work any
+ reference to such Licensor or the Original Author, as requested.
+ b. You may not exercise any of the rights granted to You in
+ Section 3 above in any manner that is primarily intended for or
+ directed toward commercial advantage or private monetary
+ compensation. The exchange of the Work for other copyrighted
+ works by means of digital file-sharing or otherwise shall not be
+ considered to be intended for or directed toward commercial
+ advantage or private monetary compensation, provided there is no
+ payment of any monetary compensation in connection with the
+ exchange of copyrighted works.
+ c. If you distribute, publicly display, publicly perform, or
+ publicly digitally perform the Work or any Collective Works, You
+ must keep intact all copyright notices for the Work and give the
+ Original Author credit reasonable to the medium or means You are
+ utilizing by conveying the name (or pseudonym if applicable) of
+ the Original Author if supplied; the title of the Work if
+ supplied. Such credit may be implemented in any reasonable
+ manner; provided, however, that in the case of a Collective Work,
+ at a minimum such credit will appear where any other comparable
+ authorship credit appears and in a manner at least as prominent
+ as such other comparable authorship credit.
+ 5. Representations, Warranties and Disclaimer
+ a. By offering the Work for public release under this License,
+ Licensor represents and warrants that, to the best of Licensor's
+ knowledge after reasonable inquiry:
+  i. Licensor has secured all rights in the Work necessary to grant
+  the license rights hereunder and to permit the lawful exercise of
+  the rights granted hereunder without You having any obligation to
+  pay any royalties, compulsory license fees, residuals or any
+  other payments;
+  ii. The Work does not infringe the copyright, trademark,
+  publicity rights, common law rights or any other right of any
+  third party or constitute defamation, invasion of privacy or
+  other tortious injury to any third party.
+ b. EXCEPT AS EXPRESSLY STATED IN THIS LICENSE OR OTHERWISE AGREED
+ IN WRITING OR REQUIRED BY APPLICABLE LAW, THE WORK IS LICENSED ON
+ AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS
+ OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES
+ REGARDING THE CONTENTS OR ACCURACY OF THE WORK.
+ 6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY
+ APPLICABLE LAW, AND EXCEPT FOR DAMAGES ARISING FROM LIABILITY TO
+ A THIRD PARTY RESULTING FROM BREACH OF THE WARRANTIES IN SECTION
+ 5, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY
+ FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY
+ DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN
+ IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ 7. Termination
+ a. This License and the rights granted hereunder will terminate
+ automatically upon any breach by You of the terms of this
+ License. Individuals or entities who have received Collective
+ Works from You under this License, however, will not have their
+ licenses terminated provided such individuals or entities remain
+ in full compliance with those licenses. Sections 1, 2, 5, 6, 7,
+ and 8 will survive any termination of this License.
+ b. Subject to the above terms and conditions, the license granted
+ here is perpetual (for the duration of the applicable copyright
+ in the Work). Notwithstanding the above, Licensor reserves the
+ right to release the Work under different license terms or to
+ stop distributing the Work at any time; provided, however that
+ any such election will not serve to withdraw this License (or any
+ other license that has been, or is required to be, granted under
+ the terms of this License), and this License will continue in
+ full force and effect unless terminated as stated above.
+ 8. Miscellaneous
+ a. Each time You distribute or publicly digitally perform the
+ Work or a Collective Work, the Licensor offers to the recipient a
+ license to the Work on the same terms and conditions as the
+ license granted to You under this License.
+ b. If any provision of this License is invalid or unenforceable
+ under applicable law, it shall not affect the validity or
+ enforceability of the remainder of the terms of this License, and
+ without further action by the parties to this agreement, such
+ provision shall be reformed to the minimum extent necessary to
+ make such provision valid and enforceable.
+ c. No term or provision of this License shall be deemed waived
+ and no breach consented to unless such waiver or consent shall be
+ in writing and signed by the party to be charged with such waiver
+ or consent.
+ d. This License constitutes the entire agreement between the
+ parties with respect to the Work licensed here. There are no
+ understandings, agreements or representations with respect to the
+ Work not specified here. Licensor shall not be bound by any
+ additional provisions that may appear in any communication from
+ You. This License may not be modified without the mutual written
+ agreement of the Licensor and You.
+###
+Home Again, Home Again
+======================
+The kids in my local bat-house breathe heavy metals, and their gelatinous bodies
+quiver nauseously during our counseling sessions, and for all that, they reacted
+just like I had when I told them I was going away for a while -- with hurt and
+betrayal, and they aroused palpable guilt in me.
+It goes in circles. When I was sixteen, and The Amazing Robotron told me he
+needed to go away for a while, but he'd be back, I did everything I could to
+make him guilty. Now it's me, on a world far from home, and a pack of snot-nosed
+jellyfish kids have so twisted my psyche that they're all I can think of when I
+debark the shuttle at Aristide Interplanetary, just outside my dirty ole
+Toronto.
+The customs officer isn't even human, so it feels like just another R&R, another
+halting conversation carried on in ugly trade-speak, another bewilderment of
+queues and luggage carousels. Outside: another spaceport, surrounded by the
+variegated hostels for the variegated tourists, and bipeds are in bare majority.
+I can think of it like that.
+I can think of it as another spaceport.
+I can think of it like another trip.
+The thing he can't think of it is, is a homecoming. That's too hard for this
+weak vessel.
+He's very weak.
+#
+Look at him. He's eleven, and it's the tencennial of the Ascension of his
+homeworld -- dirty blue ball, so unworthy, yet -- inducted into the Galactic
+fraternity and the infinite compassion of the bugouts.
+The foam, which had been confined to just the newer, Process-enclaves before the
+Ascension, has spread, as has the cult of the Process For Lasting Happiness.
+Process is, after all, why the dirty blue ball was judged and found barely
+adequate for membership. Toronto, which had seen half its inhabitants emigrate
+on open-ended tours of the wondrous worlds of the bugout domain, is full again.
+Bursting. The whole damn planet is accreting a layer of off-world tourists.
+It's a time of plenty. Plenty of cheap food and plenty of cheap foam structures,
+built as needed, then dissolved and washed away when the need disappears. Plenty
+of healthcare and education. Plenty of toys and distractions and beautiful,
+haunting bugout art. Plenty, in fact, of everything, except space.
+He lived in a building that is so tall, its top floors are perpetually damp with
+clouds. There's a nice name for this building, inscribed on a much-abused foam
+sculpture in the central courtyard. No one uses the nice name. They call it by
+the name that the tabloids use, that the inhabitants use, that everyone but the
+off-world counselors use. They call it the bat-house.
+Bats in the belfry. Batty. Batshit.
+I hated it when they moved us into the bat-house. My parents gamely tried to
+explain why we were going, but they never understood, no more than any human
+could. The bugouts had a test, a scifi helmet you wore, and it told you whether
+you were normal, or batty. Some of our neighbors were clearly batshit: the woman
+who screamed all the time, about the bugs and the little niggers crawling over
+her flesh; the couple who ate dogturds off the foam sidewalk with lip-smacking
+relish; the guy who thought he was Nicola Tesla.
+I don't want to talk about him right now.
+His parents' flaw -- whatever it was -- was too subtle to detect without the
+scifi helmet. They never knew for sure what it was. Many of the bats were in the
+same belfry: part of the bugouts' arrogant compassion held that a couple never
+knew which one of them was defective, so his family never knew if it was his
+nervous, shy mother, or his loud, opinionated father who had doomed them to the
+quarantine.
+His father told him, in an impromptu ceremony before he slid his keycard into
+the lock on their new apt in the belfry: "Chet, whatever they say, there's
+nothing wrong with us. They have no right to put us here." He knelt to look the
+skinny ten-year-old right in the eye. "Don't worry, kiddo. It's not for long --
+we'll get this thing sorted out yet." Then, in a rare moment of tenderness, one
+that stood out in Chet's memory as the last of such, his father gathered him in
+his arms, lifted him off his feet in a fierce hug. After a moment, his mother
+joined the hug, and Chet's face was buried in the spot where both of their
+shoulders met, smelling their smells. They still smelled like his parents then,
+like his old house on the Beaches, and for a moment, he knew his father was
+right, that this couldn't possibly last.
+A tear rolled down his mother's cheek and dripped in his ear. He shook his
+shaggy hair like a dog and his parents laughed, and his father wiped away his
+mother's tear and they went into the apt, grinning and holding hands.
+Of course, they never left the belfry after that.
+#
+I can't remember what the last thing my mother said to me was. Do I remember her
+tucking me in and saying, "Good night, sleep tight, don't let the bedbugs bite,"
+or was that something I saw on a vid? Was it a nervous command to wipe my shoes
+on the way in the door? Was her voice soft and sad, as it sometimes is in my
+memories, or was it brittle and angry, the way she often seemed after she
+stopped talking, as she banged around the tiny, two-room apt?
+I can't remember.
+My mother fell away from speech like a half-converted parishioner falling away
+from the faith: she stopped visiting the temple of verbiage in dribs and drabs,
+first missing the regular sermons -- the daily niceties of Good morning and Good
+night and Be careful, Chet -- then neglecting the major holidays, the Watch
+out!s and the Ouch!s and the answers to direct questions.
+My father and I never spoke of it, and I didn't mention it to the other wild
+kids in the vertical city with whom I spent my days getting in what passed for
+trouble around the bat-house.
+I did mention it to my counselor, The Amazing Robotron, so-called for the metal
+exoskeleton he wore to support his fragile body in Earth's hard gravity. But he
+didn't count, then.
+#
+The reason that Chet can't pinpoint the moment his mother sealed her lips is
+because he was a self-absorbed little rodent in those days.
+Not a cute freckled hellion. A miserable little shit who played hide-and-seek
+with the other miserable little shits in the bat-house, but played it violently,
+hide-and-seek-and-break-and-enter, hide-and-seek-and-smash-and-grab. The lot of
+them are amorphous, indistinguishable from each other in his memory, all that
+remains of all those clever little brats is the lingering impression of loud,
+boasting voices and sharp little teeth.
+The Amazing Robotron was a fool in little Chet's eyes, an easy-to-bullshit,
+ineffectual lump whose company Chet had to endure for a mandatory hour every
+other day.
+"Chet, you seem distr-acted to-day," The Amazing Robotron said in his artificial
+voice.
+"Yah. You know. Worried about, uh, the future." Distracted by Debbie Carr's
+purse, filched while she sat in the sixty-eighth floor courtyard, talking with
+her stupid girlie friends. Debbie was the first girl from the gang to get tits,
+and now she didn't want to hang out with them anymore, and her purse was stashed
+underneath the base of a hollow planter outside The Amazing Robotron's apt, and
+maybe he could sneak it out under his shirt and find a place to dump it and sort
+through its contents after the session.
+"What is it about the fu-ture that wo-rries you?" The Amazing Robotron was as
+unreadable as a pinball machine, something he resembled. Underneath, he was a
+collection of whip-like tentacles with a knot of sensory organs in the middle.
+"You know, like, the whole fricken thing. Like if I leave here when I'm
+eighteen, will my folks be okay without me, and like that."
+"Your pa-rents are able to take care of them-selves, Chet. You must con-cern
+your-self with you, Chet. You should do something con-struct-tive with your
+wo-rry, such as de-ciding on a ca-reer that will ful-fill you when you leave the
+Cen-ter." The Center was the short form for the long, nice name that no one ever
+used to describe the bat-house.
+"I thought, like, maybe I could be, you know, a spaceship pilot or something."
+"Then you must stu-dy math-e-mat-ics and phy-sics. If you like, Chet, I can
+re-quest ad-vanced in-struct-tion-al mat-e-rials for you."
+"Sure, that'd be great. Thanks, Robotron."
+"You are wel-come, Chet. I am glad to help. My own par-ent was in a Cen-ter on
+my world, you know. I un-der-stand how you feel. There is still time re-main-ing
+in your ses-sion. What else would you like to dis-cuss?"
+"My mother doesn't talk anymore. Nothing. Why is that?"
+"Your mo-ther is. . . ." The Amazing Robotron fumbled for a word, buried
+somewhere deep in the hypnotic English lexicon baked into its brain. "Your
+mo-ther has a prob-lem, and she needs your aff-ec-tion now more than e-ver.
+What-ev-er rea-son she has for her si-lence, it is not you. Your mo-ther and
+fa-ther love you, and dream of the day when you leave here and make your own way
+through the gal-ax-y."
+Of course his parents loved him, he supposed, in an abstract kind of way. His
+mother, who hadn't worn anything but a bathrobe in months, whose face he
+couldn't picture behind his eyes but whose bathrobe he could visualize in its
+every rip and stain and fray. His father, who seemed to have forgotten how to
+groom himself, who spent his loud days in one of the bat-house's workshops,
+drinking beer with his buddies while they played with the arc welders. His
+parents loved him, he knew that.
+"OK, right, thanks. I've gotta blow, 'K?"
+"All-right. I will see you on Thurs-day, then?"
+But Chet was already out the door, digging Debbie Carr's purse from under the
+planter, then running, doubled over the bulge it made in his shirt, hunting for
+a private space in the anthill.
+#
+The entire north face of the bat-house was eyeless, a blind, windowless expanse
+of foam that seemed to curve as it approached infinity.
+Some said it was an architectural error, others said it was part of the
+bat-house's heating scheme. Up in nosebleed country, on the 120th level, it was
+almost empty: sparsely populated by the very battiest bats, though as more and
+more humans were found batty, they pushed inexorably upwards.
+Chet rode the lift to the 125th floor and walked casually to the end of the
+hallway. At this height, the hallways were bare foam, without the long-wear
+carpet and fake plants that adorned the low-altitude territories. He walked as
+calmly as he could to the very end of the northern hall, then hunkered down in
+the corner and spilled the purse.
+Shit, but Debbie Carr was going girlie. The pile was all tampons and makeup and,
+ugh, a spare bra. A spare bra! I chuckled, and kept sorting. There were three
+pennies, enough to buy six chocolate bars in the black-market tuck-shop on the
+75th floor. A clever little pair of folding scissors, their blades razor-sharp.
+I was using them to slit the lining of the purse when the door to 12525 opened,
+and the guy who thought he was Nicola Tesla emerged.
+My palms slicked with guilty sweat, and the pile of Debbie's crap, set against
+the featureless foam corridor, seemed to scream its presence. I spun around,
+working my body into the corner, and held the little scissors like a dagger in
+my fist.
+The guy who thought he was Nicola Tesla was clearly batty. He was wearing
+boxer-shorts and a tailcoat and had a halo of wild, greasy hair and a long,
+tangled beard, but even if he'd been wearing a suit and tie and had a trip to
+the barber's, I'd have known he was batty the minute I laid eyes on him. He
+didn't walk, he shambled, like he'd spent a long, long time on meds. His eyes,
+set in deep black pits of sleeplessness, were ferociously crazy.
+He turned to stare at me.
+"Hello, sonny. Do you like to swim?"
+I stood in my corner, mute, trapped.
+"I have an ocean in my apt. Maybe you'd like to try it? I used to love to swim
+in the ocean when I was a boy."
+My feet moved without my willing them. An ocean in his apt? My feet wanted to
+know about this.
+I entered his apt, and even my feet were too surprised to go on.
+He had the biggest apt I'd ever seen. It spanned three quarters of the length of
+the bat-house, and was five storeys high. The spots where he'd dissolved the
+foam walls away with solvent were rough and uneven, and rings of foam encircled
+each of the missing storeys above. I couldn't imagine getting that much solvent:
+it was more tightly controlled than plutonium, the subject of countless
+action-adventure vids.
+At one end of the apt stood a collection of tall, spiny apparatus, humming with
+electricity and sparking. They were remarkable, but their impact was lost in
+what lay at the other end.
+The guy who thought he was Nicola Tesla had an ocean in his apt. It was a clear
+aquarium tank, fifteen meters long and nearly seventeen high, and eight meters
+deep. It was dominated by a massive, baroque coral reef, like a melting castle
+with misshapen brains growing out of it.
+Schools of fish -- bright as jellybeans -- darted through the ocean's depths,
+swimming in and out of the softly waving plants. A thousand neon tetra, a flock
+of living quicksilver sewing needles, turned 90 degrees in perfect unison, then
+did it again, and again, and again, describing a neat, angular box in the water.
+"Isn't it beautiful? I'm using it in one of my experiments, but I also find it
+very _calming_."
+#
+I hail a pedicab and the kids back on my adopted homeworld, with their accusing,
+angry words and stares vanish from my mind. The cabbie is about nineteen and
+muscular as hell, legs like treetrunks, clipped into the pedals. A flywheel
+spins between him and me, and his brakes store his momentum up in it every time
+he slows. On the two-hour ride into downtown Toronto, he never once comes to a
+full stop.
+I've booked a room at the Royal York. I can afford it -- the stipend I receive
+for the counseling work has been slowly accumulating in my bank account.
+Downtown is all foam now, and "historical" shops selling authentic Earth
+crapola: reproductions of old newspapers, reproductions of old electronics,
+reproductions of old clothes and old food and other discarded cultural detritus.
+I see tall, clacking insect-creatures with walkman headphones across their
+stomachs. I see squat, rocky creatures smearing pizza slices onto their
+digestive membranes. I see soft, slithering creatures with Toronto Blue Jays
+baseball hats suspended in their jelly.
+The humans I see are dressed in unisex coveralls, with discreet comms on their
+wrists or collars, and they don't seem to notice that their city is become a
+bestiary.
+The cabby isn't even out of breath when we pull up at the Royal York, which,
+thankfully, is still clothed in its ancient dressed stone. We point our comms at
+each other and I squirt some money at him, adding a generous tip. His face,
+which had been wildly animated while he dodged the traffic on the long ride is a
+stony mask now, as though when at rest he entered a semiconscious sleep mode.
+The doorman is dressed in what may or may not be historically accurate costume,
+though what period it is meant to represent is anyone's guess. He carries my bag
+to the check-in and I squirt more money at him. He wishes that I have a nice
+stay in Toronto, and I wish it, too.
+At the check-in, I squirt my ID and still more money at the efficient young
+woman in a smart blazer, and another babu in period costume -- those shoes look
+painful -- carries my bag to the lift and presses the button.
+We wait in strained silence and the lift makes its achingly slow progress
+towards us. There are no elevators on the planet I live on now -- the wild
+gravity and wilder windstorms don't permit buildings of more than one story --
+but even if there were, they wouldn't be like this lift, like a human lift, like
+one of the fifty that ran the vertical length of the bat-house.
+I nearly choke as we enter that lift. It has the smell of a million transient
+guests, aftershaves and perfumes and pheromones, and the stale recirc air I
+remember so well. I stifle the choke into my fist, fake a cough, and feel a
+self-consciousness I didn't know I had.
+I'm worried that the babu knows that I grew up in the bat-house.
+Now I can't make eye-contact with him. Now I can't seem to stand naturally,
+can't figure out where a not-crazy puts his hands and where a not-crazy puts his
+eyes. Little Chet and his mates liked to terrorize people in the lifts, play
+"who farted" and "I'm gonna puke" and "I have to pee" in loud sing-songs, just
+to watch the other bats squirm.
+The guy who thought he was Nicola Tesla thought that these games were unfunny,
+unsophisticated and unappetizing and little Chet stopped playing them.
+I squirt extra money at the babu, after he opens my windows and shows me the
+shitter and the vid's remote.
+I unpack mechanically, my meager bag yielding more-meager clothes. I'd thought
+I'd buy more after earthfall, since the spaceports' version of human apparel
+wasn't, very. I realize that I'm wearing the same clothes I left Earth in, lo
+those years before. They're hardly the worse for wear -- when I'm in my
+exoskeleton on my new planet, I don't bother with clothes.
+#
+The ocean seemed too fragile to be real. All that caged water, held behind a
+flimsy-seeming sheet of clear foam, the corners joined with strips of thick
+gasket-rubber. Standing there at its base, Chet was terrified that it would
+burst and drown him -- he actually felt the push of water, the horrid, dying
+wriggles of the fish as they were washed over his body.
+"Say there, son. Hello?"
+Chet looked up. Nicola Tesla's hair was standing on end, comically. He realized
+that his own long, shaggy hair was doing the same. The whole room felt electric.
+"Are you all right?" He had a trace of an accent, like the hint of garlic in a
+salad dressing, an odd way of stepping on his vowels.
+"Yeh, yeh, fine. I'm fine," Chet said.
+"I am pleased to hear that. What is your name, son?"
+"Chet. Affeltranger."
+"I'm pleased to meet you. My name is Gaylord Ballozos, though that's not who I
+am. You see, I'm the channel for Nicola Tesla. Would you like to see a magic
+trick?"
+Chet nodded. He wondered who Nicola Tesla was, and filed away the name Gaylord
+for making fun of, later. In doing so, he began to normalize the experience, to
+structure it as a story he could tell the other kids, after. The guy, the ocean,
+the hair. Gaylord.
+A ball of lightning leapt from Tesla/Ballozos's fingertips and danced over their
+heads. It bounced around the room furiously, then stopped to hover in front of
+Chet. His clothes stood away from his body, snapping as though caught in a
+windstorm. Seen up close, the ball was an infinite pool of shifting electricity,
+like an ocean of energy. Tentatively, he reached out to touch it, and Tesla
+shouted "Don't!" and the ball whipped up and away, spearing itself on the point
+of one of the towers on the opposite side of the room.
+It vanished, leaving a tangy, sharp smell behind.
+The story Chet had been telling in his mind disappeared with it. He stood,
+shocked speechless.
+The guy who thought he was Nicola Tesla chuckled a little, then started to
+laugh, actually doubling over and slapping his thighs.
+"You can't _imagine_ how long I've waited to show that trick to someone! Thank
+you, young Mr. Affeltranger! A million thanks to you, for your obvious
+appreciation."
+Chet felt a giggle welling up in him, and he did laugh, and when his lips came
+together, a spark of static electricity leapt from their seam to his nose and
+made him jump, and laugh all the harder.
+The guy came forward and pumped his arm in a dry handshake. "I can see that you
+and I are kindred spirits. You will have to come and visit again, very soon, and
+I will let you see more of my ocean, and maybe let you see 'Old Sparky,' too.
+Thank you, thank you, thank you, for dropping in."
+And he ushered Chet out of his apt and closed the door, leaving him in the
+featureless hallway of the 125th storey.
+#
+I had never been as nervous as I was the following Thursday, when my regular
+appointment with The Amazing Robotron rolled around again. I hadn't spoken of
+the guy who thought he was Nicola Tesla to any of my gang, and of course not to
+my parents, but somehow, I felt like I might end up spilling to The Amazing
+Robotron.
+I don't know why I was worried. The guy hadn't asked me to keep it a secret,
+after all, and I had never had any problem holding my tongue around The Amazing
+Robotron before.
+"Hel-lo, Chet. How have you been?"
+"I've been OK."
+"Have you been stud-y-ing math-e-mat-ics and phys-ics? I had the supp-le-ment-al
+mat-e-rials de-liv-er-ed to your apt yes-ter-day."
+"No, I haven't. I don't think I wanna be a pilot no more. One of my buds tole me
+that you end up all fugged up with time an' that, that you come home an' it's
+the next century an' everyone you know is dead."
+"That is one thing that hap-pens to some ex-plor-a-tor-y pilots, Chet. Have you
+thought a-bout any o-ther poss-i-bil-i-ties?"
+"Kinda. I guess." I tried not to think about the 125th story and the ocean. I
+was thinking so hard, I stopped thinking about what I was saying to The Amazing
+Robotron. "Maybe I could be a counselor, like, and help kids."
+The Amazing Robotron turned into a pinball machine again, an unreadable and
+motionless block. Silent for so long I thought he was gone, dead as a sardine
+inside his tin can. Then, he twitched both of his arms, like he was shivering.
+Then his robot-voice came out of the grille on his face. "I think that you would
+be a ve-ry good coun-sel-or, Chet."
+"Yeh?" I said. It was the first time that The Amazing Robotron had told me he
+thought I'd be good at anything. Hell, it was the first time he'd expressed
+_any_ opinion about anything I'd said.
+"Yes, Chet. Be-ing a coun-sel-or is a ve-ry good way to help your-self
+un-der-stand what we have done to you by put-ting you in the Cen-ter."
+I couldn't speak. My Mom, before she fell silent, had often spoken about how
+unfair it was for me to be stuck here, because of something that she or my
+father had done. But my father never seemed to notice me, and the teachers on
+the vid made a point of not mentioning the bat-house -- like someone trying hard
+not to notice a stutter or a wart, and you _knew_ that the best you could hope
+for from them was pity.
+"Be-ing a coun-sel-or is ve-ry hard, Chet. But coun-sel-ors sometimes get a
+spec-ial re-ward. Some-times, we get to help. Do you re-ally want to do this?"
+"Yeh. Yes. I mean, it sounds good. You get to travel, right?"
+The Amazing Robotron's idiot-lights rippled, something I came to recognize as a
+chuckle, later. "Yes. Tra-vel is part of the job. I sug-gest that you start by
+ex-am-in-ing your friends. See if you can fi-gure out why they do what they do."
+I've used this trick on my kids. What do I know about their psychology? But you
+get one, you convince it to explain the rest to you. It helps. Counselors are
+always from another world -- by the time the first generation raised in a
+bat-house has grown old enough, there aren't any bats' children left to counsel
+on their homeworld.
+#
+I take room-service, pizza and beer in an ice-bucket: pretentious, but better
+than sharing a dining-room with the menagerie. Am I becoming a racist?
+No, no. I just need to focus on things human, during this vacation.
+The food is disappointing. It's been years since I lay awake at night, craving a
+slice and a brew and a normal gravity and a life away from the bats.
+Nevertheless, the craving remained, buried, and resurfaced when I went over the
+room-service menu. By the time the dumbwaiter in my room chimed, I was
+practically drooling.
+But by the time I take my second bite, it's just pizza and a brew.
+I wonder if I will ever get to sleep, but when the time comes, my eyes close and
+if I dream, I don't remember it.
+I get up and dress and send up for eggs and real Atlantic salmon and brown toast
+and a pitcher of coffee, then find myself unable to eat any of it. I make a
+sandwich out of it and wrap it in napkins and stuff it into my day-pack along
+with a water-bottle and some sun-block.
+It's a long walk up to the bat-house, but I should make it by nightfall.
+#
+Chet was up at 6h the next morning. His mom was already up, but she never slept
+that he could tell. She was clattering around the kitchen in her housecoat,
+emptying the cupboards and then re-stacking their contents for the thousandth
+time. She shot him a look of something between fear and affection as he pulled
+on his shorts and a t-shirt, and he found himself hugging her waist. For a
+second, it felt like she softened into his embrace, like she was going to say
+something, like it was normal, and then she picked up a plate and rubbed it with
+a towel and put it back into the cupboard.
+Chet left without saying a word.
+The bat-house breathed around him, a million farts and snores and whispered
+words. A lift was available almost before he took his finger off the summon
+button. "125," he said.
+Chet walked to the door of the guy who thought he was Nicola Tesla and started
+to knock, then put his hands down and sank down into a squat, with his back
+against it.
+He must have dozed, because the next thing he knew, he was tipping over
+backwards into the apt, and the guy who thought he was Nicola Tesla was standing
+over him, concerned.
+"Are you all right, son?"
+Chet stood, dusted himself off and looked at the floor. "Sorry, I didn't want to
+disturb you. . ."
+"But you wanted to come back and see more. Marvelous! I applaud your curiosity,
+young sir. I have just taken the waters -- perhaps you would like to try?" He
+gestured at the ocean.
+"You mean, swim in it?"
+"If you like. Myself, I find a snorkel and mask far superior. My set is up on
+the rim, you're welcome to them, but I would ask you to chew a stick of this
+before you get in." He tossed Chet a pack of gum. "It's an invention of my own
+-- chew a stick of that, and you can_not_ transmit any nasty bugs in your saliva
+for forty-eight hours. I hold a patent for it, of course, but my agents report
+that it has been met with crashing indifference in the Great Beyond."
+Chet had been swimming before, in the urinary communal pools on the tenth and
+fifteenth levels, horsing around naked with his mates. Nudity was not a big deal
+for the kids of the bat-house -- the kind of adult who you wouldn't trust in
+such circumstances didn't end up in bat-houses -- the bugouts had a different
+place for them.
+"Go on, lad, give it a try. It's simply marvelous, I tell you!"
+Unsteadily, Chet climbed the spiral stairs leading up to the tank, clutching the
+handrail, chewing the gum, which fizzed and sparked in his mouth. At the top,
+there was a small platform. Self-consciously, he stripped, then pulled on the
+mask and snorkel that hung from a peg.
+"Tighten the straps, boy!" the guy who thought he was Nicola Tesla shouted, from
+far, far below. "If water gets into the mask, just push at the top and blow out
+through your nose!"
+Chet awkwardly lowered himself into the water. It was warm -- blood temperature
+-- and salty, and it fizzled a little on his skin, as though it, too, were
+electric.
+He kept one hand on the snorkel, afraid that it would tip and fill with water,
+and then, slowly, slowly, relaxed on his belly, mask in the water, arms by his
+side.
+My god! It was like I was flying! It was like all the dreams I'd ever had, of
+flying, of hovering over an alien world, of my consciousness taking flight from
+my body and sailing through the galaxy.
+My hands were by my sides, out of view of the mask, and my legs were behind me.
+I couldn't see any of my body. My view stretched 8m down, an impossible,
+dizzying height. A narrow, elegant angelfish swam directly beneath me, and
+tickled my belly with one of its fins as it passed under.
+I smiled, a huge grin, and it broke the seal on my mask, filling it with water.
+Calmly, as though I'd been doing it all my life, I pressed the top of my mask to
+my forehead and blew out through my nose. My mask cleared of water.
+I floated.
+The only sound was my breathing, and distant, metallic _pink!_s from the ocean's
+depths. A school of iridescent purple fish swam past me, and I lazily kicked out
+after them, following them to the edge of the coral reef that climbed the far
+wall of the ocean. When I reached it, I was overwhelmed by its complexity,
+millions upon millions of tiny little suckers depending from weird branches and
+misshapen brains and stone roses.
+I held my breath.
+And I heard nothing. Not a sound, for the first time in all the time I had been
+in the bat-house -- no distant shouts and mutters. I was alone, in a vast,
+personal silence, in a private ocean. My pulse beat under my skin. Tiny fish
+wriggled in the coral, tearing at the green fuzz that grew over it.
+Slowly, I turned around and around. The ocean-wall that faced into the apt was
+silvered on this side, reflecting back my little pale body to me. My head
+pounded, and I finally inhaled, and the sound of my breathing, harsh through the
+snorkel, rang in my ears.
+I spent an age in the water, holding my breath, chasing the fish, disembodied, a
+consciousness on tour on an alien world.
+The guy who thought he was Nicola Tesla brought me back. He waited on the rim of
+the tank until I swam near enough for him to touch, then he tapped me on the
+shoulder. I stuck my head up, and he said, "Time to get out, boy, I need to use
+the ocean."
+Reluctantly, I climbed out. He handed me a towel.
+I felt like I was still flying, atop the staircase on the ocean's edge. I felt
+like I could trip slowly down the stairs, never quite touching them. I pulled on
+my clothes, and they felt odd to me.
+Carefully, forcing myself to grip the railing, I descended. The guy who thought
+he was Nicola Tesla stood at my side, not speaking, allowing me my reverie.
+My hair was drying out, and starting to raise skywards, and the guy who thought
+he was Nicola Tesla went over to his apparatus and flipped a giant knife switch.
+The ocean stirred, a puff of sand rose from its bottom, and then, the coral on
+the ocean's edge _moved_.
+It squirmed and danced and writhed, startling the fish away from it, shedding
+layers of algae in a green cloud.
+"It's my latest idea. I've found the electromagnetic frequencies that the
+various coral resonate on, and by using those as a carrier wave, I can stimulate
+them into tremendously accelerated growth. Moreover, I can alter their
+electromagnetic valences, so that, instead of calcium salts, they use other
+minerals as their building-blocks."
+He grinned hugely, and seemed to want Chet to say something. Chet didn't
+understand any of it.
+"Well, don't you see?"
+"Nuh."
+"I can use coral to concentrate trace gold and platinum and any other
+heavy-metal you care to name out of the seas. I can prospect in the very water
+itself!" He killed the switch. The coral stopped their dance abruptly, and the
+new appendages they'd grown dropped away, tumbling gracefully to the ocean's
+floor. "You see? Gold, platinum, lead. I dissolved a kilo of each into the water
+last night, microscopic flakes. In five minutes, my coral has concentrated it
+all."
+The stumps where the minerals had dropped away were jagged and sharp, and
+painful looking.
+"It doesn't even harm the fish!"
+#
+Chet's playmates seemed as strange as fish to him. They met up on the 87th
+level, where there was an abandoned apt with a faulty lock. Some of them seemed
+batty themselves, standing in corners, staring at the walls, tracing patterns
+that they alone could see. Others seemed too confident ever to be bats -- they
+shouted and boasted to each other, got into shoving matches that escalated into
+knock-out brawls and then dissolved into giggles. Chet found himself on the
+sidelines, an observer.
+One boy, whose father hung around the workshops with Chet's father, was
+industriously pulling apart the warp of the carpet, rolling it into a ball. When
+the ball reached a certain size, he snapped the loose end, tucked it in and
+started another.
+A girl whose family had been taken to the bat-house all the way from a
+reservation near Sioux Lookout was telling loud lies about home, about
+tremendous gun-battles fought out with the Ontario Provincial Police and huge,
+glamorous casinos where her mother had dealt blackjack to millionaire
+high-rollers, who tucked thousand dollar tips into her palm. About her bow and
+arrow and her rifle and her horses. Nobody believed her stories, and they made
+fun of her behind her back, but they listened when she told them, spellbound.
+What was her name, anyway?
+There were two boys, one followed the other everywhere. The followee was
+tormenting the follower, as usual, smacking him in the back of the head, then
+calling him a baby, goading him into hitting back, dodging easily, and
+retaliating viciously.
+Chet thought that he understood some of what was going on. Maybe he'd be able to
+explain it to The Amazing Robotron.
+#
+I never thought I'd say this, but I miss my exoskeleton. My feet ache, my legs
+ache, my ass aches, and I'm hot and thirsty and my waterbottle is empty. I'm not
+even past Bloor Street, not even a tenth of the way to the bat-house.
+#
+The Amazing Robotron seemed thoughtful as I ratted out my chums. "So, I think
+they need each other. The big one needs the little one, to feel important. The
+little one needs the big one, so that he can feel useful. Is that right?"
+"It is ve-ry per-cep-tive, Chet. When I was young, I had a sim-i-lar friend-ship
+with an-other. It -- no, _she_ -- was the lit-tle one, and I was the big one.
+Her pa-rent died be-fore we came of age, and she left the Cen-ter, and when she
+came back to visit, a long time la-ter, we were re-ver-sed -- I felt smal-ler
+but good, and spec-ial be-cause she told me all a-bout the out-side."
+Something clicked inside me then. I saw myself inside The Amazing Robotron's
+exoskeleton, and he in my skin, our roles reversed. It lasted no longer than a
+lightning flash, but in that flash, I suddenly knew that I could talk to The
+Amazing Robotron, and that he would understand.
+I felt so smart all of a sudden. I felt like The Amazing Robotron and I were
+standing outside the bat-house, _in_ it but not _of_ it, and we shared a secret
+insight into the poor, crazy bastards we were cooped up with.
+"I don't really like anyone here. I don't like my Dad -- he's always shouting,
+and I think he's the reason we ended up here. He's batshit -- he gets angry too
+easy. And my Mom is batshit now, even if she wasn't batshit before, because of
+him. I don't feel like their son. I feel like I just share an apt with these two
+crazy people I don't like very much. And none of my mates are any good, either.
+They're all either like my Dad -- loud and crazy, or like my Mom, quiet and
+crazy. Everyone's crazy."
+"That may be true, Chet. But you can still like cra-zy peo-ple."
+"Do _you_ like 'em?"
+The Amazing Robotron's idiot lights rippled. _Gotcha_, I thought.
+"I do not like them, Chet. They are loud and cra-zy and they on-ly think of
+them-selves."
+I laughed. It was so refreshing not to be lied to. My skin was all tight from
+the dried saltwater, and that felt good, too.
+"My Dad, the other day? He came home and was all, 'This is a conspiracy to drive
+us out of our house. It's because we bought a house with damn high ceilings.
+Some big damn alien wanted to live there, so they put us here. It's because I
+did such a good job on the ceilings!' Which is so stupid, 'cause the ceilings in
+our old house weren't no higher than the ceilings here, and besides, Dad screwed
+up all the plaster when he was trying to fix it up, and it was always cracking.
+"And then he starts talking about what's really bugging him, which is that some
+guy at the workshop took his favorite drill and he couldn't finish his big
+project without it. So he got into a fight with the guy, and got the drill and
+then he finished his big, big project, and brought it home, and you know what it
+was? A _pencil-holder_! We don't even _have_ any pencils! He is so screwed up."
+And The Amazing Robotron's lights rippled again, and a huge weight lifted from
+my shoulders. I didn't feel ashamed of the maniacs that gave me life -- I saw
+them as pitiful subjects for my observations. I laughed again, and that must
+have been the most I'd laughed since they put us in the bat-house.
+#
+I'm getting my sea-legs. I hope. My mouth is pasty, and salty, and sweat keeps
+running down into my eyes. I never even began to realize how much support the
+exoskeleton's jelly-suspension lent me.
+But I've made it to Eglinton, and that's nearly a third of the way, and to
+celebrate, I stop in at a coffee-shop and drink a whole pitcher of lemonade
+while sitting by the air-conditioner.
+I got the word that they were tearing down the bat-house only two weeks ago. The
+message came by priority email from The Amazing Robotron: all the bats were
+dead, or enough of them anyway that the rest could be relocated to less
+expensive quarters. It was barely enough notice to get my emergency leave
+application in, to book a ticket back to Earth, and to finally become a murderer
+all the way.
+Damn, I hope I know what I'm doing.
+#
+The guy who thought he was Nicola Tesla told me all kinds of stories, and I was
+sure he was lying to me, but when I checked out the parts of his story that I
+could, they all turned out to be true.
+"I don't actually _need_ to be here. I've come here to get away from all the
+treachery, the deceit, the filthy pursuit of the dollar. As though I need more
+money! I invented foam! Oh, sure, the Process likes to take credit for it, but
+if you look up the patent, guess who owns it?
+"Master Affeltranger, you may not realize it to look at me, but I have some
+_very_ important friends, out there in the Great Beyond. With important friends,
+you can make a whole block of apts simply disappear from the record-books. You
+can make tremendous energy consumption vanish, likewise."
+He spoke as he tinkered with his apparatus, which hummed alarmingly and
+occasionally sent a tortured arc of electricity into the guy who thought he was
+Nicola Tesla's chest.
+It happened three times in a row, and he stamped his foot in frustration, and
+said, "Oh, _do_ cut it out," apparently to one of his machines.
+I'd been jumping every time he got zapped, but this time, I had to giggle. He
+whirled on me. "I am not trying to be _amusing_. One thing you people never
+realize is that the current has a _will_, it has a _mind_, and you have to keep
+it in check with a firm hand."
+I shook my head a little, not understanding. He waved a hand at me, frustrated,
+and said, "Oh, go have a swim. I don't have time to argue with a child."
+I climbed into the ocean, and the silence embraced me, and the water tingled
+with electricity, and my consciousness floated away from my body and soared over
+an alien world. Like a broken circuit, I disconnected from the world around me.
+#
+Chet's father came home with a can of beer in his hand and the rest of the
+six-pack in his gut. He walked over to the vid, where Chet was researching the
+life of Nicola Tesla, which took forever, since he had to keep linking back to
+simple tutorials on physics, history, and electrical engineering.
+Chet's father stooped and took the remote out of Chet's hands and opened up a
+bookmarked docu-drama about the coming of the bugouts. Chet opened his mouth to
+protest, and his father shouted him down before he could speak. "Not one word,
+you hear me? Not! One! Word! I've had a shithole day and I wanna relax."
+Chet's mother dropped a plastic tumbler, which bounced twice, and rolled to
+Chet's toe. He stepped over it, walked out the door, and took the elevator to
+the 125th floor.
+Chet burst into the guy who thought he was Nicola Tesla's apt and screamed.
+Nicola Tesla was strapped into a heavy wooden chair, with a metal hood over his
+head. Arcs of electricity danced over his body, and he jerked and thrashed
+against the leather straps that bound his limbs. Unthinking, Chet ran forward
+and grabbed the buckle that bound his wrist, and a giant's fist smashed into
+him, hurling him across the room.
+When he came to, the electric arcs were gone, but the guy who thought he was
+Nicola Tesla was motionless in his straps, under his hood.
+Carefully, Chet came to his feet, and saw that the toe of his right sneaker had
+been blown out, leaving behind charred canvas. His foot hurt -- burned.
+He hobbled to the chair and gingerly prodded it, then jerked his hand back,
+though he hadn't been shocked. He bit his lip and stared. The wood was quite
+weathered and elderly, though it had been oiled and had a rich, well-cared-for
+finish. The leather straps were nightmarishly thick, gripping the guy who
+thought he was Nicola Tesla at the bicep and wrist, at the thigh and calf and
+ankle. Livid bruises were already spreading at their edges.
+Chet was struck by a sudden urge to climb into the ocean and _stay_ there. Just
+_stay_ there.
+Under the hood, the guy who thought he was Nicola Tesla groaned. Chet gave an
+involuntary squeak and jumped a little. The guy who thought he was Nicola
+Tesla's body snapped tense. "Who's there?" he said, his voice muffled by the
+hood.
+"It's me, Chet."
+"Chet? Damn. Damn, damn, damn." His right hand bent nearly double at the wrist
+and teased the buckle of the strap free. With one hand free, the guy who thought
+he was Nicola Tesla quickly undid the straps on his upper body, then lifted away
+the hood. He pointedly did not look at Chet as he doubled over and undid the
+straps on his legs and ankles.
+Gingerly, he stood and stretched, then sighed tremendously.
+"Chet, Chet, Chet. I hope I didn't frighten you too badly. This is Old Sparky,
+an exact replica of the electric chair at Sing-Sing Prison in New York. Edison,
+thief and charlatan that he was, insisted that his DC current was safer than my
+AC, and they built a chair that used my beautiful current to execute criminals,
+by the hundreds.
+"Nicola Tesla and I became one when I was eight years old, and I received a
+tremendous shock from an electrified fence. I was stuck to it, glued by the
+current, and after a few moments, I just relaxed into the current -- befriended
+it, if you will. That's when the spirit of Nicola Tesla, a-wandering through the
+wires for all the years since his death, infused my body.
+"So now I use Old Sparky here to recharge -- please forgive the expression -- my
+connection with the current. I once spent eight years in the chair, when I
+needed to disappear for a while. When I woke, I hadn't aged at all -- I didn't
+even need to shave! What do you think of that?"
+Chet was staring in horror at him. "You electrocute yourself? On purpose?"
+"Why, yes! Think of it as a trick I do, if it makes you feel better. I could
+show you how to do it. . ." he trailed off, but a look of hunger had passed over
+his face.
+#
+I get all kinds of access to bat-house records from the vid in my apt on my new
+world. No one named Gaylord Ballozos ever lived in any bat-house. Apt 12525, and
+the five above it, were never occupied. The records say that the locks have
+never been used, the doors never opened. It won't be searched when they evacuate
+the bat-house.
+That's what the records say, anyway.
+Electricity gives me the willies. The zaps of static from the dry air of the FTL
+I took home to Earth made me scream, little-boy squeaks that made the other
+passengers jump.
+I don't remember that it was ever this hot in Toronto, even in the summer. The
+sky is all overcast, so maybe it's a temperature inversion. Up here at Steeles
+Avenue, I'm so dehydrated that I spend a whole dime on a magnum of still water
+and power-chug it, though you're not supposed to drink that way. Almost there.
+#
+The other kids in the abandoned apt on the 87th floor ignored me. They'd been
+paying less and less attention to me, ever since I started spending my
+afternoons up on 125, and I was getting a reputation as a keener for all the
+time I spent with The Amazing Robotron.
+That suited me fine; the corner of the gutted kitchen was as private a space as
+I was going to find in the bat-house. I had the apparatus that Nicola Tesla had
+given me plugged into the AC outlet under the sink. I closed my eyes and
+breathed deeply, concentrating on the moments after my breath left my chest,
+that calm like the ocean's silence. Smoothly, I reached out and grasped the
+handle of the apparatus and squeezed.
+The first time I tried this, under Nicola Tesla's supervision, I'd jerked my
+hand away and squeezed it between my legs as soon as the current shot through
+me. Now, though, I could keep squeezing, slowly increasing the voltage and
+amperage, relaxing into the involuntary tension in my muscles.
+I'd gotten so good at it that I'd started using the timer -- I could lean into
+the current forever without it. I had it set for three hours, but when the
+current died, it felt like no time at all had passed. I probed around my
+consciousness for any revelation, but no spirit had come into my body during the
+exercise. The guy who thought he was Nicola Tesla didn't know if there were any
+other spirits in the wire, but it stood to reason that if there was one, there
+had to be more.
+I stood, and felt incredibly calm and balanced and centered and I floated past
+the other kids. It was time for my session with The Amazing Robotron.
+"Chet, how are you fee-ling?"
+"I'm well, thank you." Nicola Tesla spoke well and carefully, and I'd started to
+ape him.
+"And what would you like to dis-cuss to-day?"
+"I don't really have anything to talk about, honestly. Everything is fine."
+"That is good. Do you have any new ob-ser-va-tions about your friends?"
+"I'm sorry, no. I haven't been paying much attention lately."
+"Why hav-en't you?"
+"It just doesn't interest me, sorry."
+"Why does-n't it in-ter-est you?"
+"I just don't care about them, to be frank."
+The Amazing Robotron was absolutely still for a moment. "Are things well with
+your par-ents, too?"
+"The same as always. I think they've found their niches." _Find your niche_ was
+an expression I'd pirated from the guy who thought he was Nicola Tesla. I was
+very proud of it.
+"In that case, why don't we end this mee-ting?"
+I was surprised. The Amazing Robotron always demanded his full hour. "I'll see
+you on Wednesday, then?"
+"I'm af-raid not, Chet. I will be gone for a few months -- I have to re-turn
+home. There will be a sub-sti-tute coun-sel-or arri-ving next Monday."
+My calm center shattered. Sweat sprang out on my palms. "What? You're leaving?
+How can you be leaving?"
+"I'm so-rry, Chet. There is an em-er-gen-cy at home. I'll be back as soon as I
+can."
+"Frick that! How can you go? What'll I do if you don't come back? You're the
+only one I can talk to!"
+"I'm so-rry, Chet. I have to go."
+"If you gave a shit, you'd stay. You can't just leave me here!" I knew as I said
+it that it didn't make any sense, but a picture sprang into my mind, one that
+I'd been carrying without knowing it for a long time: The Amazing Robotron and
+me as an adult, walking away from the bat-house, with suitcases, leaving
+together, forever. I felt a sob hiccough in my throat.
+"I will re-turn, Chet. I did-n't wish to up-set you."
+"Frick that! I don't give a shit if you come back, asshole."
+#
+Chet went straight to 87 and plugged in to the apparatus. He didn't set the
+timer, and he stayed plugged in for nearly two days, when two fighting boys
+tumbled into him and knocked his hand away. He was centered and numb again, and
+didn't have any sense of the intervening time. He didn't even have to pee. He
+wondered if he was trying to commit suicide.
+He checked his comm and got the date, noticed with distant surprise that it was
+two days later, and wandered up to 125.
+The guy who thought he was Nicola Tesla shouted a distant "Come in" when Chet
+tapped on the door. He was playing with his ocean again. Chet felt his hair
+float up off his shoulders. He stopped and watched the coral squirm and dance.
+"I spent nearly two days on the apparatus," Chet said.
+"Eh? Very good, very good. You're progressing nicely."
+"My counselor has left. He had to go home."
+"Yes? Well, there you are."
+"What were your parents like?"
+"Nicola Tesla's father was a bishop, and his mother was an illiterate, though
+she was a gifted memnist and taught me much about visualization."
+"No, I mean _your_ parents. Mister and Missus Ballozos. What were _they_ like?"
+The guy who thought he was Nicola Tesla shut down the ocean and watched the
+lumps of ore tumble to the sand. "Why do you want to know about _them_? Are you
+having some sort of trouble at home?" he asked impatiently, not looking away
+from the ocean.
+"No reason," Chet said. "I have to go home now."
+"Yes, fine."
+#
+"The hell have you been, boy?" Chet's father said, when he came through door.
+His father was in front of the vid, wearing shorts and a filthy t-shirt, holding
+the remote in one hand. Chet's mother was sitting at the window, staring out
+into the clouds.
+"Out. Around. I'm okay, okay?"
+"It's not okay. You can't just run around like some kind of animal. Sit the hell
+down and tell me where you've been. Your counselor was here looking for you."
+"Robotron? He was here?"
+"Yes he was here! And I had to tell him I didn't know where my damn kid was! How
+do you think that makes me look? You know how worried your mother was?"
+Chet's mother didn't stir from her post by the window, but she flinched when
+Chet's father spoke. Chet swallowed hard.
+"What did he want?"
+"Never mind that! Sit the hell down and tell me where you've been and what the
+hell you thought you were doing!"
+Chet sat beside his father and stared at his hands. He knew he could outwait his
+father. After half an hour, Chet's father turned the vid on. Four long hours
+later, he switched it off, and went to bed.
+Chet's mother finally turned away from the now-dark window. She reached into the
+pocket of her grimy bathrobe and withdrew an envelope and handed it to Chet,
+then turned and went to the apt's other room to sleep.
+My name was on the outside of the envelope, in rough script, written with
+awkward exoskeleton manipulators. I broke its seal, and it folded out into a
+single flat sheet of paper.
+DEAR CHET, it began. At the bottom of it was a complex scrawl that I recognized
+from the front of The Amazing Robotron's exoskeleton. It must be some kind of
+signature.
+DEAR CHET,
+I AM SORRY TO HAVE TO LEAVE YOU SO SUDDENLY, AND WITHOUT ANYONE ELSE TO TALK TO.
+THERE IS AN EMERGENCY AT MY HOME, BUT I WOULDN'T GO IF I DIDN'T BELIEVE THAT YOU
+WERE ABLE TO HANDLE MY ABSENCE. YOU ARE A VERY PERCEPTIVE AND STRONG YOUNG MAN,
+AND YOU WILL BE ABLE TO MANAGE IN MY ABSENCE. I WILL BE BACK, YOU KNOW.
+YOU WILL BE ALL RIGHT. I PROMISE.
+THIS ISN'T EASY FOR ME TO DO, EITHER. IT MAY BE THAT I AM THE ONLY ONE YOU CAN
+TALK TO HERE AT THE CENTER. IT IS LIKEWISE TRUE THAT YOU ARE THE ONLY ONE I CAN
+TALK TO.
+I WILL MISS YOU, MY FRIEND CHET.
+The writing was childish, with many line-outs and corrections. Reading it, I
+heard it not in The Amazing Robotron's halting mechanical speech, but in my own
+voice.
+I didn't cry. I held the letter tight in my hand, as tight as I ever held the
+apparatus, and leaned into it, like it was a source of strength.
+#
+They haven't even started work on the bat-house. There are bugout saucers
+hovering all around it, with giant foam-solvent tanks mounted under their
+bellies. A small crowd has gathered.
+I take off my jacket and lay it on the strip of grass by the sidewalk across the
+street from the bat-house. I pull off my soaked t-shirt and feel a rare breeze
+across my chest, as soothing as a kiss on a fevered forehead. I ball up the
+shirt, then lay down on my jacket, using the shirt as a pillow.
+The bat-house is empty, its eyes staring blind, vertical to infinity. The grotty
+sculpture out front is gone already, and with it, the sign with the polite,
+never-used name. It is now just the bat-house.
+I check my comm. The dissolving of the bat-house is scheduled for less than an
+hour from now.
+#
+The new counselor was no damn good. It wore a different exoskeleton, a motorized
+gurney on wheels with three buzzing antigrav manipulators that floated
+constantly around the apt, tasting the air. It called itself "Tom." I didn't
+call it anything, and I limited my answers to it to monosyllables.
+The next time I came on the guy who was Nicola Tesla in his chair, the letter
+was in my pocket. I took a long swim in the ocean, and then I stripped off my
+mask and spit out the snorkel, took a deep breath and dove until my ears felt
+like they were going to burst. I stared at my reflection in the silvered wall of
+the tank. Through the distortion of the water and the sting of the salt, my body
+was indistinct and clothed in quicksilver, surrounded by schools of alien,
+darting fish. I didn't recognize myself, but I didn't take my eyes away until my
+lungs were ready to burst and I resurfaced.
+The guy who thought he was Nicola Tesla was still thrashing away at his straps
+when I climbed down from the ocean's top. At one side of Old Sparky, there was a
+timer, like the one on my apparatus, and a knife-switch for timed and untimed
+sessions.
+I stared at him. My life unrolled before me, a life distanced and remote from
+the world around me, a life trapped in my own deepening battiness. Before I
+could think about what I was doing, I flipped the switch from "timed" to
+"untimed." I took one last look at the ocean, looked again at Nicola Tesla, my
+friend and seducer, stuck to his chair until someone switched it off again, and
+left the 125th floor.
+#
+I took the apparatus apart in the kiddy workshop, stripped it to a collection of
+screws and wires and circuit boards, then carefully smashed each component with
+a hammer until it was in thousands of tiny pieces.
+It took me two days to do it right, and not a moment passed when I didn't nearly
+run upstairs and switch off Tesla's chair.
+And not a moment passed when I didn't visualize Tesla's wrath, his betrayal, his
+anger, when I unbuckled him.
+And not a moment passed when I didn't wish I could plug in the apparatus, swim
+in the ocean, take myself away from the world and the world away from me.
+The Amazing Robotron returned at the end of the second day.
+"Chet, I am glad to see you a-gain."
+I bit my lip and choked on tears of relief. "I need to leave here, Robotron. I
+can't stay another minute. Please, get me out of here. I'll do anything. I'll
+run away. Get me out, get me out, get me out!" I was babbling, sniveling and
+crying, and I begged all the harder.
+"Why do you want to leave right now?"
+"I -- I can't take it anymore. I can't _stand_ being here. I'd rather be in
+prison than in here anymore."
+"When I was young, I left the Cen-ter I was rais-ed in to attend coun-sel-ing
+school. You are near-ly old e-nough to go now. May-be your pa-rents would let
+you go?"
+I knew he had found the only way out.
+I started work on my father. I wheedled and begged and demanded, and he just
+laughed. For three whole days, I used begging as a way to avoid thinking of
+Tesla. For three days, my father shook his head.
+I cried myself to sleep and wallowed in my guilt every night, and when I woke, I
+cried more. I stopped leaving the apt. I stopped eating. My mother and I sat all
+day, staring out the window. I stopped talking.
+One morning, after my father had left, I dragged a stool to the window and
+pressed my face against it. My mother clattered around behind me.
+"Go," my mother said.
+I gave a squeak and turned around. My mother had folded my clothes in a neat
+pile and had laid a canvas bag beside it. She had the vid remote in her hand,
+and on the screen was a waiver for me to go to school. We locked eyes for a
+moment, and I moved to go to her, but she turned and stormed into the kitchen
+and started to clean the cupboards, silent again.
+I left that day.
+#
+The saucers lift off to-the-second on-time. The crowd, which has grown, sighs
+collectively as the saucers disappear over the haze, then a fine mist of solvent
+rains down on our heads. It's as salty as sea-water, and the bat-house trembles
+as it begins to melt. Streams of salty water course down its sides.
+The top of the building comes into view, the saucers chasing it down as it
+dissolves, spraying a steady blast of solvent.
+I tense as the building's top reaches what I estimate to be 150. My calves bunch
+and my breath catches in my chest. I feel like I'm drowning, and the building's
+top crawls downwards, and my feet are sloshing to the ankles in dissolved foam,
+that runs off into the sewers.
+I stay tense until the building's top is far beneath what _must_ be 125, then I
+exhale in a whoof of air. My head spins, and I brace my hands against my thighs.
+I'm not looking up when it happens, as a result.
+The first sign is when the great tide of green, scummy, plant-stinking water
+courses down over us, soaking us to the skin, blinding me and sending me reeling
+in reverie. Did I see hunks of dead, petrified coral crashing around me, or did
+I imagine it?
+A brief second later the building's top emits a bolt of lightning that broke
+even Tesla's record for man-made lightning, recorded at nearly a kilometer in
+length. A clap of thunder accompanies it, louder than any sound I have ever
+heard, and it its wake I am perfectly deaf, submerged in silence.
+The finger of lightning crawls through space like a broken-back rattler, and my
+hair rises from my shoulders. In the presence of so much current, I should be
+petrified, but it is magnificent. The finger seeks and seeks, then contacts one
+of the saucers and literally blasts it out of the sky. It plummets in
+slow-motion, and as it does, the building's top descends even further, and I
+_swear_ I see the chair falling from the building's edge, and the man strapped
+inside it had not aged a day in all the lifetimes gone by.
+#
+Chet's comm died somewhere in the lightning strike, but the emergency crews that
+took him away and looked in his ears and poked him in the chest and gave him
+pills take him back to the Royal York in a saucer, bridging the distance in a
+few minutes, touching down on Front Street. The Royal York's doorman doesn't bat
+an eye as he gets the door for him.
+The elevator ride is fine. He is still wrapped in the silence of his deafness,
+but it's a comforting, _centering_ silence.
+Once Chet is back in his room, he fires up the vid and starts writing a letter
+to The Amazing Robotron.
+--
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <Work
+rdf:about="http://craphound.com/place/Cory_Doctorow_-_Home_Again_Home_Again.txt"
+> <dc:title>Home Again, Home Again</dc:title> <dc:date>1999-2-1</dc:date>
+<dc:description>A science&#45;fiction short story by Cory Doctorow about aliens
+subjugating humans by putting them into mental institutions, from the short
+story collection "A Place So Foreign and Eight More," published by Four Walls
+Eight Windows press in September, 2003 (ISBN: 1568582862)</dc:description>
+<dc:creator><Agent> <dc:title>Cory Doctorow</dc:title> </Agent></dc:creator>
+<dc:rights><Agent> <dc:title>Cory Doctorow</dc:title> </Agent></dc:rights>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" /> <license
+rdf:resource="http://creativecommons.org/licenses/by-nd-nc/1.0/" /> </Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nd-nc/1.0/"> <permits
+rdf:resource="http://web.resource.org/cc/Reproduction" /> <permits
+rdf:resource="http://web.resource.org/cc/Distribution" /> <requires
+rdf:resource="http://web.resource.org/cc/Notice" /> <requires
+rdf:resource="http://web.resource.org/cc/Attribution" /> <prohibits
+rdf:resource="http://web.resource.org/cc/CommercialUse" /> </License>
+</rdf:RDF>
+-->
