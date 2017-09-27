@@ -1,0 +1,68 @@
+{
+    "content_name": "41049.txt.utf-8", 
+    "author_name": "Fletcher Pratt", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/41049/41049-h/images/author.jpg", 
+        "http://www.gutenberg.org/files/41049/41049-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/41049/41049-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/41049/41049-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/41049/41049-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/41049/41049-h/images/illus4.jpg", 
+        "http://www.gutenberg.org/files/41049/41049-h/images/illus5.jpg", 
+        "http://www.gutenberg.org/files/41049/41049-h/images/illus6.jpg", 
+        "http://www.gutenberg.org/files/41049/41049-h/images/illus7.jpg", 
+        "http://www.gutenberg.org/files/41049/41049-h/images/illus8.jpg"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 309, 
+    "category": "Text", 
+    "plot": "Ben Ruby and Murray Lee awaken one morning to discover themselves transformed into metal beings. In this they are actually fortunate, most other inhabitants of the western hemisphere having become unliving statues. They and the few other survivors they meet at first assume the phenomenon to have been caused by a comet that had been approaching Earth, which is, in a way, true\u2014but the comet was in fact a spacecraft of the Lassans, a race of elephantoid aliens from a planet of Rigel, who have utilized \"life-force\" (a sort of radiation) from the interior of the Earth to effect the change.\nThe militaristic Lassans believe it their destiny to destroy or enslave all \"lesser\" beings, and accordingly plan to capture those who have survived their initial strike. Accordingly, Ruby and his companions are soon besieged by \"dodos\", strange bird-like creatures who are thought-controlled by the Lassans and carry light-bombs.\nRuby's group is relieved by a warship from Australia, whose inhabitants have been less affected by the Lassan radiation\u2014in their case, it has merely turned the iron in their blood to cobalt, rendering them blue-skinned. In combination, the Australians and remaining Americans in turn besiege the stronghold of the invaders in New Jersey. But while their aircraft are effective against the dodo squadrons, the armored vehicles making up the Lassan ground forces, manned by giant apemen also under the Lassans' control, seem invulnerable.\nThe focus shifts to Herbert Sherman and Marta Lami, two metalized captives of the Lassans. Via \"thought helmets\" the invaders extract information from them about their fellow earthlings to further the war of conquest. However, the mental transfer works both ways, and through it Sherman learns as much about the aliens as they do about Earth, notably that they have much less knowledge of explosives. Escaping with this knowledge, he reveals it to the besieging forces, who use it to defeat and destroy the Lassans. Ultimately, the explosion of the \"life force\" generator results in the restoration of all the metalized humans to their normal forms.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Onslaught from Rigel", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Invaders_from_Rigel", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.75, 
+    "rating_count": 5, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/41049/pg41049.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19057224-the-onslaught-from-rigel", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/41049", 
+        "num": 41049
+    }, 
+    "authors": [
+        101
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2012-10-14T00:00:00", 
+    "author": 101, 
+    "original_title": "Invaders from Rigel", 
+    "summary": "Invaders from Rigel is a science fiction novel by Fletcher Pratt. It was first published in hardcover by Avalon Books in 1960. The first paperback edition was issued by Airmont Books in January 1964 and reprinted in December 1972, May 1973, January 1976, and at least one later occasion. The novel has also been translated into Italian. The book is an expansion of the author's novella \"The Onslaught from Rigel,\" originally published in the magazine Wonder Stories Quarterly in the issue for Winter 1932. Pratt reused the name of protagonist, Benjamin Franklin Ruby (as B. F. Ruby) as an authorial pseudonym for later stories.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "science-fiction", 
+        "on-calibre-to-read", 
+        "alien-invasion", 
+        "21st-century-lit", 
+        "classics", 
+        "sci-fi-classics", 
+        "owned", 
+        "kindle", 
+        "something-to-consider"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

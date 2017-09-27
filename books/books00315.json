@@ -1,0 +1,53 @@
+{
+    "content_name": "29310.txt.utf-8", 
+    "author_name": "Anthony Gilmore", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29310/29310-h/images/001.jpg"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 315, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Affair of the Brains", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 3, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19473779-the-affair-of-the-brains", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "description": "Hawk Carse himself goes to keep Judd the Kite's rendezvous with the sinister genius Ku Sui. Lester del Rey was an American science fiction author and editor at Del Rey Books. He was awarded the E. E. Smith Memorial Award for Imaginative Fiction, Balrog Award and the 11th SFWA Grand Master.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29310", 
+        "num": 29310
+    }, 
+    "authors": [
+        104
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-07-04T00:00:00", 
+    "author": 104, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "21st-century-lit", 
+        "shelf-g-authors", 
+        "genre-syfi-fan-horr", 
+        "own-not-read", 
+        "unread", 
+        "calibre", 
+        "back-shelf", 
+        "un"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

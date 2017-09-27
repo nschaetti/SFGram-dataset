@@ -1,0 +1,64 @@
+{
+    "content_name": "26743.txt.utf-8", 
+    "author_name": "Sonya Dorman", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26743/26743-h/images/001.png", 
+        "http://www.gutenberg.org/files/26743/26743-page-images/p079-image.png", 
+        "http://www.gutenberg.org/files/26743/26743-page-images/p079.png", 
+        "http://www.gutenberg.org/files/26743/26743-page-images/p080.png", 
+        "http://www.gutenberg.org/files/26743/26743-page-images/p081.png", 
+        "http://www.gutenberg.org/files/26743/26743-page-images/p082.png", 
+        "http://www.gutenberg.org/files/26743/26743-page-images/p083.png", 
+        "http://www.gutenberg.org/files/26743/26743-page-images/p084.png"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 348, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Putnam Tradition", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.9, 
+    "rating_count": 8, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11776288-the-putnam-tradition", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Classic short fiction by Sonya Dorman", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26743", 
+        "num": 26743
+    }, 
+    "authors": [
+        112
+    ], 
+    "isbn13": "2940011850608", 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-10-01T00:00:00", 
+    "author": 112, 
+    "content_cleaned": true, 
+    "classes": [
+        "fiction", 
+        "sfbywomen", 
+        "sf", 
+        "short-story", 
+        "to-read", 
+        "audio-obtained-lvss", 
+        "science-fiction", 
+        "short-stories", 
+        "scifi-horror-ghosts", 
+        "english", 
+        "1950-1999", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

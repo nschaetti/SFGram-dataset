@@ -1,0 +1,59 @@
+{
+    "content_name": "23960.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23960/23960-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/23960/23960-h/images/illus2.jpg"
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 343, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "...After a Few Words...", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.73, 
+    "rating_count": 27, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6447232-after-a-few-words", 
+        "found": true, 
+        "year": 1962
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23960", 
+        "num": 23960
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-22T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "short-stories", 
+        "fiction", 
+        "sf-fantasy", 
+        "free-from-amazon", 
+        "classic", 
+        "read-before-read-again-read", 
+        "short-story", 
+        "science-fiction", 
+        "audio-obtained", 
+        "eua", 
+        "scifi", 
+        "sci-fi", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

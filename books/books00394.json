@@ -1,0 +1,54 @@
+{
+    "content_name": "29448.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29448/29448-h/images/i006.jpg", 
+        "http://www.gutenberg.org/files/29448/29448-h/images/i007.jpg", 
+        "http://www.gutenberg.org/files/29448/29448-h/images/i041.jpg", 
+        "http://www.gutenberg.org/files/29448/29448-h/images/i070.jpg", 
+        "http://www.gutenberg.org/files/29448/29448-h/images/icover.jpg"
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 394, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Pariah Planet", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/29448/pg29448.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29507170-pariah-planet", 
+        "found": true, 
+        "year": 1961
+    }, 
+    "similar_books": [], 
+    "description": "When the blue plague appeared on the planet of Dara, fear struck nearby worlds. The fear led to a hate that threatened the lives of millions and endangered the Galactic peace. But the Med Service ship Aesculapius 20 with Calhoun and Murgatroyd the Tormal aboard are on the job and have stumbled into the horrible mess caused by unreasoning hatred, quarantine, mass starvation and worse. Calhoun must use all his medical knowledge and significant skills to even understand the situation here in neglected Sector 12. Can he and Murgatroyd untangle this Gordian's knot and live to tell the tale? Maybe and maybe not. Listen and find out. (Summary by Phil Chenevert )", 
+    "format": "Audiobook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29448", 
+        "num": 29448
+    }, 
+    "authors": [
+        61
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-07-18T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "unknown-publication-dates", 
+        "best-free-reads", 
+        "audiobooks"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

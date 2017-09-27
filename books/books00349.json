@@ -1,0 +1,67 @@
+{
+    "content_name": "17029.txt.utf-8", 
+    "isbn": "3655161638", 
+    "author_name": "Cory Doctorow", 
+    "images_urls": [], 
+    "year": 2010, 
+    "images": [], 
+    "id": 349, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Copyrighted. Read the copyright notice inside this book for details.", 
+    "title": "Shadow of the Mothaship", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/A_Place_So_Foreign_and_Eight_More", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.92, 
+    "rating_count": 25, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12635970-shadow-of-the-mothaship", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Notice: This Book is published by Historical Books Limited (<a target=\"_blank\" href=\"http://www.publicdomain.org.uk\" rel=\"nofollow\">www.publicdomain.org.uk</a>) as a Public Domain Book, if you have any inquiries, requests or need any help you can just send an email to publications@publicdomain.org.uk This book is found as a public domain and free book based on various online catalogs, if you think there are any problems regard copyright issues please contact us immediately via DMCA@publicdomain.org.uk", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/17029", 
+        "num": 17029
+    }, 
+    "authors": [
+        33
+    ], 
+    "isbn13": "9783655161630", 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2005-11-20T00:00:00", 
+    "author": 33, 
+    "original_title": "A Place So Foreign and Eight More", 
+    "summary": "A Place So Foreign and Eight More is a collection of short stories by Canadian-British writer Cory Doctorow. Six of these stories were released electronically under a Creative Commons license. A paperback edition was issued in New York by publisher Four Walls Eight Windows in 2003 with ISBN 1-56858-286-2. The collection features an introduction by Bruce Sterling, and includes \"0wnz0red\", which was nominated for the 2003 Nebula Award for Best Novelette.\n\n", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "ebook", 
+        "calibre", 
+        "interested", 
+        "another-to-read", 
+        "very-short", 
+        "to-read-in-2017", 
+        "a-on-nook", 
+        "a-adobe-editions", 
+        "fromcalibre", 
+        "ebooks", 
+        "shorts-to-read", 
+        "science-fiction-fantasy", 
+        "calibre-library", 
+        "random-added", 
+        "sci-fi", 
+        "sf-dystopias", 
+        "a5", 
+        "library"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

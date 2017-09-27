@@ -1,0 +1,70 @@
+{
+    "content_name": "24198.txt.utf-8", 
+    "isbn": "1606643444", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24198/24198-h/images/image_01.jpg", 
+        "http://www.gutenberg.org/files/24198/24198-h/images/image_02.jpg", 
+        "http://www.gutenberg.org/files/24198/24198-h/images/image_03.jpg", 
+        "http://www.gutenberg.org/files/24198/24198-h/images/image_04.jpg", 
+        "http://www.gutenberg.org/files/24198/24198-h/images/image_05.jpg", 
+        "http://www.gutenberg.org/files/24198/24198-h/images/image_06.jpg"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 386, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "A Spaceship Named McGuire", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.28, 
+    "rating_count": 19, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10665750-a-spaceship-named-mcguire", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "description": "A STARSHIP WITH A PROBLEM<br /><br />No, I'm not the guy who tested the McGuire.<br /><br />I'm the guy who stole it.<br /><br />The \"McQuire\" is the MG-YR-7, a new kind of starship. It's supposed to be artificially intelligent, but it's AI unit has crashed six times, hence the \"7.\"<br /><br />Me, I'm Daniel Oak, Shalimar Ravenhurst, the guy, who built the McGuire, hired me to find out whose been crashing his project. This is on the asteroid Ceres, so there were limited prospects.<br /><br />Oh yeah. There was one complication. I also had to babysit his hellion of a teenage daughter, Jaqueline Ravenhurst. Even though her nickname was \"Jack,\" she filled out a spacesuit nicely.<br /><br />Jack could talk just about anyone into anything.<br /><br />And little did I know, she had some big plans for me!", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24198", 
+        "num": 24198
+    }, 
+    "authors": [
+        49
+    ], 
+    "pages": 64, 
+    "language": "English", 
+    "isbn13": "9781606643440", 
+    "country": 3, 
+    "release_date": "2008-01-07T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "short-stories", 
+        "fiction", 
+        "audiobook", 
+        "science-fiction", 
+        "classics", 
+        "audiobooks-read", 
+        "3-stars", 
+        "free-from-amazon", 
+        "classic", 
+        "audiobooks", 
+        "audio-books", 
+        "ebooks", 
+        "sf", 
+        "currently-reading", 
+        "audio-book", 
+        "scifi", 
+        "audio-books-to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

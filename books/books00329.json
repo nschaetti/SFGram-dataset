@@ -1,0 +1,77 @@
+{
+    "content_name": "31286.txt.utf-8", 
+    "author_name": "Lester Del Rey", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/31286/31286-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/31286/31286-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/31286/31286-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/31286/31286-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/31286/31286-h/images/image_004.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 329, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Let 'Em Breathe Space!", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.8, 
+    "rating_count": 17, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/31286/pg31286.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8151942-let-em-breathe-space", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Five months out from Earth, we were half-way to Saturn and three-quarters of the way to murder. At least, I was. I was sick of the feuding, the worries and the pettiness of the other nineteen aboard. My stomach heaved at the bad food, the eternal smell of people, and the constant sound of nagging and complaints. For ten lead pennies, I'd have gotten out into space and tried walking back to Earth. Sometimes I thought about doing it without the pennies.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/31286", 
+        "num": 31286
+    }, 
+    "authors": [
+        73
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-02-16T00:00:00", 
+    "author": 73, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "mystery", 
+        "speculative-fiction", 
+        "owned", 
+        "kindle", 
+        "short-stories", 
+        "unread", 
+        "fiction", 
+        "to-read-1a-sf", 
+        "to-read-1", 
+        "hazem-s", 
+        "20-science-fiction", 
+        "01-audiobooks", 
+        "ebook-kindle-own", 
+        "amazon", 
+        "feedbooks-com", 
+        "shelfari", 
+        "reimport", 
+        "sff", 
+        "4-star", 
+        "i-read", 
+        "science-fiction-fantasy", 
+        "to-read-temp", 
+        "reorganize", 
+        "reimport2", 
+        "i-rd", 
+        "my-shelf-category-400"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

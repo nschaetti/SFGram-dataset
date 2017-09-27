@@ -1,0 +1,51 @@
+{
+    "content_name": "51115.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Anthony Boucher", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51115/51115-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51115/51115-h/images/illus.jpg"
+    ], 
+    "year": 1947, 
+    "images": [], 
+    "id": 390, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Transfer Point", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.11, 
+    "rating_count": 9, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51115/pg51115.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/5123090-transfer-point", 
+        "found": true, 
+        "year": 1947
+    }, 
+    "similar_books": [], 
+    "description": "Young Allie Barton growing up in San Francisco, 1919-1921.", 
+    "format": "Hardcover", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51115", 
+        "num": 51115
+    }, 
+    "authors": [
+        125
+    ], 
+    "pages": 195, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-02-02T00:00:00", 
+    "author": 125, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "previously-read-1980-2014", 
+        "novels"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

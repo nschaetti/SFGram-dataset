@@ -1,0 +1,40 @@
+{
+    "content_name": "51353.txt.utf-8", 
+    "author_name": "Fritz Leiber", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51353/51353-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51353/51353-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51353/51353-h/images/illus2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 376, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Dr. Kometevsky's Day", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51353/pg51353.cover.medium.jpg", 
+    "goodreads": {
+        "found": false
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51353", 
+        "num": 51353
+    }, 
+    "authors": [
+        32
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-03-05T00:00:00", 
+    "author": 32, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

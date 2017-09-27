@@ -1,0 +1,49 @@
+{
+    "content_name": "51545.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Robert Sheckley", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51545/51545-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51545/51545-h/images/illus.jpg"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 396, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Sweeper of Loray", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.2, 
+    "rating_count": 5, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51545/pg51545.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8364674-the-sweeper-of-loray", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51545", 
+        "num": 51545
+    }, 
+    "authors": [
+        23
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-03-24T00:00:00", 
+    "author": 23, 
+    "content_cleaned": true, 
+    "classes": [
+        "sf-f", 
+        "library", 
+        "ebooks", 
+        "to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

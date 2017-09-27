@@ -1,0 +1,76 @@
+{
+    "content_name": "51549.txt.utf-8", 
+    "isbn": "1405203382", 
+    "language_code": "eng", 
+    "author_name": "Fritz Leiber", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51549/51549-h/images/cover.jpg"
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 318, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Big Engine", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.92, 
+    "rating_count": 34, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51549/pg51549.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/5633934-gordon-the-big-engine", 
+        "found": true, 
+        "year": 1953
+    }, 
+    "similar_books": [], 
+    "description": "Gordon, that proud and pompous Express Engine, appeared in all the earlier books in this series, but this is the first time that he has had a book named after him.", 
+    "format": "Hardcover", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51549", 
+        "num": 51549
+    }, 
+    "authors": [
+        32
+    ], 
+    "pages": 72, 
+    "language": "English", 
+    "isbn13": "9781405203388", 
+    "country": 3, 
+    "release_date": "2016-03-25T00:00:00", 
+    "author": 32, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "childrens", 
+        "children-s", 
+        "picture-books", 
+        "children", 
+        "fiction", 
+        "first-readers", 
+        "zowned", 
+        "style_kid_picture", 
+        "ljc_read", 
+        "format_hardcopy", 
+        "faves_ljc", 
+        "books-i-own", 
+        "jake", 
+        "read-to-me", 
+        "before-i-turned-3", 
+        "childhood", 
+        "bedroom", 
+        "my-library", 
+        "childrens-fiction", 
+        "preschool-books", 
+        "children-s-books", 
+        "kids-books", 
+        "thomas", 
+        "daniel", 
+        "currently-reading", 
+        "rowena-s-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

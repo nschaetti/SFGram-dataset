@@ -1,0 +1,48 @@
+{
+    "content_name": "32133.txt.utf-8", 
+    "author_name": "Stephen Marlowe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32133/32133-h/images/img195604058i.jpg", 
+        "http://www.gutenberg.org/files/32133/32133-h/images/img195604059i.jpg"
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 388, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Graveyard of Space", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.77, 
+    "rating_count": 6, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10773081-the-graveyard-of-space", 
+        "found": true, 
+        "year": 1956
+    }, 
+    "similar_books": [], 
+    "description": "Nobody knew very much about the Sargasso area of the void; only one thing was certain: if a ship was caught there it was doomed in \u2014 The Graveyard Of Space by Milton Lesser (pseudonym).", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32133", 
+        "num": 32133
+    }, 
+    "authors": [
+        79
+    ], 
+    "isbn13": "2940012177445", 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-04-25T00:00:00", 
+    "author": 79, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "owned-pending-kindle-free-ebook", 
+        "feedbooks-com"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

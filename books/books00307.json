@@ -1,0 +1,49 @@
+{
+    "content_name": "51726.txt.utf-8", 
+    "isbn": "1532774419", 
+    "author_name": "Algis Budrys", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51726/51726-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51726/51726-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51726/51726-h/images/illus2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 307, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Wall of Crystal, Eye of Night", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 1.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51726/pg51726.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/30005279-wall-of-crystal-eye-of-night", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51726", 
+        "num": 51726
+    }, 
+    "authors": [
+        91
+    ], 
+    "pages": 36, 
+    "language": "English", 
+    "isbn13": "9781532774416", 
+    "country": 3, 
+    "release_date": "2016-04-10T00:00:00", 
+    "author": 91, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

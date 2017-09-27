@@ -1,0 +1,54 @@
+{
+    "content_name": "43046.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/43046/43046-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/43046/43046-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/43046/43046-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/43046/43046-h/images/illus3.jpg"
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 330, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Planet of Dread", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.11, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/43046/pg43046.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/25767973-planet-of-dread", 
+        "found": true, 
+        "year": 1962
+    }, 
+    "similar_books": [], 
+    "description": "William Fitzgerald Jenkins, who wrote under the pen name Murray Leinster, won the Hugo, Liberty and Retro-Hugo awards for his stories. He wrote and published over 1,400 short stories and articles, 14 movie scripts, and hundreds of radio scripts and television plays. Planet of Dread first appeared in Fantastic Stories of Imagination in May of 1962. Ziff-Davis founded this \"pulp\" magazine as a fantasy companion to Amazing Stories and Leinster was a frequent contributor to both publications.<br /><br />In this story humans have expanded to worlds throughout the universe. However, to be self sustaining, they reproduce the TOTAL ecology of their home world - the good, the bad and the ugly. When this system is not properly supervised, strange things happen and the hoped-for habitable world is anything but. The passengers and crew of the space yacht Nadine fear they may not survive this world where the environment has gone mad.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/43046", 
+        "num": 43046
+    }, 
+    "authors": [
+        61
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2013-06-27T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "sci-fi", 
+        "20th-century-lit", 
+        "fiction", 
+        "ebook", 
+        "booker", 
+        "tbr-ebook"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

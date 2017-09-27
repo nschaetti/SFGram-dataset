@@ -1,0 +1,52 @@
+{
+    "content_name": "32347.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32347/32347-h/images/image001.jpg", 
+        "http://www.gutenberg.org/files/32347/32347-h/images/image002.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 369, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Time Fuze", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.75, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8582620-time-fuze", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32347", 
+        "num": 32347
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-05-12T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "free-from-amazon", 
+        "classic", 
+        "science-fiction", 
+        "review-done", 
+        "type-short-story", 
+        "audio-obtained-lvss", 
+        "reino-unido", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

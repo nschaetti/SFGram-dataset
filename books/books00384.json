@@ -1,0 +1,77 @@
+{
+    "content_name": "26066.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Jack Williamson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26066/26066-h/images/001.png", 
+        "http://www.gutenberg.org/files/26066/26066-h/images/002.png"
+    ], 
+    "year": 1930, 
+    "images": [], 
+    "id": 384, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Cosmic Express", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.26, 
+    "rating_count": 22, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6328997-the-cosmic-express", 
+        "found": true, 
+        "year": 1930
+    }, 
+    "similar_books": [], 
+    "description": "<b>\"A new invention. Just perfected a few weeks ago...\"</b> <br /><br /><i>Wireless transmission of matter</i><br /><br />First published in Amazing Stories", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26066", 
+        "num": 26066
+    }, 
+    "authors": [
+        86
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-07-15T00:00:00", 
+    "author": 86, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "d-d", 
+        "appendix-e", 
+        "sci-fi", 
+        "short-story", 
+        "d-d-inspiration", 
+        "appendix-n", 
+        "dndrecommended", 
+        "sci-fi-and-fantasy-fiction", 
+        "free-on-kindle", 
+        "dungeons-and-dragons", 
+        "d-d-5e-reading", 
+        "dnd-reading-list", 
+        "owned-pending-kindle-free-ebook", 
+        "kindle-free-ebook", 
+        "to-read-scifi", 
+        "16", 
+        "early-mid-1900s", 
+        "books-i-disliked", 
+        "gary-gygax-list", 
+        "buy", 
+        "sf", 
+        "ebooks", 
+        "to-buy", 
+        "dnd-inspirational-reading", 
+        "science-fiction-times", 
+        "mmm2013", 
+        "e-book", 
+        "3-ebooks", 
+        "type-short-story", 
+        "3a-ebooks"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

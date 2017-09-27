@@ -1,0 +1,66 @@
+{
+    "content_name": "30408.txt.utf-8", 
+    "isbn": "1153826151", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30408/30408-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/30408/30408-h/images/illo-lg.png", 
+        "http://www.gutenberg.org/files/30408/30408-h/images/illo.png"
+    ], 
+    "year": 1933, 
+    "images": [], 
+    "id": 378, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Fifth-Dimension Tube", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.53, 
+    "rating_count": 12, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/30408/pg30408.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/7999603-the-fifth-dimension-tube", 
+        "found": true, 
+        "year": 1933
+    }, 
+    "similar_books": [], 
+    "description": "Excerpt: ...man insisted. Tommy could see that his pilot's expression was becoming uneasy. But then a compromise seemed to be arrived at. The bearded man spoke a single, ceremonial phrase and the twelve men rose. They moved toward various doors and one by one left, until the room was empty. But the pilot looked relieved. He grinned cheerfully at Tommy and led the way back to the two-wheeled vehicle. The two men with Tommy's weapons vanished. And again there was a swift, cyclonelike passage along empty ways with the throbbing of machinery audible everywhere. Into the base of a second building, up endless stairs, past innumerable doors. It seemed to Tommy that he heard voices behind some of them, and they were women's voices. At a private, triple knock a door opened wide, and the pilot led the way into a room, closed and locked the door behind him, and called. A woman's voice cried out in astonishment. Through an inner arch a woman came running eagerly. Her face went blank at sight of Tommy and Evelyn, and her hand flew to a tiny golden object at her waist. Then, at the pilot's chuckle, she flushed vividly. Hours later, Tommy and Evelyn were able to talk it over. They were alone then, and could look out an oval window upon the Golden City all about them. It was dark, but saffron-red panels glowed in building walls all along the thoroughfares, and tiny glowing dots in the soaring spires of gold told of people within other dwellings like this. \"As I see it,\" said Tommy restlessly, \"the Council-and it must have been that in the big room to-day-put us in our friend's hands to learn the language. He's been working with me four hours, drawing pictures, and I've been writing down words I've learned. I must have several hundred of them. But we do our best talking with pictures. And Evelyn, this city's in a bad fix.\" Evelyn said irrelevantly: \"Her name is Ahnya, Tommy, and she's a dear. We got along beautifully. I'll bet I found out...", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30408", 
+        "num": 30408
+    }, 
+    "authors": [
+        61
+    ], 
+    "pages": 30, 
+    "language": "English", 
+    "isbn13": "9781153826150", 
+    "country": 3, 
+    "release_date": "2009-11-06T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "currently-reading", 
+        "21st-century-lit", 
+        "sci-fi", 
+        "library", 
+        "mount-tbr-2017", 
+        "audio", 
+        "alternate-worlds", 
+        "adventure", 
+        "speculative-fiction", 
+        "librivox-org", 
+        "misc-scifi", 
+        "feedbooks-com", 
+        "owned", 
+        "not-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

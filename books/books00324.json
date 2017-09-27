@@ -1,0 +1,61 @@
+{
+    "content_name": "50999.txt.utf-8", 
+    "isbn": "1681465302", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50999/50999-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50999/50999-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/50999/50999-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/50999/50999-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 324, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Med Ship Man", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.8, 
+    "rating_count": 9, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50999/pg50999.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29519419-med-ship-man", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "His work was healing the sick\u2014but this planet was already dead! Calhoun regarded the communicator with something like exasperation as his taped voice repeated a standard approach-call for the twentieth time. But no answer came, which had become irritating a long time ago. This was a new Med Service sector for Calhoun. He'd been assigned to another man's tour of duty because the other man had been taken down with romance. He'd gotten married, which ruled him out for Med Ship duty. So now Calhoun listened to his own voice endlessly repeating a call that should have been answered immediately.", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50999", 
+        "num": 50999
+    }, 
+    "authors": [
+        61
+    ], 
+    "pages": 44, 
+    "language": "English", 
+    "isbn13": "9781681465302", 
+    "country": 3, 
+    "release_date": "2016-01-22T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "to-read", 
+        "currently-reading", 
+        "unknown-publication-dates", 
+        "short-stories", 
+        "fiction", 
+        "audio-books-read", 
+        "3-stars", 
+        "owned", 
+        "sci-fi"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

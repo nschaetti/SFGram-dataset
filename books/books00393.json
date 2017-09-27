@@ -1,0 +1,59 @@
+{
+    "content_name": "18261.txt.utf-8", 
+    "author_name": "H. Beam Piper", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/18261/18261-h/images/001_01.jpg", 
+        "http://www.gutenberg.org/files/18261/18261-h/images/001_02.jpg", 
+        "http://www.gutenberg.org/files/18261/18261-h/images/002_01.jpg", 
+        "http://www.gutenberg.org/files/18261/18261-h/images/002_03.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 393, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Operation R.S.V.P.", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.36, 
+    "rating_count": 20, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19005416-operation-r-s-v-p", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/18261", 
+        "num": 18261
+    }, 
+    "authors": [
+        19
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2006-04-26T00:00:00", 
+    "author": 19, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-story", 
+        "scifi", 
+        "currently-reading", 
+        "audiobooks", 
+        "15", 
+        "fiction", 
+        "kindle", 
+        "on-disk", 
+        "short-stories", 
+        "sf-challenge", 
+        "sf", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

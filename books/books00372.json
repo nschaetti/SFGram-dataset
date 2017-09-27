@@ -1,0 +1,78 @@
+{
+    "content_name": "22869.txt.utf-8", 
+    "isbn": "0615965520", 
+    "language_code": "eng", 
+    "author_name": "Alan Edward Nourse", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/22869/22869-page-images/p051.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p052.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p053.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p054.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p055.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p056.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p057.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p058.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p059.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p060.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p061.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p062.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p063.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p064.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p065.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p066.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p067.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p068.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p069.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p070.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p071.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p072.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p073.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p074.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p075.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p076.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p077.png", 
+        "http://www.gutenberg.org/files/22869/22869-page-images/p078.png"
+    ], 
+    "year": 2014, 
+    "images": [], 
+    "id": 372, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Dark Door", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.17, 
+    "rating_count": 3, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/23646690-beyond-a-dark-door", 
+        "found": true, 
+        "year": 2014
+    }, 
+    "similar_books": [], 
+    "description": "Beyond A Dark Door ...lies the mirror to who we really are. Dare to look? Fresh from the success of last year's collection of chilling short stories, Beyond the Pale: 5 Arresting Tales of Love &amp; Other Hauntings, multi-award winning author K. Patrick Malone returns with a collection of eerie short novels that cross the narrow threshold of the human psyche into the terrifying sideshow on the other side. Beginning with the diabolically criminal tale of The Malefactor to the spooky western bedtime story of Ol' Uncle Jesse &amp; the Haunting Refrain (2013 New England Book Festival Winner) through the shockingly cerebral centerpiece of The Ascent of Eamon O'Dowd and culminating with the magically mechanical finale of A Toolbox for Mister Jimmy (2013 San Francisco Book Festival Winner), K. Patrick Malone once again proves that nothing is ever what it seems as we travel through the complex labyrinth of the human soul. So be brave, readers. Dare yourselves to reach out for the knob, turn it slowly and peek inside, but hold on tight as you find yourselves hypnotically drawn, step by uneasy step, into the places that lie...beyond a dark door. \"There are things known and there are things unknown, and in between are the doors of perception.\" -Aldous Huxley", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/22869", 
+        "num": 22869
+    }, 
+    "authors": [
+        108
+    ], 
+    "pages": 272, 
+    "language": "English", 
+    "isbn13": "9780615965529", 
+    "country": 3, 
+    "release_date": "2007-10-03T00:00:00", 
+    "author": 108, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "giveaways-entered", 
+        "good-reads-giveaways"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

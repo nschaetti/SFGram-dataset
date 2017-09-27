@@ -1,0 +1,45 @@
+{
+    "content_name": "51168.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Lester Del Rey", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51168/51168-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51168/51168-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51168/51168-h/images/illus2.jpg"
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 327, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Operation Distress", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51168/pg51168.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/35896831-operation-distress", 
+        "found": true, 
+        "year": 1951
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51168", 
+        "num": 51168
+    }, 
+    "authors": [
+        73
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-02-10T00:00:00", 
+    "author": 73, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

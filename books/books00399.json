@@ -1,0 +1,53 @@
+{
+    "content_name": "30869.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30869/30869-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30869/30869-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30869/30869-h/images/image_003.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 399, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Thin Edge", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.5, 
+    "rating_count": 8, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20349105-thin-edge", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30869", 
+        "num": 30869
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-01-06T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "free-from-amazon", 
+        "classic", 
+        "short-stories", 
+        "amazon-ebooks", 
+        "fiction", 
+        "science-fiction", 
+        "2014-short-stories"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

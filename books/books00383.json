@@ -1,0 +1,60 @@
+{
+    "content_name": "51310.txt.utf-8", 
+    "isbn": "1515405052", 
+    "author_name": "Frederik Pohl", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51310/51310-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51310/51310-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51310/51310-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51310/51310-h/images/illus3.jpg"
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 383, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "My Lady Greensleeves", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 2, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51310/pg51310.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29458854-my-lady-greensleeves", 
+        "found": true, 
+        "year": 1957
+    }, 
+    "similar_books": [], 
+    "description": "This guard smelled trouble and it could be counted on to come-for a nose for trouble was one of the many talents bred here! A classic novella about the future of law enforcement by Science Fiction Writers of America Grand Master Frederik Pohl", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51310", 
+        "num": 51310
+    }, 
+    "authors": [
+        40
+    ], 
+    "pages": 44, 
+    "language": "English", 
+    "isbn13": "9781515405054", 
+    "country": 3, 
+    "release_date": "2016-02-27T00:00:00", 
+    "author": 40, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "sf-short-stories-anthologies", 
+        "under-100-pages", 
+        "kindle", 
+        "sci-fi", 
+        "project-gutenberg", 
+        "ebook", 
+        "unknown-publication-dates"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

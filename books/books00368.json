@@ -1,0 +1,53 @@
+{
+    "content_name": "51395.txt.utf-8", 
+    "isbn": "1515405419", 
+    "author_name": "Jesse F. Bone", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51395/51395-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51395/51395-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51395/51395-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51395/51395-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 368, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Survival Type", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51395/pg51395.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29791745-survival-type", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "Score one or one million was not enough for the human race. It had to be all or nothing ... with one man doing every bit of scoring!", 
+    "format": "ebook", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51395", 
+        "num": 51395
+    }, 
+    "authors": [
+        68
+    ], 
+    "pages": 20, 
+    "language": "English", 
+    "isbn13": "9781515405412", 
+    "country": 3, 
+    "release_date": "2016-03-08T00:00:00", 
+    "author": 68, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "robinsonade"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}
