@@ -1,0 +1,67 @@
+{
+    "content_name": "27921.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "David C. Knight", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0049.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0050.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0051.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0052.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0053.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0054.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0055.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0056.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0057.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0058.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0059.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0060.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0061.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0062.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0063.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0064.png", 
+        "http://www.gutenberg.org/files/27921/27921-page-images/p0065.png"
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 936, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Love of Frank Nineteen", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.5, 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/13416660-the-love-of-frank-nineteen", 
+        "found": true, 
+        "year": 1957
+    }, 
+    "similar_books": [], 
+    "description": "What will happen to love in that far off Day after Tomorrow? David C. Knight, editor with a New York trade publisher, agrees with the many impressed by \"the range of possible subjects and situations\" in science fiction. The result is a unique love story from that same Tomorrow.<br /><br />Play Duration: 00:51:12 <br />Free download from<br />Public Domain stories from Project Gutenberg, that are read by volunteers.<br /><br />Source: E-text<br />[mp3@64kbps - 24.5MB]<br />[mp3@128kbps - 49.1MB]<br />[ogg vorbis - 33MB]<br /><br />Originally Published: Fantastic Universe", 
+    "format": "Audiobook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/27921", 
+        "num": 27921
+    }, 
+    "authors": [
+        285
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-01-28T00:00:00", 
+    "author": 285, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "missing-shelf", 
+        "short-stories", 
+        "15", 
+        "1950s"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

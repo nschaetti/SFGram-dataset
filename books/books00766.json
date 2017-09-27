@@ -1,0 +1,53 @@
+{
+    "content_name": "29466.txt.utf-8", 
+    "isbn": "1153819333", 
+    "author_name": "Arthur J. Burks", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29466/29466-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/29466/29466-h/images/image_002.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 766, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Lords of the Stratosphere", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.5, 
+    "rating_count": 2, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/7895927-lords-of-the-stratosphere", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Excerpt: ...again. I n five minutes he turned to Jeter with a queer expression on his face. \"Well,\" he said, \"what's to do about it? What is it? It seems to be some solid substance approximately a quarter mile square. But it can't be true! A solid substance just hanging in the air at ninety thousand feet! It's beyond all imagining!\" \"What man can imagine, man can do,\" replied Jeter. \"A great newspaper editor said that, and we're going to discover now just how true it is.\" \"What's our next move?\" For a long time the partners, stared into each other's eyes. Each knew exactly what the other thought, exactly what he would propose as a course of action. Jeter heaved a sigh and nodded his head. \"We're as much in the power of the enemy here as we would be there, or anywhere else. We can't discover anything from here. Set the wheels down!\" \"We can't tell anything about the condition of the surface of that stuff. We may crack up.\" Jeter had to grin. \"Sounds strange, cracking up at ninety thousand feet, doesn't it? Well, hoist your helicopter vanes and drift down as straight as you can", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29466", 
+        "num": 29466
+    }, 
+    "authors": [
+        226
+    ], 
+    "pages": 24, 
+    "language": "English", 
+    "isbn13": "9781153819336", 
+    "country": 3, 
+    "release_date": "2009-07-20T00:00:00", 
+    "author": 226, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "ebook", 
+        "calibre", 
+        "14"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

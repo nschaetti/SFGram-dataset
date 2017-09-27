@@ -1,0 +1,63 @@
+{
+    "content_name": "32764.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32764/32764-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_a.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_h.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_i.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_r.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_t.jpg", 
+        "http://www.gutenberg.org/files/32764/32764-h/images/image_t1.jpg"
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 675, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Manners of the Age", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.25, 
+    "rating_count": 8, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32764/pg32764.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/17909582-manners-of-the-age", 
+        "found": true, 
+        "year": 1952
+    }, 
+    "similar_books": [], 
+    "description": "<b> With everyone gone elsewhere, Earth was perfect for gracious living\u2014only there was nothing gracious about it! </b><br /><br /><i>Science Fiction </i><br />Play Duration: 00:37:54 <br />Public Domain stories from Project Gutenberg, that are read by volunteers. <br />First published in <i>\u201dGalaxy Science Fiction\u201d</i> <br /><br /><u>Free download from LibriVox.org</u>", 
+    "format": "Audiobook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32764", 
+        "num": 32764
+    }, 
+    "authors": [
+        94
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-06-10T00:00:00", 
+    "author": 94, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "free-from-amazon", 
+        "classic", 
+        "sci-fi", 
+        "wish-list"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

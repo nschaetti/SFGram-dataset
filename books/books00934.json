@@ -1,0 +1,68 @@
+{
+    "content_name": "25086.txt.utf-8", 
+    "author_name": "Henry Slesar", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/25086/25086-h/images/001.png", 
+        "http://www.gutenberg.org/files/25086/25086-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/25086/25086-h/images/002-2.jpg", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/c0001.jpg", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0008-image.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0008.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0009-image.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0009.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0010.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0011.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0012.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0013.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0014.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0015.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0016.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0017.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0018.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0019.png", 
+        "http://www.gutenberg.org/files/25086/25086-page-images/p0047.png"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 934, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Delegate from Venus", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.33, 
+    "rating_count": 10, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6328980-the-delegate-from-venus", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "description": "Everybody was waiting to see what the delegate from Venus looked like. And all they got for their patience was the biggest surprise since David clobbered Goliath.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/25086", 
+        "num": 25086
+    }, 
+    "authors": [
+        59
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-04-17T00:00:00", 
+    "author": 59, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "currently-reading", 
+        "short-story", 
+        "owned", 
+        "fiction", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,60 @@
+{
+    "content_name": "5703.txt.utf-8", 
+    "author_name": "Homer Eon Flint", 
+    "images_urls": [], 
+    "year": 1919, 
+    "images": [], 
+    "id": 852, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Lord of Death and the Queen of Life", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.71, 
+    "rating_count": 12, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6328774-the-lord-of-death-and-the-queen-of-life", 
+        "found": true, 
+        "year": 1919
+    }, 
+    "similar_books": [], 
+    "description": "Were Adam and Eve extra-terrestrials?<br /><br />First published in 1919 and read by over four million readers, The Lord of Death/The Queen of Life showcases speculative fiction author Homer Eon Flint\u2019s interest in the Darwinian rule, Survival of the Fittest. <br /><br />In The Lord of Death, four scientists, aided by reverse-magnetism, travel to a dead planet where they discover that one human\u2019s lust for power destroyed all life there\u2014except for him. In suspended animation, he awaits the newcomers.<br /><br />In The Queen of Life, (considered a feminist tale) the scientists (one has revealed herself as a woman) travel to a planet encased in a glass sphere to protect the overpopulated planet from the sun\u2019s radiation. Conflict leads to a riot.", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/5703", 
+        "num": 5703
+    }, 
+    "authors": [
+        190
+    ], 
+    "isbn13": "9781619372474", 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2004-05-01T00:00:00", 
+    "author": 190, 
+    "content_cleaned": false, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "science-fiction", 
+        "sf", 
+        "homer-eon-flint", 
+        "someday", 
+        "_fun-stuff", 
+        "e-books", 
+        "scifi", 
+        "classics", 
+        "adventure", 
+        "1900-1950", 
+        "sci-fi", 
+        "owned", 
+        "fantasy-science-fiction", 
+        "library", 
+        "general-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

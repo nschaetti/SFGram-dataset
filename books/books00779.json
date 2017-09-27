@@ -1,0 +1,52 @@
+{
+    "content_name": "31948.txt.utf-8", 
+    "author_name": "Robert Moore Williams", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/31948/31948-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/31948/31948-h/images/illus.jpg"
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 779, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Thompson's Cat", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.75, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/31948/pg31948.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8708751-thompson-s-cat", 
+        "found": true, 
+        "year": 1952
+    }, 
+    "similar_books": [], 
+    "description": "The weird, invisible insect depopulated an entire planet. Now it was felling Thompson's crew as his ship hurtled toward the sun ... certain death for all, including the disease carrier. Forgottenin the panic was Buster, Thompson's wise cat.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/31948", 
+        "num": 31948
+    }, 
+    "authors": [
+        135
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-04-11T00:00:00", 
+    "author": 135, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "e-shelf", 
+        "owned-pending-kindle-free-ebook", 
+        "short-fiction-8", 
+        "sci-fi", 
+        "classic-sci-fi", 
+        "short-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

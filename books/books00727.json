@@ -1,0 +1,56 @@
+{
+    "content_name": "26855.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Howard Browne", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26855/26855-h/images/001.png", 
+        "http://www.gutenberg.org/files/26855/26855-page-images/p0136-image.png", 
+        "http://www.gutenberg.org/files/26855/26855-page-images/p0136.png", 
+        "http://www.gutenberg.org/files/26855/26855-page-images/p0137.png", 
+        "http://www.gutenberg.org/files/26855/26855-page-images/p0138.png"
+    ], 
+    "year": 1942, 
+    "images": [], 
+    "id": 727, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Hard Guy", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.47, 
+    "rating_count": 13, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12225766-hard-guy", 
+        "found": true, 
+        "year": 1942
+    }, 
+    "similar_books": [], 
+    "description": "He was standing at the side of the glassite super-highway, his arm half-raised, thumb pointed in the same direction as that of the approaching rocket car. Ordinarily Frederick Marden would have passed a hitch-hiker without stopping, but there was something in the bearing and appearance of this one that caused him to apply his brakes.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26855", 
+        "num": 26855
+    }, 
+    "authors": [
+        235
+    ], 
+    "isbn13": "2940012111937", 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-10-09T00:00:00", 
+    "author": 235, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "fiction", 
+        "short-story", 
+        "15", 
+        "short-stories", 
+        "1940s", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,74 @@
+{
+    "content_name": "32054.txt.utf-8", 
+    "isbn": "1463800886", 
+    "author_name": "Raymond Z. Gallun", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32054/32054-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_003_01.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_003_02.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_a.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_e.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_f.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_h.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_i.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_l.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_m.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_n.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_o.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_t.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_t1.jpg", 
+        "http://www.gutenberg.org/files/32054/32054-h/images/image_w.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 792, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Stamped Caution", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.42, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32054/pg32054.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14402730-stamped-caution", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Ten minutes after the crackup, somebody phoned for the Army. That meant us. The black smoke of the fire, and the oily residues, which were later analyzed, proved the presence of a probable petroleum derivative. The oil was heavily tainted with radioactivity. Most likely it was fuel from the odd, conchlike reaction-motors, the exact principles of which died, as far as we were concerned, with the crash.<br /><br />It's a funny thing, but most monsters seem to be of the opinion that it's men who are the monsters. And you know something? -- They probably have a point.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32054", 
+        "num": 32054
+    }, 
+    "authors": [
+        148
+    ], 
+    "pages": 40, 
+    "language": "English", 
+    "isbn13": "9781463800888", 
+    "country": 3, 
+    "release_date": "2010-04-19T00:00:00", 
+    "author": 148, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "currently-reading", 
+        "21st-century-lit", 
+        "audiobooks", 
+        "owned-pending-kindle-free-ebook", 
+        "gutenberg", 
+        "audio-books", 
+        "audio-books-to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

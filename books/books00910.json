@@ -1,0 +1,53 @@
+{
+    "content_name": "32748.txt.utf-8", 
+    "author_name": "Winston K. Marks", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32748/32748-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32748/32748-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/32748/32748-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/32748/32748-h/images/illus3.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 910, 
+    "category": "Text", 
+    "plot": "The novel begins with 16 year-old Steve Harmon writing in his diary awaiting for his trial for murder. Musing on his short time in prison so far, he decides to record this upcoming experience in the form of a movie screenplay. Kathy O'Brien, Steve's lawyer, informs him on what will happen during trial. At this stage, only two of the four accused - James King and Steve, since the other two - Richard \"Bobo\" Evans and Osvaldo Cruz - have entered into a plea bargain (three of them black and one Latino). When the trial first begins, Steve flashes back to a movie he saw in his school's film club and the discussion he had with his teacher in which they discuss the idea of predictability.\nThe trial begins with the opening statements of the state prosecutor Sandra Petrocelli, O\u2019 Brien, and King's lawyer, Asa Briggs. Petrocelli labels the four accused men, including Steve, as \"monsters.\" The lawyers call on several witnesses, including Salvatore Zinzi and Wendell Bolden, illicit cigarette traders, who admit to buying cigarettes that came from a drugstore robbery that led to the murder. The story of the trial is often broken up by a variety of flashbacks, including ones showing that King is only somewhat acquainted with Steve, that King had accused Steve of pulling the trigger during the robbery. Petrocelli calls as a witness Osvaldo Cruz, who is affiliated with the Diablos, a violent street gang. Cruz admits to participating in the crime only due to coercion by Bobo.\nSteve recounts a visit from his father, who wishes Steve would have gone on to attend his alma mater, Morehouse College. After detailing various news reports covering the robbery and murder, Steve then documents his arrest and his mother's panicked reaction. Before returning to the trial, Steve writes in his notes that he cannot psychologically handle writing down the tragic details of the robbery itself. The coroner, the city clerk, and a detective are questioned in a four-way split screen montage. O'Brien warns Steve not to write down in his notebook anything he wants the prosecutor to see.\nAccording to Cruz, the original plan was that Steve would go into the store and signal if the coast was clear. After King and Bobo robbed Mr. Nesbitt, Cruz would slow down any potential pursuer. All sources indicate that Nesbitt drew a gun, which one of the robbers wrestled him for, causing the gun to discharge and kill Nesbitt. Bobo takes the witness stand to say that James King pulled the trigger and vaguely recalls that Steve, whom he hardly knows, was meant to signal an all-clear.\nAsa Briggs argues that neither King nor Steve were ever involved in the robbery, since the only eyewitness to the robbery saw only two men involved, which can be accounted for by Bobo and Cruz alone. O'Brien seems doubtful of Steve's innocence, but wisely has him distance himself from King. Steve appears to know King and Cruz only as remote acquaintances, and Bobo hardly at all. Steve testifies that he does not particularly remember where he was on the day of the robbery, but that he certainly was not a participant. The defense systematically casts the honesty of Penocelli's witnesses in doubt. Although many of the testimonies contradict, even the most incriminating toward Steve claims only that he acted as a lookout in the first stage of the robbery.\nGeorge Sawicki, Steve's film club mentor, serves as a character witness, proudly defending Steve's moral character. Briggs, O'Brien, and Petrocelli finally make their closing statements, before the jury decides on a verdict. James King is found guilty, while Steve is found not guilty. As Steve moves to hug O'Brien, she turns away, leaving Steve to wonder why. The end of the novel takes place five months after Steve has been cleared of all charges and released from prison. Steve has continued his film-making, but his father has moved away, creating a noticeable distance between the two. He is still confused as to O'Brien's cold demeanor at the end of the trial, wondering whether she saw some real Steve, or a \"monster.\"", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Mate in Two Moves", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Monster_(Myers_novel)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32748/pg32748.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20799808-mate-in-two-moves", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32748", 
+        "num": 32748
+    }, 
+    "authors": [
+        228
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2010-06-08T00:00:00", 
+    "author": 228, 
+    "original_title": "Monster (Myers novel)", 
+    "summary": "Monster is a young adult drama novel by American author Walter Dean Myers and was published by Harpercollins in 1999. It was nominated for the 1999 National Book Award for Young People's Literature, won the Michael L. Printz Award in 2000, and was named a Coretta Scott King Award Honor the same year.\nThe book uses a mixture of a third-person screenplay and a first-person diary format to tell, through the perspective of Steve Harmon, an African American teenager, the story of his trial along with James King for felony murder in the state of New York.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "21st-century-lit"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

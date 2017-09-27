@@ -1,0 +1,48 @@
+{
+    "content_name": "51623.txt.utf-8", 
+    "isbn": "1515405877", 
+    "author_name": "Jim Harmon", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51623/51623-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51623/51623-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 684, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Always a Qurono", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51623/pg51623.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/30004063-always-a-qurono", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "You too can be a Qurono. All you need do is geoplanct. All you need know is when to stop!", 
+    "format": "ebook", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51623", 
+        "num": 51623
+    }, 
+    "authors": [
+        142
+    ], 
+    "pages": 20, 
+    "language": "English", 
+    "isbn13": "9781515405870", 
+    "country": 3, 
+    "release_date": "2016-04-02T00:00:00", 
+    "author": 142, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

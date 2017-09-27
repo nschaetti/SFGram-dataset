@@ -1,0 +1,58 @@
+{
+    "content_name": "32637.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32637/32637-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32637/32637-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/32637/32637-h/images/image_a.jpg", 
+        "http://www.gutenberg.org/files/32637/32637-h/images/image_d1.jpg", 
+        "http://www.gutenberg.org/files/32637/32637-h/images/image_e.jpg", 
+        "http://www.gutenberg.org/files/32637/32637-h/images/image_h.jpg", 
+        "http://www.gutenberg.org/files/32637/32637-h/images/image_o.jpg", 
+        "http://www.gutenberg.org/files/32637/32637-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/32637/32637-h/images/image_t.jpg"
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 731, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Envoy, Her", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.33, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32637/pg32637.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/17929220-the-envoy-her", 
+        "found": true, 
+        "year": 1951
+    }, 
+    "similar_books": [], 
+    "description": "The Emperor must be getting old, they thought, to deal so mercifully with the upstart Jursan Rebels\u2014which was quite true. He was not too young to dream....", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32637", 
+        "num": 32637
+    }, 
+    "authors": [
+        94
+    ], 
+    "pages": 16, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-06-01T00:00:00", 
+    "author": 94, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "free-from-amazon", 
+        "classic"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

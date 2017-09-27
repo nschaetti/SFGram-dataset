@@ -1,0 +1,49 @@
+{
+    "content_name": "51681.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "George O. Smith", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51681/51681-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51681/51681-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 823, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Amateur in Chancery", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51681/pg51681.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29874345-amateur-in-chancery", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "The creature from Venus didn't know right from left\u2014and life and death hung in the balance!", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51681", 
+        "num": 51681
+    }, 
+    "authors": [
+        95
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-04-07T00:00:00", 
+    "author": 95, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "owned", 
+        "ebook"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

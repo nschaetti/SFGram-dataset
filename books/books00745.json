@@ -1,0 +1,69 @@
+{
+    "content_name": "23568.txt.utf-8", 
+    "author_name": "Frank Belknap Long", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23568/22568-page-images/p026.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p027.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p028.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p029.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p030.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p031.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p032.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p033.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p034.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p035.png", 
+        "http://www.gutenberg.org/files/23568/22568-page-images/p036.png", 
+        "http://www.gutenberg.org/files/23568/23568-h/images/author.png", 
+        "http://www.gutenberg.org/files/23568/23568-h/images/title.png", 
+        "http://www.gutenberg.org/files/23568/23568-h/images/title_thumb.png"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 745, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Mississippi Saucer", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.6, 
+    "rating_count": 9, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/23568/pg23568.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6280546-the-mississippi-saucer", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23568", 
+        "num": 23568
+    }, 
+    "authors": [
+        171
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-11-20T00:00:00", 
+    "author": 171, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sf", 
+        "novels", 
+        "gutenberg", 
+        "free-from-amazon", 
+        "short-story", 
+        "15", 
+        "on-disk", 
+        "sci-fi", 
+        "ebook", 
+        "pdfs", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

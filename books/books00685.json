@@ -1,0 +1,45 @@
+{
+    "content_name": "28438.txt.utf-8", 
+    "author_name": "Robert Shea", 
+    "images_urls": [], 
+    "year": 1957, 
+    "images": [], 
+    "id": 685, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Helpful Robots", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.21, 
+    "rating_count": 6, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6414271-the-helpful-robots", 
+        "found": true, 
+        "year": 1957
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/28438", 
+        "num": 28438
+    }, 
+    "authors": [
+        154
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-03-29T00:00:00", 
+    "author": 154, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-story", 
+        "owned-amazon", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

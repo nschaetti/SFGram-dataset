@@ -1,0 +1,47 @@
+{
+    "content_name": "23889.txt.utf-8", 
+    "author_name": "Laurence M. Janifer", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23889/23889-h/images/001.png", 
+        "http://www.gutenberg.org/files/23889/23889-h/images/002.png", 
+        "http://www.gutenberg.org/files/23889/23889-h/images/003.png", 
+        "http://www.gutenberg.org/files/23889/23889-h/images/004.png"
+    ], 
+    "year": 2007, 
+    "images": [], 
+    "id": 843, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Charley de Milo", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.33, 
+    "rating_count": 3, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12489211-charley-de-milo", 
+        "found": true, 
+        "year": 2007
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23889", 
+        "num": 23889
+    }, 
+    "authors": [
+        64
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-18T00:00:00", 
+    "author": 64, 
+    "content_cleaned": true, 
+    "classes": [
+        "2017-2018", 
+        "to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

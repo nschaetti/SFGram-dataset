@@ -1,0 +1,63 @@
+{
+    "content_name": "29139.txt.utf-8", 
+    "isbn": "3655277083", 
+    "author_name": "M. A. Cummings", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29139/29139-h/images/001-1.jpg", 
+        "http://www.gutenberg.org/files/29139/29139-h/images/001-2.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 799, 
+    "category": "Text", 
+    "plot": "The Rosso family has ten children, who were named using their incredibly organized mother's naming system, where the first child's name would be the first name of the A section of a book of baby names (the girls' section or the boys' section, depending on the gender), the second child by the second name of the B section of the book, and so on. As such, the ten children have been named Abigail (Abbie), Bainbridge, Calandra (Candy), Dagwood (Woody), Eberhard (Hardy), Faustine and Gardenia (Dinnie) (the twins), Hannah, Ira, and Janthina (Jan).\nThe story begins with their move from a New York City apartment to a New Jersey farmhouse. Each chapter deals with one child's views on how to adjust to their new home (like Woody's attempts to be a comedian like Woody Allen, Hardy wanting to be a detective like the Hardy boys, Hannah feeling left out of the family, Bainbridge struggling in vain to pull together a local kids' football team) and the collective attempts of the children to obtain a pet, despite how their parents argue with ten children, they should not have a pet.\nThe children finally win their battle to obtain a pet when their parents announce that they are breaking the rules and having an eleventh child (ruining their mother's image of a perfect staircase of children), which will be named Kelly or Keegan, depending on the gender (which ends up being a boy according to Eleven Kids, One Summer). Since their parents have broken the rules, their mother relents and allows them to get a dog. However, they change their minds when they find a stray kitten. Taking after their mother, they decide the cat \"Zsa Zsa\" or \"Zuriel\", the last names of the baby book, thus reversing their mother's system. The kids are thrilled about this.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "No Pets Allowed", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Ten_Kids,_No_Pets", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.9, 
+    "rating_count": 16, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12671844-no-pets-allowed", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29139", 
+        "num": 29139
+    }, 
+    "authors": [
+        253
+    ], 
+    "language": "English", 
+    "isbn13": "9783655277089", 
+    "country": 2, 
+    "release_date": "2009-06-17T00:00:00", 
+    "author": 253, 
+    "original_title": "Ten Kids, No Pets", 
+    "summary": "Ten Kids, No Pets is a children's novel written by Ann M. Martin. She has also written a sequel entitled Eleven Kids, One Summer.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "fiction", 
+        "short-story", 
+        "science-fiction", 
+        "sci-fi", 
+        "vintage-sf", 
+        "audiobooks", 
+        "sfbywomen", 
+        "sf", 
+        "under-100-readers", 
+        "short-stories", 
+        "type-short-story", 
+        "spiiiiiicccccce"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

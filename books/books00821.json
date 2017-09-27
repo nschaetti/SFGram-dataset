@@ -1,0 +1,55 @@
+{
+    "content_name": "51414.txt.utf-8", 
+    "isbn": "0684814900", 
+    "author_name": "Winston K. Marks", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51414/51414-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51414/51414-h/images/illus.jpg"
+    ], 
+    "year": 1997, 
+    "images": [], 
+    "id": 821, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "...So They Baked a Cake", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_English_Huswife", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51414/pg51414.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/2075282.I_KNEW_YOU_WERE_COMING_SO_I_BAKED_A_CAKE", 
+        "found": true, 
+        "year": 1997
+    }, 
+    "similar_books": [], 
+    "description": "Homemade dessert is special. Whether it be Granny's Oatmeal Cookies or Mango-Molasses Upside-Down Cake, a sublime tiramisu or a seductively sweet baklava, Carol Durst is convinced that creating our own desserts is an unparalleled gift to our friends and family.Of course, not many of us have the time to create the kinds of desserts that elicit oohs and ahs from friends. I Knew You Were Coming So I Baked a Cake shows how to make delicious, unforgettable treats without devoting your life to the task.<br /><br />Any cook will win raves for the Don't Do It Cake -- in which you don't melt the chocolate, don't soften the butter, and don't sift the flour, but do mix up a decadently rich chocolate cake in less than ten minutes! From Almond Torte, Cheesecake, and Black Forest Cake to Apple Kuchen, Peach Cobbler, and Raspberry Mousse -- these are dessert with old-fashioned charm and taste, using simple new techniques and equipment and clever shortcuts that make putting them together a breeze -- and when you make it at home, you get to lick the spoon!", 
+    "format": "Hardcover", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51414", 
+        "num": 51414
+    }, 
+    "authors": [
+        228
+    ], 
+    "pages": 224, 
+    "language": "English", 
+    "isbn13": "9780684814902", 
+    "country": 21, 
+    "release_date": "2016-03-10T00:00:00", 
+    "author": 228, 
+    "original_title": "The English Huswife", 
+    "summary": "The English Huswife is a book of English cookery and remedies by Gervase Markham, first published in London by Roger Jackson in 1615, and Markham's best-known work. It was a bestseller of its time, going through nine editions, and at least two other reprints, by 1683. It was issued as a two-volume work, Countrey Contentments, the other volume being The Husbandmans Recreations.\nAlthough Markham disclaims authorship in the preface, he did adapt the recipes to suit current tastes, notably with sweet and sour sauces.\nThe book contains what is probably the first published recipe for Banbury cake.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "default"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

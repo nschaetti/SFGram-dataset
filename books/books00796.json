@@ -1,0 +1,68 @@
+{
+    "content_name": "23882.txt.utf-8", 
+    "isbn": "1434477673", 
+    "author_name": "Alan Edward Nourse", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23882/23882-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/23882/23882-h/images/frontis_1.jpg", 
+        "http://www.gutenberg.org/files/23882/23882-h/images/frontis_2.jpg"
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 796, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Gold in the Sky", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.18, 
+    "rating_count": 10, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/23882/pg23882.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6280531-gold-in-the-sky", 
+        "found": true, 
+        "year": 1958
+    }, 
+    "similar_books": [], 
+    "description": "Alan E. Nourse's 1958 novel of fortunes made and lost, murder, and betrayal among the asteroid miners. Originally published in the September, 1958 issue of AMAZING SCIENCE FICTION STORIES magazine.", 
+    "format": "Hardcover", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23882", 
+        "num": 23882
+    }, 
+    "authors": [
+        108
+    ], 
+    "pages": 128, 
+    "language": "English", 
+    "isbn13": "9781434477675", 
+    "country": 3, 
+    "release_date": "2007-12-17T00:00:00", 
+    "author": 108, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "science", 
+        "fiction", 
+        "adventure", 
+        "sci-fi", 
+        "20th-century-lit", 
+        "unread", 
+        "feedbooks-com", 
+        "short-stories", 
+        "shelved", 
+        "13", 
+        "space", 
+        "opera", 
+        "general", 
+        "audio-ebooks", 
+        "ebooks", 
+        "pdfs"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

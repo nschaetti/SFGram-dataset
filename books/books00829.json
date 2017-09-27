@@ -1,0 +1,47 @@
+{
+    "content_name": "50835.txt.utf-8", 
+    "author_name": "C. M. Kornbluth", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50835/50835-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50835/50835-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 829, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Luckiest Man in Denv", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Marching_Morons_(collection)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50835/pg50835.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/28950722-the-syndic-not-this-august-8-short-stories-the-little-black-bag-th", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50835", 
+        "num": 50835
+    }, 
+    "authors": [
+        51
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2016-01-03T00:00:00", 
+    "author": 51, 
+    "original_title": "The Marching Morons (collection)", 
+    "summary": "The Marching Morons (and Other Famous Science Fiction Stories) is a collection of stories by Cyril M. Kornbluth, originally published in paperback by Ballantine Books in 1959. Ballantine reissued the collection in 1963. A Spanish translation, Desfile de Cretines, appeared in 1964. In 1972, the novella from which the collection takes its name was selected by SFWA members as one of the ten best novellas published in the genre before 1966.", 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

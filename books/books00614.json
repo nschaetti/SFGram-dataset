@@ -1,0 +1,44 @@
+{
+    "content_name": "51822.txt.utf-8", 
+    "author_name": "Jack Sharkey", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51822/51822-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51822/51822-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51822/51822-h/images/illus2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 614, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Arcturus Times Three", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51822/pg51822.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/31826000-arcturus-times-three", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51822", 
+        "num": 51822
+    }, 
+    "authors": [
+        205
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-04-21T00:00:00", 
+    "author": 205, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

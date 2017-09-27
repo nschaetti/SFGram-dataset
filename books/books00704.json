@@ -1,0 +1,66 @@
+{
+    "content_name": "30493.txt.utf-8", 
+    "author_name": "James H. Schmitz", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_003_01.jpg", 
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_003_02.jpg", 
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_004.jpg", 
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_005.jpg", 
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_006.jpg", 
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_007_01.jpg", 
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_007_02.jpg", 
+        "http://www.gutenberg.org/files/30493/30493-h/images/image_f.jpg"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 704, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Lion Loose", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.42, 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8363240-lion-loose", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30493", 
+        "num": 30493
+    }, 
+    "authors": [
+        136
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-11-17T00:00:00", 
+    "author": 136, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "21st-century-lit", 
+        "shelf-s-authors", 
+        "genre-syfi-fan-horr", 
+        "ei-suom", 
+        "hugo-novella", 
+        "to-read-2e-sf-d", 
+        "english", 
+        "to-read-2-en-sf", 
+        "c2-f-en", 
+        "h-sf", 
+        "e-reader", 
+        "hugo-short-fiction", 
+        "to-read-2e-sf", 
+        "to-read-2-en"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

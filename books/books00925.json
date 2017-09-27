@@ -1,0 +1,43 @@
+{
+    "content_name": "18139.txt.utf-8", 
+    "isbn": "1374903574", 
+    "author_name": "Harold L. Goodwin", 
+    "images_urls": [], 
+    "year": -1, 
+    "images": [], 
+    "id": 925, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Rip Foster in Ride the Gray Planet", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/35311826-rip-foster-in-ride-the-gray-planet", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it.<br /><br />This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.<br /><br />Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface.<br /><br />We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.", 
+    "format": "Paperback", 
+    "loc_class": "PZ: Language and Literatures: Juvenile belles lettres", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/18139", 
+        "num": 18139
+    }, 
+    "authors": [
+        216
+    ], 
+    "language": "English", 
+    "isbn13": "9781374903579", 
+    "country": 3, 
+    "release_date": "2006-04-10T00:00:00", 
+    "author": 216, 
+    "content_cleaned": false, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

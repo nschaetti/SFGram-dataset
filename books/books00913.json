@@ -1,0 +1,56 @@
+{
+    "content_name": "51413.txt.utf-8", 
+    "isbn": "0521143292", 
+    "author_name": "Evelyn E. Smith", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51413/51413-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51413/51413-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51413/51413-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51413/51413-h/images/illus3.jpg"
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 913, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Ignoble Savages", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 5.0, 
+    "rating_count": 2, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51413/pg51413.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/7616427-social-science-and-the-ignoble-savage", 
+        "found": true, 
+        "year": 1976
+    }, 
+    "similar_books": [], 
+    "description": "This 1976 book is concerned with the emergence, in the latter half of the eighteenth century, of a new theory of socio-economic development, based on the idea that the key factor in the developmental process was the way in which men made their living. Professor Meek traces the prehistory of the four stages theory, from its emergence with French and Scottish Enlightenment thinkers to its modification by critics and revisionists. He argues the theory was shaped by literature about savage societies, especially American Indian. It is well known that contemporary notions of savagery influenced eighteenth-century social science by generating a critique of society through the idea of the noble savage. It is not so well known, however, that they also stimulated the emergence of a new theory of the development of society through the idea of the ignoble savage. This is Professor Meek's main theme.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51413", 
+        "num": 51413
+    }, 
+    "authors": [
+        172
+    ], 
+    "pages": 249, 
+    "language": "English", 
+    "isbn13": "9780521143295", 
+    "country": 3, 
+    "release_date": "2016-03-10T00:00:00", 
+    "author": 172, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "social-theory", 
+        "political-economy", 
+        "history-of-ideas", 
+        "default"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

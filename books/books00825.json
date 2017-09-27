@@ -1,0 +1,43 @@
+{
+    "content_name": "51351.txt.utf-8", 
+    "author_name": "Jim Harmon", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51351/51351-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51351/51351-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 825, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Spicy Sound of Success", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51351/pg51351.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/34325357-the-spicy-sound-of-success", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51351", 
+        "num": 51351
+    }, 
+    "authors": [
+        142
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-03-03T00:00:00", 
+    "author": 142, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

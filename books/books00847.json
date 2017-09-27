@@ -1,0 +1,52 @@
+{
+    "content_name": "51682.txt.utf-8", 
+    "isbn": "1515405974", 
+    "author_name": "James Stamers", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51682/51682-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51682/51682-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 847, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Imitation of Earth", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51682/pg51682.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/30084371-the-imitation-of-earth", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "Once they had been human-now they shared a remarkable destiny on an incredible new planet....", 
+    "format": "ebook", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51682", 
+        "num": 51682
+    }, 
+    "authors": [
+        211
+    ], 
+    "pages": 20, 
+    "language": "English", 
+    "isbn13": "9781515405979", 
+    "country": 3, 
+    "release_date": "2016-04-07T00:00:00", 
+    "author": 211, 
+    "content_cleaned": true, 
+    "classes": [
+        "unknown-publication-dates", 
+        "science-fiction", 
+        "to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

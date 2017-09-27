@@ -1,0 +1,64 @@
+{
+    "content_name": "51125.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Frank Belknap Long", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51125/51125-h/images/bcover.jpg", 
+        "http://www.gutenberg.org/files/51125/51125-h/images/cover.jpg"
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 785, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Mars is my Destination", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51125/pg51125.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12934773-mars-is-my-destination", 
+        "found": true, 
+        "year": 1962
+    }, 
+    "similar_books": [], 
+    "description": "PLANET IN DANGER<br /><br />There was trouble brewing on Mars\u2014bad trouble. Two giant industrial empires fought for control there, and their struggle imperiled the whole Mars colony. Civil war\u2014atomic civil war second\u2014could break out any second, leaving Earth\u2019s only foothold in space a mass of radioactive rubble. <br /><br />One man was needed to take charge\u2014one man who could act fast and decisively, brutally if he had to. <br /><br />Ralph Graham got the job. <br /><br />And then the people around him started to die...", 
+    "format": "Mass Market Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51125", 
+        "num": 51125
+    }, 
+    "authors": [
+        171
+    ], 
+    "pages": 158, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-02-04T00:00:00", 
+    "author": 171, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "novels", 
+        "scifi-new-wave-1960-1979", 
+        "scifi", 
+        "pulp-fiction", 
+        "owned", 
+        "old-skool", 
+        "dead-tree", 
+        "frank-belknap-long", 
+        "sf", 
+        "fiction", 
+        "science-fiction", 
+        "collection", 
+        "i-own", 
+        "s-f", 
+        "eventually-to-be-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

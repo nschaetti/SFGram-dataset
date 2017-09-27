@@ -1,0 +1,45 @@
+{
+    "content_name": "29326.txt.utf-8", 
+    "author_name": "S. P. Meek", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29326/29326-h/images/image_001.jpg"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 738, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Great Drought", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19898610-the-great-drought", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29326", 
+        "num": 29326
+    }, 
+    "authors": [
+        139
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-07-05T00:00:00", 
+    "author": 139, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "unread"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

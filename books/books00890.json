@@ -1,0 +1,39 @@
+{
+    "content_name": "51533.txt.utf-8", 
+    "author_name": "Donald Colvin", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51533/51533-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51533/51533-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 890, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Celestial Hammerlock", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51533/pg51533.cover.medium.jpg", 
+    "goodreads": {
+        "found": false
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51533", 
+        "num": 51533
+    }, 
+    "authors": [
+        268
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-03-23T00:00:00", 
+    "author": 268, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

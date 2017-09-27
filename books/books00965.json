@@ -1,0 +1,69 @@
+{
+    "content_name": "26867.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Harry Stephen Keeler", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26867/26867-h/images/001.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0050-image1.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0050.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0051.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0052.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0053.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0054.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0055.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0056.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0057.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0058.png", 
+        "http://www.gutenberg.org/files/26867/26867-page-images/p0059.png"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 965, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "John Jones's Dollar", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.24, 
+    "rating_count": 22, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8208257-john-jones-s-dollar", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26867", 
+        "num": 26867
+    }, 
+    "authors": [
+        296
+    ], 
+    "pages": 22, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-10-10T00:00:00", 
+    "author": 296, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "sci-fi", 
+        "on-kindle", 
+        "hall-of-fame", 
+        "13", 
+        "currently-reading", 
+        "mystery", 
+        "kindle", 
+        "classics", 
+        "sci-fi-fantasy", 
+        "6-stars", 
+        "crime-mystery"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

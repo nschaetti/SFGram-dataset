@@ -1,0 +1,56 @@
+{
+    "content_name": "23920.txt.utf-8", 
+    "author_name": "Anne Walker", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23920/23920-h/images/001.png", 
+        "http://www.gutenberg.org/files/23920/23920-h/images/002.png", 
+        "http://www.gutenberg.org/files/23920/23920-h/images/003.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 705, 
+    "category": "Text", 
+    "plot": "Three generations of the Leonides family live together under wealthy patriarch Aristide. His first wife died; her sister Edith has cared for the household since then. His second wife is the indolent Brenda, decades his junior, suspected of having a clandestine love affair with the grandchildren's tutor. After Aristide is poisoned by his own eye medicine (eserine), his granddaughter Sophia tells narrator and fianc\u00e9 Charles Hayward that they cannot marry until the killer is apprehended. Charles' father, \"The Old Man\", is the Assistant Commissioner of Scotland Yard, so Charles investigates from the inside along with assigned detective, Chief Inspector Taverner.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "A Matter of Proportion", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Crooked_House", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.67, 
+    "rating_count": 6, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20653665-a-matter-of-proportion", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23920", 
+        "num": 23920
+    }, 
+    "authors": [
+        232
+    ], 
+    "language": "English", 
+    "country": 1, 
+    "release_date": "2007-12-19T00:00:00", 
+    "author": 232, 
+    "original_title": "Crooked House", 
+    "summary": "Crooked House is a work of detective fiction by Agatha Christie first published in the US by Dodd, Mead and Company in March 1949 and in the UK by the Collins Crime Club on 23 May of the same year.\nThe action takes place in and near London in the autumn of 1947. Christie said this and Ordeal by Innocence were her favourites. It is one of only five Christie novels not to have received a screen adaptation (although one is planned) - the others being Death Comes as the End, Destination Unknown, Passenger to Frankfurt, and Postern of Fate.", 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "sfbywomen", 
+        "disabilitystudies", 
+        "sf", 
+        "short-story", 
+        "14", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

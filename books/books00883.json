@@ -1,0 +1,43 @@
+{
+    "content_name": "32353.txt.utf-8", 
+    "author_name": "Winston K. Marks", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32353/32353-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32353/32353-h/images/illus1.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 883, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Mind Digger", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.5, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32353/pg32353.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8584836-the-mind-digger", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32353", 
+        "num": 32353
+    }, 
+    "authors": [
+        228
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-05-12T00:00:00", 
+    "author": 228, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

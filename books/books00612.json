@@ -1,0 +1,52 @@
+{
+    "content_name": "50138.txt.utf-8", 
+    "isbn": "1434452182", 
+    "author_name": "Robert Moore Williams", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50138/50138-h/images/cover.jpg"
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 612, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Doomsday Eve", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.75, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50138/pg50138.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6973590-doomsday-eve", 
+        "found": true, 
+        "year": 1957
+    }, 
+    "similar_books": [], 
+    "description": "In the midst of the war -- that terrible conflict that threatened humanity's total destruction -- the \"new people\" suddenly appeared. Quietly performing incredible deeds, vanishing at will, they were an enigma to both sides. Kurt Zen was an American intelligence officer among the many sent to root them out.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50138", 
+        "num": 50138
+    }, 
+    "authors": [
+        135
+    ], 
+    "pages": 140, 
+    "language": "English", 
+    "isbn13": "9781434452184", 
+    "country": 3, 
+    "release_date": "2015-10-05T00:00:00", 
+    "author": 135, 
+    "content_cleaned": true, 
+    "classes": [
+        "transhuman", 
+        "science-fiction", 
+        "currently-reading", 
+        "to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

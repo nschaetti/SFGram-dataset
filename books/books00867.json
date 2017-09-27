@@ -1,0 +1,67 @@
+{
+    "content_name": "32077.txt.utf-8", 
+    "isbn": "1463898312", 
+    "author_name": "Winston K. Marks", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32077/32077-h/images/back_cover.jpg", 
+        "http://www.gutenberg.org/files/32077/32077-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32077/32077-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/32077/32077-h/images/image_i.jpg", 
+        "http://www.gutenberg.org/files/32077/32077-h/images/image_j.jpg", 
+        "http://www.gutenberg.org/files/32077/32077-h/images/image_m.jpg", 
+        "http://www.gutenberg.org/files/32077/32077-h/images/image_t.jpg", 
+        "http://www.gutenberg.org/files/32077/32077-h/images/image_w.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 867, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Breeder Reaction", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.25, 
+    "rating_count": 10, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32077/pg32077.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14403093-breeder-reaction", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "The advertising game is not as cut and dried as many people think. Sometimes you spend a million dollars and get no results, and then some little low-budget campaign will catch the public's fancy and walk away with merchandising honors of the year.<br /><br />Let me sound a warning, however. When this happens, watch out! There's always a reason for it, and it isn't always just a matter of bright slogans and semantic genius. Sometimes the product itself does the trick. And when this happens people in the industry lose their heads trying to capitalize on the \"freak\" good fortune.<br /><br />This can lead to disaster. May I cite one example?<br /><br />I was on loan to Elaine Templeton, Inc., the big cosmetics firm, when one of these \"prairie fires\" took off and, as product engineer from the firm of Bailey Hazlitt &amp; Persons, Advertising Agency, I figured I had struck pure gold. My assay was wrong. It was fool's gold on a pool of quicksand.", 
+    "format": "Hardcover", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32077", 
+        "num": 32077
+    }, 
+    "authors": [
+        228
+    ], 
+    "pages": 24, 
+    "language": "English", 
+    "isbn13": "9781463898311", 
+    "country": 3, 
+    "release_date": "2010-04-21T00:00:00", 
+    "author": 228, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "library", 
+        "hd", 
+        "e-books", 
+        "science-fiction", 
+        "owned-pending-kindle-free-ebook", 
+        "calibre", 
+        "archive", 
+        "books-i-own", 
+        "a-fantasy-and-sci-fi", 
+        "mainstream-lit"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

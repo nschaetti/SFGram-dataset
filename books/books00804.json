@@ -1,0 +1,62 @@
+{
+    "content_name": "30307.txt.utf-8", 
+    "author_name": "Anthony Gilmore", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30307/30307-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_a.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_c.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_d.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_f.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_h.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_i.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_j.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_n.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_o.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_t.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_u.jpg", 
+        "http://www.gutenberg.org/files/30307/30307-h/images/image_w.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 804, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Hawk Carse", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 2, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/30307/pg30307.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/24118271-hawk-carse", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30307", 
+        "num": 30307
+    }, 
+    "authors": [
+        104
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-10-21T00:00:00", 
+    "author": 104, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "space-opera", 
+        "science-fiction", 
+        "public-domain", 
+        "calibre"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

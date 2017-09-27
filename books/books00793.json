@@ -1,0 +1,60 @@
+{
+    "content_name": "26093.txt.utf-8", 
+    "author_name": "Raymond F. Jones", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26093/26093-h/images/001.png", 
+        "http://www.gutenberg.org/files/26093/26093-h/images/002.png"
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 793, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Memory of Mars", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.64, 
+    "rating_count": 8, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6395122-the-memory-of-mars", 
+        "found": true, 
+        "year": 1961
+    }, 
+    "similar_books": [], 
+    "description": "\"As soon as I'm well we'll go to Mars for a vacation again,\" Alice would say. But now she was dead, and the surgeons said she was not even human. In his misery, Hastings knew two things: he loved his wife; but they had never been off Earth!<br /><br />A novelet from the Golden Age of Science Fiction, originally published in the December, 1961 issue of Amazing Stories magazine!", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26093", 
+        "num": 26093
+    }, 
+    "authors": [
+        129
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-07-19T00:00:00", 
+    "author": 129, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "to-read-short-stories", 
+        "reviewed", 
+        "sci-fi-fantasy", 
+        "short-fiction", 
+        "20th-century", 
+        "old-sci-fi", 
+        "unread", 
+        "sci-fi", 
+        "pulp", 
+        "ebooks", 
+        "science-fiction", 
+        "eb-other", 
+        "eb", 
+        "feedbooks-com"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

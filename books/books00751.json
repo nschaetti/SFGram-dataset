@@ -1,0 +1,64 @@
+{
+    "content_name": "19660.txt.utf-8", 
+    "isbn": "1421835185", 
+    "author_name": "E. Everett Evans", 
+    "images_urls": [], 
+    "year": 1953, 
+    "images": [], 
+    "id": 751, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Man of Many Minds", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Man_of_Many_Minds", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.73, 
+    "rating_count": 14, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/2084248.Man_of_Many_Minds", 
+        "found": true, 
+        "year": 1953
+    }, 
+    "similar_books": [], 
+    "description": "Cadet George Hanlon stood stiffly at attention. But as the long, long minutes dragged on and on, he found his hands, his spine and his forehead cold with the sweat of fear. He tried manfully to keep his eyes fixed steadily on that emotionless face before him, but found it almost impossible to do so. Tension grew and grew and grew in the room until it seemed the very walls must bulge, or the windows burst to relieve the pressure. The cadet felt he could not stand another minute of it without screaming. Why didn't that monster say something? What kind of torture was this, anyway? And why was he here in the first place? He couldn't think of a single reg he had broken-yet why else would he be called before Admiral Rogers, the dread Commandant of Cadets?", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/19660", 
+        "num": 19660
+    }, 
+    "authors": [
+        38
+    ], 
+    "pages": 256, 
+    "language": "English", 
+    "isbn13": "9781421835181", 
+    "country": 2, 
+    "release_date": "2006-10-29T00:00:00", 
+    "author": 38, 
+    "original_title": "Man of Many Minds", 
+    "summary": "Man of Many Minds is a science fiction novel by author E. Everett Evans. It was first published in 1953 by Fantasy Press in an edition of 3,558 copies. The book includes an introduction by E. E. Smith.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "20th-century-lit", 
+        "wish-list", 
+        "project-gutenberg", 
+        "default", 
+        "bin-007", 
+        "scifi", 
+        "2fiction", 
+        "swapped-or-donated", 
+        "read-in-2014", 
+        "1paper", 
+        "x-sf", 
+        "own-sf", 
+        "sf"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

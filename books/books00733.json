@@ -1,0 +1,48 @@
+{
+    "content_name": "29989.txt.utf-8", 
+    "isbn": "0865711054", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29989/29989-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/29989/29989-h/images/image_i.jpg"
+    ], 
+    "year": 1987, 
+    "images": [], 
+    "id": 733, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Outbreak of Peace", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Missing_Peace", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 5.0, 
+    "rating_count": 3, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/2090656.An_Outbreak_of_Peace", 
+        "found": true, 
+        "year": 1987
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29989", 
+        "num": 29989
+    }, 
+    "authors": [
+        94
+    ], 
+    "language": "English", 
+    "isbn13": "9780865711051", 
+    "country": 2, 
+    "release_date": "2009-09-14T00:00:00", 
+    "author": 94, 
+    "original_title": "The Missing Peace", 
+    "summary": "The Missing Peace: The Inside Story of the Fight for Middle East Peace (ISBN 0-374-19973-6) is a 2004 non-fiction book by Dennis Ross on the history of and his participation in the Israeli\u2013Palestinian peace process and the Arab\u2013Israeli peace process. Ross, an American diplomat, was the Director of Policy Planning in the State Department under President George H. W. Bush and the special Middle East coordinator under President Bill Clinton.\n\n", 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

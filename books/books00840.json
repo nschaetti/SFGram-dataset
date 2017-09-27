@@ -1,0 +1,47 @@
+{
+    "content_name": "28437.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Allan Howard", 
+    "images_urls": [], 
+    "year": 2009, 
+    "images": [], 
+    "id": 840, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "It's a Small Solar System", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.74, 
+    "rating_count": 11, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/9749568-it-s-a-small-solar-system", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/28437", 
+        "num": 28437
+    }, 
+    "authors": [
+        264
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-03-29T00:00:00", 
+    "author": 264, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "audiobooks", 
+        "short-story", 
+        "14", 
+        "sci-fi", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,73 @@
+{
+    "content_name": "23791.txt.utf-8", 
+    "author_name": "Murray Leinster", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23791/23791-h/images/001.png", 
+        "http://www.gutenberg.org/files/23791/23791-h/images/002.png", 
+        "http://www.gutenberg.org/files/23791/23791-h/images/003.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p129-image.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p129.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p130.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p131.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p132.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p133.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p134.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p135.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p136.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p137-image.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p137.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p138.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p139.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p140.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p141.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p142-image.png", 
+        "http://www.gutenberg.org/files/23791/23791-page-images/p142.png"
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 689, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Scrimshaw", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.44, 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8708869-scrimshaw", 
+        "found": true, 
+        "year": 1955
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23791", 
+        "num": 23791
+    }, 
+    "authors": [
+        61
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-10T00:00:00", 
+    "author": 61, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "audiobooks", 
+        "currently-reading", 
+        "library", 
+        "owned-pending-kindle-free-ebook", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "scifi", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

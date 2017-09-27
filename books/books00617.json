@@ -1,0 +1,78 @@
+{
+    "content_name": "30267.txt.utf-8", 
+    "isbn": "0786018747", 
+    "language_code": "eng", 
+    "author_name": "T. R. Fehrenbach", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30267/30267-h/images/image_001_01.jpg", 
+        "http://www.gutenberg.org/files/30267/30267-h/images/image_001_02.jpg", 
+        "http://www.gutenberg.org/files/30267/30267-h/images/image_o.jpg", 
+        "http://www.gutenberg.org/files/30267/30267-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/30267/30267-h/images/image_t.jpg"
+    ], 
+    "year": 2007, 
+    "images": [], 
+    "id": 617, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Remember the Alamo!", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.26, 
+    "rating_count": 68, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/693588.Remember_the_Alamo", 
+        "found": true, 
+        "year": 2007
+    }, 
+    "similar_books": [], 
+    "description": "The Battle of the Alamo is about to be fought all over again! William J. Johnstone, the author of \"Vengeance is Mine\" and \"Invasion USA \" sounds another wake-up call with his latest action-packed novel set on America's most dangerous battleground: its own border.<br /><br />Remember The Alamo<br /><br />Only career politicians could dream up a stunt like this: courting the growing Hispanic community that keeps them in office, the geniuses in charge in San Antonio agree to grant temporary dominion over the Alamo to the Mexican government for a week-long celebration. That doesn't sit too well with Gulf War vet Phil Cody, who remembers his Texas history.<br /><br />With veterans from wars as far back as WWII, Cody organizes a nonviolent protest on the day of the handover. But word comes from Mexico that the reconquistadors--anti-American extremists determined to reassert Mexican control over the southwestern U.S. by the bloodiest means necessary--are planning to take over the Alamo permanently. Peace becomes war.<br /><br />Despite ample warning, the American authorities twiddle their thumbs when the reconquistadors make their move, leaving it up to Cody and his band of patriots, who are seriously outnumbered and outgunned, to protect the Alamo. Left out to dry by their own government, history repeats itself as Americans are once again besieged and forced to take a stand to preserve their heritage.<br /><br />When this battle is over, America will have a new reason to Remember The Alamo.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30267", 
+        "num": 30267
+    }, 
+    "authors": [
+        207
+    ], 
+    "pages": 304, 
+    "language": "English", 
+    "isbn13": "9780786018741", 
+    "country": 3, 
+    "release_date": "2009-10-16T00:00:00", 
+    "author": 207, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "fiction", 
+        "default", 
+        "westerns", 
+        "owned", 
+        "not-read-william-johnstone", 
+        "ebooks", 
+        "books", 
+        "johnstone-stand-alone", 
+        "read-2015", 
+        "owned-hardbacks", 
+        "military", 
+        "keepers", 
+        "unread-westerns", 
+        "larry-s-books", 
+        "johnstone", 
+        "political", 
+        "action-adventure", 
+        "my-shelf", 
+        "thriller-adventure", 
+        "own-it", 
+        "kingdom-readers-knight-level", 
+        "johnstone--william-w", 
+        "history", 
+        "william-johnstone"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

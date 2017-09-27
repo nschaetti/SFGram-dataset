@@ -1,0 +1,54 @@
+{
+    "content_name": "29046.txt.utf-8", 
+    "isbn": "149965331X", 
+    "author_name": "George Henry Weiss", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29046/29046-h/images/image_001.jpg"
+    ], 
+    "year": 2014, 
+    "images": [], 
+    "id": 938, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Heads of Apex", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.0, 
+    "rating_count": 1, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/22342481-the-heads-of-apex", 
+        "found": true, 
+        "year": 2014
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic, timeless works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29046", 
+        "num": 29046
+    }, 
+    "authors": [
+        286
+    ], 
+    "pages": 26, 
+    "language": "English", 
+    "isbn13": "9781499653311", 
+    "country": 3, 
+    "release_date": "2009-06-05T00:00:00", 
+    "author": 286, 
+    "content_cleaned": true, 
+    "classes": [
+        "vampires", 
+        "fantasy", 
+        "atlantis", 
+        "sci-fi", 
+        "pulp", 
+        "horror", 
+        "fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

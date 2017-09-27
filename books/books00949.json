@@ -1,0 +1,57 @@
+{
+    "content_name": "29618.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Robert Arthur", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29618/29618-h/images/001.png", 
+        "http://www.gutenberg.org/files/29618/29618-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/29618/29618-h/images/002-2.jpg"
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 949, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Aggravation of Elmer", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.26, 
+    "rating_count": 14, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/16053013-the-aggravation-of-elmer", 
+        "found": true, 
+        "year": 1955
+    }, 
+    "similar_books": [], 
+    "description": "Short story<br /><b>The world would beat a path to Elmer's door\u2014but he had to go carry the door along with him! </b><br /><br />Public Domain story from Project Gutenberg.<br />First published in <i>\u201dGalaxy Science Fiction\u201d</i>", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29618", 
+        "num": 29618
+    }, 
+    "authors": [
+        169
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-08-05T00:00:00", 
+    "author": 169, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "short-story", 
+        "read-in-21st-century", 
+        "audio-obtained", 
+        "to-read", 
+        "would-have-re-read", 
+        "what-fun", 
+        "sci-fi", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

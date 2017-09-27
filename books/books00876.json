@@ -1,0 +1,45 @@
+{
+    "content_name": "51304.txt.utf-8", 
+    "author_name": "Joe Gibson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51304/51304-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51304/51304-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51304/51304-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51304/51304-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 876, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "A Touch of E Flat", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51304/pg51304.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/32702852-a-touch-of-e-flat", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51304", 
+        "num": 51304
+    }, 
+    "authors": [
+        200
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-02-26T00:00:00", 
+    "author": 200, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,71 @@
+{
+    "content_name": "32162.txt.utf-8", 
+    "isbn": "146380086X", 
+    "author_name": "Paul W. Fairman", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32162/32162-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32162/32162-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/32162/32162-h/images/image_a.jpg", 
+        "http://www.gutenberg.org/files/32162/32162-h/images/image_j.jpg", 
+        "http://www.gutenberg.org/files/32162/32162-h/images/image_k.jpg", 
+        "http://www.gutenberg.org/files/32162/32162-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/32162/32162-h/images/image_t.jpg", 
+        "http://www.gutenberg.org/files/32162/32162-h/images/image_t1.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 912, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Beasts in the Void", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.83, 
+    "rating_count": 8, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32162/pg32162.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14402729-the-beasts-in-the-void", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "Holloway was used to big game hunters and their expeditions to other worlds. But this trip was sheer madness -- a space ship stalking among -- the beasts in the void.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32162", 
+        "num": 32162
+    }, 
+    "authors": [
+        221
+    ], 
+    "pages": 32, 
+    "language": "English", 
+    "isbn13": "9781463800864", 
+    "country": 3, 
+    "release_date": "2010-04-28T00:00:00", 
+    "author": 221, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "21st-century-lit", 
+        "under-050-pages", 
+        "free-from-amazon", 
+        "librivox-short-story-collection-046", 
+        "audiobooks", 
+        "kindle", 
+        "short-story", 
+        "audio-obtained", 
+        "dberoticao", 
+        "database", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "x-eo", 
+        "collection1"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

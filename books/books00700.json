@@ -1,0 +1,52 @@
+{
+    "content_name": "25234.txt.utf-8", 
+    "isbn": "3655239645", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/25234/25234-h/images/img-61.png", 
+        "http://www.gutenberg.org/files/25234/25234-h/images/img-68.png", 
+        "http://www.gutenberg.org/files/25234/25234-h/images/img-75.png"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 700, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Cum Grano Salis", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.3, 
+    "rating_count": 7, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12944468-cum-grano-salis", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/25234", 
+        "num": 25234
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "isbn13": "9783655239643", 
+    "country": 3, 
+    "release_date": "2008-04-29T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "free-from-amazon", 
+        "classic", 
+        "reino-unido", 
+        "fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

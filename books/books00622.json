@@ -1,0 +1,47 @@
+{
+    "content_name": "30437.txt.utf-8", 
+    "author_name": "Gerald Vance", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30437/30437-h/images/001.png", 
+        "http://www.gutenberg.org/files/30437/30437-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/30437/30437-h/images/002-2.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 622, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Larson's Luck", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.5, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8708970-larson-s-luck", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30437", 
+        "num": 30437
+    }, 
+    "authors": [
+        185
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-11-09T00:00:00", 
+    "author": 185, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "15", 
+        "to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

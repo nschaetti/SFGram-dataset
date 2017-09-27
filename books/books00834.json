@@ -1,0 +1,76 @@
+{
+    "content_name": "28118.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Raymond F. Jones", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/28118/28118-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/28118/28118-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/28118/28118-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/28118/28118-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/28118/28118-h/images/illus4.jpg", 
+        "http://www.gutenberg.org/files/28118/28118-h/images/illus5.jpg", 
+        "http://www.gutenberg.org/files/28118/28118-h/images/illus6.jpg", 
+        "http://www.gutenberg.org/files/28118/28118-h/images/illus7.jpg"
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 834, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Great Gray Plague", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.7, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/28118/pg28118.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10741156-the-great-gray-plague", 
+        "found": true, 
+        "year": 1962
+    }, 
+    "similar_books": [], 
+    "description": "This Halcyon Classics ebook is Raymond F. Jones' sci-fi thriller THE GREAT GREY PLAGUE. <br /><br />There is no enemy so hard to fight as a dull gray fog. It's not solid enough to beat, too indefinite to kill, and too omnipresent to escape.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/28118", 
+        "num": 28118
+    }, 
+    "authors": [
+        129
+    ], 
+    "language": "English", 
+    "isbn13": "2940011833090", 
+    "country": 3, 
+    "release_date": "2009-02-18T00:00:00", 
+    "author": 129, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "ebook", 
+        "science-fiction", 
+        "fiction", 
+        "owned", 
+        "20th-century", 
+        "random-project-gutenberg", 
+        "unread", 
+        "to-read-1", 
+        "ebooks", 
+        "sf-fantasy", 
+        "eb-other", 
+        "eb", 
+        "short-stories", 
+        "13", 
+        "e-books", 
+        "read-in-2013", 
+        "science", 
+        "general", 
+        "fantasy", 
+        "adventure", 
+        "my-books", 
+        "to-read-temp"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

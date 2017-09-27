@@ -1,0 +1,52 @@
+{
+    "content_name": "24189.txt.utf-8", 
+    "isbn": "3655229259", 
+    "author_name": "David Mason", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24189/24189-h/images/illus01.png", 
+        "http://www.gutenberg.org/files/24189/24189-h/images/illus02.png"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 887, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Something Will Turn Up", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.45, 
+    "rating_count": 10, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12656483-something-will-turn-up", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24189", 
+        "num": 24189
+    }, 
+    "authors": [
+        271
+    ], 
+    "language": "English", 
+    "isbn13": "9783655229255", 
+    "country": 3, 
+    "release_date": "2008-01-07T00:00:00", 
+    "author": 271, 
+    "content_cleaned": true, 
+    "classes": [
+        "short-story", 
+        "audio-obtained-lvss", 
+        "15", 
+        "science-fiction", 
+        "sci-fi", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

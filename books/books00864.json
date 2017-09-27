@@ -1,0 +1,41 @@
+{
+    "content_name": "50889.txt.utf-8", 
+    "author_name": "Donald Colvin", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50889/50889-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50889/50889-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/50889/50889-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/50889/50889-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 864, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Half past Alligator", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50889/pg50889.cover.medium.jpg", 
+    "goodreads": {
+        "found": false
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50889", 
+        "num": 50889
+    }, 
+    "authors": [
+        268
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-01-10T00:00:00", 
+    "author": 268, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

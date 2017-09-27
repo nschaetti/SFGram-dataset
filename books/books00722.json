@@ -1,0 +1,52 @@
+{
+    "content_name": "50668.txt.utf-8", 
+    "author_name": "Jack Sharkey", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50668/50668-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50668/50668-h/images/illus.jpg"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 722, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Secret Martians", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.33, 
+    "rating_count": 5, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50668/pg50668.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8784340-the-secret-martians", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50668", 
+        "num": 50668
+    }, 
+    "authors": [
+        205
+    ], 
+    "language": "English", 
+    "isbn13": "2940000131244", 
+    "country": 3, 
+    "release_date": "2015-12-11T00:00:00", 
+    "author": 205, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "21st-century-lit", 
+        "science-fiction", 
+        "adventure", 
+        "e-books", 
+        "sf"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

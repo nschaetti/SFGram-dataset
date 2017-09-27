@@ -1,0 +1,51 @@
+{
+    "content_name": "29401.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "S. P. Meek", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29401/29401-h/images/illus.jpg"
+    ], 
+    "year": 1931, 
+    "images": [], 
+    "id": 641, 
+    "category": "Text", 
+    "plot": "The main protagonist of the novel is Dane Thorson, Cargo-master-apprentice on the Free Trader rocket ship the Solar Queen. Free Traders take on trading contracts on remote and recently discovered planets, which can be dangerous and unpredictable.\nThe Solar Queen has recently obtained a valuable trading contract on the planet Sargol and are building a relationship with one of the races on the planet, the cat-like Salariki. The process goes slowly till the Salariki discover that the Solar Queen is carrying catnip and other plants from Terra that are unknown on Sargol. The traders exchange what little of the plants they have for the rare and valuable Koros stones and collect a native red-colored wood to exchange at home. At the last minute the storm priests of the Salariki demand that the Solar Queen take a pre-paid contract to return within 6 months with more plants.\nA few days after leaving the planet, several members of the crew suffer from attacks, which start with severe headaches and end in a semi-coma state. Only 4 of the younger members of the crew are unaffected, including Dane Thorson. Upon exiting hyperspace on return to the vicinity of Terra, the crew discovers that they are pariah and have been declared a plague ship.\nOn the short hop to earth, the crew discovers that pests have invaded the ship and are the cause of the illness. In a final bid to prove their case they kidnap a medic and present his evidence by video to a solar-system-wide audience, which is successful.\nIn the meantime the rest of the crew have recovered, and after a final effort of negotiation the Solar Queen preserves its reputation by selling the contract with the Salariki to a large intergalactic trading company in exchange for credits and a quiet inter-solar mail route, which should lead to no more trouble.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Solar Magnet", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Plague_Ship", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 5.0, 
+    "rating_count": 0, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12267946-the-solar-magnet", 
+        "found": true, 
+        "year": 1931
+    }, 
+    "similar_books": [], 
+    "description": "\u201cThe Solar Magnet\u201d is a short science fiction novel written in 1931 for Astounding Stories magazine. This is another episode in Dr. Bird's long scientific duel with his country's arch-enemy, Saranoff. It is a pleasure to publish this new, high quality, and affordable edition of this timeless story.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29401", 
+        "num": 29401
+    }, 
+    "authors": [
+        139
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2009-07-13T00:00:00", 
+    "author": 139, 
+    "original_title": "Plague Ship", 
+    "summary": "Plague Ship is a science fiction novel by author Andrew North (pseudonym of Alice Mary Norton, also known as Andre Norton). It was published in 1956 by Gnome Press in an edition of 5,000 copies. The book is the second volume of the author's Solar Queen series.\n\n", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

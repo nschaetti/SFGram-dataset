@@ -1,0 +1,58 @@
+{
+    "content_name": "24723.txt.utf-8", 
+    "author_name": "Everett B. Cole", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24723/24723-h/images/001.png", 
+        "http://www.gutenberg.org/files/24723/24723-h/images/002.png", 
+        "http://www.gutenberg.org/files/24723/24723-h/images/003.png", 
+        "http://www.gutenberg.org/files/24723/24723-h/images/004.png", 
+        "http://www.gutenberg.org/files/24723/24723-h/images/005.png", 
+        "http://www.gutenberg.org/files/24723/24723-h/images/006-1.jpg", 
+        "http://www.gutenberg.org/files/24723/24723-h/images/006-2.jpg"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 683, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Final Weapon", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.67, 
+    "rating_count": 3, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8360991-final-weapon", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24723", 
+        "num": 24723
+    }, 
+    "authors": [
+        224
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-03-01T00:00:00", 
+    "author": 224, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "owned", 
+        "21st-century-lit", 
+        "owned-pending-kindle-free-ebook", 
+        "unread", 
+        "unknown-genre", 
+        "did-not-finish", 
+        "to-purchase", 
+        "available-on-website"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

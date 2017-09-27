@@ -1,0 +1,50 @@
+{
+    "content_name": "29698.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Nelson Slade Bond", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29698/29698-h/images/001-1.jpg", 
+        "http://www.gutenberg.org/files/29698/29698-h/images/001-2.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 944, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Lighter Than You Think", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.29, 
+    "rating_count": 7, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/21045846-lighter-than-you-think", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "format": "Kindle Edition", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29698", 
+        "num": 29698
+    }, 
+    "authors": [
+        288
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-08-15T00:00:00", 
+    "author": 288, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-story", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

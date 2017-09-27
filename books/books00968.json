@@ -1,0 +1,51 @@
+{
+    "content_name": "51234.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Ann Griffith", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51234/51234-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51234/51234-h/images/illus.jpg"
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 968, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Zeritsky's Law", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.33, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51234/pg51234.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29613608-zeritsky-s-law", 
+        "found": true, 
+        "year": 1951
+    }, 
+    "similar_books": [], 
+    "description": "<i>Why bother building a time machine when there's something much easier to find right in your own kitchen?</i><br /><br />A short story from the pages of Galaxy Science Fiction Magazine, November 1951.", 
+    "format": "ebook", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51234", 
+        "num": 51234
+    }, 
+    "authors": [
+        298
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-02-16T00:00:00", 
+    "author": 298, 
+    "content_cleaned": true, 
+    "classes": [
+        "women-writers", 
+        "short-stories", 
+        "2016-challenges", 
+        "additions"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

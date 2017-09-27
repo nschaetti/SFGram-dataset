@@ -1,0 +1,50 @@
+{
+    "content_name": "24495.txt.utf-8", 
+    "author_name": "Nathaniel Gordon", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24495/24495-h/images/gj001a.jpg"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 951, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Golden Judge", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.25, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6328970-the-golden-judge", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PZ: Language and Literatures: Juvenile belles lettres", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24495", 
+        "num": 24495
+    }, 
+    "authors": [
+        290
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-02-02T00:00:00", 
+    "author": 290, 
+    "content_cleaned": true, 
+    "classes": [
+        "currently-reading", 
+        "science-fiction", 
+        "junk", 
+        "on-tablet", 
+        "should-try-to-read", 
+        "short-story", 
+        "to-read", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

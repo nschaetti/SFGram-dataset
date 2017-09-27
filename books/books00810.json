@@ -1,0 +1,50 @@
+{
+    "content_name": "24965.txt.utf-8", 
+    "author_name": "Winston K. Marks", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24965/24965-h/images/001.png"
+    ], 
+    "year": 2014, 
+    "images": [], 
+    "id": 810, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Deadly Daughters", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.43, 
+    "rating_count": 77, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/23835504-the-deadly-daughter-in-law", 
+        "found": true, 
+        "year": 2014
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24965", 
+        "num": 24965
+    }, 
+    "authors": [
+        228
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-03-30T00:00:00", 
+    "author": 228, 
+    "content_cleaned": true, 
+    "classes": [
+        "currently-reading", 
+        "crime-stories-murder", 
+        "don-t-have-yet", 
+        "true-crime", 
+        "notorious-usa", 
+        "july-2015", 
+        "c", 
+        "201507"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

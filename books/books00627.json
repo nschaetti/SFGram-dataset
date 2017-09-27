@@ -1,0 +1,51 @@
+{
+    "content_name": "19370.txt.utf-8", 
+    "isbn": "1974427307", 
+    "author_name": "H. Beam Piper", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/19370/19370-h/images/image_01.jpg", 
+        "http://www.gutenberg.org/files/19370/19370-h/images/image_02.jpg", 
+        "http://www.gutenberg.org/files/19370/19370-h/images/image_03.jpg", 
+        "http://www.gutenberg.org/files/19370/19370-h/images/image_04.jpg", 
+        "http://www.gutenberg.org/files/19370/19370-h/images/image_05.jpg", 
+        "http://www.gutenberg.org/files/19370/19370-h/images/image_06.jpg", 
+        "http://www.gutenberg.org/files/19370/19370-h/images/image_07.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 627, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Ullr Uprising", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/36028687-ullr-uprising-a-story-in-two-parts", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/19370", 
+        "num": 19370
+    }, 
+    "authors": [
+        19
+    ], 
+    "language": "English", 
+    "isbn13": "9781974427307", 
+    "country": 3, 
+    "release_date": "2006-09-25T00:00:00", 
+    "author": 19, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

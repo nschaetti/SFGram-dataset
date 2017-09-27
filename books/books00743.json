@@ -1,0 +1,58 @@
+{
+    "content_name": "24161.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Roger Kuykendall", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24161/24161-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/24161/24161-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/24161/24161-h/images/illus3.jpg"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 743, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "All Day September", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/9774844-all-day-september", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24161", 
+        "num": 24161
+    }, 
+    "authors": [
+        241
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-04T00:00:00", 
+    "author": 241, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "to-read", 
+        "short-story", 
+        "pg", 
+        "audio-obtained", 
+        "adult-fiction", 
+        "kuykendall-roger", 
+        "look-for-in-ebooks", 
+        "sci-fi", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "fiction", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

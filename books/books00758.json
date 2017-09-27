@@ -1,0 +1,47 @@
+{
+    "content_name": "37448.txt.utf-8", 
+    "author_name": "Raymond Z. Gallun", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/37448/37448-h/images/backimg_1.png", 
+        "http://www.gutenberg.org/files/37448/37448-h/images/cover_3.jpg", 
+        "http://www.gutenberg.org/files/37448/37448-h/images/frontimg_2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 758, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Comet's Burial", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/37448/pg37448.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/33817352-comet-s-burial", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/37448", 
+        "num": 37448
+    }, 
+    "authors": [
+        148
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2011-09-17T00:00:00", 
+    "author": 148, 
+    "content_cleaned": true, 
+    "classes": [
+        "unknown-publication-dates", 
+        "to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

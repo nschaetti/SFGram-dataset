@@ -1,0 +1,59 @@
+{
+    "content_name": "24118.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Roger Kuykendall", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24118/24118-h/images/hardly1.jpg"
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 812, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "We Didn't Do Anything Wrong, Hardly", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.33, 
+    "rating_count": 14, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/17567427-we-didn-t-do-anything-wrong-hardly", 
+        "found": true, 
+        "year": 1959
+    }, 
+    "similar_books": [], 
+    "description": "<b>After all\u2014they only borrowed it a little while, just to fix it\u2014 </b><br /><i>Science Fiction - Children build a spaceship</i><br /><br />Play Duration: 00:08:55<br />Public Domain stories from Project Gutenberg, that are read by volunteers. <br />First published in <i>\u201dAstounding Science Fiction\u201d</i> <br /><br /><u>Free download from LibriVox.org</u> <br />Down load file sizes<br />[mp3@64kbps - 4.2MB]<br />[mp3@128kbps - 8.5MB]<br />[ogg vorbis - 4.5MB]", 
+    "format": "Audiobook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24118", 
+        "num": 24118
+    }, 
+    "authors": [
+        241
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-02T00:00:00", 
+    "author": 241, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "short-story", 
+        "to-read", 
+        "audio-obtained-lvss", 
+        "calibre", 
+        "nook", 
+        "fiction", 
+        "adult-fiction", 
+        "librivox-short-scifi", 
+        "sci-fi", 
+        "scifi", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "sci-fi-fantasy"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

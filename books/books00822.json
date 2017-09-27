@@ -1,0 +1,57 @@
+{
+    "content_name": "21582.txt.utf-8", 
+    "author_name": "Patrick Fahy", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/21582/21582-page-images/p100.png", 
+        "http://www.gutenberg.org/files/21582/21582-page-images/p101a.png", 
+        "http://www.gutenberg.org/files/21582/21582-page-images/p101b.png", 
+        "http://www.gutenberg.org/files/21582/21582-page-images/p102a.png", 
+        "http://www.gutenberg.org/files/21582/21582-page-images/p102b.png", 
+        "http://www.gutenberg.org/files/21582/21582-page-images/p103a.png", 
+        "http://www.gutenberg.org/files/21582/21582-page-images/p103b.png", 
+        "http://www.gutenberg.org/files/21582/21582-page-images/p104a.png", 
+        "http://www.gutenberg.org/files/21582/21582-page-images/p104b.png"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 822, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Mightiest Man", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.56, 
+    "rating_count": 6, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11419541-the-mightiest-man", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/21582", 
+        "num": 21582
+    }, 
+    "authors": [
+        260
+    ], 
+    "language": "English", 
+    "isbn13": "2940011956881", 
+    "country": 3, 
+    "release_date": "2007-05-23T00:00:00", 
+    "author": 260, 
+    "content_cleaned": true, 
+    "classes": [
+        "short-story", 
+        "science-fiction", 
+        "sci-fi", 
+        "type-short-story", 
+        "to-read", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

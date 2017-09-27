@@ -1,0 +1,63 @@
+{
+    "content_name": "23185.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Helen M. Urban", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23185/23185-h/images/001.jpg", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/c001.jpg", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p112.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p113.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p114.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p115.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p117.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p118.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p119.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p120.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p121.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p122.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p123.png", 
+        "http://www.gutenberg.org/files/23185/23185-page-images/p124.png"
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 657, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Glory of Ippling", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/18168767-the-glory-of-ippling", 
+        "found": true, 
+        "year": 1962
+    }, 
+    "similar_books": [], 
+    "description": "Free ebook download, all formats.<br /><br />Science Fiction, Short Story, Post-1930<br /><br />He brought them life and hope.Why wouldn't the fools take it from him?", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23185", 
+        "num": 23185
+    }, 
+    "authors": [
+        215
+    ], 
+    "pages": 24, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-10-24T00:00:00", 
+    "author": 215, 
+    "content_cleaned": true, 
+    "classes": [
+        "sfbywomen", 
+        "research-transinsf", 
+        "sf", 
+        "science-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

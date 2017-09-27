@@ -1,0 +1,53 @@
+{
+    "content_name": "24122.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Joseph Paul Martino", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24122/24122-h/images/war1.jpg", 
+        "http://www.gutenberg.org/files/24122/24122-h/images/war2.jpg", 
+        "http://www.gutenberg.org/files/24122/24122-h/images/war3.jpg"
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 955, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Pushbutton War", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.17, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/17858234-pushbutton-war", 
+        "found": true, 
+        "year": 1960
+    }, 
+    "similar_books": [], 
+    "description": "<b>In one place, a descendant of the Vikings rode a ship such as Lief never dreamed of; from another, one of the descendants of the Caesars, and here an Apache rode a steed such as never roamed the plains. But they were warriors all.</b><br /><br /><i>Science Fiction </i><br />Play Duration: 00:39:39 <br />Public Domain stories from Project Gutenberg, that are read by volunteers. <br />First published in <i>\u201dAstounding Science Fiction\u201d</i> <br /><br /><u>Free download from LibriVox.org</u>", 
+    "format": "Audiobook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24122", 
+        "num": 24122
+    }, 
+    "authors": [
+        292
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-02T00:00:00", 
+    "author": 292, 
+    "content_cleaned": true, 
+    "classes": [
+        "short-story", 
+        "science-fiction", 
+        "audio-obtained-lvss", 
+        "to-read", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

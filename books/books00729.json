@@ -1,0 +1,59 @@
+{
+    "content_name": "30715.txt.utf-8", 
+    "author_name": "Jerome Bixby", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30715/30715-h/images/001.png", 
+        "http://www.gutenberg.org/files/30715/30715-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/30715/30715-h/images/002-2.jpg"
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 729, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Where There's Hope", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.28, 
+    "rating_count": 10, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8545143-where-there-s-hope", 
+        "found": true, 
+        "year": 1953
+    }, 
+    "similar_books": [], 
+    "description": "\"If you called me here to tell me to have a child,\" Mary Pornsen said, \"you can just forget about it. We girls have made up our minds.\"<br /><br />Hugh Farrel, Chief Medical Officer of the Exodus VII -- the seed ship that'd colonized this world -- sighed and leaned back in his chair. He looked at Mary's husband. \"And you, Ralph,\" he said. \"How do you feel?\"<br /><br />Ralph Pornsen looked at Mary uncomfortably, started to speak and then hesitated.<br /><br />Hugh Farrel sighed again and closed his eyes. It was that way with all the boys. The wives had the whip hand. If the husbands put up an argument, they'd simply get turned down flat: no sex at all, children or otherwise. The threat, Farrel thought wryly, made the boys softer than watered putty. His own wife, Alice, was one of the ringleaders of the \"no babies\" movement, and since he had openly declared warfare on the idea, she wouldn't even let him kiss her good-night.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30715", 
+        "num": 30715
+    }, 
+    "authors": [
+        85
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-12-19T00:00:00", 
+    "author": 85, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "scifi", 
+        "ebook", 
+        "short-stories", 
+        "contemporary", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "science-fiction", 
+        "leisure", 
+        "colonization", 
+        "fantasy", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

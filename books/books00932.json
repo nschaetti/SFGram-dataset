@@ -1,0 +1,66 @@
+{
+    "content_name": "23930.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Robert J. Martin", 
+    "images_urls": [], 
+    "year": 1962, 
+    "images": [], 
+    "id": 932, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Beyond Pandora", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.54, 
+    "rating_count": 31, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11925017-beyond-pandora", 
+        "found": true, 
+        "year": 1962
+    }, 
+    "similar_books": [], 
+    "description": "Short Story, Science Fiction, Post-1930<br /><br />The ideal way to deal with a pest\u2014any menace\u2014is,<br />of course, to make it useful to you....<br /><br />Free download, all ebook formats.", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23930", 
+        "num": 23930
+    }, 
+    "authors": [
+        282
+    ], 
+    "pages": 13, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-20T00:00:00", 
+    "author": 282, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "junk", 
+        "audio", 
+        "short-stories", 
+        "audio-books", 
+        "audiobooks", 
+        "short-story", 
+        "novellas-poems-shorts", 
+        "fiction", 
+        "0-anthologies-storeis-novellas", 
+        "audio-obtained", 
+        "read-in-2014", 
+        "free", 
+        "000-short-story", 
+        "13", 
+        "martin-robert-j", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "01-free", 
+        "00-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

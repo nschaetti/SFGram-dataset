@@ -1,0 +1,39 @@
+{
+    "content_name": "51202.txt.utf-8", 
+    "author_name": "Jim Harmon", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51202/51202-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51202/51202-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 886, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Name Your Symptom", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51202/pg51202.cover.medium.jpg", 
+    "goodreads": {
+        "found": false
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51202", 
+        "num": 51202
+    }, 
+    "authors": [
+        142
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-02-13T00:00:00", 
+    "author": 142, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,63 @@
+{
+    "content_name": "32079.txt.utf-8", 
+    "author_name": "Ed M. Clinton", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32079/32079-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32079/32079-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/32079/32079-h/images/image_b.jpg", 
+        "http://www.gutenberg.org/files/32079/32079-h/images/image_g.jpg", 
+        "http://www.gutenberg.org/files/32079/32079-h/images/image_l.jpg", 
+        "http://www.gutenberg.org/files/32079/32079-h/images/image_m.jpg", 
+        "http://www.gutenberg.org/files/32079/32079-h/images/image_t.jpg", 
+        "http://www.gutenberg.org/files/32079/32079-h/images/image_w.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 702, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Small World of M-75", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Science_Fiction_Adventures_in_Mutation", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 3, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32079/pg32079.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20811397-the-small-world-of-m-75", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32079", 
+        "num": 32079
+    }, 
+    "authors": [
+        231
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2010-04-21T00:00:00", 
+    "author": 231, 
+    "original_title": "Science Fiction Adventures in Mutation", 
+    "summary": "Science Fiction Adventures in Mutation is a theme anthology of science fiction stories edited by Groff Conklin, published in hardcover by Vanguard Press in 1955. An abridged paperback edition was issued by Berkley Books in 1965.\n\n", 
+    "content_cleaned": true, 
+    "classes": [
+        "short-stories", 
+        "to-read", 
+        "science-fiction", 
+        "21st-century-lit", 
+        "sci-fi", 
+        "fiction", 
+        "fantastical-worlds", 
+        "15", 
+        "1950s"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

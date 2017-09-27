@@ -1,0 +1,71 @@
+{
+    "content_name": "30434.txt.utf-8", 
+    "isbn": "1633552950", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_004.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_005.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_006.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_007.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_008.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_009.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_010.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_011.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_012.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_013.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_014.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_015.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_016.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_017.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_018.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_019.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_b.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_i.jpg", 
+        "http://www.gutenberg.org/files/30434/30434-h/images/image_m.jpg"
+    ], 
+    "year": 2014, 
+    "images": [], 
+    "id": 879, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Occasion for Disaster", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/22581198-occasion-for-disaster", 
+        "found": true, 
+        "year": 2014
+    }, 
+    "similar_books": [], 
+    "description": "A very small slip, at just the wrong place, can devastate any enterprise. One tiny transistor can go wrong ... and ruin a multi-million dollar missile. Which would be one way to stop the missiles.... (reprinted in 1963 as \"Supermind\".)", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30434", 
+        "num": 30434
+    }, 
+    "authors": [
+        49, 
+        64
+    ], 
+    "pages": 147, 
+    "language": "English", 
+    "isbn13": "9781633552951", 
+    "country": 3, 
+    "release_date": "2009-11-09T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "owned-but-havent-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 2
+}

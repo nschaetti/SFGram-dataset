@@ -1,0 +1,81 @@
+{
+    "content_name": "23102.txt.utf-8", 
+    "isbn": "1463897081", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23102/23102-h/images/001.png", 
+        "http://www.gutenberg.org/files/23102/23102-h/images/002.png", 
+        "http://www.gutenberg.org/files/23102/23102-h/images/003.png", 
+        "http://www.gutenberg.org/files/23102/23102-h/images/004.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p022.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p023.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p024.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p025.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p026-image.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p026.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p027.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p028.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p029-image.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p029.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p030.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p031.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p032.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p033-image.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p033.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p034.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p035.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p036.png", 
+        "http://www.gutenberg.org/files/23102/23102-page-images/p037.png"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 677, 
+    "category": "Text", 
+    "plot": "", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "This World Must Die!", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_King_Must_Die", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.82, 
+    "rating_count": 10, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11923386-this-world-must-die", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "description": "\"You have been chosen for this mission of murder because you are the only people in our culture who are capable of this type of violence. You have broken our laws, and this is your punishment!\"<br /><br />THIS WORLD MUST DIE!<br /><br />Social living requires the elimination, or at very best, the modification of many elements necessary to survival in \"nature.\" And when an emergency arises, very often it is the person who would be considered a \"criminal,\" in other situations, who alone is able to cope with the necessities. If we manage to eliminate \"violence\" from human affairs, what will we find when a need for \"violence\" arises -- a need outside of man's artificial control of his environment?", 
+    "format": "Hardcover", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23102", 
+        "num": 23102
+    }, 
+    "authors": [
+        94
+    ], 
+    "pages": 34, 
+    "language": "English", 
+    "isbn13": "9781463897086", 
+    "country": 19, 
+    "release_date": "2007-10-20T00:00:00", 
+    "author": 94, 
+    "original_title": "The King Must Die", 
+    "summary": "The King Must Die is a 1958 bildungsroman and historical novel by Mary Renault that traces the early life and adventures of Theseus, a hero in Greek mythology. Naturally, it is set in Ancient Greece: Troizen, Corinth, Eleusis, Athens, Knossos in Crete, and Naxos. Rather than retelling the myth, Renault constructs an archaeologically and anthropologically plausible story that might have developed into the myth. She captures the essentials while removing the more fantastical elements, such as monsters and the appearances of gods. The King Must Die was lauded by critics, with New York Times reviewer Orville Prescott calling it \"one of the truly fine historical novels of modern times.\" Renault wrote a sequel, The Bull from the Sea, in 1962.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "free-from-amazon", 
+        "classic", 
+        "short-stories", 
+        "to-read-on-nook", 
+        "to-read-ebook"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,60 @@
+{
+    "content_name": "50682.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "E. Everett Evans", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50682/50682-h/images/cover.jpg"
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 640, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Planet Mappers", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Maps_in_a_Mirror", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.9, 
+    "rating_count": 8, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50682/pg50682.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/28249423-the-planet-mappers", 
+        "found": true, 
+        "year": 1955
+    }, 
+    "similar_books": [], 
+    "description": "\"An Adventure Story in the Space World of Tomorrow\"<br /><br />Space pioneer Tad Carver has brought his family on an expedition to look for new planets suitable for colonization. When Tad is badly hurt, his sons and wife must continue with the mission.", 
+    "format": "ebook", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50682", 
+        "num": 50682
+    }, 
+    "authors": [
+        38
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2015-12-13T00:00:00", 
+    "author": 38, 
+    "original_title": "Maps in a Mirror", 
+    "summary": "Maps in a Mirror (1990) is a collection of short stories by American writer Orson Scott Card. Like Card's novels, most of the stories have a science fiction or fantasy theme. Some of the stories, such as \"Ender's Game\", \"Lost Boys\", and \"Mikal's Songbird\" were later expanded into novels. Each of the smaller volumes that make up the larger collection as a whole are centered on a theme or genre. For instance, Volume 1, The Changed Man, reprints several of Card's horror stories. The collection won the Locus Award in 1991.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "in-2017", 
+        "seriel-reads", 
+        "e-books", 
+        "20th-century-lit", 
+        "rpg_unused", 
+        "2016-reads", 
+        "young-adult", 
+        "science-fiction", 
+        "project-gutenberg"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,51 @@
+{
+    "content_name": "24180.txt.utf-8", 
+    "author_name": "Everett B. Cole", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24180/24180-h/images/image_01.jpg", 
+        "http://www.gutenberg.org/files/24180/24180-h/images/image_02.jpg", 
+        "http://www.gutenberg.org/files/24180/24180-h/images/image_03.jpg", 
+        "http://www.gutenberg.org/files/24180/24180-h/images/image_04.jpg", 
+        "http://www.gutenberg.org/files/24180/24180-h/images/image_05.jpg"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 794, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Alarm Clock", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.57, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8848420-alarm-clock", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24180", 
+        "num": 24180
+    }, 
+    "authors": [
+        224
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-06T00:00:00", 
+    "author": 224, 
+    "content_cleaned": false, 
+    "classes": [
+        "to-read", 
+        "unknown-genre", 
+        "ebooks", 
+        "kindle", 
+        "e-book"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

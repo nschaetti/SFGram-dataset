@@ -1,0 +1,68 @@
+{
+    "content_name": "23160.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "William Carroll", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23160/23160-h/images/001.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p058.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p059.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p060.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p061.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p062.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p063.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p064.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p065.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p066.png", 
+        "http://www.gutenberg.org/files/23160/23160-page-images/p067.png"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 604, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Solomon's Orbit", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.14, 
+    "rating_count": 14, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10171145-solomon-s-orbit", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Short science fiction classic by William Carroll", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23160", 
+        "num": 23160
+    }, 
+    "authors": [
+        202
+    ], 
+    "isbn13": "2940012547156", 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-10-24T00:00:00", 
+    "author": 202, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "short-story", 
+        "fiction", 
+        "audio", 
+        "audio-obtained-lvss", 
+        "short-stories", 
+        "to-read", 
+        "1960s", 
+        "librivox-short-scifi", 
+        "sci-fi", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "sci-fi-fantasy"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

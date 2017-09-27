@@ -1,0 +1,52 @@
+{
+    "content_name": "51132.txt.utf-8", 
+    "isbn": "1479420506", 
+    "author_name": "Alan Arkin", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51132/51132-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51132/51132-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 618, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Whiskaboom", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.33, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51132/pg51132.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29596537-whiskaboom-and-people-soup", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "Few people realize it today, but famed actor Alan Arkin wrote two science fiction short stories in the 1950s, beginning with \"Whiskaboom\" in 1955 and \"People Soup\" in 1958. This volume collects both classic tales!", 
+    "format": "ebook", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51132", 
+        "num": 51132
+    }, 
+    "authors": [
+        110
+    ], 
+    "pages": 23, 
+    "language": "English", 
+    "isbn13": "9781479420506", 
+    "country": 3, 
+    "release_date": "2016-02-05T00:00:00", 
+    "author": 110, 
+    "content_cleaned": true, 
+    "classes": [
+        "currently-reading", 
+        "to-read", 
+        "pg"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

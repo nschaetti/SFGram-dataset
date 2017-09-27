@@ -1,0 +1,59 @@
+{
+    "content_name": "30288.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Laurence M. Janifer", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30288/30288-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30288/30288-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30288/30288-h/images/image_d.jpg", 
+        "http://www.gutenberg.org/files/30288/30288-h/images/image_f.jpg", 
+        "http://www.gutenberg.org/files/30288/30288-h/images/image_o.jpg", 
+        "http://www.gutenberg.org/files/30288/30288-h/images/image_o1.jpg", 
+        "http://www.gutenberg.org/files/30288/30288-h/images/image_t.jpg", 
+        "http://www.gutenberg.org/files/30288/30288-h/images/image_u.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 856, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Sight Gag", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.5, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11344427-sight-gag", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30288", 
+        "num": 30288
+    }, 
+    "authors": [
+        64
+    ], 
+    "pages": 10, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-10-19T00:00:00", 
+    "author": 64, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "2017-2018", 
+        "amazon-ebooks", 
+        "short-stories", 
+        "sci-fi", 
+        "pulp", 
+        "humor", 
+        "science-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

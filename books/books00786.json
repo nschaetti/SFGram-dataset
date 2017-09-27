@@ -1,0 +1,51 @@
+{
+    "content_name": "29299.txt.utf-8", 
+    "author_name": "Nathan Schachner", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29299/29299-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/29299/29299-h/images/image_002_01.jpg", 
+        "http://www.gutenberg.org/files/29299/29299-h/images/image_002_02.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 786, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Pirates of the Gorm", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.75, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/13375018-pirates-of-the-gorm", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29299", 
+        "num": 29299
+    }, 
+    "authors": [
+        244
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-07-03T00:00:00", 
+    "author": 244, 
+    "content_cleaned": true, 
+    "classes": [
+        "short-stories", 
+        "sci-fi", 
+        "pulp", 
+        "fiction", 
+        "20th-century", 
+        "calibre", 
+        "to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

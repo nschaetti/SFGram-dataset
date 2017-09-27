@@ -1,0 +1,60 @@
+{
+    "content_name": "50449.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Stephen Marlowe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50449/50449-h/images/cover.jpg"
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 819, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Recruit for Andromeda", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.25, 
+    "rating_count": 17, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50449/pg50449.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/24449107-recruit-for-andromeda", 
+        "found": true, 
+        "year": 1959
+    }, 
+    "similar_books": [], 
+    "description": "Ace Double D-358, printed with \"The Plot Against Earth\" by Calvin M. Knox (pseudonym of Robert Silverberg)", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50449", 
+        "num": 50449
+    }, 
+    "authors": [
+        79
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2015-11-13T00:00:00", 
+    "author": 79, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "currently-reading", 
+        "sci-fi-fantasy", 
+        "20th-century-lit", 
+        "undgrad-15-17-tamu", 
+        "pleasure", 
+        "to-read", 
+        "public-domain", 
+        "2015-challenge-oldish", 
+        "scifi", 
+        "unread", 
+        "fiction", 
+        "cover-art-collection", 
+        "ace-doubles"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

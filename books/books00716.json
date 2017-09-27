@@ -1,0 +1,64 @@
+{
+    "content_name": "34420.txt.utf-8", 
+    "isbn": "1463896301", 
+    "author_name": "Algis Budrys", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/34420/34420-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/34420/34420-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/34420/34420-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/34420/34420-h/images/illus3.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 716, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Riya's Foundling", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.4, 
+    "rating_count": 12, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/34420/pg34420.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14402950-riya-s-foundling", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "But this is Phildee's story, and Phildee is a boy. Or that's what he'd call himself if you asked him. He's out and about, and playing games that come from his imagination. The loft of the feed-house, with its stacked grainsacks, is a B-72, a fort, a foxhole -- any number of things, depending on Phildee's mood. Today it was a jumping-off place. Phildee slipped out of his dormitory and ran across the yard to the feed-house. Then, abruptly, the Reimann fold became a concrete visualization. And Phildee twisted. He twisted into Riya's world -- Riya is that creature we were discussing up above. And spring has come to Riya's world. . . .", 
+    "format": "Hardcover", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/34420", 
+        "num": 34420
+    }, 
+    "authors": [
+        91
+    ], 
+    "pages": 20, 
+    "language": "English", 
+    "isbn13": "9781463896300", 
+    "country": 3, 
+    "release_date": "2010-11-23T00:00:00", 
+    "author": 91, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "currently-reading", 
+        "audiobooks", 
+        "short-story", 
+        "reviewed", 
+        "audio-obtained", 
+        "14", 
+        "owned-to-read", 
+        "calibre-owned", 
+        "audio-obtained-ss", 
+        "aaaaaaaa"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,65 @@
+{
+    "content_name": "33790.txt.utf-8", 
+    "author_name": "Charles V. De Vet", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_f.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_g1.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_h.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_h1.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_i1.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_j.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/33790/33790-h/images/image_t.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 889, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Delayed Action", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Party_Going", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.38, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10663547-delayed-action", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "6,166 words (\u2248 25 minutes)<br /><br />This planet gave him the perfect chance to commit the perfect crime\u2014only he couldn't remember just what it was he had committed.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/33790", 
+        "num": 33790
+    }, 
+    "authors": [
+        121
+    ], 
+    "isbn13": "2940012281999", 
+    "language": "English", 
+    "country": 1, 
+    "release_date": "2010-09-21T00:00:00", 
+    "author": 121, 
+    "original_title": "Party Going", 
+    "summary": "Party Going is a 1939 novel by British writer Henry Green (real name Henry Vincent Yorke).\nIt tells the story of a group of wealthy people travelling by train to a house party. Due to fog, however, the train is much delayed and the group takes rooms in the adjacent large railway hotel. All the action of the story takes place in the hotel.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "21st-century-lit", 
+        "nope", 
+        "14", 
+        "kindle", 
+        "science-fiction", 
+        "my-ebooks"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

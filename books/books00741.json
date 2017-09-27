@@ -1,0 +1,67 @@
+{
+    "content_name": "31364.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Charles A. Stearns", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/31364/31364-h/images/illo-full-left.png", 
+        "http://www.gutenberg.org/files/31364/31364-h/images/illo-full-right.png", 
+        "http://www.gutenberg.org/files/31364/31364-h/images/illo-sm.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 741, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "B-12's Moon Glow", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.61, 
+    "rating_count": 15, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11318575-b-12-s-moon-glow", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/31364", 
+        "num": 31364
+    }, 
+    "authors": [
+        240
+    ], 
+    "pages": 16, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-02-23T00:00:00", 
+    "author": 240, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-story", 
+        "20-science-fiction", 
+        "20-robots-ai", 
+        "01-audiobooks", 
+        "fiction", 
+        "21st-century-lit", 
+        "owned-pending-kindle-free-ebook", 
+        "kindle-free-ebook", 
+        "pg", 
+        "15", 
+        "to-read-1a-sf", 
+        "to-read-1", 
+        "audio-obtained", 
+        "01-librivox", 
+        "01-free", 
+        "00-short-story", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "to-read-temp"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

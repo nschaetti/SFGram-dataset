@@ -1,0 +1,52 @@
+{
+    "content_name": "29976.txt.utf-8", 
+    "author_name": "Russell Burton", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29976/29976-h/images/001.png", 
+        "http://www.gutenberg.org/files/29976/29976-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/29976/29976-h/images/002-2.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 895, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Weak on Square Roots", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.88, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12145453-weak-on-square-roots", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29976", 
+        "num": 29976
+    }, 
+    "authors": [
+        273
+    ], 
+    "language": "English", 
+    "isbn13": "2940012115683", 
+    "country": 3, 
+    "release_date": "2009-09-13T00:00:00", 
+    "author": 273, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "to-read", 
+        "fiction", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

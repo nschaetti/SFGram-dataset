@@ -1,0 +1,82 @@
+{
+    "content_name": "19076.txt.utf-8", 
+    "author_name": "H. Beam Piper", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/19076/19076-h/images/image01.png", 
+        "http://www.gutenberg.org/files/19076/19076-h/images/image02.jpg", 
+        "http://www.gutenberg.org/files/19076/19076-h/images/image09.jpg", 
+        "http://www.gutenberg.org/files/19076/19076-h/images/image16.jpg", 
+        "http://www.gutenberg.org/files/19076/19076-h/images/image23.png", 
+        "http://www.gutenberg.org/files/19076/19076-h/images/image31.jpg"
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 769, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Naudsonce", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.64, 
+    "rating_count": 52, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/9199290-naudsonce", 
+        "found": true, 
+        "year": 1962
+    }, 
+    "similar_books": [], 
+    "description": "Short Story originally published in Analog (Jan 1962): <br /><br />The ever expanding Terro-Human Federation which makes first contact with the indigenous peoples of a new world, but for some reason the standard contact methods don't seem to be working.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/19076", 
+        "num": 19076
+    }, 
+    "authors": [
+        19
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2006-08-18T00:00:00", 
+    "author": 19, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "currently-reading", 
+        "sci-fi", 
+        "si-fi", 
+        "scifi", 
+        "h-beam-piper", 
+        "short-stories", 
+        "kindle", 
+        "short-story", 
+        "grp-favorites", 
+        "audio", 
+        "audiobooks", 
+        "shelfari-e-book", 
+        "featured", 
+        "15", 
+        "ereader", 
+        "reviewed", 
+        "2015-completed", 
+        "health-food-cooking", 
+        "owned", 
+        "ebook_only", 
+        "ebook", 
+        "2014-reading-list", 
+        "on-disk", 
+        "fiction", 
+        "podcast", 
+        "librivox", 
+        "tero-human-future-history", 
+        "acquired", 
+        "my-library", 
+        "e-book", 
+        "2015-reading-list", 
+        "2013-reads"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

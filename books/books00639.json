@@ -1,0 +1,61 @@
+{
+    "content_name": "24382.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "John Berryman", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24382/24382-h/images/illus1.png", 
+        "http://www.gutenberg.org/files/24382/24382-h/images/illus2.png", 
+        "http://www.gutenberg.org/files/24382/24382-h/images/illus3.png", 
+        "http://www.gutenberg.org/files/24382/24382-h/images/illus4.png", 
+        "http://www.gutenberg.org/files/24382/24382-h/images/illus5.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 639, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Vigorish", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 7, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19432128-vigorish", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24382", 
+        "num": 24382
+    }, 
+    "authors": [
+        78
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-21T00:00:00", 
+    "author": 78, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-story", 
+        "audio-obtained", 
+        "owned", 
+        "kindle", 
+        "thriller", 
+        "suspense", 
+        "romance", 
+        "mystery", 
+        "fiction", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,56 @@
+{
+    "content_name": "24187.txt.utf-8", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/24187/24187-h/images/001.png", 
+        "http://www.gutenberg.org/files/24187/24187-h/images/002.png", 
+        "http://www.gutenberg.org/files/24187/24187-h/images/003.png"
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 734, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "A Transmutation of Muddles", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.7, 
+    "rating_count": 8, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8654901-a-transmutation-of-muddles", 
+        "found": true, 
+        "year": 1960
+    }, 
+    "similar_books": [], 
+    "description": "<b>An experienced horse-trader, bargain-haggler, and general swapper has a very special talent for turning two headaches into one aspirin pill....</b><br /><i>Science Fiction</i><br /><br />Play Duration: 00:44:27 <br />Public Domain stories from Project Gutenberg, that are read by volunteers. <br />First published in <i>\u201cAstounding Science Fiction\u201d</i> <br /><br /><u>Free download from LibriVox.org</u> <br />Down load file sizes<br />[mp3@64kbps - 21.3MB]<br />[mp3@128kbps - 42.6MB]<br />[ogg vorbis - 29MB]", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24187", 
+        "num": 24187
+    }, 
+    "authors": [
+        94
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-01-07T00:00:00", 
+    "author": 94, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "free-from-amazon", 
+        "classic", 
+        "sci-fi", 
+        "humor", 
+        "fiction", 
+        "20th-century", 
+        "pg", 
+        "15", 
+        "calibre"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

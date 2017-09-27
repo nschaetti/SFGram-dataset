@@ -1,0 +1,65 @@
+{
+    "content_name": "22881.txt.utf-8", 
+    "author_name": "Alan Edward Nourse", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/22881/22881-page-images/p106.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p107.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p108.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p109.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p110.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p111.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p112.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p113.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p114.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p115.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p116.png", 
+        "http://www.gutenberg.org/files/22881/22881-page-images/p117.png"
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 902, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "My Friend Bobby", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Christina_Alberta%27s_Father", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 8, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/9113639-my-friend-bobby", 
+        "found": true, 
+        "year": 1963
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "ebook", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/22881", 
+        "num": 22881
+    }, 
+    "authors": [
+        108
+    ], 
+    "language": "English", 
+    "country": 1, 
+    "release_date": "2007-10-03T00:00:00", 
+    "author": 108, 
+    "original_title": "Christina Alberta's Father", 
+    "summary": "Christina Alberta's Father (1925) is a novel by H. G. Wells set in London and environs in 1920\u20131922 with two protagonists: Albert Edward Preemby and his daughter, Christina Alberta.\nStarting off as a seemingly light-hearted novel of social realism, highlighting the class system of contemporary society, much like he did in Kipps, Wells soon lambasts the then-current state of mental health legislation and of asylums, before ending the novel with the characters discussing feminism and the conflict between individual independence and being a willing part of a greater society. With the title character of the father dying of pneumonia after rescue from a mental hospital, and his daughter Christina Albert refusing to marry her love interest Bobby Roothers (after candidly admitting to him that she is no longer a virgin), the expected happy ending does not occur. Perhaps due to its descent into open didacticism, the novel was not one of Wells' most successful or popular.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "randoms", 
+        "short-story", 
+        "14", 
+        "alan-e-nourse", 
+        "type-short-story", 
+        "science-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,51 @@
+{
+    "content_name": "50796.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Joseph Samachson", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50796/50796-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50796/50796-h/images/illus.jpg"
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 937, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Shipping Clerk", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.67, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50796/pg50796.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/28407394-shipping-clerk", 
+        "found": true, 
+        "year": 1952
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "format": "ebook", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50796", 
+        "num": 50796
+    }, 
+    "authors": [
+        157
+    ], 
+    "pages": 32, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2015-12-30T00:00:00", 
+    "author": 157, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "sf-short-stories", 
+        "humor", 
+        "favorites"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

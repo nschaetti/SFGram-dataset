@@ -1,0 +1,74 @@
+{
+    "content_name": "32108.txt.utf-8", 
+    "author_name": "Henry Kuttner", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32108/32108-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32108/32108-h/images/title.jpg"
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 634, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Ego Machine", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.55, 
+    "rating_count": 47, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32108/pg32108.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8531798-the-ego-machine", 
+        "found": true, 
+        "year": 1952
+    }, 
+    "similar_books": [], 
+    "description": "When a slightly mad robot drunk on AC, wants you to join an experiment in optimum ecology--don't do it! After all, who wants to argue like Disraeli or live like Ivan the Terrible. . . ?<br /><br />Nicholas Martin looked up at the robot across the desk.<br /><br />\"I'm not going to ask what you want,\" he said, in a low, restrained voice. \"I already know. Just go away and tell St. Cyr I approve. Tell him I think it's wonderful, putting a robot in the picture. We've had everything else by now, except the Rockettes. But clearly a quiet little play about Christmas among the Portuguese fishermen on the Florida coast \"must\" have a robot. Only, why not six robots? Tell him I suggest a baker's dozen. Go away.\"", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32108", 
+        "num": 32108
+    }, 
+    "authors": [
+        123
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-04-24T00:00:00", 
+    "author": 123, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "science-fiction", 
+        "currently-reading", 
+        "on-pc-to-read", 
+        "20th-century-lit", 
+        "fiction", 
+        "short-stories", 
+        "e-title", 
+        "read-papier-copy", 
+        "polska-wersja", 
+        "audiobooks", 
+        "z_fiction", 
+        "x_shortstory", 
+        "wo_scifi", 
+        "w_us_federal", 
+        "must-reads-calibre", 
+        "on-calibre", 
+        "maybe-reads", 
+        "ebooks", 
+        "audio", 
+        "1-owning", 
+        "owned-amazon", 
+        "scifi", 
+        "feedbooks-com", 
+        "fun", 
+        "genre", 
+        "adventures", 
+        "front-shelf"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

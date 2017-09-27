@@ -1,0 +1,69 @@
+{
+    "content_name": "23443.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Murray F. Yaco", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23443/23443-h/images/001.jpg", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p040-image.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p040.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p041.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p042.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p043.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p044.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p045.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p046.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p047.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p048.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p049.png", 
+        "http://www.gutenberg.org/files/23443/23443-page-images/p050.png"
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 930, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Unspecialist", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.57, 
+    "rating_count": 14, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/13500682-unspecialist", 
+        "found": true, 
+        "year": 1960
+    }, 
+    "similar_books": [], 
+    "description": "A machine can be built to do any accurately described job better than any man. The superiority of a man is that he can do an unexpected, undescribed, and emergency job...", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23443", 
+        "num": 23443
+    }, 
+    "authors": [
+        114
+    ], 
+    "pages": 23, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-11-11T00:00:00", 
+    "author": 114, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "2017-2018", 
+        "audiobooks", 
+        "owned-pending-kindle-free-ebook", 
+        "15", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

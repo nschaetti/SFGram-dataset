@@ -1,0 +1,79 @@
+{
+    "author_name": "Ed M. Clinton", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/35759/35759-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/35759/35759-h/images/im1.png", 
+        "http://www.gutenberg.org/files/35759/35759-rst/images/cover.jpg", 
+        "http://www.gutenberg.org/files/35759/35759-rst/images/im1.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 873, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Security Risk", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Enemy_(Bagley_novel)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.54, 
+    "rating_count": 27, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/35759/pg35759.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11774880-security-risk", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/35759", 
+        "num": 35759
+    }, 
+    "authors": [
+        231
+    ], 
+    "language": "English", 
+    "country": 1, 
+    "release_date": "2011-04-02T00:00:00", 
+    "author": 231, 
+    "original_title": "The Enemy (Bagley novel)", 
+    "summary": "The Enemy is a first person narrative espionage thriller novel by English author Desmond Bagley, first published in 1977. In 2001 it was made into a movie, starring Roger Moore, Luke Perry and Olivia d'Abo.", 
+    "classes": [
+        "to-read", 
+        "paige-tyler", 
+        "erotic", 
+        "bdsm", 
+        "currently-reading", 
+        "kindle", 
+        "contemporary", 
+        "erotica", 
+        "kindle-books", 
+        "dl", 
+        "m", 
+        "quickies", 
+        "contemp-romance", 
+        "books-i-own", 
+        "ok", 
+        "hot", 
+        "spanking-specific", 
+        "erotic-and-contemporary", 
+        "romance-to-read", 
+        "my-dropbox", 
+        "romance-erotica", 
+        "romance-contemporary", 
+        "romance", 
+        "contemporary-erotica", 
+        "law-enforcement", 
+        "lend-me-books", 
+        "men-in-uniform", 
+        "ebook", 
+        "non-nook-books", 
+        "2-romance-to-read", 
+        "must-read"
+    ], 
+    "content_available": false, 
+    "n_authors": 1
+}

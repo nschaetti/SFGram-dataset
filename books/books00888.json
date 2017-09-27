@@ -1,0 +1,48 @@
+{
+    "content_name": "50981.txt.utf-8", 
+    "isbn": "1523791918", 
+    "author_name": "David Mason", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50981/50981-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50981/50981-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 888, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Garrity's Annuities", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50981/pg50981.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29061321-garrity-s-annuities", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50981", 
+        "num": 50981
+    }, 
+    "authors": [
+        271
+    ], 
+    "pages": 26, 
+    "language": "English", 
+    "isbn13": "9781523791910", 
+    "country": 3, 
+    "release_date": "2016-01-20T00:00:00", 
+    "author": 271, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

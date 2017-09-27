@@ -1,0 +1,57 @@
+{
+    "content_name": "51075.txt.utf-8", 
+    "isbn": "1530331536", 
+    "author_name": "Raymond F. Jones", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51075/51075-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51075/51075-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51075/51075-h/images/illus2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 680, 
+    "category": "Text", 
+    "plot": "", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "A Stone and a Spear", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Spear_of_Destiny", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51075/pg51075.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29463542-a-stone-and-a-spear", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51075", 
+        "num": 51075
+    }, 
+    "authors": [
+        129
+    ], 
+    "pages": 44, 
+    "language": "English", 
+    "isbn13": "9781530331536", 
+    "country": 3, 
+    "release_date": "2016-01-29T00:00:00", 
+    "author": 129, 
+    "original_title": "Indiana Jones and the Spear of Destiny", 
+    "summary": "Indiana Jones and The Spear of Destiny is a four-issue comic book mini-series published by Dark Horse Comics from April to July 1995. It was their seventh series about the adult Indiana Jones.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "unknown-publication-dates"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

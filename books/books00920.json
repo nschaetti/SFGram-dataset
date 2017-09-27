@@ -1,0 +1,48 @@
+{
+    "content_name": "51663.txt.utf-8", 
+    "isbn": "151540580X", 
+    "author_name": "Wallace West", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51663/51663-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51663/51663-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 920, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Dawningsburgh", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.5, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51663/pg51663.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/30004055-dawningsburgh", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "A lean wind wails through the age-old avenues of Dawningsburgh. Mornings, it brings sand from surrounding hills and scrubs at fresh paint, neon signs endlessly proclaiming the city's synthetic name and street markers in seven languages. At sunrise it prepares the dunes for footprints of scurrying guided tourists. When icy night clamps down and the intruders scamper to their hotels, the wind howls as it flings after them a day's collection of paper cups, bottle caps and other picnic offal.", 
+    "format": "ebook", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51663", 
+        "num": 51663
+    }, 
+    "authors": [
+        158
+    ], 
+    "pages": 20, 
+    "language": "English", 
+    "isbn13": "9781515405801", 
+    "country": 3, 
+    "release_date": "2016-04-05T00:00:00", 
+    "author": 158, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

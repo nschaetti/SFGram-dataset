@@ -1,0 +1,69 @@
+{
+    "content_name": "51194.txt.utf-8", 
+    "isbn": "0263720039", 
+    "language_code": "eng", 
+    "author_name": "William Campbell Gault", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51194/51194-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51194/51194-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51194/51194-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51194/51194-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/51194/51194-h/images/illus4.jpg", 
+        "http://www.gutenberg.org/files/51194/51194-h/images/illus5.jpg"
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 666, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Made to Measure", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.5, 
+    "rating_count": 14, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51194/pg51194.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/13502043-wife-made-to-measure", 
+        "found": true, 
+        "year": 1976
+    }, 
+    "similar_books": [], 
+    "description": "Jocelyn had been more or less bullied into marrying Simon Wadebridge, although she had never doubted her feelings for him.<br /><br />It was Simon's feelings for her that made her uneasy -- and his feelings for all the other beautiful women in his life.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51194", 
+        "num": 51194
+    }, 
+    "authors": [
+        218
+    ], 
+    "pages": 186, 
+    "language": "English", 
+    "isbn13": "9780263720039", 
+    "country": 3, 
+    "release_date": "2016-02-12T00:00:00", 
+    "author": 218, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "marriage-of-convenience", 
+        "romance", 
+        "older-harlequin", 
+        "vintage", 
+        "scenes-from-a-marriage", 
+        "black-library-on-line", 
+        "angst-by-misunderstanding-lies", 
+        "angst-by-male-chauvinist", 
+        "bought", 
+        "harlequin-romance", 
+        "dnf", 
+        "read-1998", 
+        "add-2012-read", 
+        "boss-employee-relationship"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,49 @@
+{
+    "content_name": "23942.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Mack Reynolds", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23942/23942-h/images/001.png", 
+        "http://www.gutenberg.org/files/23942/23942-h/images/002.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 855, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Unborn Tomorrow", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.29, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/18659433-unborn-tomorrow", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from its physical edition to the digital format by a team of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "format": "Kindle Edition", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23942", 
+        "num": 23942
+    }, 
+    "authors": [
+        69
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-20T00:00:00", 
+    "author": 69, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "time-traveling", 
+        "short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

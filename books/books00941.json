@@ -1,0 +1,48 @@
+{
+    "content_name": "51344.txt.utf-8", 
+    "author_name": "Kris Neville", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51344/51344-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51344/51344-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51344/51344-h/images/illus2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 941, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Voyage to Far N'jurd", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51344/pg51344.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/34196990-voyage-to-far-n-jurd", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51344", 
+        "num": 51344
+    }, 
+    "authors": [
+        194
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-03-02T00:00:00", 
+    "author": 194, 
+    "content_cleaned": true, 
+    "classes": [
+        "currently-reading", 
+        "unknown-publication-dates", 
+        "to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

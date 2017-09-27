@@ -1,0 +1,50 @@
+{
+    "content_name": "29437.txt.utf-8", 
+    "author_name": "Roman Frederick Starzl", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29437/29437-h/images/image_001_01.jpg", 
+        "http://www.gutenberg.org/files/29437/29437-h/images/image_001_02.jpg", 
+        "http://www.gutenberg.org/files/29437/29437-h/images/image_002.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 862, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Martian Cabal", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.67, 
+    "rating_count": 2, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11342701-the-martian-cabal", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29437", 
+        "num": 29437
+    }, 
+    "authors": [
+        178
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-07-18T00:00:00", 
+    "author": 178, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "sci-fi-classics", 
+        "science-fiction", 
+        "20th-century", 
+        "calibre"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

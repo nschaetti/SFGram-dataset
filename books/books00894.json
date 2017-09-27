@@ -1,0 +1,75 @@
+{
+    "content_name": "51475.txt.utf-8", 
+    "isbn": "1558181814", 
+    "author_name": "David E. Fisher", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51475/51475-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51475/51475-h/images/illus.jpg"
+    ], 
+    "year": 1612, 
+    "images": [], 
+    "id": 894, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "East In The Morning", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Narrow_Road_to_the_Deep_North_(novel)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 4.29, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51475/pg51475.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/1945302.Aurora", 
+        "found": true, 
+        "year": 1612
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51475", 
+        "num": 51475
+    }, 
+    "authors": [
+        206
+    ], 
+    "language": "English", 
+    "isbn13": "9781558181816", 
+    "country": 18, 
+    "release_date": "2016-03-16T00:00:00", 
+    "author": 206, 
+    "original_title": "The Narrow Road to the Deep North (novel)", 
+    "summary": "The Narrow Road to the Deep North is the sixth novel by Richard Flanagan. It received critical acclaim on its release, and won the 2014 Man Booker Prize.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "philosophy", 
+        "religion", 
+        "mysticism", 
+        "by-it-i-see-everything", 
+        "dust-shelf", 
+        "germany", 
+        "to-buy", 
+        "alt-next", 
+        "history", 
+        "next-acquire", 
+        "end-of-2016-acquire", 
+        "religion-theology-spirituality", 
+        "magic-occult", 
+        "religion-christianity", 
+        "kindle", 
+        "spirituality", 
+        "non-fictie-religie", 
+        "occult", 
+        "german-ic", 
+        "christian", 
+        "german-danish-philosophers", 
+        "spirituality-mysticism", 
+        "christianity"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

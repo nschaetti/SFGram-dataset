@@ -1,0 +1,59 @@
+{
+    "content_name": "41084.txt.utf-8", 
+    "isbn": "1483701190", 
+    "author_name": "Everett C. Smith", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/41084/41084-h/images/authores.jpg", 
+        "http://www.gutenberg.org/files/41084/41084-h/images/authorrs.jpg", 
+        "http://www.gutenberg.org/files/41084/41084-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/41084/41084-h/images/illus.jpg"
+    ], 
+    "year": 2012, 
+    "images": [], 
+    "id": 891, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Metal Moon", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/The_Sentinel_(short_story)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 2, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/41084/pg41084.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/17850014-the-metal-moon", 
+        "found": true, 
+        "year": 2012
+    }, 
+    "similar_books": [], 
+    "description": "A million years from now, a strange moon is found orbiting Jupiter. No one knows what it is, or where it came from... The Metal Moon first appeared in the 1932 Winter issue of Wonder Stories Quarterly. The Metal Moon is a joint product of two imaginative minds, EVERETT C. SMITH and R. F. STARZL, in which we get a very unusual picture of some of the possibilities of interplanetary exploration. We know that as soon as interplanetary travel is possible, expeditions from the earth will be ranging the length and breadth of the solar system searching out the thousands of wonders that are to be discovered. It is quite possible that some of the explorers, whether through accident or desire, may colonize the other planets and develop under new and unusual conditions a new branch of the human race. It is doubtlessly true that if each of the solar planets were to be colonized, at the end of several hundred centuries there would be nine races of human beings who might differ radically from each other and in fact might not recognize each other as members of the same human stock. In this story we do not see nine races but we do see four of them and Mr. Starzl has united the four in a gripping narrative of the great spaces.", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/41084", 
+        "num": 41084
+    }, 
+    "authors": [
+        272, 
+        178
+    ], 
+    "pages": 72, 
+    "language": "English", 
+    "isbn13": "9781483701196", 
+    "country": 1, 
+    "release_date": "2012-10-17T00:00:00", 
+    "author": 272, 
+    "original_title": "The Sentinel (short story)", 
+    "summary": "\"The Sentinel\" is a short story by British author Arthur C. Clarke, written in 1948 and first published in 1951 as \"Sentinel of Eternity\", which was used as a starting point for the novel and film 2001: A Space Odyssey, where it was modified and fused with other ideas. Clarke expressed impatience with its common description as the story that the novel and movie are based on. He explained: \"I am continually annoyed by careless references to 'The Sentinel' as 'the story on which 2001 is based'; it bears about as much relation to the movie as an acorn to the resultant full-grown oak. (Considerably less, in fact, because ideas from several other stories were also incorporated.) Even the elements that Stanley Kubrick and I did actually use were considerably modified. Thus the 'glittering, roughly pyramidal structure... set in the rock like a gigantic, many-faceted jewel' became\u2014after several modifications\u2014the famous black monolith. And the locale was moved from the Mare Crisium to the most spectacular of all lunar craters, Tycho\u2014easily visible to the naked eye from Earth at Full Moon.\"\n\n", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "short-story", 
+        "sci-fi-classics"
+    ], 
+    "content_available": true, 
+    "n_authors": 2
+}

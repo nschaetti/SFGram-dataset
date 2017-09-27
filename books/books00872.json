@@ -1,0 +1,42 @@
+{
+    "content_name": "30884.txt.utf-8", 
+    "author_name": "Rosel George Brown", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30884/30884-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30884/30884-h/images/image_t.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 872, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Step IV", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.0, 
+    "rating_count": 1, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/22877852-step-iv", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30884", 
+        "num": 30884
+    }, 
+    "authors": [
+        182
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-01-07T00:00:00", 
+    "author": 182, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

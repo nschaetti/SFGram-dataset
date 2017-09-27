@@ -1,0 +1,73 @@
+{
+    "content_name": "27609.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "L. Taylor Hansen", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/27609/27609-h/images/001.png", 
+        "http://www.gutenberg.org/files/27609/27609-h/images/002.png", 
+        "http://www.gutenberg.org/files/27609/27609-h/images/003.png", 
+        "http://www.gutenberg.org/files/27609/27609-h/images/004.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/f0001.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0113-image1.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0113.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0114.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0115-image1.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0115.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0116.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0117.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0118-image1.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0118.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0119-image1.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0119.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0120.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0121.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0122.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0123.png", 
+        "http://www.gutenberg.org/files/27609/27609-page-images/p0124.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 905, 
+    "category": "Text", 
+    "plot": "In the year 2145, a space marine assigned to the Union Aerospace Corporation research centre on Mars is one of the few survivors of a massive interdimensional invasion - an overwhelming demonic force from the mouth of Hell itself. As he struggles to survive the chaos and horror while dealing his own shock and fear, he discovers more than he could ever bargain for - the truth behind the shadowy research taking place within the very facility he is desperately trying to escape...", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Undersea Tube", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Doom_3:_Maelstrom", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 2.6, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/24983380-the-undersea-tube", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "Kindle Edition", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/27609", 
+        "num": 27609
+    }, 
+    "authors": [
+        275
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2008-12-25T00:00:00", 
+    "author": 275, 
+    "original_title": "Doom 3: Maelstrom", 
+    "summary": "Doom 3: Maelstrom is the second book in a series of three novels regarding Doom 3. The book was released in March 2009. Before writing the book, its author Matthew J. Costello, wrote the scripts for Doom 3 and Doom 3: Resurrection of Evil.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sfbywomen", 
+        "sf", 
+        "science-fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,55 @@
+{
+    "content_name": "29994.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29994/29994-h/images/001.png", 
+        "http://www.gutenberg.org/files/29994/29994-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/29994/29994-h/images/002-2.jpg"
+    ], 
+    "year": 1930, 
+    "images": [], 
+    "id": 673, 
+    "category": "Text", 
+    "plot": "Archie, you have heard me say that I am an actor. I am afraid I have a weakness for dramatic statement. It would be foolish not to indulge it when a good opportunity is offered. There is death in this room.\n\nMaria Maffei, a family friend of one of Wolfe's free-lance men, offers to hire Wolfe to locate her missing brother Carlo, a metalworker. Wolfe, affected by the Depression, decides to take the job, although it is unappealing to him. Archie locates Anna Fiore, a girl who listened in on a phone call Carlo received at his boarding-house shortly before his disappearance. Wolfe learns from her that Carlo had clipped a story from a copy of the New York Times about the sudden death (apparently by stroke) of Peter Oliver Barstow, president of Holland College. However, Anna refuses to provide any further details about Carlo, who is soon found dead in the countryside, stabbed in the back.\nFrom reading the account of Barstow's death, which occurred during a round of golf, Wolfe conjectures that one of his clubs may have been altered to fire a poisoned needle into his belly. An autopsy proves Wolfe right, and he and Archie begin to concentrate on the Barstow family and their acquaintances, E.D. Kimball and his son Manuel, who had both been part of the golf foursome. While trying to figure out the whereabouts of Barstow's golf bag, Archie learns from the group's caddies that he had borrowed a driver from E.D. during the round. This fact, coupled with E.D.'s accounts of his past in Argentina, leads Wolfe and Archie to conclude that Manuel had intended to kill his father, not Barstow, in revenge for the death of his mother years earlier. Archie confirms Manuel's movements on the day Carlo was killed, making him a suspect in that murder as well. Manuel retaliates by having an associate plant a deadly Bothrops atrox viper in Wolfe's desk drawer, but Wolfe and Archie find and kill it.\n\nWith Maria's cooperation, Wolfe and Archie arrange a robbery in the countryside to scare Anna into telling what she knows. The trick works, and she hands over documents proving that Manuel hired Carlo to build the driver that killed Barstow. With the Kimball estate staked out, and a copy of the evidence delivered to Manuel, Archie leads the local police in so they can make an arrest. They learn that Manuel, an avid pilot, has taken E.D. up for a flight, and are shocked when the plane suddenly nose-dives into the ground; the impact kills both of them.\nWolfe collects both the $50,000 reward that Barstow's widow had offered for the capture of his killer, and another $10,000 from a district attorney who had been skeptical of the murder theory. Wolfe comments that the climax of the case gave both E.D. and Manuel a chance to end their lives without any sense of bitterness or despair, but Archie notes that it also keeps Wolfe from having to leave his comfortable house in order to testify at a murder trial.", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Irresistible Weapon", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Fer-de-Lance_(novel)", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.14, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/22565984-irresistible-weapon", 
+        "found": true, 
+        "year": 1930
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "format": "Kindle Edition", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29994", 
+        "num": 29994
+    }, 
+    "authors": [
+        94
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2009-09-15T00:00:00", 
+    "author": 94, 
+    "original_title": "Fer-de-Lance (novel)", 
+    "summary": "Fer-de-Lance is the first Nero Wolfe detective novel written by Rex Stout, published in 1934 by Farrar & Rinehart, Inc. The novel appeared in abridged form in The American Magazine (November 1934) under the title \"Point of Death.\" The novel was adapted for the 1936 movie Meet Nero Wolfe. In his seminal 1941 work, Murder for Pleasure, crime fiction historian Howard Haycraft included Fer-de-Lance in his definitive list of the most influential works of mystery fiction.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "free-from-amazon", 
+        "classic"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

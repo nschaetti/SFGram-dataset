@@ -1,0 +1,46 @@
+{
+    "content_name": "50998.txt.utf-8", 
+    "author_name": "F. L. Wallace", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50998/50998-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50998/50998-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/50998/50998-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/50998/50998-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/50998/50998-h/images/illus4.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 748, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Delay in Transit", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.5, 
+    "rating_count": 2, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50998/pg50998.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29579067-delay-in-transit", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50998", 
+        "num": 50998
+    }, 
+    "authors": [
+        138
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-01-22T00:00:00", 
+    "author": 138, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

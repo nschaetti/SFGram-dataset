@@ -1,0 +1,53 @@
+{
+    "content_name": "29118.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Sewell Peaslee Wright", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29118/29118-h/images/illus.jpg"
+    ], 
+    "year": 9, 
+    "images": [], 
+    "id": 624, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Terror from the Depths", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.38, 
+    "rating_count": 6, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6604742-the-terror-from-the-depths", 
+        "found": true, 
+        "year": 9
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29118", 
+        "num": 29118
+    }, 
+    "authors": [
+        44
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-06-14T00:00:00", 
+    "author": 44, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "owned", 
+        "owned-pending-kindle-free-ebook", 
+        "calibre", 
+        "unread", 
+        "15", 
+        "eb-other", 
+        "eb", 
+        "american-authors"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

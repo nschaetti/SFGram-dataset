@@ -1,0 +1,48 @@
+{
+    "content_name": "29940.txt.utf-8", 
+    "author_name": "Mack Reynolds", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29940/29940-h/images/001-1.jpg", 
+        "http://www.gutenberg.org/files/29940/29940-h/images/001-2.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 709, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Dogfight\u20141973", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 13, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/11468354-dogfight-1973", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29940", 
+        "num": 29940
+    }, 
+    "authors": [
+        69
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-09-08T00:00:00", 
+    "author": 69, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "audiobooks", 
+        "short-story", 
+        "science-fiction", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

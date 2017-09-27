@@ -1,0 +1,82 @@
+{
+    "content_name": "51498.txt.utf-8", 
+    "isbn": "1507864604", 
+    "language_code": "eng", 
+    "author_name": "Patrick Fahy", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51498/51498-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51498/51498-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51498/51498-h/images/illus2.jpg"
+    ], 
+    "year": 2015, 
+    "images": [], 
+    "id": 817, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Bad Memory", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.2, 
+    "rating_count": 10, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51498/pg51498.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/27636802-bad-memories", 
+        "found": true, 
+        "year": 2015
+    }, 
+    "similar_books": [
+        "Lost World (Sirens, #2)", 
+        "My Magic Scarf", 
+        "The Kingdom of Blood and Snow (The Age of Blood and Snow, #1)", 
+        "Wayward Soul", 
+        "Sunset at Lake Crane (Livingston Valley, #1)", 
+        "The Bargain", 
+        "Doodle Artist - Peaceful Patterns", 
+        "Trouble Finding Blondie", 
+        "Light & Dark: The Awakening of the Mageknight (Light & Dark, #1)", 
+        "All We Have Lost", 
+        "Muse (Tales of Silver Downs, #1)", 
+        "BloodVault (The Dantonville Legacy #3)", 
+        "Death By Trombone (Pismawallops PTA, #2)", 
+        "Darkhaven (Darkhaven, #1)", 
+        "Field of Glass", 
+        "Smoke and Mirrors (The Gifted, #1)", 
+        "Grace Me With Your Presents", 
+        "Lazarus Code (First Family Saga, #1)"
+    ], 
+    "description": "They didn't believe John Miller at the asylum that he didn't do it, and they sure as hell didn't believe him when more bodies showed up. Get the book to see if John Miller lives or dies and does he get his life and career back?", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51498", 
+        "num": 51498
+    }, 
+    "authors": [
+        260
+    ], 
+    "pages": 236, 
+    "language": "English", 
+    "isbn13": "9781507864609", 
+    "country": 3, 
+    "release_date": "2016-03-19T00:00:00", 
+    "author": 260, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "mystery-suspense", 
+        "crime-thrillers", 
+        "standalones", 
+        "goodreads-giveaways", 
+        "giveaways", 
+        "books-won", 
+        "want-to-buy", 
+        "novels", 
+        "giveaway-books", 
+        "books", 
+        "currently-reading"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,72 @@
+{
+    "content_name": "26843.txt.utf-8", 
+    "author_name": "Jack Sharkey", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26843/26843-h/images/001.png", 
+        "http://www.gutenberg.org/files/26843/26843-h/images/002.jpg", 
+        "http://www.gutenberg.org/files/26843/26843-h/images/003.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0094-image1.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0094.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0095.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0096.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0097.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0098-image1.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0099.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0100.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0101.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0102.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0103.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0104.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0105.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0106.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0107-image1.png", 
+        "http://www.gutenberg.org/files/26843/26843-page-images/p0107.png"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 869, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Dope on Mars", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.41, 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6363337-the-dope-on-mars", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "Kindle Edition", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26843", 
+        "num": 26843
+    }, 
+    "authors": [
+        205
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-10-08T00:00:00", 
+    "author": 205, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "favorites", 
+        "currently-reading", 
+        "short-stories", 
+        "humor", 
+        "short-fiction", 
+        "humour", 
+        "05-stjerne", 
+        "sci-fi", 
+        "classic-sci-fi"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

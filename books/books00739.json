@@ -1,0 +1,69 @@
+{
+    "content_name": "23148.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Frank Banta", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23148/23148-h/images/gd62001.png", 
+        "http://www.gutenberg.org/files/23148/23148-h/images/gd62070i.png", 
+        "http://www.gutenberg.org/files/23148/23148-h/images/gd62071i.png", 
+        "http://www.gutenberg.org/files/23148/23148-page-images/c001.jpg", 
+        "http://www.gutenberg.org/files/23148/23148-page-images/p070.png", 
+        "http://www.gutenberg.org/files/23148/23148-page-images/p071.png", 
+        "http://www.gutenberg.org/files/23148/23148-page-images/p072.png", 
+        "http://www.gutenberg.org/files/23148/23148-page-images/p073.png", 
+        "http://www.gutenberg.org/files/23148/23148-page-images/p074.png", 
+        "http://www.gutenberg.org/files/23148/23148-page-images/p075.png", 
+        "http://www.gutenberg.org/files/23148/23148-page-images/p076.png", 
+        "http://www.gutenberg.org/files/23148/23148-page-images/p077.png"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 739, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Droozle", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.24, 
+    "rating_count": 18, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/16120850-droozle", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "description": "Droozle was probably the greatest writer in the world - any world!", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23148", 
+        "num": 23148
+    }, 
+    "authors": [
+        229
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-10-22T00:00:00", 
+    "author": 229, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "short-stories", 
+        "sci-fi", 
+        "books", 
+        "short-story", 
+        "15", 
+        "owned", 
+        "1960s", 
+        "kindle", 
+        "gutenberg", 
+        "currently-reading", 
+        "type-short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

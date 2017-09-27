@@ -1,0 +1,54 @@
+{
+    "content_name": "32657.txt.utf-8", 
+    "isbn": "2819925790", 
+    "author_name": "Daniel F. Galouye", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32657/32657-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32657/32657-h/images/illus.jpg"
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 688, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Spillthrough", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.12, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32657/pg32657.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10407709-spillthrough", 
+        "found": true, 
+        "year": 1953
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32657", 
+        "num": 32657
+    }, 
+    "authors": [
+        220
+    ], 
+    "language": "English", 
+    "isbn13": "9782819925798", 
+    "country": 3, 
+    "release_date": "2010-06-02T00:00:00", 
+    "author": 220, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "short-stories", 
+        "science-fiction", 
+        "20th-century-lit", 
+        "currently-reading", 
+        "ebook-kindle-own", 
+        "novellas-short-stories", 
+        "1930s-1950s-sf-golden-age"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

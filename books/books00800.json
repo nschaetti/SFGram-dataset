@@ -1,0 +1,49 @@
+{
+    "content_name": "51297.txt.utf-8", 
+    "author_name": "Sylvia Jacobs", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51297/51297-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51297/51297-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51297/51297-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51297/51297-h/images/illus3.jpg", 
+        "http://www.gutenberg.org/files/51297/51297-h/images/illus4.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 800, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Pilot and the Bushman", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51297/pg51297.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/33145144-the-pilot-and-the-bushman", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51297", 
+        "num": 51297
+    }, 
+    "authors": [
+        254
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-03-01T00:00:00", 
+    "author": 254, 
+    "content_cleaned": true, 
+    "classes": [
+        "unknown-publication-dates", 
+        "to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

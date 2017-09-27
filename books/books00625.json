@@ -1,0 +1,73 @@
+{
+    "content_name": "22763.txt.utf-8", 
+    "author_name": "Randall Garrett", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/22763/22763-h/images/001.png", 
+        "http://www.gutenberg.org/files/22763/22763-h/images/002.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p076.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p077-image.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p077.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p078.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p079.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p080.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p081.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p082.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p083.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p084.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p085-image.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p085.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p086.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p087.png", 
+        "http://www.gutenberg.org/files/22763/22763-page-images/p088.png"
+    ], 
+    "year": 2007, 
+    "images": [], 
+    "id": 625, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Suite Mentale", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.9, 
+    "rating_count": 8, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10367866-suite-mentale", 
+        "found": true, 
+        "year": 2007
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "Kindle Edition", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/22763", 
+        "num": 22763
+    }, 
+    "authors": [
+        49
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-09-25T00:00:00", 
+    "author": 49, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "free-from-amazon", 
+        "classic", 
+        "short-stories", 
+        "amazon-ebooks", 
+        "short-story", 
+        "audio-obtained-lvss", 
+        "14", 
+        "fiction", 
+        "english", 
+        "e-books", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

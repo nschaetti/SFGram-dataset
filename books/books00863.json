@@ -1,0 +1,80 @@
+{
+    "content_name": "26761.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Albert Teichner", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26761/26761-h/images/001.png", 
+        "http://www.gutenberg.org/files/26761/26761-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/26761/26761-h/images/002-2.jpg", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/c0001-image1.jpg", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0006-image1.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0006.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0007-image1.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0007.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0008.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0009.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0010.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0011.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0012.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0013.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0014.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0015.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0016.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0017.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0018.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0019.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0020.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0021.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0022.png", 
+        "http://www.gutenberg.org/files/26761/26761-page-images/p0023.png"
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 863, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Cerebrum", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.27, 
+    "rating_count": 7, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/18110826-cerebrum", 
+        "found": true, 
+        "year": 1963
+    }, 
+    "similar_books": [], 
+    "description": "For thousands of years the big brain served as a master<br />switchboard for the thoughts and emotions of humanity. Now the<br />central mind was showing signs of decay ... and men went mad.", 
+    "format": "ebook", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26761", 
+        "num": 26761
+    }, 
+    "authors": [
+        267
+    ], 
+    "pages": 17, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-10-03T00:00:00", 
+    "author": 267, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "short-story", 
+        "audio-obtained", 
+        "14", 
+        "science-fiction", 
+        "short-stories", 
+        "ebook", 
+        "dystopia", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,48 @@
+{
+    "content_name": "50802.txt.utf-8", 
+    "isbn": "1530458072", 
+    "author_name": "Bill Doede", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/50802/50802-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/50802/50802-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 918, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "A City Near Centaurus", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/50802/pg50802.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29531519-a-city-near-centaurus", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/50802", 
+        "num": 50802
+    }, 
+    "authors": [
+        192
+    ], 
+    "pages": 38, 
+    "language": "English", 
+    "isbn13": "9781530458073", 
+    "country": 3, 
+    "release_date": "2015-12-31T00:00:00", 
+    "author": 192, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

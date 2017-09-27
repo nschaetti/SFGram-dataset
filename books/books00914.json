@@ -1,0 +1,49 @@
+{
+    "content_name": "31664.txt.utf-8", 
+    "author_name": "Evelyn E. Smith", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/31664/31664-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/31664/31664-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/31664/31664-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/31664/31664-h/images/illus3.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 914, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Once a Greech", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.25, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/31664/pg31664.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20527705-once-a-greech", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/31664", 
+        "num": 31664
+    }, 
+    "authors": [
+        172
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-03-16T00:00:00", 
+    "author": 172, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "21st-century-lit", 
+        "15"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

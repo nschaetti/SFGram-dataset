@@ -1,0 +1,54 @@
+{
+    "content_name": "33839.txt.utf-8", 
+    "isbn": "1463896662", 
+    "author_name": "Roger D. Aycock", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/33839/33839-h/images/illus.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 861, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Problem on Balak", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.75, 
+    "rating_count": 3, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14402976-problem-on-balak", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "What I'm getting at is that you don't ever have to worry about being bored stiff in Solar Exploitations field work. It never gets dull -- and in some pretty strange places, at that.<br /><br />Take the \"S.E.2100's\" discovery of Balak, which is a little planet circling 70 Ophiuchi some 20,000 light-years from Earth, for example. You'd never expect to run across the greatest race of surgeons in the Galaxy -- structural, neural or what have you -- on a little apple like that, any more than you'd expect a four-man complement like ours to be handed the sort of life-and-death problem they put to us.<br /><br />And, if by some miracle of prophecy you anticipated both, it's a cinch you'd never expect that problem to be solved in the way ours was.", 
+    "format": "Hardcover", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/33839", 
+        "num": 33839
+    }, 
+    "authors": [
+        162
+    ], 
+    "pages": 24, 
+    "language": "English", 
+    "isbn13": "9781463896669", 
+    "country": 3, 
+    "release_date": "2010-10-04T00:00:00", 
+    "author": 162, 
+    "content_cleaned": true, 
+    "classes": [
+        "science-fiction", 
+        "owned", 
+        "unread", 
+        "to-read", 
+        "ebooks", 
+        "eb-other", 
+        "eb"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

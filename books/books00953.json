@@ -1,0 +1,52 @@
+{
+    "content_name": "30329.txt.utf-8", 
+    "isbn": "3655288816", 
+    "author_name": "Stephen Marlowe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30329/30329-h/images/001.png", 
+        "http://www.gutenberg.org/files/30329/30329-h/images/002-1.jpg", 
+        "http://www.gutenberg.org/files/30329/30329-h/images/002-2.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 953, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Black Eyes and the Daily Grind", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 0, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/12944457-black-eyes-and-the-daily-grind", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30329", 
+        "num": 30329
+    }, 
+    "authors": [
+        79
+    ], 
+    "language": "English", 
+    "isbn13": "9783655288818", 
+    "country": 3, 
+    "release_date": "2009-10-25T00:00:00", 
+    "author": 79, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "books", 
+        "e-shelf", 
+        "challenge-oldish", 
+        "anthos-shorts", 
+        "2014-challenge-oldish"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,76 @@
+{
+    "content_name": "28486.txt.utf-8", 
+    "isbn": "0980205204", 
+    "language_code": "eng", 
+    "author_name": "Everett B. Cole", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/28486/28486-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/28486/28486-h/images/dropcapn.png", 
+        "http://www.gutenberg.org/files/28486/28486-h/images/huts.png", 
+        "http://www.gutenberg.org/files/28486/28486-h/images/illus-002.png", 
+        "http://www.gutenberg.org/files/28486/28486-h/images/illus-022.png", 
+        "http://www.gutenberg.org/files/28486/28486-h/images/illus-039.png", 
+        "http://www.gutenberg.org/files/28486/28486-h/images/saurians.png"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 830, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Weakling", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.38, 
+    "rating_count": 27, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/28486/pg28486.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/4132161-the-weaklings", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "format": "Hardcover", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/28486", 
+        "num": 28486
+    }, 
+    "authors": [
+        224
+    ], 
+    "pages": 80, 
+    "language": "English", 
+    "isbn13": "9780980205206", 
+    "country": 3, 
+    "release_date": "2009-04-03T00:00:00", 
+    "author": 224, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "poetry", 
+        "queer", 
+        "poetry-and-poetics", 
+        "general-poetry", 
+        "filthy", 
+        "ebooks", 
+        "0-0", 
+        "read-2014", 
+        "on-our-shelf", 
+        "recentlyread", 
+        "sexuality", 
+        "postmodernism", 
+        "own-it", 
+        "gay-lit", 
+        "contemporary", 
+        "read-in-2014", 
+        "daddy-dark-s-baby-warrior-list", 
+        "fiction", 
+        "livros-ingl\u00eas", 
+        "lgbt"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

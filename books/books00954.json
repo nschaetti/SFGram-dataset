@@ -1,0 +1,66 @@
+{
+    "content_name": "22110.txt.utf-8", 
+    "author_name": "G. L. Vandenburg", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/22110/22110-page-images/p046.png", 
+        "http://www.gutenberg.org/files/22110/22110-page-images/p047.png", 
+        "http://www.gutenberg.org/files/22110/22110-page-images/p048.png", 
+        "http://www.gutenberg.org/files/22110/22110-page-images/p049.png", 
+        "http://www.gutenberg.org/files/22110/22110-page-images/p050.png", 
+        "http://www.gutenberg.org/files/22110/22110-page-images/p051.png"
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 954, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Martian V.F.W.", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.72, 
+    "rating_count": 28, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6684962-martian-v-f-w", 
+        "found": true, 
+        "year": 1959
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/22110", 
+        "num": 22110
+    }, 
+    "authors": [
+        291
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-07-20T00:00:00", 
+    "author": 291, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "fiction", 
+        "sci-fi", 
+        "short-story", 
+        "short-stories", 
+        "sf", 
+        "audio", 
+        "audiobooks", 
+        "short-fiction", 
+        "20th-century", 
+        "15", 
+        "librivox-short-scifi", 
+        "other", 
+        "first-contact", 
+        "audiobook", 
+        "classic-sci-fi", 
+        "type-short-story", 
+        "sci-fi-fantasy", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

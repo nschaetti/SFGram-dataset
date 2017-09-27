@@ -1,0 +1,52 @@
+{
+    "content_name": "29771.txt.utf-8", 
+    "author_name": "Paul Ernst", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29771/29771-h/images/illus.jpg"
+    ], 
+    "year": 1931, 
+    "images": [], 
+    "id": 778, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Planetoid of Peril", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.62, 
+    "rating_count": 6, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8449325-the-planetoid-of-peril", 
+        "found": true, 
+        "year": 1931
+    }, 
+    "similar_books": [], 
+    "description": "Harley 2Q14N20 stopped for a moment outside the great dome of the Celestial Developments Company. Moodily he stared at their asteroid development chart. It showed, as was to be expected, the pick of the latest asteroid subdivision projects: the Celestial Developments Company, established far back in 2045, would handle none but the very best. Small chance of his finding anything here!", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29771", 
+        "num": 29771
+    }, 
+    "authors": [
+        201
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-08-23T00:00:00", 
+    "author": 201, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "have-but-not-read", 
+        "calibre", 
+        "scifi", 
+        "literary-classics", 
+        "genre", 
+        "free-ebook", 
+        "fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

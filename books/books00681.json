@@ -1,0 +1,67 @@
+{
+    "content_name": "27110.txt.utf-8", 
+    "author_name": "Raymond Z. Gallun", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/27110/27110-h/images/001.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0222-image1.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0222.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0223-image1.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0223.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0224.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0225.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0226.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0227.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0228.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0229.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0230.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0231.png", 
+        "http://www.gutenberg.org/files/27110/27110-page-images/p0232.png"
+    ], 
+    "year": 1942, 
+    "images": [], 
+    "id": 681, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Eternal Wall", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.23, 
+    "rating_count": 19, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/9004539-the-eternal-wall", 
+        "found": true, 
+        "year": 1942
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/27110", 
+        "num": 27110
+    }, 
+    "authors": [
+        148
+    ], 
+    "language": "English", 
+    "isbn13": "2940000152409", 
+    "country": 3, 
+    "release_date": "2008-10-31T00:00:00", 
+    "author": 148, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "sci-fi", 
+        "science-fiction", 
+        "short-story", 
+        "collection", 
+        "owned-pending-kindle-free-ebook", 
+        "time-travel", 
+        "fiction", 
+        "ebooks", 
+        "type-short-story", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

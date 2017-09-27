@@ -1,0 +1,275 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'content_name'
+p6
+V24966.txt.utf-8
+p7
+sS'isbn'
+p8
+NsS'year'
+p9
+I1958
+sS'author_name'
+p10
+VAl Sevcik
+p11
+sS'images_urls'
+p12
+(lp13
+Vhttp://www.gutenberg.org/files/24966/24966-h/images/001.png
+p14
+asS'language_code'
+p15
+NsS'images'
+p16
+(lp17
+sS'id'
+p18
+I243
+sS'category'
+p19
+VText
+p20
+sS'plot'
+p21
+VThe story is told in the form of a series of interviews conducted by the narrator, Max Brooks, an agent of the United Nations Postwar Commission. Although the exact origin of the plague is unknown, a young boy from a village in China is identified as the plague's official patient zero. The boy's case marks the point where the Chinese government begins to take measures to cover up the disease, including generating a crisis with Taiwan to mask their activities. Nevertheless, the plague still manages to spread to various nations by human trafficking, refugees and the black market organ trade. Initially, these nations were able to cover up their smaller outbreaks, until a much larger outbreak in South Africa brings the plague to public attention.\u000aAs the infection spreads, Israel abandons the Palestinian territories and initiates a nationwide cordon sanitaire, closing its borders to everyone except uninfected Jews and Palestinians. Its military then puts down an ultra-Orthodox uprising, which is later referred to as an Israeli Civil War. The United States does little to prepare because it is overconfident in its ability to suppress any threat. Although special forces teams contain initial outbreaks, a widespread effort never starts: the nation is deprived of political will by "brushfire wars", and a widely distributed and marketed placebo vaccine, Phalanx, creates a false sense of security.\u000aAs many more areas around the globe fall to infection, a period known as the "Great Panic" begins. Pakistan and Iran destroy each other in a nuclear war, after the Iranian government attempts to stem the flow of refugees fleeing through Pakistan into Iran. After zombies overrun New York City, the U.S. military sets up a high-profile defense in the nearby city of Yonkers. The "Battle of Yonkers" is a disaster; modern weapons and tactics prove ineffective against zombies, as the enemy has no self-preservation instincts, feels no pain, and can only be stopped if shot through the head. The unprepared and demoralized soldiers are routed on live television. They become even more desperate on seeing that millions of zombies from infested New York City are coming behind the ones being killed. Other countries suffer similarly disastrous defeats, and human civilization teeters on the brink of destruction.\u000aIn South Africa, the government adopts a contingency plan drafted by apartheid-era intelligence consultant Paul Redeker. It calls for the establishment of small sanctuaries, leaving large groups of survivors abandoned in special zones in order to distract the undead and allowing those within the main safe zone time to regroup and recuperate. Governments worldwide assume similar plans or relocate the populace to safer foreign territory, such as the attempted complete evacuation of the Japanese archipelago to Kamchatka, which is deemed a success. Because zombies freeze solid in severe cold, many civilians in North America flee to the wildernesses of northern Canada and the Arctic, where eleven million people die of starvation and hypothermia. It is implied that some turn to cannibalism to survive; further interviews from other sources imply that cannibalism occurred in areas of the United States where food shortages occurred. The three remaining astronauts in the International Space Station survive the war by salvaging supplies from the abandoned Chinese space station and maintain some military and civilian satellites using an orbital fuel station. A surviving member of the ISS crew describes "mega" swarms of zombies on the North American Great Plains and Central Asia, and how the crisis affected the atmosphere, covering the skies above Earth in a black shroud, due to cities in flames around the world.\u000aThe U.S. eventually establishes safe zones west of the Rocky Mountains and spends much of the next decade eradicating zombies in that region. All aspects of civilian life are devoted to supporting the war effort against the pandemic. Much of it resembles total war strategies: rationing of fuel and food, cultivation of private gardens, and civilian neighborhood patrols. The U.S. government also initiates a "Re-education Act" to train the civilian population for the war effort and restore order; the people with skills such as carpentry and construction find themselves more valuable than people with managerial skills.\u000aSeven years after the outbreak began, a conference is held off the coast of Honolulu, aboard the USS Saratoga, where most of the world's leaders argue that they can outlast the zombie plague if they stay in their safe zones. The U.S. President, however, argues for going on the offensive. Determined to lead by example, the U.S. military reinvents itself to meet the specific strategic requirements of fighting the undead: using semi-automatic, high-power rifles and volley firing, focusing on head shots and slow, steady rates of fire (a tactic "re-invented" by the Indian Army during the Great Panic); and devising a multipurpose hand tool, the "Lobotomizer" or "Lobo" (described as a combination of a shovel and a battle axe), for close-quarters combat. The military, backed by a resurgent U.S. wartime economy, begins the three-year-long process of retaking the contiguous United States from both the undead as well as groups of hostile human survivors. Prewar military tactics and equipment are mentioned as being employed to deal with sometimes well-armed and organized human opposition.\u000aTen years after the official end of the zombie war, millions of zombies are still active, mainly on the ocean floor or on snow line islands. A democratic Cuba has become the world's most thriving economy. Following a civil war that saw the use of nuclear weapons, China has become a democracy and is now known as the "Chinese Federation". Tibet is freed from Chinese rule and hosts Lhasa, the world's most populated city. Following a religious revolution and the revival of Russian orthodoxy, Russia is now an expansionist theocracy known as the Holy Russian Empire. Owing to the fact that many young Russians either became zombies, were infected with HIV, or died due to drugs, the government has initiated a "breeding" program, with the remaining fertile women implied to be coercively impregnated to raise the birth rate. North Korea is completely empty, with the entire population presumed to have disappeared into underground bunkers.\u000aThe situation in the British Isles is not entirely clear in the novel, although Ireland may have escaped the worst of the outbreak. Members of the British Royal Family had fled to Ireland and the Isle of Man, following the military retreat to the Antonine Wall, and now exports oil from a reserve under Windsor Castle where the Queen held out for the war's duration, refusing to flee with her relatives. The Papacy established a wartime refuge in the Roman Catholic Archdiocese of Armagh. In France, the Palace of Versailles was the site of a massacre and has been burned to the ground; military losses were particularly high while clearing the catacombs underneath Paris because the catacombs housed nearly a quarter of a million refugees during the early stages of the war, all of whom became zombies. Iceland has been completely depopulated and remains the world's most heavily infested country.\u000aThe Israelis and Palestinians have made peace, and the former occupied territories have been renamed "Unified Palestine". Mexico is now known as "Aztlán". Several countries are described as having revised borders due to the "dumping" of convicts into infected zones; these convicts rose to command "powerful fiefdoms" that later became independent states. A so-called "Pacific Continent" appears to encompass previously uninhabited islands as well as ships rendered immobile due to lack of fuel. For unknown reasons, the Saudi Royal Family destroyed the oil fields in Saudi Arabia.\u000aThe United Nations fields a large military force to eliminate the remaining zombies from overrun areas, defeat hordes that surface from the ocean floor, and kill frozen zombies before they defrost. It is stated that previously eradicated diseases have made a comeback and that global life expectancy is greatly reduced as the world slowly recovers from the war.
+p22
+sS'genres'
+p23
+(lp24
+sS'copyright'
+p25
+VPublic domain in the USA.
+p26
+sS'title'
+p27
+VSurvival Tactics
+p28
+sS'wikipedia'
+p29
+(dp30
+S'url'
+p31
+Vhttps://en.wikipedia.org/wiki/World_War_Z
+p32
+sS'found'
+p33
+I01
+sS'year'
+p34
+I-1
+ssS'published_in'
+p35
+NsS'average_rating'
+p36
+F3.41
+sS'rating_count'
+p37
+I121
+sS'content_available'
+p38
+I01
+sS'goodreads'
+p39
+(dp40
+g31
+Vhttps://www.goodreads.com/book/show/11555416-survival-tactics
+p41
+sg33
+I01
+sg34
+I1958
+ssS'similar_books'
+p42
+(lp43
+VInvaders from the Infinite
+p44
+aV50 Ways to Protect Your Identity in a Digital Age: New Financial Threats You Need to Know and How to Avoid Them
+p45
+aVDuct Tape Bags
+p46
+aVHow to Speed Read: A Very Easy Guide
+p47
+aVAge Smart: Discovering the Fountain of Youth at Midlife and Beyond
+p48
+aVThe Busy Mom's Guide To Speed Cleaning And Organizing: How To Organize, Clean, And Keep Your Home Spotless
+p49
+aVClean It! A to Z Guide of How to Clean Your Home
+p50
+aVUrban Preppers with Kids, Pets &Parents
+p51
+aVBarcode Booty: How I Found and Sold $2 Million of 'Junk' on Ebay and Amazon, and You Can, Too, Using Your Phone
+p52
+aVWoodcraft and Camping
+p53
+aVThe New Guide to Knitting & Crochet
+p54
+aVSurvival Guide for Beginners
+p55
+aVBeyond the Door
+p56
+aVHow to Sew: Basics
+p57
+aVThe Golden Sayings of Epictetus
+p58
+aVDisruptive Possibilities: How Big Data Changes Everything
+p59
+aVThe Ladies' Work-Book Containing Instructions In Knitting, Crochet, Point-Lace, etc.
+p60
+aVAnatomy & Physiology
+p61
+asS'description'
+p62
+VGreat Sci Fi short story by Al Sevcik!<br /><br />The robots were built to serve Man; to do his work, see to his comforts, make smooth his way. Then the robots figured out an additional service...
+p63
+sS'format'
+p64
+NsS'gutenberg'
+p65
+(dp66
+g31
+Vhttp://www.gutenberg.org/ebooks/24966
+p67
+sS'num'
+p68
+I24966
+ssS'authors'
+p69
+(lp70
+I80
+asS'isbn13'
+p71
+NsS'language'
+p72
+VEnglish
+p73
+sS'country'
+p74
+I2
+sS'release_date'
+p75
+S'2008-03-30T00:00:00'
+p76
+sS'author'
+p77
+I80
+sS'original_title'
+p78
+VWorld War Z
+p79
+sS'summary'
+p80
+VWorld War Z: An Oral History of the Zombie War is a 2006 apocalyptic horror novel by Max Brooks. The novel is a collection of individual accounts narrated by an agent of the United Nations Postwar Commission, following the devastating global conflict against the zombie plague. Other passages record a decade-long desperate struggle, as experienced by people of various nationalities. The personal accounts also describe the resulting social, political, religious, and environmental changes.\u000aWorld War Z is a follow-up to Brooks' "survival manual", The Zombie Survival Guide (2003), but its tone is much more serious. It was inspired by The Good War: An Oral History of World War Two (1984) by Studs Terkel, and by the zombie films of George A. Romero. Brooks used World War Z to comment on government ineptitude and U.S. isolationism, while also examining survivalism and uncertainty. The novel was a commercial hit and was praised by most critics.\u000aIts audiobook version, performed by a full cast including Alan Alda, Mark Hamill, and John Turturro, won an Audie Award in 2007. A film with the same name as the novel, directed by Marc Forster and starring Brad Pitt, was released in 2013.
+p81
+sS'content_cleaned'
+p82
+I01
+sS'classes'
+p83
+(lp84
+Vto-read
+p85
+aVcurrently-reading
+p86
+aVkindle
+p87
+aVscience-fiction
+p88
+aVsci-fi
+p89
+aVsurvival
+p90
+aVebook
+p91
+aVself-help
+p92
+aVfiction
+p93
+aVclassic-sci-fi
+p94
+aVamazon-library
+p95
+aVactually-own
+p96
+aVto-read-second
+p97
+aV20th-century-lit
+p98
+aVnonfiction
+p99
+aVamazon
+p100
+aVvietnam-modern-warfare
+p101
+aVhistory-usa
+p102
+aVhistorical-war
+p103
+aVcrafting-publishing-books
+p104
+aVmy-stuff
+p105
+aVshelf-s-authors
+p106
+aVgenre-nonfiction-ref
+p107
+aVeducational
+p108
+aVnoob
+p109
+aVscifi-fantasy
+p110
+aVshort-story
+p111
+aVprep
+p112
+aVhelp-and-how-to
+p113
+aVread-in-21st-century
+p114
+aVamazon-kindle-books
+p115
+aVsurvival-non-fiction
+p116
+aVbooks-i-own
+p117
+aVself-improvement
+p118
+aVkindle-book
+p119
+aVunder-hyped
+p120
+aVphilosophy
+p121
+aVpreppers
+p122
+aVe-books
+p123
+aVamazon-books
+p124
+aVfinished-books
+p125
+aVe-book
+p126
+aV13
+p127
+aVunderhyped
+p128
+asS'loc_class'
+p129
+VPS: Language and Literatures: American and Canadian literature
+p130
+sS'n_authors'
+p131
+I1
+sb.

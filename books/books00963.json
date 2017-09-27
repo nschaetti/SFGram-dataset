@@ -1,0 +1,50 @@
+{
+    "content_name": "51053.txt.utf-8", 
+    "isbn": "1523802014", 
+    "author_name": "Sam Merwin", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51053/51053-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51053/51053-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51053/51053-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51053/51053-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 963, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Judas Ram", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51053/pg51053.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29061723-judas-ram", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51053", 
+        "num": 51053
+    }, 
+    "authors": [
+        147
+    ], 
+    "pages": 42, 
+    "language": "English", 
+    "isbn13": "9781523802012", 
+    "country": 3, 
+    "release_date": "2016-01-27T00:00:00", 
+    "author": 147, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

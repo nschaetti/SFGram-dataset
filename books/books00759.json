@@ -1,0 +1,64 @@
+{
+    "content_name": "29966.txt.utf-8", 
+    "author_name": "Nathan Schachner", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_a.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_a1.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_b.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_d.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_e.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_f.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_g.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_g1.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_h.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_i.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_j.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_m.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_o1.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_s.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_s1.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_t.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_t1.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_w.jpg", 
+        "http://www.gutenberg.org/files/29966/29966-h/images/image_w1.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 759, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Slaves of Mercury", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 1.5, 
+    "rating_count": 2, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/13375017-slaves-of-mercury", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29966", 
+        "num": 29966
+    }, 
+    "authors": [
+        244
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-09-12T00:00:00", 
+    "author": 244, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "calibre", 
+        "fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

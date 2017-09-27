@@ -1,0 +1,48 @@
+{
+    "content_name": "51834.txt.utf-8", 
+    "author_name": "Christopher Grimm", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51834/51834-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51834/51834-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51834/51834-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/51834/51834-h/images/illus3.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 690, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Never Come Midnight", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 0.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51834/pg51834.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/33859231-never-come-midnight", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51834", 
+        "num": 51834
+    }, 
+    "authors": [
+        227
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-04-22T00:00:00", 
+    "author": 227, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "unknown-publication-dates"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

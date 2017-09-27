@@ -1,0 +1,55 @@
+{
+    "content_name": "27797.txt.utf-8", 
+    "author_name": "Gerald Vance", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/27797/27797-h/images/001.png", 
+        "http://www.gutenberg.org/files/27797/27797-page-images/p0054-image1.png", 
+        "http://www.gutenberg.org/files/27797/27797-page-images/p0055.png", 
+        "http://www.gutenberg.org/files/27797/27797-page-images/p0056.png", 
+        "http://www.gutenberg.org/files/27797/27797-page-images/p0057.png", 
+        "http://www.gutenberg.org/files/27797/27797-page-images/p0058.png", 
+        "http://www.gutenberg.org/files/27797/27797-page-images/p0059.png", 
+        "http://www.gutenberg.org/files/27797/27797-page-images/p0060.png", 
+        "http://www.gutenberg.org/files/27797/27797-page-images/p0061.png", 
+        "http://www.gutenberg.org/files/27797/27797-page-images/p0062.png"
+    ], 
+    "year": 2009, 
+    "images": [], 
+    "id": 678, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Vital Ingredient", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.25, 
+    "rating_count": 4, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10663606-vital-ingredient", 
+        "found": true, 
+        "year": 2009
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/27797", 
+        "num": 27797
+    }, 
+    "authors": [
+        185
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-01-21T00:00:00", 
+    "author": 185, 
+    "content_cleaned": true, 
+    "classes": [
+        "unread", 
+        "ebooks", 
+        "14", 
+        "stanza"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,55 @@
+{
+    "content_name": "29298.txt.utf-8", 
+    "author_name": "Anthony Gilmore", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29298/29298-h/images/image_001.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 717, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Bluff of the Hawk", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 1, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20406714-the-bluff-of-the-hawk", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29298", 
+        "num": 29298
+    }, 
+    "authors": [
+        104
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-07-03T00:00:00", 
+    "author": 104, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "racist-sexist", 
+        "not-good", 
+        "eeek", 
+        "a-reviewed", 
+        "2017-read", 
+        "2016-read", 
+        "science-fiction", 
+        "novella", 
+        "classic", 
+        "unread", 
+        "calibre", 
+        "un"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

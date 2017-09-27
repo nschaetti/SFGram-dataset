@@ -1,0 +1,77 @@
+{
+    "content_name": "48880.txt.utf-8", 
+    "isbn": "1938853555", 
+    "language_code": "eng", 
+    "author_name": "Roger D. Aycock", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/48880/48880-h/images/beast.jpg", 
+        "http://www.gutenberg.org/files/48880/48880-h/images/cover.jpg"
+    ], 
+    "year": 2014, 
+    "images": [], 
+    "id": 775, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Rough Beast", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.67, 
+    "rating_count": 11, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/48880/pg48880.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20646508-rough-beast", 
+        "found": true, 
+        "year": 2014
+    }, 
+    "similar_books": [
+        "Hanging Dog Creek", 
+        "The Gravedigger's Roots", 
+        "Reasons (not) to Dance", 
+        "For One Who Knows How to Own Land", 
+        "Broke", 
+        "House You Cannot Reach", 
+        "Miss Havisham in Winter", 
+        "Beyond the Bones", 
+        "What the Neighbors Know", 
+        "Bullets in the Jewelry Box", 
+        "Fugitive Pigments", 
+        "The Night I Heard Everything", 
+        "Damaged Little Creatures", 
+        "July's Thick Kingdom", 
+        "A Lean Against the Wheel", 
+        "Stealing Hymnals from the Choir", 
+        "Blood Moon", 
+        "Simple Weight"
+    ], 
+    "description": "Set on what remains of a small family farm in the Blue Ridge foothills of Western North Carolina, ROUGH BEAST depicts the quirky ascension of Larry Ledbetter from small-time country gangster to unwilling literary lion. Larry\u2019s voice is the engine that drives the sometimes comic but often violent narrative. In his attempt to come to grips with both personal tragedies and his inexplicable success, Larry reveals his vulnerability and shared humanity.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/48880", 
+        "num": 48880
+    }, 
+    "authors": [
+        162
+    ], 
+    "pages": 82, 
+    "language": "English", 
+    "isbn13": "9781938853555", 
+    "country": 3, 
+    "release_date": "2015-05-05T00:00:00", 
+    "author": 162, 
+    "content_cleaned": false, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "contest", 
+        "first-reads", 
+        "random", 
+        "chrissy-s-hope-to-reads", 
+        "edited-designed", 
+        "futurecycle"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

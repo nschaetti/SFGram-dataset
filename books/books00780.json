@@ -1,0 +1,52 @@
+{
+    "content_name": "28535.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Forrest J. Ackerman", 
+    "images_urls": [], 
+    "year": 2011, 
+    "images": [], 
+    "id": 780, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Out of This World Convention", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.78, 
+    "rating_count": 15, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6636860-out-of-this-world-convention", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "PN: Language and Literatures: Literature: General, Criticism, Collections", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/28535", 
+        "num": 28535
+    }, 
+    "authors": [
+        103
+    ], 
+    "pages": 2, 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-04-07T00:00:00", 
+    "author": 103, 
+    "content_cleaned": true, 
+    "classes": [
+        "currently-reading", 
+        "audiobooks", 
+        "sf", 
+        "short-story", 
+        "15", 
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "type-short-story", 
+        "audio-books"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

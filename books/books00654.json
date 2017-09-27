@@ -1,0 +1,48 @@
+{
+    "content_name": "24792.txt.utf-8", 
+    "author_name": "Gerry Maddren", 
+    "images_urls": [], 
+    "year": 2008, 
+    "images": [], 
+    "id": 654, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Alternate Plan", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.33, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6242384-the-alternate-plan", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/24792", 
+        "num": 24792
+    }, 
+    "authors": [
+        213
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-03-09T00:00:00", 
+    "author": 213, 
+    "content_cleaned": true, 
+    "classes": [
+        "short-story", 
+        "science-fiction", 
+        "fiction", 
+        "sf", 
+        "audio-obtained", 
+        "to-read", 
+        "type-short-story", 
+        "audio-obtained-ss"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

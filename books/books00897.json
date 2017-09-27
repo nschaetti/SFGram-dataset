@@ -1,0 +1,70 @@
+{
+    "content_name": "23767.txt.utf-8", 
+    "isbn": "160664517X", 
+    "author_name": "H. B. Fyfe", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23767/23767-page-images/p048.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p049a.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p049b.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p050a.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p050b.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p051a.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p051b.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p052a.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p052b.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p053a.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p053b.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p054a.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p054b.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p055a.png", 
+        "http://www.gutenberg.org/files/23767/23767-page-images/p055b.png"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 897, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Talkative Tree", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.1, 
+    "rating_count": 7, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14465413-the-talkative-tree", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "\"Dang vines! Beats all how some plants have no manners -- but what do you expect, when they used to be men!\"<br /><br />Steward Peter Kolin made himself inconspicuous.<br /><br />All things considered -- the obscure star system they were stranded in, the undetermined damage to the stellar drive, and the way the small planet's murky atmosphere defied precision scanners -- the pilot made a reasonably good landing. Despite sour feelings for the space service of Haurtoz, Kolin had to admit that things might have been far worse.<br /><br />They were going to get worse. Much, \"much\" worse . . .", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23767", 
+        "num": 23767
+    }, 
+    "authors": [
+        94
+    ], 
+    "pages": 20, 
+    "language": "English", 
+    "isbn13": "9781606645178", 
+    "country": 3, 
+    "release_date": "2007-12-08T00:00:00", 
+    "author": 94, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "short-story", 
+        "free-from-amazon", 
+        "classic", 
+        "science-fiction", 
+        "librivox-short-scifi", 
+        "sci-fi", 
+        "fiction", 
+        "sci-fi-fantasy"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

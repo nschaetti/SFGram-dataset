@@ -1,0 +1,55 @@
+{
+    "content_name": "23884.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "George O. Smith", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/23884/23884-h/images/asf195905080i.png", 
+        "http://www.gutenberg.org/files/23884/23884-h/images/asf195905081i.png", 
+        "http://www.gutenberg.org/files/23884/23884-h/images/asf195905087i.png", 
+        "http://www.gutenberg.org/files/23884/23884-h/images/asf195905091i.png"
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 927, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "History Repeats", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.27, 
+    "rating_count": 10, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/9774717-history-repeats", 
+        "found": true, 
+        "year": 1959
+    }, 
+    "similar_books": [], 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/23884", 
+        "num": 23884
+    }, 
+    "authors": [
+        95
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2007-12-17T00:00:00", 
+    "author": 95, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "sci-fi", 
+        "owned", 
+        "free-from-amazon", 
+        "short-stories", 
+        "audiobooks", 
+        "ebooks", 
+        "15"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

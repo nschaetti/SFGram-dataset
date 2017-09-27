@@ -1,0 +1,52 @@
+{
+    "content_name": "51420.txt.utf-8", 
+    "isbn": "097860590X", 
+    "author_name": "Louis Newman", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51420/51420-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51420/51420-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51420/51420-h/images/illus2.jpg"
+    ], 
+    "year": 2008, 
+    "images": [], 
+    "id": 970, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "License to Steal", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.2, 
+    "rating_count": 5, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51420/pg51420.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/3124792-a-license-to-steal", 
+        "found": true, 
+        "year": 2008
+    }, 
+    "similar_books": [], 
+    "description": "Walter T. Shaw's Autobiography - As early as the 1940s, 1950s and 1960s, Walter L. Shaw was thinking of speaker phones, conference calls and call forwarding. Of the thirty-nine patents to his credit, those three telephonic breakthroughs were his biggest inventions, yet nobody knows his name. Ahead of the world by decades, Shaw was leading us into a high-tech future as part of the intellectual elite, but he was repeatedly cheated by shrewd businessmen and big corporations. His son, Walter T. Shaw, was enraged by the ill treatment of his father and embraced a personal mission to even the score. Shaw Jr. would become one of the most prolific jewel thieves in U.S. history. Shaw Sr. spent a lifetime inventing and patenting the many means of communication we take for granted today, but it was all for nothing.Tragically, only the Mafia rewarded him. Just to make ends meet for his family, he was persuaded to put his brilliance to work for the mob.", 
+    "format": "Hardcover", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51420", 
+        "num": 51420
+    }, 
+    "authors": [
+        299
+    ], 
+    "pages": 270, 
+    "language": "English", 
+    "isbn13": "9780978605902", 
+    "country": 3, 
+    "release_date": "2016-03-11T00:00:00", 
+    "author": 299, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "audiobooks"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

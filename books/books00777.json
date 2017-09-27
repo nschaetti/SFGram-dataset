@@ -1,0 +1,43 @@
+{
+    "content_name": "51615.txt.utf-8", 
+    "author_name": "Jack Sharkey", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51615/51615-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51615/51615-h/images/illus.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 777, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "A Matter of Protocol", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 4.0, 
+    "rating_count": 1, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51615/pg51615.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29979783-a-matter-of-protocol", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51615", 
+        "num": 51615
+    }, 
+    "authors": [
+        205
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2016-04-01T00:00:00", 
+    "author": 205, 
+    "content_cleaned": true, 
+    "classes": [], 
+    "content_available": true, 
+    "n_authors": 1
+}

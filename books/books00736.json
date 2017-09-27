@@ -1,0 +1,52 @@
+{
+    "content_name": "36867.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Alex Apostolides", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/36867/36867-h/images/002.png", 
+        "http://www.gutenberg.org/files/36867/36867-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/36867/36867-h/images/end_piece.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 736, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Progress Report", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.4, 
+    "rating_count": 5, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/36867/pg36867.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/20501431-progress-report", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/36867", 
+        "num": 36867
+    }, 
+    "authors": [
+        238, 
+        236
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2011-07-27T00:00:00", 
+    "author": 238, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "16", 
+        "tog_bookclub"
+    ], 
+    "content_available": true, 
+    "n_authors": 2
+}

@@ -1,0 +1,52 @@
+{
+    "content_name": "30252.txt.utf-8", 
+    "author_name": "Arthur W. Orton", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/30252/30252-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/30252/30252-h/images/image_002.jpg", 
+        "http://www.gutenberg.org/files/30252/30252-h/images/image_003.jpg", 
+        "http://www.gutenberg.org/files/30252/30252-h/images/image_004.jpg", 
+        "http://www.gutenberg.org/files/30252/30252-h/images/image_w.jpg"
+    ], 
+    "year": 2011, 
+    "images": [], 
+    "id": 795, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Four-Faced Visitors of Ezekiel", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.23, 
+    "rating_count": 13, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/19114090-the-four-faced-visitors-of-ezekiel", 
+        "found": true, 
+        "year": 2011
+    }, 
+    "similar_books": [], 
+    "loc_class": "BS: Philosophy, Psychology, Religion: Christianity: The Bible, Old and New Testament", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/30252", 
+        "num": 30252
+    }, 
+    "authors": [
+        252
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2009-10-14T00:00:00", 
+    "author": 252, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "amazon-kindle-library", 
+        "spirituality", 
+        "15", 
+        "exegesis-to-read"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

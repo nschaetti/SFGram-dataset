@@ -1,0 +1,82 @@
+{
+    "content_name": "26906.txt.utf-8", 
+    "author_name": "Neil R. Jones", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26906/26906-h/images/001.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0156.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0157-image1.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0157.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0158.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0159.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0160.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0161.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0162.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0163.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0164.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0165.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0166.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0167.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0168.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0169.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0170.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0171.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0172.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0173.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0174.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0175.png", 
+        "http://www.gutenberg.org/files/26906/26906-page-images/p0176.png"
+    ], 
+    "year": 1931, 
+    "images": [], 
+    "id": 774, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Jameson Satellite", 
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Before_the_Golden_Age", 
+        "found": true, 
+        "year": -1
+    }, 
+    "average_rating": 3.33, 
+    "rating_count": 15, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/6356127-the-jameson-satellite", 
+        "found": true, 
+        "year": 1931
+    }, 
+    "similar_books": [], 
+    "description": "The mammoths of the ancient world have been wonderfully preserved in the ice of Siberia. The cold, only a few miles out in space, will be far more intense than in the polar regions and its power of preserving the dead body would most probably be correspondingly increased. When the hero-scientist of this story knows he must die, he conceives a brilliant idea for the preservation of his body, the result of which even exceeded his expectations. What, how, and why are cleverly told here.", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26906", 
+        "num": 26906
+    }, 
+    "authors": [
+        131
+    ], 
+    "language": "English", 
+    "country": 2, 
+    "release_date": "2008-10-13T00:00:00", 
+    "author": 131, 
+    "original_title": "Before the Golden Age", 
+    "summary": "Before the Golden Age: A Science Fiction Anthology of the 1930s is an anthology of 25 science fiction stories from 1930s pulp magazines, edited by American science fiction writer Isaac Asimov. It also includes \"Big Game\", a short story written by Asimov in 1941 and never sold. The anthology was first published in April 1974.\nThe anthology was inspired by a dream Asimov had on the morning of 3 April 1973. In his dream, Asimov had prepared an anthology of his favorite science fiction stories from the 1930s and was delighted to get a chance to read them again. After waking, he told his fiance\u00e9 Janet Jeppson about the dream, and she suggested that he actually do such an anthology. Doubleday agreed to publish the anthology, and Asimov's friend Sam Moskowitz provided him with copies of the relevant science fiction magazines. Asimov completed work on the anthology on 10 May.\nThe stories were selected by Asimov, and the main selection criterion was the degree to which they influenced him when he was growing up in the 1930s. The prefatory material and individual introductions to the stories fill in the details about the early life of the child prodigy, which effectively makes the volume an autobiographical prequel to his earlier collection The Early Asimov.\nThe anthology was first published as a large hardcover by Doubleday in 1974 and re-issued as three smaller paperbacks by Fawcett Books the following year. The series was re-issued multiple times in the period of 1975-1984 in sets of either three or four paperbacks. As of 2016, it is out of print.", 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "science-fiction", 
+        "soon-to-read", 
+        "science", 
+        "immortal", 
+        "fiction", 
+        "sci-fi-classics", 
+        "short-stories", 
+        "1930s", 
+        "cyborg-stories", 
+        "nook", 
+        "sci-fi", 
+        "classic-sci-fi"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

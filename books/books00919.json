@@ -1,0 +1,50 @@
+{
+    "content_name": "31701.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Jesse F. Bone", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/31701/31701-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/31701/31701-h/images/image_001.jpg", 
+        "http://www.gutenberg.org/files/31701/31701-h/images/image_a.jpg"
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 919, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Noble Redman", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.83, 
+    "rating_count": 6, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/31701/pg31701.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/18111961-noble-redman", 
+        "found": true, 
+        "year": 1960
+    }, 
+    "similar_books": [], 
+    "description": "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it free on the web. Purchase of the Kindle edition includes wireless delivery.", 
+    "format": "Kindle Edition", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/31701", 
+        "num": 31701
+    }, 
+    "authors": [
+        68
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2010-03-19T00:00:00", 
+    "author": 68, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "currently-reading"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

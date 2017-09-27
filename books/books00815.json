@@ -1,0 +1,73 @@
+{
+    "content_name": "26967.txt.utf-8", 
+    "language_code": "eng", 
+    "author_name": "Green Peyton", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/26967/26967-h/images/001.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p120.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p121.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p122.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p123.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p124.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p125.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p126.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p127.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p128.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p129.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p130.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p131.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p132.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p133.png", 
+        "http://www.gutenberg.org/files/26967/26967-page-images/p134.png"
+    ], 
+    "year": 1926, 
+    "images": [], 
+    "id": 815, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "The Coming of the Ice", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.55, 
+    "rating_count": 13, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8130638-the-coming-of-the-ice", 
+        "found": true, 
+        "year": 1926
+    }, 
+    "similar_books": [], 
+    "description": "<b>It is strange to be alone, and so cold. To be the last man on earth....</b><br /><br />First published in <i>Amazing Stories</i>", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/26967", 
+        "num": 26967
+    }, 
+    "authors": [
+        259
+    ], 
+    "language": "English", 
+    "country": 3, 
+    "release_date": "2008-10-19T00:00:00", 
+    "author": 259, 
+    "content_cleaned": true, 
+    "classes": [
+        "sci-fi", 
+        "science-fiction", 
+        "to-read", 
+        "short-stories", 
+        "1920-1929", 
+        "horror", 
+        "fiction", 
+        "death-and-dying", 
+        "apocalyptic", 
+        "20th-century", 
+        "audiobooks", 
+        "15", 
+        "book-clubs", 
+        "short-story"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

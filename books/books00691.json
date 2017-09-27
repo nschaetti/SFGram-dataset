@@ -1,0 +1,52 @@
+{
+    "content_name": "52009.txt.utf-8", 
+    "isbn": "0234771038", 
+    "author_name": "Robert Moore Williams", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/52009/52009-h/images/cover.jpg"
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 691, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "New Lamps", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.75, 
+    "rating_count": 4, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/52009/pg52009.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/3992075-new-lamps-for-old", 
+        "found": true, 
+        "year": 1968
+    }, 
+    "similar_books": [], 
+    "loc_class": "", 
+    "format": "Unknown Binding", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/52009", 
+        "num": 52009
+    }, 
+    "authors": [
+        135
+    ], 
+    "pages": 96, 
+    "language": "English", 
+    "isbn13": "9780234771037", 
+    "country": 3, 
+    "release_date": "2016-05-06T00:00:00", 
+    "author": 135, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "drama", 
+        "fairy-tale-plays", 
+        "youth-fiction", 
+        "plays"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

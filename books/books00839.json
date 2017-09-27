@@ -1,0 +1,53 @@
+{
+    "content_name": "51072.txt.utf-8", 
+    "isbn": "1530314232", 
+    "author_name": "Kris Neville", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/51072/51072-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/51072/51072-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/51072/51072-h/images/illus2.jpg"
+    ], 
+    "year": -1, 
+    "images": [], 
+    "id": 839, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Shamar's War", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.0, 
+    "rating_count": 0, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/51072/pg51072.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/29463027-shamar-s-war", 
+        "found": true, 
+        "year": -1
+    }, 
+    "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
+    "format": "Paperback", 
+    "loc_class": "", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/51072", 
+        "num": 51072
+    }, 
+    "authors": [
+        194
+    ], 
+    "pages": 62, 
+    "language": "English", 
+    "isbn13": "9781530314232", 
+    "country": 3, 
+    "release_date": "2016-01-29T00:00:00", 
+    "author": 194, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "unknown-publication-dates", 
+        "free-from-amazon"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

@@ -1,0 +1,57 @@
+{
+    "content_name": "32427.txt.utf-8", 
+    "isbn": "1463801947", 
+    "author_name": "Boyd Ellanby", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/32427/32427-h/images/cover.jpg", 
+        "http://www.gutenberg.org/files/32427/32427-h/images/illus1.jpg", 
+        "http://www.gutenberg.org/files/32427/32427-h/images/illus2.jpg", 
+        "http://www.gutenberg.org/files/32427/32427-h/images/illus3.jpg"
+    ], 
+    "year": 2010, 
+    "images": [], 
+    "id": 694, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "Category Phoenix", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 3.2, 
+    "rating_count": 2, 
+    "cover_art_url": "http://www.gutenberg.org/cache/epub/32427/pg32427.cover.medium.jpg", 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/14402806-category-phoenix", 
+        "found": true, 
+        "year": 2010
+    }, 
+    "similar_books": [], 
+    "description": "Wong leaned back in his chair and smiled at his visitors.<br /><br />\"The wisdom of Leader Marley is a constant help to us all, but his generosity is also a byword. Surely you remember that on the tenth anniversary of his accession, he honored me by the grant of occasional hours of Privacy, as a reward for my work on Blue Martian Fever?\"<br /><br />\"I remember now,\" said Dr. Lanza.<br /><br />\"But what for?\" asked Officer Blagun. \"It's anti-social!\"", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/32427", 
+        "num": 32427
+    }, 
+    "authors": [
+        149
+    ], 
+    "pages": 64, 
+    "language": "English", 
+    "isbn13": "9781463801946", 
+    "country": 3, 
+    "release_date": "2010-05-19T00:00:00", 
+    "author": 149, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "free-from-amazon", 
+        "21st-century-lit", 
+        "owned-pending-kindle-free-ebook", 
+        "pg", 
+        "ellanby-boyd"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}

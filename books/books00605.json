@@ -1,0 +1,57 @@
+{
+    "content_name": "29322.txt.utf-8", 
+    "isbn": "1153818337", 
+    "author_name": "Arthur Leo Zagat", 
+    "images_urls": [
+        "http://www.gutenberg.org/files/29322/29322-h/images/image_001.jpg"
+    ], 
+    "year": 1932, 
+    "images": [], 
+    "id": 605, 
+    "category": "Text", 
+    "genres": [], 
+    "copyright": "Public domain in the USA.", 
+    "title": "When the Sleepers Woke", 
+    "wikipedia": {
+        "found": false
+    }, 
+    "average_rating": 2.88, 
+    "rating_count": 5, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/8464648-when-the-sleepers-woke", 
+        "found": true, 
+        "year": 1932
+    }, 
+    "similar_books": [], 
+    "description": "The book has no illustrations or index. Purchasers are entitled to a free trial membership in the General Books Club where they can select from more than a million books without charge. Subjects: Science fiction; Technological innovations; Twenty-first century; Time travel; London (England); Science fiction, English; Fiction / Science Fiction / General;", 
+    "format": "Paperback", 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "gutenberg": {
+        "url": "http://www.gutenberg.org/ebooks/29322", 
+        "num": 29322
+    }, 
+    "authors": [
+        197
+    ], 
+    "language": "English", 
+    "isbn13": "9781153818339", 
+    "country": 3, 
+    "release_date": "2009-07-05T00:00:00", 
+    "author": 197, 
+    "content_cleaned": true, 
+    "classes": [
+        "to-read", 
+        "junk", 
+        "calibre", 
+        "15", 
+        "z", 
+        "post-apocalyptic-and-disaster", 
+        "so-bad-it-s-good", 
+        "science-fiction", 
+        "science", 
+        "general", 
+        "fiction"
+    ], 
+    "content_available": true, 
+    "n_authors": 1
+}
