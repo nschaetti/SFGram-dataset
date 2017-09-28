@@ -14,26 +14,29 @@ S'name'
 p6
 VLester Del Rey
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Winston_Science_Fiction
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Winston_Science_Fiction
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I12
 sS'summary'
-p14
-VWinston Science Fiction was a series of 37 American juvenile science fiction books published by the John C. Winston Company of Philadelphia from 1952 to 1960 and by its successor Holt, Rinehart & Winston in 1960 and 1961. It included 35 novels by various writers, including many who became famous in the SF field, such as Poul Anderson, Arthur C. Clarke, Ben Bova, and Lester del Rey. There was also one anthology, The Year After Tomorrow, edited by del Rey and others. There was one non-fiction book Rockets through Space: The Story of Man's Preparations to Explore the Universe by del Rey which details the factual science and technology of rocket flight. Many of the dust jackets became science fiction classics; the artists included Hugo Award winners Ed Emshwiller and Virgil Finlay along with Hugo nominees such as Mel Hunter and Alex Schomburg.
 p15
-sS'books'
+VWinston Science Fiction was a series of 37 American juvenile science fiction books published by the John C. Winston Company of Philadelphia from 1952 to 1960 and by its successor Holt, Rinehart & Winston in 1960 and 1961. It included 35 novels by various writers, including many who became famous in the SF field, such as Poul Anderson, Arthur C. Clarke, Ben Bova, and Lester del Rey. There was also one anthology, The Year After Tomorrow, edited by del Rey and others. There was one non-fiction book Rockets through Space: The Story of Man's Preparations to Explore the Universe by del Rey which details the factual science and technology of rocket flight. Many of the dust jackets became science fiction classics; the artists included Hugo Award winners Ed Emshwiller and Virgil Finlay along with Hugo nominees such as Mel Hunter and Alex Schomburg.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I225
 aI232
 aI240
@@ -47,6 +50,6 @@ aI416
 aI420
 aI526
 asS'id'
-p18
+p19
 I73
 sb.

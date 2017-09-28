@@ -14,26 +14,29 @@ S'name'
 p6
 VH. Beam Piper
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Empire_(H._Beam_Piper_book)
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Empire_(H._Beam_Piper_book)
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I30
 sS'summary'
-p14
-VEmpire is a collection of short stories by American writer H. Beam Piper, edited by John F. Carr. The book was published in 1981 by Ace Books, and again in 1986. Most of these stories take place in his Terro-Human Future History, with the sole exception being "The Return".
 p15
-sS'books'
+VEmpire is a collection of short stories by American writer H. Beam Piper, edited by John F. Carr. The book was published in 1981 by Ace Books, and again in 1986. Most of these stories take place in his Terro-Human Future History, with the sole exception being "The Return".
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I44
 aI61
 aI68
@@ -65,6 +68,6 @@ aI467
 aI627
 aI769
 asS'id'
-p18
+p19
 I19
 sb.

@@ -1,4 +1,10 @@
 {
+    "name": "Tom Godwin", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 5, 
     "books": [
         103, 
         237, 
@@ -6,10 +12,5 @@
         583, 
         648
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Tom Godwin", 
-    "n_books": 5, 
     "id": 39
 }

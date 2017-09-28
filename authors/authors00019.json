@@ -1,5 +1,6 @@
 {
     "name": "H. Beam Piper", 
+    "country": 2, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Empire_(H._Beam_Piper_book)", 
         "found": true

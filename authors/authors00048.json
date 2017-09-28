@@ -1,14 +1,15 @@
 {
+    "name": "John Joseph McGuire", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 4, 
     "books": [
         138, 
         273, 
         298, 
         339
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "John Joseph McGuire", 
-    "n_books": 4, 
     "id": 48
 }

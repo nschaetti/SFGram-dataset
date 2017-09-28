@@ -104,7 +104,7 @@ VEnglish
 p49
 sS'country'
 p50
-I3
+I2
 sS'release_date'
 p51
 S'2004-10-01T00:00:00'
