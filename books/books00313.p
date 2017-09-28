@@ -133,7 +133,7 @@ VEnglish
 p62
 sS'country'
 p63
-I6
+I2
 sS'release_date'
 p64
 S'2015-09-20T00:00:00'

@@ -158,7 +158,7 @@ VEnglish
 p74
 sS'country'
 p75
-I6
+I2
 sS'release_date'
 p76
 S'2008-01-21T00:00:00'

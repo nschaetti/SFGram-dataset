@@ -20,7 +20,7 @@ VRobert E. Howard
 p9
 sS'country'
 p10
-I2
+I1
 sS'wikipedia'
 p11
 (dp12

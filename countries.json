@@ -2,7 +2,7 @@
     "countries": [
         {
             "name": "United Kingdom", 
-            "n_books": 67, 
+            "n_books": 69, 
             "movies": [], 
             "books": [
                 1, 
@@ -71,14 +71,16 @@
                 607, 
                 629, 
                 763, 
-                766
+                766, 
+                140, 
+                821
             ], 
             "authors": [], 
             "id": 1
         }, 
         {
             "name": "United States", 
-            "n_books": 766, 
+            "n_books": 790, 
             "movies": [], 
             "books": [
                 3, 
@@ -846,7 +848,31 @@
                 964, 
                 965, 
                 967, 
-                969
+                969, 
+                24, 
+                113, 
+                355, 
+                380, 
+                65, 
+                241, 
+                249, 
+                263, 
+                313, 
+                320, 
+                331, 
+                357, 
+                422, 
+                462, 
+                474, 
+                535, 
+                602, 
+                670, 
+                853, 
+                901, 
+                465, 
+                664, 
+                176, 
+                301
             ], 
             "authors": [], 
             "id": 2
@@ -1008,46 +1034,6 @@
             "id": 4
         }, 
         {
-            "name": "US", 
-            "n_books": 4, 
-            "movies": [], 
-            "books": [
-                24, 
-                113, 
-                355, 
-                380
-            ], 
-            "authors": [], 
-            "id": 5
-        }, 
-        {
-            "name": "USA", 
-            "n_books": 18, 
-            "movies": [], 
-            "books": [
-                65, 
-                241, 
-                249, 
-                263, 
-                313, 
-                320, 
-                331, 
-                357, 
-                422, 
-                462, 
-                474, 
-                535, 
-                602, 
-                670, 
-                853, 
-                901, 
-                465, 
-                664
-            ], 
-            "authors": [], 
-            "id": 6
-        }, 
-        {
             "name": "Scotland", 
             "n_books": 1, 
             "movies": [], 
@@ -1075,16 +1061,6 @@
             "id": 8
         }, 
         {
-            "name": "UK", 
-            "n_books": 1, 
-            "movies": [], 
-            "books": [
-                140
-            ], 
-            "authors": [], 
-            "id": 9
-        }, 
-        {
             "name": "Germany", 
             "n_books": 1, 
             "movies": [], 
@@ -1106,16 +1082,6 @@
             "id": 11
         }, 
         {
-            "name": "United States of America and Canada", 
-            "n_books": 1, 
-            "movies": [], 
-            "books": [
-                176
-            ], 
-            "authors": [], 
-            "id": 12
-        }, 
-        {
             "name": "Bangladesh", 
             "n_books": 1, 
             "movies": [], 
@@ -1124,16 +1090,6 @@
             ], 
             "authors": [], 
             "id": 13
-        }, 
-        {
-            "name": "United States of America", 
-            "n_books": 1, 
-            "movies": [], 
-            "books": [
-                301
-            ], 
-            "authors": [], 
-            "id": 14
         }, 
         {
             "name": "Philippines (first printing in Berlin)", 
@@ -1196,16 +1152,6 @@
             ], 
             "authors": [], 
             "id": 20
-        }, 
-        {
-            "name": "England", 
-            "n_books": 1, 
-            "movies": [], 
-            "books": [
-                821
-            ], 
-            "authors": [], 
-            "id": 21
         }, 
         {
             "name": "Japan", 

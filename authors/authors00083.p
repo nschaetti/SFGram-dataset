@@ -20,7 +20,7 @@ VEdmond Hamilton
 p9
 sS'country'
 p10
-I6
+I2
 sS'wikipedia'
 p11
 (dp12

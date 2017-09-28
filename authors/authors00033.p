@@ -16,7 +16,7 @@ VCory Doctorow
 p7
 sS'country'
 p8
-I8
+I2
 sS'wikipedia'
 p9
 (dp10

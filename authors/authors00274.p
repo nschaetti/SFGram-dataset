@@ -16,7 +16,7 @@ VJohn Victor Peterson
 p7
 sS'country'
 p8
-I6
+I2
 sS'wikipedia'
 p9
 (dp10

@@ -16,7 +16,7 @@ VDonald A. Wollheim
 p7
 sS'country'
 p8
-I14
+I2
 sS'wikipedia'
 p9
 (dp10

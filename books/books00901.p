@@ -126,7 +126,7 @@ VEnglish
 p58
 sS'country'
 p59
-I6
+I2
 sS'release_date'
 p60
 S'2009-04-30T00:00:00'

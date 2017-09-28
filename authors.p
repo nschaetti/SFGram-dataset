@@ -901,7 +901,7 @@ sg9
 VRobert E. Howard
 p265
 sg11
-I2
+I1
 sg12
 (dp266
 g53
@@ -1048,7 +1048,7 @@ g9
 VMarion Zimmer Bradley
 p306
 sg11
-I6
+I2
 sg12
 (dp307
 g53
@@ -1359,7 +1359,7 @@ g9
 VCory Doctorow
 p393
 sg11
-I8
+I2
 sg12
 (dp394
 g16
@@ -3289,7 +3289,7 @@ sg9
 VEdmond Hamilton
 p940
 sg11
-I6
+I2
 sg12
 (dp941
 g14
@@ -3839,7 +3839,7 @@ g9
 VDonald A. Wollheim
 p1108
 sg11
-I14
+I2
 sg12
 (dp1109
 g14
@@ -4430,7 +4430,7 @@ g9
 Vfor Mars!
 p1287
 sg11
-I5
+I2
 sg12
 (dp1288
 g16
@@ -6590,7 +6590,7 @@ g9
 VRalph Williams
 p1940
 sg11
-I6
+I2
 sg12
 (dp1941
 g16
@@ -7980,7 +7980,7 @@ sg9
 VWalter S. Tevis
 p2354
 sg11
-I6
+I2
 sg12
 (dp2355
 g14
@@ -8183,7 +8183,7 @@ g9
 VWinston K. Marks
 p2417
 sg11
-I2
+I1
 sg12
 (dp2418
 g14
@@ -9589,7 +9589,7 @@ g9
 VJohn Victor Peterson
 p2841
 sg11
-I6
+I2
 sg12
 (dp2842
 g16

@@ -132,7 +132,7 @@ VEnglish
 p61
 sS'country'
 p62
-I6
+I2
 sS'release_date'
 p63
 S'2005-12-19T00:00:00'
