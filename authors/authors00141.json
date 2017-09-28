@@ -1,11 +1,12 @@
 {
-    "books": [
-        426
-    ], 
+    "name": "A. R. Hilliard", 
+    "country": 1, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "A. R. Hilliard", 
     "n_books": 1, 
+    "books": [
+        426
+    ], 
     "id": 141
 }

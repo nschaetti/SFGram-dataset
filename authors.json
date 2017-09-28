@@ -287,6 +287,7 @@
         }, 
         {
             "name": "Michel Verne", 
+            "country": 4, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Michel_Verne", 
                 "found": true
@@ -1083,14 +1084,15 @@
             "died": "1978-03-18 00:00:00"
         }, 
         {
-            "books": [
-                148
-            ], 
+            "name": "Myron R. Lewis", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Myron R. Lewis", 
             "n_books": 1, 
+            "books": [
+                148
+            ], 
             "id": 53
         }, 
         {
@@ -2644,14 +2646,15 @@
             "id": 140
         }, 
         {
-            "books": [
-                426
-            ], 
+            "name": "A. R. Hilliard", 
+            "country": 1, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "A. R. Hilliard", 
             "n_books": 1, 
+            "books": [
+                426
+            ], 
             "id": 141
         }, 
         {
@@ -3042,14 +3045,15 @@
             "died": "2005-09-20 00:00:00"
         }, 
         {
-            "books": [
-                492
-            ], 
+            "name": "Theodore Lockhard Thomas", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Theodore Lockhard Thomas", 
             "n_books": 1, 
+            "books": [
+                492
+            ], 
             "id": 164
         }, 
         {
@@ -3472,6 +3476,7 @@
         }, 
         {
             "name": "Austin Hall", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Austin_Hall_(writer)", 
                 "found": true

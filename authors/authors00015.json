@@ -1,5 +1,6 @@
 {
     "name": "Michel Verne", 
+    "country": 4, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michel_Verne", 
         "found": true

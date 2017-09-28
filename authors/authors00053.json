@@ -1,11 +1,12 @@
 {
-    "books": [
-        148
-    ], 
+    "name": "Myron R. Lewis", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Myron R. Lewis", 
     "n_books": 1, 
+    "books": [
+        148
+    ], 
     "id": 53
 }

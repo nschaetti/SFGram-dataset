@@ -1,11 +1,12 @@
 {
-    "books": [
-        492
-    ], 
+    "name": "Theodore Lockhard Thomas", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Theodore Lockhard Thomas", 
     "n_books": 1, 
+    "books": [
+        492
+    ], 
     "id": 164
 }

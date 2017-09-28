@@ -612,6 +612,8 @@ Rp192
 g9
 VMichel Verne
 p194
+sg11
+I4
 sg12
 (dp195
 g53
@@ -2110,19 +2112,21 @@ g3
 Ntp597
 Rp598
 (dp599
-g25
-(lp600
-I148
-asg12
+g9
+VMyron R. Lewis
+p600
+sg11
+I2
+sg12
 (dp601
 g55
 I00
-ssg9
-VMyron R. Lewis
-p602
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp602
+I148
+asg27
 I53
 sbag1
 (g2
@@ -5323,19 +5327,21 @@ g3
 Ntp1553
 Rp1554
 (dp1555
-g25
-(lp1556
-I426
-asg12
+g9
+VA. R. Hilliard
+p1556
+sg11
+I1
+sg12
 (dp1557
 g16
 I00
-ssg9
-VA. R. Hilliard
-p1558
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp1558
+I426
+asg27
 I141
 sbag1
 (g2
@@ -6138,19 +6144,21 @@ g3
 Ntp1796
 Rp1797
 (dp1798
-g25
-(lp1799
-I492
-asg12
+g9
+VTheodore Lockhard Thomas
+p1799
+sg11
+I2
+sg12
 (dp1800
 g16
 I00
-ssg9
-VTheodore Lockhard Thomas
-p1801
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp1801
+I492
+asg27
 I164
 sbag1
 (g2
@@ -7049,6 +7057,8 @@ Rp2075
 g9
 VAustin Hall
 p2077
+sg11
+I2
 sg12
 (dp2078
 g14
