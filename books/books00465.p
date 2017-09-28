@@ -201,7 +201,7 @@ VEnglish
 p97
 sS'country'
 p98
-I3
+I6
 sS'release_date'
 p99
 S'2008-03-18T00:00:00'

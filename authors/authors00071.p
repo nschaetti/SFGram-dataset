@@ -14,26 +14,29 @@ S'name'
 p6
 VRay Cummings
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Ray_Cummings
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Ray_Cummings
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I7
 sS'summary'
-p14
-VRay Cummings (byname of Raymond King Cummings; August 30, 1887 \u2013 January 23, 1957) was an American author of science fiction, rated one of the "founding fathers of the science fiction pulp genre".[1] He was born in New York City and died in Mount Vernon, New York.\u000aCummings worked with Thomas Edison as a personal assistant and technical writer from 1914 to 1919. His most highly regarded work was the novel The Girl in the Golden Atom published in 1922, which was a consolidation of a short story by the same name published in 1919 (where Cummings combined the idea of Fitz James O'Brien's The Diamond Lens with H. G. Wells's The Time Machine) and a sequel, The People of the Golden Atom, published in 1920. His career resulted in some 750 novels and short stories, using also the pen names Ray King, Gabrielle Cummings, and Gabriel Wilson.\u000aDuring the 1940s, with his fiction career in eclipse, Cummings anonymously scripted comic book stories for Timely Comics, the predecessor to Marvel Comics. He recycled the plot of The Girl in the Golden Atom, for a two-part Captain America tale, "Princess of the Atom". (Captain America #25 & 26) He also contributed to the Human Torch and Sub-Mariner, which his daughter Betty Cummings also wrote.\u000aRay Cummings wrote in 1922, "Time... is what keeps everything from happening at once", a sentence repeated by scientists such as C. J. Overbeck, and John Archibald Wheeler.
 p15
-sS'books'
+VRay Cummings (byname of Raymond King Cummings; August 30, 1887 \u2013 January 23, 1957) was an American author of science fiction, rated one of the "founding fathers of the science fiction pulp genre".[1] He was born in New York City and died in Mount Vernon, New York.\u000aCummings worked with Thomas Edison as a personal assistant and technical writer from 1914 to 1919. His most highly regarded work was the novel The Girl in the Golden Atom published in 1922, which was a consolidation of a short story by the same name published in 1919 (where Cummings combined the idea of Fitz James O'Brien's The Diamond Lens with H. G. Wells's The Time Machine) and a sequel, The People of the Golden Atom, published in 1920. His career resulted in some 750 novels and short stories, using also the pen names Ray King, Gabrielle Cummings, and Gabriel Wilson.\u000aDuring the 1940s, with his fiction career in eclipse, Cummings anonymously scripted comic book stories for Timely Comics, the predecessor to Marvel Comics. He recycled the plot of The Girl in the Golden Atom, for a two-part Captain America tale, "Princess of the Atom". (Captain America #25 & 26) He also contributed to the Human Torch and Sub-Mariner, which his daughter Betty Cummings also wrote.\u000aRay Cummings wrote in 1922, "Time... is what keeps everything from happening at once", a sentence repeated by scientists such as C. J. Overbeck, and John Archibald Wheeler.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I221
 aI382
 aI466
@@ -42,6 +45,6 @@ aI764
 aI765
 aI956
 asS'id'
-p18
+p19
 I71
 sb.

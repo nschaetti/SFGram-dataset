@@ -18,28 +18,31 @@ sS'name'
 p8
 VCharles John Cutcliffe Wright Hyne
 p9
-sS'wikipedia'
+sS'country'
 p10
-(dp11
+I1
+sS'wikipedia'
+p11
+(dp12
 S'url'
-p12
-Vhttps://en.wikipedia.org/wiki/C._J._Cutcliffe_Hyne
 p13
-sS'found'
+Vhttps://en.wikipedia.org/wiki/C._J._Cutcliffe_Hyne
 p14
+sS'found'
+p15
 I01
 ssS'n_books'
-p15
+p16
 I1
 sS'summary'
-p16
-VCharles John Cutcliffe Wright Hyne (11 May 1866 \u2013 10 March 1944) was an English novelist who was also known by the pen name Weatherby Chesney. He is perhaps best remembered as the author of The Lost Continent: The Story of Atlantis. He is also remembered for his Captain Kettle stories and for The Recipe for Diamonds.
 p17
-sS'books'
+VCharles John Cutcliffe Wright Hyne (11 May 1866 \u2013 10 March 1944) was an English novelist who was also known by the pen name Weatherby Chesney. He is perhaps best remembered as the author of The Lost Continent: The Story of Atlantis. He is also remembered for his Captain Kettle stories and for The Recipe for Diamonds.
 p18
-(lp19
+sS'books'
+p19
+(lp20
 I233
 asS'id'
-p20
+p21
 I76
 sb.

@@ -387,7 +387,7 @@ VEnglish
 p190
 sS'country'
 p191
-I3
+I2
 sS'release_date'
 p192
 S'2007-03-20T00:00:00'

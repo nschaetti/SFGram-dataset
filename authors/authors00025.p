@@ -14,32 +14,35 @@ S'name'
 p6
 VMarion Zimmer Bradley
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I6
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Marion_Zimmer_Bradley%27s_Fantasy_Magazine
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Marion_Zimmer_Bradley%27s_Fantasy_Magazine
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I5
 sS'summary'
-p14
-VMarion Zimmer Bradley's Fantasy Magazine was a quarterly fantasy magazine founded and initially edited by fantasy and science fiction author Marion Zimmer Bradley. Fifty issues appeared from summer 1988 through December 2000. It was published by MZB Enterprises from 1988-1989, Marion Zimmer Bradley Ltd. from 1990-1993, and the Marion Zimmer Bradley Living Trust from 1994-2000, all based in Berkeley, California. The Trust continued publication for a short time after Bradley's death in 1999; the magazine went out of business at the end of 2000.\u000aThe magazine featured "short, often humorous stories, many by female writers." Interviews with distinguished fantasy authors also appeared in the magazine.
 p15
-sS'books'
+VMarion Zimmer Bradley's Fantasy Magazine was a quarterly fantasy magazine founded and initially edited by fantasy and science fiction author Marion Zimmer Bradley. Fifty issues appeared from summer 1988 through December 2000. It was published by MZB Enterprises from 1988-1989, Marion Zimmer Bradley Ltd. from 1990-1993, and the Marion Zimmer Bradley Living Trust from 1994-2000, all based in Berkeley, California. The Trust continued publication for a short time after Bradley's death in 1999; the magazine went out of business at the end of 2000.\u000aThe magazine featured "short, often humorous stories, many by female writers." Interviews with distinguished fantasy authors also appeared in the magazine.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I65
 aI80
 aI154
 aI169
 aI196
 asS'id'
-p18
+p19
 I25
 sb.

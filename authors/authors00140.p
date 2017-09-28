@@ -14,28 +14,31 @@ S'name'
 p6
 VAllen Glasser
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I1
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/The_Time_Traveller_(fanzine)
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/The_Time_Traveller_(fanzine)
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-VThe Time Traveller was one of the earliest science fiction fanzines, started in 1932. It grew out of a New York City fan club called the Scienceers and was started by Mort Weisinger, Julius Schwartz, Allen Glasser, and Forrest J Ackerman. Initially, Glasser was the "Editor" of the zine, Weisinger "Associate Editor," Schwartz "Managing Editor," and Ackerman "Contributing Editor." (Three of the four editors were 15\u201317 years old at the time. Allen Glasser was born in 1908.)\u000aAccording to SF historian Sam Moskowitz, The Time Traveller was the first fanzine to be devoted exclusively to science fiction. It went through a series of incarnations and title switches (Science Fiction Digest; Fantasy Magazine) before it ceased publication in January 1937. The zine's chief claim to fame was its publication of a 17-part round-robin story called Cosmos (July 1933 \u2013 December 1934), each part written by a different writer. The roster of Cosmos writers included many of the leading lights of SF, fantasy, horror, and adventure fiction in that era, including A. Merritt, E.E. "Doc" Smith, Edmond Hamilton, John W. Campbell, E. Hoffmann Price, and Otis Adelbert Kline. The others involved were David H. Keller, P. Schuyler Miller, Arthur J. Burks, Ralph Milne Farley, "Eando Binder," Francis Flagg, Lloyd Arthur Eshbach, Bob Olsen, J. Harvey Haggard, and Abner J. Gelula; Raymond A. Palmer wrote one installment under his own name, and another under the pseudonym "Rae Winters." Hamilton composed the final episode of the serial, and finished with a bang, destroying the planets Pluto, Neptune, and Uranus with an atomic disintegrator ray.\u000a\u000a
 p15
-sS'books'
+VThe Time Traveller was one of the earliest science fiction fanzines, started in 1932. It grew out of a New York City fan club called the Scienceers and was started by Mort Weisinger, Julius Schwartz, Allen Glasser, and Forrest J Ackerman. Initially, Glasser was the "Editor" of the zine, Weisinger "Associate Editor," Schwartz "Managing Editor," and Ackerman "Contributing Editor." (Three of the four editors were 15\u201317 years old at the time. Allen Glasser was born in 1908.)\u000aAccording to SF historian Sam Moskowitz, The Time Traveller was the first fanzine to be devoted exclusively to science fiction. It went through a series of incarnations and title switches (Science Fiction Digest; Fantasy Magazine) before it ceased publication in January 1937. The zine's chief claim to fame was its publication of a 17-part round-robin story called Cosmos (July 1933 \u2013 December 1934), each part written by a different writer. The roster of Cosmos writers included many of the leading lights of SF, fantasy, horror, and adventure fiction in that era, including A. Merritt, E.E. "Doc" Smith, Edmond Hamilton, John W. Campbell, E. Hoffmann Price, and Otis Adelbert Kline. The others involved were David H. Keller, P. Schuyler Miller, Arthur J. Burks, Ralph Milne Farley, "Eando Binder," Francis Flagg, Lloyd Arthur Eshbach, Bob Olsen, J. Harvey Haggard, and Abner J. Gelula; Raymond A. Palmer wrote one installment under his own name, and another under the pseudonym "Rae Winters." Hamilton composed the final episode of the serial, and finished with a bang, destroying the planets Pluto, Neptune, and Uranus with an atomic disintegrator ray.\u000a\u000a
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I426
 asS'id'
-p18
+p19
 I140
 sb.

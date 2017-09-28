@@ -1,4 +1,10 @@
 {
+    "name": "Roger D. Aycock", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 12, 
     "books": [
         489, 
         566, 
@@ -13,10 +19,5 @@
         878, 
         892
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Roger D. Aycock", 
-    "n_books": 12, 
     "id": 162
 }

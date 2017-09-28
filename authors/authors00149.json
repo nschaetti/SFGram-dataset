@@ -1,14 +1,15 @@
 {
+    "name": "Boyd Ellanby", 
+    "country": 3, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 4, 
     "books": [
         442, 
         694, 
         924, 
         947
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Boyd Ellanby", 
-    "n_books": 4, 
     "id": 149
 }

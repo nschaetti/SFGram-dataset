@@ -14,28 +14,31 @@ S'name'
 p6
 VSonya Dorman
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Women_of_Wonder
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Women_of_Wonder
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-VWomen of Wonder: Science-fiction Stories by Women about Women is a collection of short stories edited by Pamela Sargent, first published in 1975. It also includes an introduction and notes before each story by Sargent.\u000aIn the introduction, Sargent provides a comprehensive and informed analysis of women in the science fiction genre, both as writers and characters. She notes that \u201cMost science fiction has been written by men, and they still form a majority of the writers today. About 10 to 15 percent of the writers are women\u201d (p. 11).\u000aShe discusses some of the earlier prominent women writers, from Mary Shelley to C. L. Moore, then looks at how women characters have been ignored or stereotyped by writers like Jules Verne, H. G. Wells, Isaac Asimov, and Robert Heinlein. She closes by saying that changes will likely happen in the genre if readers show they want different perspectives, which will then make publishers interested in new ideas.
 p15
-sS'books'
+VWomen of Wonder: Science-fiction Stories by Women about Women is a collection of short stories edited by Pamela Sargent, first published in 1975. It also includes an introduction and notes before each story by Sargent.\u000aIn the introduction, Sargent provides a comprehensive and informed analysis of women in the science fiction genre, both as writers and characters. She notes that \u201cMost science fiction has been written by men, and they still form a majority of the writers today. About 10 to 15 percent of the writers are women\u201d (p. 11).\u000aShe discusses some of the earlier prominent women writers, from Mary Shelley to C. L. Moore, then looks at how women characters have been ignored or stereotyped by writers like Jules Verne, H. G. Wells, Isaac Asimov, and Robert Heinlein. She closes by saying that changes will likely happen in the genre if readers show they want different perspectives, which will then make publishers interested in new ideas.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I348
 asS'id'
-p18
+p19
 I112
 sb.

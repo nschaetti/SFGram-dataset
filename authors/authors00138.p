@@ -14,32 +14,35 @@ S'name'
 p6
 VF. L. Wallace
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/F._L._Wallace
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/F._L._Wallace
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I5
 sS'summary'
-p14
-VF. L. Wallace (February 16, 1915 \u2013 November 26, 2004), sometimes credited as Floyd Wallace, was a noted science fiction and mystery writer. He was born in Rock Island, Illinois, in 1915, and died in Tustin, California, in 2004. Wallace spent most of his life in California as a writer and mechanical engineer after attending the University of Iowa. He also attended UCLA.\u000aHis first published story, "Hideaway," appeared in the magazine Astounding. Galaxy Science Fiction and other science fiction magazines published subsequent stories of his including "Student Body", "Delay in Transit", "Bolden's Pets", and "Tangle Hold". His mystery works include "Driving Lesson," a second-prize winner in the twelfth annual short story contest held by Ellery Queen's Mystery Magazine. His novel, Address: Centauri, was published by Gnome Press in 1955. His works have been translated into numerous languages and his stories are available today around the world in anthologies.
 p15
-sS'books'
+VF. L. Wallace (February 16, 1915 \u2013 November 26, 2004), sometimes credited as Floyd Wallace, was a noted science fiction and mystery writer. He was born in Rock Island, Illinois, in 1915, and died in Tustin, California, in 2004. Wallace spent most of his life in California as a writer and mechanical engineer after attending the University of Iowa. He also attended UCLA.\u000aHis first published story, "Hideaway," appeared in the magazine Astounding. Galaxy Science Fiction and other science fiction magazines published subsequent stories of his including "Student Body", "Delay in Transit", "Bolden's Pets", and "Tangle Hold". His mystery works include "Driving Lesson," a second-prize winner in the twelfth annual short story contest held by Ellery Queen's Mystery Magazine. His novel, Address: Centauri, was published by Gnome Press in 1955. His works have been translated into numerous languages and his stories are available today around the world in anthologies.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I424
 aI748
 aI831
 aI868
 aI900
 asS'id'
-p18
+p19
 I138
 sb.

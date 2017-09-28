@@ -117,7 +117,7 @@ VEnglish
 p54
 sS'country'
 p55
-I3
+I8
 sS'release_date'
 p56
 S'2005-11-20T00:00:00'

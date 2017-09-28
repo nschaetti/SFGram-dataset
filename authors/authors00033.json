@@ -1,4 +1,10 @@
 {
+    "name": "Cory Doctorow", 
+    "country": 8, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 10, 
     "books": [
         87, 
         349, 
@@ -11,10 +17,5 @@
         798, 
         836
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Cory Doctorow", 
-    "n_books": 10, 
     "id": 33
 }

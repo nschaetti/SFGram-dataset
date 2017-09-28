@@ -1,12 +1,13 @@
 {
+    "name": "Murray F. Yaco", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         354, 
         930
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Murray F. Yaco", 
-    "n_books": 2, 
     "id": 114
 }

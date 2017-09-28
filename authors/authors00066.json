@@ -1,5 +1,6 @@
 {
     "name": "John Jacob Astor", 
+    "country": 2, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/John_Jacob_Astor_IV", 
         "found": true

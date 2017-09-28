@@ -14,28 +14,31 @@ S'name'
 p6
 VPhilip Wylie
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Wylie_(surname)
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Wylie_(surname)
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-VWylie is a surname. Notable people with the surname include:\u000aAdam Wylie\u000aAlexander Wylie (disambiguation), multiple people\u000aAndrew Wylie, first president of Indiana University\u000aAndrew Wylie (literary agent), American literary agent\u000aBen Wylie, Irish cricketer\u000aChalmers Wylie\u000aCharles Hotham Montagu Doughty-Wylie\u000aCraig Wylie\u000aElinor Wylie\u000aFannie B. Wylie, American politician\u000aSir Francis James Wylie (1865\u20131952), British academic literary critic\u000aSir Francis Verner Wylie (1891\u20131970), British civil servant in India\u000aGraham Wylie, Founder of the Sage Group\u000aIda Alexa Ross Wylie (1885-1959), Australian/British/American writer\u000aJames Aitken Wylie, Scottish historian\u000aMike Wylie, Australian rugby league footballer\u000aMina Wylie\u000aNorman Wylie\u000aPaul Wylie\u000aPete Wylie\u000aPhilip Gordon Wylie\u000aRichard "Popcorn" Wylie (1939-2008), American R&B pianist, songwriter and record producer\u000aRobert Wylie\u000aShaun Wylie\u000aWillard Otis Wylie (1862\u20131944), of Boston, Massachusetts, USA\u000aWilliam M. Wylie, American politician
 p15
-sS'books'
+VWylie is a surname. Notable people with the surname include:\u000aAdam Wylie\u000aAlexander Wylie (disambiguation), multiple people\u000aAndrew Wylie, first president of Indiana University\u000aAndrew Wylie (literary agent), American literary agent\u000aBen Wylie, Irish cricketer\u000aChalmers Wylie\u000aCharles Hotham Montagu Doughty-Wylie\u000aCraig Wylie\u000aElinor Wylie\u000aFannie B. Wylie, American politician\u000aSir Francis James Wylie (1865\u20131952), British academic literary critic\u000aSir Francis Verner Wylie (1891\u20131970), British civil servant in India\u000aGraham Wylie, Founder of the Sage Group\u000aIda Alexa Ross Wylie (1885-1959), Australian/British/American writer\u000aJames Aitken Wylie, Scottish historian\u000aMike Wylie, Australian rugby league footballer\u000aMina Wylie\u000aNorman Wylie\u000aPaul Wylie\u000aPete Wylie\u000aPhilip Gordon Wylie\u000aRichard "Popcorn" Wylie (1939-2008), American R&B pianist, songwriter and record producer\u000aRobert Wylie\u000aShaun Wylie\u000aWillard Otis Wylie (1862\u20131944), of Boston, Massachusetts, USA\u000aWilliam M. Wylie, American politician
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I197
 asS'id'
-p18
+p19
 I65
 sb.

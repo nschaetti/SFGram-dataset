@@ -1,6 +1,7 @@
 {
     "bio": "He died of complications from pneumonia in 1989, at age 80, in Los Angeles.", 
     "name": "Jack Douglas", 
+    "country": 2, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Jack_Douglas_(writer)", 
         "found": true

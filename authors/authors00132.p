@@ -18,31 +18,34 @@ sS'name'
 p8
 VEdgar Pangborn
 p9
-sS'wikipedia'
+sS'country'
 p10
-(dp11
+I2
+sS'wikipedia'
+p11
+(dp12
 S'url'
-p12
-Vhttps://en.wikipedia.org/wiki/Edgar_Pangborn
 p13
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Edgar_Pangborn
 p14
+sS'found'
+p15
 I01
 ssS'n_books'
-p15
+p16
 I4
 sS'summary'
-p16
-VEdgar Pangborn (February 25, 1909 \u2013 February 1, 1976) was an American writer of mystery, historical, and science fiction.
 p17
-sS'books'
+VEdgar Pangborn (February 25, 1909 \u2013 February 1, 1976) was an American writer of mystery, historical, and science fiction.
 p18
-(lp19
+sS'books'
+p19
+(lp20
 I407
 aI606
 aI760
 aI783
 asS'id'
-p20
+p21
 I132
 sb.

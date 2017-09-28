@@ -18,28 +18,31 @@ sS'name'
 p8
 VAnthony Boucher
 p9
-sS'wikipedia'
+sS'country'
 p10
-(dp11
+I2
+sS'wikipedia'
+p11
+(dp12
 S'url'
-p12
-Vhttps://en.wikipedia.org/wiki/Anthony_Boucher
 p13
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Anthony_Boucher
 p14
+sS'found'
+p15
 I01
 ssS'n_books'
-p15
+p16
 I1
 sS'summary'
-p16
-VAnthony Boucher  (born William Anthony Parker White; August 21, 1911 \u2013 April 29, 1968) was an American crime and fantastic fiction editor and author of mystery novels and short stories and radio drama scripts in those fields. He was particularly influential as an editor. Between 1942 and 1947 he acted as reviewer of mostly mystery fiction for the San Francisco Chronicle. In addition to "Anthony Boucher", White also employed the pseudonym "H. H. Holmes", which was the pseudonym of a late-19th-century American serial killer; Boucher would also write light verse and sign it "Herman W. Mudgett" (another of the murderer's aliases).\u000aIn a 1981 poll of 17 detective story writers and reviewers, his novel Nine Times Nine was voted as the ninth best locked room mystery of all time.
 p17
-sS'books'
+VAnthony Boucher  (born William Anthony Parker White; August 21, 1911 \u2013 April 29, 1968) was an American crime and fantastic fiction editor and author of mystery novels and short stories and radio drama scripts in those fields. He was particularly influential as an editor. Between 1942 and 1947 he acted as reviewer of mostly mystery fiction for the San Francisco Chronicle. In addition to "Anthony Boucher", White also employed the pseudonym "H. H. Holmes", which was the pseudonym of a late-19th-century American serial killer; Boucher would also write light verse and sign it "Herman W. Mudgett" (another of the murderer's aliases).\u000aIn a 1981 poll of 17 detective story writers and reviewers, his novel Nine Times Nine was voted as the ninth best locked room mystery of all time.
 p18
-(lp19
+sS'books'
+p19
+(lp20
 I390
 asS'id'
-p20
+p21
 I125
 sb.

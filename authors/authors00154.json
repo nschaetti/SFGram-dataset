@@ -1,5 +1,6 @@
 {
     "name": "Robert Shea", 
+    "country": 2, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Robert_Shea", 
         "found": true

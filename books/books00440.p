@@ -437,7 +437,7 @@ VEnglish
 p215
 sS'country'
 p216
-I3
+I2
 sS'release_date'
 p217
 S'2008-04-13T00:00:00'

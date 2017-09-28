@@ -540,7 +540,7 @@ VEnglish
 p267
 sS'country'
 p268
-I3
+I2
 sS'release_date'
 p269
 S'2007-11-05T00:00:00'

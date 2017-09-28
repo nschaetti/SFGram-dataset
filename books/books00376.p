@@ -92,7 +92,7 @@ VEnglish
 p45
 sS'country'
 p46
-I3
+I2
 sS'release_date'
 p47
 S'2016-03-05T00:00:00'

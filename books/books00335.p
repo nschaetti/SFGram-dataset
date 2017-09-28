@@ -520,7 +520,7 @@ VEnglish
 p257
 sS'country'
 p258
-I3
+I2
 sS'release_date'
 p259
 S'2006-06-02T00:00:00'

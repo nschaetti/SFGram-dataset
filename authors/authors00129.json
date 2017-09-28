@@ -1,4 +1,10 @@
 {
+    "name": "Raymond F. Jones", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 5, 
     "books": [
         400, 
         680, 
@@ -6,10 +12,5 @@
         793, 
         834
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Raymond F. Jones", 
-    "n_books": 5, 
     "id": 129
 }

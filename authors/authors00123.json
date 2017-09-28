@@ -1,5 +1,6 @@
 {
     "name": "Henry Kuttner", 
+    "country": 2, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Kuttner", 
         "found": true

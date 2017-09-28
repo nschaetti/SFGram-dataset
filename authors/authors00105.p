@@ -14,28 +14,31 @@ S'name'
 p6
 VDavid Duncan
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/David_Duncan_(writer)
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/David_Duncan_(writer)
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-VNot to be confused with Dave Duncan, the Canadian fantasy novelist. For others of similar name, see David Duncan.\u000aDavid Duncan (February 17, 1913 \u2013 died December 27, 1999, Everett, Washington) was an American screenwriter and novelist.\u000aHe began writing professionally at the age of 33 after about ten years in government. His screenwriting career began in 1953 with the release of his first film and Paramount's first 3-D film, Sangaree. Duncan is remembered for his work in science fiction such as the films Monster on the Campus (1958), The Time Machine (1960) and Fantastic Voyage (1966). He was credited with writing the English narrative for Rodan (1956). He also worked for many television series such as National Velvet (1960), The Outer Limits ("The Human Factor", 1963), and Daniel Boone (1964-70). His science fiction novels include Dark Dominion (1954), Beyond Eden (1955), and Occam's Razor (1957). He also wrote six novels outside the genre. Duncan wrote the mini-sequel Time Machine: The Journey Back to George Pal's 1960 movie The Time Machine.\u000a\u000a
 p15
-sS'books'
+VNot to be confused with Dave Duncan, the Canadian fantasy novelist. For others of similar name, see David Duncan.\u000aDavid Duncan (February 17, 1913 \u2013 died December 27, 1999, Everett, Washington) was an American screenwriter and novelist.\u000aHe began writing professionally at the age of 33 after about ten years in government. His screenwriting career began in 1953 with the release of his first film and Paramount's first 3-D film, Sangaree. Duncan is remembered for his work in science fiction such as the films Monster on the Campus (1958), The Time Machine (1960) and Fantastic Voyage (1966). He was credited with writing the English narrative for Rodan (1956). He also worked for many television series such as National Velvet (1960), The Outer Limits ("The Human Factor", 1963), and Daniel Boone (1964-70). His science fiction novels include Dark Dominion (1954), Beyond Eden (1955), and Occam's Razor (1957). He also wrote six novels outside the genre. Duncan wrote the mini-sequel Time Machine: The Journey Back to George Pal's 1960 movie The Time Machine.\u000a\u000a
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I316
 asS'id'
-p18
+p19
 I105
 sb.

@@ -1,5 +1,6 @@
 {
     "name": "Various", 
+    "country": 2, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Various_authors", 
         "found": true

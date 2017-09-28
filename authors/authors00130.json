@@ -1,6 +1,7 @@
 {
     "bio": "", 
     "name": "Manly Wade Wellman", 
+    "country": 2, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Manly_Wade_Wellman", 
         "found": true

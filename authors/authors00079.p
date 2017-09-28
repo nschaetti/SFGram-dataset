@@ -14,26 +14,29 @@ S'name'
 p6
 VStephen Marlowe
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Stephen_Marlowe
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Stephen_Marlowe
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I15
 sS'summary'
-p14
-VStephen Marlowe (born Milton Lesser, (1928-08-07)August 7, 1928 in Brooklyn, New York, died February 22, 2008(2008-02-22) (aged 79), in Williamsburg, Virginia) was an American author of science fiction, mystery novels, and fictional autobiographies of Christopher Columbus, Miguel de Cervantes, and Edgar Allan Poe. He is best known for his detective character Chester Drum, whom he created in the 1955 novel The Second Longest Night. Lesser also wrote under the pseudonyms Adam Chase, Andrew Frazer, C.H. Thames, Jason Ridgway, Stephen Wilder and Ellery Queen.\u000aLesser attended the College of William & Mary, earning his degree in philosophy, marrying Leigh Lang shortly after graduating. The couple divorced in 1962. He was drafted into the United States Army during the Korean War.\u000aHe was awarded the French Prix Gutenberg du Livre in 1988 for The Memoirs of Christopher Columbus, and in 1997 he was awarded the "Life Achievement Award" by the Private Eye Writers of America. He also served on the board of directors of the Mystery Writers of America. He lived with his second wife Ann in Williamsburg, Virginia.
 p15
-sS'books'
+VStephen Marlowe (born Milton Lesser, (1928-08-07)August 7, 1928 in Brooklyn, New York, died February 22, 2008(2008-02-22) (aged 79), in Williamsburg, Virginia) was an American author of science fiction, mystery novels, and fictional autobiographies of Christopher Columbus, Miguel de Cervantes, and Edgar Allan Poe. He is best known for his detective character Chester Drum, whom he created in the 1955 novel The Second Longest Night. Lesser also wrote under the pseudonyms Adam Chase, Andrew Frazer, C.H. Thames, Jason Ridgway, Stephen Wilder and Ellery Queen.\u000aLesser attended the College of William & Mary, earning his degree in philosophy, marrying Leigh Lang shortly after graduating. The couple divorced in 1962. He was drafted into the United States Army during the Korean War.\u000aHe was awarded the French Prix Gutenberg du Livre in 1988 for The Memoirs of Christopher Columbus, and in 1997 he was awarded the "Life Achievement Award" by the Private Eye Writers of America. He also served on the board of directors of the Mystery Writers of America. He lived with his second wife Ann in Williamsburg, Virginia.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I236
 aI388
 aI496
@@ -50,6 +53,6 @@ aI881
 aI882
 aI953
 asS'id'
-p18
+p19
 I79
 sb.

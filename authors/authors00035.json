@@ -1,11 +1,12 @@
 {
-    "books": [
-        94
-    ], 
+    "name": "Paul Myron Anthony Linebarger", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Paul Myron Anthony Linebarger", 
     "n_books": 1, 
+    "books": [
+        94
+    ], 
     "id": 35
 }

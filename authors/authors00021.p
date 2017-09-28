@@ -14,29 +14,32 @@ S'name'
 p6
 VEdward Bellamy
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Edward_Bellamy_House
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Edward_Bellamy_House
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I2
 sS'summary'
-p14
-VThe Edward Bellamy House is a National Historic Landmark at 91\u201393 Church Street in the Chicopee Falls section of the city of Chicopee, Massachusetts. Its landmark designation was in honor of journalist and Utopian writer Edward Bellamy (1850\u20131898), whose home it was for most of his life.\u000aBuilt in 1852, Bellamy's father moved the family into the house after its construction. Bellamy grew up in the house, and returned there after completing his studies and a brief stint of work in New York City. He did much of his writing (both journalistic and otherwise) in his father's study until the latter's death in 1886, after which Bellamy's family took over the entire house. It was in these years that Bellamy wrote Looking Backward, the work that brought him fame. His principal absences from Chicopee were made in a quest to improve his tubercular health, which eventually claimed his life.\u000aThe property had only two private owners after the Bellamys before it was acquired in the 1970s by the Edward Bellamy Memorial Association and restored. The association operates part of the property as a historic house museum, and rents out office space in the remainder. The building is not architecturally distinguished, and has undergone a variety of alterations.
 p15
-sS'books'
+VThe Edward Bellamy House is a National Historic Landmark at 91\u201393 Church Street in the Chicopee Falls section of the city of Chicopee, Massachusetts. Its landmark designation was in honor of journalist and Utopian writer Edward Bellamy (1850\u20131898), whose home it was for most of his life.\u000aBuilt in 1852, Bellamy's father moved the family into the house after its construction. Bellamy grew up in the house, and returned there after completing his studies and a brief stint of work in New York City. He did much of his writing (both journalistic and otherwise) in his father's study until the latter's death in 1886, after which Bellamy's family took over the entire house. It was in these years that Bellamy wrote Looking Backward, the work that brought him fame. His principal absences from Chicopee were made in a quest to improve his tubercular health, which eventually claimed his life.\u000aThe property had only two private owners after the Bellamys before it was acquired in the 1970s by the Edward Bellamy Memorial Association and restored. The association operates part of the property as a historic house museum, and rents out office space in the remainder. The building is not architecturally distinguished, and has undergone a variety of alterations.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I54
 aI484
 asS'id'
-p18
+p19
 I21
 sb.

@@ -1,12 +1,13 @@
 {
+    "name": "Edwin Abbott Abbott", 
+    "country": 1, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         17, 
         32
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Edwin Abbott Abbott", 
-    "n_books": 2, 
     "id": 10
 }

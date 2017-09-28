@@ -1,11 +1,12 @@
 {
-    "books": [
-        310
-    ], 
+    "name": "William Richard Bradshaw", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "William Richard Bradshaw", 
     "n_books": 1, 
+    "books": [
+        310
+    ], 
     "id": 102
 }

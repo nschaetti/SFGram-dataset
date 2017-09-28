@@ -1,11 +1,12 @@
 {
-    "books": [
-        19
-    ], 
+    "name": "Ray Cummings et al.", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Ray Cummings et al.", 
     "n_books": 1, 
+    "books": [
+        19
+    ], 
     "id": 12
 }

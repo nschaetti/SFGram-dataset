@@ -1,13 +1,14 @@
 {
+    "name": "William Hope Hodgson", 
+    "country": 1, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 3, 
     "books": [
         18, 
         20, 
         79
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "William Hope Hodgson", 
-    "n_books": 3, 
     "id": 11
 }

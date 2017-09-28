@@ -18,29 +18,32 @@ sS'name'
 p8
 VWallace West
 p9
-sS'wikipedia'
+sS'country'
 p10
-(dp11
+I2
+sS'wikipedia'
+p11
+(dp12
 S'url'
-p12
-Vhttps://en.wikipedia.org/wiki/Wallace_West
 p13
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Wallace_West
 p14
+sS'found'
+p15
 I01
 ssS'n_books'
-p15
+p16
 I2
 sS'summary'
-p16
-VWallace West ((1900-05-22)May 22, 1900 \u2013 March 8, 1980(1980-03-08)) was an American science fiction writer.
 p17
-sS'books'
+VWallace West ((1900-05-22)May 22, 1900 \u2013 March 8, 1980(1980-03-08)) was an American science fiction writer.
 p18
-(lp19
+sS'books'
+p19
+(lp20
 I473
 aI920
 asS'id'
-p20
+p21
 I158
 sb.

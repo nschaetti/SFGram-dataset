@@ -1,13 +1,14 @@
 {
+    "name": "Charles Willard Diffin", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 3, 
     "books": [
         381, 
         459, 
         565
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Charles Willard Diffin", 
-    "n_books": 3, 
     "id": 124
 }

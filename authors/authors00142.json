@@ -1,4 +1,10 @@
 {
+    "name": "Jim Harmon", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 11, 
     "books": [
         427, 
         460, 
@@ -12,10 +18,5 @@
         837, 
         886
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Jim Harmon", 
-    "n_books": 11, 
     "id": 142
 }

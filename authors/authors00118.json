@@ -1,4 +1,10 @@
 {
+    "name": "Carey Rockwell", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 5, 
     "books": [
         362, 
         373, 
@@ -6,10 +12,5 @@
         464, 
         487
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Carey Rockwell", 
-    "n_books": 5, 
     "id": 118
 }

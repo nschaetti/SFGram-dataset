@@ -1,11 +1,12 @@
 {
-    "books": [
-        506
-    ], 
+    "name": "Joe Archibald", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Joe Archibald", 
     "n_books": 1, 
+    "books": [
+        506
+    ], 
     "id": 170
 }

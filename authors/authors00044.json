@@ -1,14 +1,15 @@
 {
+    "name": "Sewell Peaslee Wright", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 4, 
     "books": [
         124, 
         482, 
         527, 
         624
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Sewell Peaslee Wright", 
-    "n_books": 4, 
     "id": 44
 }

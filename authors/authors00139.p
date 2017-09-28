@@ -14,32 +14,35 @@ S'name'
 p6
 VS. P. Meek
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Meek_(surname)
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Meek_(surname)
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I5
 sS'summary'
-p14
-VMeek is a surname. Notable people with the surname include:\u000aAlbert Stewart Meek (1871\u20131943), British bird collector and naturalist\u000aAlexander Beaufort Meek (1814\u20131865), American politician, lawyer, writer and poet\u000aBarbara Meek (born 1934), American actress\u000aBill Meek (1922\u20131998), American football coach\u000aCarrie P. Meek (born 1926), American politician from Florida\u000aChantal Meek, canoer\u000aDonald Meek (1878\u20131946), Scottish character actor\u000aEvan Meek, American baseball pitcher\u000aFielding Bradford Meek (1817\u20131876), American geologist and paleontologist\u000aJames Meek, minister\u000aJames Meek (author)\u000aJanice Meek, ocean rower\u000aJeffrey Meek, actor\u000aJerry Meek politician\u000aJoe Meek (1929\u20131967), British record producer and composer\u000aJoseph Meek (1810\u20131875), American explorer, soldier and politician\u000aKendrick Meek (born 1966), American politician from Florida\u000aLarissa Meek, American model\u000aMeeK (musician) (born 1971), Franco-British singer/songwriter.\u000aMeek (street artist), street artist based in Melbourne, Australia\u000aPatrick Meek, American speed skater\u000aRonald L. Meek, economist\u000aS. P. Meek (1894\u20131972), US military chemist, early science fiction author, and children's author\u000aSeth Eugene Meek (1859\u20131914), American ichthyologist\u000aStephen Meek (guide) (1805\u20131889), fur trapper and guide in the American west\u000aTheophile Meek, Canadian archaeologist\u000aTom Meek, journalist
 p15
-sS'books'
+VMeek is a surname. Notable people with the surname include:\u000aAlbert Stewart Meek (1871\u20131943), British bird collector and naturalist\u000aAlexander Beaufort Meek (1814\u20131865), American politician, lawyer, writer and poet\u000aBarbara Meek (born 1934), American actress\u000aBill Meek (1922\u20131998), American football coach\u000aCarrie P. Meek (born 1926), American politician from Florida\u000aChantal Meek, canoer\u000aDonald Meek (1878\u20131946), Scottish character actor\u000aEvan Meek, American baseball pitcher\u000aFielding Bradford Meek (1817\u20131876), American geologist and paleontologist\u000aJames Meek, minister\u000aJames Meek (author)\u000aJanice Meek, ocean rower\u000aJeffrey Meek, actor\u000aJerry Meek politician\u000aJoe Meek (1929\u20131967), British record producer and composer\u000aJoseph Meek (1810\u20131875), American explorer, soldier and politician\u000aKendrick Meek (born 1966), American politician from Florida\u000aLarissa Meek, American model\u000aMeeK (musician) (born 1971), Franco-British singer/songwriter.\u000aMeek (street artist), street artist based in Melbourne, Australia\u000aPatrick Meek, American speed skater\u000aRonald L. Meek, economist\u000aS. P. Meek (1894\u20131972), US military chemist, early science fiction author, and children's author\u000aSeth Eugene Meek (1859\u20131914), American ichthyologist\u000aStephen Meek (guide) (1805\u20131889), fur trapper and guide in the American west\u000aTheophile Meek, Canadian archaeologist\u000aTom Meek, journalist
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I425
 aI641
 aI662
 aI738
 aI761
 asS'id'
-p18
+p19
 I139
 sb.

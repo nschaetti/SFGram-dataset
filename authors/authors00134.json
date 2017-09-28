@@ -1,11 +1,12 @@
 {
-    "books": [
-        412
-    ], 
+    "name": "Lee Archer", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Lee Archer", 
     "n_books": 1, 
+    "books": [
+        412
+    ], 
     "id": 134
 }

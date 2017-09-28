@@ -14,26 +14,29 @@ S'name'
 p6
 VGeorge O. Smith
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/George_H._Smith_(fiction_author)
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/George_H._Smith_(fiction_author)
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I8
 sS'summary'
-p14
-VGeorge Henry Smith (October 27, 1922 \u2013 May 22, 1996) was an American science fiction author, who also wrote soft-core erotica. He is not the same person as George H. Smith, a libertarian writer, or George O. Smith, another science fiction writer. There were at least 3 authors writing as "George H. Smith" in the 1960s; one wrote many "swamp love" paperback originals, which are often erroneously attributed to George Henry Smith. Smith himself used the pseudonyms Jerry August, Don Bellmore, Ross Camra, M J Deer (with his wife, Jane Deer Smith), John Dexter (a "house name" used by multiple authors); George Devlin, Robert Hadley, Jan Hudson (a "house name"), Jerry Jason, Clancy O'Brien, Alan Robinson, Holt Standish, Diana Summers, Hal Stryker, Hank Stryker, Morgan Trehune, Roy Warren, and J X Williams (a "house name") for publishers such as Avalon, Beacon, Boudoir, Brandon House, Epic, Evening Reader, France, Greenleaf, Midwood, Monarch, Notetime, Pike, Pillow, and Playtime. It is known that he wrote more than 100 novels.
 p15
-sS'books'
+VGeorge Henry Smith (October 27, 1922 \u2013 May 22, 1996) was an American science fiction author, who also wrote soft-core erotica. He is not the same person as George H. Smith, a libertarian writer, or George O. Smith, another science fiction writer. There were at least 3 authors writing as "George H. Smith" in the 1960s; one wrote many "swamp love" paperback originals, which are often erroneously attributed to George Henry Smith. Smith himself used the pseudonyms Jerry August, Don Bellmore, Ross Camra, M J Deer (with his wife, Jane Deer Smith), John Dexter (a "house name" used by multiple authors); George Devlin, Robert Hadley, Jan Hudson (a "house name"), Jerry Jason, Clancy O'Brien, Alan Robinson, Holt Standish, Diana Summers, Hal Stryker, Hank Stryker, Morgan Trehune, Roy Warren, and J X Williams (a "house name") for publishers such as Avalon, Beacon, Boudoir, Brandon House, Epic, Evening Reader, France, Greenleaf, Midwood, Monarch, Notetime, Pike, Pillow, and Playtime. It is known that he wrote more than 100 novels.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I296
 aI572
 aI597
@@ -43,6 +46,6 @@ aI807
 aI823
 aI927
 asS'id'
-p18
+p19
 I95
 sb.

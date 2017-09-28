@@ -1,6 +1,7 @@
 {
     "bio": "Robert Barr died from heart disease on 21 October 1912, at his home in Woldingham, a small village to the southeast of London.", 
     "name": "Robert Barr", 
+    "country": 1, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Robert_Barr_(writer)", 
         "found": true

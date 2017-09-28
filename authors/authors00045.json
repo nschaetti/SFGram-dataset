@@ -1,6 +1,7 @@
 {
     "bio": "", 
     "name": "Robert Bloch", 
+    "country": 2, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Robert_Bloch", 
         "found": true

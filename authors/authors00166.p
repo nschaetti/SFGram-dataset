@@ -14,31 +14,34 @@ S'name'
 p6
 VAlfred Coppel
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Alfred_Coppel
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Alfred_Coppel
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I4
 sS'summary'
-p14
-VAlfred Coppel, Alfredo Jose de Arana-Marini Coppel (November 9, 1921 \u2013 May 30, 2004) was an American author. Born in Oakland, California, he served as a fighter pilot in the United States Army Air Forces during World War II. After his discharge, he started his career as a writer. He became one of the most prolific pulp authors of the 1950s and 1960s, adopting the pseudonyms Robert Cham Gilman and A.C. Marin and writing for a variety of pulp magazines and later "slick" publishers. Though writing in a variety of genres, including action thrillers, he is known for his science fiction stories which comprise both short stories and novels.
 p15
-sS'books'
+VAlfred Coppel, Alfredo Jose de Arana-Marini Coppel (November 9, 1921 \u2013 May 30, 2004) was an American author. Born in Oakland, California, he served as a fighter pilot in the United States Army Air Forces during World War II. After his discharge, he started his career as a writer. He became one of the most prolific pulp authors of the 1950s and 1960s, adopting the pseudonyms Robert Cham Gilman and A.C. Marin and writing for a variety of pulp magazines and later "slick" publishers. Though writing in a variety of genres, including action thrillers, he is known for his science fiction stories which comprise both short stories and novels.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I498
 aI797
 aI858
 aI923
 asS'id'
-p18
+p19
 I166
 sb.

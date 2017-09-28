@@ -1,12 +1,13 @@
 {
+    "name": "C. C. MacApp", 
+    "country": 1, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         346, 
         607
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "C. C. MacApp", 
-    "n_books": 2, 
     "id": 111
 }

@@ -1,4 +1,10 @@
 {
+    "name": "Charles V. De Vet", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 7, 
     "books": [
         367, 
         646, 
@@ -8,10 +14,5 @@
         889, 
         908
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Charles V. De Vet", 
-    "n_books": 7, 
     "id": 121
 }

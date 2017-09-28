@@ -190,7 +190,7 @@ VEnglish
 p92
 sS'country'
 p93
-I3
+I2
 sS'release_date'
 p94
 S'2007-10-29T00:00:00'

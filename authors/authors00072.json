@@ -1,12 +1,13 @@
 {
+    "name": "Carl Richard Jacobi", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         224, 
         871
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Carl Richard Jacobi", 
-    "n_books": 2, 
     "id": 72
 }
