@@ -1,11 +1,12 @@
 {
-    "books": [
-        671
-    ], 
+    "name": "Benjamin Ferris", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Benjamin Ferris", 
     "n_books": 1, 
+    "books": [
+        671
+    ], 
     "id": 223
 }

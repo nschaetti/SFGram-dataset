@@ -14,29 +14,32 @@ S'name'
 p6
 VHarold L. Goodwin
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Harold_L._Goodwin
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Harold_L._Goodwin
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I2
 sS'summary'
-p14
-VHarold Leland Goodwin (November 20, 1914 \u2013 February 18, 1990) was an American writer.
 p15
-sS'books'
+VHarold Leland Goodwin (November 20, 1914 \u2013 February 18, 1990) was an American writer.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I660
 aI925
 asS'id'
-p18
+p19
 I216
 sb.

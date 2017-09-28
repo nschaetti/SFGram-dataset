@@ -1,11 +1,12 @@
 {
-    "books": [
-        970
-    ], 
+    "name": "Louis Newman", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Louis Newman", 
     "n_books": 1, 
+    "books": [
+        970
+    ], 
     "id": 299
 }

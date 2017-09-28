@@ -730,7 +730,7 @@ VEnglish
 p362
 sS'country'
 p363
-I3
+I2
 sS'release_date'
 p364
 S'2008-05-02T00:00:00'

@@ -6757,19 +6757,21 @@ g3
 Ntp1989
 Rp1990
 (dp1991
-g25
-(lp1992
-I544
-asg12
+g9
+VJohn O'Keefe
+p1992
+sg11
+I3
+sg12
 (dp1993
 g16
 I00
-ssg9
-VJohn O'Keefe
-p1994
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp1994
+I544
+asg27
 I181
 sbag1
 (g2
@@ -6780,6 +6782,8 @@ Rp1996
 g9
 VRosel George Brown
 p1998
+sg11
+I2
 sg12
 (dp1999
 g14
@@ -6804,19 +6808,21 @@ g3
 Ntp2003
 Rp2004
 (dp2005
-g25
-(lp2006
-I548
-asg12
+g9
+VHelen Huber
+p2006
+sg11
+I3
+sg12
 (dp2007
 g16
 I00
-ssg9
-VHelen Huber
-p2008
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2008
+I548
+asg27
 I183
 sbag1
 (g2
@@ -6824,19 +6830,21 @@ g3
 Ntp2009
 Rp2010
 (dp2011
-g25
-(lp2012
-I551
-asg12
+g9
+VArthur Feldman
+p2012
+sg11
+I2
+sg12
 (dp2013
 g16
 I00
-ssg9
-VArthur Feldman
-p2014
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2014
+I551
+asg27
 I184
 sbag1
 (g2
@@ -6847,6 +6855,8 @@ Rp2016
 g9
 VGerald Vance
 p2018
+sg11
+I3
 sg12
 (dp2019
 g14
@@ -6875,6 +6885,8 @@ Rp2024
 g9
 VMiriam Allen DeFord
 p2026
+sg11
+I2
 sg12
 (dp2027
 g14
@@ -6900,19 +6912,21 @@ g3
 Ntp2031
 Rp2032
 (dp2033
-g25
-(lp2034
-I561
-asg12
+g9
+VRon Cocking
+p2034
+sg11
+I3
+sg12
 (dp2035
 g16
 I00
-ssg9
-VRon Cocking
-p2036
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2036
+I561
+asg27
 I187
 sbag1
 (g2
@@ -6926,6 +6940,8 @@ p2040
 sg9
 VRobert E. Gilbert
 p2041
+sg11
+I4
 sg12
 (dp2042
 g14
@@ -6964,6 +6980,8 @@ Rp2053
 g9
 VC. C. Beck
 p2055
+sg11
+I2
 sg12
 (dp2056
 g14
@@ -6990,6 +7008,8 @@ Rp2061
 g9
 VHomer Eon Flint
 p2063
+sg11
+I2
 sg12
 (dp2064
 g14
@@ -7064,20 +7084,22 @@ g3
 Ntp2088
 Rp2089
 (dp2090
-g25
-(lp2091
-I574
-aI918
-asg12
+g9
+VBill Doede
+p2091
+sg11
+I3
+sg12
 (dp2092
 g16
 I00
-ssg9
-VBill Doede
-p2093
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2093
+I574
+aI918
+asg27
 I192
 sbag1
 (g2
@@ -7085,20 +7107,22 @@ g3
 Ntp2094
 Rp2095
 (dp2096
-g25
-(lp2097
-I578
-aI636
-asg12
+g9
+VRobert Zacks
+p2097
+sg11
+I3
+sg12
 (dp2098
 g16
 I00
-ssg9
-VRobert Zacks
-p2099
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2099
+I578
+aI636
+asg27
 I193
 sbag1
 (g2
@@ -7109,6 +7133,8 @@ Rp2101
 g9
 VKris Neville
 p2103
+sg11
+I2
 sg12
 (dp2104
 g14
@@ -7148,19 +7174,21 @@ g3
 Ntp2114
 Rp2115
 (dp2116
-g25
-(lp2117
-I588
-asg12
+g9
+VManly Banister
+p2117
+sg11
+I3
+sg12
 (dp2118
 g16
 I00
-ssg9
-VManly Banister
-p2119
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2119
+I588
+asg27
 I195
 sbag1
 (g2
@@ -7168,19 +7196,21 @@ g3
 Ntp2120
 Rp2121
 (dp2122
-g25
-(lp2123
-I589
-asg12
+g9
+VRichard Sabia
+p2123
+sg11
+I2
+sg12
 (dp2124
 g16
 I00
-ssg9
-VRichard Sabia
-p2125
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2125
+I589
+asg27
 I196
 sbag1
 (g2
@@ -7191,6 +7221,8 @@ Rp2127
 g9
 VArthur Leo Zagat
 p2129
+sg11
+I2
 sg12
 (dp2130
 g14
@@ -7233,6 +7265,8 @@ p2143
 sg9
 VEarl Goodale
 p2144
+sg11
+I2
 sg12
 (dp2145
 g14
@@ -7268,6 +7302,8 @@ p2155
 sg9
 VJay Franklin
 p2156
+sg11
+I2
 sg12
 (dp2157
 g14
@@ -7303,20 +7339,22 @@ g3
 Ntp2167
 Rp2168
 (dp2169
-g25
-(lp2170
-I599
-aI876
-asg12
+g9
+VJoe Gibson
+p2170
+sg11
+I3
+sg12
 (dp2171
 g16
 I00
-ssg9
-VJoe Gibson
-p2172
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2172
+I599
+aI876
+asg27
 I200
 sbag1
 (g2
@@ -7327,6 +7365,8 @@ Rp2174
 g9
 VPaul Ernst
 p2176
+sg11
+I2
 sg12
 (dp2177
 g14
@@ -7352,19 +7392,21 @@ g3
 Ntp2181
 Rp2182
 (dp2183
-g25
-(lp2184
-I604
-asg12
+g9
+VWilliam Carroll
+p2184
+sg11
+I3
+sg12
 (dp2185
 g16
 I00
-ssg9
-VWilliam Carroll
-p2186
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2186
+I604
+asg27
 I202
 sbag1
 (g2
@@ -7372,20 +7414,22 @@ g3
 Ntp2187
 Rp2188
 (dp2189
-g25
-(lp2190
-I609
-aI844
-asg12
+g9
+VLyn Venable
+p2190
+sg11
+I17
+sg12
 (dp2191
 g16
 I00
-ssg9
-VLyn Venable
-p2192
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2192
+I609
+aI844
+asg27
 I203
 sbag1
 (g2
@@ -7399,6 +7443,8 @@ p2196
 sg9
 VDamon Knight
 p2197
+sg11
+I2
 sg12
 (dp2198
 g14
@@ -7434,8 +7480,19 @@ g3
 Ntp2208
 Rp2209
 (dp2210
-g25
-(lp2211
+g9
+VJack Sharkey
+p2211
+sg11
+I3
+sg12
+(dp2212
+g16
+I00
+ssg17
+I7
+sg25
+(lp2213
 I614
 aI722
 aI777
@@ -7443,16 +7500,7 @@ aI827
 aI869
 aI943
 aI952
-asg12
-(dp2212
-g16
-I00
-ssg9
-VJack Sharkey
-p2213
-sg17
-I7
-sg27
+asg27
 I205
 sbag1
 (g2
@@ -7466,6 +7514,8 @@ p2217
 sg9
 VDavid E. Fisher
 p2218
+sg11
+I2
 sg12
 (dp2219
 g14
@@ -7505,6 +7555,8 @@ Rp2230
 g9
 VT. R. Fehrenbach
 p2232
+sg11
+I3
 sg12
 (dp2233
 g14
@@ -7531,6 +7583,8 @@ Rp2238
 g9
 VRog Phillips
 p2240
+sg11
+I2
 sg12
 (dp2241
 g14
@@ -7555,19 +7609,21 @@ g3
 Ntp2245
 Rp2246
 (dp2247
-g25
-(lp2248
-I633
-asg12
+g9
+VMilo Hastings
+p2248
+sg11
+I2
+sg12
 (dp2249
 g16
 I00
-ssg9
-VMilo Hastings
-p2250
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2250
+I633
+asg27
 I209
 sbag1
 (g2
@@ -7575,19 +7631,21 @@ g3
 Ntp2251
 Rp2252
 (dp2253
-g25
-(lp2254
-I642
-asg12
+g9
+VTherese Windser
+p2254
+sg11
+I3
+sg12
 (dp2255
 g16
 I00
-ssg9
-VTherese Windser
-p2256
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2256
+I642
+asg27
 I210
 sbag1
 (g2
@@ -7595,21 +7653,23 @@ g3
 Ntp2257
 Rp2258
 (dp2259
-g25
-(lp2260
-I644
-aI845
-aI847
-asg12
+g9
+VJames Stamers
+p2260
+sg11
+I3
+sg12
 (dp2261
 g16
 I00
-ssg9
-VJames Stamers
-p2262
-sg17
+ssg17
 I3
-sg27
+sg25
+(lp2262
+I644
+aI845
+aI847
+asg27
 I211
 sbag1
 (g2
@@ -7617,19 +7677,21 @@ g3
 Ntp2263
 Rp2264
 (dp2265
-g25
-(lp2266
-I645
-asg12
+g9
+Va Thread
+p2266
+sg11
+I18
+sg12
 (dp2267
 g16
 I00
-ssg9
-Va Thread
-p2268
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2268
+I645
+asg27
 I212
 sbag1
 (g2
@@ -7637,19 +7699,21 @@ g3
 Ntp2269
 Rp2270
 (dp2271
-g25
-(lp2272
-I654
-asg12
+g9
+VGerry Maddren
+p2272
+sg11
+I3
+sg12
 (dp2273
 g16
 I00
-ssg9
-VGerry Maddren
-p2274
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2274
+I654
+asg27
 I213
 sbag1
 (g2
@@ -7657,20 +7721,22 @@ g3
 Ntp2275
 Rp2276
 (dp2277
-g25
-(lp2278
-I655
-aI880
-asg12
+g9
+VJoseph Wesley
+p2278
+sg11
+I2
+sg12
 (dp2279
 g16
 I00
-ssg9
-VJoseph Wesley
-p2280
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2280
+I655
+aI880
+asg27
 I214
 sbag1
 (g2
@@ -7678,19 +7744,21 @@ g3
 Ntp2281
 Rp2282
 (dp2283
-g25
-(lp2284
-I657
-asg12
+g9
+VHelen M. Urban
+p2284
+sg11
+I2
+sg12
 (dp2285
 g16
 I00
-ssg9
-VHelen M. Urban
-p2286
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2286
+I657
+asg27
 I215
 sbag1
 (g2
@@ -7701,6 +7769,8 @@ Rp2288
 g9
 VHarold L. Goodwin
 p2290
+sg11
+I2
 sg12
 (dp2291
 g14
@@ -7728,6 +7798,8 @@ Rp2296
 g9
 VRichard Wilson
 p2298
+sg11
+I2
 sg12
 (dp2299
 g14
@@ -7766,6 +7838,8 @@ Rp2310
 g9
 VWilliam Campbell Gault
 p2312
+sg11
+I2
 sg12
 (dp2313
 g14
@@ -7794,6 +7868,8 @@ g67
 sg9
 VW. T. Haggert
 p2320
+sg11
+I3
 sg12
 (dp2321
 g14
@@ -7826,6 +7902,8 @@ Rp2329
 g9
 VDaniel F. Galouye
 p2331
+sg11
+I2
 sg12
 (dp2332
 g14
@@ -7869,6 +7947,8 @@ p2345
 sg9
 VPaul W. Fairman
 p2346
+sg11
+I2
 sg12
 (dp2347
 g14
@@ -7899,6 +7979,8 @@ g67
 sg9
 VWalter S. Tevis
 p2354
+sg11
+I6
 sg12
 (dp2355
 g14
@@ -7934,19 +8016,21 @@ g3
 Ntp2365
 Rp2366
 (dp2367
-g25
-(lp2368
-I671
-asg12
+g9
+VBenjamin Ferris
+p2368
+sg11
+I3
+sg12
 (dp2369
 g16
 I00
-ssg9
-VBenjamin Ferris
-p2370
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2370
+I671
+asg27
 I223
 sbag1
 (g2
@@ -7957,6 +8041,8 @@ Rp2372
 g9
 VEverett B. Cole
 p2374
+sg11
+I2
 sg12
 (dp2375
 g14
@@ -7997,19 +8083,21 @@ g3
 Ntp2385
 Rp2386
 (dp2387
-g25
-(lp2388
-I686
-asg12
+g9
+VRon Goulart
+p2388
+sg11
+I1
+sg12
 (dp2389
 g16
 I00
-ssg9
-VRon Goulart
-p2390
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2390
+I686
+asg27
 I225
 sbag1
 (g2
@@ -8023,6 +8111,8 @@ p2394
 sg9
 VArthur J. Burks
 p2395
+sg11
+I1
 sg12
 (dp2396
 g14
@@ -8062,6 +8152,8 @@ Rp2407
 g9
 VChristopher Grimm
 p2409
+sg11
+I3
 sg12
 (dp2410
 g14
@@ -8090,6 +8182,8 @@ Rp2415
 g9
 VWinston K. Marks
 p2417
+sg11
+I2
 sg12
 (dp2418
 g14
@@ -8134,6 +8228,8 @@ Rp2429
 g9
 VFrank Banta
 p2431
+sg11
+I2
 sg12
 (dp2432
 g14
@@ -8170,19 +8266,21 @@ g3
 Ntp2442
 Rp2443
 (dp2444
-g25
-(lp2445
-I701
-asg12
+g9
+VGraph Waldeyer
+p2445
+sg11
+I3
+sg12
 (dp2446
 g16
 I00
-ssg9
-VGraph Waldeyer
-p2447
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2447
+I701
+asg27
 I230
 sbag1
 (g2
@@ -8190,20 +8288,22 @@ g3
 Ntp2448
 Rp2449
 (dp2450
-g25
-(lp2451
-I702
-aI873
-asg12
+g9
+VEd M. Clinton
+p2451
+sg11
+I2
+sg12
 (dp2452
 g16
 I00
-ssg9
-VEd M. Clinton
-p2453
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2453
+I702
+aI873
+asg27
 I231
 sbag1
 (g2
@@ -8211,19 +8311,21 @@ g3
 Ntp2454
 Rp2455
 (dp2456
-g25
-(lp2457
-I705
-asg12
+g9
+VAnne Walker
+p2457
+sg11
+I1
+sg12
 (dp2458
 g16
 I00
-ssg9
-VAnne Walker
-p2459
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2459
+I705
+asg27
 I232
 sbag1
 (g2
@@ -8234,6 +8336,8 @@ Rp2461
 g9
 VStanton A. Coblentz
 p2463
+sg11
+I2
 sg12
 (dp2464
 g14
@@ -8257,20 +8361,22 @@ g3
 Ntp2468
 Rp2469
 (dp2470
-g25
-(lp2471
-I719
-aI726
-asg12
+g9
+VHerbert D. Kastle
+p2471
+sg11
+I2
+sg12
 (dp2472
 g16
 I00
-ssg9
-VHerbert D. Kastle
-p2473
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2473
+I719
+aI726
+asg27
 I234
 sbag1
 (g2
@@ -8284,6 +8390,8 @@ p2477
 sg9
 VHoward Browne
 p2478
+sg11
+I3
 sg12
 (dp2479
 g14
@@ -8325,6 +8433,8 @@ p2492
 sg9
 VMark Clifton
 p2493
+sg11
+I2
 sg12
 (dp2494
 g14
@@ -8365,20 +8475,22 @@ g3
 Ntp2504
 Rp2505
 (dp2506
-g25
-(lp2507
-I732
-aI915
-asg12
+g9
+VDean Evans
+p2507
+sg11
+I3
+sg12
 (dp2508
 g16
 I00
-ssg9
-VDean Evans
-p2509
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2509
+I732
+aI915
+asg27
 I237
 sbag1
 (g2
@@ -8389,6 +8501,8 @@ Rp2511
 g9
 VAlex Apostolides
 p2513
+sg11
+I2
 sg12
 (dp2514
 g14
@@ -8415,6 +8529,8 @@ Rp2519
 g9
 VHenry Hasse
 p2521
+sg11
+I2
 sg12
 (dp2522
 g14
@@ -8438,19 +8554,21 @@ g3
 Ntp2526
 Rp2527
 (dp2528
-g25
-(lp2529
-I741
-asg12
+g9
+VCharles A. Stearns
+p2529
+sg11
+I2
+sg12
 (dp2530
 g16
 I00
-ssg9
-VCharles A. Stearns
-p2531
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2531
+I741
+asg27
 I240
 sbag1
 (g2
@@ -8458,20 +8576,22 @@ g3
 Ntp2532
 Rp2533
 (dp2534
-g25
-(lp2535
-I743
-aI812
-asg12
+g9
+VRoger Kuykendall
+p2535
+sg11
+I3
+sg12
 (dp2536
 g16
 I00
-ssg9
-VRoger Kuykendall
-p2537
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2537
+I743
+aI812
+asg27
 I241
 sbag1
 (g2
@@ -8482,6 +8602,8 @@ Rp2539
 g9
 VG. C. Edmondson
 p2541
+sg11
+I2
 sg12
 (dp2542
 g14
@@ -8508,6 +8630,8 @@ Rp2547
 g9
 VMichael Shaara
 p2549
+sg11
+I2
 sg12
 (dp2550
 g14
@@ -8533,20 +8657,22 @@ g3
 Ntp2554
 Rp2555
 (dp2556
-g25
-(lp2557
-I759
-aI786
-asg12
+g9
+VNathan Schachner
+p2557
+sg11
+I2
+sg12
 (dp2558
 g16
 I00
-ssg9
-VNathan Schachner
-p2559
-sg17
+ssg17
 I2
-sg27
+sg25
+(lp2559
+I759
+aI786
+asg27
 I244
 sbag1
 (g2
@@ -8554,19 +8680,21 @@ g3
 Ntp2560
 Rp2561
 (dp2562
-g25
-(lp2563
-I762
-asg12
+g9
+VNeil Goble
+p2563
+sg11
+I3
+sg12
 (dp2564
 g16
 I00
-ssg9
-VNeil Goble
-p2565
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2565
+I762
+asg27
 I245
 sbag1
 (g2
@@ -8580,6 +8708,8 @@ p2569
 sg9
 VGeorge Chetwynd Griffith
 p2570
+sg11
+I1
 sg12
 (dp2571
 g14
@@ -8621,6 +8751,8 @@ p2584
 sg9
 VBetsy Curtis
 p2585
+sg11
+I3
 sg12
 (dp2586
 g14
@@ -8659,6 +8791,8 @@ Rp2597
 g9
 VTom Purdom
 p2599
+sg11
+I3
 sg12
 (dp2600
 g14
@@ -8691,6 +8825,8 @@ Rp2608
 g9
 VFrank Quattrocchi
 p2610
+sg11
+I2
 sg12
 (dp2611
 g14
@@ -8715,19 +8851,21 @@ g3
 Ntp2615
 Rp2616
 (dp2617
-g25
-(lp2618
-I784
-asg12
+g9
+VArnold Castle
+p2618
+sg11
+I3
+sg12
 (dp2619
 g16
 I00
-ssg9
-VArnold Castle
-p2620
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2620
+I784
+asg27
 I250
 sbag1
 (g2
@@ -8738,6 +8876,8 @@ Rp2622
 g9
 VStanley R. Lee
 p2624
+sg11
+I2
 sg12
 (dp2625
 g14
@@ -8761,19 +8901,21 @@ g3
 Ntp2629
 Rp2630
 (dp2631
-g25
-(lp2632
-I795
-asg12
+g9
+VArthur W. Orton
+p2632
+sg11
+I3
+sg12
 (dp2633
 g16
 I00
-ssg9
-VArthur W. Orton
-p2634
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2634
+I795
+asg27
 I252
 sbag1
 (g2
@@ -8787,6 +8929,8 @@ p2638
 sg9
 VM. A. Cummings
 p2639
+sg11
+I2
 sg12
 (dp2640
 g14
@@ -8819,6 +8963,8 @@ Rp2648
 g9
 VSylvia Jacobs
 p2650
+sg11
+I3
 sg12
 (dp2651
 g14
@@ -8854,6 +9000,8 @@ p2661
 sg9
 VT. D. Hamm
 p2662
+sg11
+I2
 sg12
 (dp2663
 g14
@@ -8884,6 +9032,8 @@ p2670
 sg9
 VJames McKimmey
 p2671
+sg11
+I2
 sg12
 (dp2672
 g14
@@ -8919,19 +9069,21 @@ g3
 Ntp2682
 Rp2683
 (dp2684
-g25
-(lp2685
-I805
-asg12
+g9
+VJoy Leache
+p2685
+sg11
+I2
+sg12
 (dp2686
 g16
 I00
-ssg9
-VJoy Leache
-p2687
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2687
+I805
+asg27
 I257
 sbag1
 (g2
@@ -8942,6 +9094,8 @@ Rp2689
 g9
 VLeonard Rubin
 p2691
+sg11
+I3
 sg12
 (dp2692
 g14
@@ -8977,6 +9131,8 @@ p2702
 sg9
 VGreen Peyton
 p2703
+sg11
+I2
 sg12
 (dp2704
 g14
@@ -9003,6 +9159,8 @@ Rp2709
 g9
 VPatrick Fahy
 p2711
+sg11
+I3
 sg12
 (dp2712
 g14
@@ -9027,19 +9185,21 @@ g3
 Ntp2716
 Rp2717
 (dp2718
-g25
-(lp2719
-I818
-asg12
+g9
+VVictor A. Endersby
+p2719
+sg11
+I20
+sg12
 (dp2720
 g16
 I00
-ssg9
-VVictor A. Endersby
-p2721
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2721
+I818
+asg27
 I261
 sbag1
 (g2
@@ -9050,6 +9210,8 @@ Rp2723
 g9
 VArthur Porges
 p2725
+sg11
+I2
 sg12
 (dp2726
 g14
@@ -9079,6 +9241,8 @@ p2733
 sg9
 VStanley Gimble
 p2734
+sg11
+I3
 sg12
 (dp2735
 g14
@@ -9111,6 +9275,8 @@ Rp2743
 g9
 VAllan Howard
 p2745
+sg11
+I3
 sg12
 (dp2746
 g14
@@ -9140,6 +9306,8 @@ p2753
 sg9
 VBrander Matthews
 p2754
+sg11
+I2
 sg12
 (dp2755
 g14
@@ -9181,6 +9349,8 @@ p2768
 sg9
 VGreye La Spina
 p2769
+sg11
+I1
 sg12
 (dp2770
 g14
@@ -9219,6 +9389,8 @@ Rp2781
 g9
 VAlbert Teichner
 p2783
+sg11
+I3
 sg12
 (dp2784
 g14
@@ -9245,6 +9417,8 @@ Rp2789
 g9
 VDonald Colvin
 p2791
+sg11
+I3
 sg12
 (dp2792
 g14
@@ -9275,6 +9449,8 @@ p2799
 sg9
 VHarl Vincent
 p2800
+sg11
+I2
 sg12
 (dp2801
 g14
@@ -9305,19 +9481,21 @@ g3
 Ntp2808
 Rp2809
 (dp2810
-g25
-(lp2811
-I884
-asg12
+g9
+VRobert W. Haseltine
+p2811
+sg11
+I3
+sg12
 (dp2812
 g16
 I00
-ssg9
-VRobert W. Haseltine
-p2813
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2813
+I884
+asg27
 I270
 sbag1
 (g2
@@ -9331,6 +9509,8 @@ p2817
 sg9
 VDavid Mason
 p2818
+sg11
+I3
 sg12
 (dp2819
 g14
@@ -9361,19 +9541,21 @@ g3
 Ntp2826
 Rp2827
 (dp2828
-g25
-(lp2829
-I891
-asg12
+g9
+VEverett C. Smith
+p2829
+sg11
+I1
+sg12
 (dp2830
 g16
 I00
-ssg9
-VEverett C. Smith
-p2831
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2831
+I891
+asg27
 I272
 sbag1
 (g2
@@ -9381,19 +9563,21 @@ g3
 Ntp2832
 Rp2833
 (dp2834
-g25
-(lp2835
-I895
-asg12
+g9
+VRussell Burton
+p2835
+sg11
+I3
+sg12
 (dp2836
 g16
 I00
-ssg9
-VRussell Burton
-p2837
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2837
+I895
+asg27
 I273
 sbag1
 (g2
@@ -9401,19 +9585,21 @@ g3
 Ntp2838
 Rp2839
 (dp2840
-g25
-(lp2841
-I901
-asg12
+g9
+VJohn Victor Peterson
+p2841
+sg11
+I6
+sg12
 (dp2842
 g16
 I00
-ssg9
-VJohn Victor Peterson
-p2843
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2843
+I901
+asg27
 I274
 sbag1
 (g2
@@ -9427,6 +9613,8 @@ p2847
 sg9
 VL. Taylor Hansen
 p2848
+sg11
+I2
 sg12
 (dp2849
 g14
@@ -9462,19 +9650,21 @@ g3
 Ntp2859
 Rp2860
 (dp2861
-g25
-(lp2862
-I906
-asg12
+g9
+VF. E. Hardart
+p2862
+sg11
+I2
+sg12
 (dp2863
 g16
 I00
-ssg9
-VF. E. Hardart
-p2864
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2864
+I906
+asg27
 I276
 sbag1
 (g2
@@ -9482,19 +9672,21 @@ g3
 Ntp2865
 Rp2866
 (dp2867
-g25
-(lp2868
-I907
-asg12
+g9
+VStephen A. Kallis
+p2868
+sg11
+I1
+sg12
 (dp2869
 g16
 I00
-ssg9
-VStephen A. Kallis
-p2870
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2870
+I907
+asg27
 I277
 sbag1
 (g2
@@ -9502,19 +9694,21 @@ g3
 Ntp2871
 Rp2872
 (dp2873
-g25
-(lp2874
-I909
-asg12
+g9
+VAndrew Fetler
+p2874
+sg11
+I3
+sg12
 (dp2875
 g16
 I00
-ssg9
-VAndrew Fetler
-p2876
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2876
+I909
+asg27
 I278
 sbag1
 (g2
@@ -9525,6 +9719,8 @@ Rp2878
 g9
 VWilliam F. Nolan
 p2880
+sg11
+I2
 sg12
 (dp2881
 g14
@@ -9554,6 +9750,8 @@ p2888
 sg9
 VJim Wannamaker
 p2889
+sg11
+I3
 sg12
 (dp2890
 g14
@@ -9586,6 +9784,8 @@ Rp2898
 g9
 VDonald Keith
 p2900
+sg11
+I3
 sg12
 (dp2901
 g14
@@ -9621,19 +9821,21 @@ g3
 Ntp2911
 Rp2912
 (dp2913
-g25
-(lp2914
-I932
-asg12
+g9
+VRobert J. Martin
+p2914
+sg11
+I3
+sg12
 (dp2915
 g16
 I00
-ssg9
-VRobert J. Martin
-p2916
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2916
+I932
+asg27
 I282
 sbag1
 (g2
@@ -9644,6 +9846,8 @@ Rp2918
 g9
 VWallace Macfarlane
 p2920
+sg11
+I3
 sg12
 (dp2921
 g14
@@ -9667,19 +9871,21 @@ g3
 Ntp2925
 Rp2926
 (dp2927
-g25
-(lp2928
-I935
-asg12
+g9
+VMarshall King
+p2928
+sg11
+I3
+sg12
 (dp2929
 g16
 I00
-ssg9
-VMarshall King
-p2930
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2930
+I935
+asg27
 I284
 sbag1
 (g2
@@ -9687,19 +9893,21 @@ g3
 Ntp2931
 Rp2932
 (dp2933
-g25
-(lp2934
-I936
-asg12
+g9
+VDavid C. Knight
+p2934
+sg11
+I2
+sg12
 (dp2935
 g16
 I00
-ssg9
-VDavid C. Knight
-p2936
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2936
+I936
+asg27
 I285
 sbag1
 (g2
@@ -9710,6 +9918,8 @@ Rp2938
 g9
 VGeorge Henry Weiss
 p2940
+sg11
+I2
 sg12
 (dp2941
 g14
@@ -9748,6 +9958,8 @@ Rp2952
 g9
 VSydney Van Scyoc
 p2954
+sg11
+I2
 sg12
 (dp2955
 g14
@@ -9771,19 +9983,21 @@ g3
 Ntp2959
 Rp2960
 (dp2961
-g25
-(lp2962
-I944
-asg12
+g9
+VNelson Slade Bond
+p2962
+sg11
+I2
+sg12
 (dp2963
 g16
 I00
-ssg9
-VNelson Slade Bond
-p2964
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2964
+I944
+asg27
 I288
 sbag1
 (g2
@@ -9791,19 +10005,21 @@ g3
 Ntp2965
 Rp2966
 (dp2967
-g25
-(lp2968
-I945
-asg12
+g9
+VDave Dryfoos
+p2968
+sg11
+I2
+sg12
 (dp2969
 g16
 I00
-ssg9
-VDave Dryfoos
-p2970
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2970
+I945
+asg27
 I289
 sbag1
 (g2
@@ -9811,19 +10027,21 @@ g3
 Ntp2971
 Rp2972
 (dp2973
-g25
-(lp2974
-I951
-asg12
+g9
+VNathaniel Gordon
+p2974
+sg11
+I3
+sg12
 (dp2975
 g16
 I00
-ssg9
-VNathaniel Gordon
-p2976
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2976
+I951
+asg27
 I290
 sbag1
 (g2
@@ -9831,19 +10049,21 @@ g3
 Ntp2977
 Rp2978
 (dp2979
-g25
-(lp2980
-I954
-asg12
+g9
+VG. L. Vandenburg
+p2980
+sg11
+I2
+sg12
 (dp2981
 g16
 I00
-ssg9
-VG. L. Vandenburg
-p2982
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2982
+I954
+asg27
 I291
 sbag1
 (g2
@@ -9851,19 +10071,21 @@ g3
 Ntp2983
 Rp2984
 (dp2985
-g25
-(lp2986
-I955
-asg12
+g9
+VJoseph Paul Martino
+p2986
+sg11
+I2
+sg12
 (dp2987
 g16
 I00
-ssg9
-VJoseph Paul Martino
-p2988
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2988
+I955
+asg27
 I292
 sbag1
 (g2
@@ -9871,19 +10093,21 @@ g3
 Ntp2989
 Rp2990
 (dp2991
-g25
-(lp2992
-I957
-asg12
+g9
+VLucius Daniel
+p2992
+sg11
+I3
+sg12
 (dp2993
 g16
 I00
-ssg9
-VLucius Daniel
-p2994
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp2994
+I957
+asg27
 I293
 sbag1
 (g2
@@ -9891,19 +10115,21 @@ g3
 Ntp2995
 Rp2996
 (dp2997
-g25
-(lp2998
-I958
-asg12
+g9
+VEllsworth Douglass
+p2998
+sg11
+I2
+sg12
 (dp2999
 g16
 I00
-ssg9
-VEllsworth Douglass
-p3000
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp3000
+I958
+asg27
 I294
 sbag1
 (g2
@@ -9914,6 +10140,8 @@ Rp3002
 g9
 VLee Tarbell
 p3004
+sg11
+I3
 sg12
 (dp3005
 g14
@@ -9943,6 +10171,8 @@ p3012
 sg9
 VHarry Stephen Keeler
 p3013
+sg11
+I2
 sg12
 (dp3014
 g14
@@ -9975,6 +10205,8 @@ Rp3022
 g9
 VTeddy Keller
 p3024
+sg11
+I3
 sg12
 (dp3025
 g14
@@ -10004,6 +10236,8 @@ p3032
 sg9
 VAnn Griffith
 p3033
+sg11
+I3
 sg12
 (dp3034
 g14
@@ -10027,18 +10261,20 @@ g3
 Ntp3038
 Rp3039
 (dp3040
-g25
-(lp3041
-I970
-asg12
+g9
+VLouis Newman
+p3041
+sg11
+I3
+sg12
 (dp3042
 g16
 I00
-ssg9
-VLouis Newman
-p3043
-sg17
+ssg17
 I1
-sg27
+sg25
+(lp3043
+I970
+asg27
 I299
 sba.

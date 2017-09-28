@@ -18,30 +18,33 @@ sS'name'
 p8
 VPaul W. Fairman
 p9
-sS'wikipedia'
+sS'country'
 p10
-(dp11
+I2
+sS'wikipedia'
+p11
+(dp12
 S'url'
-p12
-Vhttps://en.wikipedia.org/wiki/Paul_W._Fairman
 p13
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Paul_W._Fairman
 p14
+sS'found'
+p15
 I01
 ssS'n_books'
-p15
+p16
 I3
 sS'summary'
-p16
-VPaul Warren Fairman (1916\u20131977) was an editor and writer in a variety of genres under his own name and under pseudonyms. His detective story "Late Rain" was published in the February 1947 issue of Mammoth Detective. He published his story "No Teeth for the Tiger" in the February 1950 issue of Amazing Stories. Two years later, he was the founding editor of If, but only edited four issues. In 1955, he became the editor of Amazing Stories and Fantastic. He held that dual position until 1958. His science fiction short stories "Deadly City" and "The Cosmic Frame" were made into motion pictures.
 p17
-sS'books'
+VPaul Warren Fairman (1916\u20131977) was an editor and writer in a variety of genres under his own name and under pseudonyms. His detective story "Late Rain" was published in the February 1947 issue of Mammoth Detective. He published his story "No Teeth for the Tiger" in the February 1950 issue of Amazing Stories. Two years later, he was the founding editor of If, but only edited four issues. In 1955, he became the editor of Amazing Stories and Fantastic. He held that dual position until 1958. His science fiction short stories "Deadly City" and "The Cosmic Frame" were made into motion pictures.
 p18
-(lp19
+sS'books'
+p19
+(lp20
 I669
 aI893
 aI912
 asS'id'
-p20
+p21
 I221
 sb.

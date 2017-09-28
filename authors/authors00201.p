@@ -14,30 +14,33 @@ S'name'
 p6
 VPaul Ernst
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Paul_Ernst_(German_writer)
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Paul_Ernst_(German_writer)
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I3
 sS'summary'
-p14
-V(Karl Friedrich) Paul Ernst (7 March 1866, Elbingerode, Kingdom of Hanover \u2013 13 May 1933, aged 67) was a German writer, dramatist, critic and journalist.
 p15
-sS'books'
+V(Karl Friedrich) Paul Ernst (7 March 1866, Elbingerode, Kingdom of Hanover \u2013 13 May 1933, aged 67) was a German writer, dramatist, critic and journalist.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I600
 aI778
 aI850
 asS'id'
-p18
+p19
 I201
 sb.

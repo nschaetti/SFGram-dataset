@@ -1,12 +1,13 @@
 {
+    "name": "Robert Zacks", 
+    "country": 3, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         578, 
         636
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Robert Zacks", 
-    "n_books": 2, 
     "id": 193
 }

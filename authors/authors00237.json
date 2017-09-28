@@ -1,12 +1,13 @@
 {
+    "name": "Dean Evans", 
+    "country": 3, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         732, 
         915
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Dean Evans", 
-    "n_books": 2, 
     "id": 237
 }

@@ -161,7 +161,7 @@ VEnglish
 p77
 sS'country'
 p78
-I3
+I1
 sS'release_date'
 p79
 S'2016-03-21T00:00:00'

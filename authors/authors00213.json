@@ -1,11 +1,12 @@
 {
-    "books": [
-        654
-    ], 
+    "name": "Gerry Maddren", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Gerry Maddren", 
     "n_books": 1, 
+    "books": [
+        654
+    ], 
     "id": 213
 }

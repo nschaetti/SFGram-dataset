@@ -14,29 +14,32 @@ S'name'
 p6
 VDonald Colvin
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I3
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/American_Jerusalem
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/American_Jerusalem
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I2
 sS'summary'
-p14
-V"American Jerusalem" is a song written by singer-songwriter and guitarist Rod MacDonald in 1978. Considered his "signature tune", the nearly-six-minute long song first appeared on MacDonald\u2019s 1983 debut album No Commercial Traffic (originally on Cinemagic Records, reissued by Blue Flute Music).\u000aMacDonald re-recorded the song for his 2009 CD After the War, with Gary Burke (drums), Pete Levin (keyboards), Mark Dann (bass), JP Bowersock (guitar) and Tracy Grammer (harmony vocals).\u000aThe publishing rights to "American Jerusalem" were acquired in 1985 by Dick James Music, which later sold its entire catalogue to PolyGram International; it is currently the property of Universal Music. MacDonald is a longtime member of ASCAP.
 p15
-sS'books'
+V"American Jerusalem" is a song written by singer-songwriter and guitarist Rod MacDonald in 1978. Considered his "signature tune", the nearly-six-minute long song first appeared on MacDonald\u2019s 1983 debut album No Commercial Traffic (originally on Cinemagic Records, reissued by Blue Flute Music).\u000aMacDonald re-recorded the song for his 2009 CD After the War, with Gary Burke (drums), Pete Levin (keyboards), Mark Dann (bass), JP Bowersock (guitar) and Tracy Grammer (harmony vocals).\u000aThe publishing rights to "American Jerusalem" were acquired in 1985 by Dick James Music, which later sold its entire catalogue to PolyGram International; it is currently the property of Universal Music. MacDonald is a longtime member of ASCAP.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I864
 aI890
 asS'id'
-p18
+p19
 I268
 sb.

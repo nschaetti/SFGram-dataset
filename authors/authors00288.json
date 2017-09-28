@@ -1,11 +1,12 @@
 {
-    "books": [
-        944
-    ], 
+    "name": "Nelson Slade Bond", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Nelson Slade Bond", 
     "n_books": 1, 
+    "books": [
+        944
+    ], 
     "id": 288
 }

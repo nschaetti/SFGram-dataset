@@ -14,29 +14,32 @@ S'name'
 p6
 VFrank Quattrocchi
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/The_Projected_Man
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/The_Projected_Man
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I2
 sS'summary'
-p14
-VThe Projected Man is a 1966 British science fiction film directed by Ian Curteis, written by Peter Bryan, John C. Cooper, and Frank Quattrocchi, and starring Bryant Haliday, Mary Peach, Norman Wooland, Ronald Allen, and Derek Farr. It was released in the United States by Universal Studios, as a double bill with Island of Terror. The plot revolves around a scientist, Dr. Paul Steiner, experimenting with matter teleportation by means of a laser device. However, after a failed attempt at projecting himself, he becomes a disfigured monster who embarks on a murderous rampage.\u000aDiscovered by Alex Gordon as an unproduced screenplay by Hollywood writer Frank Quattrocchi, The Projected Man was directed by Ian Curteis; it would be the first theatrical film that he would direct. However, due to his lack of experience, he ran into several problems during filming. As the film fell behind schedule and the budget kept increasing, he was fired during the film's final stages. Producer John Croydon replaced him; however, Croydon remained uncredited as the producers did not wish to publicise the problems which had occurred on set.\u000aThe Projected Man has received mixed reviews. Several sources were critical of the film's resemblance to other science fiction films, with The Fly and 4D Man being singled out by critics and moviegoers alike as possible inspirations, although the film's executive producer Richard Gordon has denied this. The Projected Man was featured in a ninth season episode of comedy television series Mystery Science Theater 3000, and has been released on DVD by Cinema Club.
 p15
-sS'books'
+VThe Projected Man is a 1966 British science fiction film directed by Ian Curteis, written by Peter Bryan, John C. Cooper, and Frank Quattrocchi, and starring Bryant Haliday, Mary Peach, Norman Wooland, Ronald Allen, and Derek Farr. It was released in the United States by Universal Studios, as a double bill with Island of Terror. The plot revolves around a scientist, Dr. Paul Steiner, experimenting with matter teleportation by means of a laser device. However, after a failed attempt at projecting himself, he becomes a disfigured monster who embarks on a murderous rampage.\u000aDiscovered by Alex Gordon as an unproduced screenplay by Hollywood writer Frank Quattrocchi, The Projected Man was directed by Ian Curteis; it would be the first theatrical film that he would direct. However, due to his lack of experience, he ran into several problems during filming. As the film fell behind schedule and the budget kept increasing, he was fired during the film's final stages. Producer John Croydon replaced him; however, Croydon remained uncredited as the producers did not wish to publicise the problems which had occurred on set.\u000aThe Projected Man has received mixed reviews. Several sources were critical of the film's resemblance to other science fiction films, with The Fly and 4D Man being singled out by critics and moviegoers alike as possible inspirations, although the film's executive producer Richard Gordon has denied this. The Projected Man was featured in a ninth season episode of comedy television series Mystery Science Theater 3000, and has been released on DVD by Cinema Club.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I781
 aI851
 asS'id'
-p18
+p19
 I249
 sb.

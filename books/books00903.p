@@ -255,7 +255,7 @@ VEnglish
 p124
 sS'country'
 p125
-I3
+I2
 sS'release_date'
 p126
 S'2008-03-08T00:00:00'

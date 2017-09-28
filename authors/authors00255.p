@@ -18,29 +18,32 @@ sS'name'
 p8
 VT. D. Hamm
 p9
-sS'wikipedia'
+sS'country'
 p10
-(dp11
+I2
+sS'wikipedia'
+p11
+(dp12
 S'url'
-p12
-Vhttps://en.wikipedia.org/wiki/Theodore_Hamm
 p13
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Theodore_Hamm
 p14
+sS'found'
+p15
 I01
 ssS'n_books'
-p15
+p16
 I2
 sS'summary'
-p16
-VTheodore Hamm (born September 14, 1966, in Chicago) is an American author, writer and the founding editor of the New York City-based literary and culture tabloid The Brooklyn Rail. Hamm currently serves as the director of the Journalism and New Media Studies program at St. Joseph\u2019s College, in Clinton Hill, Brooklyn.
 p17
-sS'books'
+VTheodore Hamm (born September 14, 1966, in Chicago) is an American author, writer and the founding editor of the New York City-based literary and culture tabloid The Brooklyn Rail. Hamm currently serves as the director of the Journalism and New Media Studies program at St. Joseph\u2019s College, in Clinton Hill, Brooklyn.
 p18
-(lp19
+sS'books'
+p19
+(lp20
 I801
 aI929
 asS'id'
-p20
+p21
 I255
 sb.

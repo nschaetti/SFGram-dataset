@@ -1,11 +1,12 @@
 {
-    "books": [
-        951
-    ], 
+    "name": "Nathaniel Gordon", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Nathaniel Gordon", 
     "n_books": 1, 
+    "books": [
+        951
+    ], 
     "id": 290
 }

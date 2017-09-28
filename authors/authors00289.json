@@ -1,11 +1,12 @@
 {
-    "books": [
-        945
-    ], 
+    "name": "Dave Dryfoos", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Dave Dryfoos", 
     "n_books": 1, 
+    "books": [
+        945
+    ], 
     "id": 289
 }

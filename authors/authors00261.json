@@ -1,11 +1,12 @@
 {
-    "books": [
-        818
-    ], 
+    "name": "Victor A. Endersby", 
+    "country": 20, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Victor A. Endersby", 
     "n_books": 1, 
+    "books": [
+        818
+    ], 
     "id": 261
 }

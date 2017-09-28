@@ -1,11 +1,12 @@
 {
-    "books": [
-        935
-    ], 
+    "name": "Marshall King", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Marshall King", 
     "n_books": 1, 
+    "books": [
+        935
+    ], 
     "id": 284
 }

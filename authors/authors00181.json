@@ -1,11 +1,12 @@
 {
-    "books": [
-        544
-    ], 
+    "name": "John O'Keefe", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "John O'Keefe", 
     "n_books": 1, 
+    "books": [
+        544
+    ], 
     "id": 181
 }

@@ -171,7 +171,7 @@ VEnglish
 p82
 sS'country'
 p83
-I3
+I2
 sS'release_date'
 p84
 S'2010-04-14T00:00:00'

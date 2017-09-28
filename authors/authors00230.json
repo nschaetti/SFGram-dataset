@@ -1,11 +1,12 @@
 {
-    "books": [
-        701
-    ], 
+    "name": "Graph Waldeyer", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Graph Waldeyer", 
     "n_books": 1, 
+    "books": [
+        701
+    ], 
     "id": 230
 }

@@ -262,7 +262,7 @@ VEnglish
 p126
 sS'country'
 p127
-I3
+I2
 sS'release_date'
 p128
 S'2007-07-24T00:00:00'

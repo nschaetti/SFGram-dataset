@@ -225,7 +225,7 @@ VEnglish
 p109
 sS'country'
 p110
-I3
+I2
 sS'release_date'
 p111
 S'2008-04-12T00:00:00'

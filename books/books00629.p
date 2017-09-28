@@ -242,7 +242,7 @@ VEnglish
 p118
 sS'country'
 p119
-I3
+I1
 sS'release_date'
 p120
 S'2010-02-18T00:00:00'

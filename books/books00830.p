@@ -133,7 +133,7 @@ VEnglish
 p63
 sS'country'
 p64
-I3
+I2
 sS'release_date'
 p65
 S'2009-04-03T00:00:00'

@@ -1,12 +1,13 @@
 {
+    "name": "Bill Doede", 
+    "country": 3, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         574, 
         918
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Bill Doede", 
-    "n_books": 2, 
     "id": 192
 }

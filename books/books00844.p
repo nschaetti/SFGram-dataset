@@ -124,7 +124,7 @@ VEnglish
 p57
 sS'country'
 p58
-I3
+I17
 sS'release_date'
 p59
 S'2009-06-22T00:00:00'

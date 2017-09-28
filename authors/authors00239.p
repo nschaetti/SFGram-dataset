@@ -14,28 +14,31 @@ S'name'
 p6
 VHenry Hasse
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Hasse
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Hasse
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-VHasse is both a surname and a given name. Notable people with the name include:\u000aSurname:\u000aClara H. Hasse (1880\u20131926), American botanist\u000aJohann Adolph Hasse (1699\u20131783), German composer\u000aHelmut Hasse (1898\u20131979), German mathematician\u000aHenry Hasse (1913\u20131977), US writer of science fiction\u000aPeter Hasse (c. 1585\u20131640), German organist and composer\u000aGiven name or nickname:\u000aHans Alfredson (born 1931), Swedish actor, film director, writer and comedian\u000aHans Backe (born 1952), Swedish football manager\u000aHasse Borg (born 1953), Swedish footballer\u000aHasse Börjes (born 1948), Swedish speed skater\u000aHasse Ekman (1915-2004), Swedish film director and actor\u000aHans Wind (1919\u20131995), Finnish flying ace
 p15
-sS'books'
+VHasse is both a surname and a given name. Notable people with the name include:\u000aSurname:\u000aClara H. Hasse (1880\u20131926), American botanist\u000aJohann Adolph Hasse (1699\u20131783), German composer\u000aHelmut Hasse (1898\u20131979), German mathematician\u000aHenry Hasse (1913\u20131977), US writer of science fiction\u000aPeter Hasse (c. 1585\u20131640), German organist and composer\u000aGiven name or nickname:\u000aHans Alfredson (born 1931), Swedish actor, film director, writer and comedian\u000aHans Backe (born 1952), Swedish football manager\u000aHasse Borg (born 1953), Swedish footballer\u000aHasse Börjes (born 1948), Swedish speed skater\u000aHasse Ekman (1915-2004), Swedish film director and actor\u000aHans Wind (1919\u20131995), Finnish flying ace
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I737
 asS'id'
-p18
+p19
 I239
 sb.

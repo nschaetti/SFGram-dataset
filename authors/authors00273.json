@@ -1,11 +1,12 @@
 {
-    "books": [
-        895
-    ], 
+    "name": "Russell Burton", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Russell Burton", 
     "n_books": 1, 
+    "books": [
+        895
+    ], 
     "id": 273
 }

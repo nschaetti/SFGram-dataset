@@ -475,7 +475,7 @@ VEnglish
 p234
 sS'country'
 p235
-I3
+I2
 sS'release_date'
 p236
 S'2008-12-23T00:00:00'

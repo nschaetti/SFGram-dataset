@@ -403,7 +403,7 @@ VEnglish
 p198
 sS'country'
 p199
-I3
+I2
 sS'release_date'
 p200
 S'2007-03-20T00:00:00'

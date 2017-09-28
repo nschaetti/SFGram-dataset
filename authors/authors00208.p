@@ -14,29 +14,32 @@ S'name'
 p6
 VRog Phillips
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Rog_Phillips
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Rog_Phillips
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I2
 sS'summary'
-p14
-V.\u000a\u000aRoger Phillips Graham (1909-1966), born in Spokane, Washington, was an American science fiction writer who was published most often using the name Rog Phillips, but also used other names. Of his other pseudonyms, only Craig Browning is notable in the genre. He is associated most with Amazing Stories and is known best for short fiction. He was nominated for the Hugo Award for Best Novelette during 1959.
 p15
-sS'books'
+V.\u000a\u000aRoger Phillips Graham (1909-1966), born in Spokane, Washington, was an American science fiction writer who was published most often using the name Rog Phillips, but also used other names. Of his other pseudonyms, only Craig Browning is notable in the genre. He is associated most with Amazing Stories and is known best for short fiction. He was nominated for the Hugo Award for Best Novelette during 1959.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I628
 aI859
 asS'id'
-p18
+p19
 I208
 sb.

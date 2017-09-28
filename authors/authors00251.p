@@ -14,28 +14,31 @@ S'name'
 p6
 VStanley R. Lee
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Stanley_R._Lee
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Stanley_R._Lee
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-VStanley R. Lee (died 1997) was an advertising executive who wrote the novels Dunn's Conundrum (1985) and The God Project (1990) under the name "Stan Lee". He was copywriter for the notorious political commercial "Daisy" for the advertising firm DDB Worldwide and worked his way up to Senior Vice President of that company before being laid off in 1974.
 p15
-sS'books'
+VStanley R. Lee (died 1997) was an advertising executive who wrote the novels Dunn's Conundrum (1985) and The God Project (1990) under the name "Stan Lee". He was copywriter for the notorious political commercial "Daisy" for the advertising firm DDB Worldwide and worked his way up to Senior Vice President of that company before being laid off in 1974.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I789
 asS'id'
-p18
+p19
 I251
 sb.

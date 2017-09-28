@@ -3328,18 +3328,20 @@
             "died": "2014-06-30 00:00:00"
         }, 
         {
-            "books": [
-                544
-            ], 
+            "name": "John O'Keefe", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "John O'Keefe", 
             "n_books": 1, 
+            "books": [
+                544
+            ], 
             "id": 181
         }, 
         {
             "name": "Rosel George Brown", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Russell_(surname)", 
                 "found": true
@@ -3353,29 +3355,32 @@
             "id": 182
         }, 
         {
+            "name": "Helen Huber", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 548
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Helen Huber", 
-            "n_books": 1, 
             "id": 183
         }, 
         {
-            "books": [
-                551
-            ], 
+            "name": "Arthur Feldman", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Arthur Feldman", 
             "n_books": 1, 
+            "books": [
+                551
+            ], 
             "id": 184
         }, 
         {
             "name": "Gerald Vance", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Bob_Morane", 
                 "found": true
@@ -3391,6 +3396,7 @@
         }, 
         {
             "name": "Miriam Allen DeFord", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Miriam_Allen_deFord", 
                 "found": true
@@ -3405,19 +3411,21 @@
             "id": 186
         }, 
         {
-            "books": [
-                561
-            ], 
+            "name": "Ron Cocking", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Ron Cocking", 
             "n_books": 1, 
+            "books": [
+                561
+            ], 
             "id": 187
         }, 
         {
             "bio": "Born in Odessa, Russian Empire, Gilbert moved to the United States as a young man.\nGilbert began his career touring with John L. Sullivan and singing in a quartet at small Coney Island caf\u00e9 called \"College Inn\", where he was discovered by English producer Albert Decourville. Decourville brought him to London as part of The Ragtime Octet.\nGilbert's first songwriting success came in 1912 when F. A. Mills Music Publishers published his song Waiting For the Robert E. Lee (melody by composer Lewis F. Muir).\nHe joined ASCAP in 1924.\nGilbert moved to Hollywood in 1929, and began writing for film, television, and radio (including the Eddie Cantor show).\nDuring the 1930s, Gilbert worked on Cuban songs that helped to popularize the rumba in America. Some of these hits for which he wrote English lyrics include The Peanut Vendor, Mama Inez, and Maria My Own.\nGilbert wrote the theme lyrics for the popular children's Television Western Hopalong Cassidy, which first aired in 1949 on NBC. He was an innovator in his field, having been one of the first songwriters to begin publishing and promoting a catalog of his own works. He served as the director of ASCAP from 1941 to 1944, and again in 1953. He was inducted into the Songwriters Hall of Fame in 1970.\nKnown as \"Wolfie,\" Gilbert and his wife Rose lived in Beverly Hills and he and his family were members of Temple Israel of Hollywood.\nHe died in Los Angeles, California on July 12, 1970. His original gravesite was at Hillside Memorial Park Cemetery in Culver City (Mausoleum, Court of Sages, Crypt 223) but he was later reinterred at Forest Lawn Cemetery (Cathedral City) near Palm Springs, California.", 
             "name": "Robert E. Gilbert", 
+            "country": 4, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/L._Wolfe_Gilbert", 
                 "found": true
@@ -3433,6 +3441,7 @@
         }, 
         {
             "name": "C. C. Beck", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Beck_(surname)", 
                 "found": true
@@ -3446,6 +3455,7 @@
         }, 
         {
             "name": "Homer Eon Flint", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Homer_Eon_Flint", 
                 "found": true
@@ -3476,31 +3486,34 @@
             "died": "1933-08-26 00:00:00"
         }, 
         {
+            "name": "Bill Doede", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 574, 
                 918
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Bill Doede", 
-            "n_books": 2, 
             "id": 192
         }, 
         {
+            "name": "Robert Zacks", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 578, 
                 636
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Robert Zacks", 
-            "n_books": 2, 
             "id": 193
         }, 
         {
             "name": "Kris Neville", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Kris_Ottman_Neville", 
                 "found": true
@@ -3519,29 +3532,32 @@
             "died": "1980-12-23 00:00:00"
         }, 
         {
+            "name": "Manly Banister", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 588
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Manly Banister", 
-            "n_books": 1, 
             "id": 195
         }, 
         {
-            "books": [
-                589
-            ], 
+            "name": "Richard Sabia", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Richard Sabia", 
             "n_books": 1, 
+            "books": [
+                589
+            ], 
             "id": 196
         }, 
         {
             "name": "Arthur Leo Zagat", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Arthur_Leo_Zagat", 
                 "found": true
@@ -3559,6 +3575,7 @@
         {
             "bio": "Goodale played hockey and baseball at Yale and maintains a lifelong interest in skating and hockey. He owned the Sky Rink, a full-sized skating rink on 33rd Street in Manhattan. From 1998-2014 he published a digital newsletter for hockey hobbyists titled MMMCS. Its name was an acronym for the \"Murray Murdoch Marching and Chowder Society.\" Murray Murdoch, a former member of the New York Rangers, was Goodale's college coach. In 1973 he founded Washington Gunnery Hockey & Skating Association, a youth hockey organization in Washington, Connecticut.\nJames Goodale is married to the former Toni Krissel of New York City who is President of an international fund-raising firm, T.K. Goodale Associates. They are the parents of Tim (Principal, Bridge Haven Capital Ltd., London) and Ashley (formerly of the NYC Office of Legal Counsel), and the foster parents of Clayton Akiwenzie, a Native American (Senior Vice President, Berkadia, San Francisco).", 
             "name": "Earl Goodale", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/James_Goodale", 
                 "found": true
@@ -3574,6 +3591,7 @@
         {
             "bio": "Carter was born in Fall River, Massachusetts on April 27, 1897 as one of seven children of Rev. John Franklin Carter. He attended Yale University, where he served as chairman of campus humor magazine The Yale Record\nHe left Yale early to serve as a representative of the Williamstown Institute of Politics in Italy. Afterwards, he became the Rome correspondent for the London Daily Chronicle and the New York Times.\nIn 1928, Carter began working for the State Department as an economic specialist.\nHe then became a correspondent for the magazines Liberty and Vanity Fair.\nHe wrote the syndicated column, \"We, The People\" from 1936 to 1948 under his pen name \"Jay Franklin\". It chronicled the Franklin D. Roosevelt and Truman Administrations.\nIn 1948, Carter worked as a speech writer for Harry S. Truman.\nCarter died in Washington, D.C., on November 28, 1967 at the age of 70. His books \"The New Dealers\" (1934) and \"American Messiahs\" (1935) remain valuable sources for historians of the New Deal era.", 
             "name": "Jay Franklin", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/John_Franklin_Carter", 
                 "found": true
@@ -3588,19 +3606,21 @@
             "died": "1967-11-28 00:00:00"
         }, 
         {
+            "name": "Joe Gibson", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 599, 
                 876
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Joe Gibson", 
-            "n_books": 2, 
             "id": 200
         }, 
         {
             "name": "Paul Ernst", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Paul_Ernst_(German_writer)", 
                 "found": true
@@ -3615,31 +3635,34 @@
             "id": 201
         }, 
         {
-            "books": [
-                604
-            ], 
+            "name": "William Carroll", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "William Carroll", 
             "n_books": 1, 
+            "books": [
+                604
+            ], 
             "id": 202
         }, 
         {
+            "name": "Lyn Venable", 
+            "country": 17, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 609, 
                 844
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Lyn Venable", 
-            "n_books": 2, 
             "id": 203
         }, 
         {
             "bio": "Knight was born in Baker, Oregon in 1922, and grew up in Hood River, Oregon. He entered science-fiction fandom at the age of eleven and published two issues of a fanzine entitled Snide.\nKnight's first professional sale was a cartoon drawing to a science-fiction magazine, Amazing Stories. His first story, \"The Itching Hour,\" appeared in the Summer 1940 number of Futuria Fantasia, edited and published by Ray Bradbury. \"Resilience\" followed in the February 1941 number of Stirring Science Stories, edited by Donald Wolheim. An editorial error made the latter story's ending incomprehensible; it was reprinted in a 1978 magazine in four pages with a two-page introduction by Knight.\nAt the time of his first story sale, he was living in New York, and was a member of the Futurians. One of his short stories describes paranormal disruption of a science fiction fan group, and contains cameo appearances of various Futurians and others under thinly-disguised names: for instance, non-Futurian SF writer H. Beam Piper is identified as \"H. Dreyne Fifer\".\nKnight's forte was short stories and he is widely acknowledged as having been a master of the genre. To the general public, he is best known as the author of \"To Serve Man\", a 1950 short story adapted for The Twilight Zone. It won a 50-year Retro Hugo in 2001 as the best short story of 1950. He also became well known as a science fiction critic, a career which began when he wrote in 1945 that A. E. van Vogt \"is not a giant as often maintained. He's only a pygmy who has learned to operate an overgrown typewriter.\" After nine years, he ceased reviewing when a magazine refused to publish one review exactly as he wrote it. These reviews were later collected in In Search of Wonder. The term \"idiot plot\", a story that only functions because almost everyone in it is an idiot, became well-known through Knight's frequent use of it in his reviews, though he believed the term was probably invented by James Blish. Knight's only non-Retro Hugo Award was for \"Best Reviewer\", in 1956.\nKnight was the founder of the Science Fiction and Fantasy Writers of America (SFWA), cofounder of the National Fantasy Fan Federation, cofounder of the Milford Writer's Workshop, and cofounder of the Clarion Writers Workshop. The SFWA officers and past presidents named Knight its 13th Grand Master in 1994 (presented 1995). After his death, the associated award was renamed the Damon Knight Memorial Grand Master Award in his honor. The Science Fiction Hall of Fame inducted him in 2003.\nUntil his death, Knight lived in Eugene, Oregon, with his second wife, author Kate Wilhelm. His papers are held in the University of Oregon Special Collections and University Archive.", 
             "name": "Damon Knight", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Damon_Knight", 
                 "found": true
@@ -3654,6 +3677,12 @@
             "died": "2002-04-15 00:00:00"
         }, 
         {
+            "name": "Jack Sharkey", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 7, 
             "books": [
                 614, 
                 722, 
@@ -3663,16 +3692,12 @@
                 943, 
                 952
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Jack Sharkey", 
-            "n_books": 7, 
             "id": 205
         }, 
         {
             "bio": "Carrie Frances Fisher was born on October 21, 1956, in Burbank, California, to actors and singers Eddie Fisher and Debbie Reynolds. Fisher's paternal grandparents were Jewish Russian immigrants, while her mother, who was raised a Nazarene, was of Scots-Irish and English descent.\nFisher was two years old when her parents divorced in 1959. Her father's third marriage, to actress Connie Stevens, resulted in the births of Fisher's two half-sisters, Joely Fisher and Tricia Leigh Fisher. In 1960, her mother married Harry Karl, owner of a chain of shoe stores. Reynolds and Karl divorced in 1973, when Fisher was 17 years old.\nFisher \"hid in books\" as a child, becoming known in her family as \"the bookworm\". She spent her earliest years reading classic literature, and writing poetry. She attended Beverly Hills High School until age 15, when she appeared as a debutante and singer in the hit Broadway revival Irene (1973), starring her mother. Her time on Broadway interfered with her education, resulting in Fisher's dropping out of high school. In 1973, Fisher enrolled at London's Central School of Speech and Drama, which she attended for 18 months. Following her time there, Fisher applied to and was accepted at Sarah Lawrence College, where she planned to study the arts. She later left without graduating.  Fisher met musician Paul Simon while filming Star Wars, and the pair dated from 1977 until 1983. In 1980, she was briefly engaged to Canadian actor and comedian Dan Aykroyd, who proposed to her on the set of their film The Blues Brothers. She said: \"We had rings, we got blood tests, the whole shot. But then I got back together with Paul Simon.\" Fisher was married to Simon from August 1983 to July 1984, and they dated again for a time after their divorce. During their marriage, she appeared in Simon's music video for the song \"Rene and Georgette Magritte with Their Dog after the War\". Simon's song \"Hearts and Bones\" is about their romance.\nShe subsequently had a relationship with Creative Artists Agency principal and talent agent Bryan Lourd. They had one child together, Billie Lourd (b. 1992). Eddie Fisher stated in his autobiography (Been There Done That) that his granddaughter's name is Catherine Fisher Lourd and her nickname is \"Billy\". The couple's relationship ended when Lourd left to be in a homosexual relationship with a man. In interviews, Fisher described Lourd as her second husband, but a 2004 profile of the actress and writer revealed that she and Lourd were never legally married.\nIn her 2016 autobiography The Princess Diarist, Fisher wrote that she and Harrison Ford had a three-month affair during the filming of Star Wars in 1976.\nFisher also had a close relationship with singer James Blunt. While working on his album Back to Bedlam in 2003, Blunt spent much of his time at Fisher's residence. When Vanity Fair's George Wayne asked Fisher if their relationship was sexual, she replied: \"Absolutely not, but I did become his therapist. He was a soldier. This boy has seen awful stuff. Every time James hears fireworks or anything like that, his heart beats faster, and he gets 'fight or flight.' You know, he comes from a long line of soldiers dating back to the 10th century. He would tell me these horrible stories. He was a captain, a reconnaissance soldier. I became James' therapist. So it would have been unethical to sleep with my patient.\"\nOn February 26, 2005, R. Gregory \"Greg\" Stevens, a lobbyist, was found dead in Fisher's California home. The final autopsy report listed the cause of death as \"cocaine and oxycodone use\" but added chronic, and apparently previously undiagnosed, heart disease as contributing factors. Media coverage of an initial autopsy report used the word \"overdose,\" but that wording is not in the final report. In an interview, Fisher claimed that Stevens' ghost haunted her mansion, which unsettled her: \"I was a nut for a year\", she explained, \"and in that year I took drugs again.\"\nFisher described herself as an \"enthusiastic agnostic who would be happy to be shown that there is a God\". She was raised Protestant, but often attended Jewish services (her father's faith) with Orthodox friends.\nIn 2016, Harvard College gave Fisher its Annual Outstanding Lifetime Achievement Award in Cultural Humanism, noting that \"her forthright activism and outspokenness about addiction, mental illness, and agnosticism have advanced public discourse on these issues with creativity and empathy.\"\nFisher was a supporter and advocate for several causes, including women's advocacy, animal rights, and LGBT causes. She was open about her experiences caring for friends who suffered from AIDS, contributing financially to various AIDS and HIV organizations, including hosting a benefit for amfAR, The Foundation for AIDS Research. She also served as an honorary board member for the International Bipolar Foundation, and, in 2014, received the Golden Heart Award for her work with The Midnight Mission.\nShe was a spokesperson for Jenny Craig weight loss television ads that aired in January 2011. After finishing the European leg of her book tour, Fisher was on a December 23, 2016 commercial flight from London to Los Angeles when she suffered a medical emergency around fifteen minutes before the aircraft landed. A passenger seated near Fisher reported that she had stopped breathing; another passenger performed CPR on Fisher until paramedics arrived at the scene. Emergency services in Los Angeles were contacted when the flight crew reported a passenger in distress prior to landing. Fisher was taken by ambulance to the Ronald Reagan UCLA Medical Center, where she was placed on a ventilator.\nFollowing four days in intensive care at UCLA Medical Center, Fisher died on December 27, 2016, at 8:55 a.m. (PST); she was 60 years old. Fisher's daughter, Billie Lourd, confirmed her mother's death in a statement to the press. Many of her costars and directors from Star Wars and other works also shared their thoughts on her death.\nOn January 9, 2017, the Los Angeles County Department of Public Health issued a death certificate that stated \"cardiac arrest/deferred\" as the cause of death. More tests were expected. In a June 16, 2017 news release, the Los Angeles County coroner's office said that the exact cause of death could not be determined, but sleep apnea and the buildup of fatty tissue on the walls of arteries were among the contributing factors. A full report from June 19, 2017, stated that Fisher had cocaine in her system, as well as traces of heroin, other opiates and MDMA. The report also stated that the investigation was unable to determine when she had taken the drugs, and whether they contributed to her death. Her daughter Billie Lourd stated that Fisher \"battled drug addiction and mental illness her entire life [and] ultimately died of it. She was purposefully open in all of her work about the social stigmas surrounding these diseases...I know my Mom, she\u2019d want her death to encourage people to be open about their struggles.\"\nThe day after Fisher's death, her mother Debbie Reynolds suffered a stroke at the home of son Todd, where the family was planning Fisher's burial arrangements. She was taken to hospital, where she died later that afternoon. According to Todd Fisher, Reynolds had said, \"I really want to be with Carrie\" immediately prior to suffering the stroke. On January 5, 2017, a joint private memorial was held for Fisher and Reynolds. A portion of Fisher's ashes were laid to rest beside Reynolds in a crypt at Forest Lawn Memorial Park in Hollywood Hills. The remainder of her ashes are held in a giant, novelty Prozac pill.\nIn her 2008 book, Wishful Drinking, Fisher wrote about what she hoped would eventually be her obituary: \"I want it reported that I drowned in moonlight, strangled by my own bra.\" Several obituaries and retrospectives featured the quote. In the absence of a star for Fisher on the Hollywood Walk of Fame, fans created their own memorial using a blank star. Along with flowers and candles, words put on the blank star read, \"Carrie Fisher may the force be with you always\". In the video game Star Wars: The Old Republic, thousands of fans paid tribute to Fisher by gathering at House Organa on the planet Alderaan where Fisher's character in Star Wars resided. Lightsaber vigils and similar events in Fisher's honor were held at various Alamo Drafthouse Cinemas theaters and other sites. On January 6, 2017, the lights on Broadway in Manhattan were darkened for one minute in honor of Fisher and her mother. Fisher and Reynolds were also both featured in the 89th Academy Awards In Memoriam segment. On March 25, 2017, a public memorial for mother and daughter was held at the Hall of Liberty theater in Forest Lawn Memorial Park. The event was streamed live on Reynolds' website. On April 14, a special tribute to Fisher was held by Mark Hamill during the Star Wars Celebration in Orlando.", 
             "name": "David E. Fisher", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Carrie_Fisher", 
                 "found": true
@@ -3689,6 +3714,7 @@
         }, 
         {
             "name": "T. R. Fehrenbach", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Fehrenbach", 
                 "found": true
@@ -3702,6 +3728,7 @@
         }, 
         {
             "name": "Rog Phillips", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Rog_Phillips", 
                 "found": true
@@ -3715,87 +3742,95 @@
             "id": 208
         }, 
         {
+            "name": "Milo Hastings", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 633
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Milo Hastings", 
-            "n_books": 1, 
             "id": 209
         }, 
         {
-            "books": [
-                642
-            ], 
+            "name": "Therese Windser", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Therese Windser", 
             "n_books": 1, 
+            "books": [
+                642
+            ], 
             "id": 210
         }, 
         {
+            "name": "James Stamers", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 3, 
             "books": [
                 644, 
                 845, 
                 847
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "James Stamers", 
-            "n_books": 3, 
             "id": 211
         }, 
         {
+            "name": "a Thread", 
+            "country": 18, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 645
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "a Thread", 
-            "n_books": 1, 
             "id": 212
         }, 
         {
-            "books": [
-                654
-            ], 
+            "name": "Gerry Maddren", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Gerry Maddren", 
             "n_books": 1, 
+            "books": [
+                654
+            ], 
             "id": 213
         }, 
         {
+            "name": "Joseph Wesley", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 655, 
                 880
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Joseph Wesley", 
-            "n_books": 2, 
             "id": 214
         }, 
         {
-            "books": [
-                657
-            ], 
+            "name": "Helen M. Urban", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Helen M. Urban", 
             "n_books": 1, 
+            "books": [
+                657
+            ], 
             "id": 215
         }, 
         {
             "name": "Harold L. Goodwin", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Harold_L._Goodwin", 
                 "found": true
@@ -3810,6 +3845,7 @@
         }, 
         {
             "name": "Richard Wilson", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Richard_Wilson_(director)", 
                 "found": true
@@ -3825,6 +3861,7 @@
         }, 
         {
             "name": "William Campbell Gault", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/William_Campbell_Gault", 
                 "found": true
@@ -3839,6 +3876,7 @@
         {
             "bio": "", 
             "name": "W. T. Haggert", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ezra_Levant", 
                 "found": true
@@ -3853,6 +3891,7 @@
         }, 
         {
             "name": "Daniel F. Galouye", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Daniel_F._Galouye", 
                 "found": true
@@ -3871,6 +3910,7 @@
         {
             "bio": "After leaving Ziff-Davis, the magazines' publisher, he focused on writing his own work, often under different names. He ghost-wrote several juveniles, such as The Runaway Robot (1965), based on outlines by Lester del Rey, whose name appeared on the books. He also wrote the Sherlock Holmes part of Ellery Queen's A Study In Terror (1966), in which Ellery finds a previously unknown Sherlock Holmes manuscript.", 
             "name": "Paul W. Fairman", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Paul_W._Fairman", 
                 "found": true
@@ -3887,6 +3927,7 @@
         {
             "bio": "", 
             "name": "Walter S. Tevis", 
+            "country": 6, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Walter_Tevis", 
                 "found": true
@@ -3901,18 +3942,20 @@
             "died": "1984-08-08 00:00:00"
         }, 
         {
-            "books": [
-                671
-            ], 
+            "name": "Benjamin Ferris", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Benjamin Ferris", 
             "n_books": 1, 
+            "books": [
+                671
+            ], 
             "id": 223
         }, 
         {
             "name": "Everett B. Cole", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Everett_B._Cole", 
                 "found": true
@@ -3932,19 +3975,21 @@
             "died": "2001-08-21 00:00:00"
         }, 
         {
-            "books": [
-                686
-            ], 
+            "name": "Ron Goulart", 
+            "country": 1, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Ron Goulart", 
             "n_books": 1, 
+            "books": [
+                686
+            ], 
             "id": 225
         }, 
         {
             "bio": "Burks was born to a farming family in Waterville, Washington. He married Blanche Fidelia Lane on March 23, 1918 in Sacramento, California and was the father of four children: Phillip Charles, Wasle Carmen, Arline Mary, and Gladys Lura. He served in the United States Marine Corps in World War I, and began writing in 1920. After being stationed in the Caribbean and inspired by the native voodoo rituals, Burks began to write stories of the supernatural that he sold to the magazine Weird Tales. In 1928 he resigned from the Marine Corps and began writing full-time. He became one of the \"million-word-a-year\" men in the pulp magazines by virtue of his tremendous output. He wrote in the neighborhood of 800 stories for the pulps. He was well known for being able to take any household object that someone would suggest to him on a dare, and instantly generate a plot based around it. His byline was commonplace on pulp covers. He wrote primarily in the genres of aviation, detective, adventure, sports (primarily boxing), and weird menace. Two genres he was not to be found in were love and westerns. He wrote several series for the pulps, including the Kid Friel boxing stories in Gangster Stories, and the Dorus Noel undercover-detective stories for All Detective Magazine, set in Manhattan's Chinatown. The pressure of producing so much fiction caused him to ease off in the late-1930s. He returned to active duty as the U.S. entered World War II and eventually retired with the rank of lieutenant colonel. Burks moved to Paradise in Lancaster County, Pennsylvania, in 1948, where he continued to write until his death in 1974. Throughout the '60s, he wrote many works on metaphysics and the paranormal. In his later years, he lectured on paranormal activities and gave readings.", 
             "name": "Arthur J. Burks", 
+            "country": 1, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Arthur_J._Burks", 
                 "found": true
@@ -3961,6 +4006,7 @@
         }, 
         {
             "name": "Christopher Grimm", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Christopher_Grimm", 
                 "found": true
@@ -3976,6 +4022,7 @@
         }, 
         {
             "name": "Winston K. Marks", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Winston_Churchill", 
                 "found": true
@@ -3997,6 +4044,7 @@
         }, 
         {
             "name": "Frank Banta", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Frank_Wead", 
                 "found": true
@@ -4012,41 +4060,45 @@
             "died": "1947-11-15 00:00:00"
         }, 
         {
-            "books": [
-                701
-            ], 
+            "name": "Graph Waldeyer", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Graph Waldeyer", 
             "n_books": 1, 
+            "books": [
+                701
+            ], 
             "id": 230
         }, 
         {
+            "name": "Ed M. Clinton", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 702, 
                 873
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Ed M. Clinton", 
-            "n_books": 2, 
             "id": 231
         }, 
         {
-            "books": [
-                705
-            ], 
+            "name": "Anne Walker", 
+            "country": 1, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Anne Walker", 
             "n_books": 1, 
+            "books": [
+                705
+            ], 
             "id": 232
         }, 
         {
             "name": "Stanton A. Coblentz", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Coblentz", 
                 "found": true
@@ -4059,20 +4111,22 @@
             "id": 233
         }, 
         {
+            "name": "Herbert D. Kastle", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 719, 
                 726
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Herbert D. Kastle", 
-            "n_books": 2, 
             "id": 234
         }, 
         {
             "bio": "Beginning in 1942, Browne worked as managing editor for Ziff Davis publications on Amazing Stories and Fantastic Adventures, both under Raymond A. Palmer's editorship. When Palmer left the magazines in 1949, Browne took over in January 1950. Browne ended the publication of Richard Shaver's Shaver Mystery and oversaw the change in Amazing from a pulp magazine to a digest. He left the magazines in 1956 to move to Hollywood.\nIn Hollywood, Browne wrote for television shows including Maverick, Ben Casey, and The Virginian. His last credit was for the film Capone (1975), starring Ben Gazzara.\nBrowne's novel Thin Air was twice adapted for television. In 1975 it was used as the basis for a first-season episode of The Rockford Files titled \"Sleight of Hand.\" In 1982 it was the basis for a second-season episode of Simon & Simon of the same name as the novel.", 
             "name": "Howard Browne", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Howard_Browne", 
                 "found": true
@@ -4089,6 +4143,7 @@
         {
             "bio": "Clifton worked for many years as a personnel manager and interviewed \"over 200,000\" people according to a personal letter he wrote to Judith Merril, quoted in The Science Fiction of Mark Clifton. This experience formed much of Clifton's attitude about the delusions people have of themselves, but also the greatness of which they are capable.", 
             "name": "Mark Clifton", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Mark_Clifton", 
                 "found": true
@@ -4108,19 +4163,21 @@
             "died": "1963-08-26 00:00:00"
         }, 
         {
+            "name": "Dean Evans", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 732, 
                 915
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Dean Evans", 
-            "n_books": 2, 
             "id": 237
         }, 
         {
             "name": "Alex Apostolides", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Portals_of_Tomorrow", 
                 "found": true
@@ -4134,6 +4191,7 @@
         }, 
         {
             "name": "Henry Hasse", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Hasse", 
                 "found": true
@@ -4146,30 +4204,33 @@
             "id": 239
         }, 
         {
-            "books": [
-                741
-            ], 
+            "name": "Charles A. Stearns", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Charles A. Stearns", 
             "n_books": 1, 
+            "books": [
+                741
+            ], 
             "id": 240
         }, 
         {
+            "name": "Roger Kuykendall", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 743, 
                 812
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Roger Kuykendall", 
-            "n_books": 2, 
             "id": 241
         }, 
         {
             "name": "G. C. Edmondson", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/G._C._Edmondson", 
                 "found": true
@@ -4183,6 +4244,7 @@
         }, 
         {
             "name": "Michael Shaara", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Michael_Shaara", 
                 "found": true
@@ -4197,31 +4259,34 @@
             "id": 243
         }, 
         {
+            "name": "Nathan Schachner", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 2, 
             "books": [
                 759, 
                 786
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Nathan Schachner", 
-            "n_books": 2, 
             "id": 244
         }, 
         {
-            "books": [
-                762
-            ], 
+            "name": "Neil Goble", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Neil Goble", 
             "n_books": 1, 
+            "books": [
+                762
+            ], 
             "id": 245
         }, 
         {
             "bio": "He was the son of a vicar who became a school master in his mid-twenties. After writing freelance articles in his spare time, he joined a newspaper for a short spell, then authored a series of secular pamphlets including Ananias, The Atheist's God: For the Attention of Charles Bradlaugh. After the success of Admiral Philip H. Colomb's The Great War of 1892 (itself a version of the more famous The Battle of Dorking), Griffith, then on the staff of Pearson's Magazine as a clerk addressing envelopes and mailing labels, submitted a synopsis for a story entitled The Angel of the Revolution. It remains his best and most famous work. It was among the first of the so-called marvel tales, epitomised by Jules Verne. Marvel tales featured such things as heavier than air flying machines, compressed air guns, submarines, profoundly convenient political developments, wooden heroes with no readily apparent sexual tastes, and spectacular aerial combat along with other forms of combat, such as battle under the sea. Later novels, such as 'The Gold Finder' developed the heroes' romantic interests. His short stories were very similar to the future war tales of George Chesney and his imitators along with the political utopianism of William Morris's News from Nowhere. He wrote a sequel, serialised as The Syren of the Skies in Pearson's Magazine. It was later published as a novel titled with the name of its main character, Olga Romanoff.\nAlthough overshadowed by H. G. Wells in the United States, Griffith's epic fantasies of romantic utopians in a future world of war, dominated by airship battle fleets, and grandiose engineering provided a template for steampunk novels a century before the term was coined. Michael Moorcock claims that the works of George Griffith had a dramatic impact on his own writing. The concept of revolutionaries imposing \"a pax aeronautica over the earth\", at the center of Angel of the Revolution, was taken up by Wells many years later, in The Shape of Things to Come. Wells himself once wrote that Griffith's Outlaws of the Air was an \"aeronautical classic.\"\nThough a less accomplished writer than Upton Sinclair, George Bernard Shaw, and H.G. Wells, his novels were extremely popular in their day, seeing many printings. Griffith's stories foreshadowed World War I and foretold a utopian communist revolution in the United States. It also predicted that Great Britain would ally itself with Germany against a Franco-Russian-Italian alliance, almost the exact opposite of what actually happened when World War I started. Griffith also employed the concepts of the air to surface missile and VTOL aircraft. He wrote several tales of adventure set on contemporary earth, while The Outlaws of the Air depicted a future of aerial warfare and the creation of a Pacific island utopia. Sam Moskowitz described him as \"undeniably the most popular science fiction writer in England between 1893 and 1895.\" Some of his books (especially 'The Gold Finder') also reflected a belief in the undesirability of racial mixing, due to a supposed deficiency in the black race. These beliefs were similar to those of some other socialists of the time, such as Jack London.\nHis science fiction depicted grand and unlikely voyages through our solar system in the spirit of Wells or Jules Verne, though his explorers donned space suits remarkably prescient in their design. Honeymoon in Space saw his newly married adventurers, exemplars of the \"Race that Rules\", exploring planets in different stages of geological and Darwinian evolution on an educational odyssey drawing heavily on earlier cosmic voyages by Camille Flammarion, W. S. Lach-Szyrma, and Edgar Fawcett. Its illustrations by Stanley L. Wood have proved more significant, providing the first depictions of slender, super intelligent aliens with large, bald heads \u2013 the archetype of the famous Greys of modern science fiction. His short story The Great Crellin Comet, published in 1897, was the first story to not only include a ten-second countdown for a space launch (though a countdown of sorts is included in Jules Verne's 1887 novel, The Purchase of the North Pole), but also the first story to suggest that a cometary collision with the earth could be stopped by human intervention.\nAs an explorer of the real world he shattered the existing record for voyaging around the world at the behest of Sir Arthur Pearson, completing his journey in just 65 days. He also helped discover the source of the Amazon river. This was documented in Pearson's Magazine before being published as a book, Around the World in 65 Days, in 2009. He died of cirrhosis of the liver, at the age of 48, in 1906.", 
             "name": "George Chetwynd Griffith", 
+            "country": 1, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/George_Griffith", 
                 "found": true
@@ -4238,6 +4303,7 @@
         {
             "bio": "He was born in Colrain, Franklin County, Massachusetts, April 18, 1807. He graduated from Union College in 1827. Ordained as a Congregationalist minister at Auburn Theological Seminary, September 20, 1831.", 
             "name": "Betsy Curtis", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Lorenzo_Lyons", 
                 "found": true
@@ -4253,6 +4319,7 @@
         }, 
         {
             "name": "Tom Purdom", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Tom_Purdom", 
                 "found": true
@@ -4267,6 +4334,7 @@
         }, 
         {
             "name": "Frank Quattrocchi", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/The_Projected_Man", 
                 "found": true
@@ -4280,18 +4348,20 @@
             "id": 249
         }, 
         {
-            "books": [
-                784
-            ], 
+            "name": "Arnold Castle", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Arnold Castle", 
             "n_books": 1, 
+            "books": [
+                784
+            ], 
             "id": 250
         }, 
         {
             "name": "Stanley R. Lee", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Stanley_R._Lee", 
                 "found": true
@@ -4304,19 +4374,21 @@
             "id": 251
         }, 
         {
-            "books": [
-                795
-            ], 
+            "name": "Arthur W. Orton", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Arthur W. Orton", 
             "n_books": 1, 
+            "books": [
+                795
+            ], 
             "id": 252
         }, 
         {
             "bio": "Cummings was born and raised in Winnipeg, Manitoba, as were all of the other original members of The Guess Who. Burton was brought up by his mother Rhoda and her parents; he never knew his father, who left when he was less than a year old. Burton attended St. John's High School. He dropped out of school, due to poor grades, when he was sixteen. Forty-five years later, in 2010, his former high school awarded him an honorary diploma. His first band was a local Winnipeg R&B group, The Deverons, with an 'E' (not to be confused with the band The Devrons who had Country/R&B hits in the early 1960s). The Deverons with Cummings released two singles on the tiny REO Records label. The first single, \"Blue Is The Night / She's Your Lover\", was cut at a Winnipeg radio station. The second single, \"Lost Love / Feel Alright\", was recorded at Kay Bank Studios in Minneapolis, where The Guess Who frequently recorded. In January 1966 he was asked by The Guess Who to join the band, originally as a replacement for recently departed keyboardist Bob Ashley. By May 1966 Cummings had assumed the role of lead singer, a position vacated by original front man Chad Allan who left the group that April.", 
             "name": "M. A. Cummings", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Burton_Cummings", 
                 "found": true
@@ -4331,6 +4403,7 @@
         }, 
         {
             "name": "Sylvia Jacobs", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Sylvia_Brooks", 
                 "found": true
@@ -4346,6 +4419,7 @@
         {
             "bio": "Hamm holds a B.A. in American studies from Rutgers University (1988) and a Ph.D. in American history from the University of California-Davis (1996). His articles about New York City politics and culture have appeared recently in The Village Voice, The Daily Beast, Jacobin (magazine) and City Limits. In 1997, he received the Outstanding Volunteer Service award from San Quentin State Prison for teaching in the prison's college program. He resides in Sunset Park, Brooklyn.", 
             "name": "T. D. Hamm", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Theodore_Hamm", 
                 "found": true
@@ -4361,6 +4435,7 @@
         {
             "bio": "Clayton Hartley Matthews was born on 24 October 1918. He started writing short stories in the late 1950s. He began contributing to the Mike Shayne Mystery Magazine and then turned to writing paperback novels, mostly in the erotic genre, in the early 1960s.\nIn a California's local writers' group, he met the also writer Patty Brisco. After his divorce, they married on 3 November 1972, and lived near San Diego. In the late 1970s, his agent Jay Garon, suggested to him and his wife to write romance novels. In the 1980s and 1990s Matthews and his wife collaborated on romance and mystery novels. Matthews died on 25 March 2004.", 
             "name": "James McKimmey", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Clayton_Matthews", 
                 "found": true
@@ -4375,18 +4450,20 @@
             "died": "2004-03-25 00:00:00"
         }, 
         {
-            "books": [
-                805
-            ], 
+            "name": "Joy Leache", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Joy Leache", 
             "n_books": 1, 
+            "books": [
+                805
+            ], 
             "id": 257
         }, 
         {
             "name": "Leonard Rubin", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Daphne_Rubin-Vega", 
                 "found": true
@@ -4402,6 +4479,7 @@
         {
             "bio": "Peyton continues to live in Nashville and is currently in ill health. She has twin girls. The oldest twin, Lila Angelique, is married to S.K. Thoth, a famed street performer from NYC. They currently travel the world performing as Tribal Baroque. Her other child in an aspiring actress living in the Bay Area. Former husband and member of Starz (band), Brendan Harkin, runs and owns a recording studio in Nashville.\nPeyton's godfather is novelist William Styron, with whom her father grew up in Virginia.", 
             "name": "Green Peyton", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Caroline_Peyton", 
                 "found": true
@@ -4415,6 +4493,7 @@
         }, 
         {
             "name": "Patrick Fahy", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/List_of_Galway_people", 
                 "found": true
@@ -4428,18 +4507,20 @@
             "id": 260
         }, 
         {
-            "books": [
-                818
-            ], 
+            "name": "Victor A. Endersby", 
+            "country": 20, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Victor A. Endersby", 
             "n_books": 1, 
+            "books": [
+                818
+            ], 
             "id": 261
         }, 
         {
             "name": "Arthur Porges", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Great_Science-Fiction", 
                 "found": true
@@ -4454,6 +4535,7 @@
         {
             "bio": "Vince Gill was born in Norman, Oklahoma. His mother had a son, Bob Coen, from a previous marriage. He was Gill's half-brother, but was considered a full brother by Gill. His father, J. Stanley Gill, was a lawyer and administrative law judge who played in a country music band part-time and encouraged Gill to pursue a music career. His father encouraged him to learn to play banjo and guitar, which he did along with bass, mandolin, dobro and fiddle.\nGill attended high school at Oklahoma City's Northwest Classen High School. While there he performed bluegrass in the band Mountain Smoke, which built a strong local following. After graduating from high school in 1975, he moved to Louisville, Kentucky, to join the band Bluegrass Alliance. Afterwards he spent a brief amount of time in Ricky Skaggs's Boone Creek band before moving to Los Angeles to join Sundance, a bluegrass group fronted by fiddler Byron Berline. Gill debuted on the national scene with the country rock band Pure Prairie League in 1979, appearing on that band's album Can't Hold Back. He is the lead singer on their song \"Let Me Love You Tonight\". Mark Knopfler once invited him to join Dire Straits, but he declined the offer (although he sang backup on the Dire Straits' album On Every Street). He provided background vocals for the song \"Tennessee Line\", from Daughtry's second studio album, Leave This Town.\n\nGill left Pure Prairie League in 1981 to join Cherry Bombs, the stage band which backed Rodney Crowell. There he worked with Tony Brown and Emory Gordy Jr., both of whom would later produce many of his albums.\nGill has been a member of the Grand Ole Opry since August 10, 1991. He celebrated his 25th Opry anniversary with a tribute show on August 13, 2016.\nIn 2010, Gill officially joined the country swing group The Time Jumpers.\nIn July 2011, Gill appeared as a guest on NPR's news quiz show Wait, Wait...Don't Tell Me. Also in 2011, he appeared on the second of two bluegrass tribute albums for the British rock band The Moody Blues: Moody Bluegrass TWO... Much Love (2011). In May 2011, Carrie Underwood was one of the seven women to be honored by the Academy of Country Music at the Girls' Night Out: Superstar Women of Country special. At the ceremony, Gill introduced Underwood and presented her with the special award. He sang one of her hits, \"Jesus, Take The Wheel\", and joined Underwood on a rendition performance of \"How Great Thou Art\". The video of the performance went viral within two days.\n\nIn February 2012, Gill announced, \"For the first time in 30 years, I don't have a record deal. Don't know that I want one.\" In March 2012, he performed at the Southern Kentucky Performing Arts Center in Bowling Green, Kentucky, for its opening night. In April 2012, it was confirmed that Gill had been working with Bonnie Tyler on her upcoming album, performing a duet with her entitled \"What You Need from Me\". In June 2012, he was touring and performing only bluegrass songs.\nGill received the 2,478th star of the Hollywood Walk of Fame on September 6, 2012.\nOn October 15, 2012, it was announced that Gill would be featured in a song by Kelly Clarkson titled \"Don't Rush\", which appears on Clarkson's first Greatest Hits album. The album was certified Gold by the RIAA and has sold 509,093 copies as of October 13, 2013.\nOn November 5, 2014, at the 48th annual CMA Awards Gill received the Irving Waugh award for excellence in country music. This was only the fourth time the award had been granted since its inception in 1983. The previous country music artist to receive the award was Johnny Cash.\nIn 2016, Gill was selected as one of 30 artists to perform on Forever Country, which celebrates 50 years of the CMA Awards.\nIn his career Gill has sold more than 26 million albums and accumulated more than 50 Top 40 hits. In 1968, Gill's older brother, Bob Coen, was involved in a severe car crash. Bob was 22 years old at the time, while Gill was 11. The accident placed him in a coma for three months and left him with non-reversible brain damage. Coen subsequently struggled in life and would lose contact with his family and friends. He died in 1993. Gill wrote the song \"It Won't Be the Same This Year\" for his brother. He dedicated his 1993 Christmas album Let There Be Peace on Earth and his first televised Christmas special that year to his brother Bob.\nGill met country music singer Janis Oliver of Sweethearts of the Rodeo in Los Angeles when they were both starting out in music. The two married in 1980. Their daughter Jenny was born in 1982. In 1983 the couple moved to Nashville. Gill worked as a session guitarist, sang back-up, and continued to write songs while his wife's career reached notoriety. Occasionally Gill would mix sound for his wife's band. The two divorced in 1997.\n\nGill met Christian music artist Amy Grant in 1993 when he asked her to perform in his first televised Christmas special. They formed a lasting friendship. Both parties were in troubled marriages. Grant and then husband Gary Chapman began divorce mediation in 1998, with Grant moving out of the home and filing for divorce in early 1999. The divorce was finalized in June 1999. Gill and Grant began to see each other publicly a few months later. In March 2000 they were married. Together they have one daughter, Corrina. Gill's concert at the Kauffman Center in Kansas City, Missouri, was picketed September 8, 2013 by the Westboro Baptist Church of Topeka, Kansas, over his divorce and subsequent remarriage to Grant.\nGill has a keen interest in golf and has been playing since early childhood. A scratch golfer, he has organized and participated in many charity events centered around golf. In 1993 Gill founded the Vinny Pro-Celebrity Golf Invitational, which serves as the primary beneficiary for the Tennessee Golf Foundation. In 2003 the PGA awarded him the PGA Distinguished Service Award for his work in charity and in promoting junior golf.\nGill is a member of the board of directors of the Predator Foundation charity organization.", 
             "name": "Stanley Gimble", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Vince_Gill", 
                 "found": true
@@ -4468,6 +4550,7 @@
         }, 
         {
             "name": "Allan Howard", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Harry_Allan", 
                 "found": true
@@ -4482,6 +4565,7 @@
         {
             "bio": "Matthews born to a wealthy family in New Orleans, grew up in New York City, and graduated from Columbia College in 1871, where he was a member of the Philolexian Society and the fraternity of Delta Psi, and from Columbia Law School in 1873. He had no real interest in the law, never needed to work for a living (given his family fortune), and turned to a literary career, publishing in the 1880s and 1890s short stories, novels, plays, books about drama, biographies of actors, and three books of sketches of city life. One of these, Vignettes of Manhattan (1894), was dedicated to his friend Theodore Roosevelt. From 1892 to 1900, he was a professor of literature at Columbia and thereafter held the Chair of Dramatic Literature until his retirement in 1924. He was known as an engaging lecturer and a charismatic if demanding teacher. His influence was such that a popular pun claimed that an entire generation had been \"brandered by the same Matthews.\"\nDuring his long tenure at Columbia, Matthews created and curated a \"dramatic museum\" of costumes, scripts, props, and other stage memorabilia. Originally housed in a four-room complex in Philosophy Hall, the collection was broken up and sold after his death. However, its books were incorporated into the university library and its dioramas of the Globe Theatre and other historic dramatic venues have been dispersed for public display around campus, mainly in Dodge Hall. Matthews was the inspiration for the now-destroyed Brander Matthews Theater on 117th Street, between Amsterdam Avenue and Morningside Drive. An English professorship in his name still exists at Columbia.", 
             "name": "Brander Matthews", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Brander_Matthews", 
                 "found": true
@@ -4498,6 +4582,7 @@
         {
             "bio": "La Spina was born Fanny Greye Bragg on July 10, 1880 in Wakefield, Massachusetts. Her father was a Methodist clergyman. She was married to Ralph Geissler in 1898 and gave birth to a daughter, Celia, two years later. The following year, her husband died. In 1910 she married Baron Robert La Spina, an Italian aristocrat.\nHer first supernatural story, \"The Wolf on the Steppes\" was sold to Thrill Book in 1919. She won second place in Photoplay magazine's 1921 short story contest gaining her a $2,500 prize. Her first book, Invaders from the Dark, was published by Arkham House in 1960.", 
             "name": "Greye La Spina", 
+            "country": 1, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Greye_La_Spina", 
                 "found": true
@@ -4513,6 +4598,7 @@
         }, 
         {
             "name": "Albert Teichner", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Orbit_(anthology_series)", 
                 "found": true
@@ -4526,6 +4612,7 @@
         }, 
         {
             "name": "Donald Colvin", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/American_Jerusalem", 
                 "found": true
@@ -4541,6 +4628,7 @@
         {
             "bio": "Williams lived in Houston until 1980 when his family moved east and settled in Lufkin, Texas. Following high school, Williams spent four years in neighboring Nacogdoches, Texas playing in several bands. One of the most popular bands, Fives a Crowd, was a rock cover band that gained a substantial following before splitting up in late 1992. At this time Williams made his first trip to Nashville, Tennessee and recorded his first studio recording session at Oak Hill Studios with Kevin McManus. A brief return to Nacogdoches saw Fives a Crowd reconstructed into a country band and Williams played with them before the band relocated to the Dallas/Fort Worth area. Williams was previously married and has two daughters. He married Melinda Duncan in May 2007 at the Key West Songwriters Festival. He has two step-children.", 
             "name": "Harl Vincent", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/D._Vincent_Williams", 
                 "found": true
@@ -4555,19 +4643,21 @@
             "id": 269
         }, 
         {
-            "books": [
-                884
-            ], 
+            "name": "Robert W. Haseltine", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Robert W. Haseltine", 
             "n_books": 1, 
+            "books": [
+                884
+            ], 
             "id": 270
         }, 
         {
             "bio": "David Mason was born and raised in Bellingham, Washington. He studied briefly at the Colorado College, but left after one year to work as a fisherman in Alaska. He returned to the college to earn his B.A. in 1978. Mason and then-wife, Jonna Heinrich, moved to Rochester, New York, where he worked as a gardener. In 1980 they went to Greece, where they lived for just over a year in Kardamyli, Greece, in the Mani district of southernmost part of the Peloponnesus. While living there he became a friend of the British travel author and war hero, Patrick Leigh Fermor. Mason returned to the United States when he was hired to write the screenplay for a film based on a novel he had written. In the end the film was canceled when the production company closed its film division.\nAfter a part-time teaching stint at Colorado College, he began studying at the University of Rochester under Anthony Hecht. His first marriage ended, and in 1988 he married Scottish photojournalist Anne Lennox. He received his doctorate from The University of Rochester and moved to Moorhead, Minnesota, where he taught at Minnesota State University Moorhead for ten years. In 1994, Mason was named the Minnesota Outstanding Professor of the Year. Mason spent the academic year of 1996\u201397 in Greece on a Fulbright fellowship, where he continued to perfect his Greek, meet Greek intellectuals and writers, translate and write, and visit old places from 16 years earlier. In 1998, Mason returned to his alma mater, Colorado College, where he now co-directs the Creative Writing program. In 2010 Mason was named Colorado Poet Laureate, for a four-year term ending in the summer of 2014. He and wife Anne Lennox lived in Colorado Springs, Colorado until the marriage ended in 2012. Currently he lives in Manitou Springs, Colorado with his wife, Australian poet Cally Conan-Davies. The post of Colorado Poet Laureate comes with a small stipend and an expectation of ten public appearances in the state each of the four years in the term, but Mason chose to greatly expand on those expectations, attempting to visit all 64 counties of the state during his term in order to share poetry in public appearances.", 
             "name": "David Mason", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/David_Mason_(writer)", 
                 "found": true
@@ -4582,41 +4672,45 @@
             "id": 271
         }, 
         {
+            "name": "Everett C. Smith", 
+            "country": 1, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 891
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Everett C. Smith", 
-            "n_books": 1, 
             "id": 272
         }, 
         {
+            "name": "Russell Burton", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 895
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Russell Burton", 
-            "n_books": 1, 
             "id": 273
         }, 
         {
-            "books": [
-                901
-            ], 
+            "name": "John Victor Peterson", 
+            "country": 6, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "John Victor Peterson", 
             "n_books": 1, 
+            "books": [
+                901
+            ], 
             "id": 274
         }, 
         {
             "bio": "An autobiographical sketch by Hansen begins with her memory of staying with her parents in an abandoned fort after the \"Indian Wars.\" In 1919, she writes, she was initiated into an Ojibwe tribe after she suggested to the tribe that they not kill the agency doctor but instead protest his appointment to Washington administrators. She then enters into a lifelong project to study of Native American legends.\nShe attended classes at the University of California, Los Angeles during the 1920s but did not receive a degree.", 
             "name": "L. Taylor Hansen", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/L._Taylor_Hansen", 
                 "found": true
@@ -4631,40 +4725,44 @@
             "died": "1976-08-26 00:00:00"
         }, 
         {
+            "name": "F. E. Hardart", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 906
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "F. E. Hardart", 
-            "n_books": 1, 
             "id": 276
         }, 
         {
+            "name": "Stephen A. Kallis", 
+            "country": 1, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 907
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Stephen A. Kallis", 
-            "n_books": 1, 
             "id": 277
         }, 
         {
-            "books": [
-                909
-            ], 
+            "name": "Andrew Fetler", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Andrew Fetler", 
             "n_books": 1, 
+            "books": [
+                909
+            ], 
             "id": 278
         }, 
         {
             "name": "William F. Nolan", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Nolan", 
                 "found": true
@@ -4679,6 +4777,7 @@
         {
             "bio": "Softley was educated at St Benedict's School, Ealing, London, and Queens' College, Cambridge University, where he directed a number of highly-praised theatrical productions. He worked for Granada TV and the BBC in the 1980s before moving on to music videos and film.\nSoftley's first film, the Stuart Sutcliffe biopic, Backbeat, which he wrote and directed, was released in 1994. It opened the Sundance Film Festival and went on to receive a BAFTA Award nomination for Best British Film. For his work on the film, Softley received Best Newcomer Awards from The London Film Critics Circle and Empire Magazine. \nFollowing Backbeat, Softley directed the cyber thriller Hackers, starring Angelina Jolie and Jonny Lee-Miller. This was followed in 1997 by an adaptation of Henry James' novel, The Wings of the Dove, starring Helena Bonham-Carter. The film premiered at the Toronto and Venice Film Festivals, earned four Academy Award nominations, and won a number of awards including two BAFTAs and multiple acting honors for Bonham Carter. \nSoftley's next two films (released by Universal Pictures) topped the US box office: the sci-fi mystery film K-PAX, starring Kevin Spacey, and Jeff Bridges, and the suspense thriller, The Skeleton Key with Kate Hudson, Gena Rowlands and John Hurt.\nOther film credits include: Inkheart, from Cornelia Funke's best-selling book, with Helen Mirren, Paul Bettany and Jim Broadbent; Trap for Cinderella, starring Tuppence Middleton and Alexandra Roach, which Softley adapted and directed from Sebastien Japrisot's French crime novel; and Curve starring Julianne Hough, produced by Blumhouse Productions and released by Universal Pictures in 2016. \nIn 2016, it was announced that Softley will direct Icarus, based on the life of British/American astronaut, Michael Foale, which Softley has developed with writers Hilary Thompson and Laurence Coriat. He will co-produce the project through his company, Forthcoming Films.\nIn 2010, Softley directed a stage adaptation of Backbeat, which was co-written with Stephen Jeffreys. It premiered at the Citizens Theatre in Glasgow, before transferring to the Duke of York's Theatre, in London and then subsequently Toronto, Los Angeles and Berlin.\nAside from his work in film, Softley has also worked in television. In 2012, he directed the short film, The Man, as part of Sky Arts' Playhouse Presents strand. The film was a satirical take on the clandestine Bilderberg Group and starred Stellan Skarsgard, Zoe Wannamaker, Hayley Atwell and Stephen Fry.  In 2015, the BBC broadcast a two-part adaptation of author Sadie Jones\u2019 novel The Outcast which Softley he also directed. The film was warmly received by The Guardian, with Julia Raeside writing: \"The tone set by Iain Softley\u2019s beautifully restrained direction and the careful use of music creates a real feeling of loss from the start, just as in the book, but he somehow avoids all hammy visual foreshadowing and narrative signposting, so often used to gee a plot along\". Softley and Curtis live in London. Together, they have three children.", 
             "name": "Jim Wannamaker", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Iain_Softley", 
                 "found": true
@@ -4693,6 +4792,7 @@
         }, 
         {
             "name": "Donald Keith", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Keith_Monroe", 
                 "found": true
@@ -4707,18 +4807,20 @@
             "died": "2003-08-30 00:00:00"
         }, 
         {
-            "books": [
-                932
-            ], 
+            "name": "Robert J. Martin", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Robert J. Martin", 
             "n_books": 1, 
+            "books": [
+                932
+            ], 
             "id": 282
         }, 
         {
             "name": "Wallace Macfarlane", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/MacFarlane_(surname)", 
                 "found": true
@@ -4731,29 +4833,32 @@
             "id": 283
         }, 
         {
+            "name": "Marshall King", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 935
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Marshall King", 
-            "n_books": 1, 
             "id": 284
         }, 
         {
-            "books": [
-                936
-            ], 
+            "name": "David C. Knight", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "David C. Knight", 
             "n_books": 1, 
+            "books": [
+                936
+            ], 
             "id": 285
         }, 
         {
             "name": "George Henry Weiss", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/George_Henry_Weiss", 
                 "found": true
@@ -4769,6 +4874,7 @@
         }, 
         {
             "name": "Sydney Van Scyoc", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Sydney_J._Van_Scyoc", 
                 "found": true
@@ -4781,84 +4887,92 @@
             "id": 287
         }, 
         {
+            "name": "Nelson Slade Bond", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 944
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Nelson Slade Bond", 
-            "n_books": 1, 
             "id": 288
         }, 
         {
+            "name": "Dave Dryfoos", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 945
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Dave Dryfoos", 
-            "n_books": 1, 
             "id": 289
         }, 
         {
+            "name": "Nathaniel Gordon", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 951
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Nathaniel Gordon", 
-            "n_books": 1, 
             "id": 290
         }, 
         {
+            "name": "G. L. Vandenburg", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 954
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "G. L. Vandenburg", 
-            "n_books": 1, 
             "id": 291
         }, 
         {
+            "name": "Joseph Paul Martino", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 955
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Joseph Paul Martino", 
-            "n_books": 1, 
             "id": 292
         }, 
         {
+            "name": "Lucius Daniel", 
+            "country": 3, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 1, 
             "books": [
                 957
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "Lucius Daniel", 
-            "n_books": 1, 
             "id": 293
         }, 
         {
-            "books": [
-                958
-            ], 
+            "name": "Ellsworth Douglass", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Ellsworth Douglass", 
             "n_books": 1, 
+            "books": [
+                958
+            ], 
             "id": 294
         }, 
         {
             "name": "Lee Tarbell", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/List_of_photographs_of_Abraham_Lincoln", 
                 "found": true
@@ -4873,6 +4987,7 @@
         {
             "bio": "Ken Keeler studied applied mathematics at Harvard University, graduating summa cum laude in 1983. He then gained a master's degree from Stanford in electrical engineering before returning to Harvard.  He earned a PhD in applied mathematics from Harvard in 1990. His doctoral thesis was \"Map Representations and Optimal Encoding for Image Segmentation\". After earning his doctorate, Keeler joined the Performance Analysis Department at AT&T Bell Laboratories. He soon left Bell Labs to write for David Letterman and subsequently for various sitcoms, including several episodes of Wings, The Simpsons, Futurama, and The Critic, as well as the short-lived Fox claymation show The PJs. For The Simpsons, Keeler has written such episodes as \"A Star Is Burns\" (which Matt Groening refused to be credited for, as he was opposed to the idea of The Simpsons crossing over with The Critic) and \"The Principal and the Pauper\" (which many fans \u2013 including series creator Matt Groening and voice actor Harry Shearer \u2013 disliked due to the massive changes in Principal Skinner's backstory).\nKeeler was instrumental in the creation of Futurama, and served as a co-executive producer in its first three years, and as an executive producer in its fourth year. He was one of the show's most prolific writers, with nine episodes to his name (including the original series finale, \"The Devil's Hands Are Idle Playthings\", the Writers Guild Award-winning episodes \"Godfellas\" and \"The Prisoner of Benda,\" and the series finale \"Meanwhile\"). Keeler wrote many of the original songs on both The Simpsons and Futurama during his time with the shows. He also wrote the direct-to-DVD Futurama movies Bender's Big Score and Into the Wild Green Yonder.\nKeeler is also a fan of (but of no relation to) Harry Stephen Keeler and won the 2001 Fifth and 2008 TwelfthAnnual Imitate Keeler Competitions. His Futurama episode \"Time Keeps on Slippin'\" was partly inspired by the Harry Stephen Keeler story \"Strange Romance\" from the novel Y. Cheung, Business Detective.", 
             "name": "Harry Stephen Keeler", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ken_Keeler", 
                 "found": true
@@ -4887,6 +5002,7 @@
         }, 
         {
             "name": "Teddy Keller", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Upfront_%26_Down_Low", 
                 "found": true
@@ -4901,6 +5017,7 @@
         {
             "bio": "Ann was born in April 1776 near the village of Llanfihangel-yng-Ngwynfa, six miles (10 km) from the market town of Llanfyllin (in the former county of Montgomeryshire) in Powys. She was the daughter of John Evan Thomas, a tenant farmer and churchwarden, and his wife, Jane. She had two older sisters, an older brother, John, and a younger brother, Edward. Her parents' house, Dolwar Fechan, was an isolated farm-house some two and a half miles (4 km) south of Llanfihangel and one mile (1.6 km) north of Dolanog, set among hills and streams.\nNot far away lay Pennant Melangell, where Saint Melangell had lived as a hermit in the 6th century.\nAnn was brought up in the Anglican Church; but in 1794, when she was 18, her mother died, and about this time or perhaps earlier she followed her brothers John and Edward in becoming drawn to the Methodist movement. In 1796 she joined the Calvinistic Methodist movement after hearing the preaching of Rev. Benjamin Jones of Pwllheli.\nAfter the deaths of both her parents she married Thomas Griffiths, a farmer from the parish of Meifod and an elder of the Calvinistic Methodist church.\nShe died following childbirth aged 29, and was buried on 12 August 1805 at Llanfihangel-yng-Ngwynfa.\nShe left behind a handful of stanzas in the Welsh language. These were preserved and published by her mentor, the Calvinistic Methodist minister, John Hughes of Pontrobert, and his wife, Ruth, who had been a maid at Ann Griffiths' farm and was a close confidante.\nTogether with Mary Jones (1784\u20131864), a poor Welsh girl who walked to Bala to buy a Bible, Ann Griffiths became a national icon by the end of the 19th century, and was a significant figure in Welsh nonconformism.", 
             "name": "Ann Griffith", 
+            "country": 3, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ann_Griffiths", 
                 "found": true
@@ -4913,14 +5030,15 @@
             "id": 298
         }, 
         {
-            "books": [
-                970
-            ], 
+            "name": "Louis Newman", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Louis Newman", 
             "n_books": 1, 
+            "books": [
+                970
+            ], 
             "id": 299
         }
     ]

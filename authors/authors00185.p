@@ -14,30 +14,33 @@ S'name'
 p6
 VGerald Vance
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I3
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Bob_Morane
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Bob_Morane
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I3
 sS'summary'
-p14
-VBob Morane is a series of adventure books in French, featuring an eponymous protagonist, created by French-speaking Belgian novelist Henri Vernes, the pseudonym of Charles-Henri Dewisme. More than 200 novels have been written since his introduction in 1953, the iconic covers illustrated by artists such as Pierre Joubert, Henri Lievens, William Vance, Claude Pascal and René Follet.\u000aThe popularity of Bob Morane led to his subsequent appearance in a 1960 film (now lost), a television series in 1965, a computer game in 1988, a 1998 animated series, and a long-running series of graphic novels (roughly 80 books since 1959) which has featured the artwork of artists such as Dino Attanasio, Gérald Forton, William Vance and Felicísimo Coria.\u000a\u000a
 p15
-sS'books'
+VBob Morane is a series of adventure books in French, featuring an eponymous protagonist, created by French-speaking Belgian novelist Henri Vernes, the pseudonym of Charles-Henri Dewisme. More than 200 novels have been written since his introduction in 1953, the iconic covers illustrated by artists such as Pierre Joubert, Henri Lievens, William Vance, Claude Pascal and René Follet.\u000aThe popularity of Bob Morane led to his subsequent appearance in a 1960 film (now lost), a television series in 1965, a computer game in 1988, a 1998 animated series, and a long-running series of graphic novels (roughly 80 books since 1959) which has featured the artwork of artists such as Dino Attanasio, Gérald Forton, William Vance and Felicísimo Coria.\u000a\u000a
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I554
 aI622
 aI678
 asS'id'
-p18
+p19
 I185
 sb.

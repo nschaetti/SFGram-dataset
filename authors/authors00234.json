@@ -1,12 +1,13 @@
 {
+    "name": "Herbert D. Kastle", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         719, 
         726
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Herbert D. Kastle", 
-    "n_books": 2, 
     "id": 234
 }

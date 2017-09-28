@@ -1,11 +1,12 @@
 {
-    "books": [
-        907
-    ], 
+    "name": "Stephen A. Kallis", 
+    "country": 1, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Stephen A. Kallis", 
     "n_books": 1, 
+    "books": [
+        907
+    ], 
     "id": 277
 }

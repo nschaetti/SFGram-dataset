@@ -1,12 +1,13 @@
 {
+    "name": "Lyn Venable", 
+    "country": 17, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         609, 
         844
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Lyn Venable", 
-    "n_books": 2, 
     "id": 203
 }

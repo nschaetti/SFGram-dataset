@@ -1,11 +1,12 @@
 {
-    "books": [
-        891
-    ], 
+    "name": "Everett C. Smith", 
+    "country": 1, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Everett C. Smith", 
     "n_books": 1, 
+    "books": [
+        891
+    ], 
     "id": 272
 }

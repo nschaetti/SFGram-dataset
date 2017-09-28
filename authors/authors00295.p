@@ -14,28 +14,31 @@ S'name'
 p6
 VLee Tarbell
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I3
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/List_of_photographs_of_Abraham_Lincoln
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/List_of_photographs_of_Abraham_Lincoln
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-V"Lincoln's features were the despair of every artist who undertook his portrait. The writer saw nearly a dozen, one after another, soon after the first nomination to the presidency, attempt the task. They put into their pictures the large, rugged features, and strong, prominent lines; they made measurements to obtain exact proportions; they "petrified" some single look, but the picture remained hard and cold. Even before these paintings were finished it was plain to see that they were unsatisfactory to the artists themselves, and much more so to the intimate friends of the man this was not he who smiled, spoke, laughed, charmed. The picture was to the man as the grain of sand to the mountain, as the dead to the living. Graphic art was powerless before a face that moved through a thousand delicate gradations of line and contour, light and shade, sparkle of the eye and curve of the lip, in the long gamut of expression from grave to gay, and back again from the rollicking jollity of laughter to that serious, far away look that with prophetic intuitions beheld the awful panorama of war, and heard the cry of oppression and suffering. There are many pictures of Lincoln; there is no portrait of him."\u000a\u000aSee also Wikipedia article on Tad Lincoln for the famous 1864 photograph of Abraham Lincoln with his son Tad, by Anthony Berger.
 p15
-sS'books'
+V"Lincoln's features were the despair of every artist who undertook his portrait. The writer saw nearly a dozen, one after another, soon after the first nomination to the presidency, attempt the task. They put into their pictures the large, rugged features, and strong, prominent lines; they made measurements to obtain exact proportions; they "petrified" some single look, but the picture remained hard and cold. Even before these paintings were finished it was plain to see that they were unsatisfactory to the artists themselves, and much more so to the intimate friends of the man this was not he who smiled, spoke, laughed, charmed. The picture was to the man as the grain of sand to the mountain, as the dead to the living. Graphic art was powerless before a face that moved through a thousand delicate gradations of line and contour, light and shade, sparkle of the eye and curve of the lip, in the long gamut of expression from grave to gay, and back again from the rollicking jollity of laughter to that serious, far away look that with prophetic intuitions beheld the awful panorama of war, and heard the cry of oppression and suffering. There are many pictures of Lincoln; there is no portrait of him."\u000a\u000aSee also Wikipedia article on Tad Lincoln for the famous 1864 photograph of Abraham Lincoln with his son Tad, by Anthony Berger.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I961
 asS'id'
-p18
+p19
 I295
 sb.

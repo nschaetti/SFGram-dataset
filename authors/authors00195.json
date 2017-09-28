@@ -1,11 +1,12 @@
 {
-    "books": [
-        588
-    ], 
+    "name": "Manly Banister", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Manly Banister", 
     "n_books": 1, 
+    "books": [
+        588
+    ], 
     "id": 195
 }

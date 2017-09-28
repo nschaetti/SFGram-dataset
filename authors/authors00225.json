@@ -1,11 +1,12 @@
 {
-    "books": [
-        686
-    ], 
+    "name": "Ron Goulart", 
+    "country": 1, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Ron Goulart", 
     "n_books": 1, 
+    "books": [
+        686
+    ], 
     "id": 225
 }

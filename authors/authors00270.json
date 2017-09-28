@@ -1,11 +1,12 @@
 {
-    "books": [
-        884
-    ], 
+    "name": "Robert W. Haseltine", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Robert W. Haseltine", 
     "n_books": 1, 
+    "books": [
+        884
+    ], 
     "id": 270
 }

@@ -14,28 +14,31 @@ S'name'
 p6
 VAlex Apostolides
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Portals_of_Tomorrow
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Portals_of_Tomorrow
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-VPortals of Tomorrow is an anthology of science fiction stories edited by American writer August Derleth, intended as the first in a series of "year's best" volumes. It was first published by Rinehart & Company in 1954. The stories had originally appeared in the magazines Fantasy and Science Fiction, Future, Esquire, Fantastic Universe, Galaxy Science Fiction, Blue Book, Startling Stories, Orbit, Astounding Stories and Beyond Fantasy Fiction.
 p15
-sS'books'
+VPortals of Tomorrow is an anthology of science fiction stories edited by American writer August Derleth, intended as the first in a series of "year's best" volumes. It was first published by Rinehart & Company in 1954. The stories had originally appeared in the magazines Fantasy and Science Fiction, Future, Esquire, Fantastic Universe, Galaxy Science Fiction, Blue Book, Startling Stories, Orbit, Astounding Stories and Beyond Fantasy Fiction.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I736
 asS'id'
-p18
+p19
 I238
 sb.

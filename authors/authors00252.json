@@ -1,11 +1,12 @@
 {
-    "books": [
-        795
-    ], 
+    "name": "Arthur W. Orton", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Arthur W. Orton", 
     "n_books": 1, 
+    "books": [
+        795
+    ], 
     "id": 252
 }

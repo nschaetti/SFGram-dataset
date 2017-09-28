@@ -1,11 +1,12 @@
 {
-    "books": [
-        958
-    ], 
+    "name": "Ellsworth Douglass", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Ellsworth Douglass", 
     "n_books": 1, 
+    "books": [
+        958
+    ], 
     "id": 294
 }

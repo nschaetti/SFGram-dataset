@@ -1,4 +1,10 @@
 {
+    "name": "Jack Sharkey", 
+    "country": 3, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 7, 
     "books": [
         614, 
         722, 
@@ -8,10 +14,5 @@
         943, 
         952
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Jack Sharkey", 
-    "n_books": 7, 
     "id": 205
 }

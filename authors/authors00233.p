@@ -14,28 +14,31 @@ S'name'
 p6
 VStanton A. Coblentz
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Coblentz
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Coblentz
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-VCoblentz is a surname. Notable people with the surname include:\u000aLaban Coblentz (b. 1961), American writer and communications specialist\u000aWilliam Coblentz (1873\u20131962), American scientist\u000aWilliam Coblentz (1922\u20132010), California attorney and power broker\u000aCatherine Cate Coblentz, Writer of children's books\u000aStanton A. Coblentz, American author and poet
 p15
-sS'books'
+VCoblentz is a surname. Notable people with the surname include:\u000aLaban Coblentz (b. 1961), American writer and communications specialist\u000aWilliam Coblentz (1873\u20131962), American scientist\u000aWilliam Coblentz (1922\u20132010), California attorney and power broker\u000aCatherine Cate Coblentz, Writer of children's books\u000aStanton A. Coblentz, American author and poet
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I706
 asS'id'
-p18
+p19
 I233
 sb.

@@ -439,7 +439,7 @@ VEnglish
 p216
 sS'country'
 p217
-I3
+I2
 sS'release_date'
 p218
 S'2007-12-13T00:00:00'

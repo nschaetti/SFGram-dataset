@@ -1,11 +1,12 @@
 {
-    "books": [
-        741
-    ], 
+    "name": "Charles A. Stearns", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Charles A. Stearns", 
     "n_books": 1, 
+    "books": [
+        741
+    ], 
     "id": 240
 }

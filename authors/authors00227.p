@@ -14,30 +14,33 @@ S'name'
 p6
 VChristopher Grimm
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I3
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Christopher_Grimm
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Christopher_Grimm
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I3
 sS'summary'
-p14
-VChristopher Grimm is a New York City-based writer-director and actor. He wrote, produced, directed and starred in a series of TV promos and movie trailers for the Independent Film Channel based on The Bystander from Hell, a character he created in a short shot on one roll of Super-8 film that played at over 50 film festivals, including Sundance.\u000aHe directed the short comedy Looking for Dubinsky, and his 2008 film, Goyband, was his feature-film directorial debut. Goyband is a musical comedy set in the Catskills starring Adam Pascal, Amy Davidson, Tovah Feldshuh, Natasha Lyonne, Tibor Feldman, Cris Judd, Dean Edwards, Wendy Diamond and CBS Travel Editor Peter Greenberg, and was distributed by MarVista Entertainment.\u000aAs a screenwriter he has worked with directors such as Davis Guggenheim and Alan Rudolph. In addition to writing several award-winning short films, writing credits include the feature-length films Rhythm Thief (winner of numerous festival awards, including a Sundance Jury Prize); Spare Me (winner of the Avignon Prix Tournage) and the documentary Calling the Ghosts (winner of 2 Emmy Awards & a Cable Ace Award).
 p15
-sS'books'
+VChristopher Grimm is a New York City-based writer-director and actor. He wrote, produced, directed and starred in a series of TV promos and movie trailers for the Independent Film Channel based on The Bystander from Hell, a character he created in a short shot on one roll of Super-8 film that played at over 50 film festivals, including Sundance.\u000aHe directed the short comedy Looking for Dubinsky, and his 2008 film, Goyband, was his feature-film directorial debut. Goyband is a musical comedy set in the Catskills starring Adam Pascal, Amy Davidson, Tovah Feldshuh, Natasha Lyonne, Tibor Feldman, Cris Judd, Dean Edwards, Wendy Diamond and CBS Travel Editor Peter Greenberg, and was distributed by MarVista Entertainment.\u000aAs a screenwriter he has worked with directors such as Davis Guggenheim and Alan Rudolph. In addition to writing several award-winning short films, writing credits include the feature-length films Rhythm Thief (winner of numerous festival awards, including a Sundance Jury Prize); Spare Me (winner of the Avignon Prix Tournage) and the documentary Calling the Ghosts (winner of 2 Emmy Awards & a Cable Ace Award).
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I690
 aI699
 aI703
 asS'id'
-p18
+p19
 I227
 sb.

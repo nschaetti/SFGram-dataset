@@ -1,11 +1,12 @@
 {
-    "books": [
-        561
-    ], 
+    "name": "Ron Cocking", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Ron Cocking", 
     "n_books": 1, 
+    "books": [
+        561
+    ], 
     "id": 187
 }

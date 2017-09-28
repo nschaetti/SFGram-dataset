@@ -704,7 +704,7 @@ VEnglish
 p349
 sS'country'
 p350
-I3
+I2
 sS'release_date'
 p351
 S'2008-10-24T00:00:00'

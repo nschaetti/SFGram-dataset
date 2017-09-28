@@ -1,12 +1,13 @@
 {
+    "name": "Joe Gibson", 
+    "country": 3, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 2, 
     "books": [
         599, 
         876
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "Joe Gibson", 
-    "n_books": 2, 
     "id": 200
 }

@@ -1,5 +1,6 @@
 {
     "name": "Lee Tarbell", 
+    "country": 3, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/List_of_photographs_of_Abraham_Lincoln", 
         "found": true

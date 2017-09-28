@@ -1,5 +1,6 @@
 {
     "name": "Gerald Vance", 
+    "country": 3, 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Bob_Morane", 
         "found": true

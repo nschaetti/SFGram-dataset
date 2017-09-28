@@ -1,11 +1,12 @@
 {
-    "books": [
-        932
-    ], 
+    "name": "Robert J. Martin", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Robert J. Martin", 
     "n_books": 1, 
+    "books": [
+        932
+    ], 
     "id": 282
 }

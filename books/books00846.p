@@ -548,7 +548,7 @@ VEnglish
 p271
 sS'country'
 p272
-I3
+I2
 sS'release_date'
 p273
 S'2007-12-02T00:00:00'

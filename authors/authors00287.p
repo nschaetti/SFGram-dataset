@@ -14,28 +14,31 @@ S'name'
 p6
 VSydney Van Scyoc
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Sydney_J._Van_Scyoc
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Sydney_J._Van_Scyoc
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I1
 sS'summary'
-p14
-VSydney J. van Scyoc (born July 27, 1939) is an American science fiction writer. Her first published story was "Shatter the Wall" in Galaxy in 1962. She continued to write short stories throughout the 1960s and in 1971, published her first novel, Saltflower. Other novels followed until 1992, when she abandoned writing to make and sell jewelry; she later returned to write science fiction.\u000aAccording to book reviewer Dani Zweig, coming of age and human evolution are common themes in Scyoc's books. In the novel Assignment Nor'Dyren, the two main characters are young humans off on an adventure visiting an alien world. Tollan Bailey has not been able to fit into the post-industrial work force of Earth, but the world Nor'Dyren provides an environment well suited to his interests. Laarica Johns is the other main human character, struggling to develop a career and escape from her over-protective parents. The theme of evolution is also present in Assignment Nor'Dyren, with questions raised about how human-like species must adapt to an environment that includes advanced technologies such as space travel.
 p15
-sS'books'
+VSydney J. van Scyoc (born July 27, 1939) is an American science fiction writer. Her first published story was "Shatter the Wall" in Galaxy in 1962. She continued to write short stories throughout the 1960s and in 1971, published her first novel, Saltflower. Other novels followed until 1992, when she abandoned writing to make and sell jewelry; she later returned to write science fiction.\u000aAccording to book reviewer Dani Zweig, coming of age and human evolution are common themes in Scyoc's books. In the novel Assignment Nor'Dyren, the two main characters are young humans off on an adventure visiting an alien world. Tollan Bailey has not been able to fit into the post-industrial work force of Earth, but the world Nor'Dyren provides an environment well suited to his interests. Laarica Johns is the other main human character, struggling to develop a career and escape from her over-protective parents. The theme of evolution is also present in Assignment Nor'Dyren, with questions raised about how human-like species must adapt to an environment that includes advanced technologies such as space travel.
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I939
 asS'id'
-p18
+p19
 I287
 sb.

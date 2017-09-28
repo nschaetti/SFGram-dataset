@@ -138,7 +138,7 @@ VEnglish
 p66
 sS'country'
 p67
-I3
+I2
 sS'release_date'
 p68
 S'2010-09-05T00:00:00'

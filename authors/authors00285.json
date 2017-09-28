@@ -1,11 +1,12 @@
 {
-    "books": [
-        936
-    ], 
+    "name": "David C. Knight", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "David C. Knight", 
     "n_books": 1, 
+    "books": [
+        936
+    ], 
     "id": 285
 }

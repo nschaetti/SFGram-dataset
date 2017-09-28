@@ -1,11 +1,12 @@
 {
-    "books": [
-        957
-    ], 
+    "name": "Lucius Daniel", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Lucius Daniel", 
     "n_books": 1, 
+    "books": [
+        957
+    ], 
     "id": 293
 }

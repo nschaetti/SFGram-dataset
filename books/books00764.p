@@ -814,7 +814,7 @@ VEnglish
 p404
 sS'country'
 p405
-I3
+I2
 sS'release_date'
 p406
 S'2007-05-29T00:00:00'
