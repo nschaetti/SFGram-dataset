@@ -193,7 +193,7 @@ VEnglish
 p93
 sS'country'
 p94
-I3
+I2
 sS'release_date'
 p95
 S'2010-04-18T00:00:00'

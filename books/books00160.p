@@ -260,7 +260,7 @@ VEnglish
 p127
 sS'country'
 p128
-I3
+I2
 sS'release_date'
 p129
 S'2008-05-11T00:00:00'

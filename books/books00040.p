@@ -279,7 +279,7 @@ VEnglish
 p136
 sS'country'
 p137
-I3
+I2
 sS'release_date'
 p138
 S'2009-04-26T00:00:00'

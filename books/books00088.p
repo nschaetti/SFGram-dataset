@@ -146,7 +146,7 @@ VEnglish
 p68
 sS'country'
 p69
-I3
+I2
 sS'release_date'
 p70
 S'1994-07-01T00:00:00'

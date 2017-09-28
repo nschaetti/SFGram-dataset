@@ -112,7 +112,7 @@ VEnglish
 p53
 sS'country'
 p54
-I3
+I4
 sS'release_date'
 p55
 S'1998-06-01T00:00:00'
