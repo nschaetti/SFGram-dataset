@@ -144,7 +144,7 @@ VEnglish
 p69
 sS'country'
 p70
-I3
+I2
 sS'release_date'
 p71
 S'2012-12-18T00:00:00'

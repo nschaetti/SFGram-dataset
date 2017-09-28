@@ -298,7 +298,7 @@ VEnglish
 p146
 sS'country'
 p147
-I3
+I2
 sS'release_date'
 p148
 S'2008-04-09T00:00:00'

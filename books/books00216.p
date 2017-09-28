@@ -470,7 +470,7 @@ VEnglish
 p231
 sS'country'
 p232
-I3
+I2
 sS'release_date'
 p233
 S'2007-09-26T00:00:00'
