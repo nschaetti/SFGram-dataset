@@ -778,6 +778,7 @@
         {
             "bio": " Pohl went to the hospital in respiratory distress on the morning of September 2, 2013, and died that afternoon at the age of 93.", 
             "name": "Frederik Pohl", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Frederik_Pohl", 
                 "found": true
@@ -1462,6 +1463,7 @@
         {
             "bio": "Lafferty was born on November 7, 1914, in Neola, Iowa to Hugh David Lafferty, a broker dealing in oil leases and royalties, and Julia Mary Burke, a teacher; he was the youngest of five siblings. His first name, Raphael, derived from the day on which he was expected to be born--(the Feast of St. Raphael). When he was 4, his family moved to Perry, Oklahoma. He graduated from Cascia Hall and later attended night school at the University of Tulsa for two years starting in 1933, mostly studying math and German, but left before graduating. He then began to work for a Clark Electric Co. in Tulsa, Oklahoma, and apparently a newspaper as well; during this period (1939\u20131942), he attended the International Correspondence School.\nR. A. Lafferty lived most of his life in Tulsa, with his sister, Anna Lafferty. Lafferty enlisted in the U.S. Army in 1942. After training in Texas, North Carolina, Florida, and California, he was sent to the South Pacific Area, serving in Australia, New Guinea, Morotai and the Philippines. When he left the Army in 1946, he had become a 1st Sergeant serving as a staff sergeant and had received an Asiatic-Pacific Campaign Medal [4]. He never married.\nLafferty did not begin writing until the 1950s, but he wrote thirty-two novels and more than two hundred short stories, most of them at least nominally science fiction. His first published story was \"The Wagons\" in New Mexico Quarterly Review in 1959. His first published science fiction story was \"Day of the Glacier\", in The Original Science Fiction Stories in 1960, and his first published novel was Past Master in 1968.\nUntil 1971, Lafferty worked as an electrical engineer. After that, he spent his time writing until around 1980, when his output declined due to a stroke. He stopped writing regularly in 1984. In 1994, he suffered an even more severe stroke. He died 18 March 2002, aged 87 in a nursing home in Broken Arrow, Oklahoma. His collected papers, artifacts, and ephemera were donated to the University of Tulsa's McFarlin Library, Department of Special Collections and University Archives. Other manuscripts are housed in the University of Iowa's Library special collections department.\nLafferty's funeral took place at Christ the King Catholic Church in Tulsa, where he regularly attended daily Mass. He is buried at St. Rose Catholic Cemetery in Perry.", 
             "name": "R. A. Lafferty", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/R._A._Lafferty", 
                 "found": true
@@ -1521,6 +1523,12 @@
             "id": 77
         }, 
         {
+            "name": "John Berryman", 
+            "country": 2, 
+            "wikipedia": {
+                "found": false
+            }, 
+            "n_books": 5, 
             "books": [
                 235, 
                 299, 
@@ -1528,11 +1536,6 @@
                 598, 
                 639
             ], 
-            "wikipedia": {
-                "found": false
-            }, 
-            "name": "John Berryman", 
-            "n_books": 5, 
             "id": 78
         }, 
         {
@@ -1768,19 +1771,21 @@
             "id": 91
         }, 
         {
-            "books": [
-                287
-            ], 
+            "name": "Eando Binder", 
+            "country": 2, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Eando Binder", 
             "n_books": 1, 
+            "books": [
+                287
+            ], 
             "id": 92
         }, 
         {
             "bio": "Born in Youngstown, Ohio, he was raised there and in nearby New Castle, Pennsylvania. Something of a child prodigy, he graduated from high school and entered Westminster College in New Wilmington, Pennsylvania at the age of 14, but washed out at 17.", 
             "name": "S. M. Tenneshaw", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Edmond_Hamilton", 
                 "found": true
@@ -1797,6 +1802,7 @@
         {
             "bio": "Born in London, and educated at Fettes College, Edinburgh, Fyfe was the son of James Hamilton Fyfe, a barrister and journalist, and his wife Mary. He joined the staff of The Times at the age of seventeen, where he worked as a reporter and reviewer before becoming secretary to the editor, George Earle Buckle. In 1902, he was named editor of the Morning Advertiser, the trade publication of the Licensed Victuallers' Association. Though his efforts to improve the paper soon ran into conflict with the paper's owners, the clash did draw the attention of the press baron Alfred Harmsworth, who offered Fyfe the opportunity to spearhead the transformation of the struggling Daily Mirror the following year. Fyfe accepted Harmsworth's offer, and turned the paper from a publication catering for women readers into a popular newspaper through the use of photojournalism.\n\nIn 1907, Fyfe gave up the editorship of the Daily Mirror to become a reporter for another Harmsworth publication, the Daily Mail. He gained considerable renown during this period, initially by covering pioneering aviation feats such as Louis Bl\u00e9riot's successful crossing of the English Channel. He also covered Venustiano Carranza's overthrow of the Huerta regime in Mexico as well as the growing tension in Ulster in 1914. At the start of World War I he was sent to France, where he scored further success early on with his reports of the Great Retreat from Mons. Over the course of the war, he filed reports from Russia, Spain, Portugal, and Italy, before aiding Harmsworth (by now Lord Northcliffe) in his propaganda efforts for the British government.\nFyfe's 1920 play The Kingdom, The Power and The Glory provoked controversy because of its attack on monarchy.\nA man of the political left, Fyfe nonetheless liked the conservative Northcliffe and enjoyed a good relationship with him until the latter's mental deterioration after the war. After Northcliffe's death in 1922, Fyfe agreed to edit the Daily Herald. During his tenure there, he succeeded in nearly quadrupling the paper's circulation but clashed with the editorial board, which was dominated by members of the Trades Union Congress. In 1926, he left the editorship to take a position as a reporter with the Daily Chronicle, working there until the paper's merger with the Daily News four years later. During this period, he stood unsuccessfully for Parliament as a Labour Party candidate, firstly for Sevenoaks in the general election of 1929 and then for Yeovil in 1931. Fyfe's 1940 book The Illusion of National Character was a critique of nationalism published by the Thinker's Library.\nAfter he left the Daily Chronicle, Fyfe concentrated on his independent writing. His success as a playwright dated back to 1909 with the first performance of A Modern Aspasia; he also wrote a number of biographies of writers and journalists culminating in his own memoirs, Sixty Years of Fleet Street, which was published two years before his death at a nursing home in Sussex.", 
             "name": "H. B. Fyfe", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Hamilton_Fyfe", 
                 "found": true
@@ -1845,14 +1851,15 @@
             "id": 95
         }, 
         {
-            "books": [
-                297
-            ], 
+            "name": "Jack G. Huekels", 
+            "country": 3, 
             "wikipedia": {
                 "found": false
             }, 
-            "name": "Jack G. Huekels", 
             "n_books": 1, 
+            "books": [
+                297
+            ], 
             "id": 96
         }, 
         {
@@ -1873,6 +1880,7 @@
         }, 
         {
             "name": "William Tenn", 
+            "country": 2, 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Of_Men_and_Monsters", 
                 "found": true

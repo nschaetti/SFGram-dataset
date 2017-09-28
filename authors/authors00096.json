@@ -1,11 +1,12 @@
 {
-    "books": [
-        297
-    ], 
+    "name": "Jack G. Huekels", 
+    "country": 3, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Jack G. Huekels", 
     "n_books": 1, 
+    "books": [
+        297
+    ], 
     "id": 96
 }

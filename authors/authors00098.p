@@ -14,31 +14,34 @@ S'name'
 p6
 VWilliam Tenn
 p7
-sS'wikipedia'
+sS'country'
 p8
-(dp9
+I2
+sS'wikipedia'
+p9
+(dp10
 S'url'
-p10
-Vhttps://en.wikipedia.org/wiki/Of_Men_and_Monsters
 p11
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Of_Men_and_Monsters
 p12
+sS'found'
+p13
 I01
 ssS'n_books'
-p13
+p14
 I4
 sS'summary'
-p14
-VOf Men and Monsters is a science fiction novel by American writer William Tenn, published in June 1968 as a paperback by Ballantine Books. The book is an expansion of his story "The Men in the Walls", originally published in Galaxy Science Fiction in October 1963. Of Men and Monsters is Tenn\u2019s only full-length novel, as the majority of his other stories are novellas.\u000a\u000a
 p15
-sS'books'
+VOf Men and Monsters is a science fiction novel by American writer William Tenn, published in June 1968 as a paperback by Ballantine Books. The book is an expansion of his story "The Men in the Walls", originally published in Galaxy Science Fiction in October 1963. Of Men and Monsters is Tenn\u2019s only full-length novel, as the majority of his other stories are novellas.\u000a\u000a
 p16
-(lp17
+sS'books'
+p17
+(lp18
 I304
 aI568
 aI682
 aI707
 asS'id'
-p18
+p19
 I98
 sb.

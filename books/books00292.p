@@ -119,7 +119,7 @@ VEnglish
 p56
 sS'country'
 p57
-I3
+I2
 sS'release_date'
 p58
 S'2006-05-27T00:00:00'

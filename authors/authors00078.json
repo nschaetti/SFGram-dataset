@@ -1,4 +1,10 @@
 {
+    "name": "John Berryman", 
+    "country": 2, 
+    "wikipedia": {
+        "found": false
+    }, 
+    "n_books": 5, 
     "books": [
         235, 
         299, 
@@ -6,10 +12,5 @@
         598, 
         639
     ], 
-    "wikipedia": {
-        "found": false
-    }, 
-    "name": "John Berryman", 
-    "n_books": 5, 
     "id": 78
 }

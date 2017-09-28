@@ -1534,6 +1534,8 @@ p459
 sg9
 VFrederik Pohl
 p460
+sg203
+I2
 sg11
 (dp461
 g13
@@ -2868,6 +2870,8 @@ p851
 sg9
 VR. A. Lafferty
 p852
+sg203
+I2
 sg11
 (dp853
 g13
@@ -2997,23 +3001,25 @@ g3
 Ntp893
 Rp894
 (dp895
-g24
-(lp896
+g9
+VJohn Berryman
+p896
+sg203
+I2
+sg11
+(dp897
+g15
+I00
+ssg16
+I5
+sg24
+(lp898
 I235
 aI299
 aI406
 aI598
 aI639
-asg11
-(dp897
-g15
-I00
-ssg9
-VJohn Berryman
-p898
-sg16
-I5
-sg26
+asg26
 I78
 sbag1
 (g2
@@ -3516,19 +3522,21 @@ g3
 Ntp1055
 Rp1056
 (dp1057
-g24
-(lp1058
-I287
-asg11
+g9
+VEando Binder
+p1058
+sg203
+I2
+sg11
 (dp1059
 g15
 I00
-ssg9
-VEando Binder
-p1060
-sg16
+ssg16
 I1
-sg26
+sg24
+(lp1060
+I287
+asg26
 I92
 sbag1
 (g2
@@ -3542,6 +3550,8 @@ p1064
 sg9
 VS. M. Tenneshaw
 p1065
+sg203
+I2
 sg11
 (dp1066
 g13
@@ -3583,6 +3593,8 @@ p1079
 sg9
 VH. B. Fyfe
 p1080
+sg203
+I2
 sg11
 (dp1081
 g13
@@ -3665,19 +3677,21 @@ g3
 Ntp1099
 Rp1100
 (dp1101
-g24
-(lp1102
-I297
-asg11
+g9
+VJack G. Huekels
+p1102
+sg203
+I3
+sg11
 (dp1103
 g15
 I00
-ssg9
-VJack G. Huekels
-p1104
-sg16
+ssg16
 I1
-sg26
+sg24
+(lp1104
+I297
+asg26
 I96
 sbag1
 (g2
@@ -3727,6 +3741,8 @@ Rp1120
 g9
 VWilliam Tenn
 p1122
+sg203
+I2
 sg11
 (dp1123
 g13

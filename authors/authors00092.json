@@ -1,11 +1,12 @@
 {
-    "books": [
-        287
-    ], 
+    "name": "Eando Binder", 
+    "country": 2, 
     "wikipedia": {
         "found": false
     }, 
-    "name": "Eando Binder", 
     "n_books": 1, 
+    "books": [
+        287
+    ], 
     "id": 92
 }
