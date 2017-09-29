@@ -1,8 +1,8 @@
 {
     "countries": [
         {
-            "id": 1, 
             "movies": [], 
+            "id": 1, 
             "name": "United Kingdom", 
             "authors": [
                 1, 
@@ -21,8 +21,8 @@
             ]
         }, 
         {
-            "id": 2, 
             "movies": [], 
+            "id": 2, 
             "name": "United States", 
             "authors": [
                 2, 
@@ -229,8 +229,8 @@
             ]
         }, 
         {
-            "id": 3, 
             "movies": [], 
+            "id": 3, 
             "name": "Unknown", 
             "authors": [
                 17, 
@@ -313,8 +313,8 @@
             ]
         }, 
         {
-            "id": 4, 
             "movies": [], 
+            "id": 4, 
             "name": "France", 
             "authors": [
                 6, 
@@ -325,16 +325,16 @@
             ]
         }, 
         {
-            "id": 7, 
             "movies": [], 
+            "id": 7, 
             "name": "Scotland", 
             "authors": [
                 29
             ]
         }, 
         {
-            "id": 8, 
             "movies": [], 
+            "id": 8, 
             "name": "Canada", 
             "authors": [
                 33, 
@@ -342,32 +342,8 @@
             ]
         }, 
         {
-            "id": 10, 
             "movies": [], 
-            "name": "Germany", 
-            "authors": []
-        }, 
-        {
-            "id": 11, 
-            "movies": [], 
-            "name": "Argentina", 
-            "authors": []
-        }, 
-        {
-            "id": 13, 
-            "movies": [], 
-            "name": "Bangladesh", 
-            "authors": []
-        }, 
-        {
-            "id": 15, 
-            "movies": [], 
-            "name": "Philippines (first printing in Berlin)", 
-            "authors": []
-        }, 
-        {
             "id": 16, 
-            "movies": [], 
             "name": "Russia", 
             "authors": [
                 3, 
@@ -375,40 +351,28 @@
             ]
         }, 
         {
-            "id": 17, 
             "movies": [], 
+            "id": 17, 
             "name": "Ireland", 
             "authors": [
                 102
             ]
         }, 
         {
-            "id": 18, 
             "movies": [], 
+            "id": 18, 
             "name": "Australia", 
             "authors": [
                 104
             ]
         }, 
         {
-            "id": 19, 
             "movies": [], 
-            "name": "South Africa", 
-            "authors": []
-        }, 
-        {
             "id": 20, 
-            "movies": [], 
             "name": "India", 
             "authors": [
                 54
             ]
-        }, 
-        {
-            "id": 22, 
-            "movies": [], 
-            "name": "Japan", 
-            "authors": []
         }, 
         {
             "movies": [], 
