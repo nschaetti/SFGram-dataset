@@ -20,7 +20,7 @@ V189694437X
 p9
 sS'year'
 p10
-I-1
+I1960
 sS'author_name'
 p11
 VTherese Windser

@@ -20,7 +20,7 @@ V151540580X
 p9
 sS'year'
 p10
-I-1
+I1962
 sS'author_name'
 p11
 VWallace West

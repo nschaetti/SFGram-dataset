@@ -20,7 +20,7 @@ V1530772648
 p9
 sS'year'
 p10
-I-1
+I1957
 sS'author_name'
 p11
 VRaymond Z. Gallun

@@ -31,7 +31,7 @@ aVhttp://www.gutenberg.org/files/50889/50889-h/images/illus3.jpg
 p15
 asS'year'
 p16
-I-1
+I1953
 sS'images'
 p17
 (lp18

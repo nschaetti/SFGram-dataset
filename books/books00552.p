@@ -20,7 +20,7 @@ V1479407887
 p9
 sS'year'
 p10
-I-1
+I1919
 sS'author_name'
 p11
 VMurray Leinster

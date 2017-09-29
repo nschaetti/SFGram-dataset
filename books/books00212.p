@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I-1
+I1919
 sS'author_name'
 p10
 VMurray Leinster

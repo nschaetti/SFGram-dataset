@@ -20,7 +20,7 @@ V1496966260
 p9
 sS'year'
 p10
-I2015
+I1976
 sS'author_name'
 p11
 VMack Reynolds

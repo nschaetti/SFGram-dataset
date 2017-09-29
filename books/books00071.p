@@ -20,7 +20,7 @@ V1540360857
 p9
 sS'year'
 p10
-I-1
+I1930
 sS'author_name'
 p11
 VVarious

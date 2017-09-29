@@ -20,7 +20,7 @@ V1776665082
 p9
 sS'year'
 p10
-I-1
+I1962
 sS'author_name'
 p11
 VKurt Vonnegut

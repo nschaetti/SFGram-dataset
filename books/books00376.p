@@ -29,7 +29,7 @@ aVhttp://www.gutenberg.org/files/51353/51353-h/images/illus2.jpg
 p14
 asS'year'
 p15
-I-1
+I1952
 sS'images'
 p16
 (lp17

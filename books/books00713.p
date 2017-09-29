@@ -20,7 +20,7 @@ V0385262825
 p9
 sS'year'
 p10
-I-1
+I1954
 sS'author_name'
 p11
 VRoger D. Aycock

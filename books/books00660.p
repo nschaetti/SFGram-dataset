@@ -16,7 +16,7 @@ V1546306714
 p7
 sS'year'
 p8
-I-1
+I1952
 sS'author_name'
 p9
 VHarold L. Goodwin

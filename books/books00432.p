@@ -20,7 +20,7 @@ V1515405982
 p9
 sS'year'
 p10
-I-1
+I1962
 sS'author_name'
 p11
 VAlgis Budrys

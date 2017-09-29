@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I-1
+I1932
 sS'author_name'
 p10
 VMiles John Breuer
