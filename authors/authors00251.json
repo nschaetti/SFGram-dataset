@@ -1,6 +1,8 @@
 {
     "name": "Stanley R. Lee", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Stanley_R._Lee", 
         "found": true

@@ -1,7 +1,9 @@
 {
     "bio": "Lawrence was born March 1940 in New York City. She has previously lived in Greece, and in Oxford with her late husband. She currently lives in Athens, Greece. Little is known of Lawrence's life before her marriage to James Blish, in 1964. During her short marriage, she became confidant and collaborator to her husband. Her contributions to Blish's Star Trek novelization series were uncredited until the release of Star Trek 11 in 1977. The final volume in the series was Mudd's Angels in 1978, which included two episode adaptations and an original novella by Lawrence.\n\nLawrence's short fiction was regularly published by Galaxy Science Fiction, and included in several short fiction anthologies. As an illustrator, her work includes the covers to editions of Black Easter and The Day After Judgment. She also sketched the cover of Fugue for a Darkening Island by Christopher Priest. She contributed two covers to the Kalki science fiction fanzine, and the cover for the April 1972 issue of The Magazine of Fantasy & Science Fiction.", 
     "name": "James Blish", 
-    "country": 1, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/J._A._Lawrence", 
         "found": true

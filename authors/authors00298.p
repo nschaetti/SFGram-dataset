@@ -18,31 +18,32 @@ sS'name'
 p8
 VAnn Griffith
 p9
-sS'country'
+sS'countries'
 p10
-I3
-sS'wikipedia'
-p11
-(dp12
+(lp11
+I2
+asS'wikipedia'
+p12
+(dp13
 S'url'
-p13
-Vhttps://en.wikipedia.org/wiki/Ann_Griffiths
 p14
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Ann_Griffiths
 p15
+sS'found'
+p16
 I01
 ssS'n_books'
-p16
+p17
 I1
 sS'summary'
-p17
-VAnn Griffiths (née Thomas) (April 1776 \u2013 August 1805) was a Welsh poet and writer of Methodist Christian hymns.
 p18
-sS'books'
+VAnn Griffiths (née Thomas) (April 1776 \u2013 August 1805) was a Welsh poet and writer of Methodist Christian hymns.
 p19
-(lp20
+sS'books'
+p20
+(lp21
 I968
 asS'id'
-p21
+p22
 I298
 sb.

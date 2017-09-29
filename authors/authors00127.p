@@ -14,31 +14,32 @@ S'name'
 p6
 VMiles John Breuer
 p7
-sS'country'
+sS'countries'
 p8
-I4
-sS'wikipedia'
-p9
-(dp10
+(lp9
+I2
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Miles_J._Breuer
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Miles_J._Breuer
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VMiles John Breuer (January 3, 1889 \u2013 October 14, 1945) was an American physician and science fiction writer. He was part of the first generation of writers to appear regularly in the pulp science fiction magazines, publishing his first story, "The Man with the Strange Head", in the January 1927 issue of Amazing Stories. His best known works are "The Gostak and the Doshes" (1930) and two stories written jointly with Jack Williamson, "The Girl from Mars" (1929) and The Birth of a New Republic (1931).
 p16
-sS'books'
+VMiles John Breuer (January 3, 1889 \u2013 October 14, 1945) was an American physician and science fiction writer. He was part of the first generation of writers to appear regularly in the pulp science fiction magazines, publishing his first story, "The Man with the Strange Head", in the January 1927 issue of Amazing Stories. His best known works are "The Gostak and the Doshes" (1930) and two stories written jointly with Jack Williamson, "The Girl from Mars" (1929) and The Birth of a New Republic (1931).
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I395
 asS'id'
-p19
+p20
 I127
 sb.

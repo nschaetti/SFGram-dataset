@@ -1,6 +1,8 @@
 {
     "name": "Garrett Putman Serviss", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Garrett_P._Serviss", 
         "found": true

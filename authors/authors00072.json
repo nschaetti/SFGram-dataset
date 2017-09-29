@@ -1,6 +1,8 @@
 {
     "name": "Carl Richard Jacobi", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "found": false
     }, 

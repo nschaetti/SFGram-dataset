@@ -1,6 +1,8 @@
 {
     "name": "Samuel R. Delany", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Samuel_R._Delany", 
         "found": true

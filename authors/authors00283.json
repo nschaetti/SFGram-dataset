@@ -1,6 +1,8 @@
 {
     "name": "Wallace Macfarlane", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/MacFarlane_(surname)", 
         "found": true

@@ -1,6 +1,8 @@
 {
     "name": "Nathaniel Gordon", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

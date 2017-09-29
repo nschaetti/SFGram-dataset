@@ -1,6 +1,8 @@
 {
     "name": "Milo Hastings", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "found": false
     }, 

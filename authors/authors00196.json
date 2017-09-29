@@ -1,6 +1,8 @@
 {
     "name": "Richard Sabia", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

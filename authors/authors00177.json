@@ -1,7 +1,9 @@
 {
     "bio": " Pitney was touring the UK in the spring of 2006 when his manager found him dead in his hotel room in Cardiff on April 5. An autopsy found the cause of death to be a heart attack and that he had severely occluded coronary arteries. His final show at Cardiff's St David's Hall had earned him a standing ovation; he ended with \"Town Without Pity.\" He was survived by his wife Lynne and their three sons Todd, Chris, and David. His remains were buried at Somers Center Cemetery in Somers, Connecticut.", 
     "name": "Terry Gene Carr", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Gene_Pitney", 
         "found": true

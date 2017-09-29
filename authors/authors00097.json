@@ -1,6 +1,8 @@
 {
     "name": "Donald A. Wollheim", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Donald_A._Wollheim", 
         "found": true

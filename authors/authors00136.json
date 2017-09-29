@@ -1,7 +1,9 @@
 {
     "bio": "Schmitz was educated at a Realgymnasium in Hamburg, and grew up speaking both English and German. The family spent World War I in the United States, then returned to Germany. Schmitz traveled to Chicago in 1930 to go to business school, then switched to a correspondence course in journalism. Unable to find a job because of the Great Depression, he returned to Germany to work with his father's company. Schmitz lived in various German cities, where he worked for the International Harvester Company, until his family left shortly before World War II broke out in Europe.\nDuring World War II, Schmitz served as an aerial photographer in the Pacific for the United States Army Air Corps. After the war, he and his brother-in-law managed a business which manufactured trailers until they ended the business in 1949.\nAfter the war, he made his home in California, where he lived until his death.\nSchmitz died of congestive lung failure in 1981 after a five-week stay in hospital in Los Angeles. He was survived by his wife, Betty Mae Chapman Schmitz.", 
     "name": "James H. Schmitz", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/James_H._Schmitz", 
         "found": true

@@ -14,31 +14,32 @@ S'name'
 p6
 VPauline Ashwell
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I1
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Paul_Ash
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Paul_Ash
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VFor the science fiction writer who wrote under the name "Paul Ash", see Pauline Ashwell\u000a In progress\u000a\u000aPaul Robert Ash (February 11, 1891, Germany \u2014 July 13, 1958, Manhattan, New York) was an American orchestra leader, composer, vaudeville personality, and recording artist.\u000aHe recorded several hit songs: "Rememb'ring" (Brunswick, 1924), with his Granada Orchestra, "My Pet" (Columbia, 1928) and "Shadows on the Swanee" (Columbia, 1933). He also penned Kay Kyser's theme "Thinking of You."
 p16
-sS'books'
+VFor the science fiction writer who wrote under the name "Paul Ash", see Pauline Ashwell\u000a In progress\u000a\u000aPaul Robert Ash (February 11, 1891, Germany \u2014 July 13, 1958, Manhattan, New York) was an American orchestra leader, composer, vaudeville personality, and recording artist.\u000aHe recorded several hit songs: "Rememb'ring" (Brunswick, 1924), with his Granada Orchestra, "My Pet" (Columbia, 1928) and "Shadows on the Swanee" (Columbia, 1933). He also penned Kay Kyser's theme "Thinking of You."
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I321
 asS'id'
-p19
+p20
 I106
 sb.

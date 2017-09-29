@@ -1,6 +1,8 @@
 {
     "name": "Bryce Walton", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Bryce_Walton", 
         "found": true

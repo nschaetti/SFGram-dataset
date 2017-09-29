@@ -1,6 +1,8 @@
 {
     "name": "Austin Hall", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Austin_Hall_(writer)", 
         "found": true

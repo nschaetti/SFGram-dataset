@@ -14,31 +14,32 @@ S'name'
 p6
 VSonya Dorman
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Women_of_Wonder
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Women_of_Wonder
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VWomen of Wonder: Science-fiction Stories by Women about Women is a collection of short stories edited by Pamela Sargent, first published in 1975. It also includes an introduction and notes before each story by Sargent.\u000aIn the introduction, Sargent provides a comprehensive and informed analysis of women in the science fiction genre, both as writers and characters. She notes that \u201cMost science fiction has been written by men, and they still form a majority of the writers today. About 10 to 15 percent of the writers are women\u201d (p. 11).\u000aShe discusses some of the earlier prominent women writers, from Mary Shelley to C. L. Moore, then looks at how women characters have been ignored or stereotyped by writers like Jules Verne, H. G. Wells, Isaac Asimov, and Robert Heinlein. She closes by saying that changes will likely happen in the genre if readers show they want different perspectives, which will then make publishers interested in new ideas.
 p16
-sS'books'
+VWomen of Wonder: Science-fiction Stories by Women about Women is a collection of short stories edited by Pamela Sargent, first published in 1975. It also includes an introduction and notes before each story by Sargent.\u000aIn the introduction, Sargent provides a comprehensive and informed analysis of women in the science fiction genre, both as writers and characters. She notes that \u201cMost science fiction has been written by men, and they still form a majority of the writers today. About 10 to 15 percent of the writers are women\u201d (p. 11).\u000aShe discusses some of the earlier prominent women writers, from Mary Shelley to C. L. Moore, then looks at how women characters have been ignored or stereotyped by writers like Jules Verne, H. G. Wells, Isaac Asimov, and Robert Heinlein. She closes by saying that changes will likely happen in the genre if readers show they want different perspectives, which will then make publishers interested in new ideas.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I348
 asS'id'
-p19
+p20
 I112
 sb.

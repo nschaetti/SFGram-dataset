@@ -1,6 +1,8 @@
 {
     "name": "Randall Garrett", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Mark_Phillips_(author)", 
         "found": true

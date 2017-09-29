@@ -1,6 +1,8 @@
 {
     "name": "Arthur Porges", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Great_Science-Fiction", 
         "found": true

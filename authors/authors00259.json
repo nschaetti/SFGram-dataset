@@ -1,7 +1,9 @@
 {
     "bio": "Peyton continues to live in Nashville and is currently in ill health. She has twin girls. The oldest twin, Lila Angelique, is married to S.K. Thoth, a famed street performer from NYC. They currently travel the world performing as Tribal Baroque. Her other child in an aspiring actress living in the Bay Area. Former husband and member of Starz (band), Brendan Harkin, runs and owns a recording studio in Nashville.\nPeyton's godfather is novelist William Styron, with whom her father grew up in Virginia.", 
     "name": "Green Peyton", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Caroline_Peyton", 
         "found": true

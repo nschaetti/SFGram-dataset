@@ -1,6 +1,9 @@
 {
     "name": "Ayn Rand", 
-    "country": 2, 
+    "countries": [
+        2, 
+        16
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Ayn_Rand", 
         "found": true

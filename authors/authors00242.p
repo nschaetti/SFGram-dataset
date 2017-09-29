@@ -14,31 +14,32 @@ S'name'
 p6
 VG. C. Edmondson
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/G._C._Edmondson
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/G._C._Edmondson
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VG. C. Edmondson was the working name of science fiction author Garry Edmonson (full name "José Mario Garry Ordoñez Edmondson y Cotton") (October 11, 1922 in Washington state \u2013 December 14, 1995 in San Diego, California). According to the obituary published in Locus Magazine, Edmondson was born in Rachauchitlán, Tabasco, Mexico. During World War II he served as a U. S. Marine.\u000aAlthough generally called a science fiction writer he also wrote Westerns using the names Kelly P. Gast, J. B. Masterson, and Jack Logan. As he could also speak six languages he did translating work as well. His science fiction career began during 1955 with a story in the magazine Astounding. He later produced several novels which gained some note for their interest in time travel and Latin America. Several writers, including Gardner Dozois, tend to consider him as a neglected author.
 p16
-sS'books'
+VG. C. Edmondson was the working name of science fiction author Garry Edmonson (full name "José Mario Garry Ordoñez Edmondson y Cotton") (October 11, 1922 in Washington state \u2013 December 14, 1995 in San Diego, California). According to the obituary published in Locus Magazine, Edmondson was born in Rachauchitlán, Tabasco, Mexico. During World War II he served as a U. S. Marine.\u000aAlthough generally called a science fiction writer he also wrote Westerns using the names Kelly P. Gast, J. B. Masterson, and Jack Logan. As he could also speak six languages he did translating work as well. His science fiction career began during 1955 with a story in the magazine Astounding. He later produced several novels which gained some note for their interest in time travel and Latin America. Several writers, including Gardner Dozois, tend to consider him as a neglected author.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I747
 asS'id'
-p19
+p20
 I242
 sb.

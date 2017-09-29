@@ -14,31 +14,33 @@ S'name'
 p6
 VEdwin Lester Linden Arnold
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I1
-sS'wikipedia'
-p9
-(dp10
+aI24
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/A_Princess_of_Mars
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/A_Princess_of_Mars
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VA Princess of Mars is a science fantasy novel by American writer Edgar Rice Burroughs, the first of his Barsoom series. It was first serialized in the pulp magazine All-Story Magazine from February\u2013July, 1912. Full of swordplay and daring feats, the novel is considered a classic example of 20th-century pulp fiction. It is also a seminal instance of the planetary romance, a subgenre of science fantasy that became highly popular in the decades following its publication. Its early chapters also contain elements of the Western. The story is set on Mars, imagined as a dying planet with a harsh desert environment. This vision of Mars was based on the work of the astronomer Percival Lowell, whose ideas were widely popularized in the late 19th and early 20th centuries.\u000aThe Barsoom series inspired a number of well-known 20th-century science fiction writers, including Jack Vance, Ray Bradbury, Arthur C. Clarke, Robert A. Heinlein, and John Norman. The series was also inspirational for many scientists in the fields of space exploration and the search for extraterrestrial life, including Carl Sagan, who read A Princess of Mars when he was a child.
 p16
-sS'books'
+VA Princess of Mars is a science fantasy novel by American writer Edgar Rice Burroughs, the first of his Barsoom series. It was first serialized in the pulp magazine All-Story Magazine from February\u2013July, 1912. Full of swordplay and daring feats, the novel is considered a classic example of 20th-century pulp fiction. It is also a seminal instance of the planetary romance, a subgenre of science fantasy that became highly popular in the decades following its publication. Its early chapters also contain elements of the Western. The story is set on Mars, imagined as a dying planet with a harsh desert environment. This vision of Mars was based on the work of the astronomer Percival Lowell, whose ideas were widely popularized in the late 19th and early 20th centuries.\u000aThe Barsoom series inspired a number of well-known 20th-century science fiction writers, including Jack Vance, Ray Bradbury, Arthur C. Clarke, Robert A. Heinlein, and John Norman. The series was also inspirational for many scientists in the fields of space exploration and the search for extraterrestrial life, including Carl Sagan, who read A Princess of Mars when he was a child.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I164
 asS'id'
-p19
+p20
 I57
 sb.

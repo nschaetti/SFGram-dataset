@@ -1,6 +1,8 @@
 {
     "name": "Stanley Grauman Weinbaum", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Stanley_G._Weinbaum", 
         "found": true

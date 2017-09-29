@@ -1,6 +1,8 @@
 {
     "name": "Gerry Maddren", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

@@ -1,6 +1,8 @@
 {
     "name": "Murray F. Yaco", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

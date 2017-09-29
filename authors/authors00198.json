@@ -1,7 +1,9 @@
 {
     "bio": "Goodale played hockey and baseball at Yale and maintains a lifelong interest in skating and hockey. He owned the Sky Rink, a full-sized skating rink on 33rd Street in Manhattan. From 1998-2014 he published a digital newsletter for hockey hobbyists titled MMMCS. Its name was an acronym for the \"Murray Murdoch Marching and Chowder Society.\" Murray Murdoch, a former member of the New York Rangers, was Goodale's college coach. In 1973 he founded Washington Gunnery Hockey & Skating Association, a youth hockey organization in Washington, Connecticut.\nJames Goodale is married to the former Toni Krissel of New York City who is President of an international fund-raising firm, T.K. Goodale Associates. They are the parents of Tim (Principal, Bridge Haven Capital Ltd., London) and Ashley (formerly of the NYC Office of Legal Counsel), and the foster parents of Clayton Akiwenzie, a Native American (Senior Vice President, Berkadia, San Francisco).", 
     "name": "Earl Goodale", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/James_Goodale", 
         "found": true

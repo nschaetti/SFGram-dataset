@@ -1,6 +1,8 @@
 {
     "name": "Therese Windser", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

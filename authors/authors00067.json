@@ -1,6 +1,8 @@
 {
     "name": "Keith Laumer", 
-    "country": 2, 
+    "countries": [
+        25
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Keith_Laumer", 
         "found": true

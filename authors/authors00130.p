@@ -18,31 +18,32 @@ sS'name'
 p8
 VManly Wade Wellman
 p9
-sS'country'
+sS'countries'
 p10
+(lp11
 I2
-sS'wikipedia'
-p11
-(dp12
+asS'wikipedia'
+p12
+(dp13
 S'url'
-p13
-Vhttps://en.wikipedia.org/wiki/Manly_Wade_Wellman
 p14
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Manly_Wade_Wellman
 p15
+sS'found'
+p16
 I01
 ssS'n_books'
-p16
+p17
 I1
 sS'summary'
-p17
-VManly Wade Wellman (May 21, 1903 \u2013 April 5, 1986) was an American writer.\u000aWhile his science fiction and fantasy stories appeared in such pulps as Astounding Stories, Startling Stories, Unknown and Strange Stories, Wellman is best remembered as one of the most popular contributors to the legendary Weird Tales, and for his fantasy and horror stories set in the Appalachian Mountains, which draw on the native folklore of that region. Karl Edward Wagner referred to him as "the dean of fantasy writers." Wellman also wrote in a wide variety of other genres, including historical fiction, detective fiction, western fiction, juvenile fiction, and non-fiction.\u000aWellman was a long-time resident of North Carolina. He received many awards, including the World Fantasy Award and Edgar Allan Poe Award. In 2013, the North Carolina Speculative Fiction Foundation inaugurated an award named after him to honor other North Carolina authors of science fiction and fantasy. \u000aThree of Wellman's most famous recurring protagonists are (1) John, a.k.a. John the Balladeer, a.k.a. "Silver John", a wandering backwoods minstrel with a silver-stringed guitar, (2) the elderly "occult detective" Judge Pursuivant, and (3) John Thunstone, also an occult investigator.
 p18
-sS'books'
+VManly Wade Wellman (May 21, 1903 \u2013 April 5, 1986) was an American writer.\u000aWhile his science fiction and fantasy stories appeared in such pulps as Astounding Stories, Startling Stories, Unknown and Strange Stories, Wellman is best remembered as one of the most popular contributors to the legendary Weird Tales, and for his fantasy and horror stories set in the Appalachian Mountains, which draw on the native folklore of that region. Karl Edward Wagner referred to him as "the dean of fantasy writers." Wellman also wrote in a wide variety of other genres, including historical fiction, detective fiction, western fiction, juvenile fiction, and non-fiction.\u000aWellman was a long-time resident of North Carolina. He received many awards, including the World Fantasy Award and Edgar Allan Poe Award. In 2013, the North Carolina Speculative Fiction Foundation inaugurated an award named after him to honor other North Carolina authors of science fiction and fantasy. \u000aThree of Wellman's most famous recurring protagonists are (1) John, a.k.a. John the Balladeer, a.k.a. "Silver John", a wandering backwoods minstrel with a silver-stringed guitar, (2) the elderly "occult detective" Judge Pursuivant, and (3) John Thunstone, also an occult investigator.
 p19
-(lp20
+sS'books'
+p20
+(lp21
 I403
 asS'id'
-p21
+p22
 I130
 sb.

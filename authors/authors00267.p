@@ -14,31 +14,32 @@ S'name'
 p6
 VAlbert Teichner
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I3
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Orbit_(anthology_series)
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Orbit_(anthology_series)
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VOrbit was an American long-running series of anthologies of new fiction edited by Damon Knight, often featuring work by such writers as Gene Wolfe, Joanna Russ, R. A. Lafferty, and Kate Wilhelm, who was married to Knight. The anthologies tended toward the avant-garde edge of science fiction, but by no means exclusively; occasionally the volumes would feature some nonfiction critical writing or humorous anecdotes by Knight. Inspired by Frederik Pohl's Star Science Fiction series, and in its turn an influence on Harlan Ellison's Dangerous Visions volumes and many others, it ran for over a decade and twenty-one volumes, not including a "Best-of" collection which covered the years 1966-1976.
 p16
-sS'books'
+VOrbit was an American long-running series of anthologies of new fiction edited by Damon Knight, often featuring work by such writers as Gene Wolfe, Joanna Russ, R. A. Lafferty, and Kate Wilhelm, who was married to Knight. The anthologies tended toward the avant-garde edge of science fiction, but by no means exclusively; occasionally the volumes would feature some nonfiction critical writing or humorous anecdotes by Knight. Inspired by Frederik Pohl's Star Science Fiction series, and in its turn an influence on Harlan Ellison's Dangerous Visions volumes and many others, it ran for over a decade and twenty-one volumes, not including a "Best-of" collection which covered the years 1966-1976.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I863
 asS'id'
-p19
+p20
 I267
 sb.

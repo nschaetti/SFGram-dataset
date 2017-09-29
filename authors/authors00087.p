@@ -14,31 +14,32 @@ S'name'
 p6
 VVictoria Glad
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I3
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Bernadette_Hall
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Bernadette_Hall
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VBernadette Hall MNZM (born 1945 in Alexandra, New Zealand) is a New Zealand writer and poet. She was raised in what she describes as a small-city Catholic community that was proud, theatrical and pretty much enclosed. After a career as a teacher of Latin and classical studies she started writing full-time in her forties. She has held residencies at both Canterbury University and Victoria University and is widely published. She spent 10 years as the editor of Takahe magazine and five as the poetry editor of The Press, Christchurch's main daily newspaper.\u000aHall's The Lustre Jug is a finalist in the 2010 New Zealand Post Book Awards.
 p16
-sS'books'
+VBernadette Hall MNZM (born 1945 in Alexandra, New Zealand) is a New Zealand writer and poet. She was raised in what she describes as a small-city Catholic community that was proud, theatrical and pretty much enclosed. After a career as a teacher of Latin and classical studies she started writing full-time in her forties. She has held residencies at both Canterbury University and Victoria University and is widely published. She spent 10 years as the editor of Takahe magazine and five as the poetry editor of The Press, Christchurch's main daily newspaper.\u000aHall's The Lustre Jug is a finalist in the 2010 New Zealand Post Book Awards.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I258
 asS'id'
-p19
+p20
 I87
 sb.

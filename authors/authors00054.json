@@ -1,6 +1,9 @@
 {
     "name": "Rudyard Kipling", 
-    "country": 1, 
+    "countries": [
+        1, 
+        20
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Rudyard_Kipling", 
         "found": true

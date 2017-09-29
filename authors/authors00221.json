@@ -1,7 +1,9 @@
 {
     "bio": "After leaving Ziff-Davis, the magazines' publisher, he focused on writing his own work, often under different names. He ghost-wrote several juveniles, such as The Runaway Robot (1965), based on outlines by Lester del Rey, whose name appeared on the books. He also wrote the Sherlock Holmes part of Ellery Queen's A Study In Terror (1966), in which Ellery finds a previously unknown Sherlock Holmes manuscript.", 
     "name": "Paul W. Fairman", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Paul_W._Fairman", 
         "found": true

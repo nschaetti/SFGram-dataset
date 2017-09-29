@@ -1,6 +1,8 @@
 {
     "name": "John O'Keefe", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

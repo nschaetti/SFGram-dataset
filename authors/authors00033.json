@@ -1,6 +1,9 @@
 {
     "name": "Cory Doctorow", 
-    "country": 2, 
+    "countries": [
+        8, 
+        1
+    ], 
     "wikipedia": {
         "found": false
     }, 

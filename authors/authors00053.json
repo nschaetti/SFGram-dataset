@@ -1,6 +1,8 @@
 {
     "name": "Myron R. Lewis", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

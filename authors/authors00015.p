@@ -14,31 +14,32 @@ S'name'
 p6
 VMichel Verne
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I4
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Michel_Verne
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Michel_Verne
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VMichel Jean Pierre Verne (August 3, 1861 \u2013 March 5, 1925) was a writer, editor, and the son of Jules Verne.\u000aMichel was born in Paris, France. Because of his wayward behaviour, he was sent by his father to Mettray Penal Colony for six months in 1876. By the age of 19, he caused a scandal by eloping with an actress despite his famous father's objections. By 1883 his father finally came around and Michel got married\u2014only to abandon his newlywed wife and run away with 16-year-old Jeanne Reboul, with whom he had two children before his divorce got finalized. These and other issues caused much strain between Michel and his father, but by the time Jules died in 1905 relations between them had improved, and they had collaborated on some stories.\u000aMichel was in charge of publishing many of his father's last manuscripts, and it is rumored that Michel may have written some of them himself. Works previously attributed to Jules Verne but now considered to have been written by Michel include The Lighthouse at the End of the World and The Golden Volcano (in two parts, Claim on Forty Mile Creek and Flood and Flame). Michel Verne wrote in a similar genre to his father, and was considered by his father to be a good writer, but his works are now generally considered to be inferior to those of his father. Consequently, he is probably most famous for the controversy surrounding the authorship of his father's last works.\u000aSome of his works, like Un Express de L'Avenir and In the Year 2889 are notable for their use of pneumatic tubes.
 p16
-sS'books'
+VMichel Jean Pierre Verne (August 3, 1861 \u2013 March 5, 1925) was a writer, editor, and the son of Jules Verne.\u000aMichel was born in Paris, France. Because of his wayward behaviour, he was sent by his father to Mettray Penal Colony for six months in 1876. By the age of 19, he caused a scandal by eloping with an actress despite his famous father's objections. By 1883 his father finally came around and Michel got married\u2014only to abandon his newlywed wife and run away with 16-year-old Jeanne Reboul, with whom he had two children before his divorce got finalized. These and other issues caused much strain between Michel and his father, but by the time Jules died in 1905 relations between them had improved, and they had collaborated on some stories.\u000aMichel was in charge of publishing many of his father's last manuscripts, and it is rumored that Michel may have written some of them himself. Works previously attributed to Jules Verne but now considered to have been written by Michel include The Lighthouse at the End of the World and The Golden Volcano (in two parts, Claim on Forty Mile Creek and Flood and Flame). Michel Verne wrote in a similar genre to his father, and was considered by his father to be a good writer, but his works are now generally considered to be inferior to those of his father. Consequently, he is probably most famous for the controversy surrounding the authorship of his father's last works.\u000aSome of his works, like Un Express de L'Avenir and In the Year 2889 are notable for their use of pneumatic tubes.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I33
 asS'id'
-p19
+p20
 I15
 sb.

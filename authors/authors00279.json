@@ -1,6 +1,8 @@
 {
     "name": "William F. Nolan", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Nolan", 
         "found": true

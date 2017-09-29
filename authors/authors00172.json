@@ -1,6 +1,8 @@
 {
     "name": "Evelyn E. Smith", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Evelyn_E._Smith", 
         "found": true

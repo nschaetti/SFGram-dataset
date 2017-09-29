@@ -1,6 +1,8 @@
 {
     "name": "Donald Colvin", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/American_Jerusalem", 
         "found": true

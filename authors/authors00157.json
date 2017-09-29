@@ -1,6 +1,8 @@
 {
     "name": "Joseph Samachson", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Tomahawk_(comics)", 
         "found": true

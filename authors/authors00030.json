@@ -1,6 +1,8 @@
 {
     "name": "Poul Anderson", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/The_Many_Worlds_of_Poul_Anderson", 
         "found": true

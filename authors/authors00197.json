@@ -1,6 +1,8 @@
 {
     "name": "Arthur Leo Zagat", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Arthur_Leo_Zagat", 
         "found": true

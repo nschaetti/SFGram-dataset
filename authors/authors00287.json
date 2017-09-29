@@ -1,6 +1,8 @@
 {
     "name": "Sydney Van Scyoc", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Sydney_J._Van_Scyoc", 
         "found": true

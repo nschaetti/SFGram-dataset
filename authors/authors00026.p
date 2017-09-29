@@ -14,31 +14,32 @@ S'name'
 p6
 VLee Hawkins Garby
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/The_Skylark_of_Space
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/The_Skylark_of_Space
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VThe Skylark of Space is a science fiction novel by American writer Edward E. "Doc" Smith, written between 1915 and 1921 while Smith was working on his doctorate. Though the original idea for the novel was Smith's, he co-wrote the first part of the novel with Lee Hawkins Garby, the wife of his college classmate and later neighbor Carl Garby. The novel starts as an edisonade, but turns into a space travel adventure when the characters goes into deep space. The Skylark of Space is considered to be one of the earliest novels of interstellar travel and the first example of space opera. Originally serialized in 1928 in the magazine Amazing Stories, it was first published in book form in 1946 by the Buffalo Book Co. The novel was followed by three sequels, beginning with Skylark Three.
 p16
-sS'books'
+VThe Skylark of Space is a science fiction novel by American writer Edward E. "Doc" Smith, written between 1915 and 1921 while Smith was working on his doctorate. Though the original idea for the novel was Smith's, he co-wrote the first part of the novel with Lee Hawkins Garby, the wife of his college classmate and later neighbor Carl Garby. The novel starts as an edisonade, but turns into a space travel adventure when the characters goes into deep space. The Skylark of Space is considered to be one of the earliest novels of interstellar travel and the first example of space opera. Originally serialized in 1928 in the magazine Amazing Stories, it was first published in book form in 1946 by the Buffalo Book Co. The novel was followed by three sequels, beginning with Skylark Three.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I66
 asS'id'
-p19
+p20
 I26
 sb.

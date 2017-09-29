@@ -1,6 +1,8 @@
 {
     "name": "John Victor Peterson", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

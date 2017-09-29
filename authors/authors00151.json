@@ -1,7 +1,9 @@
 {
     "bio": "Moore was born on January 24, 1911 in Indianapolis, Indiana. She was chronically ill as a child and spent much of her time reading literature of the fantastic. She left college during the Great Depression to work as a secretary at the Fletcher Trust Company in Indianapolis. Moore died on April 4, 1987 at her home in Hollywood, California after a long battle with Alzheimer's. ", 
     "name": "C. L. Moore", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/C._L._Moore", 
         "found": true

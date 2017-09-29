@@ -14,33 +14,34 @@ S'name'
 p6
 VMichael Shaara
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Michael_Shaara
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Michael_Shaara
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I3
 sS'summary'
-p15
-VMichael Shaara (June 23, 1928 \u2013 May 5, 1988) was an American author of science fiction, sports fiction, and historical fiction. He was born to Italian immigrant parents (the family name was originally spelled Sciarra, which in Italian is pronounced in a similar way) in Jersey City, New Jersey, graduated in 1951 from Rutgers University, where he joined Theta Chi, and served as a sergeant in the 82nd Airborne Division prior to the Korean War.\u000aBefore Shaara began selling science fiction stories to fiction magazines during the 1950s, he was an amateur boxer and police officer. He later taught literature at Florida State University while continuing to write fiction. The stress of this and his cigarette smoking caused him, at the early age of 36, to have a heart attack, from which he recovered completely. His novel about the Battle of Gettysburg, The Killer Angels, won the Pulitzer Prize for Fiction in 1975. Shaara died of a heart attack in 1988 aged fifty-nine.\u000aShaara's son, Jeffrey Shaara, is also a popular writer of historical fiction; most notably sequels to his father's best-known novel. His most famous is the prequel to The Killer Angels, Gods and Generals. Jeffrey got Michael's last book, For Love of the Game, published three years after he died. Nowadays there is a Michael Shaara Award for Excellence in Civil War Fiction, established by Jeffrey Shaara, awarded yearly at Gettysburg College.\u000aShaara's daughter, Lila Shaara, is also a novelist.
 p16
-sS'books'
+VMichael Shaara (June 23, 1928 \u2013 May 5, 1988) was an American author of science fiction, sports fiction, and historical fiction. He was born to Italian immigrant parents (the family name was originally spelled Sciarra, which in Italian is pronounced in a similar way) in Jersey City, New Jersey, graduated in 1951 from Rutgers University, where he joined Theta Chi, and served as a sergeant in the 82nd Airborne Division prior to the Korean War.\u000aBefore Shaara began selling science fiction stories to fiction magazines during the 1950s, he was an amateur boxer and police officer. He later taught literature at Florida State University while continuing to write fiction. The stress of this and his cigarette smoking caused him, at the early age of 36, to have a heart attack, from which he recovered completely. His novel about the Battle of Gettysburg, The Killer Angels, won the Pulitzer Prize for Fiction in 1975. Shaara died of a heart attack in 1988 aged fifty-nine.\u000aShaara's son, Jeffrey Shaara, is also a popular writer of historical fiction; most notably sequels to his father's best-known novel. His most famous is the prequel to The Killer Angels, Gods and Generals. Jeffrey got Michael's last book, For Love of the Game, published three years after he died. Nowadays there is a Michael Shaara Award for Excellence in Civil War Fiction, established by Jeffrey Shaara, awarded yearly at Gettysburg College.\u000aShaara's daughter, Lila Shaara, is also a novelist.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I750
 aI754
 aI849
 asS'id'
-p19
+p20
 I243
 sb.

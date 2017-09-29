@@ -1,6 +1,8 @@
 {
     "name": "S. P. Meek", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Meek_(surname)", 
         "found": true

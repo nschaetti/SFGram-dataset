@@ -1,6 +1,8 @@
 {
     "name": "Marion Zimmer Bradley", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Marion_Zimmer_Bradley%27s_Fantasy_Magazine", 
         "found": true

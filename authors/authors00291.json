@@ -1,6 +1,8 @@
 {
     "name": "G. L. Vandenburg", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

@@ -1,6 +1,8 @@
 {
     "name": "George O. Smith", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/George_H._Smith_(fiction_author)", 
         "found": true

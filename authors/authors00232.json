@@ -1,6 +1,8 @@
 {
     "name": "Anne Walker", 
-    "country": 1, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

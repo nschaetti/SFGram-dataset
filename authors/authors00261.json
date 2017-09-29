@@ -1,6 +1,8 @@
 {
     "name": "Victor A. Endersby", 
-    "country": 20, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "found": false
     }, 

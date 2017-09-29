@@ -1,7 +1,9 @@
 {
     "bio": "Bixby was the editor of Planet Stories from Summer 1950 to July 1951, and editor of Two Complete Science Adventure Novels from Winter 1950 to July 1951.\nHis best-known television works include two original Star Trek episodes: 1967's \"Mirror, Mirror\", which introduced the franchise's concept of the \"Mirror Universe\"; and 1969's \"Requiem for Methuselah\", about \"Flint\", a 6,000-year-old man. But his short story \"It's a Good Life\" (1953), adapted as a teleplay for The Twilight Zone by Rod Serling, is arguably his most generally known work to reach the small screen. It was popular enough to be revisited in the 1983 Twilight Zone film, and famous enough to be parodied in the Simpsons Halloween 1991 episode \"Treehouse of Horror II\". His 1968 Star Trek episode \"Day of the Dove\" is also much respected by fans of science fiction. Bixby also conceived and co-wrote the story for the 1966 film Fantastic Voyage,  Bantam Books obtained the rights for a paperback novelization based on the screenplay and approached Isaac Asimov to write it.\nJerome Bixby's last work, a screenplay The Man from Earth, was conceived in the early 1960s and completed on his deathbed in April 1998. In 2007 it was turned into an independent motion picture executive produced by his son Emerson Bixby, directed by Richard Schenkman and starring David Lee Smith, William Katt, Richard Riehle, Tony Todd, Annika Peterson, Alexis Thorpe, Ellen Crawford and John Billingsley.\nBixby wrote the original screenplay for 1958's It! The Terror from Beyond Space, which was the inspiration for 1979's Alien. The Star Trek: Deep Space Nine seventh season (1999) Mirror Universe episode, \"The Emperor's New Cloak\", is dedicated to Bixby's memory.", 
     "name": "Jerome Bixby", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Jerome_Bixby", 
         "found": true

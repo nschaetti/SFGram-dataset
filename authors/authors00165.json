@@ -1,7 +1,9 @@
 {
     "bio": "Wandrei was born in Saint Paul, Minnesota. All of his grandparents were early Minnesota settlers. Donald's father, Albert Christian Wandrei, became chief editor of West Publishing Company, America's leading publisher of law books. Donald grew up in his parents' house at 1152 Portland Ave, St Paul and lived there most of his life save for a stint in the Army and occasional sojourns in New York and Hollywood. He loved frequent rambles in the woods along the Minnesota River; it was Wandrei who later taught August Derleth the fine art of morel hunting. ", 
     "name": "Donald A. Wandrei", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Donald_Wandrei", 
         "found": true

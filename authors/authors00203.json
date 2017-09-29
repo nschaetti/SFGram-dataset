@@ -1,6 +1,8 @@
 {
     "name": "Lyn Venable", 
-    "country": 17, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

@@ -1,6 +1,8 @@
 {
     "name": "Sylvia Jacobs", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Sylvia_Brooks", 
         "found": true

@@ -1,6 +1,8 @@
 {
     "name": "Miles John Breuer", 
-    "country": 4, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Miles_J._Breuer", 
         "found": true

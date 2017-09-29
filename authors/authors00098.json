@@ -1,6 +1,8 @@
 {
     "name": "William Tenn", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Of_Men_and_Monsters", 
         "found": true

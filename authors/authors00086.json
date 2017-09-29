@@ -1,7 +1,9 @@
 {
     "bio": "Williamson was born April 29, 1908 in Bisbee, Arizona Territory, and spent his early childhood in western Texas. In search of better pastures, his family migrated to rural New Mexico in a horse-drawn covered wagon in 1915. The farming was difficult there and the family turned to ranching, which they continue to this day. He served in the U.S. Army Air Corps in World War II as a weather forecaster.", 
     "name": "Jack Williamson", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Jack_Williamson", 
         "found": true

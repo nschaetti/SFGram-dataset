@@ -14,31 +14,32 @@ S'name'
 p6
 VAllan Howard
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I3
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Harry_Allan
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Harry_Allan
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VHarry Howard Barton Allan CBE (27 April 1882 \u2013 29 October 1957) was a New Zealand teacher, botanist, scientific administrator and writer.\u000aAllan was born on 27 April 1882 in Nelson, and was educated at Nelson College, and Auckland University College, from where he graduated MA in 1908. For his lengthy botanical study of Mount Peel, he was awarded a Doctor of Science in 1923.\u000aIn the 1948 King's Birthday Honours Allan was appointed a Commander of the Order of the British Empire for services to botany in New Zealand.\u000a\u000a
 p16
-sS'books'
+VHarry Howard Barton Allan CBE (27 April 1882 \u2013 29 October 1957) was a New Zealand teacher, botanist, scientific administrator and writer.\u000aAllan was born on 27 April 1882 in Nelson, and was educated at Nelson College, and Auckland University College, from where he graduated MA in 1908. For his lengthy botanical study of Mount Peel, he was awarded a Doctor of Science in 1923.\u000aIn the 1948 King's Birthday Honours Allan was appointed a Commander of the Order of the British Empire for services to botany in New Zealand.\u000a\u000a
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I840
 asS'id'
-p19
+p20
 I264
 sb.

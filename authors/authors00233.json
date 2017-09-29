@@ -1,6 +1,8 @@
 {
     "name": "Stanton A. Coblentz", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Coblentz", 
         "found": true

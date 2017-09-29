@@ -14,33 +14,34 @@ S'name'
 p6
 VHenry Kuttner
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Kuttner
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Kuttner
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I3
 sS'summary'
-p15
-VKuttner is a German surname. Notable people with the surname include:\u000aBrian Kuttner mathematician\u000aErika Kuttner-Perreau\u000aHenry Kuttner (1915\u20131958) American author of science fiction, fantasy and horror\u000aJosua Heschel Kuttner (c.1803 \u2013 1878), Jewish Orthodox scholar and rabbi\u000aKurt Küttner (1907\u20131964) German SS officer\u000aRobert Kuttner, American journalist and writer\u000aRobert E. Kuttner (1927\u20131987) American biologist\u000aSarah Kuttner (born 1979) German presenter and writer\u000aStuart Kuttner (born 1939 or 1940), former newspaper editor\u000aStephan Kuttner (1907-1996), German law expert
 p16
-sS'books'
+VKuttner is a German surname. Notable people with the surname include:\u000aBrian Kuttner mathematician\u000aErika Kuttner-Perreau\u000aHenry Kuttner (1915\u20131958) American author of science fiction, fantasy and horror\u000aJosua Heschel Kuttner (c.1803 \u2013 1878), Jewish Orthodox scholar and rabbi\u000aKurt Küttner (1907\u20131964) German SS officer\u000aRobert Kuttner, American journalist and writer\u000aRobert E. Kuttner (1927\u20131987) American biologist\u000aSarah Kuttner (born 1979) German presenter and writer\u000aStuart Kuttner (born 1939 or 1940), former newspaper editor\u000aStephan Kuttner (1907-1996), German law expert
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I379
 aI613
 aI634
 asS'id'
-p19
+p20
 I123
 sb.

@@ -14,29 +14,30 @@ S'name'
 p6
 VJoseph Samachson
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Tomahawk_(comics)
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Tomahawk_(comics)
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I8
 sS'summary'
-p15
-VTomahawk is an American comic book character whose adventures were published by DC Comics during the 1940s, 1950s and 1960s as a backup feature in Star Spangled Comics and World's Finest Comics and in his own eponymous series. He was created by writer Joe Samachson and artist Edmund Good, and first appeared in Star-Spangled Comics #69 (June 1947). Tomahawk's uniqueness stems in part from the time frame of his fictional adventures: the American Revolutionary War.
 p16
-sS'books'
+VTomahawk is an American comic book character whose adventures were published by DC Comics during the 1940s, 1950s and 1960s as a backup feature in Star Spangled Comics and World's Finest Comics and in his own eponymous series. He was created by writer Joe Samachson and artist Edmund Good, and first appeared in Star-Spangled Comics #69 (June 1947). Tomahawk's uniqueness stems in part from the time frame of his fictional adventures: the American Revolutionary War.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I469
 aI601
 aI692
@@ -46,6 +47,6 @@ aI937
 aI962
 aI964
 asS'id'
-p19
+p20
 I157
 sb.

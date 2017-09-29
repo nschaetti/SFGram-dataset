@@ -1,6 +1,8 @@
 {
     "name": "Winston K. Marks", 
-    "country": 1, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Winston_Churchill", 
         "found": true

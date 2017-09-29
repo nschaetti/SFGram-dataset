@@ -14,32 +14,33 @@ S'name'
 p6
 VRalph Milne Farley
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/The_Radio_Man
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/The_Radio_Man
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I2
 sS'summary'
-p15
-VThe Radio Man is a science fiction novel by American writer Ralph Milne Farley. It is the first book in Farley's Radio Man series. It was first published in book form in 1948 by Fantasy Publishing Company, Inc. in an edition of 1,000 copies. The novel was originally serialized in the magazine Argosy.
 p16
-sS'books'
+VThe Radio Man is a science fiction novel by American writer Ralph Milne Farley. It is the first book in Farley's Radio Man series. It was first published in book form in 1948 by Fantasy Publishing Company, Inc. in an edition of 1,000 copies. The novel was originally serialized in the magazine Argosy.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I306
 aI333
 asS'id'
-p19
+p20
 I99
 sb.

@@ -1,6 +1,8 @@
 {
     "name": "Paul Ernst", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Paul_Ernst_(German_writer)", 
         "found": true

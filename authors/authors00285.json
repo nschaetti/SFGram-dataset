@@ -1,6 +1,8 @@
 {
     "name": "David C. Knight", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

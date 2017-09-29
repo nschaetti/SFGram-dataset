@@ -1,6 +1,8 @@
 {
     "name": "G. C. Edmondson", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/G._C._Edmondson", 
         "found": true

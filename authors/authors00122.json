@@ -1,7 +1,9 @@
 {
     "bio": "Matheson was born in Allendale, New Jersey, to Norwegian immigrants Bertolf and Fanny, who divorced when he was 8. Matheson subsequently was raised in Brooklyn, New York by his mother. His early writing influences were the film Dracula, novels by Kenneth Roberts, and a poem he saw in the newspaper The Brooklyn Eagle, where at age 8 he would publish his first short story. After graduating from Brooklyn Technical High School, he served with the United States Army in Europe during World War II, an experience that formed the basis for his 1960 novel The Beardless Warriors. After returning home, he attended the Missouri School of Journalism at the University of Missouri, earning his Bachelor of Arts degree in 1949. Afterward, he moved to California.  In 1952, Matheson married Ruth Ann Woodson, whom he met in California. They had four children. Bettina Mayberry, Richard Christian Matheson, Chris Matheson and Ali Matheson.\nRichard Christian, Chris and Ali became writers of fiction and screenplays.\nMatheson died on June 23, 2013 at his home in Los Angeles, California, aged 87.", 
     "name": "Richard Matheson", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Richard_Matheson", 
         "found": true

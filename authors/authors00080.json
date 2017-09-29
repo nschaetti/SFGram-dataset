@@ -1,6 +1,8 @@
 {
     "name": "Al Sevcik", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

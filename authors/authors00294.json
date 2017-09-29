@@ -1,6 +1,8 @@
 {
     "name": "Ellsworth Douglass", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "found": false
     }, 

@@ -1,6 +1,8 @@
 {
     "name": "Christopher Anvil", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Christopher_Anvil_bibliography", 
         "found": true

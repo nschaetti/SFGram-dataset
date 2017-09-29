@@ -1,6 +1,8 @@
 {
     "name": "Robert Moore Williams", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Robert_Moore_Williams", 
         "found": true

@@ -1,6 +1,8 @@
 {
     "name": "William Carroll", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

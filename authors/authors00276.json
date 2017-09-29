@@ -1,6 +1,8 @@
 {
     "name": "F. E. Hardart", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

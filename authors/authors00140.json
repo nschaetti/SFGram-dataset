@@ -1,6 +1,8 @@
 {
     "name": "Allen Glasser", 
-    "country": 1, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/The_Time_Traveller_(fanzine)", 
         "found": true

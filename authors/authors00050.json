@@ -1,6 +1,8 @@
 {
     "name": "Robert Silverberg", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Alpha_6_(Robert_Silverberg_anthology)", 
         "found": true

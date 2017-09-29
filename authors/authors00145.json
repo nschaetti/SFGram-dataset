@@ -1,6 +1,8 @@
 {
     "name": "Bill Garson", 
-    "country": 3, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "found": false
     }, 

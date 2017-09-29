@@ -1,6 +1,8 @@
 {
     "name": "Allen Kim Lang", 
-    "country": 3, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Kim_Possible", 
         "found": true

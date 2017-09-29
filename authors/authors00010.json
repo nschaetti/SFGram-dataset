@@ -1,6 +1,8 @@
 {
     "name": "Edwin Abbott Abbott", 
-    "country": 1, 
+    "countries": [
+        1
+    ], 
     "wikipedia": {
         "found": false
     }, 

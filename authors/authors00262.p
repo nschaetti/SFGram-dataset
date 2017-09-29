@@ -14,31 +14,32 @@ S'name'
 p6
 VArthur Porges
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Great_Science-Fiction
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Great_Science-Fiction
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VGreat Science-Fiction was a science fiction short story anthology edited by Tony Licata, published in 1965.\u000aThe title was originally conceived of as "The Bizarre." It was changed by the publisher to the more generic and 'safer' Great Science Fiction. There was concern about possible censorship at the time. Bizarre was an adjective often used in sex ads and the publisher also published The National Insider which ran personal ads. Clearly the word bizarre was not one that could be used in a personal ad.\u000aThe stories by some of the top writers that I had encountered at the time (early '60s) lived up to my original title.
 p16
-sS'books'
+VGreat Science-Fiction was a science fiction short story anthology edited by Tony Licata, published in 1965.\u000aThe title was originally conceived of as "The Bizarre." It was changed by the publisher to the more generic and 'safer' Great Science Fiction. There was concern about possible censorship at the time. Bizarre was an adjective often used in sex ads and the publisher also published The National Insider which ran personal ads. Clearly the word bizarre was not one that could be used in a personal ad.\u000aThe stories by some of the top writers that I had encountered at the time (early '60s) lived up to my original title.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I824
 asS'id'
-p19
+p20
 I262
 sb.

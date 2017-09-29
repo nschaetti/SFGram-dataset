@@ -1,6 +1,8 @@
 {
     "name": "Tom Purdom", 
-    "country": 3, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Tom_Purdom", 
         "found": true

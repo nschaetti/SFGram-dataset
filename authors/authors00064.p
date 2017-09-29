@@ -14,29 +14,30 @@ S'name'
 p6
 VLaurence M. Janifer
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Mark_Phillips_(author)
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Mark_Phillips_(author)
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I13
 sS'summary'
-p15
-VMark Phillips was the joint pseudonym used by science fiction writers Laurence Mark Janifer and Randall Philip Garrett in the early 1960s. Together they authored several humorous short novels in the so-called "Psi-Power" series: Brain Twister (1962), The Impossibles (1963), and Supermind (1963). For Brain Twister they were nominated for the Hugo Award for Best Novel in 1960 (under the novel's original title, "That Sweet Little Old Lady"). They also co-authored the novel Pagan Passions (1959) with Garrett using his own name and Janifer using his Larry M. Harris pseudonym.
 p16
-sS'books'
+VMark Phillips was the joint pseudonym used by science fiction writers Laurence Mark Janifer and Randall Philip Garrett in the early 1960s. Together they authored several humorous short novels in the so-called "Psi-Power" series: Brain Twister (1962), The Impossibles (1963), and Supermind (1963). For Brain Twister they were nominated for the Hugo Award for Best Novel in 1960 (under the novel's original title, "That Sweet Little Old Lady"). They also co-authored the novel Pagan Passions (1959) with Garrett using his own name and Janifer using his Larry M. Harris pseudonym.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I194
 aI216
 aI281
@@ -51,6 +52,6 @@ aI843
 aI856
 aI879
 asS'id'
-p19
+p20
 I64
 sb.

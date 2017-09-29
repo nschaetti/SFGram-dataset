@@ -1,6 +1,8 @@
 {
     "name": "Lester Del Rey", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Winston_Science_Fiction", 
         "found": true

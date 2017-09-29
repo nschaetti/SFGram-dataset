@@ -1,6 +1,8 @@
 {
     "name": "William Campbell Gault", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/William_Campbell_Gault", 
         "found": true

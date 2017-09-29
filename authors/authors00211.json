@@ -1,6 +1,8 @@
 {
     "name": "James Stamers", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

@@ -1,6 +1,8 @@
 {
     "name": "Donald Keith", 
-    "country": 3, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Keith_Monroe", 
         "found": true

@@ -1,6 +1,8 @@
 {
     "name": "a Thread", 
-    "country": 18, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

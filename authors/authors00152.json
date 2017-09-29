@@ -1,6 +1,8 @@
 {
     "name": "the Tale", 
-    "country": 1, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

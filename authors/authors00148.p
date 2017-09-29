@@ -14,29 +14,30 @@ S'name'
 p6
 VRaymond Z. Gallun
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Raymond_Z._Gallun
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Raymond_Z._Gallun
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I8
 sS'summary'
-p15
-VRaymond Zinke Gallun (March 22, 1911 \u2013 April 2, 1994) was an American science fiction writer.\u000aGallun (rhymes with "balloon") was born in Beaver Dam, Wisconsin. He left college after one year and travelled in Europe, living a drifter's existence, working a multitude of jobs around the world in the years leading up to World War II.\u000aHe was among the stalwart group of early sci-fi pulp writers who popularized the genre. He sold many popular stories to pulp magazines in the 1930s. "Old Faithful" (1934) was his first noted story. "The Gentle Brain" was published in "Science Fiction Quarterly" under the pseudonym Arthur Allport.\u000aHis first book, People Minus X, was published in 1957 by Simon & Schuster, followed by The Planet Strappers in 1961 (Pyramid). The Ballantine collection issued in 1978, The Best of Raymond Z. Gallun, provides a selection of his early work. Gallun was honored with the I-CON Lifetime Achievement Award in 1985 at I-CON IV; the award was later renamed The Raymond Z. Gallun Award.\u000aHis pen names include Dow Elstar, E.V. Raymond and William Callahan.\u000aA posthumous autobiography, Starclimber, authored in part by Gallun and completed by Jeffrey M. Elliot, was published in September 2007. There is an extensive interview with Gallun about his life and career in Eric Leif Davin's Pioneers of Wonder.\u000a\u000a
 p16
-sS'books'
+VRaymond Zinke Gallun (March 22, 1911 \u2013 April 2, 1994) was an American science fiction writer.\u000aGallun (rhymes with "balloon") was born in Beaver Dam, Wisconsin. He left college after one year and travelled in Europe, living a drifter's existence, working a multitude of jobs around the world in the years leading up to World War II.\u000aHe was among the stalwart group of early sci-fi pulp writers who popularized the genre. He sold many popular stories to pulp magazines in the 1930s. "Old Faithful" (1934) was his first noted story. "The Gentle Brain" was published in "Science Fiction Quarterly" under the pseudonym Arthur Allport.\u000aHis first book, People Minus X, was published in 1957 by Simon & Schuster, followed by The Planet Strappers in 1961 (Pyramid). The Ballantine collection issued in 1978, The Best of Raymond Z. Gallun, provides a selection of his early work. Gallun was honored with the I-CON Lifetime Achievement Award in 1985 at I-CON IV; the award was later renamed The Raymond Z. Gallun Award.\u000aHis pen names include Dow Elstar, E.V. Raymond and William Callahan.\u000aA posthumous autobiography, Starclimber, authored in part by Gallun and completed by Jeffrey M. Elliot, was published in September 2007. There is an extensive interview with Gallun about his life and career in Eric Leif Davin's Pioneers of Wonder.\u000a\u000a
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I440
 aI504
 aI508
@@ -46,6 +47,6 @@ aI681
 aI758
 aI792
 asS'id'
-p19
+p20
 I148
 sb.

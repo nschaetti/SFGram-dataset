@@ -14,29 +14,30 @@ S'name'
 p6
 VC. M. Kornbluth
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/The_Explorers_(collection)
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/The_Explorers_(collection)
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I8
 sS'summary'
-p15
-VThe Explorers is the first collection of stories by science fiction writer C. M. Kornbluth, originally published in paperback by Ballantine Books in 1954. Ballantine reissued the collection in 1963. While no further editions of the collection were published, six of its nine stories were included in Ballantine's 1977 The Best of C. M. Kornbluth, and all the stories are contained in NESFA's 1997 His Share of Glory: The Complete Short Science Fiction of C. M. Kornbluth.\u000a\u000a
 p16
-sS'books'
+VThe Explorers is the first collection of stories by science fiction writer C. M. Kornbluth, originally published in paperback by Ballantine Books in 1954. Ballantine reissued the collection in 1963. While no further editions of the collection were published, six of its nine stories were included in Ballantine's 1977 The Best of C. M. Kornbluth, and all the stories are contained in NESFA's 1997 His Share of Glory: The Complete Short Science Fiction of C. M. Kornbluth.\u000a\u000a
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I142
 aI171
 aI361
@@ -46,6 +47,6 @@ aI540
 aI596
 aI829
 asS'id'
-p19
+p20
 I51
 sb.

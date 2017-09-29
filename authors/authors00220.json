@@ -1,6 +1,8 @@
 {
     "name": "Daniel F. Galouye", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Daniel_F._Galouye", 
         "found": true

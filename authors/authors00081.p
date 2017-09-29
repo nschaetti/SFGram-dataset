@@ -14,31 +14,32 @@ S'name'
 p6
 VChristopher Anvil
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Christopher_Anvil_bibliography
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Christopher_Anvil_bibliography
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VThis is complete works by American science fiction writer Christopher Anvil, a pseudonym used by Harry Christopher Crosby.
 p16
-sS'books'
+VThis is complete works by American science fiction writer Christopher Anvil, a pseudonym used by Harry Christopher Crosby.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I245
 asS'id'
-p19
+p20
 I81
 sb.

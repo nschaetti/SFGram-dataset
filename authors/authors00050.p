@@ -14,29 +14,30 @@ S'name'
 p6
 VRobert Silverberg
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Alpha_6_(Robert_Silverberg_anthology)
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Alpha_6_(Robert_Silverberg_anthology)
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I7
 sS'summary'
-p15
-VAlpha 6 is a science fiction anthology edited by American writer Robert Silverberg, first published in 1976.
 p16
-sS'books'
+VAlpha 6 is a science fiction anthology edited by American writer Robert Silverberg, first published in 1976.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I141
 aI208
 aI209
@@ -45,6 +46,6 @@ aI256
 aI323
 aI443
 asS'id'
-p19
+p20
 I50
 sb.

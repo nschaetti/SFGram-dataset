@@ -1,7 +1,9 @@
 {
     "bio": "Cummings was born and raised in Winnipeg, Manitoba, as were all of the other original members of The Guess Who. Burton was brought up by his mother Rhoda and her parents; he never knew his father, who left when he was less than a year old. Burton attended St. John's High School. He dropped out of school, due to poor grades, when he was sixteen. Forty-five years later, in 2010, his former high school awarded him an honorary diploma. His first band was a local Winnipeg R&B group, The Deverons, with an 'E' (not to be confused with the band The Devrons who had Country/R&B hits in the early 1960s). The Deverons with Cummings released two singles on the tiny REO Records label. The first single, \"Blue Is The Night / She's Your Lover\", was cut at a Winnipeg radio station. The second single, \"Lost Love / Feel Alright\", was recorded at Kay Bank Studios in Minneapolis, where The Guess Who frequently recorded. In January 1966 he was asked by The Guess Who to join the band, originally as a replacement for recently departed keyboardist Bob Ashley. By May 1966 Cummings had assumed the role of lead singer, a position vacated by original front man Chad Allan who left the group that April.", 
     "name": "M. A. Cummings", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Burton_Cummings", 
         "found": true

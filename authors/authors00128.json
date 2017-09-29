@@ -1,7 +1,9 @@
 {
     "bio": "He was born in Compi\u00e8gne, France, the son of a carpenter. He studied to become a notary, but was more interested in caricature. In 1866 he joined Journal amusant as an illustrator. In 1880, with Georges Decaux, he founded his own magazine La Caricature, which he edited for 12 years. He illustrated tourist guides, works of popular history, and literary classics. His fame disappeared after World War I.", 
     "name": "Albert Robida", 
-    "country": 4, 
+    "countries": [
+        4
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Albert_Robida", 
         "found": true

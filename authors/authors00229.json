@@ -1,6 +1,8 @@
 {
     "name": "Frank Banta", 
-    "country": 2, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Frank_Wead", 
         "found": true

@@ -1,6 +1,8 @@
 {
     "name": "Patrick Fahy", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/List_of_Galway_people", 
         "found": true

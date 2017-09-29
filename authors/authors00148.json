@@ -1,6 +1,8 @@
 {
     "name": "Raymond Z. Gallun", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Raymond_Z._Gallun", 
         "found": true

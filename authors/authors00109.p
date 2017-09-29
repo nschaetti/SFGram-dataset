@@ -14,31 +14,32 @@ S'name'
 p6
 VRobert Abernathy
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Abernathy_(surname)
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Abernathy_(surname)
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VAbernathy, a chiefly North American variation of the surname Abernethy, may refer to:\u000aAnne Abernathy (born 1953), American luger\u000aBen Abernathy, American editor\u000aBrent Abernathy (born 1977), American baseball player\u000aCharles F. Abernathy, American law professor\u000aConstance Abernathy (1931-1994), American architect and jeweller\u000aDonzaleigh Abernathy, American actress\u000aFrankie Abernathy (1981\u20132007), American castmate on MTV's The Real World: San Diego\u000aJack Abernathy (1876-1941), United States Marshall\u000aKathleen Quinn Abernathy (born 1956), Commissioner of the United States Federal Communications Commission from 2001 to 2005\u000aLouis and Temple Abernathy, children of Jack Abernathy\u000aRalph Abernathy (1926\u20131990), American civil rights leader\u000aRalph David Abernathy III (1959-2016), American politician\u000aRobert Abernathy (1924\u20131990), American science fiction writer\u000aTed Abernathy (1933\u20132004), American baseball player\u000aWilliam J. Abernathy (1933-1983), US-American business professor
 p16
-sS'books'
+VAbernathy, a chiefly North American variation of the surname Abernethy, may refer to:\u000aAnne Abernathy (born 1953), American luger\u000aBen Abernathy, American editor\u000aBrent Abernathy (born 1977), American baseball player\u000aCharles F. Abernathy, American law professor\u000aConstance Abernathy (1931-1994), American architect and jeweller\u000aDonzaleigh Abernathy, American actress\u000aFrankie Abernathy (1981\u20132007), American castmate on MTV's The Real World: San Diego\u000aJack Abernathy (1876-1941), United States Marshall\u000aKathleen Quinn Abernathy (born 1956), Commissioner of the United States Federal Communications Commission from 2001 to 2005\u000aLouis and Temple Abernathy, children of Jack Abernathy\u000aRalph Abernathy (1926\u20131990), American civil rights leader\u000aRalph David Abernathy III (1959-2016), American politician\u000aRobert Abernathy (1924\u20131990), American science fiction writer\u000aTed Abernathy (1933\u20132004), American baseball player\u000aWilliam J. Abernathy (1933-1983), US-American business professor
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I337
 asS'id'
-p19
+p20
 I109
 sb.

@@ -14,31 +14,32 @@ S'name'
 p6
 VC. C. Beck
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Beck_(surname)
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Beck_(surname)
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VBeck is a surname of Germanic descent, meaning "brook" or "stream" (related to Old Norse bekkr), and is fairly common in English-speaking countries, Germany and Denmark. The German name can also be a variant of Becker, which is an occupational surname meaning "baker." In Hebrew, it exists as an abbreviated form of B'nei Kiddoshim ("sons of the martyrs"). Notable people with this surname include:\u000aAaron T. Beck, founder of modern cognitive therapy\u000aAdam Beck (1857\u20131925), Canadian politician and hydro-electricity advocate\u000aAndrás Beck (1911\u20131985), Hungarian sculptor\u000aAndreas Beck (footballer) (born 1987), German football player\u000aAndreas Beck (tennis), German tennis player\u000aAudrey P. Beck (1931-1983), American educator and politician\u000aBill Beck (1900\u20131965), American college sports coach\u000aC. C. Beck, American cartoonist\u000aCharlie Beck, appointed Chief of the Los Angeles Police Department\u000aChristophe Beck, Canadian composer for film and TV, most notable for his work on Buffy the Vampire Slayer\u000aClaude Beck (1894\u20131971), American cardiac surgeon who invented the defibrillator\u000aClifford W. Beck, American politician\u000aCorey Beck (born 1971), American basketball player\u000a"Dr. Beck", name taken by the Count de Werdinsky (1803\u20131856)\u000aEdward S. Beck (born 1946) Head, Susquehanna Institute, President, Scholars for Peace in the Middle East\u000aFranz Ignaz Beck, (1734-1809), German classical composer\u000aGad Beck (1923-2012), German educator, author, activist, and survivor of the Holocaust\u000aGeorge Beck (artist), artist and poet\u000aGina Beck, English actress and singer\u000aGünther Beck von Mannagetta und Lerchenau, German botanist\u000aHans Beck (1929\u20132009), German inventor\u000aHarry Beck, designer of the London Underground map\u000aHarry Beck (footballer)\u000aJakob Sigismund Beck, German philosopher\u000aJames M. Beck (1861\u20131936), United States Solicitor General and US Congressman from Pennsylvania\u000aJeff Beck (born 1944), British electric guitarist\u000aJoe Beck (1945\u20132008), American jazz guitarist\u000aJohn Beck (actor) (born 1943), American actor\u000aJohn Beck (footballer), British football manager\u000aJohn Beck (gridiron football), NFL player and former BYU quarterback\u000aJohn Brodhead Beck, 19th-century United States physician\u000aJonathan Mock Beck (1935\u20132006), American mathematician\u000aJoko Beck, an American Zen teacher\u000aJózef Beck, Polish diplomat and military officer, Minister of Foreign Affairs of the Republic of Poland (1932-1939)\u000aJózsef Beck, a mathematician\u000aJustin Beck, American guitarist\u000aKarol Beck, Slovakian tennis player\u000aKent Beck, major proponent of Extreme Programming\u000aKimberly Beck (born 1956), American actress\u000aKristin Beck\u000aKurt Beck (born 1949), German politician (SPD)\u000aLaetitia Beck (born 1992), Israeli golfer\u000aLewis Caleb Beck, 19th-century United States naturalist and physician\u000aLudwig Beck, German general and participant in the failed attempt to assassinate Adolf Hitler\u000aMichael Beck (born 1949), American actor\u000aMikkel Beck, Danish professional football player\u000aPaul W. Beck, American military aviation pioneer\u000aPeter Beck (politician) (born 1952), politician from Ohio\u000aPeter Beck (priest) (born c. 1948/1949), dean of ChristChurch Cathedral in Christchurch, New Zealand\u000aRick Beck (born 1956), member of the Arkansas House of Representatives\u000aRobert Beck, alias of African American writer Iceberg Slim\u000aRobert Beck, alias of former D-12 rapper Karnail Pitts\u000aRobert Nason Beck, pioneer radiologist\u000aRobin Beck (born 1954), American singer\u000aRod Beck (1968\u20132007), former relief pitcher in Major League Baseball\u000aRollo Beck (1870\u20131950), American bird collector\u000aTheodore Beck, first principal of the MAO College at Aligarh, India\u000aTheodric Romeyn Beck, forensic scientist\u000aUlrich Beck (1944-2015), German sociologist\u000aW. Raymond Beck, former member of Maryland House of Delegates
 p16
-sS'books'
+VBeck is a surname of Germanic descent, meaning "brook" or "stream" (related to Old Norse bekkr), and is fairly common in English-speaking countries, Germany and Denmark. The German name can also be a variant of Becker, which is an occupational surname meaning "baker." In Hebrew, it exists as an abbreviated form of B'nei Kiddoshim ("sons of the martyrs"). Notable people with this surname include:\u000aAaron T. Beck, founder of modern cognitive therapy\u000aAdam Beck (1857\u20131925), Canadian politician and hydro-electricity advocate\u000aAndrás Beck (1911\u20131985), Hungarian sculptor\u000aAndreas Beck (footballer) (born 1987), German football player\u000aAndreas Beck (tennis), German tennis player\u000aAudrey P. Beck (1931-1983), American educator and politician\u000aBill Beck (1900\u20131965), American college sports coach\u000aC. C. Beck, American cartoonist\u000aCharlie Beck, appointed Chief of the Los Angeles Police Department\u000aChristophe Beck, Canadian composer for film and TV, most notable for his work on Buffy the Vampire Slayer\u000aClaude Beck (1894\u20131971), American cardiac surgeon who invented the defibrillator\u000aClifford W. Beck, American politician\u000aCorey Beck (born 1971), American basketball player\u000a"Dr. Beck", name taken by the Count de Werdinsky (1803\u20131856)\u000aEdward S. Beck (born 1946) Head, Susquehanna Institute, President, Scholars for Peace in the Middle East\u000aFranz Ignaz Beck, (1734-1809), German classical composer\u000aGad Beck (1923-2012), German educator, author, activist, and survivor of the Holocaust\u000aGeorge Beck (artist), artist and poet\u000aGina Beck, English actress and singer\u000aGünther Beck von Mannagetta und Lerchenau, German botanist\u000aHans Beck (1929\u20132009), German inventor\u000aHarry Beck, designer of the London Underground map\u000aHarry Beck (footballer)\u000aJakob Sigismund Beck, German philosopher\u000aJames M. Beck (1861\u20131936), United States Solicitor General and US Congressman from Pennsylvania\u000aJeff Beck (born 1944), British electric guitarist\u000aJoe Beck (1945\u20132008), American jazz guitarist\u000aJohn Beck (actor) (born 1943), American actor\u000aJohn Beck (footballer), British football manager\u000aJohn Beck (gridiron football), NFL player and former BYU quarterback\u000aJohn Brodhead Beck, 19th-century United States physician\u000aJonathan Mock Beck (1935\u20132006), American mathematician\u000aJoko Beck, an American Zen teacher\u000aJózef Beck, Polish diplomat and military officer, Minister of Foreign Affairs of the Republic of Poland (1932-1939)\u000aJózsef Beck, a mathematician\u000aJustin Beck, American guitarist\u000aKarol Beck, Slovakian tennis player\u000aKent Beck, major proponent of Extreme Programming\u000aKimberly Beck (born 1956), American actress\u000aKristin Beck\u000aKurt Beck (born 1949), German politician (SPD)\u000aLaetitia Beck (born 1992), Israeli golfer\u000aLewis Caleb Beck, 19th-century United States naturalist and physician\u000aLudwig Beck, German general and participant in the failed attempt to assassinate Adolf Hitler\u000aMichael Beck (born 1949), American actor\u000aMikkel Beck, Danish professional football player\u000aPaul W. Beck, American military aviation pioneer\u000aPeter Beck (politician) (born 1952), politician from Ohio\u000aPeter Beck (priest) (born c. 1948/1949), dean of ChristChurch Cathedral in Christchurch, New Zealand\u000aRick Beck (born 1956), member of the Arkansas House of Representatives\u000aRobert Beck, alias of African American writer Iceberg Slim\u000aRobert Beck, alias of former D-12 rapper Karnail Pitts\u000aRobert Nason Beck, pioneer radiologist\u000aRobin Beck (born 1954), American singer\u000aRod Beck (1968\u20132007), former relief pitcher in Major League Baseball\u000aRollo Beck (1870\u20131950), American bird collector\u000aTheodore Beck, first principal of the MAO College at Aligarh, India\u000aTheodric Romeyn Beck, forensic scientist\u000aUlrich Beck (1944-2015), German sociologist\u000aW. Raymond Beck, former member of Maryland House of Delegates
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I569
 asS'id'
-p19
+p20
 I189
 sb.

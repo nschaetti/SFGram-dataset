@@ -1,6 +1,8 @@
 {
     "name": "Michael Shaara", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_Shaara", 
         "found": true

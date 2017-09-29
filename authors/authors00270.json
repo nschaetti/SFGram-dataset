@@ -1,6 +1,8 @@
 {
     "name": "Robert W. Haseltine", 
-    "country": 3, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

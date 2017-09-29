@@ -1,6 +1,8 @@
 {
     "name": "Fredric Brown", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Fredric_Brown", 
         "found": true

@@ -14,32 +14,33 @@ S'name'
 p6
 VAllen Kim Lang
 p7
-sS'country'
+sS'countries'
 p8
-I3
-sS'wikipedia'
-p9
-(dp10
+(lp9
+I2
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Kim_Possible
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Kim_Possible
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I2
 sS'summary'
-p15
-VKim Possible is an American animated action comedy-adventure television series created by Bob Schooley and Mark McCorkle that originally aired on Disney Channel from June 7, 2002 to September 7, 2007. The show revolves around eponymous high school student Kim Possible, a teenager tasked with fighting crime on a regular basis while coping with everyday issues commonly associated with adolescence. Kim is aided by her clumsy best friend and sidekick Ron Stoppable, his pet naked mole rat Rufus and 10 year-old computer genius Wade. Known collectively as Team Possible, the majority of Kim and Ron's missions require them to thwart the evil plans of mad scientist\u2013supervillain duo Dr. Drakken and Shego, but they occasionally encounter other enemies as well.\u000aVeteran Disney Channel writers Schooley and McCorkle were recruited by the network to develop an animated series that could attract both younger and older audiences, and conceived Kim Possible as a show about a talented action heroine and her less competent sidekick. Inspired by the scarcity of female-led animated series at the time, the episodes, some of which are based on the creators' own high school experiences, combine elements of action, adventure, drama, romance and comedy to appeal to both girls and boys, while parodying the James Bond franchise, spy and superhero films, and teen sitcoms. Distinct from other Disney Channel shows in its use of self-referential humor, Schooley and McCorkle developed fast-paced sitcom-style dialogue to cater to adult viewers. Set in fictional Middleton, USA, the show's setting and locations exhibit a retro-influenced aesthetic. With a strong emphasis on modern-day technology and the Internet, the series also explores themes such as feminism, girl power and relationships, and receives heavy comparisons to other female-driven action shows such as Buffy the Vampire Slayer, Alias and The Powerpuff Girls.\u000aKim Possible was the second animated Disney Channel Original Series, and the first series produced by Walt Disney Television Animation. Defying initially low expectations, the show premiered to critical acclaim and continued to be praised for its humor, writing and animation. Maintaining strong ratings since 2002, Kim Possible's premiere was the most-watched of any Disney Channel Original Series. Originally canceled at the end of its third season in 2005, Disney Channel unprecedentedly ordered a fourth installment of the series to appease devoted fans. Nominated for eight Emmy Awards, Kim Possible won one, for Outstanding Achievement in Sound Mixing - Live Action and Animation, in 2005. Lasting four seasons and 87 episodes, the show is considered to be one of Disney Channel's greatest and most successful, and remained the network's longest-running series until it was surpassed by Phineas and Ferb in 2013. The success of the series spawned two television films based on the show, Kim Possible: A Sitch in Time (2003) \u2013 the first animated Disney Channel Original Movie \u2013 and Kim Possible Movie: So the Drama (2005), as well as a video game series.\u000a\u000a
 p16
-sS'books'
+VKim Possible is an American animated action comedy-adventure television series created by Bob Schooley and Mark McCorkle that originally aired on Disney Channel from June 7, 2002 to September 7, 2007. The show revolves around eponymous high school student Kim Possible, a teenager tasked with fighting crime on a regular basis while coping with everyday issues commonly associated with adolescence. Kim is aided by her clumsy best friend and sidekick Ron Stoppable, his pet naked mole rat Rufus and 10 year-old computer genius Wade. Known collectively as Team Possible, the majority of Kim and Ron's missions require them to thwart the evil plans of mad scientist\u2013supervillain duo Dr. Drakken and Shego, but they occasionally encounter other enemies as well.\u000aVeteran Disney Channel writers Schooley and McCorkle were recruited by the network to develop an animated series that could attract both younger and older audiences, and conceived Kim Possible as a show about a talented action heroine and her less competent sidekick. Inspired by the scarcity of female-led animated series at the time, the episodes, some of which are based on the creators' own high school experiences, combine elements of action, adventure, drama, romance and comedy to appeal to both girls and boys, while parodying the James Bond franchise, spy and superhero films, and teen sitcoms. Distinct from other Disney Channel shows in its use of self-referential humor, Schooley and McCorkle developed fast-paced sitcom-style dialogue to cater to adult viewers. Set in fictional Middleton, USA, the show's setting and locations exhibit a retro-influenced aesthetic. With a strong emphasis on modern-day technology and the Internet, the series also explores themes such as feminism, girl power and relationships, and receives heavy comparisons to other female-driven action shows such as Buffy the Vampire Slayer, Alias and The Powerpuff Girls.\u000aKim Possible was the second animated Disney Channel Original Series, and the first series produced by Walt Disney Television Animation. Defying initially low expectations, the show premiered to critical acclaim and continued to be praised for its humor, writing and animation. Maintaining strong ratings since 2002, Kim Possible's premiere was the most-watched of any Disney Channel Original Series. Originally canceled at the end of its third season in 2005, Disney Channel unprecedentedly ordered a fourth installment of the series to appease devoted fans. Nominated for eight Emmy Awards, Kim Possible won one, for Outstanding Achievement in Sound Mixing - Live Action and Animation, in 2005. Lasting four seasons and 87 episodes, the show is considered to be one of Disney Channel's greatest and most successful, and remained the network's longest-running series until it was surpassed by Phineas and Ferb in 2013. The success of the series spawned two television films based on the show, Kim Possible: A Sitch in Time (2003) \u2013 the first animated Disney Channel Original Movie \u2013 and Kim Possible Movie: So the Drama (2005), as well as a video game series.\u000a\u000a
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I539
 aI721
 asS'id'
-p19
+p20
 I179
 sb.

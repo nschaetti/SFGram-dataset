@@ -1,6 +1,9 @@
 {
     "name": "Edwin Lester Linden Arnold", 
-    "country": 1, 
+    "countries": [
+        1, 
+        24
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/A_Princess_of_Mars", 
         "found": true

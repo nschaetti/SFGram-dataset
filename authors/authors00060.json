@@ -1,7 +1,9 @@
 {
     "bio": "Born in Beverly, New Jersey, he moved to Philadelphia, Pennsylvania in 1894. Originally trained in law, he turned to journalism, first as a correspondent and later as editor. According to Peter Haining, Merritt survived a harrowing experience while a young reporter at the Philadelphia Inquirer about which he refused to ever speak, but would, as Haining claims, mark a turning point in Merritt's life. He was assistant editor of The American Weekly from 1912 to 1937 under Morrill Goddard, then its editor from 1937 until his death. As editor, he hired the unheralded new artists Virgil Finlay and Hannes Bok and promoted the work done on polio by Sister Elizabeth Kenny.\nHis fiction, eight complete novels and a number of short stories, was only a sideline to his journalism career. One of the best-paid journalists of his era, Merritt made $25,000 per year by 1919, and at the end of his life was earning $100,000 yearly\u2014exceptional sums for the period. His financial success allowed him to pursue world travel\u2014he invested in real estate in Jamaica and Ecuador\u2014and exotic hobbies, like cultivating orchids and plants linked to witchcraft and magic (monkshood, wolfbane, blue datura, peyote, and cannabis).\nMerritt married twice, once in the 1910s to Eleanore Ratcliffe, with whom he raised an adopted daughter, and again in the 1930s to Eleanor H. Johnson. He lived in the Hollis Park Gardens neighborhood of Queens, New York City, where he accumulated collections of weapons, carvings, and primitive masks from his travels, as well as a library of occult literature that reportedly exceeded 5000 volumes. He died suddenly of a heart attack, at his winter home in Indian Rocks Beach, Florida, in 1943.", 
     "name": "Abraham Merritt", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/A._Merritt", 
         "found": true

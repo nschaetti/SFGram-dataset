@@ -1,6 +1,8 @@
 {
     "name": "Stephen A. Kallis", 
-    "country": 1, 
+    "countries": [
+        3
+    ], 
     "wikipedia": {
         "found": false
     }, 

@@ -1,6 +1,9 @@
 {
     "name": "William Richard Bradshaw", 
-    "country": 2, 
+    "countries": [
+        2, 
+        17
+    ], 
     "wikipedia": {
         "found": false
     }, 

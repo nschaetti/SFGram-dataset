@@ -1,6 +1,8 @@
 {
     "name": "Stephen Marlowe", 
-    "country": 2, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Stephen_Marlowe", 
         "found": true

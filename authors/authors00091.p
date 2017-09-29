@@ -14,29 +14,30 @@ S'name'
 p6
 VAlgis Budrys
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Budrys
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Budrys
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I7
 sS'summary'
-p15
-VBudrys is a Lithuanian surname. Notable people with the surname include:\u000aAlgirdas Budrys (born 1939), Lithuanian musician\u000aAlgis Budrys (1931\u20132008), Lithuanian-American writer\u000aEugenijus Mindaugas Budrys (1925\u20132007), Lithuanian painter\u000aIgnas Budrys (1933\u20131999), Lithuanian painter\u000aPovilas Budrys (born 1962), Lithuanian actor and artist
 p16
-sS'books'
+VBudrys is a Lithuanian surname. Notable people with the surname include:\u000aAlgirdas Budrys (born 1939), Lithuanian musician\u000aAlgis Budrys (1931\u20132008), Lithuanian-American writer\u000aEugenijus Mindaugas Budrys (1925\u20132007), Lithuanian painter\u000aIgnas Budrys (1933\u20131999), Lithuanian painter\u000aPovilas Budrys (born 1962), Lithuanian actor and artist
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I279
 aI307
 aI314
@@ -45,6 +46,6 @@ aI593
 aI716
 aI842
 asS'id'
-p19
+p20
 I91
 sb.

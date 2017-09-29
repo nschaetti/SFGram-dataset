@@ -14,31 +14,32 @@ S'name'
 p6
 VTeddy Keller
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I3
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/Upfront_%26_Down_Low
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/Upfront_%26_Down_Low
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I1
 sS'summary'
-p15
-VUpfront & Down Low is the self-produced, third studio album by singer-songwriter Teddy Thompson, released under Verve Forecast Records on July 17, 2007. The album features covers of some of his favorite country songs, along with one original track ("Down Low"). Six songs on the album include string arrangements by Robert Kirby, while "My Blue Tears" features a string arrangement by friend and fellow singer-songwriter Rufus Wainwright.
 p16
-sS'books'
+VUpfront & Down Low is the self-produced, third studio album by singer-songwriter Teddy Thompson, released under Verve Forecast Records on July 17, 2007. The album features covers of some of his favorite country songs, along with one original track ("Down Low"). Six songs on the album include string arrangements by Robert Kirby, while "My Blue Tears" features a string arrangement by friend and fellow singer-songwriter Rufus Wainwright.
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I966
 asS'id'
-p19
+p20
 I297
 sb.

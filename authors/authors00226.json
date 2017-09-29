@@ -1,7 +1,9 @@
 {
     "bio": "Burks was born to a farming family in Waterville, Washington. He married Blanche Fidelia Lane on March 23, 1918 in Sacramento, California and was the father of four children: Phillip Charles, Wasle Carmen, Arline Mary, and Gladys Lura. He served in the United States Marine Corps in World War I, and began writing in 1920. After being stationed in the Caribbean and inspired by the native voodoo rituals, Burks began to write stories of the supernatural that he sold to the magazine Weird Tales. In 1928 he resigned from the Marine Corps and began writing full-time. He became one of the \"million-word-a-year\" men in the pulp magazines by virtue of his tremendous output. He wrote in the neighborhood of 800 stories for the pulps. He was well known for being able to take any household object that someone would suggest to him on a dare, and instantly generate a plot based around it. His byline was commonplace on pulp covers. He wrote primarily in the genres of aviation, detective, adventure, sports (primarily boxing), and weird menace. Two genres he was not to be found in were love and westerns. He wrote several series for the pulps, including the Kid Friel boxing stories in Gangster Stories, and the Dorus Noel undercover-detective stories for All Detective Magazine, set in Manhattan's Chinatown. The pressure of producing so much fiction caused him to ease off in the late-1930s. He returned to active duty as the U.S. entered World War II and eventually retired with the rank of lieutenant colonel. Burks moved to Paradise in Lancaster County, Pennsylvania, in 1948, where he continued to write until his death in 1974. Throughout the '60s, he wrote many works on metaphysics and the paranormal. In his later years, he lectured on paranormal activities and gave readings.", 
     "name": "Arthur J. Burks", 
-    "country": 1, 
+    "countries": [
+        2
+    ], 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Arthur_J._Burks", 
         "found": true

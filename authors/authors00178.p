@@ -14,33 +14,34 @@ S'name'
 p6
 VRoman Frederick Starzl
 p7
-sS'country'
+sS'countries'
 p8
+(lp9
 I2
-sS'wikipedia'
-p9
-(dp10
+asS'wikipedia'
+p10
+(dp11
 S'url'
-p11
-Vhttps://en.wikipedia.org/wiki/List_of_science_fiction_authors
 p12
-sS'found'
+Vhttps://en.wikipedia.org/wiki/List_of_science_fiction_authors
 p13
+sS'found'
+p14
 I01
 ssS'n_books'
-p14
+p15
 I3
 sS'summary'
-p15
-VNote that this partial list contains some authors whose works of fantastic fiction would today be called science fiction, even if they predate, or did not work in that genre. There is also a considerable overlap with the List of fantasy authors, since many authors are equally comfortable with both genres, and in any case some works deliberately combine the two or blur the distinction. Most science fiction authors write as novelists or short story writers, though increasingly, as the genre becomes possible, they write as playwrights or screen writers.\u000aSome notable science fiction authors are (in alphabetical order):\u000a\u000a
 p16
-sS'books'
+VNote that this partial list contains some authors whose works of fantastic fiction would today be called science fiction, even if they predate, or did not work in that genre. There is also a considerable overlap with the List of fantasy authors, since many authors are equally comfortable with both genres, and in any case some works deliberately combine the two or blur the distinction. Most science fiction authors write as novelists or short story writers, though increasingly, as the genre becomes possible, they write as playwrights or screen writers.\u000aSome notable science fiction authors are (in alphabetical order):\u000a\u000a
 p17
-(lp18
+sS'books'
+p18
+(lp19
 I538
 aI862
 aI891
 asS'id'
-p19
+p20
 I178
 sb.
