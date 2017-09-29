@@ -126,7 +126,7 @@ p59
 sS'countries'
 p60
 (lp61
-I25
+I2
 asS'release_date'
 p62
 S'2016-02-22T00:00:00'

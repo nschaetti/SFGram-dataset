@@ -198,7 +198,7 @@ p95
 sS'countries'
 p96
 (lp97
-I25
+I2
 asS'release_date'
 p98
 S'2007-05-28T00:00:00'

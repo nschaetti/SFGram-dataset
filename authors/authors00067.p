@@ -17,7 +17,7 @@ p7
 sS'countries'
 p8
 (lp9
-I25
+I2
 asS'wikipedia'
 p10
 (dp11
