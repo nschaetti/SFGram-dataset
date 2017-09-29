@@ -117,32 +117,36 @@ NsS'language'
 p54
 VEnglish
 p55
-sS'release_date'
+sS'countries'
 p56
-S'2016-01-03T00:00:00'
-p57
-sS'author'
+(lp57
+I2
+asS'release_date'
 p58
+S'2016-01-03T00:00:00'
+p59
+sS'author'
+p60
 I51
 sS'original_title'
-p59
-VThe Marching Morons (collection)
-p60
-sS'summary'
 p61
-VThe Marching Morons (and Other Famous Science Fiction Stories) is a collection of stories by Cyril M. Kornbluth, originally published in paperback by Ballantine Books in 1959. Ballantine reissued the collection in 1963. A Spanish translation, Desfile de Cretines, appeared in 1964. In 1972, the novella from which the collection takes its name was selected by SFWA members as one of the ten best novellas published in the genre before 1966.
+VThe Marching Morons (collection)
 p62
-sS'content_cleaned'
+sS'summary'
 p63
+VThe Marching Morons (and Other Famous Science Fiction Stories) is a collection of stories by Cyril M. Kornbluth, originally published in paperback by Ballantine Books in 1959. Ballantine reissued the collection in 1963. A Spanish translation, Desfile de Cretines, appeared in 1964. In 1972, the novella from which the collection takes its name was selected by SFWA members as one of the ten best novellas published in the genre before 1966.
+p64
+sS'content_cleaned'
+p65
 I01
 sS'classes'
-p64
-(lp65
-sS'loc_class'
 p66
-S''
-p67
-sS'n_authors'
+(lp67
+sS'loc_class'
 p68
+S''
+p69
+sS'n_authors'
+p70
 I1
 sb.

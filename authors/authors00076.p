@@ -22,7 +22,6 @@ sS'countries'
 p10
 (lp11
 I1
-aI0
 asS'wikipedia'
 p12
 (dp13

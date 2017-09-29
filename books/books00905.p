@@ -159,40 +159,44 @@ NsS'language'
 p75
 VEnglish
 p76
-sS'release_date'
+sS'countries'
 p77
-S'2008-12-25T00:00:00'
-p78
-sS'author'
+(lp78
+I2
+asS'release_date'
 p79
+S'2008-12-25T00:00:00'
+p80
+sS'author'
+p81
 I275
 sS'original_title'
-p80
-VDoom 3: Maelstrom
-p81
-sS'summary'
 p82
-VDoom 3: Maelstrom is the second book in a series of three novels regarding Doom 3. The book was released in March 2009. Before writing the book, its author Matthew J. Costello, wrote the scripts for Doom 3 and Doom 3: Resurrection of Evil.
+VDoom 3: Maelstrom
 p83
-sS'content_cleaned'
+sS'summary'
 p84
+VDoom 3: Maelstrom is the second book in a series of three novels regarding Doom 3. The book was released in March 2009. Before writing the book, its author Matthew J. Costello, wrote the scripts for Doom 3 and Doom 3: Resurrection of Evil.
+p85
+sS'content_cleaned'
+p86
 I01
 sS'classes'
-p85
-(lp86
-Vto-read
 p87
-aVsfbywomen
-p88
-aVsf
+(lp88
+Vto-read
 p89
-aVscience-fiction
+aVsfbywomen
 p90
-asS'loc_class'
+aVsf
 p91
-VPS: Language and Literatures: American and Canadian literature
+aVscience-fiction
 p92
-sS'n_authors'
+asS'loc_class'
 p93
+VPS: Language and Literatures: American and Canadian literature
+p94
+sS'n_authors'
+p95
 I1
 sb.

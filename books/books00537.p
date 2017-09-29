@@ -117,44 +117,48 @@ sS'language'
 p54
 VEnglish
 p55
-sS'release_date'
+sS'countries'
 p56
-S'2010-04-20T00:00:00'
-p57
-sS'author'
+(lp57
+I2
+asS'release_date'
 p58
+S'2010-04-20T00:00:00'
+p59
+sS'author'
+p60
 I144
 sS'original_title'
-p59
-VTriplanetary (novel)
-p60
-sS'summary'
 p61
-VTriplanetary is a science fiction novel and space opera by American writer E. E. Smith. It was first serialized in the magazine Amazing Stories in 1934. After the original four novels of the Lensman series were published, Smith expanded and reworked Triplanetary into the first of two prequels for the series. The expanded Triplanetary was published in book form in 1948 by Fantasy Press. The second prequel, First Lensman, was a new original novel published in 1950 by Fantasy Press.\u000aThe novel covers several episodes in an eons-long human breeding project by the super-intelligences of the Arisians. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch-enemies, the Eddorians. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two, and Three.\u000aThe final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster-than-light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, important members of the two breeding lines, are introduced.
+VTriplanetary (novel)
 p62
-sS'content_cleaned'
+sS'summary'
 p63
+VTriplanetary is a science fiction novel and space opera by American writer E. E. Smith. It was first serialized in the magazine Amazing Stories in 1934. After the original four novels of the Lensman series were published, Smith expanded and reworked Triplanetary into the first of two prequels for the series. The expanded Triplanetary was published in book form in 1948 by Fantasy Press. The second prequel, First Lensman, was a new original novel published in 1950 by Fantasy Press.\u000aThe novel covers several episodes in an eons-long human breeding project by the super-intelligences of the Arisians. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch-enemies, the Eddorians. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two, and Three.\u000aThe final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster-than-light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, important members of the two breeding lines, are introduced.
+p64
+sS'content_cleaned'
+p65
 I01
 sS'classes'
-p64
-(lp65
-Vto-read
 p66
-aV21st-century-lit
-p67
-aVshort-story
+(lp67
+Vto-read
 p68
-aVaudio-obtained
+aV21st-century-lit
 p69
-aVtype-short-story
+aVshort-story
 p70
-aVaudio-obtained-ss
+aVaudio-obtained
 p71
-asS'loc_class'
+aVtype-short-story
 p72
-VPS: Language and Literatures: American and Canadian literature
+aVaudio-obtained-ss
 p73
-sS'n_authors'
+asS'loc_class'
 p74
+VPS: Language and Literatures: American and Canadian literature
+p75
+sS'n_authors'
+p76
 I1
 sb.

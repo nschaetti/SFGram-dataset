@@ -58,6 +58,9 @@
     "pages": 235, 
     "language": "English", 
     "isbn13": "9781516951048", 
+    "countries": [
+        3
+    ], 
     "release_date": "2016-01-20T00:00:00", 
     "author": 193, 
     "content_cleaned": true, 

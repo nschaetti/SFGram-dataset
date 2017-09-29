@@ -123,38 +123,42 @@ NsS'language'
 p57
 VEnglish
 p58
-sS'release_date'
+sS'countries'
 p59
-S'2009-10-14T00:00:00'
-p60
-sS'author'
+(lp60
+I2
+asS'release_date'
 p61
+S'2009-10-14T00:00:00'
+p62
+sS'author'
+p63
 I144
 sS'original_title'
-p62
-VThe Driver's Seat (novel)
-p63
-sS'summary'
 p64
-VThe Driver's Seat is a novella by Muriel Spark. Published in 1970, it was advertised as "a metaphysical shocker". It is indeed in the psychological thriller genre, dealing with themes of alienation, isolation and loss of spiritual values.\u000aIt was filmed in 1974 starring Elizabeth Taylor and featuring Andy Warhol. In the U.S the film was renamed Identikit. Spark described it as one of her favourite novels.\u000aThe Driver's Seat was, on 26 March 2010, one of six novels to be nominated for \u201cLost Man Booker Prize\u201d of 1970, "a contest delayed by 40 years because a reshuffling of the fledgeling competition\u2019s rules that year disqualified nearly a year\u2019s worth of high-quality fiction from consideration."\u000aIn 2015, it was adapted for the stage for the first time by Laurie Sansom for a National Theatre of Scotland production which premiered at the Royal Lyceum Theatre, Edinburgh.
+VThe Driver's Seat (novel)
 p65
-sS'content_cleaned'
+sS'summary'
 p66
+VThe Driver's Seat is a novella by Muriel Spark. Published in 1970, it was advertised as "a metaphysical shocker". It is indeed in the psychological thriller genre, dealing with themes of alienation, isolation and loss of spiritual values.\u000aIt was filmed in 1974 starring Elizabeth Taylor and featuring Andy Warhol. In the U.S the film was renamed Identikit. Spark described it as one of her favourite novels.\u000aThe Driver's Seat was, on 26 March 2010, one of six novels to be nominated for \u201cLost Man Booker Prize\u201d of 1970, "a contest delayed by 40 years because a reshuffling of the fledgeling competition\u2019s rules that year disqualified nearly a year\u2019s worth of high-quality fiction from consideration."\u000aIn 2015, it was adapted for the stage for the first time by Laurie Sansom for a National Theatre of Scotland production which premiered at the Royal Lyceum Theatre, Edinburgh.
+p67
+sS'content_cleaned'
+p68
 I01
 sS'classes'
-p67
-(lp68
-Vsci-fi
 p69
-aVshort-story
-p70
-aVtype-short-story
+(lp70
+Vsci-fi
 p71
-asS'loc_class'
+aVshort-story
 p72
-VPS: Language and Literatures: American and Canadian literature
+aVtype-short-story
 p73
-sS'n_authors'
+asS'loc_class'
 p74
+VPS: Language and Literatures: American and Canadian literature
+p75
+sS'n_authors'
+p76
 I1
 sb.

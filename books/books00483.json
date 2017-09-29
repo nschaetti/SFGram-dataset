@@ -57,6 +57,10 @@
     "pages": 315, 
     "language": "English", 
     "isbn13": "9780765312808", 
+    "countries": [
+        8, 
+        1
+    ], 
     "release_date": "2006-04-21T00:00:00", 
     "author": 33, 
     "original_title": "Someone Comes to Town, Someone Leaves Town", 

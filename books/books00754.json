@@ -51,6 +51,9 @@
     "pages": 192, 
     "language": "English", 
     "isbn13": "9780373731978", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-02-23T00:00:00", 
     "author": 243, 
     "content_cleaned": true, 

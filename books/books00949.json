@@ -36,6 +36,10 @@
         169
     ], 
     "language": "English", 
+    "countries": [
+        2, 
+        27
+    ], 
     "release_date": "2009-08-05T00:00:00", 
     "author": 169, 
     "content_cleaned": true, 

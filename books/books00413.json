@@ -55,6 +55,9 @@
     "pages": 79, 
     "language": "English", 
     "isbn13": "9781562548773", 
+    "countries": [
+        4
+    ], 
     "release_date": "2004-09-01T00:00:00", 
     "author": 6, 
     "original_title": "Twenty Thousand Leagues Under the Sea", 

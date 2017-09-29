@@ -40,6 +40,9 @@
     "pages": 60, 
     "language": "English", 
     "isbn13": "9781406572377", 
+    "countries": [
+        2
+    ], 
     "release_date": "2013-02-24T00:00:00", 
     "author": 22, 
     "original_title": "Shadows in the Moonlight (story)", 

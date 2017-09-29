@@ -115,32 +115,36 @@ NsS'language'
 p53
 VEnglish
 p54
-sS'release_date'
+sS'countries'
 p55
-S'2009-06-08T00:00:00'
-p56
-sS'author'
+(lp56
+I2
+asS'release_date'
 p57
+S'2009-06-08T00:00:00'
+p58
+sS'author'
+p59
 I139
 sS'original_title'
-p58
-VThe Serpent's Shadow (Lackey novel)
-p59
-sS'summary'
 p60
-VThe Serpent's Shadow (2001) is a novel by Mercedes Lackey, part of her Elemental Masters series. It is set in London in 1909 and is based on the fairy tale Snow White.
+VThe Serpent's Shadow (Lackey novel)
 p61
-sS'content_cleaned'
+sS'summary'
 p62
+VThe Serpent's Shadow (2001) is a novel by Mercedes Lackey, part of her Elemental Masters series. It is set in London in 1909 and is based on the fairy tale Snow White.
+p63
+sS'content_cleaned'
+p64
 I01
 sS'classes'
-p63
-(lp64
-sS'loc_class'
 p65
-VPS: Language and Literatures: American and Canadian literature
-p66
-sS'n_authors'
+(lp66
+sS'loc_class'
 p67
+VPS: Language and Literatures: American and Canadian literature
+p68
+sS'n_authors'
+p69
 I1
 sb.

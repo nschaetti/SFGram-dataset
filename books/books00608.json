@@ -330,6 +330,9 @@
     ], 
     "language": "English", 
     "isbn13": "2940011877179", 
+    "countries": [
+        2
+    ], 
     "release_date": "2008-10-24T00:00:00", 
     "author": 79, 
     "content_cleaned": true, 

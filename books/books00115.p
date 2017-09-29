@@ -113,38 +113,42 @@ NsS'language'
 p52
 VFrench
 p53
-sS'release_date'
+sS'countries'
 p54
-S'2003-12-01T00:00:00'
-p55
-sS'author'
+(lp55
+I4
+asS'release_date'
 p56
+S'2003-12-01T00:00:00'
+p57
+sS'author'
+p58
 I6
 sS'original_title'
-p57
-VJourney to the Center of the Earth
-p58
-sS'summary'
 p59
-VJourney to the Center of the Earth (French: Voyage au centre de la Terre, also translated under the titles A Journey to the Centre of the Earth and A Journey to the Interior of the Earth) is an 1864 science fiction novel by Jules Verne. The story involves German professor Otto Lidenbrock who believes there are volcanic tubes going toward the centre of the Earth. He, his nephew Axel, and their guide Hans descend into the Icelandic volcano Sn�fellsj�kull, encountering many adventures, including prehistoric animals and natural hazards, before eventually coming to the surface again in southern Italy, at the Stromboli volcano.\u000aThe genre of subterranean fiction already existed long before Verne. However, the present book considerably added to its popularity and influenced later such writings. For example, Edgar Rice Burroughs explicitly acknowledged Verne's influence on his own Pellucidar series.
+VJourney to the Center of the Earth
 p60
-sS'content_cleaned'
+sS'summary'
 p61
+VJourney to the Center of the Earth (French: Voyage au centre de la Terre, also translated under the titles A Journey to the Centre of the Earth and A Journey to the Interior of the Earth) is an 1864 science fiction novel by Jules Verne. The story involves German professor Otto Lidenbrock who believes there are volcanic tubes going toward the centre of the Earth. He, his nephew Axel, and their guide Hans descend into the Icelandic volcano Sn�fellsj�kull, encountering many adventures, including prehistoric animals and natural hazards, before eventually coming to the surface again in southern Italy, at the Stromboli volcano.\u000aThe genre of subterranean fiction already existed long before Verne. However, the present book considerably added to its popularity and influenced later such writings. For example, Edgar Rice Burroughs explicitly acknowledged Verne's influence on his own Pellucidar series.
+p62
+sS'content_cleaned'
+p63
 I01
 sS'classes'
-p62
-(lp63
-Vto-read
 p64
-aVcurrently-reading
-p65
-aVfantastique
+(lp65
+Vto-read
 p66
-asS'loc_class'
+aVcurrently-reading
 p67
-VPQ: Language and Literatures: Romance literatures: French, Italian, Spanish, Portuguese
+aVfantastique
 p68
-sS'n_authors'
+asS'loc_class'
 p69
+VPQ: Language and Literatures: Romance literatures: French, Italian, Spanish, Portuguese
+p70
+sS'n_authors'
+p71
 I1
 sb.

@@ -40,6 +40,9 @@
     "pages": 68, 
     "language": "English", 
     "isbn13": "9781479407880", 
+    "countries": [
+        2
+    ], 
     "release_date": "2015-12-05T00:00:00", 
     "author": 61, 
     "content_cleaned": true, 

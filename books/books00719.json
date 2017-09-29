@@ -56,6 +56,9 @@
     "pages": 200, 
     "language": "English", 
     "isbn13": "9784088707013", 
+    "countries": [
+        2
+    ], 
     "release_date": "2008-01-07T00:00:00", 
     "author": 234, 
     "original_title": "One for the Money (novel)", 

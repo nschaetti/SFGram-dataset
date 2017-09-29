@@ -59,6 +59,9 @@
     "pages": 32, 
     "language": "English", 
     "isbn13": "9780688099862", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-04-12T00:00:00", 
     "author": 94, 
     "content_cleaned": true, 

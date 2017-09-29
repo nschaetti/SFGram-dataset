@@ -57,6 +57,9 @@
     "pages": 382, 
     "language": "English", 
     "isbn13": "9780812550757", 
+    "countries": [
+        3
+    ], 
     "release_date": "2016-02-18T00:00:00", 
     "author": 283, 
     "content_cleaned": true, 

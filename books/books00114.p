@@ -207,44 +207,48 @@ NsS'language'
 p99
 VEnglish
 p100
-sS'release_date'
+sS'countries'
 p101
-S'2009-09-01T00:00:00'
-p102
-sS'author'
+(lp102
+I3
+asS'release_date'
 p103
+S'2009-09-01T00:00:00'
+p104
+sS'author'
+p105
 I17
 sS'original_title'
-p104
-VScience Fiction of the Thirties
-p105
-sS'summary'
 p106
-VScience Fiction of the Thirties is an anthology of science fiction short stories edited by Damon Knight. It was first published in hardcover by Bobbs-Merrill in January 1976; a book club edition was issued simultaneously by the same publisher together with the Science Fiction Book Club, and a trade paperback edition by Avon Books in March 1977.\u000aThe book collects eighteen tales by various authors originally published in the 1930s and exemplifying American magazine science fiction of that decade, together with a foreword and three essays on the period by the editor, and a bibliography. The stories were originally published in Astounding Stories and Amazing Stories, the premier science fiction magazines of the time. The book reproduces period illustrations that accompanied the stories' original appearances by H. W. Wesso, Leo Morey, Paul Orban, Howard V. Brown, Elliott Dold, Jr., Thompson, and Charles Schneeman.
+VScience Fiction of the Thirties
 p107
-sS'content_cleaned'
+sS'summary'
 p108
+VScience Fiction of the Thirties is an anthology of science fiction short stories edited by Damon Knight. It was first published in hardcover by Bobbs-Merrill in January 1976; a book club edition was issued simultaneously by the same publisher together with the Science Fiction Book Club, and a trade paperback edition by Avon Books in March 1977.\u000aThe book collects eighteen tales by various authors originally published in the 1930s and exemplifying American magazine science fiction of that decade, together with a foreword and three essays on the period by the editor, and a bibliography. The stories were originally published in Astounding Stories and Amazing Stories, the premier science fiction magazines of the time. The book reproduces period illustrations that accompanied the stories' original appearances by H. W. Wesso, Leo Morey, Paul Orban, Howard V. Brown, Elliott Dold, Jr., Thompson, and Charles Schneeman.
+p109
+sS'content_cleaned'
+p110
 I01
 sS'classes'
-p109
-(lp110
-Vhorror
 p111
-aVgraphic-novel
-p112
-aVfiction
+(lp112
+Vhorror
 p113
-aVart
+aVgraphic-novel
 p114
-aVshort-stories
+aVfiction
 p115
-aVsci-fi
+aVart
 p116
-asS'loc_class'
+aVshort-stories
 p117
-VPN: Language and Literatures: Literature: General, Criticism, Collections
+aVsci-fi
 p118
-sS'n_authors'
+asS'loc_class'
 p119
+VPN: Language and Literatures: Literature: General, Criticism, Collections
+p120
+sS'n_authors'
+p121
 I1
 sb.

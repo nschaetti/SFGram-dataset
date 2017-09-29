@@ -219,6 +219,9 @@
     ], 
     "pages": 220, 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2007-03-20T00:00:00", 
     "author": 14, 
     "original_title": "Spacehounds of IPC", 

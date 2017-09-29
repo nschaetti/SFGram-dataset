@@ -121,32 +121,36 @@ sS'language'
 p56
 VEnglish
 p57
-sS'release_date'
+sS'countries'
 p58
-S'2004-03-01T00:00:00'
-p59
-sS'author'
+(lp59
+I1
+asS'release_date'
 p60
+S'2004-03-01T00:00:00'
+p61
+sS'author'
+p62
 I1
 sS'original_title'
-p61
-VThe Food of the Gods and How It Came to Earth
-p62
-sS'summary'
 p63
-VThe Food of the Gods and How It Came to Earth is a science fiction novel by H. G. Wells, first published in 1904. Wells called it "a fantasia on the change of scale in human affairs. . . . I had hit upon [the idea] while working out the possibilities of the near future in a book of speculations called Anticipations (1901)." There have been various B-movie adaptations. The novel is about a group of scientists who invent a food that accelerates the growth of children and turns them into giants when they become adults.
+VThe Food of the Gods and How It Came to Earth
 p64
-sS'content_cleaned'
+sS'summary'
 p65
+VThe Food of the Gods and How It Came to Earth is a science fiction novel by H. G. Wells, first published in 1904. Wells called it "a fantasia on the change of scale in human affairs. . . . I had hit upon [the idea] while working out the possibilities of the near future in a book of speculations called Anticipations (1901)." There have been various B-movie adaptations. The novel is about a group of scientists who invent a food that accelerates the growth of children and turns them into giants when they become adults.
+p66
+sS'content_cleaned'
+p67
 I01
 sS'classes'
-p66
-(lp67
-sS'loc_class'
 p68
-VPR: Language and Literatures: English literature
-p69
-sS'n_authors'
+(lp69
+sS'loc_class'
 p70
+VPR: Language and Literatures: English literature
+p71
+sS'n_authors'
+p72
 I1
 sb.

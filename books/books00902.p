@@ -135,46 +135,50 @@ NsS'language'
 p63
 VEnglish
 p64
-sS'release_date'
+sS'countries'
 p65
-S'2007-10-03T00:00:00'
-p66
-sS'author'
+(lp66
+I2
+asS'release_date'
 p67
+S'2007-10-03T00:00:00'
+p68
+sS'author'
+p69
 I108
 sS'original_title'
-p68
-VChristina Alberta's Father
-p69
-sS'summary'
 p70
-VChristina Alberta's Father (1925) is a novel by H. G. Wells set in London and environs in 1920\u20131922 with two protagonists: Albert Edward Preemby and his daughter, Christina Alberta.\u000aStarting off as a seemingly light-hearted novel of social realism, highlighting the class system of contemporary society, much like he did in Kipps, Wells soon lambasts the then-current state of mental health legislation and of asylums, before ending the novel with the characters discussing feminism and the conflict between individual independence and being a willing part of a greater society. With the title character of the father dying of pneumonia after rescue from a mental hospital, and his daughter Christina Albert refusing to marry her love interest Bobby Roothers (after candidly admitting to him that she is no longer a virgin), the expected happy ending does not occur. Perhaps due to its descent into open didacticism, the novel was not one of Wells' most successful or popular.
+VChristina Alberta's Father
 p71
-sS'content_cleaned'
+sS'summary'
 p72
+VChristina Alberta's Father (1925) is a novel by H. G. Wells set in London and environs in 1920\u20131922 with two protagonists: Albert Edward Preemby and his daughter, Christina Alberta.\u000aStarting off as a seemingly light-hearted novel of social realism, highlighting the class system of contemporary society, much like he did in Kipps, Wells soon lambasts the then-current state of mental health legislation and of asylums, before ending the novel with the characters discussing feminism and the conflict between individual independence and being a willing part of a greater society. With the title character of the father dying of pneumonia after rescue from a mental hospital, and his daughter Christina Albert refusing to marry her love interest Bobby Roothers (after candidly admitting to him that she is no longer a virgin), the expected happy ending does not occur. Perhaps due to its descent into open didacticism, the novel was not one of Wells' most successful or popular.
+p73
+sS'content_cleaned'
+p74
 I01
 sS'classes'
-p73
-(lp74
-Vto-read
 p75
-aVrandoms
-p76
-aVshort-story
+(lp76
+Vto-read
 p77
-aV14
+aVrandoms
 p78
-aValan-e-nourse
+aVshort-story
 p79
-aVtype-short-story
+aV14
 p80
-aVscience-fiction
+aValan-e-nourse
 p81
-asS'loc_class'
+aVtype-short-story
 p82
-VPS: Language and Literatures: American and Canadian literature
+aVscience-fiction
 p83
-sS'n_authors'
+asS'loc_class'
 p84
+VPS: Language and Literatures: American and Canadian literature
+p85
+sS'n_authors'
+p86
 I1
 sb.

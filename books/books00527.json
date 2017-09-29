@@ -54,6 +54,9 @@
     ], 
     "pages": 867, 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2009-05-06T00:00:00", 
     "author": 44, 
     "content_cleaned": true, 

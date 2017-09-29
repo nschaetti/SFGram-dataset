@@ -71,6 +71,9 @@
     "pages": 288, 
     "language": "English", 
     "isbn13": "9780786017812", 
+    "countries": [
+        2
+    ], 
     "release_date": "2008-12-26T00:00:00", 
     "author": 126, 
     "content_cleaned": true, 

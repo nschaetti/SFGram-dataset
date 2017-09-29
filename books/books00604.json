@@ -44,6 +44,9 @@
     ], 
     "isbn13": "2940012547156", 
     "language": "English", 
+    "countries": [
+        3
+    ], 
     "release_date": "2007-10-24T00:00:00", 
     "author": 202, 
     "content_cleaned": true, 

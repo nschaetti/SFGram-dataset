@@ -133,32 +133,36 @@ NsS'language'
 p62
 VEnglish
 p63
-sS'release_date'
+sS'countries'
 p64
-S'2016-01-11T00:00:00'
-p65
-sS'author'
+(lp65
+I3
+asS'release_date'
 p66
+S'2016-01-11T00:00:00'
+p67
+sS'author'
+p68
 I143
 sS'original_title'
-p67
-VThe Great Nebraska Sea
-p68
-sS'summary'
 p69
-VThe Great Nebraska Sea is a science fiction short story by author Allan Danzig. It was first published in 1963 in the magazine Galaxy Science Fiction. The story has been extensively collected for anthologies, most recently in 1999 for the collection Armageddons, edited by Jack Dann and Gardner Dozois.\u000aThe story was originally written as a spoof history or possibly a future history. The narrator is a historian writing in the year 2073 about events taking place in 1973, 10 years from the story's actual publication date. From the point of view of 21st century readers it is sometimes thought of as an alternate history.
+VThe Great Nebraska Sea
 p70
-sS'content_cleaned'
+sS'summary'
 p71
+VThe Great Nebraska Sea is a science fiction short story by author Allan Danzig. It was first published in 1963 in the magazine Galaxy Science Fiction. The story has been extensively collected for anthologies, most recently in 1999 for the collection Armageddons, edited by Jack Dann and Gardner Dozois.\u000aThe story was originally written as a spoof history or possibly a future history. The narrator is a historian writing in the year 2073 about events taking place in 1973, 10 years from the story's actual publication date. From the point of view of 21st century readers it is sometimes thought of as an alternate history.
+p72
+sS'content_cleaned'
+p73
 I01
 sS'classes'
-p72
-(lp73
-sS'loc_class'
 p74
-S''
-p75
-sS'n_authors'
+(lp75
+sS'loc_class'
 p76
+S''
+p77
+sS'n_authors'
+p78
 I1
 sb.

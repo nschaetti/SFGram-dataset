@@ -40,6 +40,9 @@
     "pages": 44, 
     "language": "English", 
     "isbn13": "9781681465302", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-01-22T00:00:00", 
     "author": 61, 
     "content_cleaned": true, 

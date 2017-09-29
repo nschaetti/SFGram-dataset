@@ -45,6 +45,9 @@
     ], 
     "isbn13": "2940012281999", 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2010-09-21T00:00:00", 
     "author": 121, 
     "original_title": "Party Going", 

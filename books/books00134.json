@@ -34,6 +34,9 @@
     ], 
     "language": "French", 
     "isbn13": "9782253012719", 
+    "countries": [
+        4
+    ], 
     "release_date": "2004-12-07T00:00:00", 
     "author": 6, 
     "original_title": "The Mysterious Island", 

@@ -48,6 +48,9 @@
     ], 
     "pages": 20, 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2007-10-22T00:00:00", 
     "author": 111, 
     "original_title": "The Secret (short story)", 

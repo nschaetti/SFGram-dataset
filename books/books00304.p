@@ -125,46 +125,50 @@ NsS'language'
 p58
 VEnglish
 p59
-sS'release_date'
+sS'countries'
 p60
-S'2010-06-02T00:00:00'
-p61
-sS'author'
+(lp61
+I2
+asS'release_date'
 p62
+S'2010-06-02T00:00:00'
+p63
+sS'author'
+p64
 I98
 sS'original_title'
-p63
-VBatman: Hush
-p64
-sS'summary'
 p65
-VHush is an American comic book story arc published by DC Comics, featuring the superhero Batman. It was published in monthly installments within the comic book series Batman, running from issue #608\u2013619 in December 2002 until November 2003. The story arc was written by Jeph Loeb, penciled by Jim Lee, inked by Scott Williams, and colored by Alex Sinclair.\u000aThe story depicts a mysterious stalker called Hush, who seems intent on sabotaging Batman from afar, and it includes a large number of guest appearances by Batman villains, as well as various members of the Batman Family and Batman's close ally Superman. It also explores the romantic potential between Batman and Catwoman.
+VBatman: Hush
 p66
-sS'content_cleaned'
+sS'summary'
 p67
+VHush is an American comic book story arc published by DC Comics, featuring the superhero Batman. It was published in monthly installments within the comic book series Batman, running from issue #608\u2013619 in December 2002 until November 2003. The story arc was written by Jeph Loeb, penciled by Jim Lee, inked by Scott Williams, and colored by Alex Sinclair.\u000aThe story depicts a mysterious stalker called Hush, who seems intent on sabotaging Batman from afar, and it includes a large number of guest appearances by Batman villains, as well as various members of the Batman Family and Batman's close ally Superman. It also explores the romantic potential between Batman and Catwoman.
+p68
+sS'content_cleaned'
+p69
 I01
 sS'classes'
-p68
-(lp69
-Vto-read
 p70
-aVshort-story
-p71
-aVsci-fi
+(lp71
+Vto-read
 p72
-aVsf-short-stories
+aVshort-story
 p73
-aVscience-fiction
+aVsci-fi
 p74
-aVcurrently-reading
+aVsf-short-stories
 p75
-aVnope
+aVscience-fiction
 p76
-asS'loc_class'
+aVcurrently-reading
 p77
-VPS: Language and Literatures: American and Canadian literature
+aVnope
 p78
-sS'n_authors'
+asS'loc_class'
 p79
+VPS: Language and Literatures: American and Canadian literature
+p80
+sS'n_authors'
+p81
 I1
 sb.

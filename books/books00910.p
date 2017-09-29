@@ -125,36 +125,40 @@ NsS'language'
 p58
 VEnglish
 p59
-sS'release_date'
+sS'countries'
 p60
-S'2010-06-08T00:00:00'
-p61
-sS'author'
+(lp61
+I3
+asS'release_date'
 p62
+S'2010-06-08T00:00:00'
+p63
+sS'author'
+p64
 I228
 sS'original_title'
-p63
-VMonster (Myers novel)
-p64
-sS'summary'
 p65
-VMonster is a young adult drama novel by American author Walter Dean Myers and was published by Harpercollins in 1999. It was nominated for the 1999 National Book Award for Young People's Literature, won the Michael L. Printz Award in 2000, and was named a Coretta Scott King Award Honor the same year.\u000aThe book uses a mixture of a third-person screenplay and a first-person diary format to tell, through the perspective of Steve Harmon, an African American teenager, the story of his trial along with James King for felony murder in the state of New York.
+VMonster (Myers novel)
 p66
-sS'content_cleaned'
+sS'summary'
 p67
+VMonster is a young adult drama novel by American author Walter Dean Myers and was published by Harpercollins in 1999. It was nominated for the 1999 National Book Award for Young People's Literature, won the Michael L. Printz Award in 2000, and was named a Coretta Scott King Award Honor the same year.\u000aThe book uses a mixture of a third-person screenplay and a first-person diary format to tell, through the perspective of Steve Harmon, an African American teenager, the story of his trial along with James King for felony murder in the state of New York.
+p68
+sS'content_cleaned'
+p69
 I01
 sS'classes'
-p68
-(lp69
-Vto-read
 p70
-aV21st-century-lit
-p71
-asS'loc_class'
+(lp71
+Vto-read
 p72
-VPS: Language and Literatures: American and Canadian literature
+aV21st-century-lit
 p73
-sS'n_authors'
+asS'loc_class'
 p74
+VPS: Language and Literatures: American and Canadian literature
+p75
+sS'n_authors'
+p76
 I1
 sb.

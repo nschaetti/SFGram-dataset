@@ -117,42 +117,46 @@ NsS'language'
 p54
 VEnglish
 p55
-sS'release_date'
+sS'countries'
 p56
-S'2010-03-15T00:00:00'
-p57
-sS'author'
+(lp57
+I2
+asS'release_date'
 p58
+S'2010-03-15T00:00:00'
+p59
+sS'author'
+p60
 I172
 sS'original_title'
-p59
-VVanity Fair (novel)
-p60
-sS'summary'
 p61
-VVanity Fair is an English novel by William Makepeace Thackeray which follows the lives of Becky Sharp and Emmy Sedley amid their friends and families during and after the Napoleonic Wars. It was first published as a 19-volume monthly serial from 1847 to 1848, carrying the subtitle Pen and Pencil Sketches of English Society, reflecting both its satirisation of early 19th-century British society and the many illustrations drawn by Thackeray to accompany the text. It was published as a single volume in 1848 with the subtitle A Novel without a Hero, reflecting Thackeray's interest in deconstructing his era's conventions regarding literary heroism. It is sometimes considered the "principal founder" of the Victorian domestic novel.\u000aThe story is framed as a puppet play and the narrator, despite being an authorial voice, is notoriously unreliable. Late in the narrative, it is revealed that the entire account has been 2nd- or 3rd-hand gossip the writer picked up "years ago" from Lord Tapeworm, British charge d'affaires in one of the minor German states and relative of several of the other aristocrats in the story but none of the main characters: "the famous little Becky puppet", "the Amelia Doll", "the Dobbin Figure", "the Little Boys", and "the Wicked Nobleman, on which no expense has been spared". Despite her many stated faults and still worse ones admitted to have been passed over in silence, Becky emerges as the "hero"\u2014what is now called an antihero\u2014in place of Amelia because Thackeray is able to illustrate that "the highest virtue a fictional character can possess is interest."\u000aThe serial was a popular and critical success; the novel is now considered a classic and has inspired several film adaptations. In 2003, Vanity Fair was listed at No. 122 on the BBC's The Big Read poll of the UK's best-loved books.
+VVanity Fair (novel)
 p62
-sS'content_cleaned'
+sS'summary'
 p63
+VVanity Fair is an English novel by William Makepeace Thackeray which follows the lives of Becky Sharp and Emmy Sedley amid their friends and families during and after the Napoleonic Wars. It was first published as a 19-volume monthly serial from 1847 to 1848, carrying the subtitle Pen and Pencil Sketches of English Society, reflecting both its satirisation of early 19th-century British society and the many illustrations drawn by Thackeray to accompany the text. It was published as a single volume in 1848 with the subtitle A Novel without a Hero, reflecting Thackeray's interest in deconstructing his era's conventions regarding literary heroism. It is sometimes considered the "principal founder" of the Victorian domestic novel.\u000aThe story is framed as a puppet play and the narrator, despite being an authorial voice, is notoriously unreliable. Late in the narrative, it is revealed that the entire account has been 2nd- or 3rd-hand gossip the writer picked up "years ago" from Lord Tapeworm, British charge d'affaires in one of the minor German states and relative of several of the other aristocrats in the story but none of the main characters: "the famous little Becky puppet", "the Amelia Doll", "the Dobbin Figure", "the Little Boys", and "the Wicked Nobleman, on which no expense has been spared". Despite her many stated faults and still worse ones admitted to have been passed over in silence, Becky emerges as the "hero"\u2014what is now called an antihero\u2014in place of Amelia because Thackeray is able to illustrate that "the highest virtue a fictional character can possess is interest."\u000aThe serial was a popular and critical success; the novel is now considered a classic and has inspired several film adaptations. In 2003, Vanity Fair was listed at No. 122 on the BBC's The Big Read poll of the UK's best-loved books.
+p64
+sS'content_cleaned'
+p65
 I01
 sS'classes'
-p64
-(lp65
-Vto-read
 p66
-aVsci-fi
-p67
-aVowned-pending-kindle-free-ebook
+(lp67
+Vto-read
 p68
-aVamazon-ebooks
+aVsci-fi
 p69
-aV15
+aVowned-pending-kindle-free-ebook
 p70
-asS'loc_class'
+aVamazon-ebooks
 p71
-VPS: Language and Literatures: American and Canadian literature
+aV15
 p72
-sS'n_authors'
+asS'loc_class'
 p73
+VPS: Language and Literatures: American and Canadian literature
+p74
+sS'n_authors'
+p75
 I1
 sb.

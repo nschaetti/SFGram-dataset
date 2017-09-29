@@ -52,6 +52,9 @@
     ], 
     "pages": 171, 
     "language": "English", 
+    "countries": [
+        3
+    ], 
     "release_date": "2016-03-24T00:00:00", 
     "author": 229, 
     "content_cleaned": true, 

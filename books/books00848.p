@@ -139,40 +139,44 @@ NsS'language'
 p65
 VEnglish
 p66
-sS'release_date'
+sS'countries'
 p67
-S'2007-11-06T00:00:00'
-p68
-sS'author'
+(lp68
+I2
+asS'release_date'
 p69
+S'2007-11-06T00:00:00'
+p70
+sS'author'
+p71
 I266
 sS'original_title'
-p70
-VThe Mill on the Floss
-p71
-sS'summary'
 p72
-VThe Mill on the Floss is a novel by George Eliot (Mary Ann Evans), first published in three volumes in 1860 by William Blackwood. The first American edition was published by Harper & Brothers, Publishers, New York.
+VThe Mill on the Floss
 p73
-sS'content_cleaned'
+sS'summary'
 p74
+VThe Mill on the Floss is a novel by George Eliot (Mary Ann Evans), first published in three volumes in 1860 by William Blackwood. The first American edition was published by Harper & Brothers, Publishers, New York.
+p75
+sS'content_cleaned'
+p76
 I00
 sS'classes'
-p75
-(lp76
-Vshort-story
 p77
-aV15
-p78
-aVto-read
+(lp78
+Vshort-story
 p79
-aVtype-short-story
+aV15
 p80
-asS'loc_class'
+aVto-read
 p81
-VPS: Language and Literatures: American and Canadian literature
+aVtype-short-story
 p82
-sS'n_authors'
+asS'loc_class'
 p83
+VPS: Language and Literatures: American and Canadian literature
+p84
+sS'n_authors'
+p85
 I1
 sb.

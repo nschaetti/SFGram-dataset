@@ -197,42 +197,46 @@ NsS'language'
 p94
 VEnglish
 p95
-sS'release_date'
+sS'countries'
 p96
-S'2007-09-05T00:00:00'
-p97
-sS'author'
+(lp97
+I2
+asS'release_date'
 p98
+S'2007-09-05T00:00:00'
+p99
+sS'author'
+p100
 I236
 sS'original_title'
-p99
-VThe Stranger (novel)
-p100
-sS'summary'
 p101
-VL\u2019�tranger (The Outsider [UK], or The Stranger [US]) is a 1942 novel by French author Albert Camus. Its theme and outlook are often cited as examples of Camus' philosophy of the absurd and existentialism, though Camus personally rejected the latter label.\u000aThe title character is Meursault, an indifferent French Algerian described as "a citizen of France domiciled in North Africa, a man of the Mediterranean, an homme du midi yet one who hardly partakes of the traditional Mediterranean culture". He attends his mother's funeral. A few days later, he kills an Arab man in French Algiers, who was involved in a conflict with a friend. Meursault is tried and sentenced to death. The story is divided into two parts, presenting Meursault's first-person narrative view before and after the murder, respectively.\u000aIn January 1955, Camus wrote:\u000a\u000aI summarized The Stranger a long time ago, with a remark I admit was highly paradoxical: 'In our society any man who does not weep at his mother's funeral runs the risk of being sentenced to death.' I only meant that the hero of my book is condemned because he does not play the game.\u000a\u000aThe Stranger's first edition consisted of 4,400 copies and was not an immediate best-seller. But the novel was well received, partly because of Jean-Paul Sartre's article "Explication de L'Etranger," on the eve of publication of the novel, and a mistake from the Propaganda-Staffel. Translated four times into English, and also into numerous other languages, the novel has long been considered a classic of 20th-century literature. Le Monde ranks it as number one on its 100 Books of the Century.\u000aThe novel was twice adapted as films: Lo Straniero (1967) (Italian) by Luchino Visconti and Yazg\u0131 (Fate) by Zeki Demirkubuz (Turkish).
+VThe Stranger (novel)
 p102
-sS'content_cleaned'
+sS'summary'
 p103
+VL\u2019�tranger (The Outsider [UK], or The Stranger [US]) is a 1942 novel by French author Albert Camus. Its theme and outlook are often cited as examples of Camus' philosophy of the absurd and existentialism, though Camus personally rejected the latter label.\u000aThe title character is Meursault, an indifferent French Algerian described as "a citizen of France domiciled in North Africa, a man of the Mediterranean, an homme du midi yet one who hardly partakes of the traditional Mediterranean culture". He attends his mother's funeral. A few days later, he kills an Arab man in French Algiers, who was involved in a conflict with a friend. Meursault is tried and sentenced to death. The story is divided into two parts, presenting Meursault's first-person narrative view before and after the murder, respectively.\u000aIn January 1955, Camus wrote:\u000a\u000aI summarized The Stranger a long time ago, with a remark I admit was highly paradoxical: 'In our society any man who does not weep at his mother's funeral runs the risk of being sentenced to death.' I only meant that the hero of my book is condemned because he does not play the game.\u000a\u000aThe Stranger's first edition consisted of 4,400 copies and was not an immediate best-seller. But the novel was well received, partly because of Jean-Paul Sartre's article "Explication de L'Etranger," on the eve of publication of the novel, and a mistake from the Propaganda-Staffel. Translated four times into English, and also into numerous other languages, the novel has long been considered a classic of 20th-century literature. Le Monde ranks it as number one on its 100 Books of the Century.\u000aThe novel was twice adapted as films: Lo Straniero (1967) (Italian) by Luchino Visconti and Yazg\u0131 (Fate) by Zeki Demirkubuz (Turkish).
+p104
+sS'content_cleaned'
+p105
 I01
 sS'classes'
-p104
-(lp105
-Vexcess-kindle
 p106
-aV1-owning
-p107
-aVfantasy
+(lp107
+Vexcess-kindle
 p108
-aVshort-story
+aV1-owning
 p109
-aVscifi
+aVfantasy
 p110
-asS'loc_class'
+aVshort-story
 p111
-VPS: Language and Literatures: American and Canadian literature
+aVscifi
 p112
-sS'n_authors'
+asS'loc_class'
 p113
+VPS: Language and Literatures: American and Canadian literature
+p114
+sS'n_authors'
+p115
 I1
 sb.

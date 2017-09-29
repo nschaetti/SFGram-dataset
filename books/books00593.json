@@ -47,6 +47,9 @@
     ], 
     "pages": 22, 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2007-10-12T00:00:00", 
     "author": 91, 
     "content_cleaned": true, 

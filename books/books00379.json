@@ -32,6 +32,9 @@
         123
     ], 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2010-05-29T00:00:00", 
     "author": 123, 
     "content_cleaned": true, 

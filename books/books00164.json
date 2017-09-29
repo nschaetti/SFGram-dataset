@@ -56,6 +56,10 @@
     "pages": 224, 
     "language": "English", 
     "isbn13": "9780441062966", 
+    "countries": [
+        1, 
+        24
+    ], 
     "release_date": "1996-07-01T00:00:00", 
     "author": 57, 
     "original_title": "Lieut. Gullivar Jones: His Vacation", 

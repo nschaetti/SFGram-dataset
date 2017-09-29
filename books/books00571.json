@@ -78,6 +78,9 @@
     ], 
     "pages": 274, 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2008-10-19T00:00:00", 
     "author": 79, 
     "content_cleaned": true, 

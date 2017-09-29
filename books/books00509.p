@@ -154,48 +154,52 @@ sS'language'
 p72
 VEnglish
 p73
-sS'release_date'
+sS'countries'
 p74
-S'2008-10-19T00:00:00'
-p75
-sS'author'
+(lp75
+I2
+asS'release_date'
 p76
+S'2008-10-19T00:00:00'
+p77
+sS'author'
+p78
 I79
 sS'original_title'
-p77
-VIt (novel)
-p78
-sS'summary'
 p79
-VIt is a 1986 horror novel by American author Stephen King. It was his 22nd book and 18th novel written under his own name. The story follows the experiences of seven children as they are terrorized by a being, which exploits the fears and phobias of its victims in order to disguise itself while hunting its prey. "It" primarily appears in the form of a clown in order to attract its preferred prey of young children.\u000aThe novel is told through narratives alternating between two time periods, and is largely told in the third-person omniscient mode. It deals with themes that eventually became King staples: the power of memory, childhood trauma and its recurrent echoes in adulthood, the ugliness lurking behind a fa�ade of small-town quaintness, and overcoming evil through mutual trust and sacrifice. The novel won the British Fantasy Award in 1987, and received nominations for the Locus and World Fantasy Awards that same year. Publishers Weekly listed It as the best-selling book in the United States in 1986.
+VIt (novel)
 p80
-sS'content_cleaned'
+sS'summary'
 p81
+VIt is a 1986 horror novel by American author Stephen King. It was his 22nd book and 18th novel written under his own name. The story follows the experiences of seven children as they are terrorized by a being, which exploits the fears and phobias of its victims in order to disguise itself while hunting its prey. "It" primarily appears in the form of a clown in order to attract its preferred prey of young children.\u000aThe novel is told through narratives alternating between two time periods, and is largely told in the third-person omniscient mode. It deals with themes that eventually became King staples: the power of memory, childhood trauma and its recurrent echoes in adulthood, the ugliness lurking behind a fa�ade of small-town quaintness, and overcoming evil through mutual trust and sacrifice. The novel won the British Fantasy Award in 1987, and received nominations for the Locus and World Fantasy Awards that same year. Publishers Weekly listed It as the best-selling book in the United States in 1986.
+p82
+sS'content_cleaned'
+p83
 I01
 sS'classes'
-p82
-(lp83
-Vto-read
 p84
-aVjunk
-p85
-aVscience-fiction
+(lp85
+Vto-read
 p86
-aVe-shelf
+aVjunk
 p87
-aVon-calibre
+aVscience-fiction
 p88
-aVmaybe-reads
+aVe-shelf
 p89
-aVtbr-ebook
+aVon-calibre
 p90
-aVfront-shelf
+aVmaybe-reads
 p91
-asS'loc_class'
+aVtbr-ebook
 p92
-VPS: Language and Literatures: American and Canadian literature
+aVfront-shelf
 p93
-sS'n_authors'
+asS'loc_class'
 p94
+VPS: Language and Literatures: American and Canadian literature
+p95
+sS'n_authors'
+p96
 I1
 sb.

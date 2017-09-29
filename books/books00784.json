@@ -69,6 +69,9 @@
     "pages": 336, 
     "language": "English", 
     "isbn13": "9780062074690", 
+    "countries": [
+        3
+    ], 
     "release_date": "2008-04-02T00:00:00", 
     "author": 250, 
     "content_cleaned": true, 

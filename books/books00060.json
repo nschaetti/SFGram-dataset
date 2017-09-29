@@ -214,6 +214,9 @@
     "pages": 156, 
     "language": "English", 
     "isbn13": "9781434401281", 
+    "countries": [
+        2
+    ], 
     "release_date": "2007-03-25T00:00:00", 
     "author": 14, 
     "original_title": "Vector Prime", 

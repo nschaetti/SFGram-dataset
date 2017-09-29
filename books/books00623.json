@@ -47,6 +47,10 @@
     "pages": 50, 
     "language": "English", 
     "isbn13": "9783655181249", 
+    "countries": [
+        8, 
+        1
+    ], 
     "release_date": "2006-04-24T00:00:00", 
     "author": 33, 
     "original_title": "Overclocked: Stories of the Future Present", 

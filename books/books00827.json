@@ -58,6 +58,9 @@
     "pages": 357, 
     "language": "English", 
     "isbn13": "9780753539798", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-03-13T00:00:00", 
     "author": 205, 
     "content_cleaned": true, 

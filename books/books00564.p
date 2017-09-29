@@ -123,48 +123,52 @@ sS'language'
 p57
 VEnglish
 p58
-sS'release_date'
+sS'countries'
 p59
-S'2009-09-17T00:00:00'
-p60
-sS'author'
+(lp60
+I3
+asS'release_date'
 p61
+S'2009-09-17T00:00:00'
+p62
+sS'author'
+p63
 I188
 sS'original_title'
-p62
-VThe Little Prince
-p63
-sS'summary'
 p64
-VThe Little Prince (French: Le Petit Prince; French pronunciation: \u200b[l\u0259 p\u0259ti p\u0281\u025b\u0303s]), first published in 1943, is a novella, the most famous work of French aristocrat, writer, poet, and pioneering aviator Antoine de Saint-Exup�ry (1900\u20131944).\u000aThe novella is one of the most-translated books in the world and was voted the best book of the 20th century in France. Translated into 300 languages and dialects (as well as Braille), selling nearly two million copies annually with sales totaling over 140 million copies worldwide, it has become one of the best-selling books ever published.\u000aAfter the outbreak of the Second World War Saint-Exup�ry was exiled to North America. In the midst of personal upheavals and failing health, he produced almost half of the writings for which he would be remembered, including a tender tale of loneliness, friendship, love, and loss, in the form of a young prince fallen to Earth. An earlier memoir by the author had recounted his aviation experiences in the Sahara Desert, and he is thought to have drawn on those same experiences in The Little Prince.\u000aSince its first publication in the United States, the novella has been adapted to numerous art forms and media, including audio recordings, radio plays, live stage, film, television, ballet, and operatic works.
+VThe Little Prince
 p65
-sS'content_cleaned'
+sS'summary'
 p66
+VThe Little Prince (French: Le Petit Prince; French pronunciation: \u200b[l\u0259 p\u0259ti p\u0281\u025b\u0303s]), first published in 1943, is a novella, the most famous work of French aristocrat, writer, poet, and pioneering aviator Antoine de Saint-Exup�ry (1900\u20131944).\u000aThe novella is one of the most-translated books in the world and was voted the best book of the 20th century in France. Translated into 300 languages and dialects (as well as Braille), selling nearly two million copies annually with sales totaling over 140 million copies worldwide, it has become one of the best-selling books ever published.\u000aAfter the outbreak of the Second World War Saint-Exup�ry was exiled to North America. In the midst of personal upheavals and failing health, he produced almost half of the writings for which he would be remembered, including a tender tale of loneliness, friendship, love, and loss, in the form of a young prince fallen to Earth. An earlier memoir by the author had recounted his aviation experiences in the Sahara Desert, and he is thought to have drawn on those same experiences in The Little Prince.\u000aSince its first publication in the United States, the novella has been adapted to numerous art forms and media, including audio recordings, radio plays, live stage, film, television, ballet, and operatic works.
+p67
+sS'content_cleaned'
+p68
 I01
 sS'classes'
-p67
-(lp68
-Vscience-fiction
 p69
-aVshort-story
-p70
-aVbooks-i-reviewed
+(lp70
+Vscience-fiction
 p71
-aVaudio-obtained-lvss
+aVshort-story
 p72
-aVshort-stories
+aVbooks-i-reviewed
 p73
-aVscience-ficton
+aVaudio-obtained-lvss
 p74
-aVtype-short-story
+aVshort-stories
 p75
-aVaudio-obtained-ss
+aVscience-ficton
 p76
-asS'loc_class'
+aVtype-short-story
 p77
-VPS: Language and Literatures: American and Canadian literature
+aVaudio-obtained-ss
 p78
-sS'n_authors'
+asS'loc_class'
 p79
+VPS: Language and Literatures: American and Canadian literature
+p80
+sS'n_authors'
+p81
 I1
 sb.

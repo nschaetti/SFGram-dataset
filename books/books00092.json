@@ -40,6 +40,9 @@
     ], 
     "language": "English", 
     "isbn13": "9781548751173", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-04-03T00:00:00", 
     "author": 34, 
     "content_cleaned": true, 

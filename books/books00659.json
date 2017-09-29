@@ -37,6 +37,9 @@
     "pages": 386, 
     "language": "French", 
     "isbn13": "9782731239416", 
+    "countries": [
+        4
+    ], 
     "release_date": "1997-01-01T00:00:00", 
     "author": 6, 
     "original_title": "From the Earth to the Moon", 

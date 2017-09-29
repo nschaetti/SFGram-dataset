@@ -38,6 +38,9 @@
     ], 
     "pages": 16, 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-01-01T00:00:00", 
     "author": 32, 
     "original_title": "The SFWA Grand Masters, Volume 1", 

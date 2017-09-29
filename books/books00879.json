@@ -58,6 +58,9 @@
     "pages": 147, 
     "language": "English", 
     "isbn13": "9781633552951", 
+    "countries": [
+        2
+    ], 
     "release_date": "2009-11-09T00:00:00", 
     "author": 49, 
     "content_cleaned": true, 

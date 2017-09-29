@@ -132,44 +132,48 @@ sS'language'
 p61
 VEnglish
 p62
-sS'release_date'
+sS'countries'
 p63
-S'2010-06-03T00:00:00'
-p64
-sS'author'
+(lp64
+I3
+asS'release_date'
 p65
+S'2010-06-03T00:00:00'
+p66
+sS'author'
+p67
 I228
 sS'original_title'
-p66
-VThe Passage (Cronin novel)
-p67
-sS'summary'
 p68
-VThe Passage is a novel by Justin Cronin, published in 2010 by Ballantine Books, a division of Random House, Inc., New York. The Passage debuted at #3 on the New York Times hardcover fiction best seller list, and remained on the list for seven additional weeks. It is the first novel of a completed trilogy; the second book The Twelve was released in 2012, and the third book The City of Mirrors released in 2016. The novel and its sequels were to be adapted into a film trilogy; however, they will now be written for television.
+VThe Passage (Cronin novel)
 p69
-sS'content_cleaned'
+sS'summary'
 p70
+VThe Passage is a novel by Justin Cronin, published in 2010 by Ballantine Books, a division of Random House, Inc., New York. The Passage debuted at #3 on the New York Times hardcover fiction best seller list, and remained on the list for seven additional weeks. It is the first novel of a completed trilogy; the second book The Twelve was released in 2012, and the third book The City of Mirrors released in 2016. The novel and its sequels were to be adapted into a film trilogy; however, they will now be written for television.
+p71
+sS'content_cleaned'
+p72
 I01
 sS'classes'
-p71
-(lp72
-Vto-read
 p73
-aV21st-century-lit
-p74
-aVebook-epub
+(lp74
+Vto-read
 p75
-aVscience-fiction
+aV21st-century-lit
 p76
-aVrandy
+aVebook-epub
 p77
-aV100-or-less
+aVscience-fiction
 p78
-asS'loc_class'
+aVrandy
 p79
-VPS: Language and Literatures: American and Canadian literature
+aV100-or-less
 p80
-sS'n_authors'
+asS'loc_class'
 p81
+VPS: Language and Literatures: American and Canadian literature
+p82
+sS'n_authors'
+p83
 I1
 sb.

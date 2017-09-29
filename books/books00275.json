@@ -37,6 +37,9 @@
     "pages": 38, 
     "language": "English", 
     "isbn13": "9781557428103", 
+    "countries": [
+        2
+    ], 
     "release_date": "2009-09-16T00:00:00", 
     "author": 89, 
     "classes": [

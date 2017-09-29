@@ -56,6 +56,9 @@
     ], 
     "pages": 384, 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-01-24T00:00:00", 
     "author": 247, 
     "content_cleaned": true, 

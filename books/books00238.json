@@ -50,6 +50,9 @@
     "pages": 288, 
     "language": "English", 
     "isbn13": "9780870679780", 
+    "countries": [
+        2
+    ], 
     "release_date": "2009-08-31T00:00:00", 
     "author": 23, 
     "content_cleaned": true, 

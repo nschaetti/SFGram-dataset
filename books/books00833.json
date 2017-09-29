@@ -60,6 +60,9 @@
     "pages": 340, 
     "language": "English", 
     "isbn13": "9781479336210", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-03-19T00:00:00", 
     "author": 142, 
     "content_cleaned": true, 

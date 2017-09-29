@@ -54,6 +54,9 @@
     "pages": 192, 
     "language": "English", 
     "isbn13": "9780375759239", 
+    "countries": [
+        1
+    ], 
     "release_date": "2004-10-01T00:00:00", 
     "author": 1, 
     "original_title": "The War of the Worlds", 

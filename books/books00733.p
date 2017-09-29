@@ -117,32 +117,36 @@ sS'language'
 p54
 VEnglish
 p55
-sS'release_date'
+sS'countries'
 p56
-S'2009-09-14T00:00:00'
-p57
-sS'author'
+(lp57
+I2
+asS'release_date'
 p58
+S'2009-09-14T00:00:00'
+p59
+sS'author'
+p60
 I94
 sS'original_title'
-p59
-VThe Missing Peace
-p60
-sS'summary'
 p61
-VThe Missing Peace: The Inside Story of the Fight for Middle East Peace (ISBN 0-374-19973-6) is a 2004 non-fiction book by Dennis Ross on the history of and his participation in the Israeli\u2013Palestinian peace process and the Arab\u2013Israeli peace process. Ross, an American diplomat, was the Director of Policy Planning in the State Department under President George H. W. Bush and the special Middle East coordinator under President Bill Clinton.\u000a\u000a
+VThe Missing Peace
 p62
-sS'content_cleaned'
+sS'summary'
 p63
+VThe Missing Peace: The Inside Story of the Fight for Middle East Peace (ISBN 0-374-19973-6) is a 2004 non-fiction book by Dennis Ross on the history of and his participation in the Israeli\u2013Palestinian peace process and the Arab\u2013Israeli peace process. Ross, an American diplomat, was the Director of Policy Planning in the State Department under President George H. W. Bush and the special Middle East coordinator under President Bill Clinton.\u000a\u000a
+p64
+sS'content_cleaned'
+p65
 I01
 sS'classes'
-p64
-(lp65
-sS'loc_class'
 p66
-VPS: Language and Literatures: American and Canadian literature
-p67
-sS'n_authors'
+(lp67
+sS'loc_class'
 p68
+VPS: Language and Literatures: American and Canadian literature
+p69
+sS'n_authors'
+p70
 I1
 sb.

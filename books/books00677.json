@@ -61,6 +61,9 @@
     "pages": 34, 
     "language": "English", 
     "isbn13": "9781463897086", 
+    "countries": [
+        2
+    ], 
     "release_date": "2007-10-20T00:00:00", 
     "author": 94, 
     "original_title": "The King Must Die", 

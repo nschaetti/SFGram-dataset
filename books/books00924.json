@@ -60,6 +60,9 @@
     "pages": 319, 
     "language": "English", 
     "isbn13": "9780802720870", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-02-20T00:00:00", 
     "author": 149, 
     "content_cleaned": true, 

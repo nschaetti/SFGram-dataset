@@ -53,6 +53,9 @@
     ], 
     "pages": 370, 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2006-08-22T00:00:00", 
     "author": 19, 
     "content_cleaned": true, 

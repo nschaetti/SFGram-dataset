@@ -443,6 +443,9 @@
     "pages": 400, 
     "language": "French", 
     "isbn13": "9782701189673", 
+    "countries": [
+        4
+    ], 
     "release_date": "2011-01-28T00:00:00", 
     "author": 128, 
     "content_cleaned": true, 

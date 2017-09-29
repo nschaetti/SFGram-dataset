@@ -117,44 +117,48 @@ sS'language'
 p54
 VEnglish
 p55
-sS'release_date'
+sS'countries'
 p56
-S'2004-04-01T00:00:00'
-p57
-sS'author'
+(lp57
+I1
+asS'release_date'
 p58
+S'2004-04-01T00:00:00'
+p59
+sS'author'
+p60
 I1
 sS'original_title'
-p59
-VThe Country of the Blind and Other Stories
-p60
-sS'summary'
 p61
-VThe Country of the Blind and Other Stories is a collection of thirty-three fantasy and science fiction short stories written by the English author H. G. Wells between 1894 and 1909. It was first published by Thomas Nelson and Sons in 1911. All the stories had first been published in various weekly and monthly periodicals. Twenty-seven of the stories had also been previously published in five earlier story collections by Wells.\u000aThe title of this collection refers to one of Wells's best known short stories, "The Country of the Blind", which is included in this book.
+VThe Country of the Blind and Other Stories
 p62
-sS'content_cleaned'
+sS'summary'
 p63
+VThe Country of the Blind and Other Stories is a collection of thirty-three fantasy and science fiction short stories written by the English author H. G. Wells between 1894 and 1909. It was first published by Thomas Nelson and Sons in 1911. All the stories had first been published in various weekly and monthly periodicals. Twenty-seven of the stories had also been previously published in five earlier story collections by Wells.\u000aThe title of this collection refers to one of Wells's best known short stories, "The Country of the Blind", which is included in this book.
+p64
+sS'content_cleaned'
+p65
 I00
 sS'classes'
-p64
-(lp65
-Vshort-stories
 p66
-aVscience-fiction
-p67
-aVfiction
+(lp67
+Vshort-stories
 p68
-aVebook
+aVscience-fiction
 p69
-aVclassic-literature
+aVfiction
 p70
-aVto-read
+aVebook
 p71
-asS'loc_class'
+aVclassic-literature
 p72
-VPR: Language and Literatures: English literature
+aVto-read
 p73
-sS'n_authors'
+asS'loc_class'
 p74
+VPR: Language and Literatures: English literature
+p75
+sS'n_authors'
+p76
 I1
 sb.

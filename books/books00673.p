@@ -125,38 +125,42 @@ NsS'language'
 p58
 VEnglish
 p59
-sS'release_date'
+sS'countries'
 p60
-S'2009-09-15T00:00:00'
-p61
-sS'author'
+(lp61
+I2
+asS'release_date'
 p62
+S'2009-09-15T00:00:00'
+p63
+sS'author'
+p64
 I94
 sS'original_title'
-p63
-VFer-de-Lance (novel)
-p64
-sS'summary'
 p65
-VFer-de-Lance is the first Nero Wolfe detective novel written by Rex Stout, published in 1934 by Farrar & Rinehart, Inc. The novel appeared in abridged form in The American Magazine (November 1934) under the title "Point of Death." The novel was adapted for the 1936 movie Meet Nero Wolfe. In his seminal 1941 work, Murder for Pleasure, crime fiction historian Howard Haycraft included Fer-de-Lance in his definitive list of the most influential works of mystery fiction.
+VFer-de-Lance (novel)
 p66
-sS'content_cleaned'
+sS'summary'
 p67
+VFer-de-Lance is the first Nero Wolfe detective novel written by Rex Stout, published in 1934 by Farrar & Rinehart, Inc. The novel appeared in abridged form in The American Magazine (November 1934) under the title "Point of Death." The novel was adapted for the 1936 movie Meet Nero Wolfe. In his seminal 1941 work, Murder for Pleasure, crime fiction historian Howard Haycraft included Fer-de-Lance in his definitive list of the most influential works of mystery fiction.
+p68
+sS'content_cleaned'
+p69
 I01
 sS'classes'
-p68
-(lp69
-Vto-read
 p70
-aVfree-from-amazon
-p71
-aVclassic
+(lp71
+Vto-read
 p72
-asS'loc_class'
+aVfree-from-amazon
 p73
-VPS: Language and Literatures: American and Canadian literature
+aVclassic
 p74
-sS'n_authors'
+asS'loc_class'
 p75
+VPS: Language and Literatures: American and Canadian literature
+p76
+sS'n_authors'
+p77
 I1
 sb.

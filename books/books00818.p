@@ -119,36 +119,40 @@ NsS'language'
 p55
 VEnglish
 p56
-sS'release_date'
+sS'countries'
 p57
-S'2009-07-12T00:00:00'
-p58
-sS'author'
+(lp58
+I2
+asS'release_date'
 p59
+S'2009-07-12T00:00:00'
+p60
+sS'author'
+p61
 I261
 sS'original_title'
-p60
-VChemmeen (novel)
-p61
-sS'summary'
 p62
-VChemmeen (Malayalam: \u0d1a\u0d46\u0d2e\u0d4d\u0d2e\u0d40\u0d7b, cemm\u012bn [t\u0361\u0283emmi\u02d0n], lit. prawn) is a Malayalam novel written by Thakazhi Sivasankara Pillai in 1956. Chemmeen tells the story of the relationship between Karuthamma, the daughter of a Hindu fisherman, and Pareekutti, the son of a Muslim fish wholesaler. The theme of the novel is a myth among the fishermen communities along the coastal Kerala State in the Southern India. The myth is about chastity. If the married fisher woman was infidel when her husband was in the sea, the Sea Goddess (Kadalamma literally means Mother Sea) would consume him. It is to perpetuate this myth that Thakazhi wrote this beautiful novel. It was adapted into a film of same name, which won critical acclaim and commercial success.\u000aThakazhi made a departure from his a vowed commitment to realism as it appeared in his works till then he brought in a fresh breeze of lyricism and romanticism. The novel acquires the quality of a fable in which life in the fishermen\u2019s community is depicted with great emotional detail. The customs, taboos, beliefs, rituals and the day-to-day business of living through the pain of stark existence come alive magically through Thakazhi\u2019s pen.\u000aChemmeen won the Kendra Sahitya Akademi Award, India's second highest literary prize, in 1957.
+VChemmeen (novel)
 p63
-sS'content_cleaned'
+sS'summary'
 p64
+VChemmeen (Malayalam: \u0d1a\u0d46\u0d2e\u0d4d\u0d2e\u0d40\u0d7b, cemm\u012bn [t\u0361\u0283emmi\u02d0n], lit. prawn) is a Malayalam novel written by Thakazhi Sivasankara Pillai in 1956. Chemmeen tells the story of the relationship between Karuthamma, the daughter of a Hindu fisherman, and Pareekutti, the son of a Muslim fish wholesaler. The theme of the novel is a myth among the fishermen communities along the coastal Kerala State in the Southern India. The myth is about chastity. If the married fisher woman was infidel when her husband was in the sea, the Sea Goddess (Kadalamma literally means Mother Sea) would consume him. It is to perpetuate this myth that Thakazhi wrote this beautiful novel. It was adapted into a film of same name, which won critical acclaim and commercial success.\u000aThakazhi made a departure from his a vowed commitment to realism as it appeared in his works till then he brought in a fresh breeze of lyricism and romanticism. The novel acquires the quality of a fable in which life in the fishermen\u2019s community is depicted with great emotional detail. The customs, taboos, beliefs, rituals and the day-to-day business of living through the pain of stark existence come alive magically through Thakazhi\u2019s pen.\u000aChemmeen won the Kendra Sahitya Akademi Award, India's second highest literary prize, in 1957.
+p65
+sS'content_cleaned'
+p66
 I01
 sS'classes'
-p65
-(lp66
-Vto-read
 p67
-aVcurrently-reading
-p68
-asS'loc_class'
+(lp68
+Vto-read
 p69
-VPS: Language and Literatures: American and Canadian literature
+aVcurrently-reading
 p70
-sS'n_authors'
+asS'loc_class'
 p71
+VPS: Language and Literatures: American and Canadian literature
+p72
+sS'n_authors'
+p73
 I1
 sb.

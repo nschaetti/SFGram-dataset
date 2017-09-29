@@ -34,6 +34,9 @@
     ], 
     "isbn13": "9781428052840", 
     "language": "English", 
+    "countries": [
+        3
+    ], 
     "release_date": "2006-09-10T00:00:00", 
     "author": 119, 
     "content_cleaned": true, 

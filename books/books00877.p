@@ -119,40 +119,44 @@ NsS'language'
 p55
 VEnglish
 p56
-sS'release_date'
+sS'countries'
 p57
-S'2009-11-17T00:00:00'
-p58
-sS'author'
+(lp58
+I2
+asS'release_date'
 p59
+S'2009-11-17T00:00:00'
+p60
+sS'author'
+p61
 I121
 sS'original_title'
-p60
-VDime Store Magic
-p61
-sS'summary'
 p62
-VDime Store Magic is a fantasy novel by written by Kelley Armstrong. It is the third in the Women of the Otherworld series featuring Paige Winterbourne. First seen in Stolen, Paige is a witch, the only daughter of the now deceased Coven leader and expected to follow in her mother's footsteps. Guardian of young teenage witch, Savannah, following the events of Stolen, Paige finds herself confronting a telekinetic half-demon and a powerful cabal of sorcerers as she attempts to protect her ward.
+VDime Store Magic
 p63
-sS'content_cleaned'
+sS'summary'
 p64
+VDime Store Magic is a fantasy novel by written by Kelley Armstrong. It is the third in the Women of the Otherworld series featuring Paige Winterbourne. First seen in Stolen, Paige is a witch, the only daughter of the now deceased Coven leader and expected to follow in her mother's footsteps. Guardian of young teenage witch, Savannah, following the events of Stolen, Paige finds herself confronting a telekinetic half-demon and a powerful cabal of sorcerers as she attempts to protect her ward.
+p65
+sS'content_cleaned'
+p66
 I01
 sS'classes'
-p65
-(lp66
-Vunread
 p67
-aVebooks
-p68
-aV14
+(lp68
+Vunread
 p69
-aVstanza
+aVebooks
 p70
-asS'loc_class'
+aV14
 p71
-VPS: Language and Literatures: American and Canadian literature
+aVstanza
 p72
-sS'n_authors'
+asS'loc_class'
 p73
+VPS: Language and Literatures: American and Canadian literature
+p74
+sS'n_authors'
+p75
 I1
 sb.

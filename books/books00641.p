@@ -119,36 +119,40 @@ NsS'language'
 p55
 VEnglish
 p56
-sS'release_date'
+sS'countries'
 p57
-S'2009-07-13T00:00:00'
-p58
-sS'author'
+(lp58
+I2
+asS'release_date'
 p59
+S'2009-07-13T00:00:00'
+p60
+sS'author'
+p61
 I139
 sS'original_title'
-p60
-VPlague Ship
-p61
-sS'summary'
 p62
-VPlague Ship is a science fiction novel by author Andrew North (pseudonym of Alice Mary Norton, also known as Andre Norton). It was published in 1956 by Gnome Press in an edition of 5,000 copies. The book is the second volume of the author's Solar Queen series.\u000a\u000a
+VPlague Ship
 p63
-sS'content_cleaned'
+sS'summary'
 p64
+VPlague Ship is a science fiction novel by author Andrew North (pseudonym of Alice Mary Norton, also known as Andre Norton). It was published in 1956 by Gnome Press in an edition of 5,000 copies. The book is the second volume of the author's Solar Queen series.\u000a\u000a
+p65
+sS'content_cleaned'
+p66
 I01
 sS'classes'
-p65
-(lp66
-Vto-read
 p67
-aVcurrently-reading
-p68
-asS'loc_class'
+(lp68
+Vto-read
 p69
-VPS: Language and Literatures: American and Canadian literature
+aVcurrently-reading
 p70
-sS'n_authors'
+asS'loc_class'
 p71
+VPS: Language and Literatures: American and Canadian literature
+p72
+sS'n_authors'
+p73
 I1
 sb.

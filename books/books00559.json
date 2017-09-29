@@ -38,6 +38,9 @@
     "pages": 56, 
     "language": "English", 
     "isbn13": "9781463800178", 
+    "countries": [
+        2
+    ], 
     "release_date": "2010-06-12T00:00:00", 
     "author": 148, 
     "content_cleaned": true, 

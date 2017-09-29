@@ -49,6 +49,9 @@
     "pages": 236, 
     "language": "Dutch", 
     "isbn13": "9781537160917", 
+    "countries": [
+        4
+    ], 
     "release_date": "2004-03-01T00:00:00", 
     "author": 6, 
     "content_cleaned": true, 

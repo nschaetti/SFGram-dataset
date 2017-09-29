@@ -57,6 +57,9 @@
     "pages": 428, 
     "language": "English", 
     "isbn13": "9781558749207", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-03-08T00:00:00", 
     "author": 110, 
     "content_cleaned": true, 

@@ -40,6 +40,9 @@
     "pages": 224, 
     "language": "English", 
     "isbn13": "9780684814902", 
+    "countries": [
+        3
+    ], 
     "release_date": "2016-03-10T00:00:00", 
     "author": 228, 
     "original_title": "The English Huswife", 

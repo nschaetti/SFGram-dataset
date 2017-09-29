@@ -34,6 +34,9 @@
     ], 
     "pages": 10, 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2009-02-13T00:00:00", 
     "author": 47, 
     "content_cleaned": true, 

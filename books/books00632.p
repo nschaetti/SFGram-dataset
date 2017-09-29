@@ -128,40 +128,44 @@ sS'language'
 p59
 VEnglish
 p60
-sS'release_date'
+sS'countries'
 p61
-S'2010-05-02T00:00:00'
-p62
-sS'author'
+(lp62
+I2
+asS'release_date'
 p63
+S'2010-05-02T00:00:00'
+p64
+sS'author'
+p65
 I162
 sS'original_title'
-p64
-VFor Your Eyes Only (short story collection)
-p65
-sS'summary'
 p66
-VFor Your Eyes Only is a collection of short stories by the British author Ian Fleming, featuring the fictional British Secret Service agent Commander James Bond. It was first published by Jonathan Cape on 11 April 1960. It marked a change of format for Fleming, who had previously written James Bond stories only as full-length novels.\u000aThe collection contains five short stories: "From a View to a Kill", "For Your Eyes Only", "Quantum of Solace", "Risico" and "The Hildebrand Rarity". Four of the stories were adaptations of plots for a television series that was never filmed, while the fifth Fleming had written previously but not published. Fleming undertook some minor experiments with the format, including a story written as an homage to W. Somerset Maugham, an author he greatly admired.\u000aElements from the stories have been used in a number of the Eon Productions James Bond film series, including the 1981 film, For Your Eyes Only, starring Roger Moore as James Bond. The film used some elements and characters from the short stories "For Your Eyes Only" and "Risico". "From a View to a Kill" also gave part of its title (but no characters or plot elements) to the fourteenth Bond film, A View to a Kill (1985). Plot elements from "The Hildebrand Rarity" were used in the sixteenth Bond film, Licence to Kill (1989), and the twenty-fourth Bond film Spectre references the title. "Quantum of Solace" was used as the title for the twenty-second Bond film.
+VFor Your Eyes Only (short story collection)
 p67
-sS'content_cleaned'
+sS'summary'
 p68
+VFor Your Eyes Only is a collection of short stories by the British author Ian Fleming, featuring the fictional British Secret Service agent Commander James Bond. It was first published by Jonathan Cape on 11 April 1960. It marked a change of format for Fleming, who had previously written James Bond stories only as full-length novels.\u000aThe collection contains five short stories: "From a View to a Kill", "For Your Eyes Only", "Quantum of Solace", "Risico" and "The Hildebrand Rarity". Four of the stories were adaptations of plots for a television series that was never filmed, while the fifth Fleming had written previously but not published. Fleming undertook some minor experiments with the format, including a story written as an homage to W. Somerset Maugham, an author he greatly admired.\u000aElements from the stories have been used in a number of the Eon Productions James Bond film series, including the 1981 film, For Your Eyes Only, starring Roger Moore as James Bond. The film used some elements and characters from the short stories "For Your Eyes Only" and "Risico". "From a View to a Kill" also gave part of its title (but no characters or plot elements) to the fourteenth Bond film, A View to a Kill (1985). Plot elements from "The Hildebrand Rarity" were used in the sixteenth Bond film, Licence to Kill (1989), and the twenty-fourth Bond film Spectre references the title. "Quantum of Solace" was used as the title for the twenty-second Bond film.
+p69
+sS'content_cleaned'
+p70
 I01
 sS'classes'
-p69
-(lp70
-Vto-read
 p71
-aVscience-fiction
-p72
-aV21st-century-lit
+(lp72
+Vto-read
 p73
-aVa
+aVscience-fiction
 p74
-asS'loc_class'
+aV21st-century-lit
 p75
-VPS: Language and Literatures: American and Canadian literature
+aVa
 p76
-sS'n_authors'
+asS'loc_class'
 p77
+VPS: Language and Literatures: American and Canadian literature
+p78
+sS'n_authors'
+p79
 I1
 sb.

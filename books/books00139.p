@@ -121,32 +121,36 @@ sS'language'
 p56
 VFrench
 p57
-sS'release_date'
+sS'countries'
 p58
-S'2004-02-01T00:00:00'
-p59
-sS'author'
+(lp59
+I4
+asS'release_date'
 p60
+S'2004-02-01T00:00:00'
+p61
+sS'author'
+p62
 I6
 sS'original_title'
-p61
-VTwenty Thousand Leagues Under the Sea
-p62
-sS'summary'
 p63
-VTwenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers: Tour du monde sous-marin, Twenty Thousand Leagues Under the Seas: A Tour of the Underwater World) is a classic science fiction novel by French writer Jules Verne published in 1870.\u000aThe novel was originally serialized from March 1869 through June 1870 in Pierre-Jules Hetzel's periodical, the Magasin d'�ducation et de R�cr�ation. The deluxe illustrated edition, published by Hetzel in November 1871, included 111 illustrations by Alphonse de Neuville and �douard Riou. The book was highly acclaimed when released and still is now; it is regarded as one of the premiere adventure novels and one of Verne's greatest works, along with Around the World in Eighty Days and Journey to the Center of the Earth. The description of Nemo's ship, called the Nautilus, was considered ahead of its time, as it accurately describes features on submarines, which at the time were very primitive vessels.
+VTwenty Thousand Leagues Under the Sea
 p64
-sS'content_cleaned'
+sS'summary'
 p65
+VTwenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers: Tour du monde sous-marin, Twenty Thousand Leagues Under the Seas: A Tour of the Underwater World) is a classic science fiction novel by French writer Jules Verne published in 1870.\u000aThe novel was originally serialized from March 1869 through June 1870 in Pierre-Jules Hetzel's periodical, the Magasin d'�ducation et de R�cr�ation. The deluxe illustrated edition, published by Hetzel in November 1871, included 111 illustrations by Alphonse de Neuville and �douard Riou. The book was highly acclaimed when released and still is now; it is regarded as one of the premiere adventure novels and one of Verne's greatest works, along with Around the World in Eighty Days and Journey to the Center of the Earth. The description of Nemo's ship, called the Nautilus, was considered ahead of its time, as it accurately describes features on submarines, which at the time were very primitive vessels.
+p66
+sS'content_cleaned'
+p67
 I01
 sS'classes'
-p66
-(lp67
-sS'loc_class'
 p68
-VPQ: Language and Literatures: Romance literatures: French, Italian, Spanish, Portuguese
-p69
-sS'n_authors'
+(lp69
+sS'loc_class'
 p70
+VPQ: Language and Literatures: Romance literatures: French, Italian, Spanish, Portuguese
+p71
+sS'n_authors'
+p72
 I1
 sb.

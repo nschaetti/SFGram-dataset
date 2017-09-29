@@ -37,6 +37,9 @@
     ], 
     "language": "English", 
     "isbn13": "9781880448120", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-03-18T00:00:00", 
     "author": 32, 
     "content_cleaned": true, 

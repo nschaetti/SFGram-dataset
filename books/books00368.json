@@ -40,6 +40,9 @@
     "pages": 20, 
     "language": "English", 
     "isbn13": "9781515405412", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-03-08T00:00:00", 
     "author": 68, 
     "content_cleaned": true, 

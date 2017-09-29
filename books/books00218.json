@@ -128,6 +128,9 @@
     ], 
     "language": "English", 
     "isbn13": "9781604596656", 
+    "countries": [
+        2
+    ], 
     "release_date": "2008-04-09T00:00:00", 
     "author": 32, 
     "content_cleaned": true, 

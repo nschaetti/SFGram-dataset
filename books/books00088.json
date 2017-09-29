@@ -49,6 +49,9 @@
     "pages": 299, 
     "language": "English", 
     "isbn13": "9780060920081", 
+    "countries": [
+        2
+    ], 
     "release_date": "1994-07-01T00:00:00", 
     "author": 2, 
     "original_title": "Atlantis: The Lost Continent Revealed", 

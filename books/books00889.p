@@ -135,46 +135,50 @@ sS'language'
 p63
 VEnglish
 p64
-sS'release_date'
+sS'countries'
 p65
-S'2010-09-21T00:00:00'
-p66
-sS'author'
+(lp66
+I2
+asS'release_date'
 p67
+S'2010-09-21T00:00:00'
+p68
+sS'author'
+p69
 I121
 sS'original_title'
-p68
-VParty Going
-p69
-sS'summary'
 p70
-VParty Going is a 1939 novel by British writer Henry Green (real name Henry Vincent Yorke).\u000aIt tells the story of a group of wealthy people travelling by train to a house party. Due to fog, however, the train is much delayed and the group takes rooms in the adjacent large railway hotel. All the action of the story takes place in the hotel.
+VParty Going
 p71
-sS'content_cleaned'
+sS'summary'
 p72
+VParty Going is a 1939 novel by British writer Henry Green (real name Henry Vincent Yorke).\u000aIt tells the story of a group of wealthy people travelling by train to a house party. Due to fog, however, the train is much delayed and the group takes rooms in the adjacent large railway hotel. All the action of the story takes place in the hotel.
+p73
+sS'content_cleaned'
+p74
 I01
 sS'classes'
-p73
-(lp74
-Vto-read
 p75
-aV21st-century-lit
-p76
-aVnope
+(lp76
+Vto-read
 p77
-aV14
+aV21st-century-lit
 p78
-aVkindle
+aVnope
 p79
-aVscience-fiction
+aV14
 p80
-aVmy-ebooks
+aVkindle
 p81
-asS'loc_class'
+aVscience-fiction
 p82
-VPS: Language and Literatures: American and Canadian literature
+aVmy-ebooks
 p83
-sS'n_authors'
+asS'loc_class'
 p84
+VPS: Language and Literatures: American and Canadian literature
+p85
+sS'n_authors'
+p86
 I1
 sb.

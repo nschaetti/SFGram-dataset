@@ -151,36 +151,40 @@ NsS'language'
 p71
 VEnglish
 p72
-sS'release_date'
+sS'countries'
 p73
-S'2007-09-16T00:00:00'
-p74
-sS'author'
+(lp74
+I2
+asS'release_date'
 p75
+S'2007-09-16T00:00:00'
+p76
+sS'author'
+p77
 I14
 sS'original_title'
-p76
-VThe Vortex Blaster
-p77
-sS'summary'
 p78
-VThe Vortex Blaster is a collection of three science fiction short stories by author Edward E. Smith, Ph.D.. It was simultaneously published in 1960 by Gnome Press in an edition of 3,000 copies and by Fantasy Press in an edition of 341 copies. The book was originally intended to be published by Fantasy Press, but was handed over to Gnome Press when Fantasy Press folded. Lloyd Eshbach, of Fantasy Press, who was responsible for the printing of both editions, printed the extra copies for his longtime customers. The stories originally appeared in the magazines Comet and Astonishing Stories.\u000aIn 1968, Pyramid Books issued a paperback edition under the title Masters of the Vortex, promoting it as "the final adventure in the famous Lensman series." While the stories are set in the same universe as the Lensman novels, they are only tangentially related. They reference events that happen in the Lensman series, but only \u201coff stage\u201d. No characters from the other Lensmen books show up in this book. From the events spoken of in this book it apparently falls between Second Stage Lensmen and Children of the Lens.
+VThe Vortex Blaster
 p79
-sS'content_cleaned'
+sS'summary'
 p80
+VThe Vortex Blaster is a collection of three science fiction short stories by author Edward E. Smith, Ph.D.. It was simultaneously published in 1960 by Gnome Press in an edition of 3,000 copies and by Fantasy Press in an edition of 341 copies. The book was originally intended to be published by Fantasy Press, but was handed over to Gnome Press when Fantasy Press folded. Lloyd Eshbach, of Fantasy Press, who was responsible for the printing of both editions, printed the extra copies for his longtime customers. The stories originally appeared in the magazines Comet and Astonishing Stories.\u000aIn 1968, Pyramid Books issued a paperback edition under the title Masters of the Vortex, promoting it as "the final adventure in the famous Lensman series." While the stories are set in the same universe as the Lensman novels, they are only tangentially related. They reference events that happen in the Lensman series, but only \u201coff stage\u201d. No characters from the other Lensmen books show up in this book. From the events spoken of in this book it apparently falls between Second Stage Lensmen and Children of the Lens.
+p81
+sS'content_cleaned'
+p82
 I01
 sS'classes'
-p81
-(lp82
-Vto-read
 p83
-aVaudiobook
-p84
-asS'loc_class'
+(lp84
+Vto-read
 p85
-VPS: Language and Literatures: American and Canadian literature
+aVaudiobook
 p86
-sS'n_authors'
+asS'loc_class'
 p87
+VPS: Language and Literatures: American and Canadian literature
+p88
+sS'n_authors'
+p89
 I1
 sb.

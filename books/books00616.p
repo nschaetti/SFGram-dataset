@@ -127,46 +127,50 @@ sS'language'
 p59
 VEnglish
 p60
-sS'release_date'
+sS'countries'
 p61
-S'2010-04-06T00:00:00'
-p62
-sS'author'
+(lp62
+I3
+asS'release_date'
 p63
+S'2010-04-06T00:00:00'
+p64
+sS'author'
+p65
 I206
 sS'original_title'
-p64
-VNova (novel)
-p65
-sS'summary'
 p66
-VN\u043eva (1968) is a science fiction novel by Samuel R. Delany. Nominally space opera, it explores the politics and culture of a future where cyborg technology is universal (the novel is one of the precursors to cyberpunk), yet making major decisions can involve using tarot cards. It has strong mythological overtones, relating to both the Grail Quest and Jason's Argonautica for the golden fleece. Nova was nominated for the Hugo Award for Best Novel in 1969. David Pringle lists it as one of the 100 best science-fiction novels written since World War II.\u000aAfter completing Nova at the age of 25, Delany's published output stopped for several years\u2014though his writing continued. Delany completed the first draft of Tides of Lust (author's title, Equinox) in September 1968 (it appeared in 1973). He first completed Hogg in June 1969 (though the novel itself would not appear until 1995). With the publication of his next major novel, Dhalgren (1975), however, his style had moved on in experimental directions notably different from that of his earlier work.
+VNova (novel)
 p67
-sS'content_cleaned'
+sS'summary'
 p68
+VN\u043eva (1968) is a science fiction novel by Samuel R. Delany. Nominally space opera, it explores the politics and culture of a future where cyborg technology is universal (the novel is one of the precursors to cyberpunk), yet making major decisions can involve using tarot cards. It has strong mythological overtones, relating to both the Grail Quest and Jason's Argonautica for the golden fleece. Nova was nominated for the Hugo Award for Best Novel in 1969. David Pringle lists it as one of the 100 best science-fiction novels written since World War II.\u000aAfter completing Nova at the age of 25, Delany's published output stopped for several years\u2014though his writing continued. Delany completed the first draft of Tides of Lust (author's title, Equinox) in September 1968 (it appeared in 1973). He first completed Hogg in June 1969 (though the novel itself would not appear until 1995). With the publication of his next major novel, Dhalgren (1975), however, his style had moved on in experimental directions notably different from that of his earlier work.
+p69
+sS'content_cleaned'
+p70
 I01
 sS'classes'
-p69
-(lp70
-Vto-read
 p71
-aVscience-fiction
-p72
-aVfree-from-amazon
+(lp72
+Vto-read
 p73
-aVfiction
+aVscience-fiction
 p74
-aVpg
+aVfree-from-amazon
 p75
-aVfood
+aVfiction
 p76
-aVthe-library
+aVpg
 p77
-asS'loc_class'
+aVfood
 p78
-VPS: Language and Literatures: American and Canadian literature
+aVthe-library
 p79
-sS'n_authors'
+asS'loc_class'
 p80
+VPS: Language and Literatures: American and Canadian literature
+p81
+sS'n_authors'
+p82
 I1
 sb.

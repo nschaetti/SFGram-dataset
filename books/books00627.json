@@ -41,6 +41,9 @@
     ], 
     "language": "English", 
     "isbn13": "9781974427307", 
+    "countries": [
+        2
+    ], 
     "release_date": "2006-09-25T00:00:00", 
     "author": 19, 
     "content_cleaned": true, 

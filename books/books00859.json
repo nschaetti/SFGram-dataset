@@ -72,6 +72,9 @@
     ], 
     "language": "English", 
     "isbn13": "9780452286702", 
+    "countries": [
+        2
+    ], 
     "release_date": "2008-12-11T00:00:00", 
     "author": 208, 
     "content_cleaned": true, 

@@ -74,6 +74,9 @@
     "pages": 133, 
     "language": "English", 
     "isbn13": "9780976395003", 
+    "countries": [
+        3
+    ], 
     "release_date": "2008-04-16T00:00:00", 
     "author": 114, 
     "content_cleaned": true, 

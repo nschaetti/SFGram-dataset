@@ -115,42 +115,46 @@ NsS'language'
 p53
 VEnglish
 p54
-sS'release_date'
+sS'countries'
 p55
-S'2010-03-16T00:00:00'
-p56
-sS'author'
+(lp56
+I1
+asS'release_date'
 p57
+S'2010-03-16T00:00:00'
+p58
+sS'author'
+p59
 I160
 sS'original_title'
-p58
-VBooks of Blood
-p59
-sS'summary'
 p60
-VBooks of Blood are a series of horror fiction collections written by the British author Clive Barker.\u000aThere are six books in total, each simply subtitled Volume 1 through to Volume 6, and were subsequently re-published in two omnibus editions containing three volumes each. Each volume contains four or five stories. The volume 1\u20133 omnibus was published with a foreword by Barker's fellow Liverpudlian horror writer Ramsey Campbell.\u000aThey were published between 1984 and 1985. With the publication of the first volume, Barker became an overnight sensation and was hailed by Stephen King as "the future of horror". The book won both the British and World Fantasy Awards.\u000aAlthough undoubtedly horror stories, like most of Barker's work they mix fantasy themes in as well. The unrelentingly bleak tales invariably take place in a contemporary setting, usually featuring everyday people who become embroiled in terrifying or mysterious events. Barker has stated in Faces of Fear that an inspiration for the Books of Blood was when he read Dark Forces in the early 1980s and realised that a horror story collection need not have any narrow themes, consistent tone or restrictions. The stories could range from the humorous to the truly horrific.\u000aFor some editions, each book's cover was illustrated by Clive Barker himself.\u000aEighteen of the stories in the Books of Blood were adapted by Eclipse Books in the comic series Tapping the Vein as well as other titled adaptations.\u000aSeveral of the stories have been adapted into films, "Rawhead Rex" (1986); "The Forbidden" (filmed in 1992 as Candyman); "The Last Illusion" (filmed in 1995 as Lord of Illusions); "The Body Politic" (filmed in 1997 as Quicksilver Highway); "The Midnight Meat Train" (2008); "The Book of Blood" and "On Jerusalem Street (a postscript)" (combined and filmed in 2008 as Book of Blood), and "Dread" (2009). "The Yattering and Jack" was adapted by Barker himself in 1986 for the US series Tales from the Darkside.
+VBooks of Blood
 p61
-sS'content_cleaned'
+sS'summary'
 p62
+VBooks of Blood are a series of horror fiction collections written by the British author Clive Barker.\u000aThere are six books in total, each simply subtitled Volume 1 through to Volume 6, and were subsequently re-published in two omnibus editions containing three volumes each. Each volume contains four or five stories. The volume 1\u20133 omnibus was published with a foreword by Barker's fellow Liverpudlian horror writer Ramsey Campbell.\u000aThey were published between 1984 and 1985. With the publication of the first volume, Barker became an overnight sensation and was hailed by Stephen King as "the future of horror". The book won both the British and World Fantasy Awards.\u000aAlthough undoubtedly horror stories, like most of Barker's work they mix fantasy themes in as well. The unrelentingly bleak tales invariably take place in a contemporary setting, usually featuring everyday people who become embroiled in terrifying or mysterious events. Barker has stated in Faces of Fear that an inspiration for the Books of Blood was when he read Dark Forces in the early 1980s and realised that a horror story collection need not have any narrow themes, consistent tone or restrictions. The stories could range from the humorous to the truly horrific.\u000aFor some editions, each book's cover was illustrated by Clive Barker himself.\u000aEighteen of the stories in the Books of Blood were adapted by Eclipse Books in the comic series Tapping the Vein as well as other titled adaptations.\u000aSeveral of the stories have been adapted into films, "Rawhead Rex" (1986); "The Forbidden" (filmed in 1992 as Candyman); "The Last Illusion" (filmed in 1995 as Lord of Illusions); "The Body Politic" (filmed in 1997 as Quicksilver Highway); "The Midnight Meat Train" (2008); "The Book of Blood" and "On Jerusalem Street (a postscript)" (combined and filmed in 2008 as Book of Blood), and "Dread" (2009). "The Yattering and Jack" was adapted by Barker himself in 1986 for the US series Tales from the Darkside.
+p63
+sS'content_cleaned'
+p64
 I01
 sS'classes'
-p63
-(lp64
-Vto-read
 p65
-aV21st-century-lit
-p66
-aVshelf-c-authors
+(lp66
+Vto-read
 p67
-aVgenre-syfi-fan-horr
+aV21st-century-lit
 p68
-aVbooks
+aVshelf-c-authors
 p69
-asS'loc_class'
+aVgenre-syfi-fan-horr
 p70
-VPS: Language and Literatures: American and Canadian literature
+aVbooks
 p71
-sS'n_authors'
+asS'loc_class'
 p72
+VPS: Language and Literatures: American and Canadian literature
+p73
+sS'n_authors'
+p74
 I1
 sb.

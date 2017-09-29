@@ -50,6 +50,9 @@
     "pages": 1177, 
     "language": "English", 
     "isbn13": "9780553573428", 
+    "countries": [
+        3
+    ], 
     "release_date": "2010-06-05T00:00:00", 
     "author": 249, 
     "content_cleaned": true, 

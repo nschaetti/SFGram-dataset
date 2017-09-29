@@ -133,38 +133,42 @@ sS'language'
 p61
 VEnglish
 p62
-sS'release_date'
+sS'countries'
 p63
-S'2012-10-17T00:00:00'
-p64
-sS'author'
+(lp64
+I2
+asS'release_date'
 p65
+S'2012-10-17T00:00:00'
+p66
+sS'author'
+p67
 I272
 sS'original_title'
-p66
-VThe Sentinel (short story)
-p67
-sS'summary'
 p68
-V"The Sentinel" is a short story by British author Arthur C. Clarke, written in 1948 and first published in 1951 as "Sentinel of Eternity", which was used as a starting point for the novel and film 2001: A Space Odyssey, where it was modified and fused with other ideas. Clarke expressed impatience with its common description as the story that the novel and movie are based on. He explained: "I am continually annoyed by careless references to 'The Sentinel' as 'the story on which 2001 is based'; it bears about as much relation to the movie as an acorn to the resultant full-grown oak. (Considerably less, in fact, because ideas from several other stories were also incorporated.) Even the elements that Stanley Kubrick and I did actually use were considerably modified. Thus the 'glittering, roughly pyramidal structure... set in the rock like a gigantic, many-faceted jewel' became\u2014after several modifications\u2014the famous black monolith. And the locale was moved from the Mare Crisium to the most spectacular of all lunar craters, Tycho\u2014easily visible to the naked eye from Earth at Full Moon."\u000a\u000a
+VThe Sentinel (short story)
 p69
-sS'content_cleaned'
+sS'summary'
 p70
+V"The Sentinel" is a short story by British author Arthur C. Clarke, written in 1948 and first published in 1951 as "Sentinel of Eternity", which was used as a starting point for the novel and film 2001: A Space Odyssey, where it was modified and fused with other ideas. Clarke expressed impatience with its common description as the story that the novel and movie are based on. He explained: "I am continually annoyed by careless references to 'The Sentinel' as 'the story on which 2001 is based'; it bears about as much relation to the movie as an acorn to the resultant full-grown oak. (Considerably less, in fact, because ideas from several other stories were also incorporated.) Even the elements that Stanley Kubrick and I did actually use were considerably modified. Thus the 'glittering, roughly pyramidal structure... set in the rock like a gigantic, many-faceted jewel' became\u2014after several modifications\u2014the famous black monolith. And the locale was moved from the Mare Crisium to the most spectacular of all lunar craters, Tycho\u2014easily visible to the naked eye from Earth at Full Moon."\u000a\u000a
+p71
+sS'content_cleaned'
+p72
 I01
 sS'classes'
-p71
-(lp72
-Vto-read
 p73
-aVshort-story
-p74
-aVsci-fi-classics
+(lp74
+Vto-read
 p75
-asS'loc_class'
+aVshort-story
 p76
-VPS: Language and Literatures: American and Canadian literature
+aVsci-fi-classics
 p77
-sS'n_authors'
+asS'loc_class'
 p78
+VPS: Language and Literatures: American and Canadian literature
+p79
+sS'n_authors'
+p80
 I2
 sb.

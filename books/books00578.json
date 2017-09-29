@@ -47,6 +47,9 @@
     "pages": 388, 
     "language": "English", 
     "isbn13": "9780380765485", 
+    "countries": [
+        3
+    ], 
     "release_date": "2016-01-29T00:00:00", 
     "author": 193, 
     "content_cleaned": true, 

@@ -59,6 +59,9 @@
     "pages": 291, 
     "language": "English", 
     "isbn13": "9780312369453", 
+    "countries": [
+        3
+    ], 
     "release_date": "2016-04-10T00:00:00", 
     "author": 257, 
     "original_title": "Earth Is Room Enough", 

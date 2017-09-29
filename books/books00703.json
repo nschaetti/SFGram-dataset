@@ -49,6 +49,9 @@
     "pages": 384, 
     "language": "English", 
     "isbn13": "9780345466204", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-01-21T00:00:00", 
     "author": 227, 
     "content_cleaned": true, 

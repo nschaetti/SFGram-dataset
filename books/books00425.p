@@ -131,48 +131,52 @@ NsS'language'
 p61
 VEnglish
 p62
-sS'release_date'
+sS'countries'
 p63
-S'2008-10-21T00:00:00'
-p64
-sS'author'
+(lp64
+I2
+asS'release_date'
 p65
+S'2008-10-21T00:00:00'
+p66
+sS'author'
+p67
 I139
 sS'original_title'
-p66
-VPatriots (novel series)
-p67
-sS'summary'
 p68
-VThe Patriots novel series is a five-novel series by best-selling survivalist novelist and former U.S. Army officer and blogger, James Wesley Rawles. It is followed by his Counter-Caliphate Chronicles novel series.\u000aPatriots: A Novel of Survival in the Coming Collapse, the first book in the series, was first distributed as shareware in 1995 and first published in paperback in 1998. It was updated and re-published in paperback 2009, and then in hardback in 2012. In one week of April 2009, shortly after its release, it was ranked #6 in Amazon.com's overall book sales rankings, which was attributed by the Library Journal to the book's appeal to "a small but vociferous group of people concerned with survivalism".\u000aSet in the near future midst hyperinflation and a catastrophic global economic collapse, Patriots tells the story of a group of survivalists that flee riots and chaos in metropolitan Chicago to a survivalist retreat that they have prepared near Bovill, Idaho.
+VPatriots (novel series)
 p69
-sS'content_cleaned'
+sS'summary'
 p70
+VThe Patriots novel series is a five-novel series by best-selling survivalist novelist and former U.S. Army officer and blogger, James Wesley Rawles. It is followed by his Counter-Caliphate Chronicles novel series.\u000aPatriots: A Novel of Survival in the Coming Collapse, the first book in the series, was first distributed as shareware in 1995 and first published in paperback in 1998. It was updated and re-published in paperback 2009, and then in hardback in 2012. In one week of April 2009, shortly after its release, it was ranked #6 in Amazon.com's overall book sales rankings, which was attributed by the Library Journal to the book's appeal to "a small but vociferous group of people concerned with survivalism".\u000aSet in the near future midst hyperinflation and a catastrophic global economic collapse, Patriots tells the story of a group of survivalists that flee riots and chaos in metropolitan Chicago to a survivalist retreat that they have prepared near Bovill, Idaho.
+p71
+sS'content_cleaned'
+p72
 I01
 sS'classes'
-p71
-(lp72
-Vshort-stories
 p73
-aVsci-fi
-p74
-aVreview
+(lp74
+Vshort-stories
 p75
-aVpulp
+aVsci-fi
 p76
-aVprehistory
+aVreview
 p77
-aVfiction
+aVpulp
 p78
-aVfantasy
+aVprehistory
 p79
-aV20th-century
+aVfiction
 p80
-asS'loc_class'
+aVfantasy
 p81
-VPS: Language and Literatures: American and Canadian literature
+aV20th-century
 p82
-sS'n_authors'
+asS'loc_class'
 p83
+VPS: Language and Literatures: American and Canadian literature
+p84
+sS'n_authors'
+p85
 I1
 sb.

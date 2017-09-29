@@ -53,6 +53,9 @@
     "pages": 236, 
     "language": "English", 
     "isbn13": "9781585676392", 
+    "countries": [
+        2
+    ], 
     "release_date": "2009-08-20T00:00:00", 
     "author": 72, 
     "content_cleaned": true, 

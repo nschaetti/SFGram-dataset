@@ -33,6 +33,9 @@
     ], 
     "language": "English", 
     "isbn13": "9780956116536", 
+    "countries": [
+        2
+    ], 
     "release_date": "2009-06-19T00:00:00", 
     "author": 145, 
     "content_cleaned": true, 

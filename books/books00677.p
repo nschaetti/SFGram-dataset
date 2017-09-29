@@ -170,46 +170,50 @@ sS'language'
 p80
 VEnglish
 p81
-sS'release_date'
+sS'countries'
 p82
-S'2007-10-20T00:00:00'
-p83
-sS'author'
+(lp83
+I2
+asS'release_date'
 p84
+S'2007-10-20T00:00:00'
+p85
+sS'author'
+p86
 I94
 sS'original_title'
-p85
-VThe King Must Die
-p86
-sS'summary'
 p87
-VThe King Must Die is a 1958 bildungsroman and historical novel by Mary Renault that traces the early life and adventures of Theseus, a hero in Greek mythology. Naturally, it is set in Ancient Greece: Troizen, Corinth, Eleusis, Athens, Knossos in Crete, and Naxos. Rather than retelling the myth, Renault constructs an archaeologically and anthropologically plausible story that might have developed into the myth. She captures the essentials while removing the more fantastical elements, such as monsters and the appearances of gods. The King Must Die was lauded by critics, with New York Times reviewer Orville Prescott calling it "one of the truly fine historical novels of modern times." Renault wrote a sequel, The Bull from the Sea, in 1962.
+VThe King Must Die
 p88
-sS'content_cleaned'
+sS'summary'
 p89
+VThe King Must Die is a 1958 bildungsroman and historical novel by Mary Renault that traces the early life and adventures of Theseus, a hero in Greek mythology. Naturally, it is set in Ancient Greece: Troizen, Corinth, Eleusis, Athens, Knossos in Crete, and Naxos. Rather than retelling the myth, Renault constructs an archaeologically and anthropologically plausible story that might have developed into the myth. She captures the essentials while removing the more fantastical elements, such as monsters and the appearances of gods. The King Must Die was lauded by critics, with New York Times reviewer Orville Prescott calling it "one of the truly fine historical novels of modern times." Renault wrote a sequel, The Bull from the Sea, in 1962.
+p90
+sS'content_cleaned'
+p91
 I01
 sS'classes'
-p90
-(lp91
-Vto-read
 p92
-aVscience-fiction
-p93
-aVfree-from-amazon
+(lp93
+Vto-read
 p94
-aVclassic
+aVscience-fiction
 p95
-aVshort-stories
+aVfree-from-amazon
 p96
-aVto-read-on-nook
+aVclassic
 p97
-aVto-read-ebook
+aVshort-stories
 p98
-asS'loc_class'
+aVto-read-on-nook
 p99
-VPS: Language and Literatures: American and Canadian literature
+aVto-read-ebook
 p100
-sS'n_authors'
+asS'loc_class'
 p101
+VPS: Language and Literatures: American and Canadian literature
+p102
+sS'n_authors'
+p103
 I1
 sb.

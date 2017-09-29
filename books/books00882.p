@@ -119,44 +119,48 @@ sS'language'
 p55
 VEnglish
 p56
-sS'release_date'
+sS'countries'
 p57
-S'2010-06-19T00:00:00'
-p58
-sS'author'
+(lp58
+I2
+asS'release_date'
 p59
+S'2010-06-19T00:00:00'
+p60
+sS'author'
+p61
 I79
 sS'original_title'
-p60
-VThe Lady in the Lake
-p61
-sS'summary'
 p62
-VThe Lady in the Lake is a 1943 detective novel by Raymond Chandler featuring, as do all his major works, the Los Angeles private investigator Philip Marlowe. Notable for its removal of Marlowe from his usual Los Angeles environs for much of the book, the novel's complicated plot initially deals with the case of a missing woman in a small mountain town some 80 miles (130 km) from the city. The book was written shortly after the attack on Pearl Harbor and makes several references to America's recent involvement in World War II.
+VThe Lady in the Lake
 p63
-sS'content_cleaned'
+sS'summary'
 p64
+VThe Lady in the Lake is a 1943 detective novel by Raymond Chandler featuring, as do all his major works, the Los Angeles private investigator Philip Marlowe. Notable for its removal of Marlowe from his usual Los Angeles environs for much of the book, the novel's complicated plot initially deals with the case of a missing woman in a small mountain town some 80 miles (130 km) from the city. The book was written shortly after the attack on Pearl Harbor and makes several references to America's recent involvement in World War II.
+p65
+sS'content_cleaned'
+p66
 I01
 sS'classes'
-p65
-(lp66
-Vto-read
 p67
-aVe-shelf
-p68
-aVtbr-ebook
+(lp68
+Vto-read
 p69
-aVchallenge-oldish
+aVe-shelf
 p70
-aVanthos-shorts
+aVtbr-ebook
 p71
-aV2014-challenge-oldish
+aVchallenge-oldish
 p72
-asS'loc_class'
+aVanthos-shorts
 p73
-VPS: Language and Literatures: American and Canadian literature
+aV2014-challenge-oldish
 p74
-sS'n_authors'
+asS'loc_class'
 p75
+VPS: Language and Literatures: American and Canadian literature
+p76
+sS'n_authors'
+p77
 I1
 sb.

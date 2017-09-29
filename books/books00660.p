@@ -166,21 +166,25 @@ sS'language'
 p80
 VEnglish
 p81
-sS'release_date'
+sS'countries'
 p82
-S'2006-12-20T00:00:00'
-p83
-sS'author'
+(lp83
+I2
+asS'release_date'
 p84
+S'2006-12-20T00:00:00'
+p85
+sS'author'
+p86
 I216
 sS'classes'
-p85
-(lp86
-sS'loc_class'
 p87
-VPZ: Language and Literatures: Juvenile belles lettres
-p88
-sS'n_authors'
+(lp88
+sS'loc_class'
 p89
+VPZ: Language and Literatures: Juvenile belles lettres
+p90
+sS'n_authors'
+p91
 I1
 sb.

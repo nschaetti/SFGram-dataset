@@ -62,6 +62,9 @@
     "pages": 256, 
     "language": "English", 
     "isbn13": "9780523485430", 
+    "countries": [
+        2
+    ], 
     "release_date": "2012-12-27T00:00:00", 
     "author": 51, 
     "original_title": "The Syndic", 

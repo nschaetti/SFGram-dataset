@@ -263,6 +263,9 @@
     "pages": 496, 
     "language": "English", 
     "isbn13": "9780349400075", 
+    "countries": [
+        2
+    ], 
     "release_date": "2008-06-13T00:00:00", 
     "author": 71, 
     "original_title": "To Build a Fire", 

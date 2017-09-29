@@ -37,6 +37,9 @@
     "pages": 26, 
     "language": "English", 
     "isbn13": "9781530458110", 
+    "countries": [
+        2
+    ], 
     "release_date": "2015-12-30T00:00:00", 
     "author": 287, 
     "content_cleaned": true, 

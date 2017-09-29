@@ -111,42 +111,46 @@ NsS'language'
 p51
 VEnglish
 p52
-sS'release_date'
+sS'countries'
 p53
-S'2009-06-07T00:00:00'
-p54
-sS'author'
+(lp54
+I2
+asS'release_date'
 p55
+S'2009-06-07T00:00:00'
+p56
+sS'author'
+p57
 I127
 sS'original_title'
-p56
-VNausea (novel)
-p57
-sS'summary'
 p58
-VNausea (French: La Naus�e) is a philosophical novel by the existentialist philosopher Jean-Paul Sartre, published in 1938. It is Sartre's first novel and, in his opinion, one of his best works.\u000aThe novel takes place in 'Bouville' (literally, 'Mud town') a town similar to Le Havre, and it concerns a dejected historian, who becomes convinced that inanimate objects and situations encroach on his ability to define himself, on his intellectual and spiritual freedom, evoking in the protagonist a sense of nausea.\u000aFrench writer Simone de Beauvoir, Sartre's lifelong partner, claims that La Naus�e grants consciousness a remarkable independence and gives reality the full weight of its sense.\u000aIt is one of the canonical works of existentialism. Sartre was awarded, though he ultimately declined, the Nobel Prize for literature in 1964. The Nobel Foundation recognized him "for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age." Sartre was one of the few people to have declined the award, referring to it as merely a function of a bourgeois institution.\u000aThe novel has been translated into English at least twice, by Lloyd Alexander as "The Diary of Antoine Roquentin" (John Lehmann, 1949) and by Robert Baldick as "Nausea" (Penguin Books, 1965).
+VNausea (novel)
 p59
-sS'content_cleaned'
+sS'summary'
 p60
+VNausea (French: La Naus�e) is a philosophical novel by the existentialist philosopher Jean-Paul Sartre, published in 1938. It is Sartre's first novel and, in his opinion, one of his best works.\u000aThe novel takes place in 'Bouville' (literally, 'Mud town') a town similar to Le Havre, and it concerns a dejected historian, who becomes convinced that inanimate objects and situations encroach on his ability to define himself, on his intellectual and spiritual freedom, evoking in the protagonist a sense of nausea.\u000aFrench writer Simone de Beauvoir, Sartre's lifelong partner, claims that La Naus�e grants consciousness a remarkable independence and gives reality the full weight of its sense.\u000aIt is one of the canonical works of existentialism. Sartre was awarded, though he ultimately declined, the Nobel Prize for literature in 1964. The Nobel Foundation recognized him "for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age." Sartre was one of the few people to have declined the award, referring to it as merely a function of a bourgeois institution.\u000aThe novel has been translated into English at least twice, by Lloyd Alexander as "The Diary of Antoine Roquentin" (John Lehmann, 1949) and by Robert Baldick as "Nausea" (Penguin Books, 1965).
+p61
+sS'content_cleaned'
+p62
 I01
 sS'classes'
-p61
-(lp62
-Vto-read
 p63
-aVcurrently-reading
-p64
-aVunknown-publication-dates
+(lp64
+Vto-read
 p65
-aVshelf-b-authors
+aVcurrently-reading
 p66
-aVgenre-syfi-fan-horr
+aVunknown-publication-dates
 p67
-asS'loc_class'
+aVshelf-b-authors
 p68
-VPS: Language and Literatures: American and Canadian literature
+aVgenre-syfi-fan-horr
 p69
-sS'n_authors'
+asS'loc_class'
 p70
+VPS: Language and Literatures: American and Canadian literature
+p71
+sS'n_authors'
+p72
 I1
 sb.

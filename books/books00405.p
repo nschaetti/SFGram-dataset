@@ -195,36 +195,40 @@ NsS'language'
 p93
 VEnglish
 p94
-sS'release_date'
+sS'countries'
 p95
-S'2006-08-29T00:00:00'
-p96
-sS'author'
+(lp96
+I2
+asS'release_date'
 p97
+S'2006-08-29T00:00:00'
+p98
+sS'author'
+p99
 I90
 sS'original_title'
-p98
-VEdison's Conquest of Mars
-p99
-sS'summary'
 p100
-VEdison's Conquest of Mars is an 1898 science fiction novel by American astronomer and writer Garrett P. Serviss. It was written as a sequel to Fighters from Mars, an unauthorized and heavily altered version of H. G. Wells's The War of the Worlds. It has a place in the history of science fiction for its early employment of themes and motifs that later became staples of the genre.\u000aThe book features Thomas Edison as the primary character, though neither Edison nor H. G. Wells were involved in its creation. Set after the devastating Martian attack in the previous story, the novel depicts Edison leading a group of scientists to develop ships and weapons, including a disintegration ray, for the defence of Earth. Edison and company fight the aliens in space and on Mars, eventually causing a flood that defeats the enemy and forces an end to hostilities. Serviss wrote himself into the story as a professor whom Edison consults; also appearing are scientists such as Edward Emerson Barnard, Lord Kelvin, Wilhelm R�ntgen, and Silvanus P. Thompson, and heads of state such as Queen Victoria, U.S. President William McKinley, Kaiser Wilhelm II, and Emperor Mutsuhito.\u000aServiss' first attempt at fiction, the book was published serially in the New York Journal. Serviss went on to write other science fiction stories, arguably making him the first American to write science fiction professionally. An early example of what would later be called space opera, Edison's Conquest of Mars was also a particularly literal "Edisonade". The book contains some notable "firsts" in science fiction: alien abductions, spacesuits (called "air-tight suits": see Spacesuits in fiction), aliens building the Pyramids, space battles, oxygen pills, asteroid mining and disintegrator rays.\u000a\u000a
+VEdison's Conquest of Mars
 p101
-sS'content_cleaned'
+sS'summary'
 p102
+VEdison's Conquest of Mars is an 1898 science fiction novel by American astronomer and writer Garrett P. Serviss. It was written as a sequel to Fighters from Mars, an unauthorized and heavily altered version of H. G. Wells's The War of the Worlds. It has a place in the history of science fiction for its early employment of themes and motifs that later became staples of the genre.\u000aThe book features Thomas Edison as the primary character, though neither Edison nor H. G. Wells were involved in its creation. Set after the devastating Martian attack in the previous story, the novel depicts Edison leading a group of scientists to develop ships and weapons, including a disintegration ray, for the defence of Earth. Edison and company fight the aliens in space and on Mars, eventually causing a flood that defeats the enemy and forces an end to hostilities. Serviss wrote himself into the story as a professor whom Edison consults; also appearing are scientists such as Edward Emerson Barnard, Lord Kelvin, Wilhelm R�ntgen, and Silvanus P. Thompson, and heads of state such as Queen Victoria, U.S. President William McKinley, Kaiser Wilhelm II, and Emperor Mutsuhito.\u000aServiss' first attempt at fiction, the book was published serially in the New York Journal. Serviss went on to write other science fiction stories, arguably making him the first American to write science fiction professionally. An early example of what would later be called space opera, Edison's Conquest of Mars was also a particularly literal "Edisonade". The book contains some notable "firsts" in science fiction: alien abductions, spacesuits (called "air-tight suits": see Spacesuits in fiction), aliens building the Pyramids, space battles, oxygen pills, asteroid mining and disintegrator rays.\u000a\u000a
+p103
+sS'content_cleaned'
+p104
 I01
 sS'classes'
-p103
-(lp104
-Vto-read
 p105
-aVcurrently-reading
-p106
-asS'loc_class'
+(lp106
+Vto-read
 p107
-VPS: Language and Literatures: American and Canadian literature
+aVcurrently-reading
 p108
-sS'n_authors'
+asS'loc_class'
 p109
+VPS: Language and Literatures: American and Canadian literature
+p110
+sS'n_authors'
+p111
 I1
 sb.

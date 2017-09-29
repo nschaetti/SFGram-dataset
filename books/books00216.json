@@ -214,6 +214,9 @@
     "pages": 132, 
     "language": "English", 
     "isbn13": "9781434492432", 
+    "countries": [
+        2
+    ], 
     "release_date": "2007-09-26T00:00:00", 
     "author": 49, 
     "content_cleaned": true, 

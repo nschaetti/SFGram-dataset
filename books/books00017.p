@@ -137,32 +137,36 @@ NsS'language'
 p64
 VEnglish
 p65
-sS'release_date'
+sS'countries'
 p66
-S'1995-01-01T00:00:00'
-p67
-sS'author'
+(lp67
+I1
+asS'release_date'
 p68
+S'1995-01-01T00:00:00'
+p69
+sS'author'
+p70
 I10
 sS'original_title'
-p69
-VFlatland
-p70
-sS'summary'
 p71
-VFlatland: A Romance of Many Dimensions is a satirical novella by the English schoolmaster Edwin Abbott Abbott, first published in 1884 by Seeley & Co. of London.\u000aWritten pseudonymously by "A Square", the book used the fictional two-dimensional world of Flatland to comment on the hierarchy of Victorian culture, but the novella's more enduring contribution is its examination of dimensions.\u000aSeveral films have been made from the story, including the feature film Flatland (2007). Other efforts have been short or experimental films, including one narrated by Dudley Moore and the short films Flatland: The Movie (2007) and Flatland 2: Sphereland (2012).
+VFlatland
 p72
-sS'content_cleaned'
+sS'summary'
 p73
+VFlatland: A Romance of Many Dimensions is a satirical novella by the English schoolmaster Edwin Abbott Abbott, first published in 1884 by Seeley & Co. of London.\u000aWritten pseudonymously by "A Square", the book used the fictional two-dimensional world of Flatland to comment on the hierarchy of Victorian culture, but the novella's more enduring contribution is its examination of dimensions.\u000aSeveral films have been made from the story, including the feature film Flatland (2007). Other efforts have been short or experimental films, including one narrated by Dudley Moore and the short films Flatland: The Movie (2007) and Flatland 2: Sphereland (2012).
+p74
+sS'content_cleaned'
+p75
 I01
 sS'classes'
-p74
-(lp75
-sS'loc_class'
 p76
-VQA: Science: Mathematics
-p77
-sS'n_authors'
+(lp77
+sS'loc_class'
 p78
+VQA: Science: Mathematics
+p79
+sS'n_authors'
+p80
 I1
 sb.

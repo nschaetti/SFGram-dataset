@@ -252,6 +252,9 @@
     "pages": 515, 
     "language": "English", 
     "isbn13": "9780399154973", 
+    "countries": [
+        2
+    ], 
     "release_date": "2005-10-23T00:00:00", 
     "author": 28, 
     "original_title": "Plague Ship", 

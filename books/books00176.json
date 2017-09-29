@@ -59,6 +59,9 @@
     "pages": 192, 
     "language": "English", 
     "isbn13": "9780441787418", 
+    "countries": [
+        2
+    ], 
     "release_date": "2007-03-09T00:00:00", 
     "author": 28, 
     "original_title": "Storm Over Warlock", 

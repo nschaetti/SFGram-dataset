@@ -34,6 +34,9 @@
     "pages": 26, 
     "language": "English", 
     "isbn13": "2940012541628", 
+    "countries": [
+        2
+    ], 
     "release_date": "2009-06-22T00:00:00", 
     "author": 16, 
     "content_cleaned": true, 

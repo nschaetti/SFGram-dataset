@@ -59,6 +59,9 @@
     "pages": 352, 
     "language": "English", 
     "isbn13": "9780525427414", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-02-26T00:00:00", 
     "author": 142, 
     "content_cleaned": true, 

@@ -425,6 +425,9 @@
     ], 
     "isbn13": "9780836941661", 
     "language": "English", 
+    "countries": [
+        1
+    ], 
     "release_date": "2008-11-30T00:00:00", 
     "author": 1, 
     "original_title": "Tales of Space and Time", 

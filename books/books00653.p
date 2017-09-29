@@ -138,32 +138,36 @@ sS'language'
 p64
 VEnglish
 p65
-sS'release_date'
+sS'countries'
 p66
-S'2016-02-04T00:00:00'
-p67
-sS'author'
+(lp67
+I2
+asS'release_date'
 p68
+S'2016-02-04T00:00:00'
+p69
+sS'author'
+p70
 I172
 sS'original_title'
-p69
-VYankee in Oz
-p70
-sS'summary'
 p71
-VYankee in Oz is a 1972 Oz novel by Ruth Plumly Thompson. It was the first published by The International Wizard of Oz Club. A letter from the Henry Regnery Company, which bought Reilly & Lee, is reproduced in the front indicating the publisher's blessing for the new Oz book to appear. It was originally written in 1959, but because the Oz books were not selling, it was not published. The first two editions of the book were published in 8� x 11 inch format and running only 94 pages. This was done at the request of illustrator Dick Martin to reduce the number of required illustrations and to show them closer to the actual size they were drawn. The second printing (1986) featured a new cover, with the first edition artwork reprinted preceding the title page. The third printing (2007) is standard Oz book size. Its cover is a gaudier redesign of the second edition cover. The book also features maps by James E. Haff, and as such, Thompson correctly places the Winkie Country in the west of Oz.
+VYankee in Oz
 p72
-sS'content_cleaned'
+sS'summary'
 p73
+VYankee in Oz is a 1972 Oz novel by Ruth Plumly Thompson. It was the first published by The International Wizard of Oz Club. A letter from the Henry Regnery Company, which bought Reilly & Lee, is reproduced in the front indicating the publisher's blessing for the new Oz book to appear. It was originally written in 1959, but because the Oz books were not selling, it was not published. The first two editions of the book were published in 8� x 11 inch format and running only 94 pages. This was done at the request of illustrator Dick Martin to reduce the number of required illustrations and to show them closer to the actual size they were drawn. The second printing (1986) featured a new cover, with the first edition artwork reprinted preceding the title page. The third printing (2007) is standard Oz book size. Its cover is a gaudier redesign of the second edition cover. The book also features maps by James E. Haff, and as such, Thompson correctly places the Winkie Country in the west of Oz.
+p74
+sS'content_cleaned'
+p75
 I01
 sS'classes'
-p74
-(lp75
-sS'loc_class'
 p76
-S''
-p77
-sS'n_authors'
+(lp77
+sS'loc_class'
 p78
+S''
+p79
+sS'n_authors'
+p80
 I1
 sb.

@@ -119,38 +119,42 @@ NsS'language'
 p55
 VEnglish
 p56
-sS'release_date'
+sS'countries'
 p57
-S'2009-10-15T00:00:00'
-p58
-sS'author'
+(lp58
+I2
+asS'release_date'
 p59
+S'2009-10-15T00:00:00'
+p60
+sS'author'
+p61
 I64
 sS'original_title'
-p60
-VThe Running Man (novel)
-p61
-sS'summary'
 p62
-VThe Running Man is a science fiction novel by Stephen King, first published under the pseudonym Richard Bachman in 1982 as a paperback original. It was collected in 1985 in the omnibus The Bachman Books. The novel is set in a dystopian United States during the year 2025, in which the nation's economy is in ruins and world violence is rising.\u000aThe story follows protagonist Ben Richards as he participates in the game show The Running Man in which contestants, allowed to go anywhere in the world, are chased by "Hunters" employed to kill them.\u000aThe book has a total of 101 chapters, laid out in a "countdown" format. The first is titled "Minus 100 and Counting ..." with the numbers decreasing, until the last chapter, "Minus 000 and Counting" (or, in some versions, merely "000").\u000aThe Running Man was very loosely adapted into a film with the same name, which was released five years after the book in 1987. The film starred Arnold Schwarzenegger as Richards. The film was later made into a video game released on several home computers.
+VThe Running Man (novel)
 p63
-sS'content_cleaned'
+sS'summary'
 p64
+VThe Running Man is a science fiction novel by Stephen King, first published under the pseudonym Richard Bachman in 1982 as a paperback original. It was collected in 1985 in the omnibus The Bachman Books. The novel is set in a dystopian United States during the year 2025, in which the nation's economy is in ruins and world violence is rising.\u000aThe story follows protagonist Ben Richards as he participates in the game show The Running Man in which contestants, allowed to go anywhere in the world, are chased by "Hunters" employed to kill them.\u000aThe book has a total of 101 chapters, laid out in a "countdown" format. The first is titled "Minus 100 and Counting ..." with the numbers decreasing, until the last chapter, "Minus 000 and Counting" (or, in some versions, merely "000").\u000aThe Running Man was very loosely adapted into a film with the same name, which was released five years after the book in 1987. The film starred Arnold Schwarzenegger as Richards. The film was later made into a video game released on several home computers.
+p65
+sS'content_cleaned'
+p66
 I01
 sS'classes'
-p65
-(lp66
-V2017-2018
 p67
-aVaudiobooks
-p68
-aVscience-fiction
+(lp68
+V2017-2018
 p69
-asS'loc_class'
+aVaudiobooks
 p70
-VPS: Language and Literatures: American and Canadian literature
+aVscience-fiction
 p71
-sS'n_authors'
+asS'loc_class'
 p72
+VPS: Language and Literatures: American and Canadian literature
+p73
+sS'n_authors'
+p74
 I1
 sb.

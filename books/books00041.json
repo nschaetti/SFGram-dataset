@@ -55,6 +55,9 @@
     "pages": 240, 
     "language": "English", 
     "isbn13": "9780553213973", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-02-10T00:00:00", 
     "author": 18, 
     "original_title": "A Reverie for Mister Ray", 

@@ -121,32 +121,36 @@ NsS'language'
 p56
 VEnglish
 p57
-sS'release_date'
+sS'countries'
 p58
-S'2016-03-08T00:00:00'
-p59
-sS'author'
+(lp59
+I2
+asS'release_date'
 p60
+S'2016-03-08T00:00:00'
+p61
+sS'author'
+p62
 I121
 sS'original_title'
-p61
-VFreak the Mighty
-p62
-sS'summary'
 p63
-VFreak the Mighty is a young adult novel by Rodman Philbrick. Published in 1993, it was followed by the novel Max the Mighty in 1998. The primary characters are friends Maxwell Kane, a large, very slow, but kind-hearted boy, and Kevin Avery, nicknamed "Freak", who is physically handicapped but very intelligent. Kevin is diagnosed with Morquio syndrome.\u000aThe novel was adapted for the screen under the title The Mighty by Charles Leavitt; the film was shot in Toronto, Ontario, Canada and Cincinnati, Ohio, and directed by Peter Chelsom, and released in 1998.\u000a\u000a
+VFreak the Mighty
 p64
-sS'content_cleaned'
+sS'summary'
 p65
+VFreak the Mighty is a young adult novel by Rodman Philbrick. Published in 1993, it was followed by the novel Max the Mighty in 1998. The primary characters are friends Maxwell Kane, a large, very slow, but kind-hearted boy, and Kevin Avery, nicknamed "Freak", who is physically handicapped but very intelligent. Kevin is diagnosed with Morquio syndrome.\u000aThe novel was adapted for the screen under the title The Mighty by Charles Leavitt; the film was shot in Toronto, Ontario, Canada and Cincinnati, Ohio, and directed by Peter Chelsom, and released in 1998.\u000a\u000a
+p66
+sS'content_cleaned'
+p67
 I01
 sS'classes'
-p66
-(lp67
-sS'loc_class'
 p68
-S''
-p69
-sS'n_authors'
+(lp69
+sS'loc_class'
 p70
+S''
+p71
+sS'n_authors'
+p72
 I1
 sb.

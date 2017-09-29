@@ -124,6 +124,9 @@
         32
     ], 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2007-10-24T00:00:00", 
     "author": 32, 
     "original_title": "Fafhrd and the Gray Mouser", 

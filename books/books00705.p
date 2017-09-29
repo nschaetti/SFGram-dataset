@@ -119,46 +119,50 @@ NsS'language'
 p55
 VEnglish
 p56
-sS'release_date'
+sS'countries'
 p57
-S'2007-12-19T00:00:00'
-p58
-sS'author'
+(lp58
+I3
+asS'release_date'
 p59
+S'2007-12-19T00:00:00'
+p60
+sS'author'
+p61
 I232
 sS'original_title'
-p60
-VCrooked House
-p61
-sS'summary'
 p62
-VCrooked House is a work of detective fiction by Agatha Christie first published in the US by Dodd, Mead and Company in March 1949 and in the UK by the Collins Crime Club on 23 May of the same year.\u000aThe action takes place in and near London in the autumn of 1947. Christie said this and Ordeal by Innocence were her favourites. It is one of only five Christie novels not to have received a screen adaptation (although one is planned) - the others being Death Comes as the End, Destination Unknown, Passenger to Frankfurt, and Postern of Fate.
+VCrooked House
 p63
-sS'content_cleaned'
+sS'summary'
 p64
+VCrooked House is a work of detective fiction by Agatha Christie first published in the US by Dodd, Mead and Company in March 1949 and in the UK by the Collins Crime Club on 23 May of the same year.\u000aThe action takes place in and near London in the autumn of 1947. Christie said this and Ordeal by Innocence were her favourites. It is one of only five Christie novels not to have received a screen adaptation (although one is planned) - the others being Death Comes as the End, Destination Unknown, Passenger to Frankfurt, and Postern of Fate.
+p65
+sS'content_cleaned'
+p66
 I01
 sS'classes'
-p65
-(lp66
-Vscience-fiction
 p67
-aVsfbywomen
-p68
-aVdisabilitystudies
+(lp68
+Vscience-fiction
 p69
-aVsf
+aVsfbywomen
 p70
-aVshort-story
+aVdisabilitystudies
 p71
-aV14
+aVsf
 p72
-aVtype-short-story
+aVshort-story
 p73
-asS'loc_class'
+aV14
 p74
-VPS: Language and Literatures: American and Canadian literature
+aVtype-short-story
 p75
-sS'n_authors'
+asS'loc_class'
 p76
+VPS: Language and Literatures: American and Canadian literature
+p77
+sS'n_authors'
+p78
 I1
 sb.

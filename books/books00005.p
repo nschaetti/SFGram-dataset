@@ -145,32 +145,36 @@ sS'language'
 p68
 VEnglish
 p69
-sS'release_date'
+sS'countries'
 p70
-S'2007-05-03T00:00:00'
-p71
-sS'author'
+(lp71
+I2
+asS'release_date'
 p72
+S'2007-05-03T00:00:00'
+p73
+sS'author'
+p74
 I4
 sS'original_title'
-p73
-V2 B R 0 2 B
-p74
-sS'summary'
 p75
-V"2 B R 0 2 B" is a science fiction short story by Kurt Vonnegut, originally published in the digest magazine Worlds of If Science Fiction, January 1962, and collected in Vonnegut's Bagombo Snuff Box (1999). The title is pronounced "2 B R naught 2 B", referencing the famous phrase "to be, or not to be" from William Shakespeare's Hamlet, Prince of Denmark. In this story, the title refers to the telephone number one dials to schedule an assisted suicide with the Federal Bureau of Termination. Vonnegut's 1965 novel God Bless You, Mr. Rosewater describes a story by this name, attributing it to his recurring character Kilgore Trout, although the plot summary given is closer in nature to the eponymous tale from his short-story collection Welcome to the Monkey House.
+V2 B R 0 2 B
 p76
-sS'content_cleaned'
+sS'summary'
 p77
+V"2 B R 0 2 B" is a science fiction short story by Kurt Vonnegut, originally published in the digest magazine Worlds of If Science Fiction, January 1962, and collected in Vonnegut's Bagombo Snuff Box (1999). The title is pronounced "2 B R naught 2 B", referencing the famous phrase "to be, or not to be" from William Shakespeare's Hamlet, Prince of Denmark. In this story, the title refers to the telephone number one dials to schedule an assisted suicide with the Federal Bureau of Termination. Vonnegut's 1965 novel God Bless You, Mr. Rosewater describes a story by this name, attributing it to his recurring character Kilgore Trout, although the plot summary given is closer in nature to the eponymous tale from his short-story collection Welcome to the Monkey House.
+p78
+sS'content_cleaned'
+p79
 I01
 sS'classes'
-p78
-(lp79
-sS'loc_class'
 p80
-VPS: Language and Literatures: American and Canadian literature
-p81
-sS'n_authors'
+(lp81
+sS'loc_class'
 p82
+VPS: Language and Literatures: American and Canadian literature
+p83
+sS'n_authors'
+p84
 I1
 sb.

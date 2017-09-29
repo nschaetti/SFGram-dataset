@@ -36,6 +36,9 @@
     ], 
     "language": "French", 
     "isbn13": "9781548703745", 
+    "countries": [
+        4
+    ], 
     "release_date": "2004-02-01T00:00:00", 
     "author": 6, 
     "original_title": "Twenty Thousand Leagues Under the Sea", 

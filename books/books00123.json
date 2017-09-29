@@ -60,6 +60,9 @@
     "pages": 500, 
     "language": "English", 
     "isbn13": "9781939126016", 
+    "countries": [
+        2
+    ], 
     "release_date": "2012-10-06T00:00:00", 
     "author": 43, 
     "original_title": "The Time Traveler's Wife", 

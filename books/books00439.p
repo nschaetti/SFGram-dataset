@@ -128,42 +128,46 @@ NsS'language'
 p59
 VEnglish
 p60
-sS'release_date'
+sS'countries'
 p61
-S'2012-10-14T00:00:00'
-p62
-sS'author'
+(lp62
+I2
+asS'release_date'
 p63
+S'2012-10-14T00:00:00'
+p64
+sS'author'
+p65
 I147
 sS'original_title'
-p64
-VThe Talisman (King and Straub novel)
-p65
-sS'summary'
 p66
-VThe Talisman is a 1984 fantasy novel by Stephen King and Peter Straub. The plot is not related to that of Walter Scott's 1825 novel of the same name, although there is one oblique reference to "a Sir Walter Scott novel." The Talisman was nominated for both the Locus and World Fantasy Awards in 1985. King and Straub followed up with a sequel, Black House (2001), that picks up with a now-adult Jack as a retired Los Angeles homicide detective trying to solve a series of murders in the small town of French Landing, Wisconsin.\u000aThe book is dedicated to the authors' mothers: "This book is for Ruth King, Elvena Straub."
+VThe Talisman (King and Straub novel)
 p67
-sS'content_cleaned'
+sS'summary'
 p68
+VThe Talisman is a 1984 fantasy novel by Stephen King and Peter Straub. The plot is not related to that of Walter Scott's 1825 novel of the same name, although there is one oblique reference to "a Sir Walter Scott novel." The Talisman was nominated for both the Locus and World Fantasy Awards in 1985. King and Straub followed up with a sequel, Black House (2001), that picks up with a now-adult Jack as a retired Los Angeles homicide detective trying to solve a series of murders in the small town of French Landing, Wisconsin.\u000aThe book is dedicated to the authors' mothers: "This book is for Ruth King, Elvena Straub."
+p69
+sS'content_cleaned'
+p70
 I01
 sS'classes'
-p69
-(lp70
-Vto-read
 p71
-aVscience-fiction
-p72
-aVproject-gutenberg
+(lp72
+Vto-read
 p73
-aVenglisch
+aVscience-fiction
 p74
-aVebook
+aVproject-gutenberg
 p75
-asS'loc_class'
+aVenglisch
 p76
-VPS: Language and Literatures: American and Canadian literature
+aVebook
 p77
-sS'n_authors'
+asS'loc_class'
 p78
+VPS: Language and Literatures: American and Canadian literature
+p79
+sS'n_authors'
+p80
 I1
 sb.

@@ -60,6 +60,9 @@
     "pages": 351, 
     "language": "English", 
     "isbn13": "9780374399177", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-04-20T00:00:00", 
     "author": 40, 
     "content_cleaned": true, 

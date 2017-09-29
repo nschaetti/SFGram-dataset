@@ -52,6 +52,9 @@
     ], 
     "isbn13": "9780809501281", 
     "language": "English", 
+    "countries": [
+        4
+    ], 
     "release_date": "2006-09-23T00:00:00", 
     "author": 6, 
     "original_title": "Gil Braltar", 

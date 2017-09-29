@@ -38,6 +38,9 @@
     ], 
     "isbn13": "2940012111937", 
     "language": "English", 
+    "countries": [
+        2
+    ], 
     "release_date": "2008-10-09T00:00:00", 
     "author": 235, 
     "content_cleaned": true, 

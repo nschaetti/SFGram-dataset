@@ -58,6 +58,9 @@
     "pages": 253, 
     "language": "English", 
     "isbn13": "9780743236010", 
+    "countries": [
+        2
+    ], 
     "release_date": "2016-03-21T00:00:00", 
     "author": 111, 
     "content_cleaned": true, 

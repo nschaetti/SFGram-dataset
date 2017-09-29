@@ -88,29 +88,33 @@ asS'language'
 p42
 VEnglish
 p43
-sS'release_date'
+sS'countries'
 p44
-S'2004-10-11T00:00:00'
-p45
-sS'author'
+(lp45
+I1
+asS'release_date'
 p46
+S'2004-10-11T00:00:00'
+p47
+sS'author'
+p48
 I77
 sS'original_title'
-p47
-VDr. No (novel)
-p48
-sS'summary'
 p49
-VDr. No is the sixth novel by the English author Ian Fleming to feature his British Secret Service agent James Bond. Fleming wrote the novel in early 1957 at his Goldeneye estate in Jamaica. It was first published in the United Kingdom by Jonathan Cape on 31 March 1958. The novel centres on Bond's investigation into the disappearance in Jamaica of two fellow MI6 operatives. He establishes that they had been investigating Doctor No, a Chinese operator of a guano mine on the fictional Caribbean island of Crab Key. Bond travels to the island and meets Honeychile Rider and later Doctor No.\u000aThe novel began as a 1956 screenplay for the producer Henry Morgenthau III for a proposed television show entitled Commander Jamaica. When those plans foundered, Fleming adapted the ideas as the basis for a novel, provisionally titled The Wound Man. The book's eponymous villain was influenced by Sax Rohmer's Fu Manchu stories.\u000aDr. No was the first of Fleming's novels to face widespread negative criticism in Britain; Paul Johnson of the New Statesman dismissed the book as one of "Sex, Snobbery and Sadism". When released on the American market it was received more favourably. Dr. No was serialised in the Daily Express, first in an abridged story form and later as a comic strip. The story was adapted in 1962 as the first film in the Bond series, with Sean Connery in the lead role; in 2008 BBC Radio 4 broadcast a version, with Toby Stephens as Bond.
+VDr. No (novel)
 p50
-sS'classes'
+sS'summary'
 p51
-(lp52
-sS'loc_class'
+VDr. No is the sixth novel by the English author Ian Fleming to feature his British Secret Service agent James Bond. Fleming wrote the novel in early 1957 at his Goldeneye estate in Jamaica. It was first published in the United Kingdom by Jonathan Cape on 31 March 1958. The novel centres on Bond's investigation into the disappearance in Jamaica of two fellow MI6 operatives. He establishes that they had been investigating Doctor No, a Chinese operator of a guano mine on the fictional Caribbean island of Crab Key. Bond travels to the island and meets Honeychile Rider and later Doctor No.\u000aThe novel began as a 1956 screenplay for the producer Henry Morgenthau III for a proposed television show entitled Commander Jamaica. When those plans foundered, Fleming adapted the ideas as the basis for a novel, provisionally titled The Wound Man. The book's eponymous villain was influenced by Sax Rohmer's Fu Manchu stories.\u000aDr. No was the first of Fleming's novels to face widespread negative criticism in Britain; Paul Johnson of the New Statesman dismissed the book as one of "Sex, Snobbery and Sadism". When released on the American market it was received more favourably. Dr. No was serialised in the Daily Express, first in an abridged story form and later as a comic strip. The story was adapted in 1962 as the first film in the Bond series, with Sean Connery in the lead role; in 2008 BBC Radio 4 broadcast a version, with Toby Stephens as Bond.
+p52
+sS'classes'
 p53
-VPR: Language and Literatures: English literature
-p54
-sS'n_authors'
+(lp54
+sS'loc_class'
 p55
+VPR: Language and Literatures: English literature
+p56
+sS'n_authors'
+p57
 I1
 sb.
