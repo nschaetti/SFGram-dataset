@@ -20,7 +20,7 @@ V1406310271
 p9
 sS'year'
 p10
-I2010
+I1929
 sS'author_name'
 p11
 VEdgar Rice Burroughs

@@ -20,7 +20,7 @@ V1483701190
 p9
 sS'year'
 p10
-I2012
+I1931
 sS'author_name'
 p11
 VEverett C. Smith

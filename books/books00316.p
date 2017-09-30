@@ -20,7 +20,7 @@ V1400052173
 p9
 sS'year'
 p10
-I2010
+I1960
 sS'author_name'
 p11
 VDavid Duncan

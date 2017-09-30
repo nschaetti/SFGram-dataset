@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2012
+I1940
 sS'author_name'
 p10
 VRay Bradbury

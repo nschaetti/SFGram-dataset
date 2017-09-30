@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2010
+I1918
 sS'author_name'
 p10
 VH. P. Lovecraft

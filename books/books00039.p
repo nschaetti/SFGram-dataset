@@ -20,7 +20,7 @@ V0385344228
 p9
 sS'year'
 p10
-I2012
+I1953
 sS'author_name'
 p11
 VPhilip K. Dick

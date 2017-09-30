@@ -20,7 +20,7 @@ V1479336211
 p9
 sS'year'
 p10
-I2012
+I1960
 sS'author_name'
 p11
 VJim Harmon

@@ -20,7 +20,7 @@ V408870701X
 p9
 sS'year'
 p10
-I2012
+I1961
 sS'author_name'
 p11
 VHerbert D. Kastle
