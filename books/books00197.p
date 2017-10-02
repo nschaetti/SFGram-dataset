@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2016
+I1930
 sS'author_name'
 p10
 VPhilip Wylie

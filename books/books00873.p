@@ -14,7 +14,7 @@ S'isbn'
 p6
 NsS'year'
 p7
-I2011
+I-1
 sS'author_name'
 p8
 VEd M. Clinton

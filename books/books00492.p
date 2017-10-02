@@ -20,7 +20,7 @@ V075068593X
 p9
 sS'year'
 p10
-I1983
+I1962
 sS'author_name'
 p11
 VCharles L. Harness

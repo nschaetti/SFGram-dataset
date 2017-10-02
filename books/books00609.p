@@ -20,7 +20,7 @@ V0449911594
 p9
 sS'year'
 p10
-I1982
+I1952
 sS'author_name'
 p11
 VLyn Venable

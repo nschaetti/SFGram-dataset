@@ -20,7 +20,7 @@ V1434400026
 p9
 sS'year'
 p10
-I1980
+I1931
 sS'author_name'
 p11
 VRay Cummings

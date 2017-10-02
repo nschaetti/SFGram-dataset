@@ -20,7 +20,7 @@ V0553381350
 p9
 sS'year'
 p10
-I1979
+I1961
 sS'author_name'
 p11
 VHenry Slesar

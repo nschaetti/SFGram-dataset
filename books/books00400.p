@@ -20,7 +20,7 @@ V2290011150
 p9
 sS'year'
 p10
-I1979
+I1951
 sS'author_name'
 p11
 VRaymond F. Jones

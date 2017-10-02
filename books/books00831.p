@@ -20,7 +20,7 @@ V0375713492
 p9
 sS'year'
 p10
-I1983
+I1954
 sS'author_name'
 p11
 VF. L. Wallace

@@ -20,7 +20,7 @@ V0807509353
 p9
 sS'year'
 p10
-I2010
+I1960
 sS'author_name'
 p11
 VRandall Garrett

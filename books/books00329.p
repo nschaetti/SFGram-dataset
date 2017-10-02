@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2010
+I1953
 sS'author_name'
 p10
 VLester Del Rey

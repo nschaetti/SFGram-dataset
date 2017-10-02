@@ -20,7 +20,7 @@ V0062418971
 p9
 sS'year'
 p10
-I2016
+I1960
 sS'author_name'
 p11
 VGeorge O. Smith

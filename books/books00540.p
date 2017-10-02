@@ -20,7 +20,7 @@ V0061996165
 p9
 sS'year'
 p10
-I2011
+I1950
 sS'author_name'
 p11
 VC. M. Kornbluth

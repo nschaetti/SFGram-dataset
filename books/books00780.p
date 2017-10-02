@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2011
+I-1
 sS'author_name'
 p10
 VForrest J. Ackerman

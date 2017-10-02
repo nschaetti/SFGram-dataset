@@ -20,7 +20,7 @@ V0593073576
 p9
 sS'year'
 p10
-I2014
+I1947
 sS'author_name'
 p11
 VH. Beam Piper

@@ -14,7 +14,7 @@ S'isbn'
 p6
 NsS'year'
 p7
-I2013
+I1959
 sS'author_name'
 p8
 VFrank Herbert

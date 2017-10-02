@@ -20,7 +20,7 @@ V0545386985
 p9
 sS'year'
 p10
-I2013
+I1936
 sS'author_name'
 p11
 VEdmond Hamilton

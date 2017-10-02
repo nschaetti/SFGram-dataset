@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2011
+I1966
 sS'author_name'
 p10
 VRosel George Brown
