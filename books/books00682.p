@@ -20,7 +20,7 @@ V0060574216
 p9
 sS'year'
 p10
-I1998
+I1963
 sS'author_name'
 p11
 VWilliam Tenn

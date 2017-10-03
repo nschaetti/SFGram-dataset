@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2010
+I1952
 sS'author_name'
 p10
 VRaymond Z. Gallun

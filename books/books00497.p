@@ -20,7 +20,7 @@ V0316041440
 p9
 sS'year'
 p10
-I2009
+I1958
 sS'author_name'
 p11
 VFrederik Pohl

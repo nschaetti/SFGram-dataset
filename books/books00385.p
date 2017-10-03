@@ -20,7 +20,7 @@ V0226595668
 p9
 sS'year'
 p10
-I2006
+I1961
 sS'author_name'
 p11
 VMurray Leinster

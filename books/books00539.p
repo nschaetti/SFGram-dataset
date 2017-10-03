@@ -20,7 +20,7 @@ V0307338770
 p9
 sS'year'
 p10
-I2008
+I1960
 sS'author_name'
 p11
 VAllen Kim Lang

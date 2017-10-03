@@ -20,7 +20,7 @@ V0752224417
 p9
 sS'year'
 p10
-I1995
+I1912
 sS'author_name'
 p11
 VArthur Conan Doyle

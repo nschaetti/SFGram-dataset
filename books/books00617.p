@@ -20,7 +20,7 @@ V0786018747
 p9
 sS'year'
 p10
-I2007
+I1961
 sS'author_name'
 p11
 VT. R. Fehrenbach

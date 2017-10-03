@@ -20,7 +20,7 @@ V2819907830
 p9
 sS'year'
 p10
-I2010
+I1960
 sS'author_name'
 p11
 VH. B. Fyfe

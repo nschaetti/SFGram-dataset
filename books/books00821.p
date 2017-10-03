@@ -20,7 +20,7 @@ V0684814900
 p9
 sS'year'
 p10
-I1997
+I1954
 sS'author_name'
 p11
 VWinston K. Marks

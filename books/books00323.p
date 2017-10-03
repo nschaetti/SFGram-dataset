@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2008
+I1957
 sS'author_name'
 p10
 VRobert Silverberg

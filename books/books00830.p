@@ -20,7 +20,7 @@ V0980205204
 p9
 sS'year'
 p10
-I2008
+I1961
 sS'author_name'
 p11
 VEverett B. Cole

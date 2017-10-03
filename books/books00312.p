@@ -20,7 +20,7 @@ V9113014080
 p9
 sS'year'
 p10
-I2005
+I1946
 sS'author_name'
 p11
 VForrest J. Ackerman

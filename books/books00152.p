@@ -20,7 +20,7 @@ V0099492148
 p9
 sS'year'
 p10
-I2006
+I1966
 sS'author_name'
 p11
 VJr. John W. Campbell

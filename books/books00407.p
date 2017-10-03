@@ -20,7 +20,7 @@ V0099448572
 p9
 sS'year'
 p10
-I1992
+I1952
 sS'author_name'
 p11
 VEdgar Pangborn

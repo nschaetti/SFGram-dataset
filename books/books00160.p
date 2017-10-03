@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2001
+I1929
 sS'author_name'
 p10
 VPhilip Francis Nowlan

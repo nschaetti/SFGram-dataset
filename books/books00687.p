@@ -20,7 +20,7 @@ V0060763280
 p9
 sS'year'
 p10
-I2005
+I1932
 sS'author_name'
 p11
 VArthur J. Burks

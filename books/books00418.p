@@ -16,7 +16,7 @@ V0300083173
 p7
 sS'year'
 p8
-I2000
+I1961
 sS'author_name'
 p9
 VMack Reynolds

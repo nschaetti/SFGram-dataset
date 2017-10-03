@@ -20,7 +20,7 @@ V189221301X
 p9
 sS'year'
 p10
-I1992
+I1958
 sS'author_name'
 p11
 VJeff Sutton

@@ -20,7 +20,7 @@ V0307220141
 p9
 sS'year'
 p10
-I1993
+I1952
 sS'author_name'
 p11
 VKris Neville

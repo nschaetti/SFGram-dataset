@@ -20,7 +20,7 @@ V0143035304
 p9
 sS'year'
 p10
-I2004
+I1958
 sS'author_name'
 p11
 VRobert Silverberg

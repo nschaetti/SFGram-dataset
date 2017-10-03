@@ -20,7 +20,7 @@ V1400063515
 p9
 sS'year'
 p10
-I2007
+I1960
 sS'author_name'
 p11
 VIrving E. Cox

@@ -20,7 +20,7 @@ V0380795035
 p9
 sS'year'
 p10
-I2000
+I1961
 sS'author_name'
 p11
 VKeith Laumer

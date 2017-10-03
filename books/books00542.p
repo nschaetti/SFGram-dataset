@@ -20,7 +20,7 @@ V0571224245
 p9
 sS'year'
 p10
-I2006
+I1952
 sS'author_name'
 p11
 VFritz Leiber

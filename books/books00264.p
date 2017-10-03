@@ -20,7 +20,7 @@ V0689819471
 p9
 sS'year'
 p10
-I1999
+I1960
 sS'author_name'
 p11
 VRobert Sheckley

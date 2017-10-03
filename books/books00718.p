@@ -14,7 +14,7 @@ S'isbn'
 p6
 NsS'year'
 p7
-I2007
+I1953
 sS'author_name'
 p8
 VGeorge O. Smith

@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2008
+I1951
 sS'author_name'
 p10
 VFrank Belknap Long

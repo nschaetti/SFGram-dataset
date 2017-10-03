@@ -20,7 +20,7 @@ V0886469376
 p9
 sS'year'
 p10
-I1997
+I1961
 sS'author_name'
 p11
 VDonald E. Westlake

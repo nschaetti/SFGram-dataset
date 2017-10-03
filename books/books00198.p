@@ -20,7 +20,7 @@ V0440241022
 p9
 sS'year'
 p10
-I2005
+I1955
 sS'author_name'
 p11
 VJames Blish

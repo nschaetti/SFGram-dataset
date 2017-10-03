@@ -20,7 +20,7 @@ V076531178X
 p9
 sS'year'
 p10
-I2006
+I1951
 sS'author_name'
 p11
 VClifford D. Simak

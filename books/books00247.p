@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I2009
+I1959
 sS'author_name'
 p10
 VRobert Sheckley

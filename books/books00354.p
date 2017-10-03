@@ -20,7 +20,7 @@ V0976395002
 p9
 sS'year'
 p10
-I2003
+I1960
 sS'author_name'
 p11
 VMurray F. Yaco

@@ -20,7 +20,7 @@ V0425155943
 p9
 sS'year'
 p10
-I1992
+I1952
 sS'author_name'
 p11
 VKatherine MacLean

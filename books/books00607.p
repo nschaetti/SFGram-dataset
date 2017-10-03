@@ -20,7 +20,7 @@ V0743236017
 p9
 sS'year'
 p10
-I2003
+I1961
 sS'author_name'
 p11
 VC. C. MacApp

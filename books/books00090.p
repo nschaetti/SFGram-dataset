@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1994
+I1938
 sS'author_name'
 p10
 VRobert E. Howard
