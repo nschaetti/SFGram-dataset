@@ -20,7 +20,7 @@ V0330026712
 p9
 sS'year'
 p10
-I1968
+I1954
 sS'author_name'
 p11
 VFredric Brown

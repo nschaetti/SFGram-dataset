@@ -20,7 +20,7 @@ V0448145804
 p9
 sS'year'
 p10
-I1976
+I1934
 sS'author_name'
 p11
 VRobert E. Howard

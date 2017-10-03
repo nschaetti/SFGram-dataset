@@ -20,7 +20,7 @@ V0865711054
 p9
 sS'year'
 p10
-I1987
+I1961
 sS'author_name'
 p11
 VH. B. Fyfe

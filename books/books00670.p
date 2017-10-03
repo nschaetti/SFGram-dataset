@@ -20,7 +20,7 @@ V0060084022
 p9
 sS'year'
 p10
-I1969
+I1958
 sS'author_name'
 p11
 VWalter S. Tevis

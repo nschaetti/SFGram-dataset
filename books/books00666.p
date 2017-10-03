@@ -20,7 +20,7 @@ V0263720039
 p9
 sS'year'
 p10
-I1976
+I1951
 sS'author_name'
 p11
 VWilliam Campbell Gault

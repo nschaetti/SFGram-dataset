@@ -20,7 +20,7 @@ V0690007892
 p9
 sS'year'
 p10
-I1975
+I1960
 sS'author_name'
 p11
 VJesse F. Bone

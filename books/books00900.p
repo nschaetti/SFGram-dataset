@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1985
+I1957
 sS'author_name'
 p10
 VF. L. Wallace

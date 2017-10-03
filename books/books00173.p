@@ -20,7 +20,7 @@ V0352395508
 p9
 sS'year'
 p10
-I1978
+I1953
 sS'author_name'
 p11
 VE. E. Smith

@@ -20,7 +20,7 @@ V0812550757
 p9
 sS'year'
 p10
-I1986
+I1952
 sS'author_name'
 p11
 VWallace Macfarlane

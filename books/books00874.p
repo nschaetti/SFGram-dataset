@@ -20,7 +20,7 @@ V0295976160
 p9
 sS'year'
 p10
-I1987
+I1955
 sS'author_name'
 p11
 VJoseph Samachson

@@ -20,7 +20,7 @@ V0425210766
 p9
 sS'year'
 p10
-I1970
+I1950
 sS'author_name'
 p11
 VJay Franklin

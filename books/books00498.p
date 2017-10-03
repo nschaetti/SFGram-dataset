@@ -20,7 +20,7 @@ V0671737600
 p9
 sS'year'
 p10
-I1984
+I1952
 sS'author_name'
 p11
 VAlfred Coppel

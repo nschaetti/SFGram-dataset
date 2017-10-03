@@ -20,7 +20,7 @@ V0316253642
 p9
 sS'year'
 p10
-I1971
+I1960
 sS'author_name'
 p11
 VLeonard Rubin

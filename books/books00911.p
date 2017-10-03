@@ -20,7 +20,7 @@ V0671642294
 p9
 sS'year'
 p10
-I1988
+I1952
 sS'author_name'
 p11
 VRobert Moore Williams
