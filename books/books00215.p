@@ -20,7 +20,7 @@ V0143058142
 p9
 sS'year'
 p10
-I1866
+I1955
 sS'author_name'
 p11
 VH. Beam Piper

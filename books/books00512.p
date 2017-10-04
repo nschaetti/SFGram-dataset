@@ -20,7 +20,7 @@ V0451528557
 p9
 sS'year'
 p10
-I1895
+I1954
 sS'author_name'
 p11
 VFrank Belknap Long

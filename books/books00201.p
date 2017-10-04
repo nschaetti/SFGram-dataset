@@ -20,7 +20,7 @@ V1594160201
 p9
 sS'year'
 p10
-I1896
+I1895
 sS'author_name'
 p11
 VH. G. Wells

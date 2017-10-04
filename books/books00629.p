@@ -14,7 +14,7 @@ S'isbn'
 p6
 NsS'year'
 p7
-I1894
+I1893
 sS'author_name'
 p8
 VGriffith
