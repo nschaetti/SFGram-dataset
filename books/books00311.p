@@ -20,7 +20,7 @@ V0395530075
 p9
 sS'year'
 p10
-I1941
+I1954
 sS'author_name'
 p11
 VJerome Bixby

@@ -20,7 +20,7 @@ V0875093663
 p9
 sS'year'
 p10
-I1948
+I1952
 sS'author_name'
 p11
 VLester Del Rey

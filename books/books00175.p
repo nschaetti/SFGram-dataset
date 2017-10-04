@@ -20,7 +20,7 @@ V0819567078
 p9
 sS'year'
 p10
-I1919
+I1918
 sS'author_name'
 p11
 VAbraham Merritt

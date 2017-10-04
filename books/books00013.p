@@ -20,7 +20,7 @@ V0870540378
 p9
 sS'year'
 p10
-I1945
+I1929
 sS'author_name'
 p11
 VH. P. Lovecraft

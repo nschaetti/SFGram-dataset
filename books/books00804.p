@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1947
+I1931
 sS'author_name'
 p10
 VAnthony Gilmore

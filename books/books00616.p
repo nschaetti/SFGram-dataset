@@ -20,7 +20,7 @@ V1612102174
 p9
 sS'year'
 p10
-I1960
+I-1
 sS'author_name'
 p11
 VDavid E. Fisher

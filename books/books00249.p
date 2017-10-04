@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1932
+I1930
 sS'author_name'
 p10
 VEdmond Hamilton

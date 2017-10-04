@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1927
+I1961
 sS'author_name'
 p10
 VBill Doede

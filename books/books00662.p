@@ -20,7 +20,7 @@ V0060931930
 p9
 sS'year'
 p10
-I1925
+I1931
 sS'author_name'
 p11
 VS. P. Meek

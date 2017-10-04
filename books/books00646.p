@@ -20,7 +20,7 @@ V0553213695
 p9
 sS'year'
 p10
-I1915
+I1960
 sS'author_name'
 p11
 VCharles V. De Vet

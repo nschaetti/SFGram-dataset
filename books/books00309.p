@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1931
+I1932
 sS'author_name'
 p10
 VFletcher Pratt

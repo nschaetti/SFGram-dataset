@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1925
+I1962
 sS'author_name'
 p10
 VR. A. Lafferty

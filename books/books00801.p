@@ -20,7 +20,7 @@ V006083756X
 p9
 sS'year'
 p10
-I1940
+I1953
 sS'author_name'
 p11
 VT. D. Hamm

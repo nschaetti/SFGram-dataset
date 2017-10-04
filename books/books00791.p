@@ -16,7 +16,7 @@ V0060929871
 p7
 sS'year'
 p8
-I1932
+I1935
 sS'author_name'
 p9
 VStanley Grauman Weinbaum

@@ -20,7 +20,7 @@ V0143039237
 p9
 sS'year'
 p10
-I1933
+I1952
 sS'author_name'
 p11
 VIsaac Asimov

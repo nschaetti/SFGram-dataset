@@ -14,7 +14,7 @@ S'isbn'
 p6
 NsS'year'
 p7
-I1932
+I1924
 sS'author_name'
 p8
 VRalph Milne Farley
