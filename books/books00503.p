@@ -20,7 +20,7 @@ V0140621679
 p9
 sS'year'
 p10
-I1900
+I1960
 sS'author_name'
 p11
 VLaurence M. Janifer
