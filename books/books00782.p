@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1953
+I1955
 sS'author_name'
 p10
 VEvelyn E. Smith

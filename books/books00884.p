@@ -20,7 +20,7 @@ V0345341023
 p9
 sS'year'
 p10
-I1954
+I-1
 sS'author_name'
 p11
 VRobert W. Haseltine

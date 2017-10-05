@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1954
+I-1
 sS'author_name'
 p10
 VAlan Edward Nourse

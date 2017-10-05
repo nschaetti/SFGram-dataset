@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1954
+I1962
 sS'author_name'
 p10
 VMurray Leinster

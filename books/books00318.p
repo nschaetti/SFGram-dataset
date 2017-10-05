@@ -20,7 +20,7 @@ V1405203382
 p9
 sS'year'
 p10
-I1953
+I1962
 sS'author_name'
 p11
 VFritz Leiber

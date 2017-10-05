@@ -18,7 +18,7 @@ sS'isbn'
 p8
 NsS'year'
 p9
-I1953
+I-1
 sS'author_name'
 p10
 VRobert E. Gilbert
