@@ -20,7 +20,7 @@ V0345339738
 p9
 sS'year'
 p10
-I1955
+I1954
 sS'author_name'
 p11
 VJohn Joseph McGuire
