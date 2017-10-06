@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/51609/51609-h/images/illus.jpg"
     ], 
     "year": 1960, 
-    "images": [], 
     "id": 789, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "A Fall of Glass", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Throne_of_Glass", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.83, 
     "rating_count": 930, 
@@ -57,8 +54,6 @@
     ], 
     "release_date": "2016-03-31T00:00:00", 
     "author": 251, 
-    "original_title": "Throne of Glass", 
-    "summary": "Throne of Glass is a young adult high fantasy novel series by American author Sarah J. Maas, beginning with the inaugural entry of the same name. The story follows the journey of Celaena Sardothien, a teenage assassin in a corrupted kingdom with a tyrannical ruler. As the tale progresses, Celaena forms unexpected bonds and uncovers a conspiracy amidst her adventures. The series has appeared on the New York Times Best Seller list. It has been optioned for a TV series by Mark Gordon and will premiere on Hulu.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

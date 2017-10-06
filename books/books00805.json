@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/51727/51727-h/images/illus.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 805, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Satisfaction Guaranteed", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Earth_Is_Room_Enough", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.68, 
     "rating_count": 288, 
@@ -64,8 +61,6 @@
     ], 
     "release_date": "2016-04-10T00:00:00", 
     "author": 257, 
-    "original_title": "Earth Is Room Enough", 
-    "summary": "Earth Is Room Enough is a collection of seventeen short science fiction and fantasy stories and two pieces of comic verse by American writer Isaac Asimov in 1957. In his autobiography In Joy Still Felt, Asimov wrote, \"I was still thinking of the remarks of reviewers such as George O. Smith... concerning my penchant for wandering over the Galaxy. I therefore picked stories that took place on Earth and called the book Earth Is Room Enough.\" The collection includes one story from the Robot series and four stories that feature or mention the fictional computer Multivac.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

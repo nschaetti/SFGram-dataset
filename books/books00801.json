@@ -9,17 +9,13 @@
         "http://www.gutenberg.org/files/30014/30014-h/images/002-2.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 801, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Native Son", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Native_Son", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.96, 
     "rating_count": 66267, 
@@ -65,8 +61,6 @@
     ], 
     "release_date": "2009-09-17T00:00:00", 
     "author": 255, 
-    "original_title": "Native Son", 
-    "summary": "Native Son (1940) is a novel written by the African American author Richard Wright. It tells the story of 20-year-old Bigger Thomas, an African American youth living in utter poverty in a poor area on Chicago's South Side in the 1930s.\nWhile not apologizing for Bigger's crimes, Wright portrays a systemic inevitability behind them. Bigger's lawyer, Boris Max, makes the case that there is no escape from this destiny for his client or any other black American since they are the necessary product of the society that formed them and told them since birth who exactly they were supposed to be.\n\"No American Negro exists\", James Baldwin once wrote, \"who does not have his private Bigger Thomas living in his skull.\" Frantz Fanon discusses the feeling in his 1952 essay, L'exp\u00ef\u00bf\u00bdrience v\u00ef\u00bf\u00bdcue du noir (The Fact of Blackness). \"In the end\", writes Fanon, \"Bigger Thomas acts. To put an end to his tension, he acts, he responds to the world's anticipation.\"", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

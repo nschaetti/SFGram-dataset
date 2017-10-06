@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/30251/30251-h/images/002-2.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
     "id": 826, 
     "category": "Text", 
-    "plot": "Lise is a spinster, working in an accountancy firm somewhere in Northern Europe, probably Denmark (the location is not explicitly specified). Spark described The Driver's Seat as a 'whydunnit' (and she uses the term in the novel). This is because in the novel's third chapter it is revealed that Lise will be murdered. Hence Spark's novel is an examination, not of what events take place but why they do so.\nIt is eventually revealed that Lise has suffered years of illness; she behaves erratically and often confrontationally, and wears garish, clashing, provocative clothing. Lise travels to a South European city, probably Rome, ostensibly to meet her illusory boyfriend.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Disqualified", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Driver%27s_Seat_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 2.75, 
     "rating_count": 4, 
@@ -43,8 +39,6 @@
     ], 
     "release_date": "2009-10-14T00:00:00", 
     "author": 144, 
-    "original_title": "The Driver's Seat (novel)", 
-    "summary": "The Driver's Seat is a novella by Muriel Spark. Published in 1970, it was advertised as \"a metaphysical shocker\". It is indeed in the psychological thriller genre, dealing with themes of alienation, isolation and loss of spiritual values.\nIt was filmed in 1974 starring Elizabeth Taylor and featuring Andy Warhol. In the U.S the film was renamed Identikit. Spark described it as one of her favourite novels.\nThe Driver's Seat was, on 26 March 2010, one of six novels to be nominated for \u201cLost Man Booker Prize\u201d of 1970, \"a contest delayed by 40 years because a reshuffling of the fledgeling competition\u2019s rules that year disqualified nearly a year\u2019s worth of high-quality fiction from consideration.\"\nIn 2015, it was adapted for the stage for the first time by Laurie Sansom for a National Theatre of Scotland production which premiered at the Royal Lyceum Theatre, Edinburgh.", 
     "content_cleaned": true, 
     "classes": [
         "sci-fi", 

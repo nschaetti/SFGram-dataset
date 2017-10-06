@@ -10,16 +10,13 @@
         "http://www.gutenberg.org/files/51170/51170-h/images/illus3.jpg"
     ], 
     "year": 1951, 
-    "images": [], 
     "id": 811, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Fire and the Sword", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.28, 
     "rating_count": 1247, 
@@ -53,8 +50,6 @@
     ], 
     "release_date": "2016-02-10T00:00:00", 
     "author": 180, 
-    "original_title": "A Song of Ice and Fire", 
-    "summary": "A Song of Ice and Fire is a series of epic fantasy novels by the American novelist and screenwriter George R. R. Martin. He began the first volume of the series, A Game of Thrones, in 1991 and had it published in 1996. Martin, who initially envisioned the series as a trilogy, has published five out of a planned seven volumes. The fifth and most recent volume of the series published in 2011, A Dance with Dragons, took Martin five years to write. He is still writing the sixth novel, The Winds of Winter.\nA Song of Ice and Fire takes place on the fictional continents Westeros and Essos. The point of view of each chapter in the story is a limited perspective of a range of characters growing from nine, in the first novel, to thirty-one by the fifth. Three main stories interweave a dynastic war among several families for control of Westeros, the rising threat of the supernatural Others in the northernmost reaches of Westeros, and the ambition of Daenerys Targaryen, the deposed king's exiled daughter, to assume the Iron Throne.\nMartin's inspirations included the Wars of the Roses and the French historical novels The Accursed Kings by Maurice Druon. A Song of Ice and Fire received praise for its diverse portrayal of women and religion, as well as its realism. An assortment of disparate and subjective points of view confronts the reader, and the success or survival of point of view characters is never assured. Within the often morally ambiguous world of A Song of Ice and Fire, questions concerning loyalty, pride, human sexuality, piety, and the morality of violence frequently arise.\nAs of April 2015, the books have sold more than 60 million copies worldwide and, as of January 2017, have been translated into 47 languages. The fourth and fifth volumes reached the top of The New York Times Best Seller lists upon their releases. Among the many derived works are several prequel novellas, a TV series, a comic book adaptation, and several card, board, and video games.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

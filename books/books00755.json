@@ -19,17 +19,13 @@
         "http://www.gutenberg.org/files/22590/22590-page-images/p086.png"
     ], 
     "year": 1959, 
-    "images": [], 
     "id": 755, 
     "category": "Text", 
-    "plot": "Gone with the Wind takes place in the southern United States in the state of Georgia during the American Civil War (1861\u20131865) and the Reconstruction Era (1865\u20131877). The novel unfolds against the backdrop of rebellion wherein seven southern states initially, Georgia among them, have declared their secession from the United States (the \"Union\") and formed the Confederate States of America (the \"Confederacy\"), after Abraham Lincoln was elected president. The Union refuses to accept secession and no compromise is found as war approaches.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Wind", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.28, 
     "rating_count": 875053, 
@@ -76,8 +72,6 @@
     ], 
     "release_date": "2007-09-12T00:00:00", 
     "author": 144, 
-    "original_title": "Gone with the Wind (novel)", 
-    "summary": "Gone with the Wind is a novel by American writer Margaret Mitchell, first published in 1936. The story is set in Clayton County and Atlanta, both in Georgia, during the American Civil War and Reconstruction Era. It depicts the struggles of young Scarlett O'Hara, the spoiled daughter of a well-to-do plantation owner, who must use every means at her disposal to claw her way out of poverty following Sherman's destructive \"March to the Sea\". This historical novel features a Bildungsroman or coming-of-age story, with the title taken from a poem written by Ernest Dowson.\nGone with the Wind was popular with American readers from the outset and was the top American fiction bestseller in the year it was published and in 1937. As of 2014, a Harris poll found it to be the second favorite book of American readers, just behind the Bible. More than 30 million copies have been printed worldwide.\nWritten from the perspective of the slaveholder, Gone with the Wind is Southern plantation fiction. Its portrayal of slavery and African Americans has been considered controversial, especially by succeeding generations, as well as its use of a racial epithet and ethnic slurs common to the period. However, the novel has become a reference point for subsequent writers about the South, both black and white. Scholars at American universities refer to it in their writings, interpret and study it. The novel has been absorbed into American popular culture.\nMitchell received the Pulitzer Prize for Fiction for the book in 1937. It was adapted into a 1939 American film. Gone with the Wind is the only novel by Mitchell published during her lifetime.\nMitchell used color symbolism, especially the colors red and green, which frequently are associated with Scarlett O'Hara. Mitchell identified the primary theme as survival. She left the ending speculative for the reader, however. She was often asked what became of her lovers, Rhett and Scarlett. She replied, \"For all I know, Rhett may have found someone else who was less difficult.\" Two sequels authorized by Mitchell's estate were published more than a half century later. A parody was also produced.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

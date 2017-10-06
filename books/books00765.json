@@ -6,16 +6,13 @@
         "http://www.gutenberg.org/files/29059/29059-h/images/illo.jpg"
     ], 
     "year": 1938, 
-    "images": [], 
     "id": 765, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The World Beyond", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Jack-in-the-Box_(short_story)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.74, 
     "rating_count": 2132, 
@@ -55,8 +52,6 @@
     ], 
     "release_date": "2009-06-07T00:00:00", 
     "author": 71, 
-    "original_title": "Jack-in-the-Box (short story)", 
-    "summary": "Jack-in-the-Box is a short story by American author Ray Bradbury, first published as part of the 1947 short story collection Dark Carnival. It was later collected in the magazine Avon Fantasy Reader and the anthologies Interplanet7: Fantascienza, The Small Assassin, Ghostly and Ghastly, and The Stories of Ray Bradbury.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/29989/29989-h/images/image_i.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 733, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Outbreak of Peace", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Missing_Peace", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 5.0, 
     "rating_count": 3, 
@@ -41,8 +38,6 @@
     ], 
     "release_date": "2009-09-14T00:00:00", 
     "author": 94, 
-    "original_title": "The Missing Peace", 
-    "summary": "The Missing Peace: The Inside Story of the Fight for Middle East Peace (ISBN 0-374-19973-6) is a 2004 non-fiction book by Dennis Ross on the history of and his participation in the Israeli\u2013Palestinian peace process and the Arab\u2013Israeli peace process. Ross, an American diplomat, was the Director of Policy Planning in the State Department under President George H. W. Bush and the special Middle East coordinator under President Bill Clinton.\n\n", 
     "content_cleaned": true, 
     "classes": [], 
     "content_available": true, 

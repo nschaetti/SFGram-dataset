@@ -10,17 +10,13 @@
         "http://www.gutenberg.org/files/30338/30338-h/images/image_c.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 767, 
     "category": "Text", 
-    "plot": "In parallel stories, four operatives are given conflicting missions in response to the North African war of liberation headed by black American sociologist Homer Crawford, also known as El Hassan. Counter espionage agent Paul Kosloff is dispatched by the U.S. State Department to stop Crawford's revolution before it brings about the financial collapse of the developed world, Major Sean Ryan is hired by the Arab Union to lead a mercenary team in the assassination of Crawford and his followers, Japanese Colonel Tokugawa Hidetada is commissioned to investigate Crawford's stance toward trade with Japan, and KGB agent Serge Sverdlov is sent to promote Crawford's program for North Africa to ensure that the region will be ripe for Soviet propaganda in the future.\nMeantime, having scored a victory over the Arab Union forces in Tamanrasset, Crawford and his team turn to governmental issues, which include naming their new country Ifriqiyah and the creation of a Desert Camel Corps to defend the progressive field projects sponsored by El Hassan. Crawford then leaves the administration of the government temporarily in the hands of Isobel Cunningham, who is to pretend that El Hassan and his closest viziers are in a secluded planning session. In actuality, Crawford, Bey-ag-Akhamouk, Kenneth Ballalou, and Clifford Jackson go on a mission to save teammate Elmer Allen, who has been captured by one of Crawford's enemies, the leader of the Ouled Touameur clan, Abd-el-Kader. Allen is kept in a portable iron cage at the council of chiefs of the Chaambra confederation, which has been convened so that Abd-el-Kader can be proclaimed as the reincarnation of Mahdi, the holiest prophet since Mohammed. On their arrival to the council, Crawford challenges Abd-el-Kader to combat. When Abd-el-Kader refuses, Bey proposes that El Hassan and two of his men fight the one thousand warriors of Abd-el-Kader's clan in a secluded area. When the chiefs balk at this outlandish suggestion, Crawford seems to think the idea over and suggests he and his men fight the one thousand men three warriors at a time. After twenty-seven clan champions fail to emerge victorious from the arena, Abd-el-Kader's men turn their backs on him and Abd-el-Kader is laughed off the encampment. Later, Bey explains to Kenny that Crawford and Cliff used a small clearance after the narrow path leading to the fighting area to ambush Abd-el-Kader's warriors one by one.\nThe evening after liberating Allen, Crawford meets first with Serge Sverdlov, who offers Soviet weapons aid, and later with Paul Kosloff, who pretends he is interested in Crawford's cause to scout the place for his assassination attempt. Sverdlov then attempts to kill Kosloff, but is interrupted by Crawford and his men and by Tokugawa Hidetada. Sverdlov shoots Hidetada, who hits Bey with his laser beam. Kosloff's assistant then kills Sverdlov. Hidetada dies. In disgust at the deadly outcome, Kosloff resigns his mission.\nMeantime, Major Ryan and his mercenary group have joined the foreign delegations in Tamanrasset under the pretension offering their services as bodyguards to El Hassan. When Crawford returns and asks them to leave his territory, two of their number who have warmed up to El Hassan's cause, Doctor Megan McDaid and Sergeant Lon Charles, decide to stay. After Ryan's team has left town, Sergeant Charles reveals that the mercenaries' real plan was to lay down fission grenades to destroy Tamanrasset and everyone in it, but that the grenades are now in his possession. Crawford decides to send a message to all such unscrupulous adventurers by going after the twenty-three mercenaries with twenty-two of his men and having the ensuing battle covered by the foreign news agencies in Tamanrasset. Crawford's men win the battle, only to learn that the Arab Union has declared war on Ifriqiyah.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Freedom", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Best_Ye_Breed", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.73, 
     "rating_count": 119320, 
@@ -66,8 +62,6 @@
     ], 
     "release_date": "2009-10-26T00:00:00", 
     "author": 69, 
-    "original_title": "The Best Ye Breed", 
-    "summary": "The Best Ye Breed is a science fiction novella by American writer Mack Reynolds. It is the third in a sequence of near-future stories set in North Africa, which also includes Black Man's Burden (1961-1962), Border, Breed nor Birth (1962), and \"Black Sheep Astray\" (1973). The Best Ye Breed and the North Africa series have been called a \"notable exception\" to the indirect treatment of racial issues in 1960s science fiction magazines.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

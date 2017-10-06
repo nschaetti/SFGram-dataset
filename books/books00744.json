@@ -6,17 +6,13 @@
         "http://www.gutenberg.org/files/50713/50713-h/images/cover.jpg"
     ], 
     "year": 1956, 
-    "images": [], 
     "id": 744, 
     "category": "Text", 
-    "plot": "The prologue of the novel begins with a dramatized account of the second EVA of Apollo 17. Astronaut Jack Schmitt discovers orange soil in Shorty Crater at the very end of the EVA and gathers samples in a race against time to get back to the LEM. Meanwhile, Wernher von Braun is watching the end of the mission on TV with other NASA engineers. Katrina Suttner, the young daughter of one of von Braun's colleagues, is in on a secret involving the mission, and is certain that humans will soon return to the Moon.\nThe novel then skips ahead 30 years. Jack Medaris, the protagonist, is preparing the launch of a privately funded, unmanned mission to the Moon to gather more of the orange soil, which appears to have enormous potential as a source of clean nuclear energy on Earth. Shortly before launch, Medaris' probe is destroyed by unknown terrorists or saboteurs. It also becomes clear that Medaris is driven to go to the Moon to recover the secret left by Katrina, who later became his wife and was killed in a test-stand accident.\nMedaris hatches a plot to hijack the shuttle Columbia on a routine mission. The plan nearly comes off, but his renegade pilot is accidentally shot and killed, and one payload specialist from the planned crew, Penny High Eagle, launches with him. Medaris takes the controls of Columbia, and gradually persuades High Eagle that she should help him, if only for their mutual survival. NASA also reluctantly agrees to help, in order to prevent the loss of their spacecraft.\nMedaris has developed a new rocket motor which will make it possible to take Columbia into lunar orbit. With the help of High Eagle, he is able to attach the smuggled engine, and boost the shuttle to the Moon. He has also smuggled a bare-bones LEM, of his own design, aboard the shuttle, which will allow him to make a one-man EVA to the Apollo 17 landing site.\nBack on Earth, a mysterious consortium is using a private security company to try to sabotage Medaris' mission by any means possible, including hiring a group of computer hackers to take control of a set of hunter-killer satellites parked behind the Moon, and persuading Roscosmos to intervene and take over the shuttle in LEO. In spite of these obstacles, Medaris successfully lands on the Moon, gets the orange soil, retrieves the message from Katrina, and returns to Earth. High Eagle and Medaris form a romantic and physical relationship during the return.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "One Against the Moon", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Back_to_the_Moon", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.67, 
     "rating_count": 4, 
@@ -44,8 +40,6 @@
     ], 
     "release_date": "2015-12-17T00:00:00", 
     "author": 97, 
-    "original_title": "Back to the Moon", 
-    "summary": "Back to the Moon was Homer Hickam's first book-length fiction, published in June 1999. It is an adult, scientific thriller with insider information about NASA.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

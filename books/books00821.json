@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/51414/51414-h/images/illus.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
     "id": 821, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "...So They Baked a Cake", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_English_Huswife", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 0.0, 
     "rating_count": 0, 
@@ -45,8 +42,6 @@
     ], 
     "release_date": "2016-03-10T00:00:00", 
     "author": 228, 
-    "original_title": "The English Huswife", 
-    "summary": "The English Huswife is a book of English cookery and remedies by Gervase Markham, first published in London by Roger Jackson in 1615, and Markham's best-known work. It was a bestseller of its time, going through nine editions, and at least two other reprints, by 1683. It was issued as a two-volume work, Countrey Contentments, the other volume being The Husbandmans Recreations.\nAlthough Markham disclaims authorship in the preface, he did adapt the recipes to suit current tastes, notably with sweet and sour sauces.\nThe book contains what is probably the first published recipe for Banbury cake.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

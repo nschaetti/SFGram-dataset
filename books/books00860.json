@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/24558/24558-h/images/003.png"
     ], 
     "year": 1962, 
-    "images": [], 
     "id": 860, 
     "category": "Text", 
-    "plot": "The evil alien Daniel has to defeat in this novel \u2013 No. 5 on the List of Alien Outlaws on Earth \u2013 is torturing and killing humans to create an entertaining reality television show for his home planet.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Watch the Sky", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Daniel_X:_Watch_the_Skies", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.46, 
     "rating_count": 403, 
@@ -65,8 +61,6 @@
     ], 
     "release_date": "2008-02-09T00:00:00", 
     "author": 136, 
-    "original_title": "Daniel X: Watch the Skies", 
-    "summary": "Daniel X: Watch the Skies is a teen science fiction novel written by James Patterson and Ned Rust. It is the second novel in the Daniel X series and was released on July 27, 2009.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

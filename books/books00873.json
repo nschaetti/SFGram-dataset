@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/35759/35759-rst/images/im1.png"
     ], 
     "year": -1, 
-    "images": [], 
     "id": 873, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Security Risk", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Enemy_(Bagley_novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.54, 
     "rating_count": 27, 
@@ -41,8 +38,6 @@
     ], 
     "release_date": "2011-04-02T00:00:00", 
     "author": 231, 
-    "original_title": "The Enemy (Bagley novel)", 
-    "summary": "The Enemy is a first person narrative espionage thriller novel by English author Desmond Bagley, first published in 1977. In 2001 it was made into a movie, starring Roger Moore, Luke Perry and Olivia d'Abo.", 
     "classes": [
         "to-read", 
         "paige-tyler", 

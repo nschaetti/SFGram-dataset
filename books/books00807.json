@@ -10,17 +10,13 @@
         "http://www.gutenberg.org/files/51810/51810-h/images/illus3.jpg"
     ], 
     "year": 1959, 
-    "images": [], 
     "id": 807, 
     "category": "Text", 
-    "plot": "Blair Maynard, a divorced journalist in New York City, decides to write a story about the unexplained disappearance of yachts and other small boats in the Caribbean, hoping to debunk theories about the Bermuda Triangle. He has weekend custody of his preteen son Justin, and decides to mix a vacation with work, taking his son along. They fly from Miami to the Turks and Caicos island chain but, while on fishing trip, are captured by a band of pirates. The pirates have, amazingly, remained undetected since the establishment of their pirate enclave by Jean-David Nau, the notorious buccaneer L'Olonnais, in 1671 (in reality, however, L'Olonnais is known to have died four years earlier). The pirates have a constitution of sorts, called the Covenant, and have a cruel but workable society. They raise any children they capture to ensure the survival of the colony, but kill anyone over the age of thirteen. In short order, Justin is virtually brainwashed and groomed to lead the pirate band, much to Maynard's horror. Maynard tries repeatedly to escape, and finally attracts the attention of the passing United States Coast Guard cutter New Hope. The pirates attack and capture it, but Maynard is able to use a machine gun aboard to kill most of the pirates and to win Justin's and his own freedom.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Undetected", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Island_(Benchley_novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.07, 
     "rating_count": 2437, 
@@ -59,8 +55,6 @@
     ], 
     "release_date": "2016-04-20T00:00:00", 
     "author": 95, 
-    "original_title": "The Island (Benchley novel)", 
-    "summary": "The Island is a novel by Peter Benchley, published in 1979 by Doubleday & Co.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

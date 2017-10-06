@@ -9,17 +9,13 @@
         "http://www.gutenberg.org/files/51407/51407-h/images/illus3.jpg"
     ], 
     "year": 1951, 
-    "images": [], 
     "id": 781, 
     "category": "Text", 
-    "plot": "In a near-future earth, the West and the East have been at war for more than a decade, and resources are running thin. The West is stealing oil from the East with specialized nuclear submarines (\"subtugs\") that sneak into the underwater oil fields of the East to secretly pump out the oil and bring it back. Each manned by a crew of four, these submarines undertake the most hazardous, stressful mission conceivable, and of late, the missions have been failing, with the last twenty submarines simply disappearing.\nThe East has been very successful in planting sleepers in the West's military and command structures, and the suspicion is that sleepers are sabotaging the subs or revealing their positions once at sea. John Ramsey, a young psychologist from the Bureau of Psychology (BuPsych), is trained as an electronics operator and sent on the next mission, replacing the previous officer who went insane. His secret mission is to find the sleeper, or figure out why the crews are going insane.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Sea Legs", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Dragon_in_the_Sea", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.7, 
     "rating_count": 179, 
@@ -64,8 +60,6 @@
     ], 
     "release_date": "2016-03-09T00:00:00", 
     "author": 249, 
-    "original_title": "The Dragon in the Sea", 
-    "summary": "The Dragon in the Sea (1956), also known as Under Pressure from its serialization, is a novel by Frank Herbert. It was first serialized in Astounding magazine from 1955 to 1956, then reworked and published as a book in 1956. (A 1961 2nd printing of the Avon paperback, catalog # G-1092, was titled 21st Century Sub with the original title in parentheses.) It is usually classified as a psychological novel.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

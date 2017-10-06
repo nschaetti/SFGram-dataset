@@ -9,16 +9,13 @@
         "http://www.gutenberg.org/files/29680/29680-h/images/002-2.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 841, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Decision", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Command_Decision_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.77, 
     "rating_count": 28959, 
@@ -65,8 +62,6 @@
     ], 
     "release_date": "2009-08-12T00:00:00", 
     "author": 180, 
-    "original_title": "Command Decision (novel)", 
-    "summary": "Command Decision is a war novel by William Wister Haines, serialized in 1946\u201347 in four parts in The Atlantic Monthly. It was published in book form in 1947. It was developed from the unproduced play of the same title in order to provide a market for a Broadway production that followed in 1947, then adapted as a film in 1948. The novel depicts the stresses and emotional toll on the commander of a United States Army Air Forces general, K.C. \"Casey\" Dennis, in implementing a costly series of attacks by B-17 Flying Fortresses against German industries manufacturing jet fighters.\nThe collective trio has been called the first important work of fiction about World War II. They differ from most of the prior war-themed works from that period, which stressed the experiences of average citizens forced to go to war, in that Command Decision explores the pressures of leadership, political in-fighting, moral conflicts, and psychological effects rather than glamorizing combat, and frankly admitting the high losses in men and materiel that characterized air combat. The novel has no action scenes and takes place over a two-day period entirely within the English headquarters of an American bombardment division.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

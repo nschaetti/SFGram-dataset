@@ -9,16 +9,13 @@
         "http://www.gutenberg.org/files/24397/24397-h/images/illus3.png"
     ], 
     "year": 1959, 
-    "images": [], 
     "id": 838, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Hex", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Jonah_Hex", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.96, 
     "rating_count": 109985, 
@@ -65,8 +62,6 @@
     ], 
     "release_date": "2008-01-22T00:00:00", 
     "author": 64, 
-    "original_title": "Jonah Hex", 
-    "summary": "Jonah Woodson Hex is a fictional character, a western comic book antihero appearing in comic books published by DC Comics. The character was created by writer John Albano and artist Tony DeZuniga. Hex is a surly and cynical bounty hunter whose face is horribly scarred on the right side. Despite his poor reputation and personality, Hex is bound by a personal code of honor to protect and avenge the innocent. The character is portrayed by Josh Brolin in the 2010 film adaptation of the same name. Thomas Jane provided his voice in a DC Animated short film. He is portrayed by Johnathon Schaech in DC's Legends of Tomorrow.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

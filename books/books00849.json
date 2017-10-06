@@ -11,14 +11,16 @@
         "http://www.gutenberg.org/files/50848/50848-h/images/illus4.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/8/86/Soldier_Boy_%28Michael_Shaara_collection_-_front_cover%29.jpg"
+    ], 
     "id": 849, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Soldier Boy", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Killer_Angels", 
+        "url": "https://en.wikipedia.org/wiki/Soldier_Boy_(short_story)", 
         "found": true, 
         "year": -1
     }, 
@@ -49,8 +51,8 @@
     ], 
     "release_date": "2016-01-05T00:00:00", 
     "author": 243, 
-    "original_title": "The Killer Angels", 
-    "summary": "The Killer Angels (1974) is a historical novel by Michael Shaara that was awarded the Pulitzer Prize for Fiction in 1975. The book tells the story of the four days of the Battle of Gettysburg in the American Civil War: June 30, 1863, as the troops of both the Union and the Confederacy move into battle around the town of Gettysburg, Pennsylvania, and July 1, July 2, and July 3, when the battle was fought. The story is character-driven and told from the perspective of various protagonists. A film adaptation of the novel, titled Gettysburg, was released in 1993.", 
+    "original_title": "Soldier Boy (short story)", 
+    "summary": "\"Soldier Boy\" (also known as \"X Minus One #71: 56-10-17 Soldier Boy\") is a 1953 science fiction short story by American author Michael Shaara, about a soldier who, when sent on a routine patrol to a colonized world, saves the planet from an alien and its robot attack devices. Despite an ingrained contempt for the military that arose as part of conditioning to avoid war, the human colonists gradually assist the soldier when strange occurrences suggest they are not alone on the planet and may be, like several other colony planets, under threat of extermination by outside forces. It was originally published in the July 1953 issue of Galaxy Science Fiction. It is also the title of a 1982 collection of Shaara's short stories", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 
