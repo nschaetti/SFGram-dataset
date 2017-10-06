@@ -6,16 +6,13 @@
         "http://www.gutenberg.org/files/31648/31648-h/images/illus1.jpg"
     ], 
     "year": 1958, 
-    "images": [], 
     "id": 899, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "My Fair Planet", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Vanity_Fair_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.0, 
     "rating_count": 4, 
@@ -40,8 +37,6 @@
     ], 
     "release_date": "2010-03-15T00:00:00", 
     "author": 172, 
-    "original_title": "Vanity Fair (novel)", 
-    "summary": "Vanity Fair is an English novel by William Makepeace Thackeray which follows the lives of Becky Sharp and Emmy Sedley amid their friends and families during and after the Napoleonic Wars. It was first published as a 19-volume monthly serial from 1847 to 1848, carrying the subtitle Pen and Pencil Sketches of English Society, reflecting both its satirisation of early 19th-century British society and the many illustrations drawn by Thackeray to accompany the text. It was published as a single volume in 1848 with the subtitle A Novel without a Hero, reflecting Thackeray's interest in deconstructing his era's conventions regarding literary heroism. It is sometimes considered the \"principal founder\" of the Victorian domestic novel.\nThe story is framed as a puppet play and the narrator, despite being an authorial voice, is notoriously unreliable. Late in the narrative, it is revealed that the entire account has been 2nd- or 3rd-hand gossip the writer picked up \"years ago\" from Lord Tapeworm, British charge d'affaires in one of the minor German states and relative of several of the other aristocrats in the story but none of the main characters: \"the famous little Becky puppet\", \"the Amelia Doll\", \"the Dobbin Figure\", \"the Little Boys\", and \"the Wicked Nobleman, on which no expense has been spared\". Despite her many stated faults and still worse ones admitted to have been passed over in silence, Becky emerges as the \"hero\"\u2014what is now called an antihero\u2014in place of Amelia because Thackeray is able to illustrate that \"the highest virtue a fictional character can possess is interest.\"\nThe serial was a popular and critical success; the novel is now considered a classic and has inspired several film adaptations. In 2003, Vanity Fair was listed at No. 122 on the BBC's The Big Read poll of the UK's best-loved books.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

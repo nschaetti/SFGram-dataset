@@ -9,16 +9,13 @@
         "http://www.gutenberg.org/files/41084/41084-h/images/illus.jpg"
     ], 
     "year": 1932, 
-    "images": [], 
     "id": 891, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Metal Moon", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Sentinel_(short_story)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.0, 
     "rating_count": 2, 
@@ -48,8 +45,6 @@
     ], 
     "release_date": "2012-10-17T00:00:00", 
     "author": 272, 
-    "original_title": "The Sentinel (short story)", 
-    "summary": "\"The Sentinel\" is a short story by British author Arthur C. Clarke, written in 1948 and first published in 1951 as \"Sentinel of Eternity\", which was used as a starting point for the novel and film 2001: A Space Odyssey, where it was modified and fused with other ideas. Clarke expressed impatience with its common description as the story that the novel and movie are based on. He explained: \"I am continually annoyed by careless references to 'The Sentinel' as 'the story on which 2001 is based'; it bears about as much relation to the movie as an acorn to the resultant full-grown oak. (Considerably less, in fact, because ideas from several other stories were also incorporated.) Even the elements that Stanley Kubrick and I did actually use were considerably modified. Thus the 'glittering, roughly pyramidal structure... set in the rock like a gigantic, many-faceted jewel' became\u2014after several modifications\u2014the famous black monolith. And the locale was moved from the Mare Crisium to the most spectacular of all lunar craters, Tycho\u2014easily visible to the naked eye from Earth at Full Moon.\"\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

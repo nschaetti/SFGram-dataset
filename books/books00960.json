@@ -4,14 +4,14 @@
     "author_name": "Jules Verne", 
     "images_urls": [], 
     "year": 1869, 
-    "images": [], 
     "id": 960, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "20.000 Mijlen onder Zee: Westelijk Halfrond", 
     "wikipedia": {
-        "found": false
+        "url": "https://nl.wikipedia.org/wiki/Twintigduizend_mijlen_onder_zee", 
+        "found": true
     }, 
     "average_rating": 3.86, 
     "rating_count": 0, 

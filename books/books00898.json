@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/51050/51050-h/images/illus.jpg"
     ], 
     "year": 1955, 
-    "images": [], 
     "id": 898, 
     "category": "Text", 
-    "plot": "The events of the novel take place between 1946 and 1948, primarily on the Near Northwest Side of Chicago. The title character is Francis Majcinek, known as \"Frankie Machine\", a young man who is a gifted card dealer and an amateur drummer. While serving in World War II, Frankie is treated for shrapnel in his liver and medicated with morphine. He develops an addiction to the drug, although initially in the story he believes he can control his habit.\nFrankie lives in a small apartment on Division Street with his wife, Sophie (nicknamed \"Zosh\"). Sophie has been using a wheelchair since a drunk-driving accident caused by Frankie (although the novel implies that her paralysis is psychological in nature). She spends most of her time looking out the window and watching the nearby elevated rail line. She takes out her frustrations by fighting with her husband, and she uses his guilt to keep him from leaving her. The turmoil in their relationship only spurs on his addiction.\nHe works nights dealing in backroom card games operated by \"Zero\" Schwiefka. He aspires to join the Musicians' Union and work with jazz drummer Gene Krupa, but this dream never materializes. His constant companion and prot\u00ef\u00bf\u00bdg\u00ef\u00bf\u00bd is \"Sparrow\" Saltskin, a feeble-minded thief who specializes in stealing and selling dogs; Frankie gets Sparrow a job as a \"steerer\", watching the door to the card games and drawing in gamblers.\nOften referring to his drug habit as the \"thirty-five-pound monkey on his back\", Frankie initially tries to keep Sparrow and the others in the dark about it. He sends Sparrow away whenever he visits \"Nifty Louie\" Fomorowski, his supplier. One night, while fighting in a back stairwell, Frankie inadvertently kills Nifty Louie. He and Sparrow attempt to cover up his role in the murder.\nMeanwhile, Frankie begins an affair with a childhood friend, \"Molly-O\" Novotny, after her abusive husband is arrested. Molly helps Frankie fight his addiction, but they soon become separated when Frankie is imprisoned for shoplifting and she moves out of the neighborhood. Without Molly, he begins using drugs again when he is released.\nNifty Louie owed money to politically connected men, and finding his killer becomes a priority for the police department. Sparrow is held for questioning by the police, and he is moved from station to station to circumvent Habeas corpus requirements. Eventually he breaks down and reveals what he knows, and Frankie is forced to flee.\nWhile on the run, Frankie manages to find Molly at a strip club near Lake Street. He hides in her apartment and beats his addiction, but in the end the authorities learn where he is hiding. He barely manages to escape and gets shot in the foot, leaving Molly behind. He flees to a flophouse, but without any hope of reuniting with Molly or staying free, he hangs himself in his room on April Fools' Day, 1948.\nThe novel ends with a transcript of the coroner's inquest, as well as a poem for Frankie entitled \"Epitaph.\"", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Man's Best Friend", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Man_with_the_Golden_Arm_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.89, 
     "rating_count": 688, 
@@ -54,8 +50,6 @@
     ], 
     "release_date": "2016-01-27T00:00:00", 
     "author": 172, 
-    "original_title": "The Man with the Golden Arm (novel)", 
-    "summary": "The Man with the Golden Arm is a novel by Nelson Algren, published by Doubleday in November 1949. One of the seminal novels of post-World War II American letters, The Man with the Golden Arm is widely considered Algren's greatest and most enduring work. It won the National Book Award in 1950.\nThe novel details the trials and hardships of illicit card dealer \"Frankie Machine\", along with an assortment of colorful characters, on Chicago's Near Northwest Side. A veteran of World War II, Frankie struggles to stabilize his personal life while trying to make ends meet and fight a growing addiction to morphine. Much of the story takes place during the immediate postwar period along Division Street and Milwaukee Avenue in the old Polish Downtown.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

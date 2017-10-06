@@ -9,14 +9,17 @@
         "http://www.gutenberg.org/files/46222/46222-h/images/line1.jpg"
     ], 
     "year": 1933, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/f/f7/FantasyFanJune34.jpg"
+    ], 
     "id": 896, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Fantasy Fan September 1933", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Fantasy_Fan", 
+        "found": true
     }, 
     "average_rating": 4.67, 
     "rating_count": 3, 
@@ -43,6 +46,8 @@
     ], 
     "release_date": "2014-07-08T00:00:00", 
     "author": 17, 
+    "original_title": "Fantasy Fan", 
+    "summary": "The Fantasy Fan was the first fan magazine in the weird fiction field and therefore holds an important place in the history of the American fantasy and horror fiction pulp magazine. Issued monthly, it was first published in September 1933, and discontinued 18 issues later in February 1935. The magazine was edited by Charles D. Hornig (25 May 1916 - 11 October 1999).", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

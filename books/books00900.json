@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/50959/50959-h/images/illus.jpg"
     ], 
     "year": 1955, 
-    "images": [], 
     "id": 900, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "End as a World", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Not_the_End_of_the_World_(McCaughrean_novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.15, 
     "rating_count": 63896, 
@@ -61,8 +58,6 @@
     ], 
     "release_date": "2016-01-18T00:00:00", 
     "author": 138, 
-    "original_title": "Not the End of the World (McCaughrean novel)", 
-    "summary": "This article is about Geraldine McCaughrean's young adult novel. For Christopher Brookmyre's crime novel, see Not the End of the World (Brookmyre novel); for Kate Atkinson's book of short stories, see Not the End of the World (short story collection)\nNot the End of the World is a young adult novel by Geraldine McCaughrean. It retells the Biblical story of Noah's Ark. The main character is Noah's thirteen-year-old daughter, Timna. The story is also relayed from the points of view of the animals. The novel was first published in 2004 and was the winner of the 2004 Whitbread Children's Book Award.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

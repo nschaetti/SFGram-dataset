@@ -46,17 +46,13 @@
         "http://www.gutenberg.org/files/22513/22513-page-images/p037.png"
     ], 
     "year": 1955, 
-    "images": [], 
     "id": 940, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Sense from Thought Divide", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Stranger_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.8, 
     "rating_count": 3, 
@@ -80,8 +76,6 @@
     ], 
     "release_date": "2007-09-05T00:00:00", 
     "author": 236, 
-    "original_title": "The Stranger (novel)", 
-    "summary": "L\u2019\u00ef\u00bf\u00bdtranger (The Outsider [UK], or The Stranger [US]) is a 1942 novel by French author Albert Camus. Its theme and outlook are often cited as examples of Camus' philosophy of the absurd and existentialism, though Camus personally rejected the latter label.\nThe title character is Meursault, an indifferent French Algerian described as \"a citizen of France domiciled in North Africa, a man of the Mediterranean, an homme du midi yet one who hardly partakes of the traditional Mediterranean culture\". He attends his mother's funeral. A few days later, he kills an Arab man in French Algiers, who was involved in a conflict with a friend. Meursault is tried and sentenced to death. The story is divided into two parts, presenting Meursault's first-person narrative view before and after the murder, respectively.\nIn January 1955, Camus wrote:\n\nI summarized The Stranger a long time ago, with a remark I admit was highly paradoxical: 'In our society any man who does not weep at his mother's funeral runs the risk of being sentenced to death.' I only meant that the hero of my book is condemned because he does not play the game.\n\nThe Stranger's first edition consisted of 4,400 copies and was not an immediate best-seller. But the novel was well received, partly because of Jean-Paul Sartre's article \"Explication de L'Etranger,\" on the eve of publication of the novel, and a mistake from the Propaganda-Staffel. Translated four times into English, and also into numerous other languages, the novel has long been considered a classic of 20th-century literature. Le Monde ranks it as number one on its 100 Books of the Century.\nThe novel was twice adapted as films: Lo Straniero (1967) (Italian) by Luchino Visconti and Yazg\u0131 (Fate) by Zeki Demirkubuz (Turkish).", 
     "content_cleaned": true, 
     "classes": [
         "excess-kindle", 

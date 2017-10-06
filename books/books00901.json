@@ -7,17 +7,13 @@
         "http://www.gutenberg.org/files/28645/28645-h/images/001-2.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
     "id": 901, 
     "category": "Text", 
-    "plot": "The narrator relates his conversation with an oddly dressed man whom he had picked up by the side of the road. The traveler claimed to have been from the year 3059, and to have developed time-travel technology with which he had first traveled 7 million years forward in time. He then overshot on his return trip, landing himself in 1932.\nIn the future, Man has colonized the solar system but is dying out. Human existence is free of difficulty, as all illness and predators have been eliminated, and all work is done by perfect machines. However, almost all other living species have been extinct of the face of the earth by the advancement of man; the oceans are empty of any life-forms altogether, all other mammals, as well as birds, lizards, insects and microbes, have been eradicated and even traditional pets are gone for good. Only some plant-life still exists - and machines who blindly follow orders given by the previous generations of humans. Humans, though highly intelligent, have totally lost their curiosity, drive and much of their knowledge. As a result, they have accomplished nothing new in about two million years. They are, as things then stand, a dying race, who retreats from the outskirts of the solar system back to earth, has abandoned most of the mega-cities (such as \"Yawk City\" = a megalopolis, stretching from north of Boston to south of Washington DC) and even hardly reproduces anymore. All they are able to do is stare at their remote ancestors' achievements, while comprehending none of them.\nBut the machines just go on: each of the long-deserted cities keeps running perfectly, as if nothing has changed. Cities, where human foot has not stood for hundreds of thousands of years, are still cared for by the machines, who never stopped supplying the city all its human needs, because no one has ever told them to stop: no human of that time can remember how.\nHighly intelligent machines capable of independent thought had previously existed, but were shut off for an unknown reason. No human alive knows of their prior existence any more, aside from the traveller. To try and ensure that there remains something that can strive and evolve on Earth, he orders several of the remaining machines to figure out how to recreate a curious, thinking machine, even if it takes millions of years.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Lost in the Future", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Twilight_(Campbell_short_story)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 2.57, 
     "rating_count": 9, 
@@ -43,8 +39,6 @@
     ], 
     "release_date": "2009-04-30T00:00:00", 
     "author": 274, 
-    "original_title": "Twilight (Campbell short story)", 
-    "summary": "\"Twilight\" is a science fiction short story by American writer John W. Campbell originally published in 1934 in Astounding Stories, and apparently inspired by H. G. Wells' article The Man of the Year Million. In 1970, it was selected as one of the best science fiction short stories published before the creation of the Nebula Awards by the Science Fiction Writers of America. As such, it was published in The Science Fiction Hall of Fame Volume One, 1929-1964.", 
     "content_cleaned": true, 
     "classes": [
         "short-story", 

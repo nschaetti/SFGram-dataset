@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/51475/51475-h/images/illus.jpg"
     ], 
     "year": 1960, 
-    "images": [], 
     "id": 894, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "East In The Morning", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Narrow_Road_to_the_Deep_North_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.29, 
     "rating_count": 1, 
@@ -42,8 +39,6 @@
     ], 
     "release_date": "2016-03-16T00:00:00", 
     "author": 206, 
-    "original_title": "The Narrow Road to the Deep North (novel)", 
-    "summary": "The Narrow Road to the Deep North is the sixth novel by Richard Flanagan. It received critical acclaim on its release, and won the 2014 Man Booker Prize.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

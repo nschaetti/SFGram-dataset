@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/31651/31651-h/images/cover.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 928, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Instant of Now", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Jumanji_(picture_book)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.17, 
     "rating_count": 87466, 
@@ -62,8 +59,6 @@
     ], 
     "release_date": "2010-03-15T00:00:00", 
     "author": 160, 
-    "original_title": "Jumanji (picture book)", 
-    "summary": "Jumanji is a 1981 fantasy children's picture book, written and illustrated by the American author Chris Van Allsburg. It was made into a 1995 film of the same name. Both the book and the film are about a magical board game that implements real animals and other jungle elements as the game is played; thus the dangers which the players have to overcome in the game also appear in real life. Jumanji star Robin Williams claimed \"jumanji\" is a Zulu word meaning \"many effects,\" and Van Allsburg does as well.\nFritz, a bull terrier in all of Chris Van Allsburg's books, appears as a toy dog on wheels in the third illustration.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

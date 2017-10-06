@@ -16,16 +16,13 @@
         "http://www.gutenberg.org/files/22881/22881-page-images/p117.png"
     ], 
     "year": 1963, 
-    "images": [], 
     "id": 902, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "My Friend Bobby", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Christina_Alberta%27s_Father", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.0, 
     "rating_count": 8, 
@@ -50,8 +47,6 @@
     ], 
     "release_date": "2007-10-03T00:00:00", 
     "author": 108, 
-    "original_title": "Christina Alberta's Father", 
-    "summary": "Christina Alberta's Father (1925) is a novel by H. G. Wells set in London and environs in 1920\u20131922 with two protagonists: Albert Edward Preemby and his daughter, Christina Alberta.\nStarting off as a seemingly light-hearted novel of social realism, highlighting the class system of contemporary society, much like he did in Kipps, Wells soon lambasts the then-current state of mental health legislation and of asylums, before ending the novel with the characters discussing feminism and the conflict between individual independence and being a willing part of a greater society. With the title character of the father dying of pneumonia after rescue from a mental hospital, and his daughter Christina Albert refusing to marry her love interest Bobby Roothers (after candidly admitting to him that she is no longer a virgin), the expected happy ending does not occur. Perhaps due to its descent into open didacticism, the novel was not one of Wells' most successful or popular.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

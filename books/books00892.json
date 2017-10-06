@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/51518/51518-h/images/illus.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 892, 
     "category": "Text", 
-    "plot": "The protagonist, who has diseased lungs, is tormented by strange anxiety all the time, he lost his interest in a stationery store Maruzen, music and poetry that he had prior been interested in. He only continues walking around aimlessly in Kyoto.\nIn one such incident, he visits a fruit shop he likes on a regular basis through Teramati (Kyoto Miyako Naka-ku \"\u516b\u767e\u536f ; Eight Hundred Rabbit\" - closed January 25, 2009). There were rare lemons placed side by side. He bought one lemon that he was interested in; the coldness of the fruit in his hand was just right. After that, he felt uncomfortable, even though he stopped by his favorite shop, Maruzen, he began feeling uneasy.\nHe felt an unchanged feeling of dissatisfaction, even though he looked at the usual picture albums that he used to like to view, he put the lemon as a time bomb on the pile of illustrations. Then he imagines the works of fine art flying out of the \"Maruzen\" shop, the excitement of blasting a lemon as a time bomb.\nHe was satisfied with what he had done at the end.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Feeling", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Lemon_(short_story)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.95, 
     "rating_count": 17088, 
@@ -66,8 +62,6 @@
     ], 
     "release_date": "2016-03-21T00:00:00", 
     "author": 162, 
-    "original_title": "Lemon (short story)", 
-    "summary": "\"Lemon\" (Japanese: \u6ab8\u6aac, \"Remon\") is a collection of short stories by Japanese author Motojir\u014d Kajii. \"Lemon\" was written in 1924, and was published as Kajii's first doujinshi. It was a 28-page handmade book: 4.25\" x 5.5\", staple-bound. The interior was color printed, with several high quality black-and-white photographs. The cover had a spine and a full color photograph on the front.\n\"Lemon\" is one of Kajii's few works to have been translated into English. Although he was a relatively unknown writer during his short lifetime who published in only a few literary magazines, Kajii's poetic short stories are recognized today as masterpieces in Japan. The eponymous story \"Lemon\" is known as his representative work.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

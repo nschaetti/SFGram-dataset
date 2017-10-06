@@ -4,14 +4,19 @@
     "author_name": "Harold L. Goodwin", 
     "images_urls": [], 
     "year": 1952, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tom_Sawyer_1876_frontispiece.jpg", 
+        "https://upload.wikimedia.org/wikipedia/en/6/69/RipFosterRidesTheGrayPlanet.jpg"
+    ], 
     "id": 925, 
     "category": "Text", 
+    "plot": "Freshly graduated and commissioned Planeteer (the space-going equivalent of a Marine) Lt. Richard Ingalls Peter (\"Rip\") Foster, already contending with inter-service rivalry with the Space Force (equivalent to Navy) crewmen with whom he serves, is tasked with retrieving an asteroid made of pure thorium from the asteroid belt and bringing it to Earth for use as fissionable material. In this he is opposed by agents of the \"Consolidation of Peoples Governments\", who also seek control and use of the asteroid.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Rip Foster in Ride the Gray Planet", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Rip_Foster_Rides_the_Gray_Planet", 
+        "found": true
     }, 
     "average_rating": 0.0, 
     "rating_count": 0, 
@@ -38,6 +43,8 @@
     ], 
     "release_date": "2006-04-10T00:00:00", 
     "author": 216, 
+    "original_title": "Rip Foster Rides the Gray Planet", 
+    "summary": "Rip Foster Rides the Gray Planet is a young adult science fiction novel written by Harold L. Goodwin under the pseudonym Blake Savage. The novel was originally published by Whitman in hardcover in 1952 and reprinted in the United Kingdom later in the same year as Rip Foster Rides the Grey Planet (note the spelling of \"gray/grey\"). There were two subsequent American reprints under different titles: another hardcover edition as Assignment in Space with Rip Foster in 1958 and a paperback edition as Rip Foster in Ride the Gray Planet, in 1969. Under all titles combined, there were approximately 100,000 copies of the novel printed. The first edition was illustrated by E. Deane Cate and the 1958 edition by Denny McMains. Goodwin is better known for other children's books he wrote, including the Rick Brant Science Adventure Series for Boys. According to Project Gutenberg [1], this novel is in the Public Domain in the United States.", 
     "content_cleaned": false, 
     "classes": [], 
     "content_available": true, 

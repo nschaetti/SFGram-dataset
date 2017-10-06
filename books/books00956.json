@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/20551/20551-h/images/illo_2.png"
     ], 
     "year": 1931, 
-    "images": [], 
     "id": 956, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The White Invaders", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Illustrated_Man", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.06, 
     "rating_count": 11, 
@@ -44,8 +41,6 @@
     ], 
     "release_date": "2007-02-10T00:00:00", 
     "author": 71, 
-    "original_title": "The Illustrated Man", 
-    "summary": "The Illustrated Man is a 1951 collection of eighteen science fiction short stories by American writer Ray Bradbury. A recurring theme throughout the eighteen stories is the conflict of the cold mechanics of technology and the psychology of people. It was nominated for the International Fantasy Award in 1952.\nThe unrelated stories are tied together by the frame device of \"the Illustrated Man\", a vagrant former member of a carnival freak show with an extensively tattooed body whom the unnamed narrator meets. The man's tattoos, allegedly created by a time-traveling woman, are individually animated and each tell a different tale. All but one of the stories had been published previously elsewhere, although Bradbury revised some of the texts for the book's publication.\nThe book was made into the 1969 film with same name, starring Rod Steiger and Claire Bloom, adapted from the stories \"The Veldt\", \"The Long Rain\" and \"The Last Night of the World\".\nA number of the stories, including \"The Veldt\", \"The Fox and the Forest\" (as \"To the Future\"), \"Marionettes, Inc.\", and \"Zero Hour\" were dramatized for the 1955-57 radio series X Minus One. \"The Veldt\", \"The Concrete Mixer\", \"The Long Rain\", \"Zero Hour\", and \"Marionettes Inc.\" were adapted for the TV series The Ray Bradbury Theater.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

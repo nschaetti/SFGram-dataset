@@ -8,16 +8,13 @@
         "http://www.gutenberg.org/files/32359/32359-h/images/cover.jpg"
     ], 
     "year": 1952, 
-    "images": [], 
     "id": 911, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Sinister Paradise", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_King_in_Yellow", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.65, 
     "rating_count": 184, 
@@ -52,8 +49,6 @@
     ], 
     "release_date": "2010-05-13T00:00:00", 
     "author": 135, 
-    "original_title": "The King in Yellow", 
-    "summary": "The King in Yellow is a book of short stories by American writer Robert W. Chambers, first published by F. Tennyson Neely in 1895. The book is named after a play with the same title which recurs as a motif through some of the stories. The first half of the book features highly esteemed weird stories, and the book has been described by critics such as E. F. Bleiler, S. T. Joshi and T. E. D. Klein as a classic in the field of the supernatural. There are ten stories, the first four of which (\"The Repairer of Reputations\", \"The Mask\", \"In the Court of the Dragon\", and \"The Yellow Sign\") mention The King in Yellow, a forbidden play which induces despair or madness in those who read it. \"The Yellow Sign\" inspired a film of the same name released in 2001.\nThe British first edition was published by Chatto & Windus in 1895 (316 pages).", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

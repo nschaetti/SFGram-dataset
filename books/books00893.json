@@ -9,17 +9,13 @@
         "http://www.gutenberg.org/files/32705/32705-h/images/illus2.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 893, 
     "category": "Text", 
-    "plot": "This novel, set in Philadelphia, centers around a young police homicide sergeant, Matt Payne. Payne, nicknamed Wyatt Earp of the Main Line, in past novels has been involved in spectacular and deadly shootouts with criminals. While Payne was always justified in these incidents, influential groups have protested to get Payne either removed from the police force or put into a job that keeps him off the streets. In this book the level of violence in the city has reached a boiling point. This book is full of shady characters and their scheming plots.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Deadly City", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Deadly_Assets", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.86, 
     "rating_count": 46105, 
@@ -67,8 +63,6 @@
     ], 
     "release_date": "2010-06-05T00:00:00", 
     "author": 221, 
-    "original_title": "Deadly Assets", 
-    "summary": "Deadly Assets is the twelfth novel in the Badge of Honor series, written by W.E.B. Griffin and William E. Butterworth IV.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 
