@@ -14,17 +14,13 @@
         "http://www.gutenberg.org/files/24370/24370-h/images/006.png"
     ], 
     "year": 1962, 
-    "images": [], 
     "id": 430, 
     "category": "Text", 
-    "plot": "Western society is split up into nine castes, from Lower-Lower to Mid-Lower all the way up to the privileged Upper-Upper. Mauser himself was born a Mid-Lower. Ambitious, he had chosen one of the few professions, Category Military, where upward mobility was still a reasonable possibility.\nTo prevent any chance of a ruinous war between the West and the Sov-world, the Universal Disarmament Pact had restricted all militaries to pre-1900 technology. Gradually, powerful corporations began settling business disputes by hiring troops to fight real battles (fracases) on one of many military reservations. This served a dual purpose: to maintain a military well-honed by actual combat and to provide the decadent general population with a diversion. The life-and-death struggles are so popular that they are televised.\nMauser had worked his way up to captain and Middle-Middle status after many years of effort. When upstart Vacuum Tube Transport finds itself forced into an expensive, division-sized fracas with Continental Hovercraft, he sees his opportunity. He signs up with the underdog, even though the much wealthier Continental is able to hire the best soldiers available, including Marshal \"Stonewall\" Cogswell, the finest commander in the business. Mauser tells Baron Haer, the head of Vacuum Tube, that he can engineer an improbable victory with a gimmick he has been working on for a long time; in return, he expects the baron's support which, in conjunction with his anticipated popularity with fracas fans, should be enough to get him promoted into the Upper caste. The baron's son, Bart, scoffs at the undisclosed idea, but the baron is desperate for experienced officers and hires him.\nWhen the conflict starts, Mauser takes off in a glider, something no one else had thought of before. Powered aircraft had not been invented before 1900, but gliders had. From his vantage point, Mauser can see where all of the enemy forces are positioned. This information makes Cogswell's situation hopeless and he recommends to his employer that he settle quickly.\nWhen Mauser returns in triumph to Vacuum Tube headquarters, he learns that Baron Haer has died of natural causes. His son does not have the deceased man's political influence, and has also invested heavily in the rival company, assuming his side will lose, so Mauser is out of luck. However, his unusual interest in the state of western civilization attracts the interest of Dr. Nadine Haer, the late baron's attractive, reform-minded daughter.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Mercenary", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Mercenary_from_Tomorrow", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.99, 
     "rating_count": 982, 
@@ -68,8 +64,6 @@
     ], 
     "release_date": "2008-01-20T00:00:00", 
     "author": 69, 
-    "original_title": "Mercenary from Tomorrow", 
-    "summary": "Mercenary from Tomorrow is a 1968 science fiction novel written by Mack Reynolds. It is the first in a series about Joe Mauser, a soldier in a rigid, caste-based society that makes it very difficult to better oneself.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

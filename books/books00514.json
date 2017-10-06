@@ -11,17 +11,13 @@
         "http://www.gutenberg.org/files/31583/31583-h/images/image5.jpg"
     ], 
     "year": 1956, 
-    "images": [], 
     "id": 514, 
     "category": "Text", 
-    "plot": "Shortly after returning from the Asteroid Belt, David \"Lucky\" Starr learns that his Science Academy roommate Lou Evans had been sent to investigate trouble on Venus, but the Council of Science office on Venus has requested that he be recalled and investigated for corruption.\nAs Starr and John \"Bigman\" Jones are shuttled to Venus, their pilots suffer an episode of paralysis, and Starr is required to keep their craft from smashing itself against the surface of the Venusian ocean. Afterwards, the pilots have no memory of the event.\nUpon reaching the Venusian city of Aphrodite, Starr and Bigman meet Dr. Mel Morriss, head of the Council of Science on Venus, who explains that Venusian scientists are perfecting strains of yeast that can be processed into luxury foods for export; whereas for six months there has been a growing series of incidents of bizarre behavior among the human colonists, often followed by amnesia. Morriss believes they are being telepathically controlled by an unknown enemy. Evans was sent to Venus to investigate, but was found with stolen data concerning a secret strain of yeast, and is under arrest. When Starr confronts him, Evans admits to having stolen the data, but refuses to explain further. While Starr is questioning him, word reaches them that a man is threatening to open an outside airlock, which will allow the ocean to flood Aphrodite.\nStarr, Bigman, and Morriss go to the airlock to deal with the crisis, where they meet the city's chief engineer, Lyman Turner, the inventor and owner of a laptop computer carried with him. While Bigman goes through the ventilation ducts to cut power to the airlock door, Starr realizes that the airlock crisis is a feint and hastens to Council headquarters, to find that Evans has escaped custody and left Aphrodite in a submarine.\nStarr and Bigman pursue Evans in another submarine, eventually finding him and learning that the V-frogs are the source of the telepathic incidents; Evans having tested this hypothesis by stealing the secret data on the yeast strain, and interesting the V-frogs therein with the result of an accident involving that strain. Evans further reveals that the V-frogs have trapped himself and the other protagonists beneath an enormous deep-sea orange patch, which will attack them if they attempt escape.\nStarr, in response, leaves the submarine and uses an electric shock to destroy the orange patch's heart, killing it. He then returns to the submarine, and pilots this to the surface of the ocean, where he intends to communicate his findings to an orbiting space station to be relayed to the Council on Earth.\nOn the surface, the V-frogs communicate telepathically with him, telling him they intend to take over the minds of the humans on Venus. Initially they keep him away from the radio; but he is able to distract them and transmit his message. Returning to Aphrodite, Starr explains to Morriss that the V-frogs' telepathy is used by a human individual to attempt control over the rest of humanity, and that the means of doing so is Lyman Turner's computer. Bigman destroys the computer and Starr captures Turner, hoping to re-create his computer in the interest of reforming Turner himself.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Venus Trap", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Lucky_Starr_and_the_Oceans_of_Venus", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.7, 
     "rating_count": 231, 
@@ -69,8 +65,6 @@
     ], 
     "release_date": "2010-03-10T00:00:00", 
     "author": 172, 
-    "original_title": "Lucky Starr and the Oceans of Venus", 
-    "summary": "Lucky Starr and the Oceans of Venus is the third novel in the Lucky Starr series, six juvenile science fiction novels by Isaac Asimov that originally appeared under the pseudonym Paul French. The novel was first published by Doubleday & Company in 1954. Since 1972, reprints have included a foreword by Asimov explaining that advancing knowledge of conditions on Venus have rendered the novel's descriptions of that world inaccurate.\nIn his autobiography In Memory Yet Green, Asimov notes that his original version of the novel was rejected by Doubleday and had to be extensively revised before it was accepted:\n\nOn the whole, Doubleday was justified, for Lucky Starr, in this particular adventure, was needlessly close-mouthed, allowing his sidekick to think he was an utter bastard, when I was merely trying to keep things from the reader. I had to rewrite in such a way as to keep things from the reader in a subtler fashion and more in keeping with Lucky's character.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

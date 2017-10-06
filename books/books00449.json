@@ -9,16 +9,13 @@
         "http://www.gutenberg.org/files/30816/30816-h/images/image_003.jpg"
     ], 
     "year": 1963, 
-    "images": [], 
     "id": 449, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "A World", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/World_Tales", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.97, 
     "rating_count": 1024272, 
@@ -65,8 +62,6 @@
     ], 
     "release_date": "2009-12-31T00:00:00", 
     "author": 152, 
-    "original_title": "World Tales", 
-    "summary": "World Tales, subtitled \"The Extraordinary Coincidence of Stories Told in All Times, in All Places\" is a book of 65 folk tales collected by Idries Shah from around the world, mostly from literary sources. Some of the tales are very current, others are less well known.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

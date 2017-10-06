@@ -5,16 +5,13 @@
     "author_name": "Cory Doctorow", 
     "images_urls": [], 
     "year": 2006, 
-    "images": [], 
     "id": 623, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Copyrighted. Read the copyright notice inside this book for details.", 
     "title": "Printcrime", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Overclocked:_Stories_of_the_Future_Present", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.86, 
     "rating_count": 146, 
@@ -53,8 +50,6 @@
     ], 
     "release_date": "2006-04-24T00:00:00", 
     "author": 33, 
-    "original_title": "Overclocked: Stories of the Future Present", 
-    "summary": "Overclocked: Stories of the Future Present (Thunder's Mouth Press, 2007, ISBN 1-56025-981-7) is a collection of previously published science fiction short stories and novellas by Cory Doctorow. This is Doctorow's second published collection, following A Place So Foreign and Eight More. Each story includes an introduction by the author.\nIt opens with \"Printcrime\", a piece of microfiction originally published in the January 2006 issue of Nature.\nThe next story, \"When Sysadmins Ruled the Earth\" was originally published in Jim Baen's Universe, an online magazine, and was also serially released on Doctorow's own podcast, as it was written. Doctorow says this process \"kept me honest and writing\".\n\"Anda's Game\", the third piece was selected by Michael Chabon for The Best American Short Stories 2005 after being published on Salon. Doctorow chose the name to sound like Ender's Game, another science fiction story by Orson Scott Card.\nFollowing in the vein of naming stories after well-known works, Doctorow's \"I, Robot\" comes next, originally published in The Infinite Matrix, winner of the 2005 Locus Award and nominee for the Hugo Award and British Science Fiction Award. The title was originally used by Isaac Asimov for a collection of short stories, all about robots. Doctorow wrote the story to address \"one of the thin places in Asimov's world-building,\" citing the lack of competition in Asimov's world's robot industry.\nThe similarly titled \"I, Row-Boat\" was originally published in the webzine, Flurb.\nThe final story, \"After the Siege\" was first published in Esli, a Russian language science fiction magazine. The first English publication was in The Infinite Matrix. The story was influenced by Doctorow's grandmother's experience in the Siege of Leningrad.", 
     "content_cleaned": false, 
     "classes": [
         "to-read", 

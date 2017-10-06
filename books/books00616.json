@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/31897/31897-h/images/002.png"
     ], 
     "year": -1, 
-    "images": [], 
     "id": 616, 
     "category": "Text", 
-    "plot": "By the year 3172, political power in the galaxy is split between two factions: the older Earth-based Draco and the historically younger Pleiades Federation. Both have interests in the even newer Outer Colonies, where mines produce trace amounts of the prized power source Illyrion, the superheavy material essential to starship travel and terraforming planets.\nCaught in a feud between aristocratic and economically powerful families, a scarred and obsessed captain from the Pleiades, Lorq Von Ray, recruits a disparate crew of misfits to aid him in the race with his arch-enemy, Prince Red from Draco's Red Shift Ltd., to gain economic leadership by securing a vastly greater amount of Illyrion directly from the heart of a stellar nova. In doing so, Von Ray will shift the balance of power of the existing galactic order, which will bring about the downfall of the Red family as well as end Earth's dominance over interstellar politics.\nAs the title indicates, the central metaphor for the novel is a nova: the destructive implosion/explosion of an entire sun, which, paradoxically, while it destroys most of a solar system, also creates new elements. In the book, at the eruption of a nova, not only do the laws of physics break down, but so do the laws of politics and psychology. This idea permeates the entire plot and storyline.\nThe characters follow a quest plot line, in which they visit several worlds to gain information necessary to achieve their goal, all the while pursued by the Red family.\nAlthough the novel does not indulge the literary experimentation found in Delany's later books, it maintains a high level of innovation. Some chapters end or begin in mid-sentence. Also, the point of view regularly shifts between Lorq, Katin, and the Mouse. Each page in the book carries a header that gives the year and location of the scene on the page itself (e.g., \"Draco, Earth, Paris, 3162\"). This is useful because of the flashbacks in the long journey around the galaxy.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "You Don't Make Wine Like the Greeks Did", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Nova_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.33, 
     "rating_count": 5, 
@@ -38,15 +34,13 @@
     "authors": [
         206
     ], 
-    "language": "English", 
     "isbn13": "9781612102177", 
+    "language": "English", 
     "countries": [
         3
     ], 
     "release_date": "2010-04-06T00:00:00", 
     "author": 206, 
-    "original_title": "Nova (novel)", 
-    "summary": "N\u043eva (1968) is a science fiction novel by Samuel R. Delany. Nominally space opera, it explores the politics and culture of a future where cyborg technology is universal (the novel is one of the precursors to cyberpunk), yet making major decisions can involve using tarot cards. It has strong mythological overtones, relating to both the Grail Quest and Jason's Argonautica for the golden fleece. Nova was nominated for the Hugo Award for Best Novel in 1969. David Pringle lists it as one of the 100 best science-fiction novels written since World War II.\nAfter completing Nova at the age of 25, Delany's published output stopped for several years\u2014though his writing continued. Delany completed the first draft of Tides of Lust (author's title, Equinox) in September 1968 (it appeared in 1973). He first completed Hogg in June 1969 (though the novel itself would not appear until 1995). With the publication of his next major novel, Dhalgren (1975), however, his style had moved on in experimental directions notably different from that of his earlier work.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

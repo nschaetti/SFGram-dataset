@@ -11,17 +11,13 @@
         "http://www.gutenberg.org/files/23929/23929-h/images/005.png"
     ], 
     "year": 1960, 
-    "images": [], 
     "id": 630, 
     "category": "Text", 
-    "plot": "Sociologist Dr. Homer Crawford, for many years the tyrant of North and most of Central Africa, under the name of El Hassan, faces a military coup led by his closest supporters, Bey-ag-Akhamouk and Elmer Allen, who believe Crawford is an impediment to Africa's progress because he opposes foreign aid and investment in the region. Promised a pension and safe passage if he submits, Crawford leaves Africa to retire to Switzerland with his wife Isobel and sons Tom, Cliff, and Abraham. After thwarting an assassination attempt by army officers on board his aeroplane, he makes it safely to Switzerland. Once there, his son Abraham reminds him that many of El Hassan's detractors (who include Abraham himself) were merely responding to his unwillingness to move from a dictatorship to a democratic government.\nSix months later, now a frustrated semi-alcoholic, Crawford learns of a counter-coup in Africa by a dissident army cabal led by his old arch-enemy Abd-el-Kader. Most of the junta that deposed him have been shot, but Elmer Allen has managed to make it through to meet Crawford in Switzerland. Realizing that Abd-el-Kader will revoke his progressive programs, Crawford decides to contact his closest associates and return to North Africa in disguise. Allen and Abraham decide to accompany him.\nThe group rendezvous with Crawford's associates in an afforestation project in what was Southern Algeria. Crawford reveals that his plan for a counter-coup consists of a guerrilla campaign to divert Abd-el-Kader's troops so that Abraham has time to organize the country's youth to form a new political organisation against the ruling colonels. When Abraham expresses surprise at the plan, Crawford explains that his time has passed, and that now it is up to the next generation to revolt against the status quo. In a flashback of his last conversation with Isobel, we learn that Crawford does not believe he will survive the revolution this time around.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Revolution", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Black_Sheep_Astray", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.02, 
     "rating_count": 2398, 
@@ -67,8 +63,6 @@
     ], 
     "release_date": "2007-12-20T00:00:00", 
     "author": 69, 
-    "original_title": "Black Sheep Astray", 
-    "summary": "\"Black Sheep Astray\" is a science fiction short story by American writer Mack Reynolds. It is one of thirteen narratives included in the collection Astounding: John W. Campbell Memorial Anthology, a special tribute by Astounding SF authors to the memory of science fiction and fantasy magazine editor John W. Campbell. In terms of plot, \"Black Sheep Astray\" is the last in a sequence of near-future stories set in North Africa, which also includes Black Man's Burden (1961-2), Border, Breed nor Birth (1962), and The Best Ye Breed (1978). \"Black Sheep Astray\" and the North Africa series have been called a \"notable exception\" to the indirect treatment of racial issues in 1960s science fiction magazines.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

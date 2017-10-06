@@ -8,16 +8,13 @@
         "http://www.gutenberg.org/files/30035/30035-h/images/002-2.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
     "id": 643, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Off Course", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Executioner_(book_series)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.18, 
     "rating_count": 3853, 
@@ -61,8 +58,6 @@
     ], 
     "release_date": "2009-09-19T00:00:00", 
     "author": 69, 
-    "original_title": "The Executioner (book series)", 
-    "summary": "The Executioner is a monthly men's action-adventure series following the exploits of the character Mack Bolan and his wars against organized crime and international terrorism. The series spans #453 installments (as of December 2017) and has sold more than 200 million copies since its debut installment, War Against the Mafia. The series was created and initially written by American author Don Pendleton, who penned 37 of the original 38 Bolan novels. In 1980, Pendleton licensed the rights to Gold Eagle and was succeeded by a collective of ghostwriters.\nSince its inception in 1969, The Executioner series has spawned several spin-off series including: Able Team, Phoenix Force, and Stony Man (the series into which Able Team and Phoenix Force were eventually merged). Every other month, the Executioner series is complimented by the release of a Super Bolan, whose titles are twice the length of a standard Executioner novel.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

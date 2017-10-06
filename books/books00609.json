@@ -9,17 +9,13 @@
         "http://www.gutenberg.org/files/29599/29599-h/images/002-2.jpg"
     ], 
     "year": 1952, 
-    "images": [], 
     "id": 609, 
     "category": "Text", 
-    "plot": "Eilis Lacey is a young woman who is unable to find work in 1950s Ireland. Her older sister Rose organizes a meeting with a Catholic priest called Father Flood on a visit from New York City, who tells Eilis of the wonderful opportunities awaiting her in New York with excellent employment prospects. Because of this she emigrates to Brooklyn, New York and takes up a job in a department store while undertaking night classes in bookkeeping. Her initial experiences working in a boring job and living in a repressive boardinghouse, run by the strict Mrs Madge Kehoe, make her doubt her initial decision. Letters from Rose and her mother bring about severe homesickness but soon she begins to settle into a routine. Eilis meets and falls in love with a young Italian plumber named Tony Fiorello at local Friday night dances. Eilis qualifies easily from her night school course. Her relationship evolves further and Tony brings Eilis to meet his family. Their romance becomes more serious, and Tony confesses his love for Eilis, and his plans to build a home on Long Island.\nOne day while Eilis is working she learns from Father Flood that her sister Rose has died in her sleep from a pre-existing heart condition. She has to return to Ireland to mourn, and she secretly marries Tony before she leaves. In Ireland she falls back into the town society easily. She goes to the beach with Nancy, George and their friend Jim Farrell, who is interested in her. Eilis is forced to spend time with Jim and eventually starts a brief relationship with him. He is a local pub owner, to whom she had been attracted before immigrating to America. Eilis's mother is desperate for her to settle back in Ireland and marry Jim, as Eilis has not confided in her or her friends about her marriage. Eilis procrastinates about a return to her new life by extending her stay. She saves Tony's letters unopened thinking at times that she no longer loves him. Eventually a local busybody, Miss Kelly, tells Eilis she knows her secret because Madge Kehoe is her cousin and somehow the story is out in New York. This is the turning point for Eilis and she immediately books her return passage, telling her mother the truth about her marriage and posting a farewell note to Jim as she leaves town by taxi for the docks.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Homesick", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Brooklyn_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.82, 
     "rating_count": 17230, 
@@ -66,8 +62,6 @@
     ], 
     "release_date": "2009-08-03T00:00:00", 
     "author": 203, 
-    "original_title": "Brooklyn (novel)", 
-    "summary": "Brooklyn is a 2009 novel by Irish author Colm T\u00ef\u00bf\u00bdib\u00ef\u00bf\u00bdn. It won the 2009 Costa Novel Award, was shortlisted for the 2011 International IMPAC Dublin Literary Award and was longlisted for the 2009 Man Booker Prize. In 2012, The Observer named it as one of \"The 10 best historical novels\".\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

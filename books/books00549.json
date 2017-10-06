@@ -7,17 +7,13 @@
         "http://www.gutenberg.org/files/30474/30474-h/images/title-2.png"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 549, 
     "category": "Text", 
-    "plot": "The novel centers on three character groups: that of Hockenberry (a resurrected twentieth-century Homeric scholar whose duty is to compare the events of the Iliad to the reenacted events of the Trojan War), Greek and Trojan warriors, and Greek gods from the Iliad; Daeman, Harman, Ada, and other humans of an Earth thousands of years after the twentieth century; and the \"moravec\" robots (named for scientist and futurist Hans Moravec) Mahnmut the Europan and Orphu of Io, also thousands of years in the future, but originating in the Jovian system. The novel is written in first-person, present-tense when centered on Hockenberry's character, but features third-person, past-tense narrative in all other instances. Much like Simmons' Hyperion, where the actual events serve as a frame, the three groups of characters' stories are told over the course of the novel and begin to converge as the climax nears.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "They Also Serve", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ilium_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.38, 
     "rating_count": 48, 
@@ -44,8 +40,6 @@
     ], 
     "release_date": "2009-11-14T00:00:00", 
     "author": 168, 
-    "original_title": "Ilium (novel)", 
-    "summary": "Ilium is a science fiction novel by American writer Dan Simmons, the first part of the Ilium/Olympos cycle, concerning the re-creation of the events in the Iliad on an alternate Earth and Mars. These events are set in motion by beings who have taken on the roles of the Greek gods. Like Simmons' earlier series, the Hyperion Cantos, the novel is a form of \"literary science fiction\" which relies heavily on intertextuality, in this case with Homer and Shakespeare, as well as periodic references to Marcel Proust's \u00ef\u00bf\u00bd la recherche du temps perdu (or In Search of Lost Time) and Vladimir Nabokov's novel Ada or Ardor: A Family Chronicle. In July 2004, Ilium received a Locus Award for best science fiction novel of 2004.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

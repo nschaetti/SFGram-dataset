@@ -28,17 +28,13 @@
         "http://www.gutenberg.org/files/23612/23612-page-images/p159.png"
     ], 
     "year": 1960, 
-    "images": [], 
     "id": 602, 
     "category": "Text", 
-    "plot": "Earth's first starship, the Adastra, is approaching Proxima Centauri after a seven-year voyage. The voyage was marred by a mutiny among the crew, and the ship is still divided between a small group of officers who control the Adastra and the remainder of the crew, whom the officers refer to disparagingly as Muts, short for mutineers.\nA young Mut named Jack Gary has been picking up and studying transmissions from a race native to the Proxima Centauri system. This has earned him the confidence of Captain Bradley, the love of Bradley's daughter Helen, and the hatred of the Adastra's first officer, Commander Alstair, who also has romantic designs upon Helen. Much to Alstair's disgust, Captain Bradley raises Gary to officer status in recognition of his work with the Centaurian transmissions.\nShortly after the elderly Bradley's death, Gary discovers that a Centaurian spaceship is approaching the Adastra, and he suspects that their intention is hostile. The Centaurians confirm his suspicions when they fire a radiation beam at the ship. Although the Adastra has not been harmed, Alstair has the ship play dead to fool the Centaurians into thinking they have succeeded in wiping out the crew. The Centaurian ship docks with the Adastra, and a boarding party attacks the crew. The boarding party is defeated, and the Centaurian ship departs.\nStudying the captured leader of the Centaurian boarding party makes it clear that the Centaurians are mobile, carnivorous plants that feed on animals, and that they look on the crew of the Adastra as a highly valuable food source. Now that the Adastra has entered their system, the Centaurians will be able to trace their course back to Earth. As a fleet of Centaurian ships approaches the Adastra, Gary learns that Earth has launched a second starship for Proxima Centauri.\nThe defenseless Adastra is surrounded by the Centaurian fleet, and boarded. The entire crew is consumed by Centaurians except for Alstair, Jack Gary, Helen Bradley, and half a dozen officers. The Centaurian leader orders all the Adastra's records, equipment, and animals sent on board an automated ship, along with Gary and Bradley. While Alstair and the remaining officers pilot the Adastra to Proxima Centauri I, the Centaurian homeworld, the automated ship will be flown to Proxima Centauri II, an Earthlike world that has long since been stripped of its native animal life and abandoned by the Centaurians. After Gary and Bradley land on Proxima Centauri II and release the animals there, Alstair reaches the Centaurian homeworld. Alstair rigs the Adastra's engines to explode, setting off a chain reaction that will destroy the Centaurian homeworld and exterminate the Centaurians, leaving Gary and Bradley to await the arrival of the next ship from Earth.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Leader", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Proxima_Centauri_(short_story)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.11, 
     "rating_count": 8225, 
@@ -85,8 +81,6 @@
     ], 
     "release_date": "2007-11-24T00:00:00", 
     "author": 61, 
-    "original_title": "Proxima Centauri (short story)", 
-    "summary": "\"Proxima Centauri\" is a science fiction short story by American writer Murray Leinster, originally published in the March 1935 issue of Astounding Stories. Unusually for the time, the story adhered to the laws of physics as they were known, showing a starship that was limited by the speed of light, and which took several years to travel between the stars. In his comments on the story in Before the Golden Age, Isaac Asimov thought that \"Proxima Centauri\" must have influenced Robert A. Heinlein's later story \"Universe\" and stated that it influenced his own Pebble in the Sky.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

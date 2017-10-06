@@ -10,16 +10,13 @@
         "http://www.gutenberg.org/files/50905/50905-h/images/illus3.jpg"
     ], 
     "year": 1952, 
-    "images": [], 
     "id": 542, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Yesterday House", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Book_of_Fritz_Leiber", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.3, 
     "rating_count": 126, 
@@ -48,8 +45,6 @@
     ], 
     "release_date": "2016-01-12T00:00:00", 
     "author": 32, 
-    "original_title": "The Book of Fritz Leiber", 
-    "summary": "The Book of Fritz Leiber is a collection of short stories and articles by American writer Fritz Leiber. It was first published in paperback in January 1974 by DAW Books. It was later gathered together with The Second Book of Fritz Leiber into the hardcover omnibus collection The Book of Fritz Leiber, Volume ! & !! (Gregg Press, 1980)..\nThe book consists of ten fantasy, science fiction and horror short stories alternating with nine related articles, together with a foreword by the author. Some pieces were original to the collection. Others were originally published in the magazines Rogue for January 1963, Worlds of Tomorrow for August 1963, The Magazine of Fantasy and Science Fiction for December 1951 and April 1963, Galaxy Science Fiction for August 1952 and February 1968, and Broadside Magazine for December 1965, and the collection The Dark Brotherhood and Other Pieces (1966).", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

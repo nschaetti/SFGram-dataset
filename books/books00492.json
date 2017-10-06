@@ -25,17 +25,13 @@
         "http://www.gutenberg.org/files/23872/23872-page-images/p135.png"
     ], 
     "year": 1962, 
-    "images": [], 
     "id": 492, 
     "category": "Text", 
-    "plot": "Protagonist Alan Corday is a young engineer, and is kidnapped from a spaceport called \"New Chicago\" and taken aboard the interstellar trading starship Hound of Heaven. The ship is commanded by a charismatic leader named Captain Jocelyn, who tells Corday to use his skills to help the Hound of Heaven in its travels between Earth and space colonies in other star systems. On the first page of the book's prologue Hubbard cites \"the basic equation of mass and time.... AS MASS APPROACHES INFINITY, TIME APPROACHES ZERO\", meaning that interstellar travelers at near light speed experience time relative to their environment, and when they return to their home star will find that decades or centuries may have passed. Six weeks of time aboard the ship amounts to roughly nine years experienced by those on Earth. Corday resists mingling with the culture aboard the starship, but when he returns home after travels with the Hound of Heaven he finds that his fiancee has aged and has trouble with her memory. Corday realizes his only home has become that of the starship. Captain Jocelyn is killed in an ambush on a dystopian Earth, and Corday takes command of the ship.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Professional Approach", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/To_the_Stars_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.09, 
     "rating_count": 204, 
@@ -80,8 +76,6 @@
     ], 
     "release_date": "2007-12-15T00:00:00", 
     "author": 163, 
-    "original_title": "To the Stars (novel)", 
-    "summary": "To the Stars is a science fiction novel by L. Ron Hubbard. The novel's story is set in a dystopian future, and chronicles the experiences of protagonist Alan Corday aboard a starship called the Hound of Heaven as he copes with the travails of time dilation from traveling at near light speed. Corday is kidnapped by the ship's captain and forced to become a member of their crew, and when he next returns to Earth his fiancee has aged and barely remembers him. He becomes accustomed to life aboard the ship, and when the captain dies Corday assumes command.\nHubbard's story was first published by John W. Campbell in two parts in a serialized format in 1950 in Astounding Science Fiction. It was first published in book format in 1954 under the title Return to Tomorrow, and was published in hardcover in 1975 under the same title. In 1997, film producers were in the process of developing the work as a movie for Touchstone Pictures. Jazz musician Chick Corea released a 2004 album of the same name with music inspired by the story, and Galaxy Press reissued a hardcover edition of Hubbard's novel the same year as a form of cross marketing.\nThe book was generally positively received, and garnered a 2001 nomination for a \"Retro\" Hugo Award for Best Novella. Publishers Weekly gave the book a positive review, calling it one of Hubbard's \"finest works\", and Alan Cheuse highlighted the work on National Public Radio's program All Things Considered as a top literature holiday pick.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

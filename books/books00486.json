@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/49897/49897-h/images/illus3.jpg"
     ], 
     "year": 1956, 
-    "images": [], 
     "id": 486, 
     "category": "Text", 
-    "plot": "Note: This Summary does not contain the whole book, nor end at the ending.\nThe stream-of-consciousness style being so prominent in this work, a summary of the plot based on physical action does not give a thorough understanding of the content of the work. In the novel, action occurring in the physical world (i.e.: characters doing things, such as talking, walking etc.) is far outweighed by material existing in the thought and memory of the protagonists. Some discretion must be made in a plot summary as to which of these thoughts and memories warrant detailing.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Gravity Business", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Hours_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.5, 
     "rating_count": 6, 
@@ -44,8 +40,6 @@
     ], 
     "release_date": "2015-09-06T00:00:00", 
     "author": 161, 
-    "original_title": "The Hours (novel)", 
-    "summary": "The Hours is a 1998 novel written by Michael Cunningham. It won the 1999 Pulitzer Prize for Fiction, the 1999 PEN/Faulkner Award for Fiction, and was later made into an Oscar-winning 2002 movie of the same name starring Nicole Kidman, Meryl Streep and Julianne Moore.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

@@ -10,16 +10,13 @@
         "http://www.gutenberg.org/files/31686/31686-h/images/illus4.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
     "id": 521, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Collector's Item", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ireland:_Landscapes_of_God%27s_Peace", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.6, 
     "rating_count": 20, 
@@ -47,8 +44,6 @@
     ], 
     "release_date": "2010-03-18T00:00:00", 
     "author": 172, 
-    "original_title": "Ireland: Landscapes of God's Peace", 
-    "summary": "Ireland: Landscapes of God's Peace is M\u00ef\u00bf\u00bdire Brennan's (Moya Brennan) 2000 book. It contains Celtic prayers, lyrics to Brennan's Perfect Time album and her personal thoughts on Ireland, Christianity and Celtic culture. The book comes in a set with the Perfect Time album, although it now considered a collectors item by Brennan's fans. Tynedale House Publishers print a limited number every few years.\nExcerpt from M\u00ef\u00bf\u00bdire Brennan's official website:\n\nUnfortunately, this book is no longer available to buy and has become a bit of a collector's item. Originally published by Tyndale in the United States the package contains Moya's Perfect Time CD and a luxuriantly designed and bound book of song lyrics, Irish landscapes, Celtic prayers and inspirational thoughts on peace.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

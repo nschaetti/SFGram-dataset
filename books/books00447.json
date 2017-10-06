@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/29619/29619-h/images/002-2.jpg"
     ], 
     "year": 1952, 
-    "images": [], 
     "id": 447, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Altar at Midnight", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Explorers_(collection)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.12, 
     "rating_count": 31, 
@@ -43,8 +40,6 @@
     ], 
     "release_date": "2009-08-05T00:00:00", 
     "author": 51, 
-    "original_title": "The Explorers (collection)", 
-    "summary": "The Explorers is the first collection of stories by science fiction writer C. M. Kornbluth, originally published in paperback by Ballantine Books in 1954. Ballantine reissued the collection in 1963. While no further editions of the collection were published, six of its nine stories were included in Ballantine's 1977 The Best of C. M. Kornbluth, and all the stories are contained in NESFA's 1997 His Share of Glory: The Complete Short Science Fiction of C. M. Kornbluth.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

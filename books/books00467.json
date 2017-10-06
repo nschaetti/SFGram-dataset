@@ -12,16 +12,13 @@
         "http://www.gutenberg.org/files/18861/18861-h/images/image_07.jpg"
     ], 
     "year": 1951, 
-    "images": [], 
     "id": 467, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Temple Trouble", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Isaac_Asimov_Presents_The_Great_SF_Stories_1_(1939)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.55, 
     "rating_count": 72, 
@@ -47,8 +44,6 @@
     ], 
     "release_date": "2006-07-18T00:00:00", 
     "author": 19, 
-    "original_title": "Isaac Asimov Presents The Great SF Stories 1 (1939)", 
-    "summary": "Isaac Asimov Presents The Great SF Stories 1 (1939) is an American collection of short stories, edited by Isaac Asimov and Martin H. Greenberg. It attempts to list the great science fiction stories from the Golden Age of Science Fiction. They date the Golden Age as beginning in 1939 and lasting until 1963. The book was later reprinted as the first half of Isaac Asimov Presents The Golden Years of Science Fiction: 36 Stories and Novellas with the second half being Isaac Asimov Presents The Great SF Stories 2 (1940).\nThis volume was originally published by DAW books in March 1979.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

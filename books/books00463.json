@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/41586/41586-h/images/illus.jpg"
     ], 
     "year": 1921, 
-    "images": [], 
     "id": 463, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Red Dust", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Forgotten_Planet", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.95, 
     "rating_count": 433, 
@@ -60,8 +57,6 @@
     ], 
     "release_date": "2012-12-09T00:00:00", 
     "author": 61, 
-    "original_title": "The Forgotten Planet", 
-    "summary": "The Forgotten Planet is a science fiction novel by American writer Murray Leinster. It was released in 1954 by Gnome Press in an edition of 5,000 copies. The novel is a fix-up from three short stories, \"The Mad Planet\" and \"The Red Dust\", both of which had originally appeared in the magazine Argosy in 1920 and 1921, and \"Nightmare Planet\", which had been published in Science Fiction Plus in 1953.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

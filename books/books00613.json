@@ -3,17 +3,13 @@
     "author_name": "Henry Kuttner", 
     "images_urls": [], 
     "year": 1954, 
-    "images": [], 
     "id": 613, 
     "category": "Text", 
-    "plot": "The narrator visits the New England home of an ancient widow, Mrs. Rimmle, and her three aging daughters: Becky, Jane and Maria. Long ago Mrs. Rimmle visited Europe, which was the great event of her life. The daughters would also like to see Europe but their mother falls ill whenever their plans get close to materializing. Finally, family friends take Jane to Europe, where she is too happy ever to return.\nWhen the narrator next sees Mrs. Rimmle, she tells him that Jane has died abroad, which is not true, and that Becky will soon be going to Europe. Becky never actually gets away from the family house and finally dies. When he last visits the family, the nearly mummified Mrs. Rimmle tells the narrator that Becky has \"gone to Europe,\" a sad euphemism for her death.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Where the World is Quiet", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Europe_(short_story)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.17, 
     "rating_count": 17, 
@@ -39,8 +35,6 @@
     ], 
     "release_date": "2010-02-07T00:00:00", 
     "author": 123, 
-    "original_title": "Europe (short story)", 
-    "summary": "\"Europe\" is a short story by Henry James first published in Scribner's Magazine in June, 1899. In his preface to the story in the New York Edition (1907\u20131909) of his fiction, James says he got one hint for this domestic tragicomedy from a visit to an elderly lady who largely lived in her recollections of an early trip to Europe. James later heard about her aging daughters who had never been to Europe and much regretted the fact. He combined the two suggestions in a clever plot and produced a brilliant, polished gem of short narrative.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

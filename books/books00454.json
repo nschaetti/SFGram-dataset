@@ -5,17 +5,13 @@
     "author_name": "Robert Shea", 
     "images_urls": [], 
     "year": 1991, 
-    "images": [], 
     "id": 454, 
     "category": "Text", 
-    "plot": "At the end of a battle in which both forces are nearly wiped out, Conan slays the last member of the enemy host, a shaman whose dying curse turns the Cimmerian into a killer were-ape every time the moon is full. Later marooned on an island inhabited by a lost race of giants, he must overcome both the curse and these new foes.", 
     "genres": [], 
     "copyright": "Copyrighted. Read the copyright notice inside this book for details.", 
     "title": "Shaman", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Conan_and_the_Shaman%27s_Curse", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.63, 
     "rating_count": 2020, 
@@ -62,8 +58,6 @@
     ], 
     "release_date": "2009-05-27T00:00:00", 
     "author": 154, 
-    "original_title": "Conan and the Shaman's Curse", 
-    "summary": "Conan and the Shaman's Curse is a fantasy novel by American writer Sean A. Moore, featuring Robert E. Howard's sword and sorcery hero Conan the Barbarian. It was first published in paperback by Tor Books in January 1996.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

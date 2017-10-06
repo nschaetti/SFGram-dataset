@@ -10,17 +10,13 @@
         "http://www.gutenberg.org/files/51868/51868-h/images/illus3.jpg"
     ], 
     "year": 1960, 
-    "images": [], 
     "id": 597, 
     "category": "Text", 
-    "plot": "Following events in the first novel, in which Carpenter learned that it is possible to leave Hell, Carpenter wants to help others in the way his benefactor helped him. Carpenter meets and travels through all the circles of the Hell described by Dante. He is accompanied in his travels by Sylvia Plath (whom he rescues from the Wood of the Suicides by burning her tree, causing her physical body to reform itself), attempting to understand the purpose of Hell and free many of the damned. Carpenter discovers that, apparently because he returned to Hell of his own free will to help others, he now possesses powers and abilities such as his mentor, Benito, also displayed.\nIn his travels, Carpenter meets many well-known individuals deceased as of 2009. In addition to Plath, some of the notables encountered by Carpenter include:\nLester del Rey\nAnna Nicole Smith\nElse Frenkel-Brunswik\nGeorge Lincoln Rockwell\nTed Hughes\nCharles Francis Adams, Sr.\nAlbert Camus\nCarl Sagan\nSeung-Hui Cho\nKenneth Lay\nAimee Semple McPherson\nPeter Lawford\nJ. Edgar Hoover\nMelvin Belli\nReinhard Heydrich\nFrederick Lindemann, 1st Viscount Cherwell\nSir Arthur Harris, 1st Baronet\nJesse M. Unruh\nLeon Trotsky\nPontius Pilate\nJ. Robert Oppenheimer\nFrank Harris\nIn the end, and partly as the consequence of some unusual changes to Hell itself, Carpenter not so much escapes as that he is shown the door for being a troublemaker.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Troublemakers", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Escape_from_Hell_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.74, 
     "rating_count": 2692, 
@@ -68,8 +64,6 @@
     ], 
     "release_date": "2016-04-26T00:00:00", 
     "author": 95, 
-    "original_title": "Escape from Hell (novel)", 
-    "summary": "Escape from Hell is a fantasy novel written by Larry Niven and Jerry Pournelle. It is a sequel to Inferno, the 1976 Hugo Award- and Nebula Award-nominated book by the same authors. It was released on February 17, 2009.\nThe novel continues the story of deceased science fiction writer Allen Carpenter (who spelled his name \"Carpentier\" on his novels) in his quest to help other damned souls in Hell. Like the first book, \u201cEscape from Hell\u201d extensively references Dante's Inferno. Jerry Pournelle, one of the book's co-authors, described the book as \"Dante meets Vatican II.\"", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

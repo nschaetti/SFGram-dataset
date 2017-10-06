@@ -11,16 +11,13 @@
         "http://www.gutenberg.org/files/24395/24395-h/images/005.png"
     ], 
     "year": 1962, 
-    "images": [], 
     "id": 458, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Winds of Time", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Veteran_(short_story_collection)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.28, 
     "rating_count": 875006, 
@@ -67,8 +64,6 @@
     ], 
     "release_date": "2008-01-21T00:00:00", 
     "author": 136, 
-    "original_title": "The Veteran (short story collection)", 
-    "summary": "The Veteran is a short story collection by British author Frederick Forsyth. The book was first published on 8 September 2001, through Thomas Dunne Books and includes five of Forsyth's short stories. This is the second short story collection by the author, following the release of his 1982 collection, No Comebacks.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

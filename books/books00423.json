@@ -9,17 +9,13 @@
         "http://www.gutenberg.org/files/51148/51148-h/images/illus3.jpg"
     ], 
     "year": 1951, 
-    "images": [], 
     "id": 423, 
     "category": "Text", 
-    "plot": "Godfrey, son of the wealthy Matthew and Frances Winshaw of Yorkshire, is shot down by German anti-aircraft fire during a secret wartime mission over Berlin, on 30 November 1942. His sister Tabitha alleges that he was betrayed by their brother Lawrence, but no-one believes her, and she is committed to a mental institution. Nineteen years later, after a party to mark the 50th birthday of their other brother Mortimer, Lawrence is attacked in the night by an intruder, but survives, killing the intruder in the process. The intruder, a middle aged man, remains unidentified.\nLater, in the 1980s, a young novelist, Michael Owen, is commissioned to write a history of the Winshaw family, receiving a generous stipend from Tabitha Winshaw to do so. He works on this on and off, but with no deadline or pressure to complete, the project stagnates and Michael becomes reclusive, staying in his London flat watching videotapes of old films \u2013 in particular the 1961 British comedy What a Carve Up! starring Kenneth Connor, Shirley Eaton and Sid James. He emerges back into society, and resumes his interest in the project, following a visit from a neighbour, Fiona, seeking sponsorship for a 40-mile bicycle ride.\nThe novel focuses by turns on the various figures in the Winshaw family: the lazy, hypocritical, populist tabloid newspaper columnist Hilary, the ambitious and ruthless career politician Henry, the brutal chicken and pork farmer Dorothy, the predatory art-gallery owner and art dealer Roderick (Roddy), the investment banker Thomas, and the arms dealer Mark. In each of these sections the novel depicts the way in which actions by individuals from the same family, serving their own greedy interests, have distressing and far-reaching consequences.\nMichael's renewed interest in the Winshaws coincides with the appearance in his life of Findlay Onyx, a private detective hired by Tabitha to pursue the mystery of whether or not Lawrence was complicit in Godfrey's death. Michael develops a warm, but platonic, relationship with Fiona. She suffers from the symptoms of some mysterious illness, but her consultations are constantly delayed, or her records are misplaced, by underresourced health service professionals. She is eventually admitted to hospital, but because treatment was not administered soon enough, she dies shortly after New Year, 1991.\nVery soon afterwards Michael is surprised to be invited by Mortimer Winshaw's solicitor, Everett Sloane, to attend the reading of Mortimer's will at the remotely located Winshaw Towers in Yorkshire. Until this point he believes he was invited to write the history by chance, but as events transpire he is more deeply related to the family than he realizes. He attends the reading of the will along with the artist Phoebe, one of Roddy's conquests and lately Mortimer's personal nurse. The family members learn that they will inherit nothing from Mortimer but his debts. As the night progresses events begin to shadow those of the film of What a Carve Up! more and more, with the various members of the family meeting violent deaths that accord with their professional sins. It is the night that allied warplanes embark on the bombing of Iraq following Saddam Hussain's invasion of Kuwait in 1990. It is revealed that Michael is the son of Godfrey's surviving co-pilot, who was also Lawrence's mystery attacker. The following morning Tabitha ensures that she is piloting Hilary Winshaw's seaplane to take Michael home, but deliberately destroys the plane, killing them both.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Common Denominator", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/What_a_Carve_Up!_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.5, 
     "rating_count": 10, 
@@ -67,8 +63,6 @@
     ], 
     "release_date": "2016-02-08T00:00:00", 
     "author": 137, 
-    "original_title": "What a Carve Up! (novel)", 
-    "summary": "What a Carve Up! is a satirical novel by Jonathan Coe, published in the UK by Viking Press in April 1994. It was published in the United States by Alfred A Knopf in January 1995 under the title The Winshaw Legacy: or, What a Carve Up!\nThe novel concerns the political and social environment in Britain during the 1980s, and covers the period up to the beginning of aerial bombardment against Iraq in the first Gulf War in January 1991. It is a critique of British politics under the Conservative government of Margaret Thatcher (and, briefly, John Major) and of the ways in which national policy was seen to be dictated by the concerns of narrow, but powerful, interest groups with influence in banking, the media, agriculture, healthcare, the arms trade and the arts. Coe creates the fictitious Winshaw family to embody these different interests under one name and, ultimately, one roof.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

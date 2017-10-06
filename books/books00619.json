@@ -8,16 +8,13 @@
         "http://www.gutenberg.org/files/30371/30371-h/images/002-2.jpg"
     ], 
     "year": 1958, 
-    "images": [], 
     "id": 619, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Service with a Smile", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Smile_(comics)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.17, 
     "rating_count": 547, 
@@ -62,8 +59,6 @@
     ], 
     "release_date": "2009-10-31T00:00:00", 
     "author": 144, 
-    "original_title": "Smile (comics)", 
-    "summary": "Smile is an autobiographical graphic novel written by Raina Telgemeier. It gives an account of the author's life from sixth grade to high school. The book is based on Telgemeier's webcomic, Smile.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

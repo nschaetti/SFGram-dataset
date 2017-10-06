@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/29504/29504-h/images/002-2.jpg"
     ], 
     "year": 1957, 
-    "images": [], 
     "id": 474, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "What's He Doing in There?", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Fafhrd_and_the_Gray_Mouser", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.7, 
     "rating_count": 47, 
@@ -41,8 +38,6 @@
     ], 
     "release_date": "2009-07-24T00:00:00", 
     "author": 32, 
-    "original_title": "Fafhrd and the Gray Mouser", 
-    "summary": "Fafhrd and the Gray Mouser are two sword-and-sorcery heroes appearing in stories written by American author Fritz Leiber. They are the protagonists of what are probably Leiber's best-known stories. One of his motives in writing them was to have a couple of fantasy heroes closer to true human nature than the likes of Howard's Conan the Barbarian or Burroughs's Tarzan.\nFafhrd is a very tall (nearly seven feet) and strong northern barbarian, skilled at both swordsmanship and singing; the Mouser is a small (not much more than five feet) mercurial thief, gifted and deadly at swordsmanship (often using a sword in one hand and a long dagger\u2014technically a main-gauche\u2014in the other), and a former wizard's apprentice who retains some skill at magic. Fafhrd talks like a romantic, but his strong practicality usually wins through, while the cynical-sounding Mouser is prone to showing strains of sentiment at unexpected times. Both are rogues, living in a decadent world where to be so is a requirement of survival. They spend a lot of time drinking, feasting, wenching, brawling, stealing, and gambling, and are seldom fussy about who hires their swords. But they are humane and\u2014most of all\u2014relish true adventure.\nThe characters were loosely modeled upon Leiber himself and his friend Harry Otto Fischer. Fischer initially created them in a letter to Leiber in September 1934, naming at the same time their home city of Lankhmar. In 1936, Leiber finished the first Fafhrd and Gray Mouser novella, \"Adept's Gambit\", and began work on a second, \"The Tale of the Grain Ships\". At the same time, Fischer was writing the beginning of \"The Lords of Quarmall\". \"Adept's Gambit\" would not see publication until 1947, while \"The Lords of Quarmall\" would be finished by Leiber and published in 1964 and \"The Tale of the Grain Ships\" would become the prototype for \"Scylla's Daughter\" (1961) and, later, the novel The Swords of Lankhmar (1968).\nThe stories of the two were only loosely connected until the 1960s, when Leiber organized them chronologically and added additional material in preparation for paperback publication. Starting as young men, the two separately meet their female lovers, meet each other, and lose both their lovers in the same night, which explains both their friendship and the arrested adolescence of their lifestyles. However, in later stories, the two mature, learn leadership, and eventually settle down with new female partners on the Iceland-like Rime Isle. Leiber contemplated continuing the series beyond this point, but died prior to doing so.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

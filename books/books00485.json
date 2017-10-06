@@ -10,16 +10,13 @@
         "http://www.gutenberg.org/files/29908/29908-h/images/003-2.jpg"
     ], 
     "year": 1955, 
-    "images": [], 
     "id": 485, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Adventurer", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/A_Mile_Beyond_the_Moon", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.88, 
     "rating_count": 1071, 
@@ -65,8 +62,6 @@
     ], 
     "release_date": "2009-09-04T00:00:00", 
     "author": 51, 
-    "original_title": "A Mile Beyond the Moon", 
-    "summary": "A Mile Beyond the Moon is a collection of science fiction stories by C. M. Kornbluth, originally published as a Doubleday hardcover in 1958, shortly after Kornbluth's untimely death. A Science Fiction Book Club edition appeared in 1959, with an abridged paperback edition following from Macfadden Books in 1962. Macfadden reissued the collection in 1966 and, as Manor Books, in 1972 and 1976. A German translation (Die Worte des Guru) appeared in 1974, and an Italian translation (Oltre la Luna) in 1987. While no further editions of the collection were published, all the stories are contained in NESFA's 1997 His Share of Glory: The Complete Short Science Fiction of C. M. Kornbluth.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

@@ -55,16 +55,13 @@
         "http://www.gutenberg.org/files/22467/22467-page-images/p044.png"
     ], 
     "year": 1946, 
-    "images": [], 
     "id": 441, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Sand Doom", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Colonial_Survey", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.15, 
     "rating_count": 8, 
@@ -89,8 +86,6 @@
     ], 
     "release_date": "2007-08-31T00:00:00", 
     "author": 61, 
-    "original_title": "Colonial Survey", 
-    "summary": "Colonial Survey is a 1957 collection of science fiction short stories by Murray Leinster. It was first published by Gnome Press in 1957 in an edition of 5,000 copies. The collection was reprinted by Avon Books in 1957 under the title The Planet Explorer. The stories all originally appeared in the magazine Astounding.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

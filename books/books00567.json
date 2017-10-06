@@ -13,16 +13,13 @@
         "http://www.gutenberg.org/files/30140/30140-h/images/image_b.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 567, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Gone Fishing", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Agent_of_Vega", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.02, 
     "rating_count": 1261, 
@@ -69,8 +66,6 @@
     ], 
     "release_date": "2009-09-30T00:00:00", 
     "author": 136, 
-    "original_title": "Agent of Vega", 
-    "summary": "Agent of Vega is a science fiction novel by American writer James H. Schmitz, published in 1960. It is a collection of stories that originally appeared separately in magazines. It was republished in 2001 as Agent of Vega & Other Stories.\nThe tale began in 1949 as a longish short story published in the SF magazine Astounding. In 1960 it appeared as a book, along with three loosely related stories set in the same time and context: \"The Illusionists\", \"The Truth About Cushgar\" and \"The Second Night of Summer\".\nIn the far future, humans are building a \"Confederacy of Vega\" to replace the original fallen Empire of Earth. The new empire includes some mutated humans and also some non-humans. Enemies are also a mix of humans and aliens and it is very much space opera, featuring Vega's 'zone agents'. Combat involves both physical weapons and telepathic attacks. It clearly owes a lot to E. E. Smith's Lensman series.\nUnlike the six Lensman books, the four stories are only loosely connected. Each features a completely different set of enemies. The non-human telepath Pagadan is the main connecting link, appearing a secondary character in the first story, the main character in \"The Illusionists\" and makes a brief appearance in \"The Truth About Cushgar\".\nThe book is currently available as Agent of Vega & Other Stories. This consists of the original four stories plus \"The Custodians\", \"Gone Fishing\", \"The Beacon to Elsewhere\", \"The End of the Line\", \"Watch the Sky\", \"Greenface\" and \"Rogue Psi\". None of these are set in the same universe as the Vega tales.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

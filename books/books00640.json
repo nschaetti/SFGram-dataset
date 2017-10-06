@@ -6,16 +6,13 @@
         "http://www.gutenberg.org/files/50682/50682-h/images/cover.jpg"
     ], 
     "year": 1955, 
-    "images": [], 
     "id": 640, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Planet Mappers", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Maps_in_a_Mirror", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 2.9, 
     "rating_count": 8, 
@@ -42,8 +39,6 @@
     ], 
     "release_date": "2015-12-13T00:00:00", 
     "author": 38, 
-    "original_title": "Maps in a Mirror", 
-    "summary": "Maps in a Mirror (1990) is a collection of short stories by American writer Orson Scott Card. Like Card's novels, most of the stories have a science fiction or fantasy theme. Some of the stories, such as \"Ender's Game\", \"Lost Boys\", and \"Mikal's Songbird\" were later expanded into novels. Each of the smaller volumes that make up the larger collection as a whole are centered on a theme or genre. For instance, Volume 1, The Changed Man, reprints several of Card's horror stories. The collection won the Locus Award in 1991.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

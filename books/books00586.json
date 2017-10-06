@@ -10,17 +10,13 @@
         "http://www.gutenberg.org/files/26957/26957-page-images/p073.png"
     ], 
     "year": 1959, 
-    "images": [], 
     "id": 586, 
     "category": "Text", 
-    "plot": "In the year 1944 in a mountainous area on the French-Italian border Esther and her mother and all the Jews in the village of Saint-Martin must cross from France to Italy to avoid the SS. After the war, she and her mother, Elizabeth, begin their long journey to France, to the sailing ship Sette Fratelli which will take them to Palestine. When Esther finally arrives in Jerusalem, she briefly meets and exchanges names with Nejma, a Palestinian, another wanderer, one who ends up, in the summer of 1948, in the Nour Chams Refugee Camp.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Star Mother", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Wandering_Star_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.19, 
     "rating_count": 23, 
@@ -45,8 +41,6 @@
     ], 
     "release_date": "2008-10-18T00:00:00", 
     "author": 153, 
-    "original_title": "Wandering Star (novel)", 
-    "summary": "Wandering Star (original title: \u00ef\u00bf\u00bdtoile errante) is a novel by French Nobel laureate writer J. M. G. Le Cl\u00ef\u00bf\u00bdzio. The novel tells the story of two teenage girls on the threshold and in the aftermath of World War II. Esther, a French Jew who flees for Jerusalem with her mother just after Italy's occupation of a small section of south-east France ended during World War II; and Nejma, a young Arab orphaned and unable to return to the ancient city of her birth, Akka, after the Israeli declaration of statehood. Esther emigrates to the newborn state of Israel, where she encounters another group of refugees, this time Palestinian.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

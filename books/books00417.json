@@ -363,16 +363,13 @@
         "http://www.gutenberg.org/files/21510/21510-page-images/p346.png"
     ], 
     "year": 1962, 
-    "images": [], 
     "id": 417, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Legacy", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Legacy_(Michener_novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.94, 
     "rating_count": 253768, 
@@ -420,8 +417,6 @@
     ], 
     "release_date": "2007-05-17T00:00:00", 
     "author": 136, 
-    "original_title": "Legacy (Michener novel)", 
-    "summary": "Legacy (1987) is a novel by American author James A. Michener. Set during the Iran\u2013Contra affair of the 1980s, the story follows Major Norman Starr, who is called to testify in front of a congressional committee to account for his involvement in covert military actions. The novel is interspersed with historical \"flashbacks\" as Major Starr reflects on his ancestors and their own roles in American history.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

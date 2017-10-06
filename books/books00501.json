@@ -8,16 +8,13 @@
         "http://www.gutenberg.org/files/51687/51687-h/images/illus2.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 501, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Spy in the Elevator", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Spy_High", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.0, 
     "rating_count": 5, 
@@ -44,8 +41,6 @@
     ], 
     "release_date": "2016-04-07T00:00:00", 
     "author": 168, 
-    "original_title": "Spy High", 
-    "summary": "Spy High is an English book series by English writer A. J. Butcher about a high school for secret agents in training. It is divided into two series of six books each. Series One, first published in 2003 and 2004, is about Bond Team as a whole. Series Two, first published in 2004 and 2005, follows each member of Bond Team on a mission, taking place two years after graduation.\nOnly the first five books of Series One are released in the United States, although the sixth was scheduled and pulled prior to publication. Series one and series two have been released in the United Kingdom.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

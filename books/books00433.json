@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/51603/51603-h/images/illus.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 433, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "All The People", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Blackout/All_Clear", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.61, 
     "rating_count": 1401, 
@@ -64,8 +60,6 @@
     ], 
     "release_date": "2016-03-30T00:00:00", 
     "author": 74, 
-    "original_title": "Blackout/All Clear", 
-    "summary": "Blackout and All Clear are the two volumes that comprise a 2010 science fiction novel by American author Connie Willis. Blackout was published February 2, 2010 by Spectra. The second part, the conclusion All Clear, was released as a separate book on October 19, 2010. The diptych won the 2010 Nebula Award for Best Novel, the 2011 Locus Award for Best Science Fiction Novel, and the 2011 Hugo Award for Best Novel. These two volumes are the most recent of four books and a short story that Willis has written involving time travel from Oxford during the mid 21st century.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

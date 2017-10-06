@@ -6,17 +6,13 @@
         "http://www.gutenberg.org/files/32651/32651-h/images/illus.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 478, 
     "category": "Text", 
-    "plot": "The main character is a young girl named Jeanette, who is adopted by evangelists from the Elim Pentecostal Church. She believes she is destined to become a missionary. The book depicts religious enthusiasm as an exploration of the power of love. As an adolescent, Jeanette finds herself attracted to another girl, and her mother's group of religious friends subject her and her partner to exorcisms.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Adolescents Only", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Oranges_Are_Not_the_Only_Fruit", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.67, 
     "rating_count": 7, 
@@ -41,8 +37,6 @@
     ], 
     "release_date": "2010-06-02T00:00:00", 
     "author": 160, 
-    "original_title": "Oranges Are Not the Only Fruit", 
-    "summary": "Oranges Are Not the Only Fruit is a novel by Jeanette Winterson published in 1985, which she subsequently adapted into a BBC television drama of the same name. It is a coming-of-age story about a lesbian girl who grows up in an English Pentecostal community. Key themes of the book include transition from youth to adulthood, complex family relationships, same sex relationships, and religion.\nIn England and Wales, it has been included on both GCSE and A Level curriculums, such as the OCR English Literature A Level, Literature Post 1900.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

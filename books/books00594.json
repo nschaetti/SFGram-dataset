@@ -10,17 +10,13 @@
         "http://www.gutenberg.org/files/51805/51805-h/images/illus3.jpg"
     ], 
     "year": 1960, 
-    "images": [], 
     "id": 594, 
     "category": "Text", 
-    "plot": "The story takes place in the fictional town of Milburn, New York, and is told from the alternating points of view of five men in their old age. The protagonists, lifelong friends who call themselves the \"Chowder Society,\" gather periodically to reminisce and share ghost stories. When one of them dies suddenly, the surviving men find themselves haunted by dreams in which they also die. As the story unfolds, their past is revealed to hold a murder from their youth, and they begin to fear that the young woman they killed has returned to take revenge upon them.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Success Story", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ghost_Story_(Straub_novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.11, 
     "rating_count": 353600, 
@@ -68,8 +64,6 @@
     ], 
     "release_date": "2016-04-19T00:00:00", 
     "author": 198, 
-    "original_title": "Ghost Story (Straub novel)", 
-    "summary": "Ghost Story is a horror novel written by Peter Straub. It was published on January 1, 1979 by Coward, McCann and Geoghegan. The book was adapted into a film by the same name in 1981, minus the novel's fifth protagonist character, Lewis Benedikt.\nThe novel was a watershed in Straub's career. Though his earlier books had achieved a limited amount of critical and commercial success, Ghost Story became a national bestseller and cemented the author's reputation.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 
