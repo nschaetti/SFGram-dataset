@@ -4,14 +4,16 @@
     "author_name": "Jules Verne", 
     "images_urls": [], 
     "year": 1889, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/71/Nuvola_apps_kwrite.png"
+    ], 
     "id": 33, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "In the Year 2889", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Gil_Braltar", 
+        "url": "https://en.wikipedia.org/wiki/In_the_Year_2889_(short_story)", 
         "found": true, 
         "year": -1
     }, 
@@ -57,8 +59,8 @@
     ], 
     "release_date": "2006-09-23T00:00:00", 
     "author": 6, 
-    "original_title": "Gil Braltar", 
-    "summary": "Gil Braltar is a satirical short story by Jules Verne parodying British colonialism. It was first published together with The Flight to France as a part of Voyages Extraordinaires series (The Extraordinary Voyages) in 1887.\nThe story is set in British fortress and colony Gibraltar. A man, a Spaniard named Gil Braltar, dresses up as a monkey and becomes leader of a group of monkeys living there (Barbary macaques). He incites attack on the fortress. The attack, initially successful, is foiled by a British general. This general is so ugly that the monkeys believe he was one of them and obey him when he leads them out. Verne's conclusion is that in the future only the ugliest generals will be sent to Gibraltar to keep the colony in British hands.\n\n", 
+    "original_title": "In the Year 2889 (short story)", 
+    "summary": "In the Year 2889 is an 1889 short story published under the name of Jules Verne, but now believed to be mainly the work of his son Michel Verne, based on his father's ideas.", 
     "content_cleaned": true, 
     "classes": [
         "currently-reading", 

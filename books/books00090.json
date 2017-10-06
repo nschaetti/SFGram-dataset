@@ -12,7 +12,7 @@
     "copyright": "Public domain in the USA.", 
     "title": "The Hyborian Age", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Conan:_Adventures_in_an_Age_Undreamed_Of", 
+        "url": "https://en.wikipedia.org/wiki/The_Hyborian_Age", 
         "found": true, 
         "year": -1
     }, 
@@ -40,8 +40,8 @@
     ], 
     "release_date": "2013-02-24T00:00:00", 
     "author": 22, 
-    "original_title": "Conan: Adventures in an Age Undreamed Of", 
-    "summary": "Robert E. Howard's Conan: Adventures in an Age Undreamed Of, or simply Conan: Adventures in an Age Undreamed Of, is a sword and sorcery British pen-and-paper role-playing game set in the world of Conan the Barbarian, the fictional Hyborian Age. Both the character and the setting were first imagined by American author Robert E. Howard (1906-1936) as of 1932 and until his suicide in 1936. Howard's original literary work has since spawned a vast franchise of novels, comic books, films, video games, board games, role-playing games, etc. Following this tradition, Conan: Adventures in an Age Undreamed Of is the third officially licensed Conan role-playing game. The two precedent games were Conan Role-Playing Game (1985-1988) and Conan: The Roleplaying Game (2004-2010), although there also had been supplements for independent generic systems, like GURPS Conan (1988-1989).\nConan: Adventures in an Age Undreamed Of was developed by a team of game designers, writers and artists, all led by Chris Birch of Modiphius Entertainment. The rights to publish this derivative work were licensed from Conan Properties International.\n\n", 
+    "original_title": "The Hyborian Age", 
+    "summary": "The Hyborian Age is an essay by Robert E. Howard pertaining to the Hyborian Age, the fictional setting of his stories about Conan the Cimmerian. It was written in the 1930s but not published during Howard's lifetime. Its purpose was to maintain consistency within his fictional setting.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

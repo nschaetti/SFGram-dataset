@@ -11,14 +11,17 @@
         "http://www.gutenberg.org/files/19445/19445-h/images/034.png"
     ], 
     "year": 1957, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/0/0e/Omnilingual.jpg"
+    ], 
     "id": 61, 
     "category": "Text", 
+    "plot": "An expedition from Earth to Mars discovers a deserted city, the remains of an advanced civilization that died out 50,000 years before. The human scientists recover books and documents left behind, and are puzzled by their contents. Earnest young archeologist Martha Dane deciphers a few words, but the real breakthrough comes when the team explores what appears to have been a university in which the last few civilized Martians made their last stand. Inside, they find a \"Rosetta Stone\": the periodic table of the elements. The story builds tension from the skepticism of the rest of the team, mostly male, as well as from Dr. Dane's competitive, spotlight-seeking teammate, Tony Lattimer.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Omnilingual", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Isaac_Asimov_Presents_The_Great_SF_Stories_19_(1957)", 
+        "url": "https://en.wikipedia.org/wiki/Omnilingual", 
         "found": true, 
         "year": -1
     }, 
@@ -66,8 +69,8 @@
     ], 
     "release_date": "2006-10-02T00:00:00", 
     "author": 19, 
-    "original_title": "Isaac Asimov Presents The Great SF Stories 19 (1957)", 
-    "summary": "'\nIsaac Asimov Presents The Great SF Stories 19 (1957) is the nineteenth volume of Isaac Asimov Presents The Great SF Stories, which is a series of short story collections, edited by Isaac Asimov and Martin H. Greenberg, which attempts to list the great science fiction stories from the Golden Age of Science Fiction. They date the Golden Age as beginning in 1939 and lasting until 1963.\nThis volume was originally published by DAW books in February 1989.", 
+    "original_title": "Omnilingual", 
+    "summary": "\"Omnilingual\" is a science fiction short story by American writer H. Beam Piper. Originally published in the February 1957 issue of Astounding Science Fiction, it focuses on the problem of archaeology on an alien culture.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

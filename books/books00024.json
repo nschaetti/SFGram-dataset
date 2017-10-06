@@ -8,15 +8,17 @@
         "http://www.gutenberg.org/files/30240/30240-h/images/002-2.jpg"
     ], 
     "year": 1962, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Galaxy_195401.jpg"
+    ], 
     "id": 24, 
     "category": "Text", 
-    "plot": "In the not-so-distant future, a criminal mastermind named Billy the Poet is on the loose and on his way to Cape Cod. His goal is to deflower one of the hostesses at the Ethical Suicide Parlor in Hyannis. The world government runs the parlors and urges people to commit suicide to help keep the population of 17 billion stable. It also requires that the hostesses at these establishments be virgins on the basis that this makes the idea of suicide more appealing, especially to middle-aged and older men. The government also suppresses the population\u2019s sexual desire with a drug that numbs them from the waist down (but does not render them infertile, as that is seen as unethical and in violation of the religious principles of many). This drug is called \"ethical birth control,\" and was originally developed by a druggist who had been offended when, on a family outing to the zoo, his group were confronted by the sight of a male monkey masturbating. Billy is a member of a surreptitious group called the \"Nothingheads,\" people who refuse to take the government-required drugs. Despite a sting by the authorities, Billy the Poet outwits them and kidnaps a six-foot blonde suicide parlor hostess, Nancy McLuhan. McLuhan vows to fight Billy to the very end, but the drugs wear off, and when Billy rapes her, her mind opens as well. Billy convinces her that sex and death are not the answer; birth control pills are. In the end, Billy lets Nancy go, but she is forever changed and, apparently, a convert to Nothingheadism. Billy leaves her a note attached to a bottle of birth control pills that says simply, \"Welcome to the Monkey House.\"", 
+    "plot": "The Schwartz family, headed by 172-year-old Harold (\"Gramps\"), lives in a three-room apartment on the 76th floor of \"Building 257 of Alden Village, New York City, Connecticut\". Gramps' grandson Louis, his wife Emerald, and 20 other descendants are crowded into the space, perpetually jockeying for Gramps' favor. Gramps gets the best food and the only private bedroom, and controls everyone's life by constantly revising his will to disinherit anyone who earns his displeasure.\nAn offhand remark by Lou prompts Gramps to disinherit him and exile Lou and Em to the worst sleeping space in the apartment, near the bathroom. Lou then catches his great-grandnephew, newly wed Mortimer, diluting Gramps' anti-gerasone in the bathroom. Fearing Gramps' reaction to such a scheme, Lou tries to empty the bottle and refill it with the full-strength medicine, but accidentally breaks the bottle and is caught by Gramps, who only tells him to clean up the mess. The next morning, the family finds Gramps' bed empty and a note informing them that he is gone; the note also contains a revised will that bequeaths his entire estate to be held in common by his descendants, with no stipulations as to who receives what property.\nA riot breaks out as the family members start fighting over who gets the bedroom, leading to everyone being arrested and jailed at the police station. Lou and Em find the cells to be comfortable and spacious compared to the apartment, and hope that they will be sentenced to prison so they can keep these living arrangements. Meanwhile, Gramps has returned to the now-empty apartment, having watched the events unfold from a tavern across the plaza. He has hired the best lawyer in town in order to get everyone convicted, so that he can have the apartment to himself and they can enjoy the relative comfort of jail for a while. Gramps sees a television commercial for a new product called Super-anti-gerasone, which can reverse the aging process instead of just halting it, and starts thinking about being able to enjoy life again.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Big Trip Up Yonder", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Welcome_to_the_Monkey_House_(short_story)", 
+        "url": "https://en.wikipedia.org/wiki/Tomorrow_and_Tomorrow_and_Tomorrow_(short_story)", 
         "found": true, 
         "year": -1
     }, 
@@ -61,8 +63,8 @@
     ], 
     "release_date": "2009-10-13T00:00:00", 
     "author": 4, 
-    "original_title": "Welcome to the Monkey House (short story)", 
-    "summary": "\"Welcome to the Monkey House\" is a Kurt Vonnegut short story that is part of the collection of the same name. It is alluded to in God Bless You, Mr. Rosewater as one of Kilgore Trout's stories.", 
+    "original_title": "Tomorrow and Tomorrow and Tomorrow (short story)", 
+    "summary": "\"Tomorrow and Tomorrow and Tomorrow\" is a short story by Kurt Vonnegut originally written in 1953. It was first published in Galaxy Science Fiction magazine in January 1954, where the story was titled \"The Big Trip Up Yonder\", which is the protagonist's euphemism for dying. A revised version bearing the title \"Tomorrow and Tomorrow and Tomorrow\" appeared in Vonnegut's collection of short stories, Canary in a Cat House (1961), and was reprinted in Welcome to the Monkey House (1968). The new title comes from the famous line in Shakespeare's play Macbeth starting \"Tomorrow and tomorrow and tomorrow\".", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

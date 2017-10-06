@@ -39,278 +39,286 @@ p18
 sS'images'
 p19
 (lp20
-sS'id'
+Vhttps://upload.wikimedia.org/wikipedia/commons/4/4e/Galaxy_195401.jpg
 p21
+asS'id'
+p22
 I24
 sS'category'
-p22
-VText
 p23
-sS'plot'
+VText
 p24
-VIn the not-so-distant future, a criminal mastermind named Billy the Poet is on the loose and on his way to Cape Cod. His goal is to deflower one of the hostesses at the Ethical Suicide Parlor in Hyannis. The world government runs the parlors and urges people to commit suicide to help keep the population of 17 billion stable. It also requires that the hostesses at these establishments be virgins on the basis that this makes the idea of suicide more appealing, especially to middle-aged and older men. The government also suppresses the population\u2019s sexual desire with a drug that numbs them from the waist down (but does not render them infertile, as that is seen as unethical and in violation of the religious principles of many). This drug is called "ethical birth control," and was originally developed by a druggist who had been offended when, on a family outing to the zoo, his group were confronted by the sight of a male monkey masturbating. Billy is a member of a surreptitious group called the "Nothingheads," people who refuse to take the government-required drugs. Despite a sting by the authorities, Billy the Poet outwits them and kidnaps a six-foot blonde suicide parlor hostess, Nancy McLuhan. McLuhan vows to fight Billy to the very end, but the drugs wear off, and when Billy rapes her, her mind opens as well. Billy convinces her that sex and death are not the answer; birth control pills are. In the end, Billy lets Nancy go, but she is forever changed and, apparently, a convert to Nothingheadism. Billy leaves her a note attached to a bottle of birth control pills that says simply, "Welcome to the Monkey House."
+sS'plot'
 p25
-sS'genres'
+VThe Schwartz family, headed by 172-year-old Harold ("Gramps"), lives in a three-room apartment on the 76th floor of "Building 257 of Alden Village, New York City, Connecticut". Gramps' grandson Louis, his wife Emerald, and 20 other descendants are crowded into the space, perpetually jockeying for Gramps' favor. Gramps gets the best food and the only private bedroom, and controls everyone's life by constantly revising his will to disinherit anyone who earns his displeasure.\u000aAn offhand remark by Lou prompts Gramps to disinherit him and exile Lou and Em to the worst sleeping space in the apartment, near the bathroom. Lou then catches his great-grandnephew, newly wed Mortimer, diluting Gramps' anti-gerasone in the bathroom. Fearing Gramps' reaction to such a scheme, Lou tries to empty the bottle and refill it with the full-strength medicine, but accidentally breaks the bottle and is caught by Gramps, who only tells him to clean up the mess. The next morning, the family finds Gramps' bed empty and a note informing them that he is gone; the note also contains a revised will that bequeaths his entire estate to be held in common by his descendants, with no stipulations as to who receives what property.\u000aA riot breaks out as the family members start fighting over who gets the bedroom, leading to everyone being arrested and jailed at the police station. Lou and Em find the cells to be comfortable and spacious compared to the apartment, and hope that they will be sentenced to prison so they can keep these living arrangements. Meanwhile, Gramps has returned to the now-empty apartment, having watched the events unfold from a tavern across the plaza. He has hired the best lawyer in town in order to get everyone convicted, so that he can have the apartment to himself and they can enjoy the relative comfort of jail for a while. Gramps sees a television commercial for a new product called Super-anti-gerasone, which can reverse the aging process instead of just halting it, and starts thinking about being able to enjoy life again.
 p26
-(lp27
+sS'genres'
+p27
+(lp28
 sS'copyright'
-p28
-VPublic domain in the USA.
 p29
-sS'title'
+VPublic domain in the USA.
 p30
-VThe Big Trip Up Yonder
+sS'title'
 p31
-sS'wikipedia'
+VThe Big Trip Up Yonder
 p32
-(dp33
+sS'wikipedia'
+p33
+(dp34
 S'url'
-p34
-Vhttps://en.wikipedia.org/wiki/Welcome_to_the_Monkey_House_(short_story)
 p35
-sS'found'
+S'https://en.wikipedia.org/wiki/Tomorrow_and_Tomorrow_and_Tomorrow_(short_story)'
 p36
+sS'found'
+p37
 I01
 sS'year'
-p37
+p38
 I-1
 ssS'published_in'
-p38
-NsS'average_rating'
 p39
+NsS'average_rating'
+p40
 F3.91
 sS'rating_count'
-p40
-I155
-sS'content_available'
 p41
+I155
+sS'publisher_in'
+p42
+NsS'content_available'
+p43
 I01
 sS'goodreads'
-p42
-(dp43
-g34
-Vhttps://www.goodreads.com/book/show/8136616-the-big-trip-up-yonder-2br02b
 p44
-sg36
-I01
+(dp45
+g35
+Vhttps://www.goodreads.com/book/show/8136616-the-big-trip-up-yonder-2br02b
+p46
 sg37
+I01
+sg38
 I1962
 ssS'similar_books'
-p45
-(lp46
-VA Prefect's Uncle (School Stories, #2)
 p47
-aVBrewster's Millions
-p48
-aVLike Warm Sun on Nekkid Bottoms
+(lp48
+VA Prefect's Uncle (School Stories, #2)
 p49
-aVDuncan Delaney and the Cadillac of Doom
+aVBrewster's Millions
 p50
-aVThe Duchess of Padua
+aVLike Warm Sun on Nekkid Bottoms
 p51
-aVFlowers for Elvis
+aVDuncan Delaney and the Cadillac of Doom
 p52
-aVMr. Spaceship
+aVThe Duchess of Padua
 p53
-aVTen Billion Days and One Hundred Billion Nights
+aVFlowers for Elvis
 p54
-aVThe Scent of Magic (Doomspell, #2)
+aVMr. Spaceship
 p55
-aVMoonlight in Odessa
+aVTen Billion Days and One Hundred Billion Nights
 p56
-aVSiesta Lane: A Year Unplugged, or, The Good Intentions of Ten People, Two Cats, One Old Dog, Eight Acres, One Telephone, Three Cars, and Twenty Miles to the Nearest Town
+aVThe Scent of Magic (Doomspell, #2)
 p57
-aVTwo Years Before the Mast and Twenty-Four Years After (Harvard Classics, #23)
+aVMoonlight in Odessa
 p58
-aVLearning to Fly
+aVSiesta Lane: A Year Unplugged, or, The Good Intentions of Ten People, Two Cats, One Old Dog, Eight Acres, One Telephone, Three Cars, and Twenty Miles to the Nearest Town
 p59
-aVThe Outlaw Varjak Paw
+aVTwo Years Before the Mast and Twenty-Four Years After (Harvard Classics, #23)
 p60
-aVO psie, kt�ry je\u017adzi\u0142 kolej\u0105
+aVLearning to Fly
 p61
-aVThe Brenner Assignment: The Untold Story of the Most Daring Spy Mission of World War II
+aVThe Outlaw Varjak Paw
 p62
-aVA Pluralistic Universe
+aVO psie, kt�ry je\u017adzi\u0142 kolej\u0105
 p63
-aVFireflood and Other Stories
+aVThe Brenner Assignment: The Untold Story of the Most Daring Spy Mission of World War II
 p64
-asS'description'
+aVA Pluralistic Universe
 p65
-NsS'format'
+aVFireflood and Other Stories
 p66
-NsS'gutenberg'
+asS'description'
 p67
-(dp68
-g34
-Vhttp://www.gutenberg.org/ebooks/30240
+NsS'format'
+p68
+NsS'gutenberg'
 p69
+(dp70
+g35
+Vhttp://www.gutenberg.org/ebooks/30240
+p71
 sS'num'
-p70
+p72
 I30240
 ssS'authors'
-p71
-(lp72
-I4
-asS'isbn13'
 p73
-NsS'language'
-p74
-VEnglish
+(lp74
+I4
+asS'publisher'
 p75
-sS'countries'
+NsS'isbn13'
 p76
-(lp77
+NsS'language'
+p77
+VEnglish
+p78
+sS'countries'
+p79
+(lp80
 I2
 asS'release_date'
-p78
+p81
 S'2009-10-13T00:00:00'
-p79
+p82
 sS'author'
-p80
+p83
 I4
 sS'original_title'
-p81
-VWelcome to the Monkey House (short story)
-p82
-sS'summary'
-p83
-V"Welcome to the Monkey House" is a Kurt Vonnegut short story that is part of the collection of the same name. It is alluded to in God Bless You, Mr. Rosewater as one of Kilgore Trout's stories.
 p84
-sS'content_cleaned'
+VTomorrow and Tomorrow and Tomorrow (short story)
 p85
+sS'summary'
+p86
+V"Tomorrow and Tomorrow and Tomorrow" is a short story by Kurt Vonnegut originally written in 1953. It was first published in Galaxy Science Fiction magazine in January 1954, where the story was titled "The Big Trip Up Yonder", which is the protagonist's euphemism for dying. A revised version bearing the title "Tomorrow and Tomorrow and Tomorrow" appeared in Vonnegut's collection of short stories, Canary in a Cat House (1961), and was reprinted in Welcome to the Monkey House (1968). The new title comes from the famous line in Shakespeare's play Macbeth starting "Tomorrow and tomorrow and tomorrow".
+p87
+sS'content_cleaned'
+p88
 I01
 sS'classes'
-p86
-(lp87
-Vto-read
-p88
-aVfiction
 p89
-aVshort-stories
-p90
-aVcurrently-reading
+(lp90
+Vto-read
 p91
-aVsci-fi
+aVfiction
 p92
-aVscience-fiction
+aVshort-stories
 p93
-aVdystopia
+aVcurrently-reading
 p94
-aVfavorites
+aVsci-fi
 p95
-aVebook
+aVscience-fiction
 p96
-aVhumor
+aVdystopia
 p97
-aVclassics
+aVfavorites
 p98
-aVsci-fi-or-fantasy
+aVebook
 p99
-aVdystopian-fiction
+aVhumor
 p100
-aVbooks-owned
+aVclassics
 p101
-aVs-f
+aVsci-fi-or-fantasy
 p102
-aVreviewed
+aVdystopian-fiction
 p103
-aVaudio
+aVbooks-owned
 p104
-aVshort_stories
+aVs-f
 p105
-aVfor_fun
+aVreviewed
 p106
-aVaudiobook
+aVaudio
 p107
-aVafter-school-special
+aVshort_stories
 p108
-aV20th-century
+aVfor_fun
 p109
-aVaty-in-52
+aVaudiobook
 p110
-aVshort-story-collection
+aVafter-school-special
 p111
-aVshort-stories-and-novellas
+aV20th-century
 p112
-aVaudio-books-read
+aVaty-in-52
 p113
-aV3-stars
+aVshort-story-collection
 p114
-aVsci-fi-science-fiction
+aVshort-stories-and-novellas
 p115
-aValt-society-utopian
+aVaudio-books-read
 p116
-aValt-society-dystopian
+aV3-stars
 p117
-aValt-science-medicine-horror
+aVsci-fi-science-fiction
 p118
-aV1-novellas-short-stories-essays
+aValt-society-utopian
 p119
-aV1-notable-reads
+aValt-society-dystopian
 p120
-aV1-classic-literature
+aValt-science-medicine-horror
 p121
-aVcollections
+aV1-novellas-short-stories-essays
 p122
-aVaudiobooks
+aV1-notable-reads
 p123
-aVgimme-this-book-now
+aV1-classic-literature
 p124
-aVluisterbieb
+aVcollections
 p125
-aVread-in-2014
+aVaudiobooks
 p126
-aVsevenponds-reviews
+aVgimme-this-book-now
 p127
-aVsample-reading
+aVluisterbieb
 p128
-aVread-by-kat
+aVread-in-2014
 p129
-aVabout-family
+aVsevenponds-reviews
 p130
-aVvonnegut
+aVsample-reading
 p131
-aVsociology
+aVread-by-kat
 p132
-aVfree-ebook
+aVabout-family
 p133
-aVdepressing
+aVvonnegut
 p134
-aVfiction-to-read
+aVsociology
 p135
-aVkurt-vonnegut
+aVfree-ebook
 p136
-aVaudio-book
+aVdepressing
 p137
-aVfantasy-and-sci-fi
+aVfiction-to-read
 p138
-aVnookbook
+aVkurt-vonnegut
 p139
-aVshort-story
+aVaudio-book
 p140
-aVread-on-kindle
+aVfantasy-and-sci-fi
 p141
-aVread-in-2012
+aVnookbook
 p142
-aVtop-of-to-read
+aVshort-story
 p143
-aVre-read
+aVread-on-kindle
 p144
-aVnook
+aVread-in-2012
 p145
-aVread-ss-and-novellas
+aVtop-of-to-read
 p146
-aVkat
+aVre-read
 p147
-aVshortstories
+aVnook
 p148
-aVbooksread2011
+aVread-ss-and-novellas
 p149
-asS'loc_class'
+aVkat
 p150
-VPS: Language and Literatures: American and Canadian literature
+aVshortstories
 p151
-sS'n_authors'
+aVbooksread2011
 p152
+asS'loc_class'
+p153
+VPS: Language and Literatures: American and Canadian literature
+p154
+sS'cover_artist'
+p155
+NsS'n_authors'
+p156
 I1
 sb.

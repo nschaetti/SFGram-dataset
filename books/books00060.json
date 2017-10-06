@@ -165,16 +165,13 @@
         "http://www.gutenberg.org/files/20898/20898-page-images/p233.png"
     ], 
     "year": 1959, 
-    "images": [], 
     "id": 60, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Galaxy Primes", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Vector_Prime", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.6, 
     "rating_count": 405, 
@@ -219,8 +216,6 @@
     ], 
     "release_date": "2007-03-25T00:00:00", 
     "author": 14, 
-    "original_title": "Vector Prime", 
-    "summary": "Star Wars: The New Jedi Order - Vector Prime is a science fiction novel by American writer R. A. Salvatore and published in 1999. It is the first installment of the New Jedi Order series set in the Star Wars universe. The book has received much controversy for the death of a prominent character from the films (the first and only time a major film character has been killed off in the Star Wars expanded universe), despite George Lucas's approval. On its release, the book was featured on the New York Times Hardcover Bestseller List.", 
     "content_cleaned": true, 
     "classes": [
         "science-fiction", 

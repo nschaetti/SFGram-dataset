@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/20727/20727-h/images/image001.gif"
     ], 
     "year": 1963, 
-    "images": [], 
     "id": 44, 
     "category": "Text", 
-    "plot": "The Last Space Viking takes place a hundred years after Lucas Trask founded the League of Civilized Worlds. Many changes have occurred in the Old Federation and King Trask's plans for a new galaxy order are brought to a sudden halt when a new power emerges from the ashes of the Old Federation.\nSpace Vikings have been raiding and terrorizing the worlds of the Old Federation for hundreds of years. Great fortunes have been made and hundreds of planets conquered and despoiled. The Sword-Worlds have gone into their own decline just as the League of Civilized Worlds is faced with its greatest defeat. Soon, the first real threat to Space Viking domination must be overcome and brought to heel.\nCaptain David Morland of Joyeuse emerges at a time when the Old Federation is changing for the worse. All Morland wants is his own Space Viking base world to use as a place for organizing raids and trading parties into the thousands of worlds of the long-dead Federation. Generations of Space Viking marauders have taken their toll and plunder-worthy planets have declined as more and more of the Old Federation worlds have slipped into barbarism. But first, Morland has to find the right world and conquer it before he is discovered by a new power determined to end the Space Viking menace.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Cosmic Computer", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Last_Space_Viking", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.73, 
     "rating_count": 675, 
@@ -62,8 +58,6 @@
     ], 
     "release_date": "2007-03-03T00:00:00", 
     "author": 19, 
-    "original_title": "The Last Space Viking", 
-    "summary": "The Last Space Viking is a science fiction novel by American writers John F. Carr and Mike Robertson, a sequel to H. Beam Piper's Space Viking. It is set in Piper's Terro-Human future history.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

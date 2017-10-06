@@ -5,16 +5,13 @@
         "http://www.gutenberg.org/files/29019/29019-h/images/cover.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 76, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "All Cats Are Gray", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Many_Worlds_of_Andre_Norton", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.45, 
     "rating_count": 289, 
@@ -59,8 +56,6 @@
     ], 
     "release_date": "2009-06-01T00:00:00", 
     "author": 28, 
-    "original_title": "The Many Worlds of Andre Norton", 
-    "summary": "The Many Worlds of Andre Norton is a collection of fantasy and science fantasy short stories by American writer Andre Norton, edited by Roger Elwood. It was first published in August 1974 in simultaneous hardcover editions by Chilton (U.S.) and Thomas Nelson (Canada). A paperback edition, retitled The Book of Andre Norton and omitting the name of the editor, was issued by DAW Books in October 1975, and was reprinted in November 1977, July 1981 and September 1987.\nThe book collects seven novellas and short stories along with one essay by Norton, with an introduction by Donald A. Wollheim, an essay on Norton by Rick Brooks, and a bibliography of Norton's works as of 1975 by Helen-Jo Jakusz Hewitt. The stories include the Witch World tale \"The Toads of Grimmerdale\".", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

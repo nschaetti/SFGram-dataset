@@ -6,14 +6,17 @@
         "http://www.gutenberg.org/files/28554/28554-h/images/001.png"
     ], 
     "year": 1952, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Planet_Stories_July_1952_front_cover.jpg"
+    ], 
     "id": 25, 
     "category": "Text", 
+    "plot": "Peterson, a crew member of a spaceship loading up with food animals on Mars, buys an enormous pig-like creature known as a \"wub\" from a native just before departure. Franco, his captain, is worried about the extra weight but seems more concerned about its taste, as his ship is short of food. However, after takeoff, the crew realizes that the wub is a very intelligent creature, capable of telepathy and maybe even mind control. Peterson and the wub spend time discussing mythological figures and the travels of Odysseus. Captain Franco, paranoid after an earlier confrontation with the Wub which left him paralyzed, bursts in and insists on killing and eating the wub. The crew becomes very much opposed to killing the sensitive creature after it makes a plea for understanding, but Franco still makes a meal out of him. At the dinner table, Captain Franco apologises for the \"interruption\" and resumes the earlier conversation between Peterson and the Wub - which now has apparently taken over the Captain's body.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Beyond Lies the Wub", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Best_of_Philip_K._Dick", 
+        "url": "https://en.wikipedia.org/wiki/Beyond_Lies_the_Wub", 
         "found": true, 
         "year": -1
     }, 
@@ -59,8 +62,8 @@
     ], 
     "release_date": "2009-04-11T00:00:00", 
     "author": 8, 
-    "original_title": "The Best of Philip K. Dick", 
-    "summary": "The Best of Philip K. Dick is a collection of science fiction stories by Philip K. Dick. It was first published by Del Rey Books in 1977. Many of the stories had originally appeared in the magazines Planet Stories, Fantasy and Science Fiction, Space Science Fiction, Imagination, Astounding Stories, Galaxy Science Fiction, Amazing Stories, Science Fiction Stories and Startling Stories, as well as the anthologies Dangerous Visions and Star Science Fiction Stories No.3.", 
+    "original_title": "Beyond Lies the Wub", 
+    "summary": "\"Beyond Lies the Wub\" is a science fiction short story by Philip K. Dick. It was his first published genre story, originally appearing in Planet Stories in July 1952. It was first collected in The Preserving Machine in 1969, and was included in The Best of Philip K. Dick in 1977. It was the title story for the first volume of the original edition of Dick's collected stories. Translations of \"Beyond Lies the Wub\" have appeared in Dutch, French, German, Italian, Polish and Spanish; and the story has been included in more than a dozen anthologies.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

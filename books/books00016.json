@@ -5,17 +5,13 @@
     "author_name": "Philip K. Dick", 
     "images_urls": [], 
     "year": 1953, 
-    "images": [], 
     "id": 16, 
     "category": "Text", 
-    "plot": "The novel is set in the year 1992, by when humanity has colonized the Moon and psychic powers are common. The protagonist, Joe Chip, is a debt-ridden technician working for Runciter Associates, a \"prudence organization\" which employs \"inertials\", people with the ability to negate the powers of telepaths and \"precogs\", to enforce privacy of clients. The company is run by Glen Runciter, assisted by his deceased wife Ella, who is kept in a state of \"half-life\", a form of cryonic suspension that allows the deceased limited consciousness and ability to communicate. While consulting with Ella, Runciter discovers that her consciousness is being invaded by another half-lifer, Jory Miller.\nWhen business magnate Stanton Mick hires Runciter Associates to secure his lunar facilities from alleged psychic intrusion, Runciter assembles a team of 11 of his best inertials, including Pat Conley, a mysterious girl with the unique psychic ability to undo events by changing the past who has just been hired by the company. Runciter and Chip travel with the group to Mick's Moon base, where they discover that the assignment is a trap, presumably set by the company's main adversary, Ray Hollis, who leads an organization of psychics. A bomb blast apparently kills Runciter without significantly harming the others. They rush back to Earth to place him into half-life, but they cannot establish contact with him and his body is set to be buried.\nFrom the moment of the explosion, the group begins to experience strange shifts in reality. Many objects they come into contact with are much older than they should be, some of them being older types of the same object, and they gradually find themselves moving into the past, eventually anchoring in 1939. At the same time, they find themselves surrounded by \"manifestations\" of Runciter, for example as his face appears on their money. Furthermore, members of the group one by one begin to feel tired and cold, then quickly wither away and die. Chip attempts to make sense of what is happening, and discovers two contradictory messages from Runciter, one stating that he is alive and they are dead, and another claiming to have been recorded by him while he was still alive; the latter message advertises Ubik, a product which can be used to temporarily reverse deterioration. He deduces that they may have all died in the blast, now linked together in half-life, and unsuccessfully tries to get hold of Ubik.\nAfter receiving another message, Chip accuses Conley of working for Hollis and causing the deterioration with her ability, and while he himself is withering away, she confirms this. As she leaves him to die, he is saved by Runciter, who sprays him with Ubik and tells him that the group is indeed in half-life and he himself is alive and trying to help them, though he does not know where Ubik comes from. As Runciter disappears, Jory Miller reveals himself to Chip, telling him that he, not Conley, has killed off now the entire group, as he \"consumes\" half-lifers to sustain himself, and that the entire reality they are experiencing is created and maintained by him, except the reversal to 1939. However, Chip is temporarily protected from being consumed through the effect of Ubik, and leaves Jory. As he at last begins to deteriorate again, he meets Ella, who saves him by granting him a life-long supply of Ubik, and instructs him to stay half-alive to assist Runciter after she herself reincarnates. Ubik is claimed to have been developed by her and several other half-lifers as a defense against Jory.\nEach chapter is introduced by a commercial advertising Ubik as a different product serving a specific use. The last chapter is introduced by Ubik claiming that it has created and directed the universe, and that its real name is unknown and unspoken. In the short chapter, Runciter, who is in the \"living\" world mourning the loss of his best employees, finds himself with coins showing Chip's face, and feels that this is \"just the beginning\".", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Eyes Have It", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ubik", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.55, 
     "rating_count": 620, 
@@ -60,8 +56,6 @@
     ], 
     "release_date": "2010-03-06T00:00:00", 
     "author": 8, 
-    "original_title": "Ubik", 
-    "summary": "Ubik ( EW-bik) is a 1969 science fiction novel by American writer Philip K. Dick. It is one of Dick's most acclaimed novels. It was chosen by Time magazine as one of the 100 greatest novels since 1923. In his review for Time, critic Lev Grossman described it as \"a deeply unsettling existential horror story, a nightmare you'll never be sure you've woken up from.\"\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

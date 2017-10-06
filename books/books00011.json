@@ -11,14 +11,17 @@
         "http://www.gutenberg.org/files/32032/32032-h/images/illo2.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg"
+    ], 
     "id": 11, 
     "category": "Text", 
+    "plot": "\"Second Variety\" occurs in the aftermath of an extensive nuclear war between the Soviet Union (sometimes referred to as Russia) and the United Nations. Early Soviet victories forced the North American government and production to flee to a Moon Base, leaving the majority of their troops behind. To counter the almost complete Soviet victory, U.N. technicians develop robots, nicknamed claws\u2014the basic models are \"a churning sphere of blades and metal\" that ambush their unsuspecting victims \"spinning, creeping, shaking themselves up suddenly from the gray ash and darting toward\u2026 [any warm body].\" U.N. forces are protected from the claws by a special radiation-emitting wrist tab. Within six years, the sophisticated and independent claws have destroyed the Soviet forces, repairing and redesigning themselves in automated underground factories run without any human oversight.\nThe U.N. forces receive a message from the Soviets asking for a policy-level officer to go to them for a gravely urgent conference. The U.N. victory was costlier than they had expected. Major Joseph Hendricks is sent to negotiate with the Soviets. En route to the rendezvous, he meets a small boy named David who asks to accompany Hendricks. When they near the Soviet bunker, soldiers immediately kill the boy, revealing him to be an android. The claws' development program has evolved to develop sophisticated robots, indistinguishable from humans, designed to infiltrate and kill. The three Soviets met by Major Hendricks\u2014soldiers Klaus, Rudi, and a young woman named Tasso\u2014reveal that the entire Soviet army and command structure collapsed under the onslaught of the new robots - they are all that are left in the command center.\nFrom salvaged internal metal identification plates, two varieties are identified: I-V, a wounded soldier, and III-V, David. II-V\u2014the \"second variety\"\u2014remains unknown. The different models are produced independently of each other in different factories. The Soviets also reveal that the U.N. protective tabs are ineffective against the new robots. Hendricks attempts to transmit a warning to his H.Q. bunker, but is unable to do so.\nDuring the night, Klaus claims Rudi is the II-V and kills him, however Rudi's internal organs are human. The next morning, Hendricks and the two remaining Soviets return to the U.N. lines. When they reach the bunker, they discover it overrun: a crowd of David and Wounded Soldier robots attack, but Tasso destroys them with a very powerful hand grenade, stating that it was designed to destroy the robots. Hendricks and Tasso flee, leaving Klaus to the old-style claws. However, Klaus survives both the claws and the bomb blast only to be shot by Tasso, sending \"gears and wheels\" flying. Tasso tells Hendricks that Klaus must have been the II-V robot.\nHendricks, now suffering from a wounded arm and internal injuries, hopes to escape to the Moon Base. He and Tasso search for a hidden escape rocket, which is found to be a single-seat spacecraft. Hendricks attempts to leave, but Tasso convinces him to let her leave and send back help. In his injured state, he has no choice but to agree. Hendricks provides Tasso with the signal code needed to find the Moon Base.\nAlone and armed with Tasso's pistol, Hendricks returns to Klaus' remains and discovers from the parts that the robot was not a II-V, but a IV-V. A group of robots then attack Hendricks, including Davids, Wounded Soldiers, and several Tasso\u2014the true II-V\u2014models. Hendricks recognizes that he has doomed the Moon Base by sending a robot to them, and that he cannot withstand the onslaught of robots attacking him. Noticing the bombs carried by all the Tasso models, Hendricks' last ironic thought is that the robots are already producing weapons designed for killing each other.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Second Variety", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Best_of_Philip_K._Dick", 
+        "url": "https://en.wikipedia.org/wiki/Second_Variety", 
         "found": true, 
         "year": -1
     }, 
@@ -65,8 +68,8 @@
     ], 
     "release_date": "2010-04-17T00:00:00", 
     "author": 8, 
-    "original_title": "The Best of Philip K. Dick", 
-    "summary": "The Best of Philip K. Dick is a collection of science fiction stories by Philip K. Dick. It was first published by Del Rey Books in 1977. Many of the stories had originally appeared in the magazines Planet Stories, Fantasy and Science Fiction, Space Science Fiction, Imagination, Astounding Stories, Galaxy Science Fiction, Amazing Stories, Science Fiction Stories and Startling Stories, as well as the anthologies Dangerous Visions and Star Science Fiction Stories No.3.", 
+    "original_title": "Second Variety", 
+    "summary": "\"Second Variety\" is a science fiction short story by American writer Philip K. Dick, first published in Space Science Fiction magazine, in May 1953. A nuclear war between the Soviet Union and the West has reduced much of the world to a barren wasteland. The war continues, however, among the scattered remains of humanity. The Western forces have developed \"claws\", which are autonomous self-replicating robots to fight on their side. It is one of Dick's many stories in which nuclear war has rendered the Earth's surface uninhabitable. The story was adapted into the movie Screamers in 1995.\nThe short story \"Jon's World\" written in 1954 revisited the claw-infested world of \"Second Variety\".", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

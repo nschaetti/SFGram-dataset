@@ -8,16 +8,17 @@
         "http://www.gutenberg.org/files/29132/29132-h/images/002-1.jpg", 
         "http://www.gutenberg.org/files/29132/29132-h/images/002-2.jpg"
     ], 
-    "year": 1962, 
-    "images": [], 
+    "year": 1952, 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Planet_stories_195209.jpg"
+    ], 
     "id": 36, 
     "category": "Text", 
-    "plot": "This novel is set in a then-future 2004. There is still a (theoretical) Cold War between the United States and its allies and the Soviet Union and its allies. At the elite governmental level, however, both \"sides\" have secretly come to an agreement. They have decided that, instead of continuing the ecologically and economically crippling nuclear and conventional arms race, they will pretend to be constantly developing new weapons, which are then \"plowshared.\" This means that these items are transformed into novel but baroque consumer products. Most of these weapon designers are mediums, who create their new designs in trance states. Design of weapons are extracted telepathically from a motion comic book, The Blue Cephalopod Man from Titan, created by mad Italian artist Oral Giacomini.\nOne Wes-Bloc weapons designer, Lars Powderdry (Mr. Lars of Mr. Lars Incorporated) is the central character. He is depressed that his industry is little more than a fraud, as none of his \"weapons\" are functional, having become fashion items instead. The plowshared guidance system of Item 202, a telepathic featureless brazen head named Ol' Orville, explains that this depression is merely a projection of his own fears of professional and physical impotence. His female Peep-East counterpart is Lilo Topchev, whom he knows nothing about, but whom Ol' Orville advises him to seduce. He also has a mistress, Maren Faine, head of his company's Parisian branch.\nApart from the comic overtones of this deception, there is a subplot related to alien invasion. Sirian aliens invade Earth, and are determined to enslave its populace. The aliens' first target is New Orleans, which is enshrouded in a \"gray curtain of death.\" Earth has a problem, given the deceptive nature of its arms race and the absence of functional weapons technology. Lilo immediately tries to kill Lars, despite the intentions of their blocs otherwise, but eventually they collaborate. Neither can design functional weapons, however.\nThere is a further subplot about a conspiracy theorist, who is elected as an \"average man\" to the governing body of Wes-Bloc. The conclusion involves an eclectic mixture of time travel, androids, drugs, toys, and comic books.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Gun", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Zap_Gun", 
+        "url": "https://en.wikipedia.org/wiki/The_Gun_(short_story)", 
         "found": true, 
         "year": -1
     }, 
@@ -66,8 +67,8 @@
     ], 
     "release_date": "2009-06-15T00:00:00", 
     "author": 8, 
-    "original_title": "The Zap Gun", 
-    "summary": "The Zap Gun is a 1967 science fiction novel by American author Philip K. Dick. It was written in 1964 and first published under the title Project Plowshare as a serial in the November 1965 and January 1966 issues of Worlds of Tomorrow magazine.", 
+    "original_title": "The Gun (short story)", 
+    "summary": "The Gun is a science fiction short story by Philip K. Dick, first published in 1952 September issue of Planet Stories, and later published in Beyond Lies the Wub in 1984. \"The Gun\" has been published in Italian, German, French and Polish translations.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

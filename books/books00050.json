@@ -8,15 +8,16 @@
         "http://www.gutenberg.org/files/32832/32832-h/images/002-2.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/45/Imagination_195302.jpg"
+    ], 
     "id": 50, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Piper in the Woods", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Wind_in_the_Willows", 
+        "url": "https://en.wikipedia.org/wiki/Piper_in_the_Woods", 
         "found": true, 
         "year": -1
     }, 
@@ -62,8 +63,8 @@
     ], 
     "release_date": "2010-06-16T00:00:00", 
     "author": 8, 
-    "original_title": "The Wind in the Willows", 
-    "summary": "The Wind in the Willows is a children's novel by Kenneth Grahame, first published in 1908. Alternately slow moving and fast paced, it focuses on four anthropomorphised animals in a pastoral version of Edwardian England. The novel is notable for its mixture of mysticism, adventure, morality and camaraderie, and celebrated for its evocation of the nature of the Thames Valley. It is illustrated by Arthur Rackham in 1940.\nIn 1908, Grahame retired from his position as secretary of the Bank of England. He moved back to Berkshire, where he had lived as a child, and spent his time by the River Thames doing much as the animal characters in his book do \u2013 as the book says, \"simply messing about in boats\" \u2013 and expanding the bedtime stories he had earlier told his son Alastair into a manuscript for the book.\nThe novel was in its 31st printing when playwright A. A. Milne adapted part of it for the stage as Toad of Toad Hall in 1929. Almost a century later, it was adapted again for the stage as a musical by Julian Fellowes. In 2003, The Wind in the Willows was listed at number 16 in the BBC's survey The Big Read.", 
+    "original_title": "Piper in the Woods", 
+    "summary": "Piper in the Woods is a science fiction short story by Philip K. Dick, first published in 1953 in Imagination, and later in The Collected Stories of Philip K. Dick. It has since been republished several times, including in Beyond Lies the Wub in 1988.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

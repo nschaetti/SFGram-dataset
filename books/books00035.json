@@ -8,15 +8,16 @@
         "http://www.gutenberg.org/files/30255/30255-h/images/001-2.jpg"
     ], 
     "year": 1952, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a4/If_195209.jpg"
+    ], 
     "id": 35, 
     "category": "Text", 
-    "plot": "Maleger is a stage magician whose feats of magic are so mysterious and hideous, and his stage presence so evil, that his act frightens unwary children and many adults. In 1912, he purchases the famous Schloss Schadel\u2014Castle Skull, on the banks of the Rhine, and transforms the ruin into a nightmare that is appropriate for its terrifying history (including scenes of torture, insanity and suicide). Twenty years later, one of Maleger's few friends is seen running about the battlements of Castle Skull\u2014he has been shot three times in the chest, but was still alive when the murderer poured kerosene on him and ignited it. Maleger was traveling alone on the train to his castle; several days later, his body was fished out of the Rhine. Maleger's friend J\u00ef\u00bf\u00bdr\u00ef\u00bf\u00bdme D'Aunay, a Belgian financier, hires Parisian detective Henri Bencolin and his associate Jeff Marle to investigate these deaths and the strange goings-on at a house party staying at a villa across the river from Castle Skull.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Skull", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Castle_Skull", 
+        "url": "https://en.wikipedia.org/wiki/The_Skull_(short_story)", 
         "found": true, 
         "year": -1
     }, 
@@ -63,8 +64,8 @@
     ], 
     "release_date": "2009-10-14T00:00:00", 
     "author": 8, 
-    "original_title": "Castle Skull", 
-    "summary": "Castle Skull, first published in 1931, is a detective story by John Dickson Carr which features Carr's series detective Henri Bencolin. This novel is a mystery of the type known as a whodunnit.", 
+    "original_title": "The Skull (short story)", 
+    "summary": "\"The Skull\" is a science fiction short story by Philip K. Dick, first published in 1952 in If, and later in The Collected Stories of Philip K. Dick. It has since been republished several times, including in Beyond Lies the Wub in 1988.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

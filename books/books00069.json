@@ -4,16 +4,13 @@
     "author_name": "H. G. Wells", 
     "images_urls": [], 
     "year": 1903, 
-    "images": [], 
     "id": 69, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Twelve Stories and a Dream", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Country_of_the_Blind_and_Other_Stories", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.52, 
     "rating_count": 56, 
@@ -58,8 +55,6 @@
     ], 
     "release_date": "1999-05-01T00:00:00", 
     "author": 1, 
-    "original_title": "The Country of the Blind and Other Stories", 
-    "summary": "The Country of the Blind and Other Stories is a collection of thirty-three fantasy and science fiction short stories written by the English author H. G. Wells between 1894 and 1909. It was first published by Thomas Nelson and Sons in 1911. All the stories had first been published in various weekly and monthly periodicals. Twenty-seven of the stories had also been previously published in five earlier story collections by Wells.\nThe title of this collection refers to one of Wells's best known short stories, \"The Country of the Blind\", which is included in this book.", 
     "content_cleaned": false, 
     "classes": [
         "to-read", 

@@ -14,17 +14,13 @@
         "http://www.gutenberg.org/files/30971/30971-h/images/image_w.jpg"
     ], 
     "year": 1963, 
-    "images": [], 
     "id": 77, 
     "category": "Text", 
-    "plot": "Prince Rupert is taken by the Roundheads; held captive at a country house, he falls in love with his captor's niece, Jennifer. One of his troopers, Will Fairweather, followed him to the house where he was held captive; with the help of Jennifer, Will brings him to Oberon and Titania, who offer magical aid. Rupert and Jennifer exchange magic rings that will aid them as long as they are true to each other. Rupert sets out with Will to find the books that Prospero sank, in order to aid King Charles.\nRupert, fleeing Roundheads, finds refuge in a magical inn, The Old Phoenix, which proves to be a nexus between parallel worlds. Inside the tavern, he meets Valeria Matuchek, who is from an alternate history twentieth-century America. (Originally, the character had been a child in Anderson's Operation Chaos and a teenager in its sequel, Operation Luna, but is now an adult.) Holger Carlsen is another guest, born in a world where the Matter of France is history, and later trapped in \"our own\" twentieth-century America (the hero of Anderson's Three Hearts and Three Lions). Valeria explains what will happen in the English Civil War in \"our\" timeline, including the king's execution, strengthening Rupert's determination to change events here. He finds a Spanish ship that will transport him; it is carrying an ambassador and his wife.\nJennifer's Puritan uncle discovers her on her return, when she resolves to use the ring to find Rupert. She is brought, captive, to a port, where the ring enables her to steal a boat and set sail. The ambassador's wife uses a magic potion to seduce Rupert, and the rings fail. Rupert cannot find his way to the island, and Jennifer is stranded at sea. Despairing, Rupert takes to the library at Milan to try to work out where to find the island and books. Jennifer's plight becomes desperate from thirst, but Ariel (from The Tempest) finds her and brings her to the island. Rupert works out the location, and Jennifer and he are reconciled.\nThey retrieve the books and magically bear them back to England. Charles I has taken up a position near Glastonbury Tor for reasons he does not understand. Rupert attempts the magic; Will Fairweather is possessed by a spirit of England and stirs up the magic of the land. The Roundheads are defeated, and Charles I wins the English Civil War.\nAt the Old Phoenix, Valeria believes that even if \"romantic reactionaries\" like Charles I won the English Civil War here, there is still the prospect of technological advance in North America. However, the fairies believed differently\u2014they supported the Cavalier cause to delay the disenchantment of this world.\nRupert and Jennifer return the rings to Oberon and Titania, and retire to a peaceful married life.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Industrial Revolution", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/A_Midsummer_Tempest", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.91, 
     "rating_count": 42971, 
@@ -60,8 +56,6 @@
     ], 
     "release_date": "2010-01-15T00:00:00", 
     "author": 30, 
-    "original_title": "A Midsummer Tempest", 
-    "summary": "A Midsummer Tempest is an 1974 alternative history fantasy novel by Poul Anderson. In 1975, it was nominated for the World Fantasy Award for Best Novel and the Nebula Award for Best Novel and won the Mythopoeic Award.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

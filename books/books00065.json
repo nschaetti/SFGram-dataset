@@ -5,17 +5,13 @@
     "author_name": "Marion Zimmer Bradley", 
     "images_urls": [], 
     "year": 1963, 
-    "images": [], 
     "id": 65, 
     "category": "Text", 
-    "plot": "Like most of Burroughs' fiction, the novels in the series are mostly travelogues, feature copious violence, and often depict civilized heroes captured by uncivilized cultures and mimicking their captors to survive.\nMost Barsoom novels follow a familiar plot structure, wherein a hero is forced to a far-off location in search of a woman kidnapped by an odious but powerful villain.\nFemale characters are likely to be virtuous and fight off amorous advances and other dangers until able to connect with the hero; who himself fights a variety of enemies and deposes petty rulers of severely repressed populations, usually with the assistance of a native.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Colors of Space", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Barsoom", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.65, 
     "rating_count": 670, 
@@ -49,15 +45,13 @@
     "authors": [
         25
     ], 
-    "language": "English", 
     "isbn13": "9780898651911", 
+    "language": "English", 
     "countries": [
         2
     ], 
     "release_date": "2007-03-11T00:00:00", 
     "author": 25, 
-    "original_title": "Barsoom", 
-    "summary": "Barsoom is a fictional representation of the planet Mars created by American pulp fiction author Edgar Rice Burroughs. The first Barsoom tale was serialized as Under the Moons of Mars in 1912, and published as a novel as A Princess of Mars in 1917. Ten sequels followed over the next three decades, further extending his vision of Barsoom and adding other characters. The first five novels are in the public domain in U.S., and the entire series is free around the world on Project Gutenberg Australia, but the books are still under copyright in most of the rest of the world.\nThe world of Barsoom is a romantic vision of a dying Mars. Writers and science popularizers like Camille Flammarion who were convinced that Mars was at a later stage of evolution than Earth and therefore much drier, took the ideas farther and published books like Les Terres du Ciel (1884), which contained illustrations of a planet covered with canals. Burroughs gives credits to him in his writings, and goes as far as to say that he based his vision of Mars on that of Flammarion. John Carter is transported to Mars in a way described by Flammarion in Urania (1889), where a man from Earth is transported to Mars as an astral body where he wakes up to a lower gravity, two moons, strange plants and animals and several races of advanced humans. In The Plurality of Inhabited Worlds and Lumen, he further speculates about plant people and other creatures on far away planets, elements that would later appear in the Barsoom stories.\nThe Barsoom series, where John Carter in the late 19th century is mysteriously transported from Earth to a Mars suffering from dwindling resources, has been cited by many well known science fiction writers as having inspired and motivated them in their youth, as well as by key scientists involved in both space exploration and the search for extraterrestrial life. Elements of the books have been adapted by many writers, in novels, short stories, comics, television and film.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

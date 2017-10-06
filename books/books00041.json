@@ -8,16 +8,13 @@
         "http://www.gutenberg.org/files/51171/51171-h/images/illus.jpg"
     ], 
     "year": 1951, 
-    "images": [], 
     "id": 41, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "A Little Journey", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/A_Reverie_for_Mister_Ray", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.84, 
     "rating_count": 89544, 
@@ -60,8 +57,6 @@
     ], 
     "release_date": "2016-02-10T00:00:00", 
     "author": 18, 
-    "original_title": "A Reverie for Mister Ray", 
-    "summary": "A Reverie for Mister Ray: Reflections on Life, Death, and Speculative Fiction is a collection of nonfiction work by American writer Michael Bishop published in 2005 by PS Publishing. It includes essays and reviews from 1975 to 2004, originally published in a wide variety of newspapers, magazines, literary journals, and fanzines. Most of the pieces concern the speculative fiction genre. The book was edited by Michael H. Hutchins.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

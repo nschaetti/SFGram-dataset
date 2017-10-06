@@ -5,15 +5,18 @@
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
     "year": 1914, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/2/2f/AtTheEarthsCore.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/At_the_Earths_Core_1922_Dusk_Jacket.jpg"
+    ], 
     "id": 52, 
     "category": "Sound", 
-    "plot": "In response to a radio plea from Abner Perry, a scientist who with his friend David Innes has discovered the interior world of Pellucidar at the Earth's core, Jason Gridley launches an expedition to rescue Innes from the Korsars (corsairs), the scourge of the internal seas. He enlists Tarzan, and a fabulous airship is constructed to penetrate Pellucidar via the natural polar opening connecting the outer and inner worlds. The airship is crewed primarily by Germans, with Tarzan's Waziri warriors under their chief Muviro also along for the expedition.\nIn Pellucidar Tarzan and Gridley are each separated from the main force of the expedition and must struggle for survival against the prehistoric creatures and peoples of the inner world. Gridley wins the love of the native cave-woman Jana, the Red Flower of Zoram. Eventually everyone is reunited, and the party succeeds in rescuing Innes.\nAs Tarzan and the others prepare to return home, Gridley decides to stay to search for Frederich Wilhelm Eric von Mendeldorf and von Horst, one last member of the expedition who remains lost (The missing von Horst's adventures are told in a sequel, Back to the Stone Age, which does not involve either Gridley or Tarzan).", 
+    "plot": "The author relates how, traveling in the Sahara desert, he has encountered a remarkable vehicle and its pilot, David Innes, a man with a remarkable story to tell.\nDavid Innes is a mining heir who finances the experimental \"iron mole,\" an excavating vehicle designed by his elderly inventor friend Abner Perry. In a test run, they discover the vehicle cannot be turned, and it burrows 500 miles into the Earth's crust, emerging into the unknown interior world of Pellucidar. In Burroughs' concept, the Earth is a hollow shell with Pellucidar as the internal surface of that shell.\nPellucidar is inhabited by prehistoric creatures of all geological eras, and dominated by the Mahars, a species of flying reptile both intelligent and civilized, but which enslaves and preys on the local stone-age humans. Innes and Perry are captured by the Mahars' ape-like Sagoth servants and taken with other human captives to the chief Mahar city of Phutra. Among their fellow captives are the brave Ghak, the Hairy One, from the country of Sari, the shifty Hooja the Sly One and the lovely Dian the Beautiful of Amoz.\nDavid Innes, attracted to Dian the Beautiful, defends her against the unwanted attentions of Hooja the Sly One, but due to his ignorance of local customs she assumes he wants her as a slave, not a friend or lover, and subsequently snubs him. Only later, after Hooja slips their captors in a dark tunnel and forces Dian to leave with him, does David learn from Ghak the cause of the misunderstanding.\n\nIn Phutra the captives become slaves, and the two surface worlders learn more of Pellucidar and Mahar society. The Mahars are all female, reproducing parthogenetically by means of a closely guarded \"Great Secret\" contained in a Mahar book. David learns that they also feast on selected human captives in a secret ritual. In a disturbance, David manages to escape Phutra, becomes lost, and experiences a number of adventures before sneaking back into the city. Rejoining Abner, he finds the latter did not even realize he was gone, and the two discover that time in Pellucidar, in the absence of objective means to measure it, is a subjective thing, experienced by different people at different rates.\nObsessed with righting the wrong he has unwittingly done Dian, David Innes escapes again and eventually finds and wins her by defeating the malevolent Jubal the Ugly One, another unwanted suitor. David makes amends, and he and Dian wed.\nLater, along with Ghak and other allies, David Innes and Abner Perry lead a revolt of humankind against the cruel Mahars. Their foes are hampered by the loss of the Great Secret, which David has stolen and hidden. To further the struggle David returns to the Iron Mole, in which he and Dian propose to travel back to the surface world to procure outer world technology. Only after it is underway does he discover that Hooja the Sly One has substituted a drugged Mahar for Dian the Beautiful.\nBack in the world we know David meets the author, who after hearing his tale and seeing his prehistoric captive, helps him resupply and prepare the mole for the return to Pellucidar.", 
     "genres": [], 
     "copyright": "Copyrighted. Read the copyright notice inside this book for details.", 
     "title": "At the Earth's Core", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Tarzan_at_the_Earth%27s_Core", 
+        "url": "https://en.wikipedia.org/wiki/At_the_Earth%27s_Core_(novel)", 
         "found": true, 
         "year": -1
     }, 
@@ -57,8 +60,8 @@
     ], 
     "release_date": "2005-08-01T00:00:00", 
     "author": 2, 
-    "original_title": "Tarzan at the Earth's Core", 
-    "summary": "Tarzan at the Earth's Core is a novel by American writer Edgar Rice Burroughs, published in 1930. the thirteenth in his series of books about the title character Tarzan and the fourth in his series set in the interior world of Pellucidar.\n\n", 
+    "original_title": "At the Earth's Core (novel)", 
+    "summary": "At the Earth's Core is a 1914 fantasy novel by American writer Edgar Rice Burroughs, the first in his series about the fictional \"hollow earth\" land of Pellucidar. It first appeared as a four-part serial in All-Story Weekly from April 4\u201325, 1914. It was first published in book form in hardcover by A. C. McClurg in July, 1922.", 
     "content_cleaned": true, 
     "classes": [
         "science-fiction", 

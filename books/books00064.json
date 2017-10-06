@@ -5,15 +5,13 @@
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
     "year": 1915, 
-    "images": [], 
     "id": 64, 
     "category": "Text", 
-    "plot": "'The Return to Pellucidar'. David Innes goes for a war and becomes a POW again, while Abner Perry makes a balloon, which escapes with Dian the Beautiful in it.\n'Men of the Bronze Age'. Dian meets the people who have advanced to bronze age and is made a goddess.\n'Tiger Girl'. David Innes goes after Dian in another balloon, he plays the role of a god.\n'Savage Pellucidar'. Two separate search parties are looking for the lost ones without knowing the other has already found the ones they are seeking.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Pellucidar", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Savage_Pellucidar", 
+        "url": "https://en.wikipedia.org/wiki/Pellucidar_(novel)", 
         "found": true, 
         "year": -1
     }, 
@@ -60,8 +58,6 @@
     ], 
     "release_date": "1996-07-01T00:00:00", 
     "author": 2, 
-    "original_title": "Savage Pellucidar", 
-    "summary": "Savage Pellucidar is a 1963 fantasy story collection by Edgar Rice Burroughs, the seventh and final book in his series about the fictional \"hollow earth\" land of Pellucidar. It was published twelve years after Burroughs's death.\nLike a number of other posthumously published books by Burroughs, this book is not a novel but a collection of short stories. The first three stories, The Return to Pellucidar, Men of the Bronze Age and Tiger Girl, were published in Amazing Stories in February, March, and April 1942. The fourth story, Savage Pellucidar, was published for the first time in November 1963 after being discovered in a safe by Burroughs' son Hulbert in the early 1960s.", 
     "content_cleaned": true, 
     "classes": [
         "science-fiction", 

@@ -5,14 +5,18 @@
         "http://www.gutenberg.org/files/21873/21873-h/images/bantam_logo.jpg"
     ], 
     "year": 1962, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/3/37/PlanetOfTheDamned.jpg"
+    ], 
     "id": 67, 
     "category": "Text", 
+    "plot": "Brion Brandd lives on the planet Anvhar which due to an elliptical orbit experiences a year with a long cold winter and a short hot summer to which the population have become adapted. To avoid social problems during the winter period Anvhar has initiated a planet wide series of mental and physical games called the Twenties. The novel starts with Brandd winning the Twenties. As he recovers from the games Brandd meets Ihjel, a previous winner of the Twenties, who asks him to join a mission on the desert planet of Dis. The ruling class of Dis, the magter, have threatened to transport cobalt bombs onto a neighbouring planet if they refuse to surrender. As a result the planet is being blockaded and under threat of a pre-emptive nuclear strike. Brandd travels to Dis with Ihjel and a scientist from Earth called Lea but on arrival the trio are attacked and Ihjel is killed. After encounters with the local population and other humans Brandd starts to put together the reason for the magter's seemingly suicidal aggression. Brandd learns that most life on Dis survives the extremes of the planet by using symbiosis. The magter though have been infected by a parasite that destroys the higher functions of their brains. Eventually Brandd locates the cobalt bombs and disables the transmission mechanism allowing him to return home.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Planet of the Damned", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Planet_of_the_Damned", 
+        "found": true
     }, 
     "average_rating": 3.57, 
     "rating_count": 990, 
@@ -58,6 +62,8 @@
     ], 
     "release_date": "2007-06-20T00:00:00", 
     "author": 16, 
+    "original_title": "Planet of the Damned", 
+    "summary": "Planet of the Damned is a 1962 science fiction novel by American writer Harry Harrison. It was serialised in 1961 under the title Sense of Obligation and published under that name in 1967. It was nominated for the Hugo Award.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

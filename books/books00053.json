@@ -14,14 +14,20 @@
         "http://www.gutenberg.org/files/32530/32530-h/images/007-2.jpg"
     ], 
     "year": 1928, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/e/ee/Armageddon2419.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/4/47/Amazing_stories_192903.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg"
+    ], 
     "id": 53, 
     "category": "Text", 
+    "plot": "The main character and the narrator in Armageddon 2419 A.D. is Anthony Rogers, who later appears in the various comic strips, radio shows, and film serials that follow as \"Buck Rogers\". Rogers recounts the events of the \u201cSecond War of Independence\u201d that precedes the first victory of Americans over Hans, in which he plays an important role.\nBorn in 1898, he was a veteran of the Great War (World War I) and was by 1927 working for the American Radioactive Gas Corporation. He was investigating reports of unusual phenomena in abandoned coal mines near Wyoming Valley in Pennsylvania. On December 15, while investigating one of the lower levels of a mine, there was a cave-in. Exposed to radioactive gas, Rogers fell into \"a state of suspended animation, free from the ravages of katabolic processes, and without any apparent effect on physical or mental faculties.\" Rogers remained in \u201csleep\u201d for 492 years.\nHe awakens in 2419 and, thinking he has been asleep for just several hours, wanders for a few days in unfamiliar forests (what had been Pennsylvania almost five centuries before). He finally notices a wounded boy-like-figure, clad in strange clothes and moving in giant leaps, who appears to be under attack by others. He defends the person, killing one of the attackers and scaring off the rest. It turns out that he is helping a woman, Wilma Deering, who, on \u201cair patrol\u201d, was attacked by an enemy gang, the \"Bad Bloods\", which is presumed to have allied themselves with the Hans.\nWilma takes Rogers to her camp, where he is to meet the bosses of her gang. He is invited to either stay with their gang or leave and visit other gangs. They hope Rogers\u2019 experience and the knowledge he gained fighting in the First World War may be useful in their struggle with the Hans.\nRogers stays with the gang for several days, learns about the community life of Americans in the 25th century, and makes friends with the people, especially with Wilma, with whom he spends a lot of time. He also experiences a Han air raid, during which he manages to destroy one of the enemy ships. Rogers and his friends hurry to the bosses to report the incident and explain the method he has used when shooting the aircraft. As the raid has caused much destruction, there is suspicion that the location of the gang\u2019s industrial plants may have been revealed to the Hans by rival gangs. They await a fight with the Hans who will likely wish to take revenge for the destruction of their airship.\nThe bosses direct Wilma and Rogers to investigate the wreck. While there, a Han party arrives to investigate as well. Thanks to Rogers\u2019 quick and wise instructions, he and Wilma manage to escape as well to shoot down some more of the Han\u2019s ships. The day after, Wilma and Anthony get married, and Rogers becomes a member of the gang. Meantime, knowing Rogers\u2019 technique, the other gangs start the hunt for Han ships. The Hans respond by improving the security of their ships, forcing the Americans to develop new tactics to press their sudden advantage and identify the traitors working with the Han.\nAnthony develops a plan to get the records of the traitorous transaction, which are kept somewhere in the Han city of Nu-Yok. With the help of other gangs, he creates a team that will go with him. They learn that the traitors are the Sinsings, the gang located not far from Nu-Yok.\nThe Americans appreciate Rogers\u2019 courage and brave deeds and, grateful to him, make him the new boss. He instantly reorganizes the governing structures of the gang by creating new offices and makes plans for the battle with the Sinsings, again using the knowledge he gained in the First World War. The raid on Sinsings turns out to be a great success and gives the Americans the confidence in their ability to overcome the Hans.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Armageddon\u20142419 A.D.", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Armageddon_2419_A.D.", 
+        "found": true
     }, 
     "average_rating": 3.31, 
     "rating_count": 304, 
@@ -65,6 +71,8 @@
     ], 
     "release_date": "2010-05-26T00:00:00", 
     "author": 20, 
+    "original_title": "Armageddon 2419 A.D.", 
+    "summary": "Armageddon 2419 A.D. is Philip Francis Nowlan's novella which first appeared in the August 1928 issue of the pulp magazine Amazing Stories. A sequel called The Airlords of Han was published in the March 1929 issue of Amazing Stories. Both stories are now in the public domain in the US according to the Project Gutenberg website. In the 1960s, Nowlan's two novellas were combined by editor Donald A. Wollheim into one paperback novel, titled Armageddon 2419 A.D. The characters and setting eventually evolved into Buck Rogers.", 
     "content_cleaned": true, 
     "classes": [
         "science-fiction", 

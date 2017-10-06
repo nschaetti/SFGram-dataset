@@ -14,11 +14,12 @@
     "images": [], 
     "id": 22, 
     "category": "Text", 
+    "plot": "The Terran system is growing and expanding all the time. But an old and corrupt Centaurian Empire is holding Terra down, as it encircles the Terran system and will not let the humans grow out of their current empire. For this reason Terra is at war with Proxima Centauri and is trying to find a way of breaking free from the Centaurian's hold upon them.\nIn the war that results, Terra is continually coming up with new weapons to try and break the Centaurian defenses, but Proxima Centauri is also continually updating its defenses. Using spies and other such tactics, both parties find out about each other's advances, and no actual fighting ever occurs because both sides are too busy trying to beat each other with new technological developments. Terra even calculates their chances to win a war versus Centauri and updates these calculations with each new development, making their decision about a war rely on this calculation. Eventually Terra comes up with a concept for a bomb, called Icarus, that Proxima can not defend against because it travels at faster than light speeds, making use of the buildup of mass at near light speeds as a destructive agent when it slows down to below light speed. Then the odds start to side with Terra, and Terra prepares to fight with this new-found technology. There are two problems; the first is that Icarus does not yet work, which prevents Terra from using it against Proxima Centauri, and the second is that the existence of Cole on Terra is an \"unknown variable\" that confuses the war win probability computer. Hence, the book is titled \"The Variable Man\".\nThis is where Thomas Cole, known as The Variable Man, comes in. Cole is a man from the past, from 1913, the time just before the First World War. He is brought into the present (or future depending on perspective) as an accident via a Time Bubble that was used for research about the past. He escapes from the authority in the future and spends a lot of time running from them afterwards. It is, however, discovered that this man has a certain genius to fix things and make things work. This is because he comes out of a period of time when humans had a natural genius and an ability to invent things and to solve problems. It is at this point that the man working on the FTL (Faster Than Light) bomb realizes that The Variable Man is the only person who can make Icarus work. As a result, the engineer working on Icarus convinces The Variable Man to help them out. Icarus does eventually work, although not in the way that anyone may have wanted. Instead of emerging from FTL speed in the middle of Centarus (the sun around which the Centaurian Empire is built) and blowing it, and the surrounding Centaurian system, out of existence, it turns out that Cole transformed (or fixed) Icarus into a working hyperdrive. However the order for Terra to launch a full-scale attack against the Centaurian Empire (under the assumption that the majority of the enemy ships and planets would have been destroyed in the Icarus explosion) had already been given. The forces of Terra suffered a terrible defeat, losing many of their ships, yet due to the Variable Man having successfully wired Icarus it was now possible for Terra to travel beyond the Centaurian Empire's perimeter. Terra was no longer blocked into their tiny system, and there was no further need for war.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Variable Man", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Variable_Man_(collection)", 
+        "url": "https://en.wikipedia.org/wiki/The_Variable_Man", 
         "found": true, 
         "year": -1
     }, 
@@ -67,8 +68,8 @@
     ], 
     "release_date": "2010-04-27T00:00:00", 
     "author": 8, 
-    "original_title": "The Variable Man (collection)", 
-    "summary": "The Variable Man is a collection of science fiction stories by Philip K. Dick. It was first published by Ace Books in 1957. The stories had originally appeared in the magazines Space Science Fiction, Fantastic Universe and Galaxy Science Fiction\n\n", 
+    "original_title": "The Variable Man", 
+    "summary": "The Variable Man is a novella written and sold by Philip K. Dick before he had an agent. It was first published in Space Science Fiction (British), Vol. 2 No. 2, July 1953 and Space Science Fiction, September 1953 with the US publication illustrated by Alex Ebel. Despite the magazine cover dates it is unclear whether the first publication was in the UK or in the United States where magazines tended to be published farther ahead of their cover dates than in the UK. The Variable Man can be found in several collections of Dick's short stories, including The Variable Man and The Short Happy Life of the Brown Oxford.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 
