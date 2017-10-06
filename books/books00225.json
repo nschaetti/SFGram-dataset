@@ -7,15 +7,18 @@
         "http://www.gutenberg.org/files/18768/18768-h/images/cover.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png", 
+        "https://upload.wikimedia.org/wikipedia/en/d/dd/TheSkyIsFallingNovel.jpg"
+    ], 
     "id": 225, 
     "category": "Text", 
-    "plot": "Norah and Gavin Stoakes live in a peaceful English village until World War II causes them to be evacuated to Toronto. Norah, an independent ten-year-old, is angry with the evacuation and resents having to care for Gavin. Five-year-old Gavin does not understand the evacuation and is confused and frightened. When they arrive in Canada, Norah and Gavin are placed with Florence Ogilvie, a bossy and cold widow and her timid spinster daughter, Mary. The Ogilvies only wanted Gavin but were convinced to take Norah as well. Norah is acutely aware of their preference toward Gavin, rather than her. While Gavin quickly settles into his new home where he is spoilt and coddled by Florence, Norah cannot settle. She dislikes Florence, is bored in her strict new home, is unpopular at her new school, begins to wet the bed (something she was very angry at Gavin for doing on the boat), and constantly worries about what is happening to her family in England while Gavin is being spoilt by Florence.\nAs weeks go by, Norah\u2019s resentment of Florence increases. Although she begins to make new friends, her misery increases as she realizes she cannot return to England for much longer than she originally thought. After Florence and Norah have an argument, Norah decides to run away and return to England on her own. She originally leaves without Gavin but decides she cannot leave him to be spoilt by Florence in a foreign country. She takes him with her but they only get as far as the train station before Norah realizes her plan is impossible. They return to the Ogilvies, expecting punishment but find that Florence and Mary have been very worried. Florence apologizes for ignoring Norah in the past months and asks if they can begin again. Norah accepts the offer and attempts to try to live happily in Canada. Life begins to improve and Norah accepts Canada as her temporary home for the duration of the war.", 
+    "plot": "Computer engineer Dave Hansen is transported from Earth to a world reminiscent of Ancient Egypt, where the rules of science and physics are replaced by the rules of magic. Hanson was summoned to help save the world's sky from collapsing. The sky is a literal dome that arches above the world, with the sun and stars not massive celestial bodies trillions of miles away, but smaller lights that move about within the dome of the sky.\nHansen must find a way to reconcile his scientific knowledge with the magic of his new world and thus prevent the sky from falling, and then discover a method to return to Earth.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Sky Is Falling", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Sky_Is_Falling_(Pearson_novel)", 
+        "url": "https://en.wikipedia.org/wiki/The_Sky_Is_Falling_(Del_Rey_novel)", 
         "found": true, 
         "year": -1
     }, 
@@ -62,8 +65,8 @@
     ], 
     "release_date": "2006-07-06T00:00:00", 
     "author": 73, 
-    "original_title": "The Sky Is Falling (Pearson novel)", 
-    "summary": "The Sky is Falling is a young adult novel written by Kit Pearson in 1989. It is the first novel in the Guests of War trilogy, which follows the lives of Norah and Gavin Stoakes after they are evacuated from England to Canada during World War II.\nThe novel won the Canadian Library Association Book of the Year Award for Children and the Geoffrey Bilson Award (for best Canadian work of historical fiction written for youth).", 
+    "original_title": "The Sky Is Falling (Del Rey novel)", 
+    "summary": "The Sky Is Falling is a short novel by Lester del Rey.\nThe first and shortest version was published in Beyond Fantasy Fiction in July 1954 under the title \"No More Stars\" with the pseudonym Charles Satterfield. It first appeared in book form in 1963 with Badge of Infamy as \"Two Complete Novels\" in a Galaxy paperback original. The first book-length version was published in 1973 by Ace Books.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

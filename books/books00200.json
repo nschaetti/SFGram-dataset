@@ -25,16 +25,13 @@
         "http://www.gutenberg.org/files/32026/32026-h/images/image_w.jpg"
     ], 
     "year": 1958, 
-    "images": [], 
     "id": 200, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The World That Couldn't Be", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Bloodchild_and_Other_Stories", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.77, 
     "rating_count": 72, 
@@ -59,8 +56,6 @@
     ], 
     "release_date": "2010-04-17T00:00:00", 
     "author": 56, 
-    "original_title": "Bloodchild and Other Stories", 
-    "summary": "Bloodchild and Other Stories is the only collection of science fiction stories and essays by American writer Octavia E. Butler. Each story and essay features an afterword by Butler. \"Bloodchild\", the title story, won the Hugo Award and Nebula Award.\nOriginally published in 1995, the 2005 expanded edition contains two additional stories: \"Amnesty\" and \"The Book of Martha\".", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

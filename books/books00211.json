@@ -13,14 +13,17 @@
         "http://www.gutenberg.org/files/51804/51804-h/images/illus6.jpg"
     ], 
     "year": 1965, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/c/ce/APlagueOfPythons.jpg"
+    ], 
     "id": 211, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Plague of Pythons", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/A_Plague_of_Pythons", 
+        "found": true
     }, 
     "average_rating": 3.56, 
     "rating_count": 50, 
@@ -62,6 +65,8 @@
     ], 
     "release_date": "2016-04-19T00:00:00", 
     "author": 40, 
+    "original_title": "A Plague of Pythons", 
+    "summary": "A Plague of Pythons is a science fiction novel by American writer Frederik Pohl. It was originally published in 1965, and an updated version was published in 1984 under the title Demon in the Skull. The title derives from the words \"Domina Pythonis\" used as part of an exorcism ritual performed in the first chapter to scare away the \"demons\" that seem to possess people in the novel.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

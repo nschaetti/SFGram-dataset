@@ -9,16 +9,13 @@
         "http://www.gutenberg.org/files/29720/29720-h/images/002-2.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 290, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Hall of Mirrors", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Honeymoon_in_Hell", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.72, 
     "rating_count": 332, 
@@ -65,8 +62,6 @@
     ], 
     "release_date": "2009-08-17T00:00:00", 
     "author": 58, 
-    "original_title": "Honeymoon in Hell", 
-    "summary": "Honeymoon in Hell is a science fiction short story by Fredric Brown, first published in 1950. In 1958, this was the title story of a short story anthology.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

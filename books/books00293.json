@@ -7,17 +7,13 @@
         "http://www.gutenberg.org/files/28832/28832-h/images/frontis.jpg"
     ], 
     "year": 1931, 
-    "images": [], 
     "id": 293, 
     "category": "Text", 
-    "plot": "Fresh out of Training Pool, a trade school for spaceship crews, Dane Thorson discovers that his first assignment as apprentice-Cargo Master puts him on Solar Queen, a Free Trader: basically an interstellar tramp freighter. At the end of Dane\u2019s first flight the ship\u2019s captain gains an opportunity to bid on a planet newly opened for possible trade and the crew goes all in to get the contract for a planet named Limbo. The information on the planet, which comes with the contract, does not look promising, but things look up a bit when a team of archaeologists hires Solar Queen to take them to Limbo.\nOn Limbo the archaeologists set up camp in the ruins of a Forerunner town, a trace of the people who ran a galactic empire long before humans ventured into space and who had wiped themselves out in an interstellar war. Dane and four others go exploring, to try to find intelligent life and potential trade goods. One of the group, Ali Kamil, disappears, apparently kidnapped by people using alien technology.\nSpooked, a group including Dane goes to the ruins to check up on the archaeologists and finds that they have disappeared. Suspicion has them return to Solar Queen by an alternate route and they begin to find wrecked spaceships, some from thousands of years previous, that show signs of having been looted. Approaching their landing site, they find Solar Queen under siege by pirates and they discern that the archaeologists are part of the pirate gang.\nWhile watching their ship from cover, Dane and his companions capture a pirate and invade the pirates\u2019 underground base. There they find Forerunner technology still operating. In particular, they see two of the pirates operating a machine that draws in spaceships and crashes them on the planet. They also see signals indicating that one of the pirates\u2019 own ships is being pursued by a Stellar Patrol cruiser.\nDane and his companions shut down the Forerunner base as the Patrol ship approaches and then try to fight their way out of the base. As the Solar Queen's crew engages the pirates in a blaster battle, the Patrol comes in and rescues them, putting a complete end to the pirates\u2019 operation.\nThe Patrol insists that Solar Queen's crew give up their contract for Limbo, due to Forerunner artifacts, but they are allowed to take over the contract of one of the pirates\u2019 victims, for trade with a planet called Sargol.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Sargasso of Space", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Sargasso_of_Space", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.87, 
     "rating_count": 1030, 
@@ -64,8 +60,6 @@
     ], 
     "release_date": "2009-05-16T00:00:00", 
     "author": 83, 
-    "original_title": "Sargasso of Space", 
-    "summary": "\"The Sargasso of Space\" is also the title of a 1931 sf novelette by Edmond Hamilton\nSargasso of Space is a science fiction novel by author Andrew North (pseudonym of Alice Mary Norton, also known as Andre Norton). It was published in 1955 by Gnome Press in an edition of 4,000 copies.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

@@ -4,17 +4,13 @@
     "author_name": "Robert Sheckley", 
     "images_urls": [], 
     "year": 1956, 
-    "images": [], 
     "id": 231, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Copyrighted. Read the copyright notice inside this book for details.", 
     "title": "Bad Medicine", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Mad_in_America", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.76, 
     "rating_count": 154, 
@@ -50,8 +46,6 @@
     ], 
     "release_date": "2005-10-01T00:00:00", 
     "author": 23, 
-    "original_title": "Mad in America", 
-    "summary": "Mad in America: Bad Science, Bad Medicine, and the Enduring Mistreatment of the Mentally Ill is a 2002 book by medical journalist Robert Whitaker, in which he examines and questions the efficacy, safety, and ethics of past psychiatric interventions for severe mental illnesses, particularly antipsychotics. The book is organized as a historical timeline of treatment development in the United States.\nMad in America received positive reviews from the general public and mixed reviews from the medical community, which criticized some bias in sourcing but nonetheless acknowledged the need to address the critical questions raised by the book regarding modern psychiatry.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

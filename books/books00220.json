@@ -11,17 +11,13 @@
         "http://www.gutenberg.org/files/50928/50928-h/images/illus4.jpg"
     ], 
     "year": 1963, 
-    "images": [], 
     "id": 220, 
     "category": "Text", 
-    "plot": "The Hunter, an alien lifeform (when not inside another being, resembling a four-pound green jellyfish) with the ability to live in symbiosis with and within another creature, is in hot pursuit of another of his kind. Both crash their ships into Earth, in the Pacific Ocean, and both survive the crashes.\nThe Hunter makes its way to shore (its erstwhile host having been killed in the crash) and takes up residence in the nearest human being it can find (as it turns out, fifteen-year-old Robert Kinnaird) without letting the human being know. By the time it has figured out enough of what goes on inside a human being to look through Bob's eyes, it is shocked to find itself within an air vessel, being carried further away from its quarry every second. As it happens, Bob is simply returning to a New England boarding school from his home on an industrial island in the Western Pacific.\nOnce Bob arrives at school, the Hunter sees no alternative to communicating with his host. After initial attempts produce panic in the boy, the Hunter eventually finds a way to convince Bob of his presence. Bob is very accepting of his guest, perhaps beyond what would be expected of a teenage boy who learns another entity is inside him, observing his every move. The two plot a way to return home. The puzzle distracts Bob from his studies, leading to a decline in grades that the school authorities ascribe to homesickness, and he is sent home for the remainder of the term.\nUpon arrival, the two begin to seek out their quarry. Bob is injured by an accident. The Hunter is able to hold the wound together, but he can't stop Bob from limping, and Bob is sent to the island doctor. They see no alternative to confiding in the doctor (the Hunter is forced to show his own form to convince the man) and the doctor becomes an ally in their search. Which of the many humans on the island is the host to their quarry? It is worse than a needle in a haystack (thus the title) because a needle at least looks like a needle, not a piece of straw.\nThe Hunter is able to solve the riddle by observing the behavior of the island people. Bob's father, known for his attention to detail and safety, has been taking amazing risks. He is at least unconsciously aware that an accident will have no ill consequences. The quarry resides within him. The Hunter confirms this, and Bob and the alien have a new puzzle\u2014how to get the alien out of Mr. Kinnaird's body without harming the man?\nThis time, Bob comes up with the solution. He places himself in the middle of a large number of (empty) oil cans, uses a little actual oil to start a small fire, making it look like there will be a huge explosion shortly, and calls his father for help. The fugitive alien, fearful of being killed in the explosion, knocks out his host and removes himself from Mr. Kinnaird's unconscious body. As soon as the alien is a few feet away from Bob's father, the boy grabs the one full oil can, races over to the alien, pours oil over it, and lights it on fire. He then brings his father to the doctor.\nBob wishes to know the Hunter's plans now that his job is done. The Hunter knows the chances of returning home are minuscule, and hopes to stay with Bob. Bob is happy for this to happen, at least for now, as there is a more immediate problem at hand: Mr. Kinnaird is fine, but they had better come up with a good story, or the Hunter will have to use the net he has laid under Bob's skin to assuage the pain of a spanking. The novel ends without revealing whether this gambit is successful.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Hot Planet", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Needle_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.67, 
     "rating_count": 128, 
@@ -69,8 +65,6 @@
     ], 
     "release_date": "2016-01-14T00:00:00", 
     "author": 70, 
-    "original_title": "Needle (novel)", 
-    "summary": "Needle is a 1950 novel written by Hal Clement, originally published the previous year in Astounding Science Fiction magazine. The book was notable in that it broke new ground in the science fiction field by postulating an alien lifeform, not hostile, which could live within the human body. Also published as From Outer Space, the book would, in 1978, spark the sequel Through the Eye of a Needle.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

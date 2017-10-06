@@ -34,15 +34,16 @@ Ven-US
 p16
 sS'images'
 p17
-(lp18
-sS'id'
-p19
+NsS'id'
+p18
 I233
 sS'category'
-p20
+p19
 VText
+p20
+sS'plot'
 p21
-sS'genres'
+NsS'genres'
 p22
 (lp23
 sS'copyright'
@@ -58,7 +59,7 @@ p28
 (dp29
 S'url'
 p30
-Vhttps://en.wikipedia.org/wiki/Atlantis:_The_Lost_Continent_Revealed
+S'https://en.wikipedia.org/wiki/The_Lost_Continent:_The_Story_of_Atlantis'
 p31
 sS'found'
 p32
@@ -74,96 +75,96 @@ F3.83
 sS'rating_count'
 p36
 I40307
-sS'content_available'
+sS'publisher_in'
 p37
+NsS'content_available'
+p38
 I01
 sS'goodreads'
-p38
-(dp39
+p39
+(dp40
 g30
 Vhttps://www.goodreads.com/book/show/26.The_Lost_Continent
-p40
+p41
 sg32
 I01
 sg33
 I1989
 ssS'similar_books'
-p41
-(lp42
+p42
+(lp43
 VPecked To Death By Ducks
-p43
-aVFull Circle
 p44
-aVRiding the Iron Rooster
+aVFull Circle
 p45
-aVMcCarthy's Bar: A Journey of Discovery In Ireland
+aVRiding the Iron Rooster
 p46
-aVHunting Mister Heartbreak: A Discovery of America
+aVMcCarthy's Bar: A Journey of Discovery In Ireland
 p47
-aVVideo Night in Kathmandu and Other Reports from the Not-So-Far East
+aVHunting Mister Heartbreak: A Discovery of America
 p48
-aVHolidays in Hell: In Which Our Intrepid Reporter Travels to the World's Worst Places and Asks, "What's Funny About This" (O'Rourke, P. J.)
+aVVideo Night in Kathmandu and Other Reports from the Not-So-Far East
 p49
-aVRoad Trip USA: Cross-Country Adventures on America's Two-Lane Highways
+aVHolidays in Hell: In Which Our Intrepid Reporter Travels to the World's Worst Places and Asks, "What's Funny About This" (O'Rourke, P. J.)
 p50
-aVPint-Sized Ireland: In Search of the Perfect Guinness
+aVRoad Trip USA: Cross-Country Adventures on America's Two-Lane Highways
 p51
-aVLong Way Round: Chasing Shadows Across the World
+aVPint-Sized Ireland: In Search of the Perfect Guinness
 p52
-aVBaghdad without a Map and Other Misadventures in Arabia
+aVLong Way Round: Chasing Shadows Across the World
 p53
-aVBeauty Tips from Moose Jaw: Travels in Search of Canada
+aVBaghdad without a Map and Other Misadventures in Arabia
 p54
-asS'description'
+aVBeauty Tips from Moose Jaw: Travels in Search of Canada
 p55
-V'I come from Des Moines. Somebody had to'<br /><br />And, as soon as Bill Bryson was old enough, he left. Des Moines couldn't hold him, but it did lure him back. After ten years in England, he returned to the land of his youth, and drove almost 14,000 miles in search of a mythical small town called Amalgam, the kind of trim and sunny place where the films of his youth were set. Instead, his search led him to Anywhere, USA; a lookalike strip of gas stations, motels and hamburger outlets populated by lookalike people with a penchant for synthetic fibres. Travelling around thirty-eight of the lower states - united only in their mind-numbingly dreary uniformity - he discovered a continent that was doubly lost; lost to itself because blighted by greed, pollution, mobile homes and television; lost to him because he had become a stranger in his own land.<br /><br />The Lost Continent is a classic of travel literature - hilariously, stomach-achingly funny, yet tinged with heartache - and the book that first staked Bill Bryson's claim as the most beloved writer of his generation.
+asS'description'
 p56
-sS'format'
+V'I come from Des Moines. Somebody had to'<br /><br />And, as soon as Bill Bryson was old enough, he left. Des Moines couldn't hold him, but it did lure him back. After ten years in England, he returned to the land of his youth, and drove almost 14,000 miles in search of a mythical small town called Amalgam, the kind of trim and sunny place where the films of his youth were set. Instead, his search led him to Anywhere, USA; a lookalike strip of gas stations, motels and hamburger outlets populated by lookalike people with a penchant for synthetic fibres. Travelling around thirty-eight of the lower states - united only in their mind-numbingly dreary uniformity - he discovered a continent that was doubly lost; lost to itself because blighted by greed, pollution, mobile homes and television; lost to him because he had become a stranger in his own land.<br /><br />The Lost Continent is a classic of travel literature - hilariously, stomach-achingly funny, yet tinged with heartache - and the book that first staked Bill Bryson's claim as the most beloved writer of his generation.
 p57
-NsS'gutenberg'
+sS'format'
 p58
-(dp59
+NsS'gutenberg'
+p59
+(dp60
 g30
 Vhttp://www.gutenberg.org/ebooks/285
-p60
-sS'num'
 p61
+sS'num'
+p62
 I285
 ssS'authors'
-p62
-(lp63
+p63
+(lp64
 I76
 asS'pages'
-p64
-I299
-sS'isbn13'
 p65
-V9780060920081
+I299
+sS'publisher'
 p66
-sS'language'
+NsS'isbn13'
 p67
-VEnglish
+V9780060920081
 p68
-sS'countries'
+sS'language'
 p69
-(lp70
+VEnglish
+p70
+sS'countries'
+p71
+(lp72
 I1
 asS'release_date'
-p71
-S'2008-07-09T00:00:00'
-p72
-sS'author'
 p73
+S'2008-07-09T00:00:00'
+p74
+sS'author'
+p75
 I76
 sS'original_title'
-p74
-VAtlantis: The Lost Continent Revealed
-p75
-sS'summary'
 p76
-VAtlantis: The Lost Continent Revealed is a pseudohistorical book by Charles Berlitz. He lists several alternative theories on where the possible mythical Atlantis may have been situated, and cites different legends and stories that may support the different theories. All areas are and theories are covered starting with Plato, Crete (Thera), the Azores and Edgar Cayce's involvement in the story.\u000aBerlitz, author of many popular books on the paranormal and unexplained phenomena, researched Atlantis and wrote a 1969 book titled The Mystery of Atlantis. Berlitz not only became convinced that Atlantis was real but also that it was the source of the Bermuda Triangle mystery, a subject he explored in his 1974 best-seller The Bermuda Triangle. Illustrated in the book he strongly believed extra-terrestrials were in some way involved in Atlantis and the Bermuda Triangle. His ideas have been described as pseudoscientific. Berlitz's wild ideas about the Bermuda Triangle \u2014 and, by extension, Atlantis \u2014 were definitively debunked the following year by researcher Larry Kusche, author of 1975 The Bermuda Triangle Mystery \u2014 Solved.\u000aIn 1984, Berlitz wrote Atlantis: The Lost Continent Revealed to counter his shot down ideas from critics.\u000a\u000a
+NsS'summary'
 p77
-sS'content_cleaned'
+NsS'content_cleaned'
 p78
 I00
 sS'classes'
@@ -373,7 +374,9 @@ asS'loc_class'
 p181
 VPR: Language and Literatures: English literature
 p182
-sS'n_authors'
+sS'cover_artist'
 p183
+NsS'n_authors'
+p184
 I1
 sb.

@@ -8,16 +8,13 @@
         "http://www.gutenberg.org/files/29142/29142-h/images/002-2.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
     "id": 271, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Keep Out", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Honeymoon_in_Hell", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.76, 
     "rating_count": 1403, 
@@ -64,8 +61,6 @@
     ], 
     "release_date": "2009-06-17T00:00:00", 
     "author": 58, 
-    "original_title": "Honeymoon in Hell", 
-    "summary": "Honeymoon in Hell is a science fiction short story by Fredric Brown, first published in 1950. In 1958, this was the title story of a short story anthology.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

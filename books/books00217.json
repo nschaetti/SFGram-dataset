@@ -4,16 +4,13 @@
     "author_name": "Fredric Brown", 
     "images_urls": [], 
     "year": 1957, 
-    "images": [], 
     "id": 217, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Happy Ending", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ed_the_Happy_Clown", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.73, 
     "rating_count": 356, 
@@ -61,8 +58,6 @@
     ], 
     "release_date": "2009-06-22T00:00:00", 
     "author": 58, 
-    "original_title": "Ed the Happy Clown", 
-    "summary": "Ed the Happy Clown is a graphic novel by Canadian cartoonist Chester Brown. Its title character is a large-headed, childlike children's clown who undergoes one horrifying affliction after another. The story is a dark, humorous mix of genres and features scatological humour, sex, body horror, extreme graphic violence, and blasphemous religious imagery. Central to the plot are a man who cannot stop defecating; the head of a miniature, other-dimensional Ronald Reagan attached to the head of Ed's penis; and a female vampire who seeks revenge on her adulterous lover who had murdered her to escape his sins.\nThe surreal, largely improvised story began with a series of unrelated short strips that Brown went on to tie into a single narrative. Brown first serialized it in his comic book Yummy Fur, and the first, incomplete collected edition in 1989, titled Ed the Happy Clown: A Yummy Fur Book. Shortly after, Brown became unsatisfied with the direction of the serial; he brought it to an abrupt end in the eighteenth issue of Yummy Fur and turned to autobiography. A second edition titled Ed the Happy Clown: The Definitive Ed Book appeared in 1992 with an altered ending and most of the later parts of the series eliminated. The contents of this edition were re-serialized with extensive endnotes in 2005\u20132006 as a nine-issue Ed the Happy Clown series and collected as Ed the Happy Clown: A Graphic-Novel in 2012.\nThe story is seen by many critics as a highlight of the 1980s North American alternative comics scene. It has left an influence on contemporary alternative cartoonists such as Daniel Clowes, Seth, and Dave Sim, and has won a Harvey and other awards. Canadian film director Bruce McDonald has had the rights since 1991 to make an Ed movie, but the project has struggled to find financial backing.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

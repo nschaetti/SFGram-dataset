@@ -8,16 +8,13 @@
         "http://www.gutenberg.org/files/30199/30199-h/images/002-2.jpg"
     ], 
     "year": 1952, 
-    "images": [], 
     "id": 267, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "McIlvaine's Star", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Harrigan%27s_File", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.33, 
     "rating_count": 22, 
@@ -45,8 +42,6 @@
     ], 
     "release_date": "2009-10-07T00:00:00", 
     "author": 43, 
-    "original_title": "Harrigan's File", 
-    "summary": "Harrigan's File is a collection of stories by author August Derleth. It was released in 1975 by Arkham House in an edition of 4,102 copies. The book collects all of Derleth's science fiction. The stories are about newspaper reporter Tex Harrigan.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

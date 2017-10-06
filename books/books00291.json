@@ -9,16 +9,13 @@
         "http://www.gutenberg.org/files/24913/24913-h/images/002-2.jpg"
     ], 
     "year": 1949, 
-    "images": [], 
     "id": 291, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Monster", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Monster_Manual", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.36, 
     "rating_count": 104977, 
@@ -65,8 +62,6 @@
     ], 
     "release_date": "2008-03-25T00:00:00", 
     "author": 93, 
-    "original_title": "Monster Manual", 
-    "summary": "The Monster Manual (MM) is the primary bestiary sourcebook for monsters in the Dungeons & Dragons (D&D) fantasy role-playing game, first published in 1977 by TSR. It includes monsters derived from mythology, and folklore, as well as creatures created for D&D specifically. It describes each with game-specific statistics (such as the monster's level or number of hit dice), and a brief description of its habits and habitats. Most of the entries also have an image of the creature. Along with the Player's Handbook and Dungeon Master's Guide, it is one of the three \"core rulebooks\" in most editions of the D&D game. Several editions of the Monster Manual have been released for each edition of D&D. It was the first hardcover book of the D&D series. Due to the level of detail and illustration included, it was cited as a pivotal example of a new style of wargame books. Future editions would draw on various sources and act as a compendium of published monsters.", 
     "content_cleaned": true, 
     "classes": [
         "favorites", 

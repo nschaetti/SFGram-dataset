@@ -13,16 +13,13 @@
         "http://www.gutenberg.org/files/26521/26521-page-images/p0150.png"
     ], 
     "year": 1960, 
-    "images": [], 
     "id": 226, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Earthmen Bearing Gifts", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Nightmares_and_Geezenstacks", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.39, 
     "rating_count": 63, 
@@ -47,8 +44,6 @@
     ], 
     "release_date": "2008-09-04T00:00:00", 
     "author": 58, 
-    "original_title": "Nightmares and Geezenstacks", 
-    "summary": "Nightmares and Geezenstacks is a short story collection consisting of 47 horror, science fiction and crime stories written by Fredric Brown. It was first published in 1961 by Bantam Books and most recently republished by Valancourt Books.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

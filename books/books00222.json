@@ -22,14 +22,14 @@
         "http://www.gutenberg.org/files/41651/41651-h/images/plug.jpg"
     ], 
     "year": 1940, 
-    "images": [], 
     "id": 222, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Futuria Fantasia, Spring 1940", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Futuria_Fantasia", 
+        "found": true
     }, 
     "average_rating": 3.19, 
     "rating_count": 29, 

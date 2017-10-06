@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/51774/51774-h/images/illus3.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 228, 
     "category": "Text", 
-    "plot": "When recovering alcoholic Chloe walks into her apartment to find her fianc\u00ef\u00bf\u00bd having sex with her boss, the first thing she does is walk into a bar and break the sobriety she's worked so hard for. She passes out and awakens in a strange new world called The Wasteland. In this land magic and gunfights are a way of life, as is the rampant corruption that threatens everyone in it. Siblings Kitty and Jack inform her that she is an \"Arrival\", a person that has arrived in this world from another time and place. Chloe also discovers that the Arrivals are capable of coming back to life if they die, although nobody knows why this happens and this regeneration is not always guaranteed. Together she and the siblings' rag-tag band must fight against Ajani, a wealthy but insane man set on bending The Wasteland to his will.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Weirdest World", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Arrivals", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.2, 
     "rating_count": 5, 
@@ -43,8 +39,6 @@
     ], 
     "release_date": "2016-04-17T00:00:00", 
     "author": 74, 
-    "original_title": "The Arrivals", 
-    "summary": "The Arrivals is a 2013 Weird West novel by American author Melissa Marr. It is her second adult novel, following her 2011 novel Graveminder. It was first published on July 2, 2013 through William Morrow and follows a group of people that must find a way to survive in strange new surroundings.", 
     "content_cleaned": true, 
     "classes": [
         "science-fiction", 

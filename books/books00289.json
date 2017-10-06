@@ -9,16 +9,13 @@
         "http://www.gutenberg.org/files/18949/18949-h/images/ill021.jpg"
     ], 
     "year": 1951, 
-    "images": [], 
     "id": 289, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Day of the Moron", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Masud_Rana", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.45, 
     "rating_count": 53, 
@@ -43,8 +40,6 @@
     ], 
     "release_date": "2006-07-31T00:00:00", 
     "author": 19, 
-    "original_title": "Masud Rana", 
-    "summary": "Masud Rana is a fictional character created in 1966 by writer Qazi Anwar Hussain, who featured him in over 400 novels. Hussain created the adult spy-thriller series Masud Rana, at first modelled after James Bond, but expanded widely. So far 450 books have been published in this series which has gained a lot of popularity in Bangladesh. Written from the 1960s and continuing to present day, books are published almost every month by Sheba Prokashoni, one of the most popular publishing house of Bangladesh. Although Qazi Anwar Hussain started the series, it is an open secret that nowadays he doesn't write it any more. A group of ghostwriters are employed to produce all the new Masud Rana novels.\nThe Masud Rana books describes the adventures of its eponymous hero Masud Rana, an international Espionage Agent of Bangladeshi origin, closely resembling James Bond in his expertise with weapons and love for women. Although the soul author of the series is Qazi Anwar Hussain, it is known that Hussain liberally extracts segments of plots from popular Western spy thrillers of contemporary period. Nonetheless, the series became a boon for young people in post-war Bangladesh, who had few entertainment alternatives in an era pre-dating cable TV, the web sites and smart phones. The books caused concern among some middle-class parents because of their occasional racy contents, and reading Masud Rana was an activity often frowned upon. The series eventually ran to well over four hundred individual titles.\nApart from the novels, Masud Rana has also been adapted for one Bengali film and one TV Drama.", 
     "content_cleaned": true, 
     "classes": [
         "sci-fi", 
