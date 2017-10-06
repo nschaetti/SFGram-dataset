@@ -22,16 +22,13 @@
         "http://www.gutenberg.org/files/27053/27053-page-images/p105.png"
     ], 
     "year": 1940, 
-    "images": [], 
     "id": 351, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Day Time Stopped Moving", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.08, 
     "rating_count": 33, 
@@ -57,8 +54,6 @@
     ], 
     "release_date": "2008-10-26T00:00:00", 
     "author": 113, 
-    "original_title": "Howl's Moving Castle", 
-    "summary": "Howl's Moving Castle is a fantasy novel by British author Diana Wynne Jones, first published in 1986 by Greenwillow Books of New York. It was a runner-up for the annual Boston Globe\u2013Horn Book Award and it won the Phoenix Award twenty years later, recognizing its rise from relative obscurity. In 2004 it was adapted as an animated film of the same name, which was nominated for the Academy Award for Best Animated Feature.\nHowl's Moving Castle is the first novel in the series of books called the Howl Series. This series also includes Castle in the Air, published in 1990, and House of Many Ways, published in 2008. WorldCat reports that Howl's Moving Castle is the author's work most widely held in participating libraries, followed by its first sequel Castle in the Air.\nFor the idea Jones \"very much\" thanked \"a boy in a school I was visiting\", whose name she had noted but lost and forgotten. He had \"asked me to write a book titled The Moving Castle Comes to Life.\"", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

@@ -7,17 +7,13 @@
         "http://www.gutenberg.org/files/32579/32579-h/images/illus.jpg"
     ], 
     "year": 1946, 
-    "images": [], 
     "id": 312, 
     "category": "Text", 
-    "plot": "Terra Amata is about a man named Chancelade, and his detailed view of an otherwise ordinary life, from his early childhood to his grave.\nTerra Amata is an archaeological site near the French town of Nice.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Micro-Man", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Terra_Amata_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.11, 
     "rating_count": 918, 
@@ -63,8 +59,6 @@
     ], 
     "release_date": "2010-05-29T00:00:00", 
     "author": 103, 
-    "original_title": "Terra Amata (novel)", 
-    "summary": "Terra Amata is an early fictional novel by French Nobel laureate J. M. G. Le Cl\u00ef\u00bf\u00bdzio.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

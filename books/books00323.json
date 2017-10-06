@@ -27,17 +27,13 @@
         "http://www.gutenberg.org/files/25035/25035-page-images/p0115.png"
     ], 
     "year": 1957, 
-    "images": [], 
     "id": 323, 
     "category": "Text", 
-    "plot": "The narrator, an elderly, unnamed Manhattan lawyer with a comfortable business, already employs two scriveners to copy legal documents by hand, Nippers and Turkey. An increase in business leads him to advertise for a third, and he hires the forlorn-looking Bartleby in the hope that his calmness will soothe the irascible temperaments of the other two.\nAt first, Bartleby produces a large volume of high-quality work. But one day, when asked to help proofread a document, Bartleby answers with what soon becomes his perpetual response to every request \u2013 \"I would prefer not to.\" To the dismay of the lawyer and the irritation of the other employees, Bartleby performs fewer and fewer tasks and eventually none, instead staring for long periods of time at a brick wall just outside one of the office's windows. The narrator makes several futile attempts to reason with him and to learn something about him; when he stops by the office one Sunday morning, he discovers that Bartleby has started living there.\nTension builds as business associates wonder why Bartleby is always there. Sensing the threat to his reputation but emotionally unable to evict Bartleby, the narrator moves his business out. Soon the new tenants come to ask for help in removing Bartleby, who now sits on the stairs all day and sleeps in the building's doorway at night. The narrator visits him and attempts to reason with him, and surprises even himself by inviting Bartleby to come live with him, but Bartleby declines the offer. Later the narrator returns to find that Bartleby has been forcibly removed and imprisoned in the Tombs. Finding Bartleby glummer than usual during a visit, the narrator bribes a turnkey to make sure he gets enough food. When the narrator returns a few days later to check on Bartleby, he has died of starvation, having preferred not to eat.\nSome time afterwards, the narrator hears a rumor that Bartleby had worked in a dead letter office and reflects that dead letters would have made anyone of Bartleby's temperament sink into an even darker gloom. The story closes with the narrator's resigned and pained sigh, \"Ah Bartleby! Ah humanity!\".", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Happy Unfortunate", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.38, 
     "rating_count": 26, 
@@ -63,8 +59,6 @@
     ], 
     "release_date": "2008-04-10T00:00:00", 
     "author": 50, 
-    "original_title": "Bartleby, the Scrivener", 
-    "summary": "\"Bartleby, the Scrivener: A Story of Wall Street\" is a short story by the American writer Herman Melville, first serialized anonymously in two parts in the November and December 1853 issues of Putnam's Magazine, and reprinted with minor textual alterations in his The Piazza Tales in 1856. A Wall Street lawyer hires a new clerk who, after an initial bout of hard work, refuses to make copy and any other task required of him, with the words \"I would prefer not to\".\nNumerous essays have been published on what, according to scholar Robert Milder, \"is unquestionably the masterpiece of the short fiction\" in the Melville canon.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

@@ -6,16 +6,13 @@
         "http://www.gutenberg.org/files/28643/28643-h/images/001.png"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 363, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Belly Laugh", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Backstage_Lensman", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.72, 
     "rating_count": 12391, 
@@ -60,8 +57,6 @@
     ], 
     "release_date": "2009-04-30T00:00:00", 
     "author": 49, 
-    "original_title": "Backstage Lensman", 
-    "summary": "\"Backstage Lensman\" is a short story by Randall Garrett, a parody or pastiche of the Lensman series of E.E. 'Doc' Smith. It was first written in 1949, lost and then rewritten in 1978.\nGarrett claimed that \"Doc read the first version of 'Backstage Lensman' and laughed all through the convention. It was his suggestion that I call the spaceship Dentless rather than Dauntless.\"\nGarrett plays on the rather breathless and adjective-heavy prose of Smith\u2014long strings of adjectives and adverbs, many of them compounded by hyphens, or offering the highest extremes, e.g. inconceivable, completely, irresistible, unimaginably, ultra-, indescribable. \"The awesome awfulness of the unimaginable vastness of the intergalactic void\", \"the depths of degradation, the valleys of vileness, the caverns of corruption\" or \"beams, rods, cones, stilettos, icepicks, corkscrews, knives, forks, and spoons of energy raved against the screens of the Dentless.\"\nThere is an almost complete lack of levity, for example the character Ginnison observes with a complete lack of irony that, \"I got a line through Banjo Freeko, the planetary dictator, but only after I blew up the mining industry on his planet and killed a few thousand innocent people -- regretfully, of course. But I do that all the time. It revolts me, but I do it.\" However, the long, stern descriptions are given a final twist in an appended sentence. The \"blocky\" plotting and the characteristic long background discussions are parodied, as is the unevenly applied physics (Smith often has problems with mass, inertia and gravity).\nCharacter names are often puns\u2014Frite of the Meich, Gimble Ginnison, the Starboard Admiral Partisipple, Hess von Baschenvolks, Flatworthy, Woozle, Shadrack, Houston Carbarn, Banlon of Downlo, Banjo Freeko. Personal characteristics are exaggerated\u2014- Ginnison uses phrases like \"Jeepers!\" and \"Gee whiz!\"; Shadrack describes himself as \"a yellow-bellied, chicken-livered, jelly-gutted coward.\"\nThis story appeared in:\nThe magazine Analog, June 1978\nTakeoff, a collection of short fiction and poems by Randall Garrett, 1980\nShaggy B.E.M. Stories, an anthology edited by Mike Resnick, 1988", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

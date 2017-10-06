@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/50819/50819-h/images/illus.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 347, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "A Bad Day for Sales", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_SFWA_Grand_Masters,_Volume_1", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.33, 
     "rating_count": 6, 
@@ -43,8 +40,6 @@
     ], 
     "release_date": "2016-01-01T00:00:00", 
     "author": 32, 
-    "original_title": "The SFWA Grand Masters, Volume 1", 
-    "summary": "The SFWA Grand Masters, Volume 1 is an anthology of science fiction short works edited by Frederik Pohl. It was first published in hardcover by Tor Books in June 1999, and in trade paperback by the same publisher in August 2001. It has been translated into Italian.\nThe book collects eighteen novelettes, short stories and essays by Robert A. Heinlein, Jack Williamson, Clifford D. Simak, L. Sprague de Camp and Fritz Leiber, the five initial SFWA Grand Masters named by the Science Fiction and Fantasy Writers of America between 1975 and 1981, together with a general introduction and introductions and recommended reading lists for each Grand Master by the editor.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

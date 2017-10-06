@@ -4,16 +4,13 @@
     "author_name": "Cory Doctorow", 
     "images_urls": [], 
     "year": 2000, 
-    "images": [], 
     "id": 349, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Copyrighted. Read the copyright notice inside this book for details.", 
     "title": "Shadow of the Mothaship", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/A_Place_So_Foreign_and_Eight_More", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 2.92, 
     "rating_count": 25, 
@@ -40,8 +37,6 @@
     ], 
     "release_date": "2005-11-20T00:00:00", 
     "author": 33, 
-    "original_title": "A Place So Foreign and Eight More", 
-    "summary": "A Place So Foreign and Eight More is a collection of short stories by Canadian-British writer Cory Doctorow. Six of these stories were released electronically under a Creative Commons license. A paperback edition was issued in New York by publisher Four Walls Eight Windows in 2003 with ISBN 1-56858-286-2. The collection features an introduction by Bruce Sterling, and includes \"0wnz0red\", which was nominated for the 2003 Nebula Award for Best Novelette.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

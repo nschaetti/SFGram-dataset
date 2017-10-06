@@ -10,17 +10,13 @@
         "http://www.gutenberg.org/files/51651/51651-h/images/illus4.jpg"
     ], 
     "year": 1962, 
-    "images": [], 
     "id": 356, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Conditionally Human", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.11, 
     "rating_count": 7, 
@@ -48,8 +44,6 @@
     ], 
     "release_date": "2016-04-03T00:00:00", 
     "author": 116, 
-    "original_title": "A Canticle for Leibowitz", 
-    "summary": "A Canticle for Leibowitz is a post-apocalyptic science fiction novel by American writer Walter M. Miller, Jr., first published in 1960. Set in a Catholic monastery in the desert of the Southwestern United States after a devastating nuclear war, the story spans thousands of years as civilization rebuilds itself. The monks of the fictional Albertian Order of Leibowitz take up the mission of preserving the surviving remnants of man's scientific knowledge until the day the outside world is again ready for it.\nA Canticle for Leibowitz is based on three short stories Miller contributed to The Magazine of Fantasy & Science Fiction. It is the only novel published by the author during his lifetime. Considered one of the classics of science fiction, it has never been out of print and has seen over 25 reprints and editions. Appealing to mainstream and genre critics and readers alike, it won the 1961 Hugo Award for best science fiction novel.\nInspired by the author's participation in the Allied bombing of the monastery at Monte Cassino during World War II, the novel is considered a masterpiece by literary critics. It has been compared favorably with the works of Evelyn Waugh, Graham Greene, and Walker Percy, and its themes of religion, recurrence, and church versus state have generated a significant body of scholarly research. Miller's follow-up work, Saint Leibowitz and the Wild Horse Woman, was published posthumously in 1997.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

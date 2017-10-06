@@ -10,16 +10,13 @@
         "http://www.gutenberg.org/files/30833/30833-h/images/image_004.jpg"
     ], 
     "year": 1964, 
-    "images": [], 
     "id": 342, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Eyes Have It", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Lord_Darcy_(omnibus)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.55, 
     "rating_count": 620, 
@@ -64,8 +61,6 @@
     ], 
     "release_date": "2010-01-02T00:00:00", 
     "author": 49, 
-    "original_title": "Lord Darcy (omnibus)", 
-    "summary": "Lord Darcy is a 1983 omnibus collection of two previous fantasy collections and one fantasy novel by Randall Garrett featuring his alternate history detective Lord Darcy, published by Doubleday as a selection in its Science Fiction Book Club. The component books had originally been published in 1966, 1979 and 1981. The collection was reissued in 1999. A second edition, edited by Eric Flint, was published by Baen Books in 2002. The second edition reorganized the contents, added two stories not included in the original edition or its component volumes, and was edited slightly to remove duplicative material.\nThe Lord Darcy stories are set in an alternate world whose history supposedly diverged from our own during the reign of King Richard the Lionheart, in which King John never reigned and most of western Europe and the Americas are united in an Angevin Empire whose continental possessions were never lost by that king. In this world a magic-based technology has developed in place of the science of our own world.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

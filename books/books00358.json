@@ -11,16 +11,13 @@
         "http://www.gutenberg.org/files/32395/32395-h/images/image_t.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
     "id": 358, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "No Strings Attached", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Robots_and_Changelings", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.57, 
     "rating_count": 2141, 
@@ -68,8 +65,6 @@
     ], 
     "release_date": "2010-05-16T00:00:00", 
     "author": 73, 
-    "original_title": "Robots and Changelings", 
-    "summary": "Robots and Changelings is the second collection of fantasy and science fiction stories by Lester del Rey, published by Ballantine Books in 1957.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

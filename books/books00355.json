@@ -31,17 +31,13 @@
         "http://www.gutenberg.org/files/19526/19526-h/images/im224.png"
     ], 
     "year": 1952, 
-    "images": [], 
     "id": 355, 
     "category": "Text", 
-    "plot": "Note that depending upon the edition of the novel, the dates of The Stand occur in either 1980-1981, 1985-1986, or 1990-1991.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Stand", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Stand", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.34, 
     "rating_count": 439560, 
@@ -81,8 +77,6 @@
     ], 
     "release_date": "2006-10-11T00:00:00", 
     "author": 115, 
-    "original_title": "The Stand", 
-    "summary": "The Stand is a post-apocalyptic horror/fantasy novel by American author Stephen King. It expands upon the scenario of his earlier short story \"Night Surf\" and outlines the total breakdown of society after the accidental release of a strain of influenza that had been modified for biological warfare causes an apocalyptic pandemic which kills off the majority of the world's human population.\nThe novel was originally published in 1978 in hardcover, with a setting date of 1980. The first paperback release in 1980 changed the setting date to 1985. The book was later re-released in 1990 as The Stand: The Complete & Uncut Edition; King restored some text originally cut for brevity, added and revised sections, changed the setting of the story to 1990, and updated a few pop culture references accordingly.\nThe Stand was nominated for the World Fantasy Award for Best Novel in 1979, and was adapted into both a television miniseries for ABC and a graphic novel published by Marvel Comics. It marks the first appearance of Randall Flagg, King's recurring antagonist, whom King would bring back many times in his later writings.\nKing dedicated the book to his wife, Tabitha: \"For Tabby: This dark chest of wonders.\"", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

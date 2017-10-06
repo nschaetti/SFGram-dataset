@@ -10,14 +10,18 @@
         "http://www.gutenberg.org/files/51233/51233-h/images/illus3.jpg"
     ], 
     "year": 1959, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c8/Galaxy_195104.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg"
+    ], 
     "id": 361, 
     "category": "Text", 
+    "plot": "The human population is now 3,000,000 highbred elite and 5,000,000,000 morons, and the \"average\" IQ is 45 (whereas in the real world, an IQ score of 100 is average, by definition). Several generations before the onset of the story, the small number of remaining 100-and-higher-IQ technocrats, ignored by the general public about the impending population problem, work feverishly to keep the morons alive.\nThe elite have had little success in solving the Problem (also called \"Poprob\", for 'population problem', in the story) for several reasons:\nThe morons must be managed or else there will be chaos, resulting in billions of deaths;\nIt is not possible to sterilize all of the morons;\nPropaganda against large families is insufficient, because every biological drive is towards fertility (the story predates the development of hormonal contraception).\nThe elite had tried everything rational to solve the population problem, but the problem could not be solved rationally. The solution required a way of thinking that no longer existed \u2013 Barlow's \"vicious self-interest\" and knowledge of the distant history.\nBarlow derives a solution based on his experience in scamming people into buying worthless land and knowledge of lemmings' mass migration into the sea: convince the morons to travel to Venus in spaceships that will kill their passengers out of view of land. (The story predates the moon landing, and the safety of space travel is summed up in a description of a rocket that crashed on the moon.) Propaganda depicts Venus as a tropical paradise, with \"blanket trees\", \"ham bushes\" and \"soap roots\". In a nationalistic frenzy, every country tries to send as many of their people to Venus as possible to stake their claim.\nBarlow's help includes using his knowledge of Nazi propaganda tactics: postcards are sent from the supposedly happy new residents of Venus to relatives left behind, describing a wonderful, easy life, in the same way as fraudulent postcards were sent to relatives of those incinerated in the Nazi death-camps.\nBarlow is cheated by his erstwhile assistants. Barlow does not realize that the elite despise him as they despise all people from the past for having not solved The Problem earlier. In the end, Barlow is placed on a spaceship and sent to share the fate of his victims.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Marching Morons", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Marching_Morons_(collection)", 
+        "url": "https://en.wikipedia.org/wiki/The_Marching_Morons", 
         "found": true, 
         "year": -1
     }, 
@@ -67,8 +71,8 @@
     ], 
     "release_date": "2016-02-16T00:00:00", 
     "author": 51, 
-    "original_title": "The Marching Morons (collection)", 
-    "summary": "The Marching Morons (and Other Famous Science Fiction Stories) is a collection of stories by Cyril M. Kornbluth, originally published in paperback by Ballantine Books in 1959. Ballantine reissued the collection in 1963. A Spanish translation, Desfile de Cretines, appeared in 1964. In 1972, the novella from which the collection takes its name was selected by SFWA members as one of the ten best novellas published in the genre before 1966.", 
+    "original_title": "The Marching Morons", 
+    "summary": "For the Kornbluth short story collection, see The Marching Morons (collection)\n\n\"The Marching Morons\" is a science fiction story by American writer Cyril M. Kornbluth, originally published in Galaxy in April 1951. It was included in The Science Fiction Hall of Fame, Volume Two after being voted one of the best novellas up to 1965.\nThe story is set hundreds of years in the future: the date is 7-B-936. John Barlow, a man from the past put into suspended animation by a freak accident involving a dental drill and anesthesia, is revived in this future. The world seems mad to Barlow until Tinny-Peete explains the Problem of Population: due to a combination of intelligent people not having children and excessive breeding by less intelligent people (see Fertility and intelligence), the world is full of morons, with the exception of an elite few who work slavishly to keep order. Barlow, who was a shrewd real estate con man in his day, has a solution to sell to the elite, in exchange for being made World Dictator.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

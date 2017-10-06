@@ -8,16 +8,13 @@
         "http://www.gutenberg.org/files/29455/29455-h/images/image_002.jpg"
     ], 
     "year": 1933, 
-    "images": [], 
     "id": 332, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Invasion", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Other_Side_of_Here", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.15, 
     "rating_count": 24458, 
@@ -64,8 +61,6 @@
     ], 
     "release_date": "2009-07-19T00:00:00", 
     "author": 61, 
-    "original_title": "The Other Side of Here", 
-    "summary": "The Other Side of Here is an early science fiction novel by Murray Leinster, first published as a five-part Astounding Stories serial in 1936, under the title \"The Incredible Invasion\". It was first published in book form, in a \"thorough revision\", as one side of an Ace Double, in 1955. While no further American editions have been issued, the novel has been translated into Italian (L'altra dimensione, 1955), Spanish (Ataque desde la Cuarta Dimensi\u00ef\u00bf\u00bdn, 1956), French (L'autre c\u00ef\u00bf\u00bdt\u00ef\u00bf\u00bd du monde, 1958) and German (Invasion aus einer anderen Welt, 1959). The novels tells the story of \"an invasion from the fourth dimension\", foiled by an insurrection against the invaders' home government.", 
     "content_cleaned": true, 
     "classes": [
         "currently-reading", 

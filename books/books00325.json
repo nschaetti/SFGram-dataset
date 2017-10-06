@@ -6,16 +6,13 @@
         "http://www.gutenberg.org/files/51668/51668-h/images/illus.jpg"
     ], 
     "year": 1962, 
-    "images": [], 
     "id": 325, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Dream World", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/World%27s_Best_Science_Fiction:_1969", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.89, 
     "rating_count": 9, 
@@ -60,8 +57,6 @@
     ], 
     "release_date": "2016-04-06T00:00:00", 
     "author": 74, 
-    "original_title": "World's Best Science Fiction: 1969", 
-    "summary": "World's Best Science Fiction: 1969 is an anthology of science fiction short stories edited by Donald A. Wollheim and Terry Carr, the fifth volume in a series of seven. It was first published in paperback by Ace Books in 1969, followed by a hardcover edition issued in September of the same year by the same publisher as a selection of the Science Fiction Book Club.\nThe book collects nineteen novelettes and short stories by various science fiction authors, with an introduction by the editors. The stories were previously published in 1968 in the magazines Galaxy Magazine, The Magazine of Fantasy & Science Fiction, Playboy, New Worlds, Amazing Stories, If, and Analog Science Fiction -> Science Fact; and the anthologies The Farthest Reaches and New Writings in SF 12.", 
     "content_cleaned": true, 
     "classes": [
         "classics", 

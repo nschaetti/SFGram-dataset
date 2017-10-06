@@ -5,17 +5,13 @@
     "author_name": "Cory Doctorow", 
     "images_urls": [], 
     "year": 1998, 
-    "images": [], 
     "id": 380, 
     "category": "Text", 
-    "plot": "The novel is a fixup of two novellas, \"Jury Duty\" and \"Appeals Court\", along with a new third section, \"Parole Board\". The book, set in the late 21st century, takes a generally comic look at the technological singularity through the eyes of Huw, a technophobic member of a \"Tech Jury Service\" tasked with determining the value of various technological innovations and deciding whether to release them.", 
     "genres": [], 
     "copyright": "Copyrighted. Read the copyright notice inside this book for details.", 
     "title": "Craphound", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Rapture_of_the_Nerds", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.67, 
     "rating_count": 296, 
@@ -62,8 +58,6 @@
     ], 
     "release_date": "2005-11-20T00:00:00", 
     "author": 33, 
-    "original_title": "The Rapture of the Nerds", 
-    "summary": "The Rapture of the Nerds is a 2012 novel by Cory Doctorow and Charles Stross. It was released on September 4, 2012 through Tor Books and as an ebook, DRM free, under the CC BY-NC-ND. The book can also be downloaded for free.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 
