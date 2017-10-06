@@ -28,17 +28,13 @@
         "http://www.gutenberg.org/files/23102/23102-page-images/p037.png"
     ], 
     "year": 1951, 
-    "images": [], 
     "id": 677, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "This World Must Die!", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_King_Must_Die", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 2.82, 
     "rating_count": 10, 
@@ -66,8 +62,6 @@
     ], 
     "release_date": "2007-10-20T00:00:00", 
     "author": 94, 
-    "original_title": "The King Must Die", 
-    "summary": "The King Must Die is a 1958 bildungsroman and historical novel by Mary Renault that traces the early life and adventures of Theseus, a hero in Greek mythology. Naturally, it is set in Ancient Greece: Troizen, Corinth, Eleusis, Athens, Knossos in Crete, and Naxos. Rather than retelling the myth, Renault constructs an archaeologically and anthropologically plausible story that might have developed into the myth. She captures the essentials while removing the more fantastical elements, such as monsters and the appearances of gods. The King Must Die was lauded by critics, with New York Times reviewer Orville Prescott calling it \"one of the truly fine historical novels of modern times.\" Renault wrote a sequel, The Bull from the Sea, in 1962.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

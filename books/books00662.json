@@ -57,16 +57,13 @@
         "http://www.gutenberg.org/files/22132/22132-page-images/q119.png"
     ], 
     "year": 1931, 
-    "images": [], 
     "id": 662, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Giants on the Earth", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/When_Giants_Walked_the_Earth", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.98, 
     "rating_count": 3980, 
@@ -113,8 +110,6 @@
     ], 
     "release_date": "2007-07-24T00:00:00", 
     "author": 139, 
-    "original_title": "When Giants Walked the Earth", 
-    "summary": "When Giants Walked the Earth: A Biography of Led Zeppelin is a book written by Mick Wall, published in 2008. It is a biography of the English rock band Led Zeppelin.\nThe book tells the life stories of the band's members. The narrative of Led Zeppelin is told through a mixture of prose and interview excerpts. It was based partly on interviews which were conducted by Wall with all the surviving members of the band.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

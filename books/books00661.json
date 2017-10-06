@@ -4,17 +4,13 @@
     "author_name": "Robert F. Young", 
     "images_urls": [], 
     "year": 1956, 
-    "images": [], 
     "id": 661, 
     "category": "Text", 
-    "plot": "A native Californian, his work is set almost entirely in Southern California, and the book is about two \"lusty\" gay lovers from Los Angeles named Nick and Jeff who at the beginning of the novel were having passionate sex when two \"wildly homophobic cops\" break in on them. They fight back and while trying to defend themselves, they take one cop as hostage. A SWAT team shows up and accidentally kills the cop hostage and blames the two lovers. After that incident the two are on the run from the authorities throughout Los Angeles on the way to Mexico.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Collector's Item", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Adrenaline_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.6, 
     "rating_count": 20, 
@@ -41,8 +37,6 @@
     ], 
     "release_date": "2009-05-22T00:00:00", 
     "author": 153, 
-    "original_title": "Adrenaline (novel)", 
-    "summary": "Adrenaline is the first novel written by James Robert Baker (1946\u20131997), an American author of sharply satirical, predominantly gay-themed transgressional fiction.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

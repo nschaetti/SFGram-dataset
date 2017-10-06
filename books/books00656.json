@@ -4,16 +4,13 @@
     "author_name": "Alan Edward Nourse", 
     "images_urls": [], 
     "year": 1957, 
-    "images": [], 
     "id": 656, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Coffin Cure", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Tiger_by_the_Tail_and_Other_Science_Fiction_Stories", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.38, 
     "rating_count": 18, 
@@ -38,8 +35,6 @@
     ], 
     "release_date": "2008-01-14T00:00:00", 
     "author": 108, 
-    "original_title": "Tiger by the Tail and Other Science Fiction Stories", 
-    "summary": "Tiger by the Tail and Other Science Fiction Stories is the first collection of short works by Alan E. Nourse, issued in hardcover by publisher Donald McKay in 1961. It was reprinted in paperback by MacFadden Books in 1964 and 1968. A British hardcover edition was published by Dennis Dobson in 1962, with a paperback reprint, retitled Beyond Infinity, following from Corgi Books in 1964.", 
     "content_cleaned": true, 
     "classes": [
         "randoms", 

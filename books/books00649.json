@@ -8,16 +8,13 @@
         "http://www.gutenberg.org/files/24152/24152-h/images/title.jpg"
     ], 
     "year": 1955, 
-    "images": [], 
     "id": 649, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Guardians", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Guardians_of_Ga%27Hoole", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.14, 
     "rating_count": 136535, 
@@ -54,8 +51,6 @@
     ], 
     "release_date": "2008-01-03T00:00:00", 
     "author": 160, 
-    "original_title": "Guardians of Ga'Hoole", 
-    "summary": "Guardians of Ga\u2019Hoole is a fantasy book series written by Kathryn Lasky and published by Scholastic. The series, which was intended to end in 2008 with the publication of The War of the Ember until a prequel The Rise of a Legend was published in 2013, has a total of sixteen books. Apart from the main series there are a few more books and spin offs set in the same universe. The first three books of the series were adapted into the animated 3D film Legend of the Guardians: The Owls of Ga'Hoole, directed by Zack Snyder.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

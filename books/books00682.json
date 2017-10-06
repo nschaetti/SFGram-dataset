@@ -11,17 +11,13 @@
         "http://www.gutenberg.org/files/51122/51122-h/images/illus4.jpg"
     ], 
     "year": 1963, 
-    "images": [], 
     "id": 682, 
     "category": "Text", 
-    "plot": "The storyline introduces giant, technologically superior aliens who have conquered Earth. People live like vermin in holes in the insulation material of the walls of the homes the monsters have built, sneaking out to steal food and other items from the aliens. A complex social and religious order has evolved, with women preserving knowledge and working as healers, while men serve as warriors and thieves. For the aliens, human beings are just a nuisance, neither civilized nor intelligent, and are generally regarded as vermin to be exterminated.\nThe novel opens with the story of Eric, a boy who is a member of a tribe that calls itself \"Mankind\". In order for Eric to become an adult, he must undergo a ceremonial rite of passage in which he must venture out on his own into monster territory and steal some item from them which the tribe can then use for themselves. As he is about to embark on his adventure, Eric learns that his uncle has been a secret supporter of a very different philosophy - the idea that \"Ancestor-Science\" failed to repel the aliens when they first came and therefore to seek the old \"science\" would be futile. It would be wiser to try and gain knowledge of \"Alien-Science\" and then to turn it against the monsters. Eric goes out into alien territory to prove himself and ends up meeting some more people who also believe that alien science is the answer to escaping from their predicament. However, on his return to the burrows, Eric finds an insurrection led by his uncle has failed and he is now an outcast. What follows is Eric's journey from boy to man, from follower to leader and ultimately from captivity to deliverance.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Men in the Walls", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Of_Men_and_Monsters", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.52, 
     "rating_count": 114072, 
@@ -67,8 +63,6 @@
     ], 
     "release_date": "2016-02-03T00:00:00", 
     "author": 98, 
-    "original_title": "Of Men and Monsters", 
-    "summary": "Of Men and Monsters is a science fiction novel by American writer William Tenn, published in June 1968 as a paperback by Ballantine Books. The book is an expansion of his story \"The Men in the Walls\", originally published in Galaxy Science Fiction in October 1963. Of Men and Monsters is Tenn\u2019s only full-length novel, as the majority of his other stories are novellas.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

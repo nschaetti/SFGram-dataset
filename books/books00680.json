@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/51075/51075-h/images/illus2.jpg"
     ], 
     "year": 1950, 
-    "images": [], 
     "id": 680, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "A Stone and a Spear", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Spear_of_Destiny", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 0.0, 
     "rating_count": 0, 
@@ -47,8 +43,6 @@
     ], 
     "release_date": "2016-01-29T00:00:00", 
     "author": 129, 
-    "original_title": "Indiana Jones and the Spear of Destiny", 
-    "summary": "Indiana Jones and The Spear of Destiny is a four-issue comic book mini-series published by Dark Horse Comics from April to July 1995. It was their seventh series about the adult Indiana Jones.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

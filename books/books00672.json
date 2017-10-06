@@ -7,17 +7,13 @@
         "http://www.gutenberg.org/files/50884/50884-h/images/illus.jpg"
     ], 
     "year": 2002, 
-    "images": [], 
     "id": 672, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Today is Forever", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Forever_Evil", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.05, 
     "rating_count": 822, 
@@ -60,8 +56,6 @@
     ], 
     "release_date": "2016-01-09T00:00:00", 
     "author": 162, 
-    "original_title": "Forever Evil", 
-    "summary": "\"Forever Evil\" is a 2013\u20132014 crossover comic book storyline published by DC Comics that began in September 2013 and ended in May 2014, consisting of an eponymous, central miniseries written by Geoff Johns and art by David Finch. It is the first line wide crossover since The New 52 reboot of the DC Universe, and focuses on all the villains of the DC Universe. The miniseries spins out of the events in \"Trinity War\". Johns revealed in August 2013, that the Crime Syndicate, an evil version of the Justice League from Earth-3 in the Multiverse, are the true villains of the event and not the previously thought Secret Society. The event was originally scheduled to end in March with Forever Evil #7, yet ended in May 2014, after the final issue got delayed to April, and eventually again to May. The final issue's delay was due to Johns realizing he needed more pages to conclude the story than originally intended.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

@@ -34,16 +34,13 @@
         "http://www.gutenberg.org/files/26772/26772-page-images/p0029.png"
     ], 
     "year": 1960, 
-    "images": [], 
     "id": 658, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "A Question of Courage", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Profiles_in_Courage", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.29, 
     "rating_count": 19, 
@@ -70,8 +67,6 @@
     ], 
     "release_date": "2008-10-04T00:00:00", 
     "author": 68, 
-    "original_title": "Profiles in Courage", 
-    "summary": "Profiles in Courage is a 1957 Pulitzer Prize-winning volume of short biographies describing acts of bravery and integrity by eight United States Senators. The book profiles senators who defied the opinions of their party and constituents to do what they felt was right and suffered severe criticism and losses in popularity because of their actions. It begins with a quote from Edmund Burke on the courage of the English statesman Charles James Fox, in his 1783 attack upon the tyranny of the East India Company in the House of Commons.\nThe book focuses intensely on mid-19th century antebellum America and the efforts of Senators to delay the Civil War. Profiles was widely celebrated and became a best seller.\nJohn F. Kennedy is credited as the author, although the extent of his contribution has been questioned. In his 2008 autobiography, Kennedy's speechwriter Ted Sorensen wrote that, while Kennedy provided the theme and supervised its production, Sorensen had written most of the book.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

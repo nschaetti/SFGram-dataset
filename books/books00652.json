@@ -17,16 +17,13 @@
         "http://www.gutenberg.org/files/32127/32127-h/images/image_y1.jpg"
     ], 
     "year": 1952, 
-    "images": [], 
     "id": 652, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Wheels Within", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Three_Men_on_the_Bummel", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.04, 
     "rating_count": 171, 
@@ -65,15 +62,13 @@
     "authors": [
         121
     ], 
-    "language": "English", 
     "isbn13": "9780007123094", 
+    "language": "English", 
     "countries": [
         2
     ], 
     "release_date": "2010-04-24T00:00:00", 
     "author": 121, 
-    "original_title": "Three Men on the Bummel", 
-    "summary": "Three Men on the Bummel (also known as Three Men on Wheels) is a humorous novel by Jerome K. Jerome. It was published in 1900, eleven years after his most famous work, Three Men in a Boat (To Say Nothing of the Dog).\nThe sequel brings back the three companions who figured in Three Men in a Boat, this time on a bicycle tour through the German Black Forest. D. C. Browning's introduction to the 1957 Everyman's edition says \"Like most sequels, it has been compared unfavourably with its parent story, but it was only a little less celebrated than Three Men in a Boat and was for long used as a school book in Germany.\"[1] Jeremy Nicholas of the Jerome K. Jerome Society regards it as a \"comic masterpiece\" containing \"set pieces\" as funny or funnier than those in its predecessor, but, taken as a whole, not as satisfying due to the lack of as strong a unifying thread.[2]", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 
