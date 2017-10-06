@@ -216,16 +216,13 @@
         "http://www.gutenberg.org/files/25780/25780-page-images/p0202.png"
     ], 
     "year": 1922, 
-    "images": [], 
     "id": 711, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Fire People", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/To_Build_a_Fire", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.21, 
     "rating_count": 4745, 
@@ -268,8 +265,6 @@
     ], 
     "release_date": "2008-06-13T00:00:00", 
     "author": 71, 
-    "original_title": "To Build a Fire", 
-    "summary": "\"To Build a Fire\" is a short story by American author Jack London. There are two versions of this story where one was published in 1902 and the other in 1908. The story that was written in 1908 has become an often anthologized classic while the 1902 story becomes a lesser known story. The 1908 version is about an unnamed protagonist who ventures out in the sub-zero tundra of the Yukon Territory, accompanied by his dog, to visit his friends. Though he was warned by an older man about the dangers of hiking alone, the protagonist ignores him. The man then underestimates the harsh weather conditions and slowly began to freeze to death. The man then tries to build a fire three different times, but all got put out. After his final attempt of a fire, he then freezes to death in the snow.\nThe 1902 version describes a similar situation as the 1908 story but with a different plot. Through the structure and story line are similar in both, in 1902 the weather is not as cold and horrendous, no dog follows the protagonist, the fire is not doused, and the man (named Tom Vincent) suffers only from permanent frostbite but survives to be a more melancholy but wiser person.\nThe 1908 \"To Build a Fire\" is an oft-cited example of the naturalist movement that portrays the conflict of man vs. nature. It also reflects what London learned in the Yukon Territory.\n\n", 
     "content_cleaned": false, 
     "classes": [
         "to-read", 

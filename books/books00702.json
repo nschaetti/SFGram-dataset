@@ -12,16 +12,13 @@
         "http://www.gutenberg.org/files/32079/32079-h/images/image_w.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
     "id": 702, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Small World of M-75", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Science_Fiction_Adventures_in_Mutation", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.0, 
     "rating_count": 3, 
@@ -46,8 +43,6 @@
     ], 
     "release_date": "2010-04-21T00:00:00", 
     "author": 231, 
-    "original_title": "Science Fiction Adventures in Mutation", 
-    "summary": "Science Fiction Adventures in Mutation is a theme anthology of science fiction stories edited by Groff Conklin, published in hardcover by Vanguard Press in 1955. An abridged paperback edition was issued by Berkley Books in 1965.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "short-stories", 

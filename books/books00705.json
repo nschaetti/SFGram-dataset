@@ -7,17 +7,13 @@
         "http://www.gutenberg.org/files/23920/23920-h/images/003.png"
     ], 
     "year": 1959, 
-    "images": [], 
     "id": 705, 
     "category": "Text", 
-    "plot": "Three generations of the Leonides family live together under wealthy patriarch Aristide. His first wife died; her sister Edith has cared for the household since then. His second wife is the indolent Brenda, decades his junior, suspected of having a clandestine love affair with the grandchildren's tutor. After Aristide is poisoned by his own eye medicine (eserine), his granddaughter Sophia tells narrator and fianc\u00ef\u00bf\u00bd Charles Hayward that they cannot marry until the killer is apprehended. Charles' father, \"The Old Man\", is the Assistant Commissioner of Scotland Yard, so Charles investigates from the inside along with assigned detective, Chief Inspector Taverner.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "A Matter of Proportion", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Crooked_House", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 2.67, 
     "rating_count": 6, 
@@ -41,8 +37,6 @@
     ], 
     "release_date": "2007-12-19T00:00:00", 
     "author": 232, 
-    "original_title": "Crooked House", 
-    "summary": "Crooked House is a work of detective fiction by Agatha Christie first published in the US by Dodd, Mead and Company in March 1949 and in the UK by the Collins Crime Club on 23 May of the same year.\nThe action takes place in and near London in the autumn of 1947. Christie said this and Ordeal by Innocence were her favourites. It is one of only five Christie novels not to have received a screen adaptation (although one is planned) - the others being Death Comes as the End, Destination Unknown, Passenger to Frankfurt, and Postern of Fate.", 
     "content_cleaned": true, 
     "classes": [
         "science-fiction", 

@@ -9,16 +9,13 @@
         "http://www.gutenberg.org/files/51662/51662-h/images/illus2.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
     "id": 726, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Breakdown", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/For_Your_Eyes_Only_(short_story_collection)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.02, 
     "rating_count": 7948, 
@@ -66,8 +63,6 @@
     ], 
     "release_date": "2016-04-05T00:00:00", 
     "author": 234, 
-    "original_title": "For Your Eyes Only (short story collection)", 
-    "summary": "For Your Eyes Only is a collection of short stories by the British author Ian Fleming, featuring the fictional British Secret Service agent Commander James Bond. It was first published by Jonathan Cape on 11 April 1960. It marked a change of format for Fleming, who had previously written James Bond stories only as full-length novels.\nThe collection contains five short stories: \"From a View to a Kill\", \"For Your Eyes Only\", \"Quantum of Solace\", \"Risico\" and \"The Hildebrand Rarity\". Four of the stories were adaptations of plots for a television series that was never filmed, while the fifth Fleming had written previously but not published. Fleming undertook some minor experiments with the format, including a story written as an homage to W. Somerset Maugham, an author he greatly admired.\nElements from the stories have been used in a number of the Eon Productions James Bond film series, including the 1981 film, For Your Eyes Only, starring Roger Moore as James Bond. The film used some elements and characters from the short stories \"For Your Eyes Only\" and \"Risico\". \"From a View to a Kill\" also gave part of its title (but no characters or plot elements) to the fourteenth Bond film, A View to a Kill (1985). Plot elements from \"The Hildebrand Rarity\" were used in the sixteenth Bond film, Licence to Kill (1989), and the twenty-fourth Bond film Spectre references the title. \"Quantum of Solace\" was used as the title for the twenty-second Bond film.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

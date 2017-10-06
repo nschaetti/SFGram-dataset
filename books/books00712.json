@@ -13,17 +13,13 @@
         "http://www.gutenberg.org/files/32212/32212-h/images/image_t.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 712, 
     "category": "Text", 
-    "plot": "Following the events in Origin in Death, Lt. Eve Dallas only wants a break as Christmas nears, but her past is coming back to haunt her. A television news special about her and her husband Roarke's involvement in the destruction of the Icove center airs on national television, and in Texas, catches the eye of Trudy Lombard, who promptly comes to New York City with her son and her daughter-in-law. Lombard shows up at Eve's office, and Eve remembers everything about her.\nEve was taken in by Lombard, after she killed her father. Lombard was an abusive woman, who often made Eve go without food, clean the floors with a toothbrush, locked her in her bed room without light, and scrubbed her skin raw in ice cold baths, all the time telling her she deserved it because she was a 'filthy' little girl who'd already 'engaged in sexual relations' (referring to the beatings and rape committed by Eve's father) before the age of ten.\nEve realizes Lombard wants something, and her suspicions come true when Lombard tries to blackmail her for $2 million. When Eve refuses, Lombard tries to blackmail Roarke, who also refuses. Shortly after, Lombard is found dead. At first it seems like a classical murder; Lombard has been hit on the head by a blunt murder weapon and articles of clothing, her purse, and her tele-link are missing. Eve Dallas however, who is familiar with Trudy Lombard, does not believe it to be so clear a homicide, and Trudy Lombard's daughter in law, Zana Kline, seems too innocent to not have a hand in the murder; however, because there is no evidence pointing to her, Eve becomes extremely frustrated.\nAt the end of the book it is revealed that Zana is in fact one of the children Lombard had fostered.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Clean Break", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Memory_in_Death", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.61, 
     "rating_count": 3546, 
@@ -65,8 +61,6 @@
     ], 
     "release_date": "2010-05-02T00:00:00", 
     "author": 162, 
-    "original_title": "Memory in Death", 
-    "summary": "Memory in Death (2006) is a novel by J. D. Robb. It is the twenty-third novel in the In Death series, preceding Haunted in Death. It is the longest In Death novel, by a small margin.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 
