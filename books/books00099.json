@@ -4,15 +4,21 @@
     "author_name": "Karel \u010capek", 
     "images_urls": [], 
     "year": 1920, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rosumovi_Univerz%C3%A1ln%C3%AD_Roboti_1920.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Wpa-marionette-theater-presents-rur.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Capek_RUR.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/R.U.R._by_Karel_%C4%8Capek_1939.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Capek_play.jpg"
+    ], 
     "id": 99, 
     "category": "Text", 
-    "plot": "Through a fault in manufacturing, a robot, RB-34 (also known as Herbie), is created that possesses telepathic abilities. While the roboticists at U.S. Robots and Mechanical Men investigate how this occurred, the robot tells them what other people are thinking. But the First Law still applies to this robot, and so it deliberately lies when necessary to avoid hurting their feelings and to make people happy, especially in terms of romance.\nHowever, by lying, it is hurting them anyway. When it is confronted with this fact by Susan Calvin (to whom it falsely claimed her coworker was infatuated with her - a particularly painful lie), the robot experiences an insoluble logical conflict and becomes catatonic.", 
+    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "R.U.R.", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Liar!_(short_story)", 
+        "url": "https://en.wikipedia.org/wiki/R.U.R.", 
         "found": true, 
         "year": -1
     }, 
@@ -61,8 +67,8 @@
     ], 
     "release_date": "2004-08-02T00:00:00", 
     "author": 37, 
-    "original_title": "Liar! (short story)", 
-    "summary": "\"Liar!\" is a science fiction short story by American writer Isaac Asimov. It first appeared in the May 1941 issue of Astounding Science Fiction and was reprinted in the collections I, Robot (1950) and The Complete Robot (1982). It was Asimov's third published positronic robot story. Although the word \"robot\" was introduced to the public by Czech writer Karel \u010capek in his 1920 play R.U.R. (Rossum's Universal Robots), Asimov's story \"Liar!\" contains the first recorded use of the word \"robotics\" according to the Oxford English Dictionary. The events of this short story are also mentioned in the novel The Robots of Dawn written by the same author.", 
+    "original_title": "R.U.R.", 
+    "summary": "R.U.R. is a 1920 science fiction play by the Czech writer Karel \u010capek. R.U.R. stands for Rossumovi Univerz\u00e1ln\u00ed Roboti (Rossum\u2019s Universal Robots). However, the English phrase Rossum\u2019s Universal Robots had been used as the subtitle in the Czech original. It premiered on 25 January 1921 and introduced the word \"robot\" to the English language and to science fiction as a whole.\nR.U.R. quickly became famous and was influential early in the history of its publication. By 1923, it had been translated into thirty languages.\nThe play begins in a factory that makes artificial people, called roboti (robots), from synthetic organic matter. They are not exactly robots by the current definition of the term: they are living flesh and blood creatures rather than machinery and are closer to the modern idea of clones. They may be mistaken for humans and can think for themselves. They seem happy to work for humans at first, but a robot rebellion leads to the extinction of the human race. \u010capek later took a different approach to the same theme in War with the Newts, in which non-humans become a servant class in human society.\nR.U.R. is dark but not without hope, and was successful in its day in both Europe and North America.", 
     "classes": [
         "to-read", 
         "plays", 

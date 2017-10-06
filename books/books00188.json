@@ -11,16 +11,13 @@
         "http://www.gutenberg.org/files/24721/24721-h/images/w.png"
     ], 
     "year": 1959, 
-    "images": [], 
     "id": 188, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Operation Haystack", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Godmakers_(novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.52, 
     "rating_count": 69, 
@@ -45,8 +42,6 @@
     ], 
     "release_date": "2008-03-01T00:00:00", 
     "author": 63, 
-    "original_title": "The Godmakers (novel)", 
-    "summary": "The Godmakers (1972) is a science fiction novel by Frank Herbert. The title of early editions was sometimes styled The God Makers.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

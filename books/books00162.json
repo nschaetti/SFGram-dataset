@@ -7,16 +7,13 @@
         "http://www.gutenberg.org/files/28215/28215-h/images/001.jpg"
     ], 
     "year": 1951, 
-    "images": [], 
     "id": 162, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Empire", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Empire_(Vidal_novel)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.43, 
     "rating_count": 209456, 
@@ -58,8 +55,6 @@
     ], 
     "release_date": "2009-02-28T00:00:00", 
     "author": 56, 
-    "original_title": "Empire (Vidal novel)", 
-    "summary": "Empire is the fourth historical novel in the Narratives of Empire series by Gore Vidal, published in 1987.\nThe novel concerns the fictional newspaper dynasty of half-sibling characters Caroline and Blaise Sanford. Playing these characters against real-life figures of the years 1898 to 1907, the novel portrays the conjunction of government and mass media in the creation of modern-day America. As with Vidal's other books in his Narratives of Empire series, this novel offers an insight into the journalism of the time, following the exploits of William Randolph Hearst in his efforts to displace Theodore Roosevelt as president in 1904. Following the events leading up to and following the ascension of Theodore Roosevelt to the presidency following William McKinley's assassination, it includes pithy portraits of such leading public figures of the day as Roosevelt, Hearst, Henry Brooks Adams, Henry James, Secretary of State John Hay and President William McKinley. In this tome, the descendants of Charlie Schuyler, the fictitious main character, continue the American saga of empire building. Nevertheless, most of the characters in this novel are nonfiction and historic.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

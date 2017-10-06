@@ -12,15 +12,21 @@
         "http://www.gutenberg.org/files/41624/41624-h/images/illus6.jpg"
     ], 
     "year": 1939, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/Futuria_Fantasia%2C_no._4_cover.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Futuria_Fantasia%2C_no._3_story_illustration.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/Futuria_Fantasia%2C_no._4_table_of_contents_illustration.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/Futuria_Fantasia%2C_no._1_cover.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/31/Futuria_Fantasia%2C_no._3_cover.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/Futuria_Fantasia%2C_no._2_cover.jpg"
+    ], 
     "id": 186, 
     "category": "Text", 
-    "plot": "Roger Shumway, a reporter, is invited to visit Craig Bennett Stiles, a 130-year-old man also known as the Time Traveler. This is the first interview Stiles has granted since shortly after his return from the future, 100 years previously. Stiles had claimed then that he invented a time machine (which he privately refers to as his Toynbee Convector, although he does not reveal the name of the device to anyone until much later). Stiles used the machine to travel forward in time about a hundred years from what was an economically and creatively stagnant society (about 1984). On returning to that present, he showed evidence \u2014 films and other records collected on his journey \u2014 showing that humanity developed an advanced civilization with many marvelous and helpful inventions, and a restored natural environment. He also claimed to have then destroyed the machine deliberately to prevent anyone else doing the same.\nInitially, people were skeptical of the Traveler's claims, but they are unable to explain or disprove the authenticity of the records brought from the future. Inspired by the prospect of a utopian future, many people began projects to fulfill the vision and create the world the Traveler claims to have seen.\nA hundred years later, the perfect world of Stiles' visions has come to pass, just as he saw in his time travel. Now 130 years old, Stiles recounts the story to Shumway. Stiles calmly reveals what really happened, simply stating, \"I lied.\" Since he knew the people of the world had it in them to create a utopia, he created the illusion of one, to give humanity a goal, and hope. Because of people's belief in the illusion, the imagined utopian future became reality. After explaining his actions, Stiles dies. As a pyrotechnic display appears overhead \u2014 the supposed past version of Stiles arriving via his time machine \u2014 Shumway resolves to travel to the future, too, and carry on Stiles' legacy. Although Stiles wanted Shumway to tell people the truth so that they would know they had saved themselves, the reporter decides to maintain the illusion and not expose the secret, and destroys the evidence that Stiles had left for him to reveal.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Futuria Fantasia, Fall 1939", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Toynbee_Convector", 
+        "url": "https://en.wikipedia.org/wiki/Futuria_Fantasia", 
         "found": true, 
         "year": -1
     }, 
@@ -48,8 +54,8 @@
     ], 
     "release_date": "2012-12-15T00:00:00", 
     "author": 18, 
-    "original_title": "The Toynbee Convector", 
-    "summary": "\"The Toynbee Convector\" is a science fiction short story by American writer Ray Bradbury. First published in Playboy magazine in 1984, the story was subsequently featured in a 1988 short story collection also titled The Toynbee Convector.\n\n", 
+    "original_title": "Futuria Fantasia", 
+    "summary": "Futuria Fantasia was an American science fiction fanzine created by Ray Bradbury in 1938, when he was 18 years old. Though only 4 issues of the fanzine were published, Futuria Fantasia boasted an impressive list of contributors, including Hannes Bok, Forrest J. Ackerman, Henry Kuttner, Damon Knight, and Robert A. Heinlein.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

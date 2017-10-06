@@ -26,16 +26,13 @@
         "http://www.gutenberg.org/files/22893/22893-page-images/p180.png"
     ], 
     "year": 1935, 
-    "images": [], 
     "id": 184, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Pygmalion's Spectacles", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Best_of_Stanley_G._Weinbaum", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.55, 
     "rating_count": 33, 
@@ -60,8 +57,6 @@
     ], 
     "release_date": "2007-10-05T00:00:00", 
     "author": 62, 
-    "original_title": "The Best of Stanley G. Weinbaum", 
-    "summary": "The Best of Stanley G. Weinbaum is a collection of science fiction stories by Stanley G. Weinbaum, published in 1974 as an original paperback by Ballantine Books. The volume included an introduction by Isaac Asimov and an afterword by Robert Bloch. Ballantine reissued the collection twice in the later 1970s; Garland Publishing published a library hardcover edition in 1983, and Sphere Books released a UK market edition in 1977, under the title A Martian Odyssey and Other Stories. The original edition placed third in the 1975 Locus Poll for best genre collection.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

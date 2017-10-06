@@ -8,17 +8,13 @@
         "http://www.gutenberg.org/files/18814/18814-h/images/illus3.jpg"
     ], 
     "year": 1950, 
-    "images": [], 
     "id": 157, 
     "category": "Text", 
-    "plot": "After a letter reflecting on Conan's life written by Howard to P. Schuyler Miller and John D. Clark, both fans of Howard's work, is an essay on the invented prehistory in which the hero's adventures are set tracing its development up to Conan's own time. The stories gathered in this collection then follow the Cimmerian from his escape from slavery in Hyperborea through his days as a youthful thief in Zamora, Corinthia and Nemedia, to the beginning of his stint as a mercenary soldier for King Yildiz of Turan. To Conan's discomfiture, the supernatural is his constant companion.\nChronologically, the seven short stories collected as Conan are the earliest in Lancer's Conan series. The stories collected as Conan of Cimmeria follow.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Mercenaries", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Conan_(short_story_collection)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.99, 
     "rating_count": 982, 
@@ -62,8 +58,6 @@
     ], 
     "release_date": "2006-07-12T00:00:00", 
     "author": 19, 
-    "original_title": "Conan (short story collection)", 
-    "summary": "Conan is a 1967 collection of seven fantasy short stories and associated pieces written by Robert E. Howard, L. Sprague de Camp and Lin Carter featuring Howard's seminal sword and sorcery hero Conan the Barbarian. Most of the stories were originally published in various pulp magazines. The book was first published in paperback by Lancer Books in 1967, and was reprinted in 1968, 1969, 1970, 1971, 1972 (twice) and 1973. After the bankruptcy of Lancer, publication was taken over by Ace Books. Its first edition appeared in May 1977, and was reprinted in 1979, 1982 (twice), 1983, 1984, 1985, 1986, and 1990. The first British edition was issued by Sphere Books in 1974, and was reprinted in 1977. The book has also been translated into German, Japanese, French, Spanish, Italian, Swedish and Dutch. It was gathered together with Conan of Cimmeria and Conan the Freebooter into the omnibus collection The Conan Chronicles (Sphere Books, August 1989).", 
     "content_cleaned": false, 
     "classes": [
         "to-read", 

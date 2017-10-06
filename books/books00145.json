@@ -5,14 +5,17 @@
     "author_name": "H. Beam Piper", 
     "images_urls": [], 
     "year": 1959, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fantastic_universe_195912.jpg"
+    ], 
     "id": 145, 
     "category": "Text", 
+    "plot": "It is 1984, fifteen years since the nuclear war between the United States and the Soviet Union devastated the entire northern half of the planet Earth, nuclear scientists Professor Doctor Lee Richardson and Comrade Professor Alexis Petrovitch Pitov are working together on a project in Argentina. During their research, they have created fifteen kilograms of negamatter iron, and they are going to drop it from space to see what happens.\nThe resulting explosion has a very distinctive signature, and Dr. Richardson realizes that that signature is the same as the one that occurred at Auburn, New York. The American government had assumed that the explosion was the result of a premeditated attack by the Soviets, and had retaliated, resulting in a general exchange of nuclear weapons. During the course of analyzing the Argentinean explosion Dr. Richardson realizes that the \u201cAuburn Bomb\u201d was not a bomb after all, but a negamatter meteor.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Answer", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/An_Answer_from_the_Silence", 
+        "url": "https://en.wikipedia.org/wiki/The_Answer_(short_story)", 
         "found": true, 
         "year": -1
     }, 
@@ -61,8 +64,8 @@
     ], 
     "release_date": "2006-05-08T00:00:00", 
     "author": 19, 
-    "original_title": "An Answer from the Silence", 
-    "summary": "An Answer from the Silence: A Story from the Mountains (German: Antwort aus der Stille: Eine Erz\u00ef\u00bf\u00bdhlung aus den Bergen) is a 1937 novel by the Swiss writer Max Frisch. It tells the story of a young man who escapes to the Swiss Alps ten days before his wedding.", 
+    "original_title": "The Answer (short story)", 
+    "summary": "\"The Answer\" is a science fiction short story written by H. Beam Piper. It is not a part of either Piper\u2019s Terro-Human Future History series nor his Paratime series.\nIt made its first appearance in the December 1959 issue of Fantastic Universe Science Fiction.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

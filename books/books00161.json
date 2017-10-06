@@ -13,11 +13,13 @@
     "images": [], 
     "id": 161, 
     "category": "Text", 
+    "plot": "An expedition from an imperialistic culture, led by a man hungry for power and riches, and accompanied by an \"adept of the Universal Assembly\" (a body of men apparently in communion with a higher power) arrives in a series of ships, with some difficulty \u2014 the ships land far from their intended destination, being \"unsuited to atmospheric navigation\" \u2014 and encounter the natives. Though the natives are civilized and capable of mustering armies in great number, their technology is inferior to that of the invaders. Despite being few in number, by guile and treachery the expedition is led to victory over the natives, culminating in the capture of their priest-god-king.\nTime goes by and the leaders consolidate their gains, only to be undone by political maneuvering from those who arrive later in the conquered lands. The leader is eventually assassinated by the sons of a defeated rival.\nThe final line of the story reads \"Thus died Francisco Pizarro, conqueror of Peru.\"", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Despoilers of the Golden Empire", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Despoilers_of_the_Golden_Empire", 
+        "found": true
     }, 
     "average_rating": 3.35, 
     "rating_count": 12, 
@@ -44,6 +46,8 @@
     ], 
     "release_date": "2007-12-31T00:00:00", 
     "author": 49, 
+    "original_title": "Despoilers of the Golden Empire", 
+    "summary": "\"Despoilers of the Golden Empire\" is a science fiction novelette by Randall Garrett, originally published in Astounding Science Fiction in March 1959 under the pseudonym David Gordon.\nThe story appears to be about an expedition through space to a planet inhabited by a civilized but technologically backward people, whom the expedition conquer. However, in the last line it is revealed to be anything but that.\nIn terms of genre, the story reads like a pulp magazine yarn mixing space travel and classic swashbuckling themes, to the point where the characters even fight with swords, bringing to mind the adventures of Flash Gordon, or the Barsoom stories of Edgar Rice Burroughs.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

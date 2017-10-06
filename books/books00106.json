@@ -21,14 +21,17 @@
         "http://www.gutenberg.org/files/31979/31979-h/images/image_w.jpg"
     ], 
     "year": 1955, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/55/Galaxy_195501.jpg"
+    ], 
     "id": 106, 
     "category": "Text", 
+    "plot": "Guy and Mary Burckhardt wake up in their house in Tylerton on June 15, having both had terrible nightmares, but they cannot recall the events of their dreams. Guy dismisses the dream and goes to work as usual, the downtown offices of Contro Chemicals, which operates a highly automated and robot-staffed petrochemicals plant. But something is not right; he is surrounded everywhere by loud and all-pervasive advertising jingles for everything from cigarettes to freezers.\nA colleague named Swanson tries to speak to him but apparently does not get the desired reaction from Burckhardt and leaves. Burckhardt goes home, but the next morning, when he wakes up, he has had the same nightmare and the date is still June 15. He knows what will happen when he gets to the office and that Swanson will again try to speak to him. This in fact happens.\nThat evening, Burckhardt discovers that his cellar has seemingly been dismantled and \"rebuilt\", in a way he does not recognize. And the next morning, again it is June 15, although he knows it cannot be. He mentions this when Swanson again tries to speak to him. Swanson hustles him away to the empty halls of the chemical plant. Hiding in a room at the end of a long tunnel, he explains his theory that they have all been tampered with and that an invader has taken over the town for unknown reasons.\nBut neither of them are correct. It transpires that the chemical plant exploded. All the inhabitants of Tylerton were killed by the explosion or the chemical fumes. Dorchin, a ruthless advertising executive, took over the whole ruins and rebuilt them in miniature. The people were rebuilt as minuscule robots, and are being used as captive subjects for testing high-pressure advertising campaigns.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Tunnel Under The World", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_SFWA_Grand_Masters,_Volume_3", 
+        "url": "https://en.wikipedia.org/wiki/The_Tunnel_under_the_World", 
         "found": true, 
         "year": -1
     }, 
@@ -78,8 +81,8 @@
     ], 
     "release_date": "2010-04-14T00:00:00", 
     "author": 40, 
-    "original_title": "The SFWA Grand Masters, Volume 3", 
-    "summary": "The SFWA Grand Masters, Volume 3 is an anthology of science fiction short works edited by Frederik Pohl. It was first published in hardcover by Tor Books in June 2001, and in trade paperback by the same publisher in April 2002. It has been translated into Italian.\nThe book collects twenty novellas, novelettes and short stories by Lester del Rey, Frederik Pohl, Damon Knight, A. E. van Vogt and Jack Vance, the eleventh through fifteenth SFWA Grand Masters named by the Science Fiction and Fantasy Writers of America between 1991 and 1997, together with a general introduction and introductions and recommended reading lists for each Grand Master, in most instances by the editor, but in his case (he being one of the honorees) by his wife, Elizabeth Anne Hull.", 
+    "original_title": "The Tunnel under the World", 
+    "summary": "\"The Tunnel under the World\" is a science fiction short story by American writer Frederik Pohl. It was first published in 1955 in Galaxy magazine. It has often been anthologised, appearing among the others in The Golden Age of Science Fiction, edited by Kingsley Amis (1981).", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

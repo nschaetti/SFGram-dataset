@@ -19,7 +19,9 @@
         "http://www.gutenberg.org/files/24035/24035-h/images/title.png"
     ], 
     "year": 1959, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/c/cc/The_Pirates_of_Zan.jpg"
+    ], 
     "id": 179, 
     "category": "Text", 
     "genres": [], 

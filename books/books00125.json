@@ -13,17 +13,13 @@
         "http://www.gutenberg.org/files/51184/51184-h/images/illus6.jpg"
     ], 
     "year": 1951, 
-    "images": [], 
     "id": 125, 
     "category": "Text", 
-    "plot": "At the end of the Cretaceous period, Earth moved into an energy-damping field in space. As long as Earth was in this field, all conductors became more insulating. As a result, almost all of the life on Earth with neurons died off, causing the Cretaceous\u2013Paleogene extinction event. The ones that survived passed on their genes for sufficiently capable neurons to deal with the new circumstance. Now in modern times, Earth suddenly moves out of the field. Within weeks all animal life on Earth becomes about 5 times as intelligent. The novel goes through the triumphs and tribulations of various people and non-human animals on Earth after this event.\nThe book opens with a lyrical description of a rabbit, stuck inside a trap, becoming able to reason his way out. This is a common theme in the book. Animal traps are based on the idea that the animals cannot reason their way out of them. When the animals get the ability to reason, they start escaping.\nInstitutions which seemed to be vital to human society, such as a money economy and centralized government, disappear in North America; while Africans, with the assistance of chimpanzees, overcome colonial rule, and Chinese rebel against the Communist government. However, some of the means by which people cope with the \"Change\" are inventing new anti-scientific religions such as the Third Ba'al, or adopting pseudo-science.\nAs humans develop interstellar travel, they discover no other races are as intelligent as they; other races developed pre-Change intelligence, and there was no environmental pressure to select for higher intelligence after that.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Inside Earth", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Brain_Wave", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.21, 
     "rating_count": 2752, 
@@ -71,8 +67,6 @@
     ], 
     "release_date": "2016-02-11T00:00:00", 
     "author": 30, 
-    "original_title": "Brain Wave", 
-    "summary": "Brain Wave is a science fiction novel by Poul Anderson first published in serial form in Space Science Fiction in 1953, and then as a novel in 1954. Anderson had said that he could consider it one of his top five books This is one of many science fiction works written at this time on the theme of heightened intelligence.\n\n", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

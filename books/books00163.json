@@ -46,14 +46,14 @@
         "http://www.gutenberg.org/files/30124/30124-h/images/image_y1.jpg"
     ], 
     "year": 1931, 
-    "images": [], 
     "id": 163, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Astounding Stories, February, 1931", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact", 
+        "found": true
     }, 
     "average_rating": 3.62, 
     "rating_count": 5, 

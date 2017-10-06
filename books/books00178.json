@@ -9,16 +9,13 @@
         "http://www.gutenberg.org/files/18831/18831-h/images/illus3.jpg"
     ], 
     "year": 1947, 
-    "images": [], 
     "id": 178, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Time and Time Again", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Isaac_Asimov_Presents_The_Great_SF_Stories_9_(1947)", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 4.03, 
     "rating_count": 4227, 
@@ -65,8 +62,6 @@
     ], 
     "release_date": "2006-07-15T00:00:00", 
     "author": 19, 
-    "original_title": "Isaac Asimov Presents The Great SF Stories 9 (1947)", 
-    "summary": "Isaac Asimov Presents The Great SF Stories 9 (1947) is the ninth volume of Isaac Asimov Presents The Great SF Stories, which is a series of short story collections, edited by Isaac Asimov and Martin H. Greenberg, which attempts to list the great science fiction stories from the Golden Age of Science Fiction. They date the Golden Age as beginning in 1939 and lasting until 1963. The book was later reprinted as the first half of Isaac Asimov Presents The Golden Years of Science Fiction, Fifth Series with the second half being Isaac Asimov Presents The Great SF Stories 10 (1948).\nThis volume was originally published by DAW books in February 1983.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

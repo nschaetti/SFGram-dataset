@@ -7,14 +7,18 @@
         "http://www.gutenberg.org/files/50571/50571-h/images/cover.jpg"
     ], 
     "year": 1957, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/d/d4/TheGreenOdyssey.jpg"
+    ], 
     "id": 121, 
     "category": "Text", 
+    "plot": "The Green Odyssey is an adventure story, involving an astronaut named Alan Green stranded on a primitive planet, where he is claimed as a gigolo by a duchess and is married to a slave woman. Upon hearing of two other stranded astronauts, he escapes from the duchess, and sets sail to find them. However, because of the peculiar geography of the planet, there is a vast expansive plain, instead of an ocean to cross. Green uses a ship equipped with large rolling pin-like wheels along the bottom to traverse the plains of this world.\nAfter his escape from the duchess he is followed by his slave woman wife and her children (one is his). There follow several fairly standard adventure plots with cannibals, pirates, floating islands (that turn out to be giant lawnmowers), and the deus ex machina, a female black cat named Lady Luck.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Green Odyssey", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/The_Green_Odyssey", 
+        "found": true
     }, 
     "average_rating": 3.55, 
     "rating_count": 331, 
@@ -61,6 +65,8 @@
     ], 
     "release_date": "2015-11-29T00:00:00", 
     "author": 42, 
+    "original_title": "The Green Odyssey", 
+    "summary": "The Green Odyssey is an American science fiction novel written by Philip Jos\u00e9 Farmer. It was Farmer's first book-length publication, originally released by Ballantine in 1957. Unlike Farmer's most prolific earlier short story work, this book contains no sexual themes, though his next book Flesh returned to these motifs. The novel also appeared in the back ground of the first episode of The Twilight Zone.", 
     "content_cleaned": true, 
     "classes": [
         "science-fiction", 

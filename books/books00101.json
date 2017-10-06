@@ -49,16 +49,13 @@
         "http://www.gutenberg.org/files/31168/31168-h/images/image_y1.jpg"
     ], 
     "year": 1931, 
-    "images": [], 
     "id": 101, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Astounding Stories, July, 1931", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Science_Fiction_of_the_Thirties", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.73, 
     "rating_count": 26, 
@@ -83,8 +80,6 @@
     ], 
     "release_date": "2010-02-03T00:00:00", 
     "author": 17, 
-    "original_title": "Science Fiction of the Thirties", 
-    "summary": "Science Fiction of the Thirties is an anthology of science fiction short stories edited by Damon Knight. It was first published in hardcover by Bobbs-Merrill in January 1976; a book club edition was issued simultaneously by the same publisher together with the Science Fiction Book Club, and a trade paperback edition by Avon Books in March 1977.\nThe book collects eighteen tales by various authors originally published in the 1930s and exemplifying American magazine science fiction of that decade, together with a foreword and three essays on the period by the editor, and a bibliography. The stories were originally published in Astounding Stories and Amazing Stories, the premier science fiction magazines of the time. The book reproduces period illustrations that accompanied the stories' original appearances by H. W. Wesso, Leo Morey, Paul Orban, Howard V. Brown, Elliott Dold, Jr., Thompson, and Charles Schneeman.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

@@ -216,15 +216,18 @@
         "http://www.gutenberg.org/files/20919/20919-page-images/p204.png"
     ], 
     "year": 1960, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/1/18/The_Status_Civilization.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 166, 
     "category": "Text", 
-    "plot": "After a lengthy introduction, Facundo's fifteen chapters divide broadly into three sections: chapters one to four outline Argentine geography, anthropology, and history; chapters five to fourteen recount the life of Juan Facundo Quiroga; and the concluding chapter expounds Sarmiento's vision of a future for Argentina under a Unitarist government. In Sarmiento's words, the reason why he chose to provide Argentine context and use Facundo Quiroga to condemn Rosas's dictatorship is that \"in Facundo Quiroga I do not only see simply a caudillo, but rather a manifestation of Argentine life as it has been made by colonization and the peculiarities of the land\".", 
+    "plot": "Earth is a uniform, weakly structured, utopian society based on the mutual trust and conformity of its citizens. It is sleepy and stagnant, developing neither socially nor technologically. Its striking social stability is maintained by robots brainwashing children in \"closed classes.\" The ideologies of both Earth and Omega resemble one another, differing only in words. On Omega, the citizens worship Evil (always capitalized) in a cult dedicated to an entity called The Black One. On Earth, the world religion is an amalgam of all the \"good\" aspects of previous Earth religions. Its institution is the Church of the Spirit of Mankind Incarnate.\nAs Barrent comes closer to the truth about the reasons for his incarceration, his Omegan consciousness conflicts with his subconsciousness which was programmed in the closed classes by the robots when he was a child. The subsequent psychological struggle is played out by repeating all of the previous fights and battles which Barrent experienced throughout the book, eventually making clear the vision (or \"skrenning\") which the mutant girl on Omega foresaw of Barrent's death.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Status Civilization", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Facundo", 
+        "url": "https://en.wikipedia.org/wiki/The_Status_Civilization", 
         "found": true, 
         "year": -1
     }, 
@@ -273,8 +276,8 @@
     ], 
     "release_date": "2007-03-28T00:00:00", 
     "author": 23, 
-    "original_title": "Facundo", 
-    "summary": "Facundo: Civilization and Barbarism (original Spanish title: Facundo: Civilizaci\u00ef\u00bf\u00bdn i Barbarie) is a book written in 1845 by Domingo Faustino Sarmiento, a writer and journalist who became the seventh president of Argentina. It is a cornerstone of Latin American literature: a work of creative non-fiction that helped to define the parameters for thinking about the region's development, modernization, power, and culture. Subtitled Civilization and Barbarism, Facundo contrasts civilization and barbarism as seen in early 19th-century Argentina. Literary critic Roberto Gonz\u00ef\u00bf\u00bdlez Echevarr\u00ef\u00bf\u00bda calls the work \"the most important book written by a Latin American in any discipline or genre\".\nFacundo describes the life of Juan Facundo Quiroga, a gaucho who had terrorized provincial Argentina in the 1820s and 1830s. Kathleen Ross, one of Facundo's English translators, points out that the author also published Facundo to \"denounce the tyranny of the Argentine dictator Juan Manuel de Rosas\". Juan Manuel de Rosas ruled Argentina from 1829 to 1832 and again from 1835 to 1852; it was because of Rosas that Sarmiento was in exile in Chile, where he wrote the book. Sarmiento sees Rosas as heir to Facundo: both are caudillos and representatives of a barbarism that derives from the nature of the Argentine countryside. As Ross explains, Sarmiento's book is therefore engaged in describing the \"Argentine national character, explaining the effects of Argentina's geographical conditions on personality, the 'barbaric' nature of the countryside versus the 'civilizing' influence of the city, and the great future awaiting Argentina when it opened its doors wide to European immigration\".\nThroughout the text, Sarmiento explores the dichotomy between civilization and barbarism. As Kimberly Ball observes, \"civilization is identified with northern Europe, North America, cities, Unitarians, Paz, and Rivadavia\", while \"barbarism is identified with Latin America, Spain, Asia, the Middle East, the countryside, Federalists, Facundo, and Rosas\". It is in the way that Facundo articulates this opposition that Sarmiento's book has had such a profound influence. In the words of Gonz\u00ef\u00bf\u00bdlez Echevarr\u00ef\u00bf\u00bda: \"in proposing the dialectic between civilization and barbarism as the central conflict in Latin American culture Facundo gave shape to a polemic that began in the colonial period and continues to the present day\".\nThe first edition of Facundo was published in instalments in 1845. Sarmiento removed the last two chapters of the second edition (1851), but restored them in the 1874 edition, deciding that they were important to the book's development.\nThe first translation into English, by Mary Mann, was published in 1868. A modern and complete translation by Kathleen Ross appeared in 2003 from the University of California Press.", 
+    "original_title": "The Status Civilization", 
+    "summary": "The Status Civilization is a science fiction novel by Robert Sheckley, first published in 1960.\nThe Status Civilization concerns Will Barrent, a man who finds himself, without memory of any crime or, indeed, of his previous life, being shipped across space to the planet Omega.\nOmega, used to imprison extreme offenders, has a hierarchical society of extreme brutality, where the only way to advance (and avoid dying) is to commit an endless series of crimes. The average life expectancy from time of arrival on Omega is three years. The story concerns Barrent's attempt to survive, escape, and return to Earth to clear himself of the accusations against him.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

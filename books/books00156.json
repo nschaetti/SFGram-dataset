@@ -7,17 +7,13 @@
         "http://www.gutenberg.org/files/32447/32447-h/images/illus2.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
     "id": 156, 
     "category": "Text", 
-    "plot": "", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "The Thing in the Attic", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.27, 
     "rating_count": 58, 
@@ -42,8 +38,6 @@
     ], 
     "release_date": "2010-05-20T00:00:00", 
     "author": 55, 
-    "original_title": "Jonathan Strange & Mr Norrell", 
-    "summary": "Jonathan Strange & Mr Norrell is the 2004 debut novel of British writer Susanna Clarke. An alternative history set in 19th-century England around the time of the Napoleonic Wars, it is based on the premise that magic once existed in England and has returned with two men: Gilbert Norrell and Jonathan Strange. Centred on the relationship between these two men, the novel investigates the nature of \"Englishness\" and the boundaries between reason and unreason, Anglo-Saxon and Anglo-Dane, and Northern and Southern English cultural tropes/stereotypes. It has been described as a fantasy novel, an alternative history, and a historical novel. It inverts the Industrial Revolution conception of the North-South divide in England: in this book the North is romantic and magical, rather than rational and concrete.\nThe narrative draws on various Romantic literary traditions, such as the comedy of manners, the Gothic tale, and the Byronic hero. The novel's language is a pastiche of 19th-century writing styles, such as those of Jane Austen and Charles Dickens. Clarke describes the supernatural with careful detail. She supplements the text with almost 200 footnotes, outlining the backstory and an entire fictional corpus of magical scholarship.\nClarke began writing Jonathan Strange & Mr Norrell in 1992; ten years later she submitted the manuscript for publication. It was accepted by Bloomsbury and published in September 2004, with illustrations by Portia Rosenberg. Bloomsbury were so sure of its success that they printed 250,000 hardcover copies. The novel was well received by critics and reached number three on the New York Times best-seller list. It was longlisted for the 2004 Man Booker Prize and won the 2005 Hugo Award for Best Novel.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

@@ -12,16 +12,13 @@
         "http://www.gutenberg.org/files/33854/33854-h/images/image_t.jpg"
     ], 
     "year": 1953, 
-    "images": [], 
     "id": 116, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Ask a Foolish Question", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Citizen_in_Space", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.69, 
     "rating_count": 65, 
@@ -47,8 +44,6 @@
     ], 
     "release_date": "2010-10-11T00:00:00", 
     "author": 23, 
-    "original_title": "Citizen in Space", 
-    "summary": "Citizen in Space is a collection of science fiction short stories by Robert Sheckley. It was first published in 1955 by Ballantine Books (catalogue number 126). It includes the following stories (magazines in which the stories originally appeared given in parentheses):\n\"The Mountain Without a Name\" (1955)\n\"The Accountant\" (F&SF 1954/7)\n\"Hunting Problem\" (Galaxy 1955/9)\n\"A Thief in Time\" (Galaxy 1954/7)\n\"The Luckiest Man in the World\" (Fantastic Universe 1955/2; also known as \"Fortunate Person\")\n\"Hands Off\" (Galaxy 1954/4)\n\"Something for Nothing\" (Galaxy 1954/6)\n\"A Ticket to Tranai\" (Galaxy 1955/10)\n\"The Battle\" (If 1954/9)\n\"Skulking Permit\" (Galaxy 1954/12)\n\"Citizen in Space\" (Playboy 1955/9; also known as \"Spy Story\")\n\"Ask a Foolish Question\" (Science Fiction Stories No. 1, 1953)\nGalaxy reviewer Floyd C. Gale praised the stories as \"very high in inventiveness, ingenuity and reader appeal.\"", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

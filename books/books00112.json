@@ -4,14 +4,14 @@
     "author_name": "Jules Verne", 
     "images_urls": [], 
     "year": 1877, 
-    "images": [], 
     "id": 112, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Off on a Comet! a Journey through Planetary Space", 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Off_on_a_Comet", 
+        "found": true
     }, 
     "average_rating": 0.0, 
     "rating_count": 0, 
@@ -31,8 +31,8 @@
     "authors": [
         6
     ], 
-    "language": "English", 
     "isbn13": "9781548752613", 
+    "language": "English", 
     "countries": [
         4
     ], 

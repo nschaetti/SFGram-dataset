@@ -6,14 +6,17 @@
         "http://www.gutenberg.org/files/42196/42196-h/images/cover.jpg"
     ], 
     "year": 1935, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Weird_Tales_1935-11_-_Shadows_in_Zamboula.jpg"
+    ], 
     "id": 146, 
     "category": "Text", 
+    "plot": "Despite a warning received in the Suq by an elderly desert nomad, Conan stays the night in a cheap tavern in Zamboula, run by Aram Baksh. As night falls, a black Darfarian cannibal enters Conan's small chamber by means of a trick lock to drag him away to be eaten. All of the Darfarian slaves in the city are cannibals who roam the streets at night. As they only prey on travelers, the people of the city tolerate this and stay locked securely in their homes, while nomads and beggars make sure to spend the night at a comfortable distance from its walls. Even worse, Aram Baksh has made a deal with the cannibals - he provides them \"fresh meat,\" while he profits from the belongings of the ill-fated guests of his inn. This night, however, the unfortunate Darfarian attempts to prey on an armed and wary Conan, and pays with his life. Realizing the trap his room is, Conan takes to the Zamboulan streets where he soon runs into a naked woman chasing through the streets after her deranged lover; Conan rescues them from an attack by the cannibals. She tells him that she tried to secure her lover's unending affection via a love potion which instead made a raving lunatic of him. Suggestively promising Conan \"a reward\" in return for his assistance, they attempt to kill the high priest responsible for the man's madness.\nThe woman is captured in the attempt, and forced - via hypnotism - to dance before the High priest until she dies. Conan, defeating - quite literally - the strangler Baal-pteor at his own game, rescues her and kills the priest. At the point of claiming his payment, however, she reveals that she is really Nafertari, mistress to the satrap of the city, Jungir Khan (the mad man). Taking an antidote to Jungir, she promises Conan position and wealth.\nConan, however, leaves the city and reveals to the reader that he had recognised them almost immediately. He takes his revenge on the tavern owner Aram Baksh by cutting out his tongue and shearing off his beard to render him mute and unrecognizable, and turning him over to the hungry cannibals to devour - one of the most profound displays of Conan's ironic sense of humor - and leaves the city with gold and the magic ring that started the night's intrigues (and which Conan had stolen from the mad Jungir on their first encounter), with the intent to sell it to another interested party.", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Shadows in Zamboula", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/The_Conquering_Sword_of_Conan", 
+        "url": "https://en.wikipedia.org/wiki/Shadows_in_Zamboula", 
         "found": true, 
         "year": -1
     }, 
@@ -44,8 +47,8 @@
     ], 
     "release_date": "2013-02-25T00:00:00", 
     "author": 22, 
-    "original_title": "The Conquering Sword of Conan", 
-    "summary": "The Conquering Sword of Conan is the third of a three-volume set collecting the Conan the Barbarian stories by author Robert E. Howard. It was originally published in 2005, first in the United States by Ballantine/Del Rey under the present title and thereafter in 2009 by Wandering Star Books in the United Kingdom under the title Conan of Cimmeria: Volume Three (1935\u20131936). The Science Fiction Book Club subsequently reprinted the complete set in hardcover. The set presents the original, unedited versions of Howard's Conan tales. This volume includes short stories as well as such miscellanea as drafts, notes, and maps, and is illustrated by Greg Manchess.", 
+    "original_title": "Shadows in Zamboula", 
+    "summary": "\"Shadows in Zamboula\" is one of the original stories by Robert E. Howard about Conan the Cimmerian, first published in Weird Tales in November, 1935. Its original title was \"The Man-Eaters of Zamboula\".\nThe story takes place over the course of a night in the desert city of Zamboula, with political intrigue amidst streets filled with roaming cannibals. It features the character Baal-pteor, one of the few humans in the Conan stories to be a physical challenge for the main Cimmerian character himself.\nBy present-day sensibilities, the story is seriously marred by including a vicious racial stereotype - blacks as cannibals - though Howard strove to lessen this by making clear that the cannibals in Zamboula are only the specific blacks from Darfar, other blacks being untainted.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

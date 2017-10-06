@@ -5,16 +5,13 @@
     "author_name": "Edwin Lester Linden Arnold", 
     "images_urls": [], 
     "year": 1905, 
-    "images": [], 
     "id": 164, 
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
     "title": "Gulliver of Mars", 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Lieut._Gullivar_Jones:_His_Vacation", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
     "average_rating": 3.02, 
     "rating_count": 96, 
@@ -62,8 +59,6 @@
     ], 
     "release_date": "1996-07-01T00:00:00", 
     "author": 57, 
-    "original_title": "Lieut. Gullivar Jones: His Vacation", 
-    "summary": "Lieut. Gullivar Jones: His Vacation is the last novel by Edwin Lester Arnold, combining elements of both fantasy and science fiction, first published in 1905. Its lukewarm reception led him to stop writing fiction. It has since become his best known work, and is considered important in the development of 20th century science fiction in that it is a precursor and likely inspiration to Edgar Rice Burroughs's classic A Princess of Mars (1917), which spawned the sword and planet genre. Ace Books reprinted Arnold's novel in paperback in 1964, retitling it Gulliver  [sic] of Mars. A more recent Bison Books edition (2003) was issued as Gullivar of Mars, adapting the Ace title to Arnold's spelling.", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 
