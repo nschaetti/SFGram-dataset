@@ -24,7 +24,6 @@
     }, 
     "similar_books": [], 
     "description": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it.<br /><br />This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.<br /><br />Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface.<br /><br />We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.", 
-    "format": "Hardcover", 
     "loc_class": "PR: Language and Literatures: English literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/11870", 
@@ -33,8 +32,8 @@
     "authors": [
         1
     ], 
-    "language": "English", 
     "isbn13": "9781374906563", 
+    "language": "English", 
     "countries": [
         1
     ], 

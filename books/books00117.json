@@ -44,7 +44,6 @@
         "Rift in the Sky (Stratification, #3)"
     ], 
     "description": "On the jungle world of Jumala, a wanted man is in hiding -- a man whose mind has been imprinted with the brain pattern of another. As a deadly game of hide-and-seek begins to unwind, a man who does not know his own powers faces an interstellar safari determined to run him to ground -- dead or alive! \"Nobody can top Andre Norton when it comes to swashbuckling science-fiction adventure.\" -- St. Louis Globe-Democrat", 
-    "format": "Paperback", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/19090", 
@@ -54,8 +53,8 @@
         28
     ], 
     "pages": 132, 
-    "language": "English", 
     "isbn13": "9781557429551", 
+    "language": "English", 
     "countries": [
         2
     ], 

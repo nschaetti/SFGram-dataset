@@ -27,7 +27,6 @@
     }, 
     "similar_books": [], 
     "description": "Can't get enough of Robert E. Howard's indelible fantasy hero, Conan the Barbarian? Be sure to add this enthralling tale to your must-read list. A prequel of sorts, this story follows a young Conan (still called the Cimmerian during this era) as he pursues a beautiful nymph across a frozen land, making all kinds of enemies along the way.", 
-    "format": "Textbook Binding", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/42664", 
@@ -36,8 +35,8 @@
     "authors": [
         22
     ], 
-    "language": "English", 
     "isbn13": "9789997303998", 
+    "language": "English", 
     "countries": [
         2
     ], 

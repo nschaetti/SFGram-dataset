@@ -1,6 +1,5 @@
 {
     "content_name": "29614.txt.utf-8", 
-    "language_code": "en-US", 
     "author_name": "Paul Myron Anthony Linebarger", 
     "images_urls": [
         "http://www.gutenberg.org/files/29614/29614-h/images/image_001.jpg", 
@@ -33,11 +32,10 @@
         "found": false
     }, 
     "average_rating": 4.1, 
-    "rating_count": 212, 
+    "rating_count": 2, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/6147201-the-game-of-rat-and-dragon", 
-        "found": true, 
-        "year": 1955
+        "url": "https://www.goodreads.com/book/show/19888018-the-game-of-rat-and-dragon", 
+        "found": true
     }, 
     "similar_books": [
         "Rescue Party (When the World Ends, #1)", 
@@ -57,6 +55,7 @@
         "They're Made Out of Meat", 
         "Paycheck"
     ], 
+    "description": "Pinlighting is a hell of a way to earn a living. Underhill was furious as he closed the door behind himself. It didn't make much sense to wear a uniform and look like a soldier if people didn't appreciate what you did. He sat down in his chair, laid his head back in the headrest and pulled the helmet down over his forehead. As he waited for the pin-set to warm up, he remembered the girl in the outer corridor. She had looked at it, then looked at him scornfully. \"Meow.\" That was all she had said. Yet it had cut him like a knife. What did she think he was\u2014a fool, a loafer, a uniformed nonentity? Didn't she know that for every half hour of pinlighting, he got a minimum of two months' recuperation in the hospital? By now the set was warm. He felt the squares of space around him, sensed himself at the middle of an immense grid, a cubic grid, full of nothing. Out in that nothingness, he could sense the hollow aching horror of space itself and could feel the terrible anxiety which his mind encountered whenever it met the faintest trace of inert dust.", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/29614", 
@@ -65,9 +64,7 @@
     "authors": [
         35
     ], 
-    "pages": 15, 
     "language": "English", 
-    "isbn13": "9781620129296", 
     "countries": [
         2
     ], 
@@ -90,7 +87,9 @@
         "audio", 
         "nook", 
         "fiction", 
+        "short-fiction", 
         "audiobook", 
+        "sci-fi-works-other", 
         "junk", 
         "sf-fantasy", 
         "owned", 
@@ -128,7 +127,6 @@
         "audio-obtained-ss", 
         "sf-hard", 
         "shorts", 
-        "ebook", 
         "own-to-read", 
         "science-ficton", 
         "must-read", 
@@ -147,7 +145,6 @@
         "wants-list", 
         "politics-power-and-history", 
         "to-be-sorted", 
-        "short-fiction", 
         "cordwainer-vance-zelazny-and-esque", 
         "1954-1969", 
         "aaaaaaaa", 
