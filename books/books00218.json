@@ -90,11 +90,10 @@
         "found": false
     }, 
     "average_rating": 3.61, 
-    "rating_count": 195, 
+    "rating_count": 198, 
     "goodreads": {
         "url": "https://www.goodreads.com/book/show/6290519-the-night-of-the-long-knives", 
-        "found": true, 
-        "year": 1960
+        "found": true
     }, 
     "similar_books": [
         "The Sky Is Falling", 
@@ -117,7 +116,6 @@
         "Lost and Found"
     ], 
     "description": "They were two desperate scavengers in a no-man's land of radiation and death. Living in a kill or be killed world. Can they fin a new life and hope? A grim, grisly post-apocalypse story.", 
-    "format": "Paperback", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/25024", 
@@ -126,8 +124,8 @@
     "authors": [
         32
     ], 
-    "language": "English", 
     "isbn13": "9781604596656", 
+    "language": "English", 
     "countries": [
         2
     ], 
@@ -143,21 +141,25 @@
         "scifi-fantasy", 
         "post-apocalyptic", 
         "audiobook", 
+        "currently-reading", 
+        "dystopia", 
         "novella", 
         "fiction", 
-        "currently-reading", 
         "owned", 
         "audio", 
         "netgalley", 
         "novels", 
         "epub", 
-        "dystopia", 
+        "ebook", 
         "short-fiction", 
         "dystopian", 
         "read-by-kat", 
         "ebooks", 
         "thriller", 
         "post-apocalypse", 
+        "public-domain", 
+        "end-of-the-world", 
+        "horror", 
         "propios", 
         "novela-corta", 
         "ingles", 
@@ -213,7 +215,6 @@
         "audiobook-i-own", 
         "to-read-kindle", 
         "sci-fi-fantasy", 
-        "ebook", 
         "short-stories-novellas", 
         "post-holocaust", 
         "ebook-kindle", 
@@ -231,10 +232,7 @@
         "2012-books", 
         "world-in-the-shitter", 
         "science", 
-        "sci-fi-and-fantasy", 
-        "on-deck-next", 
-        "novellas", 
-        "historical"
+        "sci-fi-and-fantasy"
     ], 
     "content_available": true, 
     "n_authors": 1

@@ -25,11 +25,10 @@
         "found": false
     }, 
     "average_rating": 3.64, 
-    "rating_count": 79, 
+    "rating_count": 50, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/6428186-the-street-that-wasn-t-there", 
-        "found": true, 
-        "year": 1941
+        "url": "https://www.goodreads.com/book/show/11071540-the-street-that-wasn-t-there", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 

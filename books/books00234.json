@@ -1,34 +1,50 @@
 {
+    "isbn": "1409903699", 
+    "author_name": "John Munro", 
+    "images_urls": [], 
+    "year": 1897, 
+    "id": 234, 
     "category": "Text", 
-    "similar_books": [], 
     "genres": [], 
-    "language": "English", 
     "copyright": "Public domain in the USA.", 
     "title": "A Trip to Venus: A Novel", 
-    "release_date": "2004-10-11T00:00:00", 
-    "author": 77, 
     "wikipedia": {
         "found": false
     }, 
-    "author_name": "John Munro", 
-    "images_urls": [], 
+    "rating_count": 9, 
+    "goodreads": {
+        "url": "https://www.goodreads.com/book/show/10271264-a-trip-to-venus", 
+        "found": true
+    }, 
+    "similar_books": [], 
+    "description": "Prof. John Munro (1849-1930) was the author of Heroes of the Telegraph (1891), The Story of Electricity (1896) and A Trip to Venus (1897). \"In plain English, at 4 a. m., a ray of light had been observed on the disc of the planet Mars in or near the \"terminator\"; that is to say, the zone of twilight separating day from night. The news was doubly interesting to me, because a singular dream of \"Sunrise in the Moon\" had quickened my imagination as to the wonders of the universe beyond our little globe, and because of a never-to-be-forgotten experience of mine with an aged astronomer several years ago. \"", 
+    "loc_class": "PR: Language and Literatures: English literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/13716", 
         "num": 13716
     }, 
-    "classes": [], 
-    "loc_class": "PR: Language and Literatures: English literature", 
-    "year": 1897, 
     "authors": [
         77
     ], 
-    "content_available": false, 
-    "n_authors": 1, 
+    "pages": 144, 
+    "language": "English", 
+    "isbn13": "9781409903697", 
     "countries": [
         1
     ], 
-    "id": 234, 
-    "goodreads": {
-        "found": false
-    }
+    "release_date": "2004-10-11T00:00:00", 
+    "author": 77, 
+    "classes": [
+        "to-read", 
+        "currently-reading", 
+        "science-fiction", 
+        "to-read-eventually", 
+        "public-domain-scifi", 
+        "ebooks", 
+        "free-book-from-amazon-com", 
+        "ebook", 
+        "ebooks-to-read-free"
+    ], 
+    "content_available": false, 
+    "n_authors": 1
 }
