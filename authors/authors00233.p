@@ -23,7 +23,7 @@ p10
 (dp11
 S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Coblentz
+S'https://en.wikipedia.org/wiki/Stanton_A._Coblentz'
 p13
 sS'found'
 p14
@@ -33,7 +33,7 @@ p15
 I1
 sS'summary'
 p16
-VCoblentz is a surname. Notable people with the surname include:\u000aLaban Coblentz (b. 1961), American writer and communications specialist\u000aWilliam Coblentz (1873\u20131962), American scientist\u000aWilliam Coblentz (1922\u20132010), California attorney and power broker\u000aCatherine Cate Coblentz, Writer of children's books\u000aStanton A. Coblentz, American author and poet
+VStanton Arthur Coblentz (August 24, 1896 \u2013 September 6, 1982) was an American author and poet. He received a Master's Degree in English literature and then began publishing poetry during the early 1920s. His first published science fiction was The Sunken World, a satire about Atlantis, in Amazing Stories Quarterly for July, 1928. The next year, he published his first novel, The Wonder Stick. But poetry and history were his greatest strengths. Coblentz tended to write satirically. He also wrote books of literary criticism and nonfiction concerning historical subjects. Adventures of a Freelancer: The Literary Exploits and Autobiography of Stanton A. Coblentz was published the year after his death.
 p17
 sS'books'
 p18

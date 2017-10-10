@@ -23,7 +23,7 @@ p10
 (dp11
 S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Hasse
+S'https://en.wikipedia.org/wiki/Henry_Hasse'
 p13
 sS'found'
 p14
@@ -33,7 +33,7 @@ p15
 I1
 sS'summary'
 p16
-VHasse is both a surname and a given name. Notable people with the name include:\u000aSurname:\u000aClara H. Hasse (1880\u20131926), American botanist\u000aJohann Adolph Hasse (1699\u20131783), German composer\u000aHelmut Hasse (1898\u20131979), German mathematician\u000aHenry Hasse (1913\u20131977), US writer of science fiction\u000aPeter Hasse (c. 1585\u20131640), German organist and composer\u000aGiven name or nickname:\u000aHans Alfredson (born 1931), Swedish actor, film director, writer and comedian\u000aHans Backe (born 1952), Swedish football manager\u000aHasse Borg (born 1953), Swedish footballer\u000aHasse Börjes (born 1948), Swedish speed skater\u000aHasse Ekman (1915-2004), Swedish film director and actor\u000aHans Wind (1919\u20131995), Finnish flying ace
+VHenry Louis Hasse (February 7, 1913 \u2013 May 20, 1977) was an American science fiction author and fan. He is probably known best for being the co-author of Ray Bradbury's first published story, "Pendulum", which appeared in November 1941 in Super Science Stories.\u000aHasse's novelette "He Who Shrank" is anthologized in both the classic 1946 collection Adventures in Time and Space, edited by Raymond J. Healy and J. Francis McComas, and in Isaac Asimov's memoir of 1930s science fiction Before the Golden Age.
 p17
 sS'books'
 p18

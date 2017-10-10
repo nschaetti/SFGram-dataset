@@ -1,16 +1,21 @@
 {
+    "bio": "", 
     "name": "William Hope Hodgson", 
     "countries": [
         1
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/William_Hope_Hodgson", 
+        "found": true
     }, 
     "n_books": 3, 
+    "summary": "William Hope Hodgson (15 November 1877 \u2013 April 1918) was an English author. He produced a large body of work, consisting of essays, short fiction, and novels, spanning several overlapping genres including horror, fantastic fiction, and science fiction. Hodgson used his experiences at sea to lend authentic detail to his short horror stories, many of which are set on the ocean, including his series of linked tales forming the \"Sargasso Sea Stories\". His novels, such as The House on the Borderland (1908) and The Night Land (1912), feature more cosmic themes, but several of his novels also focus on horrors associated with the sea. Early in his writing career Hodgson dedicated effort to poetry, although few of his poems were published during his lifetime. He also attracted some notice as a photographer and achieved renown as a bodybuilder. He died in World War I at age 40.", 
+    "born": "1877-11-15 00:00:00", 
     "books": [
         18, 
         20, 
         79
     ], 
-    "id": 11
+    "id": 11, 
+    "died": "1918-10-10 00:00:00"
 }

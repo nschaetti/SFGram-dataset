@@ -21,23 +21,15 @@ I3
 asS'wikipedia'
 p10
 (dp11
-S'url'
+S'found'
 p12
-Vhttps://en.wikipedia.org/wiki/Various_authors
-p13
-sS'found'
-p14
-I01
+I00
 ssS'n_books'
-p15
+p13
 I20
-sS'summary'
-p16
-VThe expression "various authors," abbreviated with the acronym Vv.Aa., is rarely used in English except by non-native speakers, who look for an exact equivalent to similar terms (usually abbreviated Aa.Vv.) in Italian, Spanish, and some other languages. In English it is much more common to describe the authors of such a compilation collectively, for example by saying for what occasion the texts were written or by naming one writer, for example the first one in the alphabet, and then adding et al. The expansion of the acronym is the Latin expression auctores varii.
-p17
 sS'books'
-p18
-(lp19
+p14
+(lp15
 I40
 aI71
 aI73
@@ -59,6 +51,6 @@ aI185
 aI222
 aI896
 asS'id'
-p20
+p16
 I17
 sb.

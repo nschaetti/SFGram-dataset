@@ -4,7 +4,8 @@
         3
     ], 
     "wikipedia": {
-        "found": false
+        "url": "d", 
+        "found": true
     }, 
     "n_books": 1, 
     "books": [

@@ -23,7 +23,7 @@ p10
 (dp11
 S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Keith_Monroe
+S'https://en.wikipedia.org/wiki/Donald_Keith_(author)'
 p13
 sS'found'
 p14
@@ -33,29 +33,13 @@ p15
 I1
 sS'summary'
 p16
-VKeith Monroe (22 August 1915 \u2013 30 August 2003) was an American author of children's science fiction and of books and magazine articles about Boy Scouting.\u000aMonroe attended Stanford University and UCLA. He worked as a reporter for the New York Herald Tribune, for advertising and public relations firms, and for North American Rockwell. At times, he was a full-time freelance writer.\u000aHis work appeared in such magazines as Saturday Evening Post, New Yorker, Harper's, Blue Book, Galaxy, Argosy, Boys' Life, and Scouting. His pseudonyms included Donald Keith, Rice E. Cochran, and Dale Colombo.
+VDonald Keith was a pseudonym for authors Donald (1888\u20131972) and Keith Monroe (1917\u20132003). They are best known for their series of stories in the Time Machine series, which were originally published in Boys' Life magazine between 1959 and 1989. Some of the stories were combined into two books, Mutiny in the Time Machine (1963) and Time Machine to the Rescue (1967).\u000aA few stories later in the series were written by Keith Monroe alone. The works of Donald Keith were often Keith Monroe's earlier attempts, to which his father, Donald Monroe, helped him. As a result, both men amalgamated their forenames into the pen name "Donald Keith" in order to credit both.\u000aDonald Keith also contributed stories to Galaxy Science Fiction and Blue Book.
 p17
-sS'born'
-p18
-cdatetime
-datetime
-p19
-(S'\x07{\x08\x16\x00\x00\x00\x00\x00\x00'
-p20
-tp21
-Rp22
 sS'books'
-p23
-(lp24
+p18
+(lp19
 I931
 asS'id'
-p25
+p20
 I281
-sS'died'
-p26
-g19
-(S'\x07\xd3\x08\x1e\x00\x00\x00\x00\x00\x00'
-p27
-tp28
-Rp29
 sb.

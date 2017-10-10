@@ -4,9 +4,11 @@
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Nat_Schachner", 
+        "found": true
     }, 
     "n_books": 2, 
+    "summary": "Nat Schachner (full name Nathaniel Schachner; January 16, 1895 \u2013 1955), also appearing as \"Nathan Schachner\" was an American author. He also wrote genre fiction under pseudonyms, including Chan Corbett and Walter Glamis. His first published story was \"The Tower of Evil,\" written in collaboration with Arthur Leo Zagat and appearing in the Summer 1930 issue of Wonder Stories Quarterly. Schachner, who was trained as a lawyer and held an undergraduate degree, achieved his greatest success writing biographies of early American historical figures, after about a decade of writing science fiction short stories. Schachner was one of Isaac Asimov's favorite authors.\nSchachner served in the US military during World War I, in the Chemical Warfare Service, Gas and Flame Division.\nSchachner's first eleven stories were all written with Zagat, and after their collaboration dissolved he wrote under his own name and the pseudonyms Chan Corbett and Walter Glamis. He only published one science fiction novel in book form, Space Lawyer (1953), which originally appeared in Astounding in 1941. His science-fiction career went into a decline after 1941, possibly from changing expectations of the editorial and reading public, or possibly because of increasing time spent on his historical works.\nIn addition to his works of science fiction, he is the author of a number of non-genre historical novels and several biographies of early American political figures, most notably his two volume work on Thomas Jefferson.", 
     "books": [
         759, 
         786

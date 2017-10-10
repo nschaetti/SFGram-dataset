@@ -1,15 +1,20 @@
 {
+    "bio": "Edwin Abbott Abbott was the eldest son of Edwin Abbott (1808\u20131882), headmaster of the Philological School, Marylebone, and his wife, Jane Abbott (1806\u20131882). His parents were first cousins.\nHe was educated at the City of London School and at St John's College, Cambridge, where he took the highest honours in classics, mathematics and theology, and became a fellow of his college. In particular, he was 1st Smith's prizeman in 1861. [This seems to be an error by Venn: Colby's preface to Abbott's Flatland states that Abbott was 7th Senior Optime, Senior Classic and 1st Chancellor's Medallist in 1861; William Steadman Aldis was 1st Smith's Prizeman in 1861.] In 1862 he took orders. After holding masterships at King Edward's School, Birmingham, he succeeded G. F. Mortimer as headmaster of the City of London School in 1865 at the early age of twenty-six. Here he oversaw the education of future Prime Minister H. H. Asquith. He was Hulsean lecturer in 1876.\nHe retired in 1889, and devoted himself to literary and theological pursuits. Abbott's liberal inclinations in theology were prominent both in his educational views and in his books. His Shakespearian Grammar (1870) is a permanent contribution to English philology. In 1885 he published a life of Francis Bacon. His theological writings include three anonymously published religious romances - Philochristus (1878), where he tried to raise interest in Gospels reading, Onesimus (1882), and Silanus the Christian (1908).\nMore weighty contributions are the anonymous theological discussion The Kernel and the Husk (1886), Philomythus (1891), his book The Anglican Career of Cardinal Newman (1892), and his article \"The Gospels\" in the ninth edition of the Encyclop\u00e6dia Britannica, embodying a critical view which caused considerable stir in the English theological world. He also wrote St Thomas of Canterbury, his Death and Miracles (1898), Johannine Vocabulary (1905), Johannine Grammar (1906).\nAbbott also wrote educational text books, one being \"Via Latina: First Latin Book\" which was published in 1898 and distributed around the world within the education system.", 
     "name": "Edwin Abbott Abbott", 
     "countries": [
         1
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott", 
+        "found": true
     }, 
     "n_books": 2, 
+    "summary": "Edwin Abbott Abbott, FBA (20 December 1838 \u2013 12 October 1926) was an English schoolmaster and theologian, best known as the author of the novella Flatland (1884).", 
+    "born": "1838-12-20 00:00:00", 
     "books": [
         17, 
         32
     ], 
-    "id": 10
+    "id": 10, 
+    "died": "1926-10-12 00:00:00"
 }

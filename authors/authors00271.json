@@ -1,16 +1,12 @@
 {
-    "bio": "David Mason was born and raised in Bellingham, Washington. He studied briefly at the Colorado College, but left after one year to work as a fisherman in Alaska. He returned to the college to earn his B.A. in 1978. Mason and then-wife, Jonna Heinrich, moved to Rochester, New York, where he worked as a gardener. In 1980 they went to Greece, where they lived for just over a year in Kardamyli, Greece, in the Mani district of southernmost part of the Peloponnesus. While living there he became a friend of the British travel author and war hero, Patrick Leigh Fermor. Mason returned to the United States when he was hired to write the screenplay for a film based on a novel he had written. In the end the film was canceled when the production company closed its film division.\nAfter a part-time teaching stint at Colorado College, he began studying at the University of Rochester under Anthony Hecht. His first marriage ended, and in 1988 he married Scottish photojournalist Anne Lennox. He received his doctorate from The University of Rochester and moved to Moorhead, Minnesota, where he taught at Minnesota State University Moorhead for ten years. In 1994, Mason was named the Minnesota Outstanding Professor of the Year. Mason spent the academic year of 1996\u201397 in Greece on a Fulbright fellowship, where he continued to perfect his Greek, meet Greek intellectuals and writers, translate and write, and visit old places from 16 years earlier. In 1998, Mason returned to his alma mater, Colorado College, where he now co-directs the Creative Writing program. In 2010 Mason was named Colorado Poet Laureate, for a four-year term ending in the summer of 2014. He and wife Anne Lennox lived in Colorado Springs, Colorado until the marriage ended in 2012. Currently he lives in Manitou Springs, Colorado with his wife, Australian poet Cally Conan-Davies. The post of Colorado Poet Laureate comes with a small stipend and an expectation of ten public appearances in the state each of the four years in the term, but Mason chose to greatly expand on those expectations, attempting to visit all 64 counties of the state during his term in order to share poetry in public appearances.", 
     "name": "David Mason", 
     "countries": [
         2
     ], 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/David_Mason_(writer)", 
-        "found": true
+        "found": false
     }, 
     "n_books": 2, 
-    "summary": "David Mason (born December 11, 1954) is an American writer and the former Poet Laureate of Colorado.", 
-    "born": "1954-12-11 00:00:00", 
     "books": [
         887, 
         888

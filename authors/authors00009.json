@@ -1,18 +1,21 @@
 {
+    "bio": "", 
     "name": "H. P. Lovecraft", 
     "countries": [
         2
     ], 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/H._P._Lovecraft_(band)", 
+        "url": "https://en.wikipedia.org/wiki/H._P._Lovecraft", 
         "found": true
     }, 
     "n_books": 3, 
-    "summary": "H. P. Lovecraft was an American psychedelic rock band, formed in Chicago, Illinois, in 1967 and named after the horror writer H. P. Lovecraft. Much of the band's music was possessed of a haunting, eerie ambience, and consisted of material that was inspired by the macabre writings of the author whose name they had adopted. Combining elements of psychedelia and folk rock, the band's sound was marked by the striking vocal harmonies of ex-folk singer George Edwards and the classically trained Dave Michaels. In addition, Michaels' multi-instrumentalist abilities on organ, piano, harpsichord, clarinet and recorder provided the band with a richer sonic palette than many of their contemporaries.\nThe band was signed to Philips Records in 1967 and released its first single, \"Anyway That You Want Me\", in the early part of that year. Their first album, H. P. Lovecraft, followed in late 1967 and included what is arguably the band's best-known song, \"The White Ship\". The band then relocated to San Francisco, California, where they became a frequent attraction at various San Francisco Bay Area venues, including The Fillmore and the Winterland Ballroom. In 1968, a second album, H. P. Lovecraft II, appeared, but the group disbanded in early 1969.\nEdwards and fellow original member Michael Tegza subsequently formed a new line-up of the band with the shortened name of Lovecraft, although Edwards left this new group before the first album was recorded. This second incarnation of the band released the Valley of the Moon album in 1970 and, after a further name change to Love Craft, the We Love You Whoever You Are album in 1975.", 
+    "summary": "Howard Phillips Lovecraft (; August 20, 1890 \u2013 March 15, 1937) was an American author who achieved posthumous fame through his influential works of horror fiction. He was virtually unknown and published only in pulp magazines before he died in poverty, but he is now regarded as one of the most significant 20th-century authors in his genre. Lovecraft was born in Providence, Rhode Island, where he spent most of his life. Among his most celebrated tales are \"The Call of Cthulhu\" and \"The Shadow over Innsmouth\", both canonical to the Cthulhu Mythos. Lovecraft was never able to support himself from earnings as author and editor. He saw commercial success increasingly elude him in this latter period, partly because he lacked the confidence and drive to promote himself. He subsisted in progressively strained circumstances in his last years; an inheritance was completely spent by the time that he died at age 46.", 
+    "born": "1890-08-20 00:00:00", 
     "books": [
         13, 
         15, 
         45
     ], 
-    "id": 9
+    "id": 9, 
+    "died": "1937-03-15 00:00:00"
 }

@@ -4,9 +4,12 @@
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Ron_Goulart", 
+        "found": true
     }, 
     "n_books": 1, 
+    "summary": "Ron Goulart (born January 13, 1933) is an American popular culture historian and mystery, fantasy and science fiction author.\nGoulart was prolific, and wrote many novelizations and other routine work under various pseudonyms: Kenneth Robeson (pen name), Con Steffanson (pen name), Chad Calhoun, R.T. Edwards, Ian R. Jamieson, Josephine Kains, Jillian Kearny, Howard Lee, Zeke Masters, Frank S. Shawn, and Joseph Silva.\nGoulart's first professional publication was a 1952 reprint of the SF story \"Letters to the Editor\" in The Magazine of Fantasy & Science Fiction; this parody of a pulp magazine letters column was originally published in the University of California, Berkeley's Pelican. His early career in advertising and marketing influenced much of his work. In the early 1960s, Goulart wrote the text for Chex Press, a newspaper parody published on Ralston Purina cereal boxes (Wheat Chex, Rice Chex, Corn Chex). He contributed to P.S. and other magazines, along with his book review column for Venture Science Fiction Magazine. Cheap Thrills: An Informal History of the Pulp Magazines (1972) is his best known non-fiction book.", 
+    "born": "1933-01-13 00:00:00", 
     "books": [
         686
     ], 

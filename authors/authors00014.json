@@ -1,16 +1,16 @@
 {
-    "bio": "Born into a working class family in Broughton, Salford, Lancashire, England, Smith moved to nearby Prestwich early in life. In his autobiography, he claims that Alfred Henry Hook \u2013 a soldier who fought at Rorke's Drift \u2013 was an ancestor of his father, leading to the Smith family being invited as guests of honour to the Whitefield showing of the film Zulu in which Hook was played by James Booth. Originally a Labour supporter, he then joined the Socialist Workers Party. ", 
+    "bio": " ", 
     "name": "E. E. Smith", 
     "countries": [
         2
     ], 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Mark_E._Smith", 
+        "url": "https://en.wikipedia.org/wiki/E._E._Smith", 
         "found": true
     }, 
     "n_books": 11, 
-    "summary": "Mark Edward Smith (born 5 March 1957) is an English singer, songwriter and musician. He is the lead singer, lyricist and only constant member of the post-punk group The Fall. He comes from Prestwich, near to Manchester.\nSmith formed The Fall in 1978 after attending a Sex Pistols gig at the Manchester Free Trade Hall in June 1976. Although hugely talented and charismatic, Smith is famously acerbic and difficult to work with. He has been described as a \"a strange kind of antimatter national treasure\".\n\n", 
-    "born": "1957-03-05 00:00:00", 
+    "summary": "Edward Elmer Smith (also E. E. Smith, E. E. Smith, Ph.D., E. E. \"Doc\" Smith, Doc Smith, \"Skylark\" Smith, or\u2014to his family\u2014Ted; May 2, 1890 \u2013 August 31, 1965) was an American food engineer (specializing in doughnut and pastry mixes) and an early science-fiction author, best known for the Lensman and Skylark series. He is sometimes called the father of space opera.", 
+    "born": "1890-05-02 00:00:00", 
     "books": [
         29, 
         42, 
@@ -24,5 +24,6 @@
         159, 
         173
     ], 
-    "id": 14
+    "id": 14, 
+    "died": "1965-08-31 00:00:00"
 }
