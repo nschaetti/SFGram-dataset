@@ -30,8 +30,7 @@ I1
 sS'books'
 p14
 (lp15
-I449
-asS'id'
+sS'id'
 p16
 I152
 sb.
