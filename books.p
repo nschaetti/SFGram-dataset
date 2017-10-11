@@ -87805,7 +87805,7 @@ sg27
 VPublic domain in the USA.
 p36116
 sg29
-VStand
+S'Stand by for Mars!'
 p36117
 sg31
 (dp36118

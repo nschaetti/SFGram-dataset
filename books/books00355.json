@@ -2,7 +2,7 @@
     "content_name": "19526.txt.utf-8", 
     "isbn": "0385199570", 
     "language_code": "en-US", 
-    "author_name": "for Mars!", 
+    "author_name": "Carey Rockwell", 
     "images_urls": [
         "http://www.gutenberg.org/files/19526/19526-h/images/im003.png", 
         "http://www.gutenberg.org/files/19526/19526-h/images/im007.png", 
@@ -35,7 +35,7 @@
     "category": "Text", 
     "genres": [], 
     "copyright": "Public domain in the USA.", 
-    "title": "Stand", 
+    "title": "Stand by for Mars!", 
     "wikipedia": {
         "found": false
     }, 
@@ -67,7 +67,7 @@
         "num": 19526
     }, 
     "authors": [
-        115
+        118
     ], 
     "pages": 1153, 
     "language": "English", 

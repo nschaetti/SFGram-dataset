@@ -23,7 +23,7 @@ p10
 I1952
 sS'author_name'
 p11
-Vfor Mars!
+VCarey Rockwell
 p12
 sS'images_urls'
 p13
@@ -98,7 +98,7 @@ VPublic domain in the USA.
 p48
 sS'title'
 p49
-VStand
+S'Stand by for Mars!'
 p50
 sS'wikipedia'
 p51
@@ -173,7 +173,7 @@ I19526
 ssS'authors'
 p84
 (lp85
-I115
+I118
 asS'pages'
 p86
 I1153
