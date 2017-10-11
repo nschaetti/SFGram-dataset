@@ -4363,7 +4363,7 @@ Ntp1348
 Rp1349
 (dp1350
 g9
-VPierre Benoît
+S'Pierre Benoit'
 p1351
 sg11
 (lp1352
