@@ -1,5 +1,6 @@
 {
     "content_name": "29475.txt.utf-8", 
+    "language_code": "eng", 
     "author_name": "Harry Bates", 
     "images_urls": [
         "http://www.gutenberg.org/files/29475/29475-h/images/image_001.jpg", 
@@ -16,11 +17,10 @@
         "found": false
     }, 
     "average_rating": 3.5, 
-    "rating_count": 2, 
+    "rating_count": 1, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/6672453-under-arctic-ice", 
-        "found": true, 
-        "year": 2009
+        "url": "https://www.goodreads.com/book/show/19165455-under-arctic-ice", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
@@ -38,19 +38,7 @@
     "release_date": "2009-07-21T00:00:00", 
     "author": 120, 
     "content_cleaned": true, 
-    "classes": [
-        "to-read", 
-        "currently-reading", 
-        "junk", 
-        "unread", 
-        "must-reread-for-review", 
-        "e-book", 
-        "ebooks", 
-        "13", 
-        "available-on-website", 
-        "waiting-to-read", 
-        "science-fiction"
-    ], 
+    "classes": [], 
     "content_available": true, 
     "n_authors": 1
 }

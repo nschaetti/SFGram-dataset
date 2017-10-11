@@ -56,7 +56,6 @@
     }, 
     "similar_books": [], 
     "description": "WAS DONALD E. WESTLAKE A SCIENCE FICTION WRITER? Everyone knows him as the mystery writer who published books like The Hook (2000), Bad News 2001, and Put a Lid on It (2002) under his own name, Donald E. Westlake, and of course that he was also Richard Stark and a number of other favorite authors. But a science fiction writer? -- Really? -- You bet he was, early on in his career. (He even wrote one SF novel -- Anarchaos, in 1966, as \"Curt Clark.\") He also wrote quite a bit of short SF, like this weird little SF mystery that first graced the pages of Amazing in 1963.", 
-    "format": "Paperback", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/27089", 
@@ -66,8 +65,8 @@
         168
     ], 
     "pages": 60, 
-    "language": "English", 
     "isbn13": "9781606643808", 
+    "language": "English", 
     "countries": [
         2
     ], 

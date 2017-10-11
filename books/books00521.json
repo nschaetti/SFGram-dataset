@@ -1,6 +1,6 @@
 {
     "content_name": "31686.txt.utf-8", 
-    "language_code": "en-GB", 
+    "isbn": "1463802196", 
     "author_name": "Evelyn E. Smith", 
     "images_urls": [
         "http://www.gutenberg.org/files/31686/31686-h/images/cover.jpg", 
@@ -19,16 +19,14 @@
         "found": false
     }, 
     "average_rating": 3.6, 
-    "rating_count": 20, 
+    "rating_count": 5, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/31686/pg31686.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/17449207-collector-s-item", 
-        "found": true, 
-        "year": 2013
+        "url": "https://www.goodreads.com/book/show/14402828-collector-s-item", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "Alpha were-jaguar, Katarina \"KT\" Marant is trained to protect the pride so when her aunt disappears, KT naturally takes up the hunt. Her suspicion settles on the Collectors, humans who view shapeshifters as the ultimate big game.<br /><br />Peyton Allers can't believe he's got to blow his cover to rescue a shapeshifter \"princess.\" Even harder to believe is that she wants to stage her own kidnapping in order to catch the leader of the Collectors and find her aunt.<br /><br />Everything goes sideways when KT is kidnapped for real and by someone she never suspected. Will Peyton find her before time runs out? Or will she become a true Collector's Item?", 
-    "format": "Kindle Edition", 
+    "description": "\"What I should like to know,\" Professor Bernardi said, gazing pensively after the lizard-man as he bore the shrieking form of Miss Anspacher off in his scaly arms, \"is whether he is planning to eat her or make love to her. Because, in the latter instance, I'm not sure we should interfere. It may be her only chance.\"<br /><br />\"Carl!\" his wife cried indignantly. \"That's a horrid thing to say! You must rescue her at once!\"<br /><br />\"Oh, I suppose so,\" he said, then gave his wife a nasty little grin that he knew would irritate her. \"It isn't that she's unattractive, my dear, in case you hadn't noticed, though she's pretty well past the bloom of youth--\"<br /><br />\"\"Will\" you stop making leering noises and go save her or \"not\"?\"<br /><br />\"I was coming to that. It's just that she persists in using her Ph.D. as a club to beat men into respectful pulps. Men don't like being beaten into respectful pulps, whether by a man or a woman. Now if she'd only learned that other people have feelings--\"<br /><br />Being trapped in the steaming h----l of Venus is no excuse for forgetting one's manners--but anyone abducted, marooned, tricked, kept from tea might well crack under the strain!", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/31686", 
@@ -37,8 +35,9 @@
     "authors": [
         172
     ], 
-    "pages": 148, 
+    "pages": 48, 
     "language": "English", 
+    "isbn13": "9781463802196", 
     "countries": [
         2
     ], 
@@ -47,48 +46,11 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "freebies", 
-        "kindle", 
-        "free", 
-        "fantasy", 
-        "kindle-mess-unread", 
-        "free-not-read", 
-        "owned-kindle", 
-        "type-novel", 
-        "fiction-romance-paranormal", 
-        "fiction-romance-contemporary", 
-        "fiction-romance", 
-        "fiction", 
-        "booktype-novel", 
-        "bookmedium-ebook-kindle-free", 
-        "kindle-freebie", 
-        "howling-at-the-moon", 
-        "fantasy-paranormal", 
-        "ebook", 
-        "year-2013-challenge", 
-        "paranormal-romance", 
-        "wishlist-caught-my-eye", 
-        "mine", 
-        "e-book", 
-        "no-thanks", 
-        "werewolves-shifters", 
-        "to-read-kindle", 
-        "2013-kindle-freebie", 
-        "top-to-read", 
-        "short-story-100", 
-        "pnr", 
-        "para-shifter", 
-        "para-cat", 
-        "para", 
-        "own-free-book", 
-        "held-captive-abused", 
-        "1-have-remove-once-read", 
-        "wolf-shifter", 
-        "kindle-books-to-lend", 
-        "werewolves-other-shifters", 
-        "pnr-scifi-rom", 
-        "kindle-lendable", 
-        "to-buy"
+        "free-from-amazon", 
+        "classic", 
+        "21st-century-lit", 
+        "science-fiction", 
+        "15"
     ], 
     "content_available": true, 
     "n_authors": 1

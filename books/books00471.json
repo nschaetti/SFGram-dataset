@@ -33,15 +33,13 @@
         "found": false
     }, 
     "average_rating": 2.45, 
-    "rating_count": 11, 
+    "rating_count": 12, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/2319353.The_Bramble_Bush", 
-        "found": true, 
-        "year": 1958
+        "url": "https://www.goodreads.com/book/show/6112845-the-bramble-bush", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
-    "format": "Mass Market Paperback", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/23764", 
         "num": 23764
@@ -49,7 +47,6 @@
     "authors": [
         49
     ], 
-    "pages": 312, 
     "language": "English", 
     "countries": [
         2
@@ -59,18 +56,16 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "currently-reading", 
+        "science-fiction", 
+        "short-stories", 
+        "short-story", 
+        "audio-obtained", 
         "fiction", 
-        "2017-shortlist", 
+        "nook", 
+        "have", 
         "ebook", 
-        "discard-dtb", 
-        "dead-tree", 
-        "saga", 
-        "american-fiction", 
-        "for-the-lolz", 
-        "for-snarking-purposes", 
-        "richard-burton-diaries", 
-        "20th-century-classics"
+        "type-short-story", 
+        "audio-obtained-ss"
     ], 
     "content_available": true, 
     "n_authors": 1

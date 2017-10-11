@@ -1,5 +1,6 @@
 {
     "content_name": "30337.txt.utf-8", 
+    "isbn": "1463800185", 
     "author_name": "Randall Garrett", 
     "images_urls": [
         "http://www.gutenberg.org/files/30337/30337-h/images/image_001.jpg", 
@@ -17,13 +18,13 @@
         "found": false
     }, 
     "average_rating": 0.0, 
-    "rating_count": 0, 
+    "rating_count": 7, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/34245198-fifty-per-cent-prophet", 
-        "found": true, 
-        "year": -1
+        "url": "https://www.goodreads.com/book/show/13205832-fifty-percent-prophet", 
+        "found": true
     }, 
     "similar_books": [], 
+    "description": "That he was a phony Swami was beyond doubt. That he was a genuine prophet, though, seemed . . . but then, what's the difference between a dictator and a true prophet? So was he. . . .<br /><br />Dr. Joachim sat in the small room behind his reception hall and held his fingers poised above the keys of the rather creaky electrotyper on his desk. The hands seemed to hang there, long, slender, and pale, like two gulls frozen suddenly in their long swoop towards some precious tidbit floating on the writhing sea beneath, ready to begin their drop instantly, as soon as time began again.<br /><br />All of Dr. Joachim's body seemed to be held in that same stasis. Only his lips moved as he silently framed the next sentence in his mind.", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/30337", 
@@ -32,14 +33,23 @@
     "authors": [
         49
     ], 
+    "pages": 36, 
     "language": "English", 
+    "isbn13": "9781463800185", 
     "countries": [
         2
     ], 
     "release_date": "2009-10-25T00:00:00", 
     "author": 49, 
     "content_cleaned": true, 
-    "classes": [], 
+    "classes": [
+        "to-read", 
+        "free-from-amazon", 
+        "classic", 
+        "short-stories", 
+        "nook", 
+        "scifi"
+    ], 
     "content_available": true, 
     "n_authors": 1
 }

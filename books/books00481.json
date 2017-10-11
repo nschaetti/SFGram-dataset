@@ -1,6 +1,5 @@
 {
     "content_name": "26109.txt.utf-8", 
-    "isbn": "1621574792", 
     "author_name": "Randall Garrett", 
     "images_urls": [
         "http://www.gutenberg.org/files/26109/26109-h/images/001.png", 
@@ -52,15 +51,13 @@
         "found": false
     }, 
     "average_rating": 4.31, 
-    "rating_count": 14, 
+    "rating_count": 8, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/28695641-hail-to-the-chief", 
-        "found": true, 
-        "year": -1
+        "url": "https://www.goodreads.com/book/show/10802348-hail-to-the-chief", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "Ellis the Elephant is back, and he\u2019s headed to the White House! In Hail to the Chief, the sixth in Callista Gingrich\u2019s New York Times bestselling series, Ellis meets some of America\u2019s greatest presidents and discovers how they have led our country throughout American history.<br /><br />In preceding books, including Sweet Land of Liberty, Land of the Pilgrims\u2019 Pride, Yankee Doodle Dandy, From Sea to Shining Sea, and Christmas in America, Ellis learns about the pivotal moments that have shaped our nation. Now, in Hail to the Chief, this adorable pachyderm explores the fascinating lives of those who have held the nation\u2019s highest office.<br /><br />Authored by Callista Gingrich and illustrated by Susan Arciero, Hail to the Chief will delight young and old alike with a glimpse of the leaders who helped make America an exceptional nation.<br /><br />", 
-    "format": "Hardcover", 
+    "description": "Convention rhetoric had taken a violent turn. But what's to expect when the candidate is a man with a name like Cannon? The buttons now pinned on every lapel said things like \"Blast 'em with Cannon!\" or \"Cannon Can Do!\" The placards and the box-shaped signs, with a trifle more dignity, said: WIN WITH CANNON and CANNON FOR PRESIDENT and simply JAMES H. CANNON.", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/26109", 
@@ -69,9 +66,7 @@
     "authors": [
         49
     ], 
-    "pages": 40, 
     "language": "English", 
-    "isbn13": "9781621574798", 
     "countries": [
         2
     ], 
@@ -80,32 +75,13 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "history", 
-        "children-s", 
-        "windsor-recommended-reads", 
-        "to-read-to-noelle", 
-        "to-read-to-donnie", 
-        "read-to-kids", 
-        "bridgette", 
-        "2017-reviews", 
-        "goodreads-giveaway", 
-        "microhistory", 
-        "grandmas_shelf", 
-        "giveaways", 
-        "presidents", 
-        "picture-books", 
-        "non-fiction", 
-        "books-i-really-want", 
-        "new", 
-        "wr-fso", 
-        "11-20-2016", 
-        "reference", 
-        "politics", 
-        "historical-fiction", 
-        "children-s-fiction", 
-        "children-s-books", 
-        "animal-stories", 
-        "kids"
+        "free-from-amazon", 
+        "classic", 
+        "fiction", 
+        "science-fiction", 
+        "ebook", 
+        "ebooks", 
+        "library"
     ], 
     "content_available": true, 
     "n_authors": 1

@@ -3166,9 +3166,7 @@
                 "found": false
             }, 
             "n_books": 1, 
-            "books": [
-                449
-            ], 
+            "books": [], 
             "id": 152
         }, 
         {
@@ -5599,6 +5597,14 @@
                 970
             ], 
             "id": 299
+        }, 
+        {
+            "countries": [], 
+            "books": [
+                449
+            ], 
+            "id": 300, 
+            "name": "Seaton McKettrig"
         }
     ]
 }

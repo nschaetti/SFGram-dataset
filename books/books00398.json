@@ -1,6 +1,6 @@
 {
     "content_name": "35103.txt.utf-8", 
-    "language_code": "fre", 
+    "isbn": "0543905365", 
     "author_name": "Albert Robida", 
     "images_urls": [
         "http://www.gutenberg.org/files/35103/35103-h/images/after-page-008.jpg", 
@@ -422,16 +422,13 @@
         "found": false
     }, 
     "average_rating": 4.0, 
-    "rating_count": 1, 
+    "rating_count": 2, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/35103/pg35103.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/34373627-la-vie-lectrique", 
-        "found": true, 
-        "year": -1
+        "url": "https://www.goodreads.com/book/show/1493175.Le_Vingti_me_Si_cle_La_Vie_lectrique", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "Le monde moderne est n\u00ef\u00bf\u00bd de l'\u00ef\u00bf\u00bdlectricit\u00ef\u00bf\u00bd. Un monde tour \u00ef\u00bf\u00bd tour \u00ef\u00bf\u00bdmerveill\u00ef\u00bf\u00bd, conquis ou inquiet devant la multiplicit\u00ef\u00bf\u00bd des usages de la \u00ef\u00bf\u00bd f\u00ef\u00bf\u00bde \u00ef\u00bf\u00bdlectricit\u00ef\u00bf\u00bd \u00ef\u00bf\u00bd.<br />Dans La f\u00ef\u00bf\u00bde et la servante (1991), ouvrage fondateur, Alain Beltran et Patrice Carr\u00ef\u00bf\u00bd exploraient l'impact social et culturel de la \u00ef\u00bf\u00bd r\u00ef\u00bf\u00bdvolution \u00ef\u00bf\u00bdlectrique \u00ef\u00bf\u00bd sur les mentalit\u00ef\u00bf\u00bds. Vingt-cinq ans plus tard, le paysage des technologies li\u00ef\u00bf\u00bdes \u00ef\u00bf\u00bd l'\u00ef\u00bf\u00bdlectricit\u00ef\u00bf\u00bd \u2013 tout sp\u00ef\u00bf\u00bdcialement \u00ef\u00bf\u00bd l'\u00ef\u00bf\u00bdnergie \u2013 a chang\u00ef\u00bf\u00bd de fa\u00ef\u00bf\u00bdon spectaculaire. Le XXIe si\u00ef\u00bf\u00bdcle a mis \u00ef\u00bf\u00bd mal l'image du progr\u00ef\u00bf\u00bds \u00ef\u00bf\u00bd tout prix. Plus que jamais la science est questionn\u00ef\u00bf\u00bde. Catastrophe nucl\u00ef\u00bf\u00bdaire, d\u00ef\u00bf\u00bdgradation du milieu naturel, n\u00ef\u00bf\u00bdcessit\u00ef\u00bf\u00bd d'\u00ef\u00bf\u00bdconomies d'\u00ef\u00bf\u00bdnergie ont mis la soci\u00ef\u00bf\u00bdt\u00ef\u00bf\u00bd face \u00ef\u00bf\u00bd de nouveaux d\u00ef\u00bf\u00bdfis.<br />Ce sont ces interrogations et ces imaginaires nouveaux qu'analysent ici les auteurs, dans une vision de l'histoire imm\u00ef\u00bf\u00bddiate qui s'irrigue aux plus r\u00ef\u00bf\u00bdcents apports des sciences humaines. Ce livre n'est pas seulement un parcours historique de plus de trois si\u00ef\u00bf\u00bdcles, richement document\u00ef\u00bf\u00bd, c'est", 
-    "format": "Paperback", 
     "loc_class": "PQ: Language and Literatures: Romance literatures: French, Italian, Spanish, Portuguese", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/35103", 
@@ -440,16 +437,26 @@
     "authors": [
         128
     ], 
-    "pages": 400, 
     "language": "French", 
-    "isbn13": "9782701189673", 
+    "isbn13": "9780543905369", 
     "countries": [
         4
     ], 
     "release_date": "2011-01-28T00:00:00", 
     "author": 128, 
     "content_cleaned": true, 
-    "classes": [], 
+    "classes": [
+        "to-read", 
+        "wwhirrr", 
+        "science-fiction", 
+        "ebook", 
+        "speculative-fiction", 
+        "started-stopped", 
+        "science-fiction-and-fantasy", 
+        "french", 
+        "fran\u00e7ais", 
+        "fiction"
+    ], 
     "content_available": true, 
     "n_authors": 1
 }

@@ -1,5 +1,6 @@
 {
     "content_name": "51699.txt.utf-8", 
+    "isbn": "1532838484", 
     "author_name": "Bill Doede", 
     "images_urls": [
         "http://www.gutenberg.org/files/51699/51699-h/images/cover.jpg", 
@@ -17,14 +18,14 @@
         "found": false
     }, 
     "average_rating": 4.33, 
-    "rating_count": 3, 
+    "rating_count": 1, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/51699/pg51699.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/13549018-no-god-next-door", 
-        "found": true, 
-        "year": 1927
+        "url": "https://www.goodreads.com/book/show/30023888-the-god-next-door", 
+        "found": true
     }, 
     "similar_books": [], 
+    "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
     "loc_class": "", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/51699", 
@@ -33,7 +34,9 @@
     "authors": [
         192
     ], 
+    "pages": 28, 
     "language": "English", 
+    "isbn13": "9781532838484", 
     "countries": [
         3
     ], 

@@ -1,7 +1,5 @@
 {
     "content_name": "27393.txt.utf-8", 
-    "isbn": "1496966260", 
-    "language_code": "eng", 
     "author_name": "Mack Reynolds", 
     "images_urls": [
         "http://www.gutenberg.org/files/27393/27393-h/images/001.png", 
@@ -46,32 +44,11 @@
     "average_rating": 4.67, 
     "rating_count": 9, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/24988008-medal-of-honor", 
-        "found": true, 
-        "year": 2015
+        "url": "https://www.goodreads.com/book/show/8708658-medal-of-honor", 
+        "found": true
     }, 
-    "similar_books": [
-        "Live For This", 
-        "Dinosaur Isle", 
-        "Chance Maybe and the Galactic Glitch", 
-        "This Marlowe", 
-        "Walking Point: From the Ashes of the Vietnam War", 
-        "Biographical Sketches of New York's First 21 Governors: The Revolutionary War Through the Civil War", 
-        "Raulin: Rise of the Forest King", 
-        "Divided We Fall", 
-        "The Weekend Warriors", 
-        "Men of War: The American Soldier in Combat at Bunker Hill, Gettysburg, and Iwo Jima", 
-        "Preston Tucker and His Battle to Build the Car of Tomorrow", 
-        "Marked for Death: The First War in the Air", 
-        "Suburban Love Song (Burnouts #1)", 
-        "The Last of the Wild West Cowgirls: A True Story", 
-        "Lethal Intent", 
-        "On a Midnight Clear", 
-        "Donovan's Devils: OSS Commandos Behind Enemy Lines\u2014Europe, World War II", 
-        "Running Man"
-    ], 
-    "description": "The courage of the soldiers and warriors at Custers' last stand. The newest data about the clash of a Stone Age culture with the US Government in 1876.", 
-    "format": "Paperback", 
+    "similar_books": [], 
+    "description": "\"Lieutenant, how would you like to capture a Miro class cruiser?\"<br /><br />Don laughed nervously. He said, \"We've never captured a Kraden ship intact. -- A One Man Scout against a Miro class cruiser?\"<br /><br />Demming grunted. \"If we could arrange for you to capture such a vessel, there would be little doubt of you getting the Galactic Medal of Honor, Lieutenant.\"<br /><br />Don said, \"Why? And why me, and what's your percentage?\"<br /><br />\"Lieutenant Mathers,\" Rostoff said patiently, \"the bearer of the Galactic Medal of Honor is above law. He carries with him an unalienable prestige of such magnitude that . . .\"<br /><br />Demming grunted. \"Believe me, Lieutenant Mathers, there are an incredible number of laws which have accumulated down through the centuries to hamper the business man. It is a continual fight to be able to carry on at all. The ability to do no legal wrong would be priceless in the development of a new frontier.\" He sighed again, so deeply as to make his bulk quiver. \"Priceless.\"", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/27393", 
@@ -80,9 +57,7 @@
     "authors": [
         69
     ], 
-    "pages": 76, 
     "language": "English", 
-    "isbn13": "9781496966261", 
     "countries": [
         2
     ], 
@@ -91,21 +66,16 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "giveaways-entered", 
-        "history-american-indian", 
-        "won", 
-        "non-fiction", 
-        "actually-want-to-read", 
-        "new", 
-        "ya-young-adult-literature", 
-        "lost", 
-        "history", 
-        "currently-reading", 
-        "a-first-reads-entry", 
-        "giveaway-books", 
-        "favorites", 
-        "maybe", 
-        "evaluated-no"
+        "sci-fi", 
+        "audio", 
+        "20th-century-lit", 
+        "sf", 
+        "scy-fy", 
+        "fiction", 
+        "my-library", 
+        "science-fiction", 
+        "ebook", 
+        "kindle"
     ], 
     "content_available": true, 
     "n_authors": 1

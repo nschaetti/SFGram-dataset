@@ -1,6 +1,6 @@
 {
     "content_name": "30311.txt.utf-8", 
-    "isbn": "1599988216", 
+    "language_code": "eng", 
     "author_name": "John Berryman", 
     "images_urls": [
         "http://www.gutenberg.org/files/30311/30311-h/images/image_001_01.jpg", 
@@ -24,15 +24,13 @@
         "found": false
     }, 
     "average_rating": 0.0, 
-    "rating_count": 0, 
+    "rating_count": 3, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/4138167-modus-vivendi", 
-        "found": true, 
-        "year": 2007
+        "url": "https://www.goodreads.com/book/show/20810804-modus-vivendi", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "Can a friendship of three survive the trials of love and war? Book One in The Affairs of Mortons Pointe series. Aidan Morrison, Virgil Craig and Drea Samuels have rarely been separated during their decade-long friendship. While war rages in Europe in the summer of 1917, two young men prepare to face the unknown. Leaving the girl they grew up with drives one man to propose to Drea and the other to seduce her. To complicate matters, the men share a secret relationship of their own. Life on the home front is no less perilous than the front lines as Drea must face a personal tragedy alone while her friends try to survive the brutalities of war. After more than a year away, first Aidan and then Virgil return. Their unresolved issues reemerge and long-kept secrets are revealed. Can Aidan, Virgil and Drea find a way through the confusion, misunderstanding and undeniable attraction each of them feels for the others? Or will they have to accept that the ties they formed as children are not meant to last into adulthood? Warning, this title contains the following: explicit sex involving M/F/M in all permutations.", 
-    "format": "Paperback", 
+    "description": "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it for free on the web. Purchase of the Kindle edition includes wireless delivery.", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/30311", 
@@ -41,9 +39,7 @@
     "authors": [
         78
     ], 
-    "pages": 232, 
     "language": "English", 
-    "isbn13": "9781599988214", 
     "countries": [
         2
     ], 
@@ -52,10 +48,10 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "already-own-need-to-read", 
-        "wrote", 
-        "to-acquire", 
-        "paperback-wishlist"
+        "science-fiction", 
+        "currently-reading", 
+        "owned", 
+        "kindle"
     ], 
     "content_available": true, 
     "n_authors": 1

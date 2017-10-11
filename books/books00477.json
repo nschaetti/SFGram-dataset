@@ -1,6 +1,4 @@
 {
-    "isbn": "0991660102", 
-    "language_code": "eng", 
     "author_name": "Mack Reynolds", 
     "images_urls": [
         "http://www.gutenberg.org/files/30339/30339-h/images/p12.png", 
@@ -22,15 +20,14 @@
         "found": false
     }, 
     "average_rating": 4.5, 
-    "rating_count": 13, 
+    "rating_count": 4, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/21568724-status-quo", 
-        "found": true, 
-        "year": 2014
+        "url": "https://www.goodreads.com/book/show/11560700-status-quo", 
+        "found": true
     }, 
     "similar_books": [], 
+    "description": "The things a man believes in are practical things -- objective, useful-to-him things, really. So he will, of course, when forced to it sacrifice all his beliefs for the \"things\" he believes in!<br /><br />The Boss's reception secretary looked up when Lawrence Woolford entered the anteroom where she presided. \"Hello, Larry,\" she said. \"Hear they called your vacation short. Darn shame.\"<br /><br />The boss apologized, too. \"I am sorry to cut short your vacation, Lawrence. I considered giving Walter Foster the assignment, but I think you're the better choice.\"<br /><br />Larry decided the faint praise routine was the best tactic, said earnestly about his closest rival. \"Walt's a good man, sir.\" And then, \"What's the crisis?\"", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
-    "format": "Paperback", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/30339", 
         "num": 30339
@@ -38,9 +35,7 @@
     "authors": [
         69
     ], 
-    "pages": 390, 
     "language": "English", 
-    "isbn13": "9780991660100", 
     "countries": [
         2
     ], 
@@ -48,35 +43,18 @@
     "author": 69, 
     "classes": [
         "to-read", 
-        "goodreads-giveaways", 
-        "fiction", 
-        "literary-fiction", 
-        "first-reads", 
-        "first-read", 
-        "books-about-books", 
-        "writing", 
-        "venezuela", 
-        "south-america", 
-        "satire", 
-        "reviewed-or-to-review", 
-        "quirky", 
-        "offbeat", 
-        "my-bookshelf", 
-        "my-books", 
-        "latino", 
-        "indie", 
-        "humor", 
-        "first-reads-wins", 
-        "favorites", 
-        "drama", 
-        "currently-reading", 
-        "creativity", 
-        "chrissy-s-hope-to-reads", 
-        "black-comedy", 
-        "biba-winner", 
-        "art", 
-        "2014-read", 
-        "10-books-to-read-next"
+        "21st-century-lit", 
+        "pg", 
+        "_current_queue", 
+        "unknown-genre", 
+        "ei-suom", 
+        "to-read-2e-sf-d", 
+        "english", 
+        "to-read-2-en-sf", 
+        "c2-f-en", 
+        "h-sf", 
+        "to-read-2e-sf", 
+        "to-read-2-en"
     ], 
     "content_available": false, 
     "n_authors": 1

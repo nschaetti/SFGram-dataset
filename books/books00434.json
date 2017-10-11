@@ -1,6 +1,6 @@
 {
     "content_name": "29159.txt.utf-8", 
-    "isbn": "0956116531", 
+    "isbn": "3655277288", 
     "author_name": "Bill Garson", 
     "images_urls": [
         "http://www.gutenberg.org/files/29159/29159-h/images/001.png"
@@ -16,11 +16,10 @@
         "found": false
     }, 
     "average_rating": 3.22, 
-    "rating_count": 22, 
+    "rating_count": 4, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/7188408-acid-bath", 
-        "found": true, 
-        "year": 1952
+        "url": "https://www.goodreads.com/book/show/12671943-acid-bath", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
@@ -32,7 +31,7 @@
         145
     ], 
     "language": "English", 
-    "isbn13": "9780956116536", 
+    "isbn13": "9783655277287", 
     "countries": [
         2
     ], 
@@ -40,22 +39,8 @@
     "author": 145, 
     "content_cleaned": true, 
     "classes": [
-        "to-read", 
         "science-fiction", 
-        "fiction", 
-        "sci-fi", 
-        "e-shelf", 
-        "own-not-read", 
-        "short-story", 
-        "horror", 
-        "audio-obtained", 
-        "si-fi-fantasy", 
-        "soft-copy", 
-        "short", 
-        "science-fict", 
-        "type-short-story", 
-        "audio-obtained-ss", 
-        "audio-books"
+        "currently-reading"
     ], 
     "content_available": true, 
     "n_authors": 1

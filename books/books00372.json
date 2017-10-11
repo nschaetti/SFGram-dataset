@@ -1,6 +1,5 @@
 {
     "content_name": "22869.txt.utf-8", 
-    "isbn": "0615965520", 
     "language_code": "eng", 
     "author_name": "Alan Edward Nourse", 
     "images_urls": [
@@ -44,15 +43,13 @@
         "found": false
     }, 
     "average_rating": 4.17, 
-    "rating_count": 3, 
+    "rating_count": 14, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/23646690-beyond-a-dark-door", 
-        "found": true, 
-        "year": 2014
+        "url": "https://www.goodreads.com/book/show/8810255-the-dark-door", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "Beyond A Dark Door ...lies the mirror to who we really are. Dare to look? Fresh from the success of last year's collection of chilling short stories, Beyond the Pale: 5 Arresting Tales of Love &amp; Other Hauntings, multi-award winning author K. Patrick Malone returns with a collection of eerie short novels that cross the narrow threshold of the human psyche into the terrifying sideshow on the other side. Beginning with the diabolically criminal tale of The Malefactor to the spooky western bedtime story of Ol' Uncle Jesse &amp; the Haunting Refrain (2013 New England Book Festival Winner) through the shockingly cerebral centerpiece of The Ascent of Eamon O'Dowd and culminating with the magically mechanical finale of A Toolbox for Mister Jimmy (2013 San Francisco Book Festival Winner), K. Patrick Malone once again proves that nothing is ever what it seems as we travel through the complex labyrinth of the human soul. So be brave, readers. Dare yourselves to reach out for the knob, turn it slowly and peek inside, but hold on tight as you find yourselves hypnotically drawn, step by uneasy step, into the places that lie...beyond a dark door. \"There are things known and there are things unknown, and in between are the doors of perception.\" -Aldous Huxley", 
-    "format": "Paperback", 
+    "description": "\"...he knew the game-playing was over. They wanted to kill him now. And he knew that ultimately they would kill him. There was no way for him to escape.\" From Text<br /><br />First published in The Counterfeit Man More Science Fiction Stories by Alan E. Nourse.", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/22869", 
@@ -61,9 +58,7 @@
     "authors": [
         108
     ], 
-    "pages": 272, 
     "language": "English", 
-    "isbn13": "9780615965529", 
     "countries": [
         2
     ], 
@@ -72,8 +67,15 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "giveaways-entered", 
-        "good-reads-giveaways"
+        "randoms", 
+        "audio", 
+        "novellas-poems-shorts", 
+        "fiction", 
+        "short-story", 
+        "to-read-1", 
+        "13", 
+        "type-short-story", 
+        "to-read-temp"
     ], 
     "content_available": true, 
     "n_authors": 1

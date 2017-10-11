@@ -17,7 +17,7 @@ p7
 I1893
 sS'author_name'
 p8
-VGriffith
+S'George Griffith'
 p9
 sS'images_urls'
 p10

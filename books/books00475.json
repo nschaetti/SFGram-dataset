@@ -1,6 +1,6 @@
 {
     "content_name": "51616.txt.utf-8", 
-    "isbn": "1580628516", 
+    "isbn": "1515405923", 
     "author_name": "Con Blomberg", 
     "images_urls": [
         "http://www.gutenberg.org/files/51616/51616-h/images/cover.jpg", 
@@ -16,16 +16,14 @@
         "found": false
     }, 
     "average_rating": 2.75, 
-    "rating_count": 4, 
+    "rating_count": 0, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/51616/pg51616.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/1993726.Sales_Talk", 
-        "found": true, 
-        "year": 2003
+        "url": "https://www.goodreads.com/book/show/30004068-sales-talk", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "The key to successful sales is in the medium and going back to the basics -- talking, writing, and nonverbal communication. Sales Talk is a complete program designed to improve communication skills through myriad means -- from reading more to listening better to developing effective presentations to employing the timely, refreshing pause. Using his highly effective techniques, longtime sales trainer Len Serafino guides the reader on how to: -- Convey passion in a pitch -- Use presentation tools to one's best advantage -- Approach the sales call -- Know when to listen -- Factor in nonverbal communication -- Master public speaking Perfect for salespeople at any level, Sales Talk is an ideal resource guaranteed to be an asset during any sales situation -- no matter how challenging.", 
-    "format": "Paperback", 
+    "description": "To live different and exciting lives, all I had to do was sign here-and give up my own life!", 
     "loc_class": "", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/51616", 
@@ -34,9 +32,9 @@
     "authors": [
         159
     ], 
-    "pages": 208, 
+    "pages": 20, 
     "language": "English", 
-    "isbn13": "9781580628518", 
+    "isbn13": "9781515405924", 
     "countries": [
         3
     ], 
@@ -44,9 +42,8 @@
     "author": 159, 
     "content_cleaned": true, 
     "classes": [
-        "to-read", 
-        "_to-read", 
-        "_business"
+        "unread", 
+        "science-fiction"
     ], 
     "content_available": true, 
     "n_authors": 1

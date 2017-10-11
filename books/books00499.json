@@ -1,7 +1,5 @@
 {
     "content_name": "51823.txt.utf-8", 
-    "isbn": "0811200884", 
-    "language_code": "eng", 
     "author_name": "Stephen Barr", 
     "images_urls": [
         "http://www.gutenberg.org/files/51823/51823-h/images/cover.jpg", 
@@ -19,16 +17,14 @@
         "found": false
     }, 
     "average_rating": 3.7, 
-    "rating_count": 20, 
+    "rating_count": 0, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/51823/pg51823.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/704933.With_Eyes_at_the_Back_of_Our_Heads", 
-        "found": true, 
-        "year": 1959
+        "url": "https://www.goodreads.com/book/show/32939897-the-back-of-our-heads", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "", 
-    "format": "Hardcover", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/51823", 
         "num": 51823
@@ -37,7 +33,6 @@
         167
     ], 
     "language": "English", 
-    "isbn13": "9780811200882", 
     "countries": [
         3
     ], 
@@ -46,15 +41,9 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "poetry", 
-        "currently-reading", 
-        "mfa", 
-        "off-and-on", 
-        "na", 
-        "0-100", 
-        "unindexed", 
-        "practice-list", 
-        "poetry-poetics"
+        "unknown-publication-dates", 
+        "shelf-b-authors", 
+        "genre-syfi-fan-horr"
     ], 
     "content_available": true, 
     "n_authors": 1

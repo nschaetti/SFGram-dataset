@@ -18,11 +18,10 @@
         "found": false
     }, 
     "average_rating": 3.36, 
-    "rating_count": 20, 
+    "rating_count": 21, 
     "goodreads": {
         "url": "https://www.goodreads.com/book/show/19005416-operation-r-s-v-p", 
-        "found": true, 
-        "year": 2011
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 

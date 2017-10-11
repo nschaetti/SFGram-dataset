@@ -22,7 +22,6 @@
     }, 
     "similar_books": [], 
     "description": "This is a pre-1923 historical reproduction that was curated for quality. Quality assurance was conducted on each of these books in an attempt to remove books with imperfections introduced by the digitization process. Though we have made best efforts - the books may have occasional errors that do not impede the reading experience. We believe this work is culturally important and have elected to bring the book back into print as part of our continuing commitment to the preservation of printed works worldwide.", 
-    "format": "Paperback", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/17958", 
@@ -31,8 +30,8 @@
     "authors": [
         177
     ], 
-    "language": "English", 
     "isbn13": "9781434619341", 
+    "language": "English", 
     "countries": [
         2
     ], 
