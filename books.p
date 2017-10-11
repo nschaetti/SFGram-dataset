@@ -83176,7 +83176,7 @@ p34360
 sg11
 I1919
 sg12
-VPierre Beno�t
+S'Pierre Benoit'
 p34361
 sg14
 (lp34362

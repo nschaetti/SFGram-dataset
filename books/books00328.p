@@ -23,7 +23,7 @@ p10
 I1919
 sS'author_name'
 p11
-VPierre Beno�t
+S'Pierre Benoit'
 p12
 sS'images_urls'
 p13
