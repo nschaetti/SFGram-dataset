@@ -25,7 +25,6 @@
     }, 
     "similar_books": [], 
     "description": "Wilbur Murphy sought romance, excitement, and an impossible Horseman of Space. With polite smiles, the planet frustrated him at every turn - until he found them all the hard way! A classic science fiction story originally published in the \"If Worlds of Science Fiction\" in July, 1953. Includes a detailed \"About the Author\" and a selected bibliography.", 
-    "format": "Paperback", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/30002", 
@@ -35,8 +34,8 @@
         89
     ], 
     "pages": 38, 
-    "language": "English", 
     "isbn13": "9781557428103", 
+    "language": "English", 
     "countries": [
         2
     ], 

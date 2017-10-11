@@ -1,7 +1,6 @@
 {
     "content_name": "51549.txt.utf-8", 
-    "isbn": "1405203382", 
-    "language_code": "eng", 
+    "isbn": "1515405966", 
     "author_name": "Fritz Leiber", 
     "images_urls": [
         "http://www.gutenberg.org/files/51549/51549-h/images/cover.jpg"
@@ -17,16 +16,14 @@
         "found": false
     }, 
     "average_rating": 3.92, 
-    "rating_count": 34, 
+    "rating_count": 8, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/51549/pg51549.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/5633934-gordon-the-big-engine", 
-        "found": true, 
-        "year": 1953
+        "url": "https://www.goodreads.com/book/show/30004072-the-big-engine", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "Gordon, that proud and pompous Express Engine, appeared in all the earlier books in this series, but this is the first time that he has had a book named after him.", 
-    "format": "Hardcover", 
+    "description": "Have you found out about the Big Engine? It's all around us, you know-can't you hear it even now?", 
     "loc_class": "", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/51549", 
@@ -35,9 +32,9 @@
     "authors": [
         32
     ], 
-    "pages": 72, 
+    "pages": 20, 
     "language": "English", 
-    "isbn13": "9781405203388", 
+    "isbn13": "9781515405962", 
     "countries": [
         2
     ], 
@@ -45,33 +42,15 @@
     "author": 32, 
     "content_cleaned": true, 
     "classes": [
+        "short-stories", 
+        "sci-fi", 
         "to-read", 
-        "childrens", 
-        "children-s", 
-        "picture-books", 
-        "children", 
+        "science-fiction", 
         "fiction", 
-        "first-readers", 
-        "zowned", 
-        "style_kid_picture", 
-        "ljc_read", 
-        "format_hardcopy", 
-        "faves_ljc", 
-        "books-i-own", 
-        "jake", 
-        "read-to-me", 
-        "before-i-turned-3", 
-        "childhood", 
-        "bedroom", 
-        "my-library", 
-        "childrens-fiction", 
-        "preschool-books", 
-        "children-s-books", 
-        "kids-books", 
-        "thomas", 
-        "daniel", 
-        "currently-reading", 
-        "rowena-s-books"
+        "audiobooks-read", 
+        "1-star", 
+        "audiobooks", 
+        "finished-2016"
     ], 
     "content_available": true, 
     "n_authors": 1
