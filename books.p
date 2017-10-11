@@ -87737,7 +87737,7 @@ p36085
 sg11
 I1952
 sg12
-Vfor Mars!
+VCarey Rockwell
 p36086
 sg14
 (lp36087
@@ -87865,7 +87865,7 @@ sg69
 I19526
 ssg70
 (lp36137
-I115
+I118
 asg72
 I1153
 sg73
