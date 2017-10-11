@@ -12,7 +12,7 @@ Rp4
 (dp5
 S'name'
 p6
-VPierre Benoît
+S'Pierre Benoit'
 p7
 sS'countries'
 p8
