@@ -1,0 +1,27 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Author
+Author
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'books'
+p6
+(lp7
+I645
+asS'id'
+p8
+I301
+sS'name'
+p9
+S'David Gordon'
+p10
+sS'countries'
+p11
+(lp12
+sb.
