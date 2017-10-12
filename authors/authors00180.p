@@ -16,7 +16,7 @@ VBorn in Chicago, Illinois. Robinson was the son of a check forger. He started o
 p7
 sS'name'
 p8
-VFrank M. Robinson
+S'Frank Robinson'
 p9
 sS'countries'
 p10

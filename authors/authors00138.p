@@ -12,7 +12,7 @@ Rp4
 (dp5
 S'name'
 p6
-VF. L. Wallace
+S'F L Wallace'
 p7
 sS'countries'
 p8

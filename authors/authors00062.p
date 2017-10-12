@@ -12,7 +12,7 @@ Rp4
 (dp5
 S'name'
 p6
-VStanley Grauman Weinbaum
+S'Stanley Weinbaum'
 p7
 sS'countries'
 p8

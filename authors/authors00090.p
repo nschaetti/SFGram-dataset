@@ -12,7 +12,7 @@ Rp4
 (dp5
 S'name'
 p6
-VGarrett Putman Serviss
+S'Garrett P Serviss'
 p7
 sS'countries'
 p8

@@ -16,7 +16,7 @@ VAlan Nourse was born August 11, 1928 to Benjamin and Grace (Ogg) Nourse in Des 
 p7
 sS'name'
 p8
-VAlan Edward Nourse
+S'Alan E Nourse'
 p9
 sS'countries'
 p10
