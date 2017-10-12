@@ -16,7 +16,7 @@ V51268.txt.utf-8
 p7
 sS'author_name'
 p8
-VFrank M. Robinson
+S'Frank Robinson'
 p9
 sS'images_urls'
 p10

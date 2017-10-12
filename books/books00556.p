@@ -21,7 +21,7 @@ p9
 I1950
 sS'author_name'
 p10
-VStanley Grauman Weinbaum
+S'Stanley Weinbaum'
 p11
 sS'images_urls'
 p12

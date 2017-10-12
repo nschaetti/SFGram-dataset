@@ -21,7 +21,7 @@ p9
 I1955
 sS'author_name'
 p10
-VF. L. Wallace
+S'F L Wallace'
 p11
 sS'images_urls'
 p12

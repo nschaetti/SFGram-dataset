@@ -23,7 +23,7 @@ p10
 I1935
 sS'author_name'
 p11
-VStanley Grauman Weinbaum
+S'Stanley Weinbaum'
 p12
 sS'images_urls'
 p13

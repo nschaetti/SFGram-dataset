@@ -21,7 +21,7 @@ p9
 I1909
 sS'author_name'
 p10
-VGarrett Putman Serviss
+S'Garrett P Serviss'
 p11
 sS'images_urls'
 p12

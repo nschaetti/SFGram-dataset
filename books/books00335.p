@@ -21,7 +21,7 @@ p9
 I1959
 sS'author_name'
 p10
-VAlan Edward Nourse
+S'Alan E Nourse'
 p11
 sS'images_urls'
 p12
