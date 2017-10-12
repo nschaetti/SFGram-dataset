@@ -1,7 +1,7 @@
 {
     "content_name": "22882.txt.utf-8", 
     "language_code": "eng", 
-    "author_name": "Alan Edward Nourse", 
+    "author_name": "Alan E Nourse", 
     "images_urls": [
         "http://www.gutenberg.org/files/22882/22882-page-images/p136.png", 
         "http://www.gutenberg.org/files/22882/22882-page-images/p137.png", 
@@ -42,7 +42,6 @@
     }, 
     "similar_books": [], 
     "description": "An Earth colony battles for freedom.", 
-    "format": "Audiobook", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/22882", 

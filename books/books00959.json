@@ -1,7 +1,5 @@
 {
     "content_name": "23636.txt.utf-8", 
-    "isbn": "1936909529", 
-    "language_code": "eng", 
     "author_name": "Murray Leinster", 
     "images_urls": [
         "http://www.gutenberg.org/files/23636/23636-h/images/illus1.jpg", 
@@ -55,34 +53,12 @@
         "found": false
     }, 
     "average_rating": 3.15, 
-    "rating_count": 25, 
+    "rating_count": 9, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/16031522-a-matter-of-importance", 
-        "found": true, 
-        "year": 2012
+        "url": "https://www.goodreads.com/book/show/6303377-a-matter-of-importance", 
+        "found": true
     }, 
-    "similar_books": [
-        "The Facts of Business Life: What Every Successful Business Owner Knows That You Don't", 
-        "Summer Falls", 
-        "Yesterday's Echo (Rick Cahill, #1)", 
-        "The Evolution of Wealth: An Economic History of Innovation and Capitalism, the Role of Government, and the Hazards of Democracy", 
-        "Rare Atmosphere: An Extraordinary Inter-dimensional Affair of the Heart", 
-        "The Real Verdict: My Quest for the Freedom I Never Had", 
-        "Arts & Crafts Shows: The Top 10 Mistakes Artist Vendors Make... And How to Avoid Them!", 
-        "A Personal Message From God", 
-        "Excessive Entanglement", 
-        "Executive in Sweatpants: A Handbook for Launching Your Work from Home Career", 
-        "The Third Peril", 
-        "Nelson: The Sword of Albion", 
-        "The Reconstruction of Wilson Ryder", 
-        "The Making of the Great Communicator: Ronald Reagan's Transformation from Actor to Governor", 
-        "Arguing for Our Lives: Critical Thinking in Crisis Times", 
-        "Watchdogg and the Ghost Army (Forty Days to Armageddon #2)", 
-        "The Book of Business Awesome: How Engaging Your Customers and Employees Can Make Your Business Thrive", 
-        "The General and Monaville, Texas"
-    ], 
-    "description": "The American economy is sliding under the rising tide of deficit spending. Can the next generation of Sentinels reverse the downturn? Four years after the bursting of the great consumer debt bubble, the country is dangerously overleveraged and underemployed. The United States is quickly losing its competitive edge against the goods-producing industries of China and India. In an environment of stagnated government leadership, five highly accomplished entrepreneurial leaders step forward. They hope to solve the economic problems by implementing \u201cEmploy American,\u201d a step-by-step strategy designed to restore the competitiveness of American manufacturers. Sovereign governments, offshore manufacturers, foreign oil producers, and domestic power-generating utility companies are threatened by the possible realization of the \u201cEmploy American\u201d plan. Their efforts to prevent the Sentinels from achieving their goal are constantly, menacingly present. A Matter of Importance unfolds through the drama of the evolving lives of each of the principal characters. Romance, fear, victory, and disappointment are never very far away.", 
-    "format": "Paperback", 
+    "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/23636", 
@@ -91,9 +67,7 @@
     "authors": [
         61
     ], 
-    "pages": 334, 
     "language": "English", 
-    "isbn13": "9781936909520", 
     "countries": [
         2
     ], 
@@ -102,32 +76,17 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "first-reads", 
+        "sci-fi", 
         "currently-reading", 
-        "politics", 
-        "business", 
-        "owned-unread", 
-        "not-this-type", 
-        "suspense", 
-        "wish-list", 
-        "financial", 
-        "fiction", 
-        "dystopia", 
-        "arrived", 
-        "historical-fiction", 
-        "books-that-i-have-won", 
-        "reordering", 
-        "entered-to-win", 
-        "sweeps", 
-        "whatevs", 
-        "intrigue", 
-        "giveaway", 
-        "unaquired", 
-        "chrissy-s-hope-to-reads", 
-        "1-17", 
-        "won-it-on-goodreads-first-reads", 
-        "first-reads-won", 
-        "unacquired"
+        "library", 
+        "ebooks", 
+        "listened-on-podcast", 
+        "forgotten-classics", 
+        "audiobooks", 
+        "podcast", 
+        "science-fiction", 
+        "scifi", 
+        "classic-sci-fi"
     ], 
     "content_available": true, 
     "n_authors": 1

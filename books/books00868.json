@@ -1,7 +1,7 @@
 {
     "content_name": "50969.txt.utf-8", 
     "isbn": "1523791950", 
-    "author_name": "F. L. Wallace", 
+    "author_name": "F L Wallace", 
     "images_urls": [
         "http://www.gutenberg.org/files/50969/50969-h/images/cover.jpg", 
         "http://www.gutenberg.org/files/50969/50969-h/images/illus1.jpg", 
@@ -28,7 +28,6 @@
     }, 
     "similar_books": [], 
     "description": "This collection of literature attempts to compile many of the classic works that have stood the test of time and offer them at a reduced, affordable price, in an attractive volume so that everyone can enjoy them.", 
-    "format": "Paperback", 
     "loc_class": "", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/50969", 

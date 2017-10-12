@@ -1,6 +1,5 @@
 {
     "content_name": "28924.txt.utf-8", 
-    "language_code": "en-GB", 
     "author_name": "Robert F. Young", 
     "images_urls": [], 
     "year": 1956, 
@@ -13,15 +12,13 @@
         "found": false
     }, 
     "average_rating": 3.6, 
-    "rating_count": 20, 
+    "rating_count": 12, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/17449207-collector-s-item", 
-        "found": true, 
-        "year": 2013
+        "url": "https://www.goodreads.com/book/show/10360401-collector-s-item", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "Alpha were-jaguar, Katarina \"KT\" Marant is trained to protect the pride so when her aunt disappears, KT naturally takes up the hunt. Her suspicion settles on the Collectors, humans who view shapeshifters as the ultimate big game.<br /><br />Peyton Allers can't believe he's got to blow his cover to rescue a shapeshifter \"princess.\" Even harder to believe is that she wants to stage her own kidnapping in order to catch the leader of the Collectors and find her aunt.<br /><br />Everything goes sideways when KT is kidnapped for real and by someone she never suspected. Will Peyton find her before time runs out? Or will she become a true Collector's Item?", 
-    "format": "Kindle Edition", 
+    "description": "We've often wondered what would happen if Robert Young should cease to be a lyrically intense writer for a story or two, forsaking the bright poetic worlds of Miss Katy Three and The First Sweet Sleep Of Night to become dispassionately analytical on a cosmic scale. Now we know! He'd chill us to the bone by setting two squixes to brooding over a never-to-be-born Earth, exactly as he's done here. And thrill us, too -- with the liveliest kind of entertainment.<br /><br />Originally published short story from Fantastic Worlds, Sept 1956, now available thru Gutenberg et. al.", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/28924", 
@@ -30,7 +27,7 @@
     "authors": [
         153
     ], 
-    "pages": 148, 
+    "pages": 13, 
     "language": "English", 
     "countries": [
         2
@@ -40,48 +37,16 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "freebies", 
-        "kindle", 
-        "free", 
-        "fantasy", 
-        "kindle-mess-unread", 
-        "free-not-read", 
-        "owned-kindle", 
-        "type-novel", 
-        "fiction-romance-paranormal", 
-        "fiction-romance-contemporary", 
-        "fiction-romance", 
-        "fiction", 
-        "booktype-novel", 
-        "bookmedium-ebook-kindle-free", 
-        "kindle-freebie", 
-        "howling-at-the-moon", 
-        "fantasy-paranormal", 
+        "science-fiction", 
+        "authors-r-through-z", 
+        "owned-pending-kindle-free-ebook", 
+        "15", 
+        "short-story", 
+        "ebooks", 
+        "eb-other", 
+        "eb", 
         "ebook", 
-        "year-2013-challenge", 
-        "paranormal-romance", 
-        "wishlist-caught-my-eye", 
-        "mine", 
-        "e-book", 
-        "no-thanks", 
-        "werewolves-shifters", 
-        "to-read-kindle", 
-        "2013-kindle-freebie", 
-        "top-to-read", 
-        "short-story-100", 
-        "pnr", 
-        "para-shifter", 
-        "para-cat", 
-        "para", 
-        "own-free-book", 
-        "held-captive-abused", 
-        "1-have-remove-once-read", 
-        "wolf-shifter", 
-        "kindle-books-to-lend", 
-        "werewolves-other-shifters", 
-        "pnr-scifi-rom", 
-        "kindle-lendable", 
-        "to-buy"
+        "type-short-story"
     ], 
     "content_available": true, 
     "n_authors": 1

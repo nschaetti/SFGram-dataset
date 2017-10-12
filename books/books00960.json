@@ -37,7 +37,6 @@
         "Tanglewood Tales: A Wonder-Book for Girls and Boys"
     ], 
     "description": "French naturalist Dr. Aronnax embarks on an expedition to hunt down a sea monster, only to discover instead the Nautilus, a remarkable submarine built by the enigmatic Captain Nemo. Together Nemo and Aronnax explore the underwater marvels, undergo a transcendent experience amongst the ruins of Atlantis, and plant a black flag at the South Pole. But Nemo's mission is one of revenge-and his methods coldly efficient.", 
-    "format": "Paperback", 
     "loc_class": "PQ: Language and Literatures: Romance literatures: French, Italian, Spanish, Portuguese", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/11393", 
@@ -47,8 +46,8 @@
         6
     ], 
     "pages": 236, 
-    "language": "Dutch", 
     "isbn13": "9781537160917", 
+    "language": "Dutch", 
     "countries": [
         4
     ], 

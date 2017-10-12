@@ -1,7 +1,6 @@
 {
     "content_name": "51657.txt.utf-8", 
-    "isbn": "0821752383", 
-    "language_code": "eng", 
+    "isbn": "1515405788", 
     "author_name": "Jim Harmon", 
     "images_urls": [
         "http://www.gutenberg.org/files/51657/51657-h/images/cover.jpg", 
@@ -20,16 +19,14 @@
         "found": false
     }, 
     "average_rating": 3.25, 
-    "rating_count": 15, 
+    "rating_count": 2, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/51657/pg51657.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/1565162.Miss_Charity_s_Case", 
-        "found": true, 
-        "year": 1996
+        "url": "https://www.goodreads.com/book/show/30004051-charity-case", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "At 26, Miss Charity Stuart was on the shelf. But she believed that her pretty younger sister could still snare an aristocratic suitor--especially when their blue-blooded aunt invited them to London for the Season. Then, en route, Charity met the devilishly handsome Lord Blackburn and soon the whole town was buzzing.", 
-    "format": "Paperback", 
+    "description": "Certainly I see things that aren't there and don't say what my voice says-but how can I prove that I don't have my health?", 
     "loc_class": "", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/51657", 
@@ -38,35 +35,16 @@
     "authors": [
         142
     ], 
-    "pages": 223, 
+    "pages": 20, 
     "language": "English", 
-    "isbn13": "9780821752388", 
+    "isbn13": "9781515405788", 
     "countries": [
         2
     ], 
     "release_date": "2016-04-04T00:00:00", 
     "author": 142, 
     "content_cleaned": true, 
-    "classes": [
-        "to-read", 
-        "regency", 
-        "romance", 
-        "lista-dei-desideri", 
-        "3m", 
-        "tbr-master-list", 
-        "fiction", 
-        "lista-desideri", 
-        "to-read-hist-brit-tr", 
-        "books", 
-        "hist\u00ef\u00bf\u00bdrico", 
-        "own-to-read", 
-        "paperback-collection", 
-        "romance-regency", 
-        "romance-historical", 
-        "a-500-shelf-to-read", 
-        "historical-romance", 
-        "ebook"
-    ], 
+    "classes": [], 
     "content_available": true, 
     "n_authors": 1
 }

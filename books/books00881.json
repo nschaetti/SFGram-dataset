@@ -1,7 +1,5 @@
 {
     "content_name": "32351.txt.utf-8", 
-    "isbn": "0810928868", 
-    "language_code": "eng", 
     "author_name": "Stephen Marlowe", 
     "images_urls": [
         "http://www.gutenberg.org/files/32351/32351-h/images/cover.jpg", 
@@ -39,16 +37,13 @@
         "found": false
     }, 
     "average_rating": 3.81, 
-    "rating_count": 16, 
+    "rating_count": 3, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/32351/pg32351.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/1726988.Mummies", 
-        "found": true, 
-        "year": -1
+        "url": "https://www.goodreads.com/book/show/22470595-voyage-to-eternity", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "Well-written, loaded with information, and with a rich assortment of illustrations, each Discoveries \"RM\" volume is a look at one facet of art, archaeology, music, history, philosophy, popular culture, science, or nature. These innovatively designed, affordably priced, compact paperbacks bring ideas to life and amplify our understanding of civilization in a new way.", 
-    "format": "Paperback", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/32351", 
@@ -57,9 +52,7 @@
     "authors": [
         79
     ], 
-    "pages": 127, 
     "language": "English", 
-    "isbn13": "9780810928862", 
     "countries": [
         2
     ], 
@@ -68,35 +61,9 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
-        "history", 
-        "abrams-discoveries", 
-        "ancient-egypt", 
-        "non-fiction", 
-        "own-it", 
-        "want-to-own", 
-        "nonfict", 
-        "blue-tote-8-mix", 
-        "decouvertes-gallimard-owned", 
-        "owned", 
-        "\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430", 
-        "egyptian", 
-        "series-discoveries", 
-        "science", 
-        "abrams-discoveries-series", 
-        "ex-libris", 
-        "science-archaeology", 
-        "books-i-own", 
-        "home-library", 
-        "nonfiction", 
-        "egyptology", 
-        "ancient-egypt-mummies", 
-        "mummy", 
-        "egypt", 
-        "africa", 
-        "read-in-2010", 
-        "archaeology", 
-        "art", 
-        "egyptology--"
+        "e-shelf", 
+        "potential-delete", 
+        "scifi"
     ], 
     "content_available": true, 
     "n_authors": 1

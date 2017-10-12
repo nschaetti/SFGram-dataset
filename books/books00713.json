@@ -1,6 +1,5 @@
 {
     "content_name": "31599.txt.utf-8", 
-    "isbn": "0385262825", 
     "author_name": "Roger D. Aycock", 
     "images_urls": [
         "http://www.gutenberg.org/files/31599/31599-h/images/cover.jpg", 
@@ -16,16 +15,14 @@
         "found": false
     }, 
     "average_rating": 3.81, 
-    "rating_count": 16, 
+    "rating_count": 3, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/31599/pg31599.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/659148.Remembering_Charlie", 
-        "found": true, 
-        "year": -1
+        "url": "https://www.goodreads.com/book/show/24623082-to-remember-charlie-by", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
-    "format": "Hardcover", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/31599", 
         "num": 31599
@@ -33,33 +30,14 @@
     "authors": [
         162
     ], 
-    "pages": 228, 
     "language": "English", 
-    "isbn13": "9780385262828", 
     "countries": [
         2
     ], 
     "release_date": "2010-03-11T00:00:00", 
     "author": 162, 
     "content_cleaned": true, 
-    "classes": [
-        "to-read", 
-        "biography-memoirs", 
-        "non-fiction", 
-        "autobiographies-biographies", 
-        "scavenged", 
-        "historical", 
-        "biography", 
-        "other", 
-        "kijkboek", 
-        "film", 
-        "theater-history", 
-        "hollywood-history", 
-        "biographies", 
-        "making-of-movies-and-tv-shows", 
-        "theater-and-vaudeville", 
-        "hollywood"
-    ], 
+    "classes": [], 
     "content_available": true, 
     "n_authors": 1
 }

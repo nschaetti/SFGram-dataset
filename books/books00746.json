@@ -1,7 +1,7 @@
 {
     "content_name": "49165.txt.utf-8", 
     "isbn": "1681465051", 
-    "author_name": "Alan Edward Nourse", 
+    "author_name": "Alan E Nourse", 
     "images_urls": [
         "http://www.gutenberg.org/files/49165/49165-h/images/cover.jpg"
     ], 
@@ -24,7 +24,6 @@
     }, 
     "similar_books": [], 
     "description": "Four men set out to prove their mettle by crossing the bright side of Mercury when it is closest to the sun. A feat which no one has ever done and survived. The odds are against them and they will need all of their expertise and courage if they are to succeed. Even that might not be enough.", 
-    "format": "ebook", 
     "loc_class": "", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/49165", 

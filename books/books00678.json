@@ -1,5 +1,6 @@
 {
     "content_name": "27797.txt.utf-8", 
+    "language_code": "eng", 
     "author_name": "Gerald Vance", 
     "images_urls": [
         "http://www.gutenberg.org/files/27797/27797-h/images/001.png", 
@@ -24,13 +25,13 @@
         "found": false
     }, 
     "average_rating": 3.25, 
-    "rating_count": 4, 
+    "rating_count": 14, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/10663606-vital-ingredient", 
-        "found": true, 
-        "year": 2009
+        "url": "https://www.goodreads.com/book/show/13459903-vital-ingredient", 
+        "found": true
     }, 
     "similar_books": [], 
+    "description": "<b>Frankie was ready for the big test\u2014Ten-Time Winner of the world title. He was young and fit and able; also, he had Milt's cunning brain to direct every feint and punch. This left only one thing in doubt, the\u2014\u2014</b><br /><i>Mental Powers</i><br />Play Duration: 00:16:24 <br />Public Domain stories from Project Gutenberg, that are read by volunteers. <br />First published in Amazing Stories magazine<br /><u>Free download from LibriVox.org</u> <br />Down load file sizes<br />[mp3@64kbps - 7.8MB]<br />[mp3@128kbps - 15.7MB]<br />[ogg vorbis - 9.83MB]", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/27797", 
@@ -47,10 +48,16 @@
     "author": 185, 
     "content_cleaned": true, 
     "classes": [
-        "unread", 
-        "ebooks", 
-        "14", 
-        "stanza"
+        "science-fiction", 
+        "audio", 
+        "short-story", 
+        "to-read", 
+        "audio-obtained-lvss", 
+        "15", 
+        "sci-fi", 
+        "type-short-story", 
+        "audio-obtained-ss", 
+        "audio-books"
     ], 
     "content_available": true, 
     "n_authors": 1

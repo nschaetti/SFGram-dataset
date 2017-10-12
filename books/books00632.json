@@ -26,7 +26,6 @@
     }, 
     "similar_books": [], 
     "description": "Alcorn's wild talent was miraculous . . . he brought peace to everybody who came near him. Only one person was exempt -- himself!<br /><br />\"I've had you under surveillance for days,\" Jeffers said. \"I'm taking no chances on you.\"<br /><br />Alcorn turned back to face him. \"You've found others? Where and --\"<br /><br />\"I'll tell you that when you're on my payroll.\"<br /><br />\"It's a trick,\" Alcorn said angrily. \"I searched for years before I settled down with Consolidated and I didn't find a trace of anybody like myself. I don't believe there are any.\"<br /><br />\"Most of them covered themselves better.\" Jaffers added, with cold finality, \"I don't haggle, Alcorn. You'll work for me or for no one.\"", 
-    "format": "Hardcover", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/32209", 
@@ -36,8 +35,8 @@
         162
     ], 
     "pages": 36, 
-    "language": "English", 
     "isbn13": "9781463896652", 
+    "language": "English", 
     "countries": [
         2
     ], 

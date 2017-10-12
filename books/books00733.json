@@ -1,6 +1,5 @@
 {
     "content_name": "29989.txt.utf-8", 
-    "isbn": "0865711054", 
     "author_name": "H. B. Fyfe", 
     "images_urls": [
         "http://www.gutenberg.org/files/29989/29989-h/images/image_001.jpg", 
@@ -18,9 +17,8 @@
     "average_rating": 5.0, 
     "rating_count": 3, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/2090656.An_Outbreak_of_Peace", 
-        "found": true, 
-        "year": 1987
+        "url": "https://www.goodreads.com/book/show/24750300-the-outbreak-of-peace", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
@@ -32,14 +30,18 @@
         94
     ], 
     "language": "English", 
-    "isbn13": "9780865711051", 
     "countries": [
         2
     ], 
     "release_date": "2009-09-14T00:00:00", 
     "author": 94, 
     "content_cleaned": true, 
-    "classes": [], 
+    "classes": [
+        "to-read", 
+        "free-from-amazon", 
+        "classic", 
+        "currently-reading"
+    ], 
     "content_available": true, 
     "n_authors": 1
 }

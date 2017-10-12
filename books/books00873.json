@@ -1,4 +1,5 @@
 {
+    "isbn": "1463896387", 
     "author_name": "Ed M. Clinton", 
     "images_urls": [
         "http://www.gutenberg.org/files/35759/35759-h/images/cover.jpg", 
@@ -16,14 +17,14 @@
         "found": false
     }, 
     "average_rating": 3.54, 
-    "rating_count": 27, 
+    "rating_count": 6, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/35759/pg35759.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/11774880-security-risk", 
-        "found": true, 
-        "year": 2011
+        "url": "https://www.goodreads.com/book/show/14402956-security-risk", 
+        "found": true
     }, 
     "similar_books": [], 
+    "description": "General David Walker looked up again at the seamed face of the Chief of Staff, General Marcus Meriwether. \"This could be serious,\" he said slowly, with a sick sense of the statement's inadequacy. An old tic suddenly returned, tugging at the left corner of his mouth.<br /><br />The deadly, unsmiling expression on Meriwether's face did not change as he slid more tightly into his chair. \"You know as well as I that it means the Interplanetary Confederation is ready to go to war with us.\"", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/35759", 
@@ -32,6 +33,8 @@
     "authors": [
         231
     ], 
+    "pages": 20, 
+    "isbn13": "9781463896386", 
     "language": "English", 
     "countries": [
         2
@@ -39,37 +42,15 @@
     "release_date": "2011-04-02T00:00:00", 
     "author": 231, 
     "classes": [
+        "science-fiction", 
         "to-read", 
-        "paige-tyler", 
-        "erotic", 
-        "bdsm", 
-        "currently-reading", 
-        "kindle", 
-        "contemporary", 
-        "erotica", 
-        "kindle-books", 
-        "dl", 
-        "m", 
-        "quickies", 
-        "contemp-romance", 
-        "books-i-own", 
-        "ok", 
-        "hot", 
-        "spanking-specific", 
-        "erotic-and-contemporary", 
-        "romance-to-read", 
-        "my-dropbox", 
-        "romance-erotica", 
-        "romance-contemporary", 
-        "romance", 
-        "contemporary-erotica", 
-        "law-enforcement", 
-        "lend-me-books", 
-        "men-in-uniform", 
-        "ebook", 
-        "non-nook-books", 
-        "2-romance-to-read", 
-        "must-read"
+        "short-story", 
+        "15", 
+        "audio-obtained-lvss", 
+        "short-stories", 
+        "1950s", 
+        "type-short-story", 
+        "audio-obtained-ss"
     ], 
     "content_available": false, 
     "n_authors": 1

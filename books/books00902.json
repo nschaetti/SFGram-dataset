@@ -1,6 +1,6 @@
 {
     "content_name": "22881.txt.utf-8", 
-    "author_name": "Alan Edward Nourse", 
+    "author_name": "Alan E Nourse", 
     "images_urls": [
         "http://www.gutenberg.org/files/22881/22881-page-images/p106.png", 
         "http://www.gutenberg.org/files/22881/22881-page-images/p107.png", 
@@ -33,7 +33,6 @@
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
-    "format": "ebook", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/22881", 
         "num": 22881

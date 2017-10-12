@@ -1,7 +1,5 @@
 {
     "content_name": "28486.txt.utf-8", 
-    "isbn": "0980205204", 
-    "language_code": "eng", 
     "author_name": "Everett B. Cole", 
     "images_urls": [
         "http://www.gutenberg.org/files/28486/28486-h/images/cover.jpg", 
@@ -23,16 +21,14 @@
         "found": false
     }, 
     "average_rating": 4.38, 
-    "rating_count": 27, 
+    "rating_count": 2, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/28486/pg28486.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/4132161-the-weaklings", 
-        "found": true, 
-        "year": 2008
+        "url": "https://www.goodreads.com/book/show/6500094-the-weakling", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
-    "format": "Hardcover", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/28486", 
         "num": 28486
@@ -40,9 +36,7 @@
     "authors": [
         224
     ], 
-    "pages": 80, 
     "language": "English", 
-    "isbn13": "9780980205206", 
     "countries": [
         2
     ], 
@@ -51,27 +45,11 @@
     "content_cleaned": true, 
     "classes": [
         "to-read", 
+        "21st-century-lit", 
         "currently-reading", 
-        "poetry", 
-        "queer", 
-        "poetry-and-poetics", 
-        "general-poetry", 
-        "filthy", 
-        "ebooks", 
-        "0-0", 
-        "read-2014", 
-        "on-our-shelf", 
-        "recentlyread", 
-        "sexuality", 
-        "postmodernism", 
-        "own-it", 
-        "gay-lit", 
-        "contemporary", 
-        "read-in-2014", 
-        "daddy-dark-s-baby-warrior-list", 
-        "fiction", 
-        "livros-ingl\u00ef\u00bf\u00bds", 
-        "lgbt"
+        "short-sci-fi", 
+        "unknown-genre", 
+        "15"
     ], 
     "content_available": true, 
     "n_authors": 1

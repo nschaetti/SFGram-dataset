@@ -1,7 +1,7 @@
 {
     "content_name": "51321.txt.utf-8", 
     "isbn": "1515405168", 
-    "author_name": "Alan Edward Nourse", 
+    "author_name": "Alan E Nourse", 
     "images_urls": [
         "http://www.gutenberg.org/files/51321/51321-h/images/cover.jpg", 
         "http://www.gutenberg.org/files/51321/51321-h/images/illus.jpg"
@@ -26,7 +26,6 @@
     }, 
     "similar_books": [], 
     "description": "Being two men rolled out of one would solve my problems-but which one would I be?", 
-    "format": "ebook", 
     "loc_class": "", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/51321", 

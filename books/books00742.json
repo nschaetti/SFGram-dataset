@@ -15,16 +15,11 @@
         "found": false
     }, 
     "average_rating": 3.5, 
-    "rating_count": 2, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/51311/pg51311.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/9626388-make-me-an-offer", 
-        "found": true, 
-        "year": 2004
+        "found": false
     }, 
-    "similar_books": [], 
-    "description": "A delicious novel for anyone who's had an experience with a real estate salesperson and who craves an intimate look inside the world of residential real estate. Make Me an Offer is a tasty cocktail - part expose, a splash of romance and garnished with a zest for life!", 
-    "loc_class": "", 
+    "content_available": true, 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/51311", 
         "num": 51311
@@ -39,13 +34,6 @@
     "release_date": "2016-02-27T00:00:00", 
     "author": 159, 
     "content_cleaned": true, 
-    "classes": [
-        "to-read", 
-        "lounge", 
-        "fiction-read", 
-        "suspense", 
-        "romance"
-    ], 
-    "content_available": true, 
+    "loc_class": "", 
     "n_authors": 1
 }

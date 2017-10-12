@@ -15,11 +15,10 @@
         "found": false
     }, 
     "average_rating": 3.43, 
-    "rating_count": 77, 
+    "rating_count": 3, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/23835504-the-deadly-daughter-in-law", 
-        "found": true, 
-        "year": 2014
+        "url": "https://www.goodreads.com/book/show/24750298-the-deadly-daughters", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
@@ -38,14 +37,13 @@
     "author": 228, 
     "content_cleaned": true, 
     "classes": [
-        "currently-reading", 
-        "crime-stories-murder", 
-        "don-t-have-yet", 
-        "true-crime", 
-        "notorious-usa", 
-        "july-2015", 
-        "c", 
-        "201507"
+        "to-read", 
+        "owned", 
+        "to-read-second", 
+        "science-fiction", 
+        "unread", 
+        "ebooks", 
+        "to-read-second-owned"
     ], 
     "content_available": true, 
     "n_authors": 1

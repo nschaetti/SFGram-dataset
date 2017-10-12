@@ -1,6 +1,5 @@
 {
     "content_name": "29384.txt.utf-8", 
-    "language_code": "eng", 
     "author_name": "Victor A. Endersby", 
     "images_urls": [
         "http://www.gutenberg.org/files/29384/29384-h/images/image_001.jpg"
@@ -15,14 +14,13 @@
         "found": false
     }, 
     "average_rating": 4.2, 
-    "rating_count": 5, 
+    "rating_count": 2, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/23445006-skater-boy-luke-hemmings-au", 
-        "found": true, 
-        "year": -1
+        "url": "https://www.goodreads.com/book/show/22493357-disowned", 
+        "found": true
     }, 
     "similar_books": [], 
-    "description": "He wanted her, she'd never tell, secretly, she wanted him as well.", 
+    "description": "This book was converted from its physical edition to the digital format by a community of volunteers. You may find it free on the web. Purchase of the Kindle edition includes wireless delivery.", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/29384", 
@@ -39,8 +37,8 @@
     "author": 261, 
     "content_cleaned": true, 
     "classes": [
-        "to-read", 
-        "currently-reading"
+        "calibre", 
+        "to-read"
     ], 
     "content_available": true, 
     "n_authors": 1

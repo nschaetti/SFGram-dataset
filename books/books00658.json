@@ -1,6 +1,6 @@
 {
     "content_name": "26772.txt.utf-8", 
-    "isbn": "0690007892", 
+    "language_code": "eng", 
     "author_name": "Jesse F. Bone", 
     "images_urls": [
         "http://www.gutenberg.org/files/26772/26772-h/images/001.png", 
@@ -43,15 +43,13 @@
         "found": false
     }, 
     "average_rating": 3.29, 
-    "rating_count": 19, 
+    "rating_count": 1, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/3758553-a-question-of-courage", 
-        "found": true, 
-        "year": 1975
+        "url": "https://www.goodreads.com/book/show/27391218-a-question-of-courage", 
+        "found": true
     }, 
     "similar_books": [], 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
-    "format": "Hardcover", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/26772", 
         "num": 26772
@@ -59,31 +57,14 @@
     "authors": [
         68
     ], 
-    "pages": 208, 
     "language": "English", 
-    "isbn13": "9780690007893", 
     "countries": [
         2
     ], 
     "release_date": "2008-10-04T00:00:00", 
     "author": 68, 
     "content_cleaned": true, 
-    "classes": [
-        "to-read", 
-        "currently-reading", 
-        "historical", 
-        "ya", 
-        "1970s", 
-        "chapter4-got-older", 
-        "fiction-novels", 
-        "read-before-2000", 
-        "uk", 
-        "politics", 
-        "history", 
-        "fiction", 
-        "feminism-gender", 
-        "children-s"
-    ], 
+    "classes": [], 
     "content_available": true, 
     "n_authors": 1
 }

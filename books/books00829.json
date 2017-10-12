@@ -15,15 +15,11 @@
         "found": false
     }, 
     "average_rating": 4.0, 
-    "rating_count": 1, 
     "cover_art_url": "http://www.gutenberg.org/cache/epub/50835/pg50835.cover.medium.jpg", 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/28950722-the-syndic-not-this-august-8-short-stories-the-little-black-bag-th", 
-        "found": true, 
-        "year": -1
+        "found": false
     }, 
-    "similar_books": [], 
-    "loc_class": "", 
+    "content_available": true, 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/50835", 
         "num": 50835
@@ -38,7 +34,6 @@
     "release_date": "2016-01-03T00:00:00", 
     "author": 51, 
     "content_cleaned": true, 
-    "classes": [], 
-    "content_available": true, 
+    "loc_class": "", 
     "n_authors": 1
 }
