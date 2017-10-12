@@ -2640,7 +2640,7 @@ Ntp807
 Rp808
 (dp809
 g9
-VStanley Grauman Weinbaum
+S'Stanley Weinbaum'
 p810
 sg11
 (lp811
@@ -3757,7 +3757,7 @@ Ntp1157
 Rp1158
 (dp1159
 g9
-VGarrett Putman Serviss
+S'Garrett P Serviss'
 p1160
 sg11
 (lp1161
@@ -4395,7 +4395,7 @@ g7
 VAlan Nourse was born August 11, 1928 to Benjamin and Grace (Ogg) Nourse in Des Moines, Iowa. He attended high school in Long Island, New York. He served in the U.S. Navy after World War II. He earned a Bachelor of Science degree in 1951 from Rutgers University in New Brunswick, New Jersey. He married Ann Morton on June 11, 1952 in Linden, New Jersey. He received a Doctor of Medicine (M.D.) degree in 1955 from the University of Pennsylvania. He served his one-year internship at Virginia Mason Hospital in Seattle and practiced medicine in North Bend, Washington from 1958 to 1963 and also pursued his writing career.\u000aHe had helped pay for his medical education by writing science fiction for magazines. After retiring from medicine, he continued writing. His regular column in Good Housekeeping magazine earned him the nickname "Family Doctor".\u000aHe was a friend of fellow author Avram Davidson. Robert A. Heinlein dedicated his 1964 novel Farnham's Freehold to Nourse. Heinlein in part dedicated his 1982 novel Friday to Nourse's wife Ann.\u000aHis novel The Bladerunner lent its name to the Blade Runner movie, but no other aspects of its plot or characters, which were taken from Philip K. Dick's Do Androids Dream of Electric Sheep?. In the late 1970s an attempt to adapt The Bladerunner for the screen was made, with Beat Generation author William S. Burroughs commissioned to write a story treatment; no film was ever developed but the story treatment was later published as the novella Blade Runner (a movie).\u000aHis novel Star Surgeon has been recorded as a public domain audio book at LibriVox.\u000aHe died on July 19, 1992 in Thorp, Washington.\u000aSome confusion arose among science fiction readers who knew that Andre Norton used the pen name "Andrew North" at about the same time. They mistakenly assumed "Alan Nourse" to be another Norton pen name.
 p1360
 sg9
-VAlan Edward Nourse
+S'Alan E Nourse'
 p1361
 sg11
 (lp1362
@@ -5460,7 +5460,7 @@ Ntp1701
 Rp1702
 (dp1703
 g9
-VF. L. Wallace
+S'F L Wallace'
 p1704
 sg11
 (lp1705
@@ -6988,7 +6988,7 @@ g7
 VBorn in Chicago, Illinois. Robinson was the son of a check forger. He started out in his teens working as a copy boy for International News Service and then became an office boy for Ziff Davis. He was drafted into the Navy for World War II, and when his tour was over attended Beloit College, where he majored in physics, graduating in 1950. Because he could find no work as a writer, he ended up back in the Navy to serve in Korea, where he kept writing, read a lot, and published in Astounding magazine.\u000aAfter the Navy, he attended graduate school in journalism, then worked for a Chicago-based Sunday supplement. Soon he switched to Science Digest, where he worked from 1956 to 1959. From there, he moved into men's magazines: Rogue (1959\u201365) and Cavalier (1965\u201366). In 1969, Playboy asked him to take over the Playboy Advisor column. He remained there until 1973, when he left to write full-time.\u000aAfter moving to San Francisco in the 1970s, Robinson, who was gay, was a speechwriter for gay politician Harvey Milk; he had a small role in the film Milk. After Milk's assassination, Robinson was co-executor, with Scott Smith, of Milk's last will and testament.\u000aRobinson was the author of 16 books, the editor of two others, and has penned numerous articles. Three of his novels have been made into movies. The Power (1956) was a supernatural science fiction and government conspiracy novel about people with superhuman skills, filmed in 1968 as The Power. The technothriller The Glass Inferno, co-written with Thomas N. Scortia, was combined with Richard Martin Stern's The Tower to produce the 1974 movie The Towering Inferno. The Gold Crew, also co-written Scortia, was a nuclear threat thriller filmed as an NBC miniseries and re-titled The Fifth Missile.\u000aHe collaborated on several other works with Scortia, including The Prometheus Crisis, The Nightmare Factor, and Blow-Out. More recent works include The Dark Beyond the Stars (1991), and an updated version of The Power (2000), which closely followed Waiting (1999), a novel with similar themes to The Power. His novel is a medical thriller about organ theft called The Donor.\u000aIn the 1970s, Robinson started seriously collecting the vintage pulp-fiction magazines that he had grown up reading. The collection spawned a book on the history of the pulps as seen through their vivid cover art: Pulp Culture: The Art of Fiction Magazines (with co-author Lawrence Davidson). He attended numerous pulp conventions and in 2000 won the coveted Lamont Award for lifetime achievement at Pulpcon.\u000aIn 2009 he was inducted into the Chicago Gay and Lesbian Hall of Fame.
 p2191
 sg9
-VFrank M. Robinson
+S'Frank Robinson'
 p2192
 sg11
 (lp2193
@@ -7999,8 +7999,7 @@ ssg18
 I1
 sg26
 (lp2515
-I645
-asg28
+sg28
 I212
 sbag1
 (g2
@@ -10432,4 +10431,20 @@ S'Seaton McKettrig'
 p3282
 sg11
 (lp3283
+sbag1
+(g2
+g3
+Ntp3284
+Rp3285
+(dp3286
+g26
+(lp3287
+I645
+asg28
+I301
+sg9
+S'David Gordon'
+p3288
+sg11
+(lp3289
 sba.
