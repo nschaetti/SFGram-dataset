@@ -1,5 +1,6 @@
 {
     "content_name": "22549.txt.utf-8", 
+    "original_title": "The Survivors (Godwin novel)", 
     "author_name": "Tom Godwin", 
     "images_urls": [
         "http://www.gutenberg.org/files/22549/22549-h/images/back_cover_bottom.jpg", 
@@ -177,7 +178,10 @@
         "http://www.gutenberg.org/files/22549/22549-page-images/p160.png"
     ], 
     "year": 1958, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/7a/Survivors.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 103, 
     "category": "Text", 
     "genres": [], 
@@ -211,7 +215,7 @@
     ], 
     "release_date": "2007-09-09T00:00:00", 
     "author": 39, 
-    "original_title": "The Survivors (Godwin novel)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Survivors is a science fiction novel by author Tom Godwin. It was published in 1958 by Gnome Press in an edition of 5,000 copies, of which 1,084 were never bound. The novel was published in paperback by Pyramid Books in 1960 under the title Space Prison. The novel is an expansion of Godwin's story \"Too Soon to Die\" which first appeared in the magazine Venture.", 
     "content_cleaned": true, 
     "classes": [

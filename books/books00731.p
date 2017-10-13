@@ -140,23 +140,27 @@ p66
 sS'author'
 p67
 I94
-sS'content_cleaned'
+sS'cover'
 p68
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p69
+sS'content_cleaned'
+p70
 I01
 sS'classes'
-p69
-(lp70
-Vto-read
 p71
-aVfree-from-amazon
-p72
-aVclassic
+(lp72
+Vto-read
 p73
-asS'loc_class'
+aVfree-from-amazon
 p74
-VPS: Language and Literatures: American and Canadian literature
+aVclassic
 p75
-sS'n_authors'
+asS'loc_class'
 p76
+VPS: Language and Literatures: American and Canadian literature
+p77
+sS'n_authors'
+p78
 I1
 sb.

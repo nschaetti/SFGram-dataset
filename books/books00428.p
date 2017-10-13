@@ -18,280 +18,288 @@ sS'isbn'
 p8
 V1426451784
 p9
-sS'year'
+sS'cover'
 p10
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p11
+sS'year'
+p12
 I1954
 sS'author_name'
-p11
-VMurray Leinster
-p12
-sS'images_urls'
 p13
-(lp14
-sS'language_code'
+VMurray Leinster
+p14
+sS'images_urls'
 p15
+(lp16
+sS'language_code'
+p17
 NsS'images'
-p16
-(lp17
-sS'id'
 p18
+(lp19
+Vhttps://upload.wikimedia.org/wikipedia/en/b/ba/Operation_outer_space.jpg
+p20
+aVhttps://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png
+p21
+asS'id'
+p22
 I428
 sS'category'
-p19
-VText
-p20
-sS'genres'
-p21
-(lp22
-sS'copyright'
 p23
-VPublic domain in the USA.
+VText
 p24
-sS'title'
+sS'genres'
 p25
-VOperation: Outer Space
-p26
-sS'wikipedia'
+(lp26
+sS'copyright'
 p27
-(dp28
-S'url'
+VPublic domain in the USA.
+p28
+sS'title'
 p29
-Vhttps://en.wikipedia.org/wiki/Operation:_Outer_Space
+VOperation: Outer Space
 p30
-sS'found'
+sS'wikipedia'
 p31
+(dp32
+S'url'
+p33
+Vhttps://en.wikipedia.org/wiki/Operation:_Outer_Space
+p34
+sS'found'
+p35
 I01
 sS'year'
-p32
+p36
 I-1
 ssS'published_in'
-p33
+p37
 NsS'average_rating'
-p34
+p38
 F3.37
 sS'rating_count'
-p35
+p39
 I28
 sS'content_available'
-p36
+p40
 I01
 sS'goodreads'
-p37
-(dp38
-g29
+p41
+(dp42
+g33
 Vhttps://www.goodreads.com/book/show/6328778-operation
-p39
-sg31
+p43
+sg35
 I01
-sg32
+sg36
 I1954
 ssS'similar_books'
-p40
-(lp41
-VStarman's Quest
-p42
-aVThe Long Way Home
-p43
-aVA Trace of Memory
 p44
-aVBadge of Infamy
-p45
-aVClassic Stories 2: Medicine for Melancholy & S is for Space
+(lp45
+VStarman's Quest
 p46
-aVThe Dueling Machine
+aVThe Long Way Home
 p47
-aVThe Green Odyssey
+aVA Trace of Memory
 p48
-aVThis Crowded Earth
+aVBadge of Infamy
 p49
-aVLegacy
+aVClassic Stories 2: Medicine for Melancholy & S is for Space
 p50
-aVThe Colors of Space
+aVThe Dueling Machine
 p51
-aVThe Crossroads of Time
+aVThe Green Odyssey
 p52
-aVSinister Barrier
+aVThis Crowded Earth
 p53
-aVThe Texas-Israeli War: 1999
+aVLegacy
 p54
-aVAlternities
+aVThe Colors of Space
 p55
-aVThe Survivors (Ragnarok, #1)
+aVThe Crossroads of Time
 p56
-aVThe Bones of Time
+aVSinister Barrier
 p57
-aVNorby Through Time and Space (Norby, #5-6)
+aVThe Texas-Israeli War: 1999
 p58
-aVTime Slave
+aVAlternities
 p59
-asS'description'
+aVThe Survivors (Ragnarok, #1)
 p60
-VThis is a pre-1923 historical reproduction that was curated for quality. Quality assurance was conducted on each of these books in an attempt to remove books with imperfections introduced by the digitization process. Though we have made best efforts - the books may have occasional errors that do not impede the reading experience. We believe this work is culturally important and have elected to bring the book back into print as part of our continuing commitment to the preservation of printed works worldwide.
+aVThe Bones of Time
 p61
-sS'gutenberg'
+aVNorby Through Time and Space (Norby, #5-6)
 p62
-(dp63
-g29
-Vhttp://www.gutenberg.org/ebooks/18361
+aVTime Slave
+p63
+asS'description'
 p64
-sS'num'
+VThis is a pre-1923 historical reproduction that was curated for quality. Quality assurance was conducted on each of these books in an attempt to remove books with imperfections introduced by the digitization process. Though we have made best efforts - the books may have occasional errors that do not impede the reading experience. We believe this work is culturally important and have elected to bring the book back into print as part of our continuing commitment to the preservation of printed works worldwide.
 p65
+sS'gutenberg'
+p66
+(dp67
+g33
+Vhttp://www.gutenberg.org/ebooks/18361
+p68
+sS'num'
+p69
 I18361
 ssS'authors'
-p66
-(lp67
+p70
+(lp71
 I61
 asS'pages'
-p68
+p72
 I172
 sS'isbn13'
-p69
-V9781426451782
-p70
-sS'language'
-p71
-VEnglish
-p72
-sS'countries'
 p73
-(lp74
+V9781426451782
+p74
+sS'language'
+p75
+VEnglish
+p76
+sS'countries'
+p77
+(lp78
 I2
 asS'release_date'
-p75
+p79
 S'2006-05-10T00:00:00'
-p76
+p80
 sS'author'
-p77
+p81
 I61
 sS'original_title'
-p78
-VOperation: Outer Space
-p79
-sS'summary'
-p80
-VOperation: Outer Space is a science fiction novel by American writer Murray Leinster. It was first published in 1954 by Fantasy Press in an edition of 2,042 copies.
-p81
-sS'content_cleaned'
 p82
+VOperation: Outer Space
+p83
+sS'summary'
+p84
+VOperation: Outer Space is a science fiction novel by American writer Murray Leinster. It was first published in 1954 by Fantasy Press in an edition of 2,042 copies.
+p85
+sS'content_cleaned'
+p86
 I00
 sS'classes'
-p83
-(lp84
-Vto-read
-p85
-aVcurrently-reading
-p86
-aVscience-fiction
 p87
-aVsci-fi
-p88
-aVscifi
+(lp88
+Vto-read
 p89
-aVsf
+aVcurrently-reading
 p90
-aVowned
+aVscience-fiction
 p91
-aVfiction
+aVsci-fi
 p92
-aVscifi-golden-age-2-1947-1959
+aVscifi
 p93
-aVebook
+aVsf
 p94
-aVpublic-domain
+aVowned
 p95
-aVlibrary
+aVfiction
 p96
-aVa-5-star-rating
+aVscifi-golden-age-2-1947-1959
 p97
-aV20th-century-lit
+aVebook
 p98
-aVdnf
+aVpublic-domain
 p99
-aVz-1954-pub
+aVlibrary
 p100
-aVaudio-books-to-read
+aVa-5-star-rating
 p101
-aVin-bundles
+aV20th-century-lit
 p102
-aVdefault
+aVdnf
 p103
-aVpulp-fiction
+aVz-1954-pub
 p104
-aVold-skool
+aVaudio-books-to-read
 p105
-aVdead-tree
+aVin-bundles
 p106
-aVaudiobooks
+aVdefault
 p107
-aVsci-fi-horror-dystopian
+aVpulp-fiction
 p108
-aVaudio
+aVold-skool
 p109
-aVfree-from-amazon
+aVdead-tree
 p110
-aVsteve-s
+aVaudiobooks
 p111
-aVbooks-i-own
+aVsci-fi-horror-dystopian
 p112
-aVtaggare
+aVaudio
 p113
-aVfeedbooks-com
+aVfree-from-amazon
 p114
-aVscifi-fantasy
+aVsteve-s
 p115
-aVcollection
+aVbooks-i-own
 p116
-aVpaperback
+aVtaggare
 p117
-aVfill-in-the-gaps-project-100
+aVfeedbooks-com
 p118
-aVkindle
+aVscifi-fantasy
 p119
-aVonline-books
+aVcollection
 p120
-aVtravel-and-explore
+aVpaperback
 p121
-aVlibrivox-listens
+aVfill-in-the-gaps-project-100
 p122
-aVon-hiatus
+aVkindle
 p123
-aVurania-201-400
+aVonline-books
 p124
-aVfantascienza
+aVtravel-and-explore
 p125
-aVvintage-scifi
+aVlibrivox-listens
 p126
-aV06-stjerne
+aVon-hiatus
 p127
-aVs-f
+aVurania-201-400
 p128
-aVscience
+aVfantascienza
 p129
-aVgeneral
+aVvintage-scifi
 p130
-aVadventure
+aV06-stjerne
 p131
-aVcalibre
+aVs-f
 p132
-aVpre-1982-read
+aVscience
 p133
-aVpublic-domain-science-fiction
+aVgeneral
 p134
-aVgolden-age-science-fiction
+aVadventure
 p135
-aVread-in-2011
+aVcalibre
 p136
-aVscifi-fantasy-horror
+aVpre-1982-read
 p137
-aVaudiobooks-to-read
+aVpublic-domain-science-fiction
 p138
-aVcook-crafts-places
+aVgolden-age-science-fiction
 p139
-asS'loc_class'
+aVread-in-2011
 p140
-VPS: Language and Literatures: American and Canadian literature
+aVscifi-fantasy-horror
 p141
-sS'n_authors'
+aVaudiobooks-to-read
 p142
+aVcook-crafts-places
+p143
+asS'loc_class'
+p144
+VPS: Language and Literatures: American and Canadian literature
+p145
+sS'n_authors'
+p146
 I1
 sb.

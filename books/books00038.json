@@ -1,11 +1,15 @@
 {
     "content_name": "1153.txt.utf-8", 
     "isbn": "1400130212", 
-    "language_code": "eng", 
+    "original_title": "The Chessmen of Mars", 
+    "year": 1922, 
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
-    "year": 1922, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/96/Chessmen_of_Mars-1922.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/Martian_Family_of_John_Carter_from_Edgar_Rice_Burroughs_Barsoom_Novels.jpg"
+    ], 
     "id": 38, 
     "category": "Text", 
     "plot": "In this novel Burroughs focuses on a younger member of the family established by John Carter and Dejah Thoris, protagonists of the first three books in the series. The heroine this time is their daughter Tara, princess of Helium, whose hand is sought by the gallant Gahan, Jed (prince) of Gathol. Both Helium and Gathol are prominent Barsoomian city states.\nTara meets Prince Gahan of Gathol, and is initially unimpressed, viewing him as something of a popinjay. Later she takes her flier into a storm and loses control of the craft, and the storm carries her to an unfamiliar region of Barsoom. After landing and fleeing from a pack of ferocious Banths (Martian lions), she is captured by the horrific Kaldanes, who resemble large heads with small, crab-like legs. The Kaldanes have bred a symbiotic race of headless human-like creatures called Rykors, which they can attach themselves to and ride like a horse. The Kaldanes imprison Tara, intending to fatten her up, then eat her. While imprisoned, Tara manages to win over one of the Kaldanes, Ghek, with her lovely singing voice.\nGahan, who has fallen in love with Tara, sets out to find her, only to find himself caught up in the same storm, and he falls overboard while attempting to rescue one of his crew. He stumbles upon Bantoom, realm of the Kaldanes, and manages to rescue Tara, and together with Ghek they flee in Tara's crippled flier. Tara doesn't recognize Gahan as the prince she met earlier, as he is worn from his ordeals and no longer dressed in his fancy clothes. In light of her earlier reaction to him, Gahan decides to keep his identity secret, and identifies himself instead as a Panthan (warrior) called Turan.\nThe three of them manage to reach the isolated city of Manator. Gahan ventures into the city seeking food and water, but is tricked and taken prisoner by the inhabitants. Tara and Ghek are also captured. In Manator, captives are forced to a fight to the death in the arena, in a modified version of Jetan, a popular Barsoomian board game resembling Chess; the living version uses people as the game pieces on a life-sized board, with each taking of a piece being a duel to the death.", 
@@ -60,7 +64,7 @@
     ], 
     "release_date": "1998-01-01T00:00:00", 
     "author": 2, 
-    "original_title": "The Chessmen of Mars", 
+    "cover": "https://images.gr-assets.com/books/1328773629l/40378.jpg", 
     "summary": "The Chessmen of Mars is a science fantasy novel by American wrtier Edgar Rice Burroughs, the fifth of his Barsoom series. Burroughs began writing it in January, 1921, and the finished story was first published in Argosy All-Story Weekly as a six-part serial in the issues for February 18 and 25 and March 4, 11, 18 and 25, 1922. It was later published as a complete novel by A. C. McClurg in November 1922.", 
     "content_cleaned": true, 
     "classes": [

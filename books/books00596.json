@@ -1,7 +1,8 @@
 {
     "content_name": "41714.txt.utf-8", 
     "isbn": "0523485433", 
-    "language_code": "eng", 
+    "original_title": "The Syndic", 
+    "year": 1953, 
     "author_name": "C. M. Kornbluth", 
     "images_urls": [
         "http://www.gutenberg.org/files/41714/41714-h/images/cover.jpg", 
@@ -9,8 +10,10 @@
         "http://www.gutenberg.org/files/41714/41714-h/images/illus2.jpg", 
         "http://www.gutenberg.org/files/41714/41714-h/images/illus3.jpg"
     ], 
-    "year": 1953, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/75/TheSyndic.jpg"
+    ], 
     "id": 596, 
     "category": "Text", 
     "plot": "The prologue introduces the setting, a future North America divided between rival criminal gangs the Syndic on the East Coast and the Mob in Chicago, who have driven the federal government into exile in Iceland, Ireland and other North Atlantic islands. Life has more or less returned to normal in Syndic territory \u2013 as long as protection money is paid on time. The rest of the world has collapsed into either peasant life or tribalism.\nAttitudes to sex are generally tolerant, with free sex outside of marriage and both polygamy and polyandry accepted. (However, male homosexuality is not, and lesbianism is never mentioned.)\nThe protagonist, Charles Orsino, is a low-ranking member of the Syndic who collects protection money in New York. After a failed assassination attempt, he is invited to a meeting of the leaders of the Syndic, who suspect that the exiled government were responsible. To discover the truth, Charles volunteers to go undercover to infiltrate the government, with a false personality created by hypnosis to fool lie detectors. He is taken to the main naval base on the shores of Ireland. He also visits Ireland outside of government territory: it is tribal and governed by sorceresses who have genuine powers of telepathy. It is mentioned in passing that England is also tribal and much weaker.\nWhile escaping home, he also visits Mob territory and finds it much worse organised. He proposes that the Syndic becomes more like a regular government to protect itself. But his mentor rejects this, and the book ends on that note.", 
@@ -67,7 +70,7 @@
     ], 
     "release_date": "2012-12-27T00:00:00", 
     "author": 51, 
-    "original_title": "The Syndic", 
+    "cover": "https://images.gr-assets.com/books/1303248821l/1875639.jpg", 
     "summary": "The Syndic is a 1953 science fiction novel by Cyril M. Kornbluth.\n\n", 
     "content_cleaned": true, 
     "classes": [

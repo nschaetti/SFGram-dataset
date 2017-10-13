@@ -1,10 +1,14 @@
 {
     "content_name": "20121.txt.utf-8", 
     "isbn": "160312134X", 
+    "original_title": "A Planet for Texans", 
     "author_name": "John Joseph McGuire", 
     "images_urls": [], 
     "year": 1957, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/2/2e/APlanetForTexans.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Fantastic_universe_195703.jpg"
+    ], 
     "id": 138, 
     "category": "Text", 
     "plot": "After writing an unfortunate article under a pseudonym (Machiavelli, Jr.) and having it published in a prestigious journal read by diplomats, Stephen Silk is to be banished from the Solar League's capitol on Luna for a time. He is assigned to be the Solar League's new ambassador to the people of Capella IV, New Texas. The position is open because the previous ambassador, Silas Cumshaw, was assassinated.\nOn the starship taking him to his new posting Silk meets his secretary/bodyguard, a native New Texan named Hoddy Ringo. The briefing books that were given to him tell him little about the New Texans and their culture and the contents of the trunk that was put aboard the ship for him appall him: contrary to the practices of the Consular Service, he will be obliged to dress in native costume and to carry a pair of automatic pistols in ejection holsters. Evidence he finds while surreptitiously searching Hoddy's quarters implies that he's being set up for assassination, with the approval of the Consular Service.\nSilk is welcomed to New Texas with a giant barbecue, where he sees a trial and learns that assassination of politicians is a legitimate part of the New Texan political process as long as the assassin can show that his victim \u201cneeded killin'\u201d. Back at the embassy he learns more about the murder of Silas Cumshaw, in particular the fact that the killers, three young members of the vile Bonney clan, will be going on trial as assassins, not as common murderers, in three days.\nAt the barbecue Silk meets Gglafrr Ddespttann Vuvuvu, the ambassador of the z'Srauff, humanoid aliens that look like they evolved from dogs. Part of Silk's mission involves convincing the New Texans to join the Solar League so that the Space Navy can base ships near their planet to counter the threat from the z'Srauff. The Solar League fears the possibility of a z'Srauff sneak attack on the planet.\nSilk has determined that he cannot allow the Bonneys to be convicted in the Court of Political Justice, but it's too late to have them tried as common criminals. A conviction would produce a precedent that would devastate the Diplomatic Corps by making every diplomat a legitimate target. Likewise, the Solar League cannot allow the Bonneys to go unpunished.\nThe last quarter of the story lays out the trial of the Bonney brothers. As amicus curiae Silk introduces evidence to show that the Bonneys assassinated Ambassador Cumshaw at the behest of the z'Srauff. He then persuades the court that it should not have tried the case, because Ambassador Cumshaw was not a politician within the meaning of New Texas law. Having thus got the Bonneys set free, he engages them in a gunfight and kills all three.\nShortly thereafter a z'Srauff battlefleet jumps into Capellan space only to be ambushed by the Solar League's Space Navy and effectively destroyed. After working out a treaty between New Texas and the Solar League, Silk resigns his post, marries a local girl, and takes up residence on New Texas.", 
@@ -61,7 +65,7 @@
     ], 
     "release_date": "2006-12-16T00:00:00", 
     "author": 48, 
-    "original_title": "A Planet for Texans", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "A Planet for Texans (also published as Lone Star Planet) is a science-fiction novel written by Henry Beam Piper and John Joseph McGuire. It was first published in the March 1957 issue of Fantastic Universe as Lone Star Planet and first published in book form in Ace Double D-299 in 1958. The story originated in a suggestion by H. L. Mencken and presents a world on which the assassination of politicians is accepted practice. It eventually won a Prometheus Hall of Fame Award in 1999.\n\n", 
     "content_cleaned": true, 
     "classes": [

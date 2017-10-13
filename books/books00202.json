@@ -1,5 +1,6 @@
 {
     "content_name": "18807.txt.utf-8", 
+    "original_title": "He Walked Around the Horses", 
     "author_name": "H. Beam Piper", 
     "images_urls": [
         "http://www.gutenberg.org/files/18807/18807-h/images/horses_1.png", 
@@ -42,7 +43,7 @@
     ], 
     "release_date": "2006-07-11T00:00:00", 
     "author": 19, 
-    "original_title": "He Walked Around the Horses", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"He Walked Around the Horses\" is a science fiction short story by American writer H. Beam Piper. It is initially based on the true story of diplomat Benjamin Bathurst, who mysteriously disappeared in 1809. It was first published in the April 1948 issue of Astounding Science Fiction magazine (now Analog). The story is told in epistolary style, as a series of reports, statements and memoranda by various government, army and police officials, and inn servants, stating what they know of the matter.", 
     "content_cleaned": true, 
     "classes": [

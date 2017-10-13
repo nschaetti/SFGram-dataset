@@ -114,23 +114,27 @@ p55
 sS'author'
 p56
 I248
-sS'content_cleaned'
+sS'cover'
 p57
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p58
+sS'content_cleaned'
+p59
 I01
 sS'classes'
-p58
-(lp59
-Vto-read
 p60
-aVwar-viet-nam
-p61
-aVlit-crit
+(lp61
+Vto-read
 p62
-asS'loc_class'
+aVwar-viet-nam
 p63
-VPS: Language and Literatures: American and Canadian literature
+aVlit-crit
 p64
-sS'n_authors'
+asS'loc_class'
 p65
+VPS: Language and Literatures: American and Canadian literature
+p66
+sS'n_authors'
+p67
 I1
 sb.

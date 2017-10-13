@@ -1,10 +1,13 @@
 {
     "content_name": "12750.txt.utf-8", 
     "isbn": "1594160201", 
+    "original_title": "The Stolen Bacillus and Other Incidents", 
     "author_name": "H. G. Wells", 
     "images_urls": [], 
     "year": 1895, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/7c/Wells_StolenBacillus%281st_edition%29.jpg"
+    ], 
     "id": 201, 
     "category": "Text", 
     "genres": [], 
@@ -58,7 +61,7 @@
     ], 
     "release_date": "2004-06-26T00:00:00", 
     "author": 1, 
-    "original_title": "The Stolen Bacillus and Other Incidents", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Stolen Bacillus and Other Incidents is a collection of fifteen fantasy and science fiction short stories written by the English author H. G. Wells between 1893 and 1895. It was first published by Methuen & Co. in 1895 and was Wells's first book of short stories. All of the stories had first been published in various weekly and monthly periodicals.", 
     "content_cleaned": true, 
     "classes": [

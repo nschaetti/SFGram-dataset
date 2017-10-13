@@ -1,7 +1,8 @@
 {
     "content_name": "20782.txt.utf-8", 
     "isbn": "1882968093", 
-    "language_code": "en-US", 
+    "original_title": "Triplanetary (novel)", 
+    "year": 1934, 
     "author_name": "E. E. Smith", 
     "images_urls": [
         "http://www.gutenberg.org/files/20782/20782-h/images/eest011i.jpg", 
@@ -17,8 +18,12 @@
         "http://www.gutenberg.org/files/20782/20782-h/images/eest_C4.jpg", 
         "http://www.gutenberg.org/files/20782/20782-h/images/eest_C4th.jpg"
     ], 
-    "year": 1934, 
-    "images": [], 
+    "language_code": "en-US", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/5/5a/Triplanetary.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Amazing_stories_193401.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/Amazing_stories_193403.jpg"
+    ], 
     "id": 29, 
     "category": "Text", 
     "genres": [], 
@@ -72,7 +77,7 @@
     ], 
     "release_date": "2007-03-08T00:00:00", 
     "author": 14, 
-    "original_title": "Triplanetary (novel)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Triplanetary is a science fiction novel and space opera by American writer E. E. Smith. It was first serialized in the magazine Amazing Stories in 1934. After the original four novels of the Lensman series were published, Smith expanded and reworked Triplanetary into the first of two prequels for the series. The expanded Triplanetary was published in book form in 1948 by Fantasy Press. The second prequel, First Lensman, was a new original novel published in 1950 by Fantasy Press.\nThe novel covers several episodes in an eons-long human breeding project by the super-intelligences of the Arisians. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch-enemies, the Eddorians. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two, and Three.\nThe final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster-than-light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, important members of the two breeding lines, are introduced.", 
     "content_cleaned": true, 
     "classes": [

@@ -1,10 +1,14 @@
 {
     "content_name": "765.txt.utf-8", 
     "isbn": "0819567078", 
+    "original_title": "The Moon Pool", 
     "author_name": "Abraham Merritt", 
     "images_urls": [], 
     "year": 1918, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b1/All_story_weekly_19180622.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moon_Pool_1st.jpg"
+    ], 
     "id": 175, 
     "category": "Text", 
     "plot": "The plot concerns an advanced race which has developed within the Earth's core. Eventually their most intelligent members create an offspring. This created entity encompasses both great good and great evil, but it slowly turns away from its creators and towards evil. The entity is called either the Dweller or the Shining One.\nEventually of the race which created it only three are left; these are called the Silent Ones, and they have been 'purged of dross' and can be described as higher, nobler, more angelic beings than are humankind. They have also been sentenced by the good among their race to remain in the world, and not to die, as punishment for their pride which was the source of the calamity called the Dweller, until such time as they destroy their creation\u2014if they still can. And the reason they do not do so is simply that they continue to love it.\nThe Dweller is in the habit of rising to the surface of the earth and capturing men and women which it holds in an unholy stasis and which in some wise feed it. It increases its knowledge and power constantly, but has a weakness, since it knows nothing of love. The scientist Dr. Goodwin and the half-Irish, half-American pilot Larry O'Keefe, and others, follow it down. Eventually they meet a woman, beautiful and evil, named Yolara, who in essence serves the Shining One, and the 'handmaiden' of the Silent Ones, beautiful and good, named Lakla. Both want O'Keefe and eventually battle over him.\nThere is also a race of very powerful and handsome Polynesian-like 'dwarves' and a race of humanoids whom the Silent Ones developed from a semi-sentient froglike species.\nThere develops a battle between the forces of good and evil with not only the entire world, but perhaps even the existence of good itself is at stake. But can the forces of good prevail using fear as a weapon? Or will they have to rely upon love expressed by willing sacrifice?", 
@@ -60,7 +64,7 @@
     ], 
     "release_date": "1996-12-01T00:00:00", 
     "author": 60, 
-    "original_title": "The Moon Pool", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Moon Pool is a fantasy novel by American writer Abraham Merritt. It originally appeared as two short stories in All-Story Weekly: \"The Moon Pool\" (1918) and its sequel, \"Conquest of the Moon Pool\" (1919). These were then reworked into a novel released in 1919. The protagonist, Dr. Goodwin, would later appear in Merritt's second novel The Metal Monster (1920).\nAlthough Merritt did not invent the \"lost world\" novel\u2014he followed in the footsteps of Bulwer-Lytton, Conan Doyle, Edgar Rice Burroughs, and others\u2014this work extended the tradition.", 
     "content_cleaned": true, 
     "classes": [

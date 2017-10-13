@@ -1,11 +1,14 @@
 {
     "content_name": "10662.txt.utf-8", 
     "isbn": "1587156040", 
-    "language_code": "eng", 
+    "original_title": "The Night Land", 
+    "year": 1912, 
     "author_name": "William Hope Hodgson", 
     "images_urls": [], 
-    "year": 1912, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/e/e4/Night_land.jpg"
+    ], 
     "id": 20, 
     "category": "Text", 
     "plot": "The beginning of the book establishes the framework in which a 17th-century gentleman, mourning the death of his beloved, Lady Mirdath, is given a vision of a far-distant future where their souls will be re-united, and sees the world of that time through the eyes of a future incarnation. The language and style used are intended to resemble that of the 17th century, though the prose has features characteristic of no period whatsoever: the almost-complete lack of dialogue and proper names, for example. Critic Ian Bell has suggested that John Milton's epic poem \"Paradise Lost\" (1667) is probably a partial literary inspiration for Hodgson's novel, especially due to the hellish visions of sombre intensity which mark both works, and other similarities including the use of massive structures (the Temple of Pandemonium in Milton and the Last Redoubt in The Night Land).\nOnce into the book, the 17th century framing is mostly inconsequential. Instead, the story focuses on the future. The Sun has gone out and the Earth is lit only by the glow of residual vulcanism. The last few millions of the human race are gathered together in a gigantic metal pyramid, nearly eight miles high \u2013 the Last Redoubt, under siege from unknown forces and Powers outside in the dark. These are held back by a shield known as the \"air clog\", powered from a subterranean energy source called the \"Earth Current\". For millennia, vast living shapes\u2014the Watchers\u2014have waited in the darkness near the pyramid. It is thought they are waiting for the inevitable time when the Circle's power finally weakens and dies. Other living things have been seen in the darkness beyond, some of unknown origins, and others that may once have been human.\nTo leave the protection of the Circle means almost certain death, or worse an ultimate destruction of the soul. As the story commences, the narrator establishes mind contact with an inhabitant of another, forgotten Lesser Redoubt. First one expedition sets off to succour the inhabitants of the Lesser Redoubt, whose own Earth Current has been exhausted, only to meet with disaster. After that, the narrator sets off alone into the darkness to find the girl he has made contact with, knowing now that she is the reincarnation of his past love.\nAt the conclusion of the adventure, the narrative does not return to the framework story, instead ending with the happy homecoming of the couple and his inauguration into the ranks of their most honoured heroes.", 
@@ -56,7 +59,7 @@
     ], 
     "release_date": "2004-01-01T00:00:00", 
     "author": 11, 
-    "original_title": "The Night Land", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Night Land is a classic horror novel by William Hope Hodgson, first published in 1912. As a work of fantasy it belongs to the Dying Earth subgenre. Hodgson also published a much shorter version of the novel, entitled The Dream of X (1912).\nThe Night Land was revived in paperback by Ballantine Books, which republished the work in two parts as the 49th and 50th volumes of its Ballantine Adult Fantasy series in July 1972.\nH. P. Lovecraft's essay \"Supernatural Horror in Literature\" describes the novel as \"one of the most potent pieces of macabre imagination ever written\". Clark Ashton Smith wrote of it that \"In all literature, there are few works so sheerly remarkable, so purely creative, as The Night Land. Whatever faults this book may possess, however inordinate its length may seem, it impresses the reader as being the ultimate saga of a perishing cosmos, the last epic of a world beleaguered by eternal night and by the unvisageable spawn of darkness. Only a great poet could have conceived and written this story; and it is perhaps not illegitimate to wonder how much of actual prophecy may have been mingled with the poesy.\"\nWhen the book was written, the nature of the energy source that powers stars was not known: Lord Kelvin had published calculations based on the hypothesis that the energy came from the gravitational collapse of the gas cloud that had formed the sun and found that this mechanism gave the Sun a lifetime of only a few tens of million of years. Starting from this premise, Hodgson wrote a novel describing a time, millions of years in the future, when the Sun has gone dark.", 
     "content_cleaned": true, 
     "classes": [

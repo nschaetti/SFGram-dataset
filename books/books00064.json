@@ -1,10 +1,10 @@
 {
     "content_name": "605.txt.utf-8", 
     "isbn": "0803262043", 
-    "language_code": "eng", 
+    "year": 1915, 
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
-    "year": 1915, 
+    "language_code": "eng", 
     "id": 64, 
     "category": "Text", 
     "genres": [], 
@@ -57,6 +57,7 @@
     ], 
     "release_date": "1996-07-01T00:00:00", 
     "author": 2, 
+    "cover": "https://images.gr-assets.com/books/1328818858l/403355.jpg", 
     "content_cleaned": true, 
     "classes": [
         "science-fiction", 

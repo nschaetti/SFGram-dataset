@@ -1,5 +1,6 @@
 {
     "content_name": "14301.txt.utf-8", 
+    "original_title": "Atlantida (novel)", 
     "language_code": "eng", 
     "author_name": "Pierre Benoit", 
     "images_urls": [
@@ -24,7 +25,10 @@
         "http://www.gutenberg.org/files/14301/14301-h/images/title.gif"
     ], 
     "year": 1919, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/archive/3/3f/20090223154522%21Book_collection.jpg"
+    ], 
     "id": 328, 
     "category": "Text", 
     "plot": "It is 1896 in the French Algerian Sahara. Two officers, Andr\u00ef\u00bf\u00bd de Saint-Avit and Jean Morhange investigate the disappearance of their fellow officers. While doing so, they are drugged and kidnapped by a Tarqui warrior, the procurer for the monstrous Queen Antinea. Antinea, descendant of the rulers of Atlantis, has a cave wall with 120 niches carved into it, one for each of her lovers. Only 53 have been filled; when all 120 have been filled, Antinea will sit atop a throne in the center of the cave and rest forever. Saint-Avit is unable to resist Antinea's charms. By her will, he murders the asexual Morhange. Ultimately, he is able to escape and get out of the desert alive.", 
@@ -79,7 +83,7 @@
     ], 
     "release_date": "2004-12-08T00:00:00", 
     "author": 107, 
-    "original_title": "Atlantida (novel)", 
+    "cover": "https://images.gr-assets.com/books/1417215146l/22024850.jpg", 
     "summary": "Atlantida (French: L'Atlantide) is a French novel by Pierre Benoit published in February 1919. It was translated into English in 1920 as Atlantida. L'Atlantide was Benoit's second novel, following Koenigsmark, and it won the Grand Prize of the French Academy. The English translation of Atlantida was first published in the United States as a serial in Adventure magazine.\nThe story inspired many films.", 
     "content_cleaned": true, 
     "classes": [

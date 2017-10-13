@@ -1,5 +1,6 @@
 {
     "content_name": "50948.txt.utf-8", 
+    "original_title": "Of All Possible Worlds", 
     "language_code": "eng", 
     "author_name": "William Tenn", 
     "images_urls": [
@@ -7,7 +8,9 @@
         "http://www.gutenberg.org/files/50948/50948-h/images/illus.jpg"
     ], 
     "year": 1955, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Tenn_Of_All_Possible_Worlds.JPG"
+    ], 
     "id": 707, 
     "category": "Text", 
     "genres": [], 
@@ -42,7 +45,7 @@
     ], 
     "release_date": "2016-01-17T00:00:00", 
     "author": 98, 
-    "original_title": "Of All Possible Worlds", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Of All Possible Worlds is the first collection of science fiction stories by William Tenn. It was published in hardcover by Ballantine Books in 1955, with a cover by Richard Powers. Ballantine issued paperback editions in 1955, 1960, and 1968; a British hardcover appeared in 1956 with a paperback following in 1963.\n\n", 
     "content_cleaned": true, 
     "classes": [

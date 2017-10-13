@@ -1,5 +1,6 @@
 {
     "content_name": "46222.txt.utf-8", 
+    "original_title": "Fantasy Fan", 
     "language_code": "eng", 
     "author_name": "Various", 
     "images_urls": [
@@ -45,7 +46,7 @@
     ], 
     "release_date": "2014-07-08T00:00:00", 
     "author": 17, 
-    "original_title": "Fantasy Fan", 
+    "cover": "https://images.gr-assets.com/books/1312316002l/12255949.jpg", 
     "summary": "The Fantasy Fan was the first fan magazine in the weird fiction field and therefore holds an important place in the history of the American fantasy and horror fiction pulp magazine. Issued monthly, it was first published in September 1933, and discontinued 18 issues later in February 1935. The magazine was edited by Charles D. Hornig (25 May 1916 - 11 October 1999).", 
     "content_cleaned": true, 
     "classes": [

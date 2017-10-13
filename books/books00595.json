@@ -1,11 +1,15 @@
 {
     "content_name": "51854.txt.utf-8", 
+    "original_title": "The Rat Race (novel)", 
     "author_name": "Jay Franklin", 
     "images_urls": [
         "http://www.gutenberg.org/files/51854/51854-h/images/cover.jpg"
     ], 
     "year": 1950, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png", 
+        "https://upload.wikimedia.org/wikipedia/en/a/a6/Rat_race.jpg"
+    ], 
     "id": 595, 
     "category": "Text", 
     "plot": "The novel concerns Lieutenant Commander Frank Jacklin who is blown up in a thorium bomb explosion while on the battleship Alaska. He awakens in the body of Winnie Tompkins who had perpetrated the explosion. As Tompkins, he learns of a plot by German agents to poison Franklin D. Roosevelt and he tries to warn the authorities. He continues to become involved in intrigue until another accident restores Tompkins to his body, leaving Jacklin in the body of a dog.", 
@@ -41,7 +45,7 @@
     ], 
     "release_date": "2016-04-24T00:00:00", 
     "author": 199, 
-    "original_title": "The Rat Race (novel)", 
+    "cover": "https://images.gr-assets.com/books/1461585554l/15995648.jpg", 
     "summary": "The Rat Race is a science fiction novel by Jay Franklin. It was first published in book form in 1950 by Fantasy Publishing Company, Inc. in an edition of 1,500 copies of which 1,200 were hardcover. The novel originally appeared in the magazine Collier's Weekly in 1947.", 
     "content_cleaned": true, 
     "classes": [

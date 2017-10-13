@@ -1,5 +1,6 @@
 {
     "content_name": "28698.txt.utf-8", 
+    "original_title": "The Crystal Crypt", 
     "language_code": "eng", 
     "author_name": "Philip K. Dick", 
     "images_urls": [
@@ -59,7 +60,7 @@
     ], 
     "release_date": "2009-05-06T00:00:00", 
     "author": 8, 
-    "original_title": "The Crystal Crypt", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Crystal Crypt is a science fiction short story by Philip K. Dick, first published in the January 1954 edition of Planet Stories and later published in Beyond Lies the Wub in 1988.\nThe story is set in the distant future where Earth and Mars are on the verge of war. The last spaceship to leave Mars headed for Earth is stopped and searched by Martian soldiers, who are looking for three saboteurs who destroyed a Martian city. They are not found, and the ship continues towards Earth. On board the space ship, a business man by the name of Thacher meets a young woman and two men, who tell that they are the people sought by the Martians, and proceed to tell Thacher the story of how they did not destroy the Martian city, but used a device to reduce the entire city to fit in a tiny globe, which they smuggled on board the ship. The city is to be used as a bargaining chip against Mars in the upcoming war. Thacher reveals that he is a Martian secret agent, and several of the passengers on board are Martian police.", 
     "content_cleaned": true, 
     "classes": [

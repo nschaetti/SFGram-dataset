@@ -1,5 +1,6 @@
 {
     "content_name": "32032.txt.utf-8", 
+    "original_title": "Second Variety", 
     "language_code": "eng", 
     "author_name": "Philip K. Dick", 
     "images_urls": [
@@ -67,7 +68,7 @@
     ], 
     "release_date": "2010-04-17T00:00:00", 
     "author": 8, 
-    "original_title": "Second Variety", 
+    "cover": "https://images.gr-assets.com/books/1476668036l/8185014.jpg", 
     "summary": "\"Second Variety\" is a science fiction short story by American writer Philip K. Dick, first published in Space Science Fiction magazine, in May 1953. A nuclear war between the Soviet Union and the West has reduced much of the world to a barren wasteland. The war continues, however, among the scattered remains of humanity. The Western forces have developed \"claws\", which are autonomous self-replicating robots to fight on their side. It is one of Dick's many stories in which nuclear war has rendered the Earth's surface uninhabitable. The story was adapted into the movie Screamers in 1995.\nThe short story \"Jon's World\" written in 1954 revisited the claw-infested world of \"Second Variety\".", 
     "content_cleaned": true, 
     "classes": [

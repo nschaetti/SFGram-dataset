@@ -18,323 +18,327 @@ sS'isbn'
 p8
 V0937986135
 p9
-sS'year'
+sS'cover'
 p10
+Vhttps://images.gr-assets.com/books/1325713497l/1502416.jpg
+p11
+sS'year'
+p12
 I1935
 sS'author_name'
-p11
-VRobert E. Howard
-p12
-sS'images_urls'
 p13
-(lp14
-Vhttp://www.gutenberg.org/files/42236/42236-h/images/cover.jpg
+VRobert E. Howard
+p14
+sS'images_urls'
 p15
-asS'language_code'
-p16
-Veng
+(lp16
+Vhttp://www.gutenberg.org/files/42236/42236-h/images/cover.jpg
 p17
-sS'images'
+asS'language_code'
 p18
-(lp19
-sS'id'
+Veng
+p19
+sS'images'
 p20
+(lp21
+sS'id'
+p22
 I170
 sS'category'
-p21
-VText
-p22
-sS'genres'
 p23
-(lp24
-sS'copyright'
+VText
+p24
+sS'genres'
 p25
-VPublic domain in the USA.
-p26
-sS'title'
+(lp26
+sS'copyright'
 p27
-VJewels of Gwahlur
+VPublic domain in the USA.
 p28
-sS'wikipedia'
+sS'title'
 p29
-(dp30
-S'url'
+VJewels of Gwahlur
+p30
+sS'wikipedia'
 p31
-Vhttps://en.wikipedia.org/wiki/Jewels_of_Gwahlur_(collection)
-p32
-sS'found'
+(dp32
+S'url'
 p33
+Vhttps://en.wikipedia.org/wiki/Jewels_of_Gwahlur_(collection)
+p34
+sS'found'
+p35
 I01
 sS'year'
-p34
+p36
 I-1
 ssS'published_in'
-p35
+p37
 NsS'average_rating'
-p36
+p38
 F3.82
 sS'rating_count'
-p37
+p39
 I174
 sS'content_available'
-p38
+p40
 I01
 sS'cover_art_url'
-p39
-S'http://www.gutenberg.org/cache/epub/42236/pg42236.cover.medium.jpg'
-p40
-sS'goodreads'
 p41
-(dp42
-g31
-Vhttps://www.goodreads.com/book/show/1502416.Jewels_of_Gwahlur
+S'http://www.gutenberg.org/cache/epub/42236/pg42236.cover.medium.jpg'
+p42
+sS'goodreads'
 p43
-sg33
+(dp44
+g33
+Vhttps://www.goodreads.com/book/show/1502416.Jewels_of_Gwahlur
+p45
+sg35
 I01
-sg34
+sg36
 I1997
 ssS'similar_books'
-p44
-(lp45
-VThe Monk and the Hangman's Daughter
 p46
-aVThe Girl in the Golden Atom
-p47
-aVBlack Spirits and White - A Book of Ghost Stories
+(lp47
+VThe Monk and the Hangman's Daughter
 p48
-aVThe Wind in the Rosebush and Other Stories of the Supernatural
+aVThe Girl in the Golden Atom
 p49
-aVThe Pirates of Ersatz
+aVBlack Spirits and White - A Book of Ghost Stories
 p50
-aVForests of the Night (Moreau, #1)
+aVThe Wind in the Rosebush and Other Stories of the Supernatural
 p51
-aVPagan Passions
+aVThe Pirates of Ersatz
 p52
-aVBlack & White
+aVForests of the Night (Moreau, #1)
 p53
-aVThe Circular Study (Mr. Gryce #10)
+aVPagan Passions
 p54
-aVGifts with No Giver: A Love Affair with Truth
+aVBlack & White
 p55
-aVThe Devil's Dictionary and Other Works
+aVThe Circular Study (Mr. Gryce #10)
 p56
-aVThe Gods of Pegana
+aVGifts with No Giver: A Love Affair with Truth
 p57
-aVThe Dunwich Cycle: Where the Old Gods Wait (Cthulhu Cycle Book, #9)
+aVThe Devil's Dictionary and Other Works
 p58
-aVCrawling Chaos: Selected Works 1920-1935
+aVThe Gods of Pegana
 p59
-aVCarnacki, the Ghost Finder
+aVThe Dunwich Cycle: Where the Old Gods Wait (Cthulhu Cycle Book, #9)
 p60
-aVThe Rainbow Trail ( Riders of the Purple Sage#2)
+aVCrawling Chaos: Selected Works 1920-1935
 p61
-aVSpectre Nightmares and Visitations
+aVCarnacki, the Ghost Finder
 p62
-aVThe Hidden Stars (Rune of Unmaking #1)
+aVThe Rainbow Trail ( Riders of the Purple Sage#2)
 p63
-asS'description'
+aVSpectre Nightmares and Visitations
 p64
-V"The cliffs rose sheer from the jungle, towering ramparts of stone that glinted jade-blue and dull crimson in the rising sun, and curved away and away to east and west above the waving emerald ocean of fronds and leaves. It looked insurmountable, that giant palisade with its sheer curtains of solid rock in which bits of quartz winked dazzlingly in the sunlight. But the man who was working his tedious way upward was already halfway to the top."<br /><br />The Teeth of Gwahlur are legendary jewels, kept in an abandoned city in the country of Keshan. Conan, following legends of this treasure, has travelled to the lost city, where supernatural gives way to intrigue.
+aVThe Hidden Stars (Rune of Unmaking #1)
 p65
-sS'gutenberg'
+asS'description'
 p66
-(dp67
-g31
-Vhttp://www.gutenberg.org/ebooks/42236
+V"The cliffs rose sheer from the jungle, towering ramparts of stone that glinted jade-blue and dull crimson in the rising sun, and curved away and away to east and west above the waving emerald ocean of fronds and leaves. It looked insurmountable, that giant palisade with its sheer curtains of solid rock in which bits of quartz winked dazzlingly in the sunlight. But the man who was working his tedious way upward was already halfway to the top."<br /><br />The Teeth of Gwahlur are legendary jewels, kept in an abandoned city in the country of Keshan. Conan, following legends of this treasure, has travelled to the lost city, where supernatural gives way to intrigue.
+p67
+sS'gutenberg'
 p68
+(dp69
+g33
+Vhttp://www.gutenberg.org/ebooks/42236
+p70
 sS'num'
-p69
+p71
 I42236
 ssS'authors'
-p70
-(lp71
+p72
+(lp73
 I22
 asS'isbn13'
-p72
-V9780937986134
-p73
-sS'language'
 p74
-VEnglish
+V9780937986134
 p75
-sS'countries'
+sS'language'
 p76
-(lp77
+VEnglish
+p77
+sS'countries'
+p78
+(lp79
 I2
 asS'release_date'
-p78
-S'2013-03-01T00:00:00'
-p79
-sS'author'
 p80
+S'2013-03-01T00:00:00'
+p81
+sS'author'
+p82
 I22
 sS'original_title'
-p81
-VJewels of Gwahlur (collection)
-p82
-sS'summary'
 p83
-VJewels of Gwahlur is a 1979 collection of two fantasy short stories written by Robert E. Howard featuring his sword and sorcery hero Conan the Barbarian. The book was published in 1979 by Donald M. Grant, Publisher, Inc. as volume VIII of their deluxe Conan set. The title story originally appeared in the magazine Weird Tales. "The Snout in the Dark" is the original fragment of a story that Howard never completed. It first appeared, completed by L. Sprague de Camp and Lin Carter, in the collection Conan of Cimmeria.
+VJewels of Gwahlur (collection)
 p84
-sS'content_cleaned'
+sS'summary'
 p85
+VJewels of Gwahlur is a 1979 collection of two fantasy short stories written by Robert E. Howard featuring his sword and sorcery hero Conan the Barbarian. The book was published in 1979 by Donald M. Grant, Publisher, Inc. as volume VIII of their deluxe Conan set. The title story originally appeared in the magazine Weird Tales. "The Snout in the Dark" is the original fragment of a story that Howard never completed. It first appeared, completed by L. Sprague de Camp and Lin Carter, in the collection Conan of Cimmeria.
+p86
+sS'content_cleaned'
+p87
 I01
 sS'classes'
-p86
-(lp87
-Vfantasy
 p88
-aVto-read
-p89
-aVfiction
+(lp89
+Vfantasy
 p90
-aVconan
+aVto-read
 p91
-aVshort-stories
+aVfiction
 p92
-aVadventure
+aVconan
 p93
-aVscience-fiction
+aVshort-stories
 p94
-aVebook
+aVadventure
 p95
-aVclassics
+aVscience-fiction
 p96
-aVcurrently-reading
+aVebook
 p97
-aVpulp
+aVclassics
 p98
-aVaudio
+aVcurrently-reading
 p99
-aVgutenberg
+aVpulp
 p100
-aVshort-story
+aVaudio
 p101
-aVebooks
+aVgutenberg
 p102
-aVsci-fi-fantasy
+aVshort-story
 p103
-aVto-read-ebook
+aVebooks
 p104
-aV01-classic-fantasy
+aVsci-fi-fantasy
 p105
-aV20th-century-lit
+aVto-read-ebook
 p106
-aVread-2017
+aV01-classic-fantasy
 p107
-aVnook
+aV20th-century-lit
 p108
-aVi-own
+aVread-2017
 p109
-aVpublic-domain
+aVnook
 p110
-aVkindle
+aVi-own
 p111
-aVdigital
+aVpublic-domain
 p112
-aVamerican
+aVkindle
 p113
-aVseries
+aVdigital
 p114
-aVgenero-fantasia
+aVamerican
 p115
-aVfree-ebooks
+aVseries
 p116
-aVowned
+aVgenero-fantasia
 p117
-aVswords-and-sorcery
+aVfree-ebooks
 p118
-aVpathfinder-recommendations
+aVowned
 p119
-aVz_fiction
+aVswords-and-sorcery
 p120
-aVx_shortstory
+aVpathfinder-recommendations
 p121
-aVw_us_federal
+aVz_fiction
 p122
-aVlit-anglosajona
+aVx_shortstory
 p123
-aVthriller
+aVw_us_federal
 p124
-aVsword-and-sorcery
+aVlit-anglosajona
 p125
-aVdark-fantasy
+aVthriller
 p126
-aVaction
+aVsword-and-sorcery
 p127
-aVhyborean-age
+aVdark-fantasy
 p128
-aVcuentos
+aVaction
 p129
-aVshorts
+aVhyborean-age
 p130
-aVrobert-e-howard
+aVcuentos
 p131
-aVgreatest-sffh-novellas
+aVshorts
 p132
-aVmount-tbr-2014
+aVrobert-e-howard
 p133
-aVshelved
+aVgreatest-sffh-novellas
 p134
-aVfeedbooks-com
+aVmount-tbr-2014
 p135
-aVto-read-fantasy
+aVshelved
 p136
-aVscience-fic-fantasy
+aVfeedbooks-com
 p137
-aVclassic
+aVto-read-fantasy
 p138
-aVsword-sorcery
+aVscience-fic-fantasy
 p139
-aVzebert
+aVclassic
 p140
-aVyes
+aVsword-sorcery
 p141
-aVgoodreads
+aVzebert
 p142
-aVfantasy-epic
+aVyes
 p143
-aVlibrivox
+aVgoodreads
 p144
-aVnovels
+aVfantasy-epic
 p145
-aVmystery
+aVlibrivox
 p146
-aVrobert-howard
+aVnovels
 p147
-aVamerican-literature
+aVmystery
 p148
-aVgothic-literature
+aVrobert-howard
 p149
-aVamerican-lit
+aVamerican-literature
 p150
-aVpulps-and-sci-fi
+aVgothic-literature
 p151
-aVtestosterone-fun
+aVamerican-lit
 p152
-aVfun
+aVpulps-and-sci-fi
 p153
-aVe-book
+aVtestosterone-fun
 p154
-aVconan-reh
+aVfun
 p155
-aVa-great-list-of-sf-fantasy
+aVe-book
 p156
-aVa-great-list-of-top-books-to-read
+aVconan-reh
 p157
-aVfantasy-masterworks
+aVa-great-list-of-sf-fantasy
 p158
-aVsecond-hand-bookshop-wishlist
+aVa-great-list-of-top-books-to-read
 p159
-aVmystery-and-suspense
+aVfantasy-masterworks
 p160
-aVlibrary
+aVsecond-hand-bookshop-wishlist
 p161
-asS'loc_class'
+aVmystery-and-suspense
 p162
-VPS: Language and Literatures: American and Canadian literature
+aVlibrary
 p163
-sS'n_authors'
+asS'loc_class'
 p164
+VPS: Language and Literatures: American and Canadian literature
+p165
+sS'n_authors'
+p166
 I1
 sb.

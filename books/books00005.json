@@ -1,6 +1,7 @@
 {
     "content_name": "21279.txt.utf-8", 
     "isbn": "1776665082", 
+    "original_title": "2 B R 0 2 B", 
     "author_name": "Kurt Vonnegut", 
     "images_urls": [
         "http://www.gutenberg.org/files/21279/21279-page-images/p058.png", 
@@ -19,7 +20,10 @@
         "http://www.gutenberg.org/files/21279/21279-page-images/p071.png"
     ], 
     "year": 1962, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/9/94/2BR02B_To_Be_or_Naught_To_Be_poster.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/2br02b_vonnegut_mn.ogg"
+    ], 
     "id": 5, 
     "category": "Text", 
     "plot": "The setting is a society in which aging has been cured, individuals have indefinite lifespans, and population control is used to limit the population of the United States to forty million. This is maintained through a combination of infanticide and government-assisted suicide - in short, in order for someone to be born, someone must first volunteer to die. As a result, births are few and far between, and deaths occur primarily by accident.\nThe scene is a waiting room at the Chicago Lying-In Hospital, where Edward K. Wehling, Jr. is faced with the situation that his wife is about to give birth to triplets, but he has found only one person - his maternal grandfather - who will volunteer to die. A painter on a stepladder is redecorating the room with a mural depicting famous doctors and nurses - in particular, Dr. Benjamin Hitz, the hospital's Chief Obstetrician. Leora Duncan, from the Service Division of the Federal Bureau of Termination, arrives to pose for the mural. The mural is a picture of a garden that's well taken care of. It is a metaphor for the United States at that time. Later, Dr. Hitz enters the scene, conversing with everyone but the painter of the mural.\nIt becomes apparent to all that Wehling is in a state of despair, wanting not to send his grandfather and two of his children to death. Dr. Hitz questions Wehling's belief in the system, and tries to make Wehling feel better by explaining how the surviving child will \"live on a happy, roomy, clean, rich planet.\" Suddenly, Wehling draws a revolver and kills Dr. Hitz, Leora Duncan, and himself - \"making room for all three children.\"\nThe painter, who is about two hundred years old, is left to reflect on the scene, and thinks about life, war, plague, and starvation. Descending the stepladder, he initially takes the revolver, intending to kill himself with it, but he can't do it. Instead he calls the Bureau of Termination to make an appointment. The last line is from the receptionist at the Bureau:", 
@@ -54,7 +58,7 @@
     ], 
     "release_date": "2007-05-03T00:00:00", 
     "author": 4, 
-    "original_title": "2 B R 0 2 B", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"2 B R 0 2 B\" is a science fiction short story by Kurt Vonnegut, originally published in the digest magazine Worlds of If Science Fiction, January 1962, and collected in Vonnegut's Bagombo Snuff Box (1999). The title is pronounced \"2 B R naught 2 B\", referencing the famous phrase \"to be, or not to be\" from William Shakespeare's Hamlet, Prince of Denmark. In this story, the title refers to the telephone number one dials to schedule an assisted suicide with the Federal Bureau of Termination. Vonnegut's 1965 novel God Bless You, Mr. Rosewater describes a story by this name, attributing it to his recurring character Kilgore Trout, although the plot summary given is closer in nature to the eponymous tale from his short-story collection Welcome to the Monkey House.", 
     "content_cleaned": true, 
     "classes": [], 

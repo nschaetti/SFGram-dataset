@@ -1,7 +1,8 @@
 {
     "content_name": "51845.txt.utf-8", 
     "isbn": "0345016610", 
-    "language_code": "eng", 
+    "original_title": "Wolfbane (novel)", 
+    "year": 1957, 
     "author_name": "C. M. Kornbluth", 
     "images_urls": [
         "http://www.gutenberg.org/files/51845/51845-h/images/cover.jpg", 
@@ -13,8 +14,12 @@
         "http://www.gutenberg.org/files/51845/51845-h/images/illus5.jpg", 
         "http://www.gutenberg.org/files/51845/51845-h/images/illus6.jpg"
     ], 
-    "year": 1957, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/3/3b/Wolfbane%281stEd%29.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a8/Galaxy_195710.jpg"
+    ], 
     "id": 171, 
     "category": "Text", 
     "plot": "The story opens in the town of Wheeling, West Virginia. We first see Roget Germyn, a banker and model Citizen. An Eye forms over him while he is meditating, but he is interrupted and the Eye vanishes. He then returns to a more Earthly concern - whether or not the 'sun' will be regenerated, ending the current period of hunger and cold.\nAttention then shifts to Glenn Tropile, who lives among the Citizens, but regards himself as one of the feared Wolves. He has even managed to slowly coach his wife, Gala, toward a more Wolfish outlook. Despite this rebellious attitude, he maintains a genuine interest in meditation.\nGlenn Tropile is exposed as a Wolf while stealing bread. He escapes execution and is collected by a community of Wolves living in the town of Princeton. They find he doesn't entirely fit in there either, but hope he may get collected by an 'Eye', giving them a chance to measure this process in detail. This eventually happens and they find, as expected, that his disappearance was facilitated by the Pyramid on Everest. Glenn Tropile has been sent to the Pyramid's planet.\nWe then learn his fate. To the Pyramids, the human race is nothing more than a useful source of 'Components' for a complex world-machine devoted mostly to feeding these artificial and semi-organic beings. Tropile is suspended in a fluid-filled tank and 'wired in' to the vast computer system. Later, he is linked to seven other humans as a 'Snowflake' - eight minds joined together to facilitate more complex tasks than a single human Component could manage.\nIn this condition, Tropile wakes, manages to retain his sanity, and wakes the other humans. They eventually merge with one another to form a sophisticated collective mind. The freed Snowflake then spies on the Pyramids, finding that they have been traveling for some two million years, and have collected many species as Components, but seem locked in meaningless rituals surrounding an alien creature at the world's North Pole. They later realize that this is the last survivor of the race that created the Pyramids.\nIn the meantime, they have modified the collection process of human Components so that it selects persons known to at least one of the eight people composing the Snowflake (which has become almost as ruthless and inhuman as the alien Pyramids). These humans are intended as 'mice,' disrupters of the planet, and later as an army with which to fight the Pyramids. Roget Germyn is one of them, as is Tropile's wife.\nFacing a philosophical dead-end, the 'Snowflake' decides to separate its component minds to study the problem. Restored to individual identity, Glenn Tropile becomes horrified at what he has done. However, the majority of the others want to carry on. While they are arguing, one of their number is taken over by the mind of the alien at the North Pole, who warns them that the Pyramids have noticed them and plan to wipe out half the planet to get rid of them.\nThey initially re-merge their personalities as the Snowflake and expedite their plans. Tropile decides he must physically disconnect himself from the Snowflake and leave to lead the humans. They manage to defeat the Pyramids, but not before the remainder of the Snowflake is also destroyed. The humans free many of the other Components and ship them back to Earth.\nTropile now finds he is a hero of sorts, but does not fit the role (though he never truly fit any role in which he was placed - Sheep, Wolf, or Component). He also sees that there is a need for someone to wire themselves back into the alien planet's surviving systems, to re-kindle the 'sun' every five years and perhaps return the Earth to its original orbit. He doesn't want to do it alone, but most of the people he knows are either unwilling or unsuitable. On the last page, though, his wife agrees to join him. He expects that there will later be others, that \"[t]he ring of fire [will] grow.\"", 
@@ -69,7 +74,7 @@
     ], 
     "release_date": "2016-04-23T00:00:00", 
     "author": 51, 
-    "original_title": "Wolfbane (novel)", 
+    "cover": "https://images.gr-assets.com/books/1323713339l/1875941.jpg", 
     "summary": "Wolfbane is a science fiction novel by Frederik Pohl and C. M. Kornbluth, published in 1959. It was serialized in Galaxy in 1957, with illustrations by Wally Wood. In his review column for F&SF, Damon Knight selected the novel as one of the 10 best genre books of 1959.\n\n", 
     "content_cleaned": true, 
     "classes": [

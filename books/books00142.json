@@ -1,12 +1,15 @@
 {
     "isbn": "0345016602", 
+    "original_title": "Search the Sky", 
     "language_code": "eng", 
     "author_name": "C. M. Kornbluth", 
     "images_urls": [
         "http://www.gutenberg.org/files/52228/52228-h/images/cover.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/4/45/SearchTheSky.jpg"
+    ], 
     "id": 142, 
     "category": "Text", 
     "plot": "Halsey's Planet is in decline, and when a generation ship arrives, having failed to contact six other planets, Ross is sent to discover the state of the interstellar colonies. He is given a ship which can make the trip from colony to colony almost instantaneously. The technology used in the ship has been kept secret because it could give rise to interstellar war if one colony decided to conquer others. However, the isolated populations are also affected by genetic drift resulting in a decline in their societies.\nThe first planet he visits has been completely destroyed, the second is a gerontocratic travesty of a democracy, and the third is a repressive matriarchy. On the way he picks up companions Helena and Bernie.\nThe next planet they visit is supposed to be Earth, but it turns out not to be; not only are its planetary statistics different from Earth's, but it is populated by a race of almost-identical people called Joneses. This planet, also called Jones, is ruled by a cult of total conformity in all areas of life, including genetic phenotype. Ross discovers that the equation whose meaning he has been seeking refers to the loss of unfixed genes in a small population, which explains the degeneracy of the planets he has visited. Dr. Sam Jones learns that he has been worshiping an equation on genetic drift, and joins the little band.\nThey sort out their navigational problem and finally make it to Earth, which is a civilisation of morons protected by a small minority of hidden geniuses, like the situation in \"The Marching Morons\". Ross realises that the problem with all the degenerate worlds is their isolation; luckily he has the FTL drive and so sets about rectifying the problem by bringing them together.", 
@@ -63,7 +66,7 @@
     ], 
     "release_date": "2016-06-03T00:00:00", 
     "author": 51, 
-    "original_title": "Search the Sky", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Search the Sky is a satirical science fiction novel written by Frederik Pohl and Cyril M. Kornbluth and first published in 1954 by Ballantine Books.", 
     "classes": [
         "sf", 

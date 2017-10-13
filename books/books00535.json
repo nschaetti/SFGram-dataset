@@ -1,5 +1,6 @@
 {
     "content_name": "24392.txt.utf-8", 
+    "original_title": "Cat and Mouse (Ralph Williams story)", 
     "language_code": "eng", 
     "author_name": "Ralph Williams", 
     "images_urls": [
@@ -45,7 +46,7 @@
     ], 
     "release_date": "2008-01-21T00:00:00", 
     "author": 176, 
-    "original_title": "Cat and Mouse (Ralph Williams story)", 
+    "cover": "https://images.gr-assets.com/books/1328054995l/6328964.jpg", 
     "summary": "\"Cat and Mouse\" is a science fiction novelette by Ralph Williams. Originally published in the June 1959 issue of Astounding Science Fiction, it was nominated for, but did not win, the 1960 Hugo Award for Best Short Fiction.", 
     "content_cleaned": true, 
     "classes": [

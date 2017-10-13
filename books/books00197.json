@@ -1,12 +1,15 @@
 {
     "content_name": "42914.txt.utf-8", 
     "isbn": "1596540133", 
+    "original_title": "Gladiator (novel)", 
     "author_name": "Philip Wylie", 
     "images_urls": [
         "http://www.gutenberg.org/files/42914/42914-h/images/tp.jpg"
     ], 
     "year": 1930, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/0/01/Gladiator_%28novel%29.jpg"
+    ], 
     "id": 197, 
     "category": "Text", 
     "genres": [], 
@@ -60,7 +63,7 @@
     ], 
     "release_date": "2013-06-11T00:00:00", 
     "author": 65, 
-    "original_title": "Gladiator (novel)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Gladiator is an American science fiction novel first published in 1930 and written by Philip Wylie. The story concerns a scientist who invents an \"alkaline free-radical\" serum to \"improve\" humankind by granting the proportionate strength of an ant and the leaping ability of the grasshopper. The scientist injects his pregnant wife with the serum and his son Hugo Danner is born with superhuman strength, speed, and bulletproof skin. Hugo spends much of the novel hiding his powers, rarely getting a chance to openly use them. The novel is widely assumed to have been an inspiration for Superman, though no confirmation exists that Superman creators Jerry Siegel and Joe Shuster were influenced by it.\n\n", 
     "content_cleaned": true, 
     "classes": [

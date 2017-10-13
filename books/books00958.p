@@ -737,17 +737,21 @@ p365
 sS'author'
 p366
 I294
-sS'content_cleaned'
+sS'cover'
 p367
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p368
+sS'content_cleaned'
+p369
 I01
 sS'classes'
-p368
-(lp369
-sS'loc_class'
 p370
-VPR: Language and Literatures: English literature
-p371
-sS'n_authors'
+(lp371
+sS'loc_class'
 p372
+VPR: Language and Literatures: English literature
+p373
+sS'n_authors'
+p374
 I1
 sb.

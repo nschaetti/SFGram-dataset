@@ -1,5 +1,6 @@
 {
     "content_name": "22426.txt.utf-8", 
+    "original_title": "The Philosophical Corps", 
     "author_name": "Everett B. Cole", 
     "images_urls": [
         "http://www.gutenberg.org/files/22426/22426-h/images/001.png", 
@@ -93,7 +94,7 @@
     ], 
     "release_date": "2007-08-29T00:00:00", 
     "author": 224, 
-    "original_title": "The Philosophical Corps", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Philosophical Corps is science fiction novel by author Everett B. Cole. It was published in 1962 by Gnome Press in an edition of 4,000 copies. The novel is a fix-up of stories that originally appeared in the magazine Astounding.", 
     "content_cleaned": true, 
     "classes": [

@@ -1,5 +1,6 @@
 {
     "content_name": "21873.txt.utf-8", 
+    "original_title": "Planet of the Damned", 
     "author_name": "Harry Harrison", 
     "images_urls": [
         "http://www.gutenberg.org/files/21873/21873-h/images/bantam_logo.jpg"
@@ -61,7 +62,7 @@
     ], 
     "release_date": "2007-06-20T00:00:00", 
     "author": 16, 
-    "original_title": "Planet of the Damned", 
+    "cover": "https://images.gr-assets.com/books/1361870771l/710829.jpg", 
     "summary": "Planet of the Damned is a 1962 science fiction novel by American writer Harry Harrison. It was serialised in 1961 under the title Sense of Obligation and published under that name in 1967. It was nominated for the Hugo Award.", 
     "content_cleaned": true, 
     "classes": [

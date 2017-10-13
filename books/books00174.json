@@ -1,6 +1,7 @@
 {
     "content_name": "18846.txt.utf-8", 
     "isbn": "1598183982", 
+    "original_title": "Voodoo Planet", 
     "author_name": "Andre Norton", 
     "images_urls": [
         "http://www.gutenberg.org/files/18846/18846-h/images/cover.jpg"
@@ -61,7 +62,7 @@
     ], 
     "release_date": "2006-07-16T00:00:00", 
     "author": 28, 
-    "original_title": "Voodoo Planet", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Voodoo Planet is a science fiction novel by American writer Andre Norton, first published in 1959 by Ace Books. This is a short novel that was usually published in a double-novel format. It is part of the Solar Queen series of novels.\nThe story involves two witch doctors who conjure up ghosts and demons against each other. Norton based the wizards\u2019 magic on the use of mildly hallucinogenic drugs, psychological manipulation, and latent telepathy, which place the story within the realm of science fiction.\n\n", 
     "content_cleaned": true, 
     "classes": [

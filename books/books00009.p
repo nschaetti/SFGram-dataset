@@ -18,311 +18,317 @@ sS'isbn'
 p8
 V0425120295
 p9
-sS'year'
+sS'cover'
 p10
+Vhttps://images.gr-assets.com/books/1297555556l/489892.jpg
+p11
+sS'year'
+p12
 I1896
 sS'author_name'
-p11
-VH. G. Wells
-p12
-sS'images_urls'
 p13
-(lp14
-sS'language_code'
+VH. G. Wells
+p14
+sS'images_urls'
 p15
-Veng
-p16
-sS'images'
+(lp16
+sS'language_code'
 p17
-(lp18
-sS'id'
+Veng
+p18
+sS'images'
 p19
+(lp20
+Vhttps://upload.wikimedia.org/wikipedia/commons/7/73/IslandOfDrMoreau.JPG
+p21
+asS'id'
+p22
 I9
 sS'category'
-p20
-VText
-p21
-sS'plot'
-p22
-VThe Island of Doctor Moreau is the account of Edward Prendick, an Englishman with a scientific education who survives a shipwreck in the southern Pacific Ocean. A passing ship takes him aboard, and a man named Montgomery revives him. Prendick also meets a grotesque bestial native named M'ling, who appears to be Montgomery's manservant. The ship is transporting a number of animals which belong to Montgomery. As they approach the island, Montgomery's destination, the captain demands Prendick leave the ship with Montgomery. Montgomery explains that he will not be able to host Prendick on the island. Despite this, the captain leaves Prendick in a dinghy and sails away. Seeing that the captain has abandoned Prendick, Montgomery takes pity and rescues him. As ships rarely pass the island, Prendick will be housed in an outer room of an enclosed compound.\u000aThe island belongs to Dr. Moreau. Prendick remembers that he has heard of Moreau, formerly an eminent physiologist in London whose gruesome experiments in vivisection had been publicly exposed and has fled England as a result of his exposure.\u000aThe next day, Moreau begins working on a puma. Prendick gathers that Moreau is performing a painful experiment on the animal, and its anguished cries drive Prendick out into the jungle. While he wanders, he comes upon a group of people who seem human but have an unmistakable resemblance to swine. As he walks back to the enclosure, he suddenly realises he is being followed by a figure in the jungle. He panics and flees, and the figure gives chase. As his pursuer bears down on him, Prendick manages to stun him with a stone and observes the pursuer is a monstrous hybrid of animal and man. When Prendrick returns to the enclosure and questions Montgomery, Montgomery refuses to be open with him. After failing to get an explanation, Prendick finally gives in and takes a sleeping draught.\u000aPrendick awakes the next morning with the previous night's activities fresh in his mind. Seeing that the door to Moreau's operating room has been left unlocked, he walks in to find a humanoid form lying in bandages on the table before he is ejected by a shocked and angry Moreau. He believes that Moreau has been vivisecting humans and that he is the next test subject. He flees into the jungle where he meets an Ape-Man who takes him to a colony of similarly half-human/half-animal creatures. Their leader is a large grey thing named the Sayer of the Law who has him recite a strange litany called the Law that involves prohibitions against bestial behavior and praise for Moreau.\u000aSuddenly, Dr. Moreau bursts into the colony looking for Prendick, but Prendick escapes to the jungle. He makes for the ocean, where he plans to drown himself rather than allow Moreau to experiment on him. Moreau explains that the creatures called the Beast Folk were not formerly men, but rather animals. Prendick returns to the enclosure, where Moreau explains that he has been on the island for eleven years and has been striving to make a complete transformation of an animal to a human. He explains that while he is getting closer to perfection, his subjects have a habit of reverting to their animal form and behaviour. Moreau regards the pain he inflicts as insignificant and an unavoidable side effect in the name of his scientific experiments.\u000aOne day, Prendick and Montgomery encounter a half-eaten rabbit. Since eating flesh and tasting blood are strong prohibitions, Dr. Moreau calls an assembly of the Beast Folk and identifies the Leopard-Man (the same one that chased Prendick the first time he wandered into the jungle) as the transgressor. Knowing that he will be sent back to Dr. Moreau's compound for more painful sessions of vivisection, the Leopard-Man flees. Eventually, the group corners him in some undergrowth, but Prendick takes pity and shoots him to spare him from further suffering. Prendick also believes that although the Leopard-Man was seen breaking several laws, such as drinking water bent down like an animal, chasing men (Prendick), and running on all fours, the Leopard-Man was not solely responsible for the deaths of the rabbits. It was also the Hyena-Swine, the next most dangerous Beast Man on the island. Dr. Moreau is furious that Prendick killed the Leopard-Man but can do nothing about the situation.\u000aAs time passes, Prendick becomes inured to the grotesqueness of the Beast Folk. However one day, the half-finished puma woman rips free of her restraints and escapes from the lab. Dr. Moreau pursues her, but the two end up fighting each other which ends in a mutual kill. Montgomery breaks down and decides to share his alcohol with the Beast Folk. Prendick resolves to leave the island, but later hears a commotion outside in which Montgomery, his servant M'ling, and the Sayer of the Law die after a scuffle with the Beast Folk. At the same time, the compound burns down because Prendick has knocked over a lamp. With no chance of saving any of the provisions stored in the enclosure, Prendick realizes that during the night Montgomery has also destroyed the only boats on the island.\u000aPrendick lives with the Beast Folk on the island for months after the deaths of Moreau and Montgomery. As the time goes by, the Beast Folk increasingly revert to their original animal instincts, beginning to hunt the island's rabbits, returning to walking on all fours, and leaving their shared living areas for the wild. They cease to follow Prendick's instructions and eventually the Hyena-Swine kills his faithful companion, a Dog-Man created from a St. Bernard. Prendick then shoots the Hyena-Swine in self-defence with the help of the Sloth Creature. Luckily for Prendick ever since his efforts to build a raft have been unsuccessful, a boat that carries two corpses drifts onto the beach (perhaps the captain of the ship that picked Prendick up and a sailor). Prendick uses the boat to leave the island and is picked up three days later. But when he tells his story he is thought to be mad, so he feigns amnesia.\u000aBack in England, Prendick is no longer comfortable in the presence of humans who seem to him to be about to revert to the animal state. He leaves London and lives in near-solitude in the countryside, devoting himself to chemistry as well as astronomy in the studies of which he finds some peace.
 p23
-sS'genres'
+VText
 p24
-(lp25
-sS'copyright'
+sS'plot'
+p25
+VThe Island of Doctor Moreau is the account of Edward Prendick, an Englishman with a scientific education who survives a shipwreck in the southern Pacific Ocean. A passing ship takes him aboard, and a man named Montgomery revives him. Prendick also meets a grotesque bestial native named M'ling, who appears to be Montgomery's manservant. The ship is transporting a number of animals which belong to Montgomery. As they approach the island, Montgomery's destination, the captain demands Prendick leave the ship with Montgomery. Montgomery explains that he will not be able to host Prendick on the island. Despite this, the captain leaves Prendick in a dinghy and sails away. Seeing that the captain has abandoned Prendick, Montgomery takes pity and rescues him. As ships rarely pass the island, Prendick will be housed in an outer room of an enclosed compound.\u000aThe island belongs to Dr. Moreau. Prendick remembers that he has heard of Moreau, formerly an eminent physiologist in London whose gruesome experiments in vivisection had been publicly exposed and has fled England as a result of his exposure.\u000aThe next day, Moreau begins working on a puma. Prendick gathers that Moreau is performing a painful experiment on the animal, and its anguished cries drive Prendick out into the jungle. While he wanders, he comes upon a group of people who seem human but have an unmistakable resemblance to swine. As he walks back to the enclosure, he suddenly realises he is being followed by a figure in the jungle. He panics and flees, and the figure gives chase. As his pursuer bears down on him, Prendick manages to stun him with a stone and observes the pursuer is a monstrous hybrid of animal and man. When Prendrick returns to the enclosure and questions Montgomery, Montgomery refuses to be open with him. After failing to get an explanation, Prendick finally gives in and takes a sleeping draught.\u000aPrendick awakes the next morning with the previous night's activities fresh in his mind. Seeing that the door to Moreau's operating room has been left unlocked, he walks in to find a humanoid form lying in bandages on the table before he is ejected by a shocked and angry Moreau. He believes that Moreau has been vivisecting humans and that he is the next test subject. He flees into the jungle where he meets an Ape-Man who takes him to a colony of similarly half-human/half-animal creatures. Their leader is a large grey thing named the Sayer of the Law who has him recite a strange litany called the Law that involves prohibitions against bestial behavior and praise for Moreau.\u000aSuddenly, Dr. Moreau bursts into the colony looking for Prendick, but Prendick escapes to the jungle. He makes for the ocean, where he plans to drown himself rather than allow Moreau to experiment on him. Moreau explains that the creatures called the Beast Folk were not formerly men, but rather animals. Prendick returns to the enclosure, where Moreau explains that he has been on the island for eleven years and has been striving to make a complete transformation of an animal to a human. He explains that while he is getting closer to perfection, his subjects have a habit of reverting to their animal form and behaviour. Moreau regards the pain he inflicts as insignificant and an unavoidable side effect in the name of his scientific experiments.\u000aOne day, Prendick and Montgomery encounter a half-eaten rabbit. Since eating flesh and tasting blood are strong prohibitions, Dr. Moreau calls an assembly of the Beast Folk and identifies the Leopard-Man (the same one that chased Prendick the first time he wandered into the jungle) as the transgressor. Knowing that he will be sent back to Dr. Moreau's compound for more painful sessions of vivisection, the Leopard-Man flees. Eventually, the group corners him in some undergrowth, but Prendick takes pity and shoots him to spare him from further suffering. Prendick also believes that although the Leopard-Man was seen breaking several laws, such as drinking water bent down like an animal, chasing men (Prendick), and running on all fours, the Leopard-Man was not solely responsible for the deaths of the rabbits. It was also the Hyena-Swine, the next most dangerous Beast Man on the island. Dr. Moreau is furious that Prendick killed the Leopard-Man but can do nothing about the situation.\u000aAs time passes, Prendick becomes inured to the grotesqueness of the Beast Folk. However one day, the half-finished puma woman rips free of her restraints and escapes from the lab. Dr. Moreau pursues her, but the two end up fighting each other which ends in a mutual kill. Montgomery breaks down and decides to share his alcohol with the Beast Folk. Prendick resolves to leave the island, but later hears a commotion outside in which Montgomery, his servant M'ling, and the Sayer of the Law die after a scuffle with the Beast Folk. At the same time, the compound burns down because Prendick has knocked over a lamp. With no chance of saving any of the provisions stored in the enclosure, Prendick realizes that during the night Montgomery has also destroyed the only boats on the island.\u000aPrendick lives with the Beast Folk on the island for months after the deaths of Moreau and Montgomery. As the time goes by, the Beast Folk increasingly revert to their original animal instincts, beginning to hunt the island's rabbits, returning to walking on all fours, and leaving their shared living areas for the wild. They cease to follow Prendick's instructions and eventually the Hyena-Swine kills his faithful companion, a Dog-Man created from a St. Bernard. Prendick then shoots the Hyena-Swine in self-defence with the help of the Sloth Creature. Luckily for Prendick ever since his efforts to build a raft have been unsuccessful, a boat that carries two corpses drifts onto the beach (perhaps the captain of the ship that picked Prendick up and a sailor). Prendick uses the boat to leave the island and is picked up three days later. But when he tells his story he is thought to be mad, so he feigns amnesia.\u000aBack in England, Prendick is no longer comfortable in the presence of humans who seem to him to be about to revert to the animal state. He leaves London and lives in near-solitude in the countryside, devoting himself to chemistry as well as astronomy in the studies of which he finds some peace.
 p26
-VPublic domain in the USA.
+sS'genres'
 p27
-sS'title'
-p28
-VThe Island of Doctor Moreau
+(lp28
+sS'copyright'
 p29
-sS'wikipedia'
+VPublic domain in the USA.
 p30
-(dp31
-S'url'
+sS'title'
+p31
+VThe Island of Doctor Moreau
 p32
-Vhttps://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau
+sS'wikipedia'
 p33
+(dp34
+S'url'
+p35
+Vhttps://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau
+p36
 sS'found'
-p34
+p37
 I01
 sS'year'
-p35
+p38
 I-1
 ssS'published_in'
-p36
+p39
 NsS'average_rating'
-p37
+p40
 F3.56
 sS'rating_count'
-p38
+p41
 I250
 sS'content_available'
-p39
+p42
 I01
 sS'goodreads'
-p40
-(dp41
-g32
+p43
+(dp44
+g35
 Vhttps://www.goodreads.com/book/show/489892.The_Island_of_Doctor_Moreau
-p42
-sg34
+p45
+sg37
 I01
-sg35
+sg38
 I1990
 ssS'similar_books'
-p43
-(lp44
-VSpacecraft: 2000-2100 AD
-p45
-aVThe early Asimov or, Eleven Years of Trying
 p46
-aVAnak Mat Lela Gila
-p47
-aVSitora Harimau Jadian
+(lp47
+VSpacecraft: 2000-2100 AD
 p48
-aVThe Stone God Awakens
+aVThe early Asimov or, Eleven Years of Trying
 p49
-aVThe Essential Writings of Machiavelli
+aVAnak Mat Lela Gila
 p50
-aVYang Nakal-Nakal
+aVSitora Harimau Jadian
 p51
-aVThe Lottery Ticket
+aVThe Stone God Awakens
 p52
-aVOne Lonely Night
+aVThe Essential Writings of Machiavelli
 p53
-aVMoby Dick
+aVYang Nakal-Nakal
 p54
-aVThe Game
+aVThe Lottery Ticket
 p55
-aVThe Star Wars (The Star Wars, #2)
+aVOne Lonely Night
 p56
-aVKembara Sastera Nisah Haron : United Kingdom & Dublin
+aVMoby Dick
 p57
-aVAnimal Farm and Related Readings
+aVThe Game
 p58
-aVAnak Bajang Menggiring Angin
+aVThe Star Wars (The Star Wars, #2)
 p59
-aVThe Definitive H.P. Lovecraft
+aVKembara Sastera Nisah Haron : United Kingdom & Dublin
 p60
-aVTapping the Vein: Book Two (Tapping the Vein #2)
+aVAnimal Farm and Related Readings
 p61
-aVPieprzony Los Kataryniarza
+aVAnak Bajang Menggiring Angin
 p62
-asS'description'
+aVThe Definitive H.P. Lovecraft
 p63
-NsS'gutenberg'
+aVTapping the Vein: Book Two (Tapping the Vein #2)
 p64
-(dp65
-g32
-Vhttp://www.gutenberg.org/ebooks/159
+aVPieprzony Los Kataryniarza
+p65
+asS'description'
 p66
-sS'num'
+NsS'gutenberg'
 p67
+(dp68
+g35
+Vhttp://www.gutenberg.org/ebooks/159
+p69
+sS'num'
+p70
 I159
 ssS'authors'
-p68
-(lp69
+p71
+(lp72
 I1
 asS'isbn13'
-p70
-V9780425120293
-p71
-sS'language'
-p72
-VEnglish
 p73
-sS'countries'
+V9780425120293
 p74
-(lp75
+sS'language'
+p75
+VEnglish
+p76
+sS'countries'
+p77
+(lp78
 I1
 asS'release_date'
-p76
+p79
 S'2004-10-14T00:00:00'
-p77
+p80
 sS'author'
-p78
+p81
 I1
 sS'original_title'
-p79
-VThe Island of Doctor Moreau
-p80
-sS'summary'
-p81
-VThe Island of Doctor Moreau is an 1896 science fiction novel, by English author H. G. Wells.\u000aThe text of the novel is the narration of Edward Prendick, a shipwrecked man rescued by a passing boat who is left on the island home of Doctor Moreau, who creates human-like hybrid beings from animals via vivisection. The novel deals with a number of philosophical themes, including pain and cruelty, moral responsibility, human identity, and human interference with nature. Wells described the novel as "an exercise in youthful blasphemy".\u000aThe Island of Doctor Moreau is a classic of early science fiction and remains one of Wells's best-known books. It has been adapted to film and other media on many occasions.\u000a\u000a
 p82
-sS'content_cleaned'
+VThe Island of Doctor Moreau
 p83
+sS'summary'
+p84
+VThe Island of Doctor Moreau is an 1896 science fiction novel, by English author H. G. Wells.\u000aThe text of the novel is the narration of Edward Prendick, a shipwrecked man rescued by a passing boat who is left on the island home of Doctor Moreau, who creates human-like hybrid beings from animals via vivisection. The novel deals with a number of philosophical themes, including pain and cruelty, moral responsibility, human identity, and human interference with nature. Wells described the novel as "an exercise in youthful blasphemy".\u000aThe Island of Doctor Moreau is a classic of early science fiction and remains one of Wells's best-known books. It has been adapted to film and other media on many occasions.\u000a\u000a
+p85
+sS'content_cleaned'
+p86
 I01
 sS'classes'
-p84
-(lp85
-Vto-read
-p86
-aVcurrently-reading
 p87
-aVclassics
-p88
-aVfiction
+(lp88
+Vto-read
 p89
-aVscience-fiction
+aVcurrently-reading
 p90
-aVdigital
+aVclassics
 p91
-aVsf
+aVfiction
 p92
-aVowned
+aVscience-fiction
 p93
-aVsci-fi
+aVdigital
 p94
-aVavailable-at-the-library
+aVsf
 p95
-aVcomics-graphic-novels
+aVowned
 p96
-aVmight-read
+aVsci-fi
 p97
-aVfantasy
+aVavailable-at-the-library
 p98
-aVbookclub
+aVcomics-graphic-novels
 p99
-aVbooks-to-buy
+aVmight-read
 p100
-aValphabet
+aVfantasy
 p101
-aVkat
+aVbookclub
 p102
-aVe-books
+aVbooks-to-buy
 p103
-aV1001-must
+aValphabet
 p104
-aVclassics-lineup
+aVkat
 p105
-aVpurchased
+aVe-books
 p106
-aVuni-read
+aV1001-must
 p107
-aVowning
+aVclassics-lineup
 p108
-aVwatched
+aVpurchased
 p109
-aVclassics-book-club
+aVuni-read
 p110
-aVwish-list
+aVowning
 p111
-aVresearch
+aVwatched
 p112
-aVaug2016
+aVclassics-book-club
 p113
-aVbooks-i-own
+aVwish-list
 p114
-aVbookshelf
+aVresearch
 p115
-aVbooks-to-read-eventually
+aVaug2016
 p116
-aVauthors-g
+aVbooks-i-own
 p117
-aV19th-cuntury
+aVbookshelf
 p118
-aVa-z-books
+aVbooks-to-read-eventually
 p119
-aVgraphic-novels
+aVauthors-g
 p120
-aVquadrinhos
+aV19th-cuntury
 p121
-aVcomics
+aVa-z-books
 p122
-aVadaptation
+aVgraphic-novels
 p123
-aVi-own
+aVquadrinhos
 p124
-aV19th-century
+aVcomics
 p125
-aVon-my-bookshelf
+aVadaptation
 p126
-aVon-cybook
+aVi-own
 p127
-aVleseprobe-lesen
+aV19th-century
 p128
-aVfun
+aVon-my-bookshelf
 p129
-aVebook
+aVon-cybook
 p130
-aVdefault
+aVleseprobe-lesen
 p131
-aVsf-and-fantasy
+aVfun
 p132
-aVart-of-manliness-top-100
+aVebook
 p133
-aVbooks_i_own_2015
+aVdefault
 p134
-aVnook-59-sci-fi-classics
+aVsf-and-fantasy
 p135
-aVother
+aVart-of-manliness-top-100
 p136
-aVnook-essential-collection
+aVbooks_i_own_2015
 p137
-aVclassics-illustrated
+aVnook-59-sci-fi-classics
 p138
-aVcosmocaixa
+aVother
 p139
-aVbooks-i-really-want-to-read
+aVnook-essential-collection
 p140
-aVbooks-i-really-want-to-get
+aVclassics-illustrated
 p141
-aVenglish-literature
+aVcosmocaixa
 p142
-aVtbr
+aVbooks-i-really-want-to-read
 p143
-aVowned-books
+aVbooks-i-really-want-to-get
 p144
-aVif-you-like-orphan-black
+aVenglish-literature
 p145
-aVfavorites
+aVtbr
 p146
-aVfor-niaya
+aVowned-books
 p147
-aVfor-sina
+aVif-you-like-orphan-black
 p148
-aVvivisection
+aVfavorites
 p149
-aVe-book
+aVfor-niaya
 p150
-aVclassic
+aVfor-sina
 p151
-aVbooks-i-own-but-haven-t-read
+aVvivisection
 p152
-aVebooks-i-own
+aVe-book
 p153
-aVaward-challenge
+aVclassic
 p154
-aVgraphic
+aVbooks-i-own-but-haven-t-read
 p155
-asS'loc_class'
+aVebooks-i-own
 p156
-VPR: Language and Literatures: English literature
+aVaward-challenge
 p157
-sS'n_authors'
+aVgraphic
 p158
+asS'loc_class'
+p159
+VPR: Language and Literatures: English literature
+p160
+sS'n_authors'
+p161
 I1
 sb.

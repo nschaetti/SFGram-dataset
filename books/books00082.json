@@ -1,11 +1,14 @@
 {
     "content_name": "552.txt.utf-8", 
     "isbn": "160096348X", 
-    "language_code": "eng", 
+    "original_title": "The People That Time Forgot (novel)", 
+    "year": 1918, 
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
-    "year": 1918, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/6/66/The_People_That_Time_Forgot.jpg"
+    ], 
     "id": 82, 
     "category": "Text", 
     "plot": "The novel begins with the organization of an expedition to rescue Bowen J. Tyler, Lys La Rue, and the other castaways marooned on the large Antarctic island of Caprona, whose tropical interior, known to its inhabitants as Caspak, is home to prehistoric fauna of all eras. Tyler's recovered manuscript detailing their ordeal is delivered to his family, and the relief effort is put together by Tom Billings, secretary of the Tyler shipbuilding business. The expedition's ship, the Toreador, locates Caprona, and while the bulk of the crew attempts to scale the encircling cliffs Billings flies over them in an aircraft.\nBillings' plane is attacked by flying reptiles and forced down in the interior of Caspak. He saves a native girl named Ajor from a large cat and a group of ape-men, and undertakes to accompany her back to her people, the fully human Galus, while she educates him in the language and mysteries of the island. They travel north, encountering various creatures of the Mesozoic and Cenozoic eras, as well as additional primitive subhuman races. They pass through the lands of the Neanderthal Bo-lu (club men) and the more advanced Sto-lu (hatchet men), who are easily cowed by gunfire. But in the country of the Band-lu (spear men) he is taken captive, and despairs until rescued in turn by Ajor. They resume their journey, re-encountering and befriending Tomar, a Band-lu newly become Kro-lu (bow man). Tomar and his mate So-al are the first examples Billings has actually seen of Caspakian evolutionary metamorphosis in action.\nAfter an interlude in which Ajor's back story is related the new friends separate. Billings and Ajor enter Kro-lu territory and save Chal-az, a Kro-lu warrior, from a group of Band-lu. Visiting the Kro-lu village as his guest, they are parted again when Billings is attacked through the machinations of the chief Du-seen, who has designs on Ajor. They escape individually, making for the Galu country. Du-seen goes after Ajor with some of his warriors.\nBillings catches and tames an ancestral horse, with the aid of which he rescues Ajor from Du-seen. Pursued, they resign themselves to death, but are relieved by a force consisting of Bowen Tyler, Galu warriors, and the rescue crew from the Toreador, which had successfully scaled the cliffs and entered Caspak after Billings' ill-fated airplane flight. All are reunited in the Galu village, where Tyler and Lys La Rue have been formally married by the captain of the Toreador. Billings and Ajor also desire to wed, but Ajor may not leave Caspak due to her status as cos-ata-lo \u2013 she was born a fully evolved Galu rather than attaining that form through metamorphosis, and hence is treasured by her people. Billings elects to remain in Caspak to be with her.", 
@@ -60,7 +63,7 @@
     ], 
     "release_date": "1996-06-01T00:00:00", 
     "author": 2, 
-    "original_title": "The People That Time Forgot (novel)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The People That Time Forgot is a fantasy novel by American writer Edgar Rice Burroughs, the second of his Caspak trilogy. The sequence was first published in Blue Book Magazine as a three-part serial in the issues for September, October and November 1918, with The People That Time Forgot forming the second installment. The complete trilogy was later combined for publication in book form under the title of The Land That Time Forgot (properly speaking the title of the first part) by A. C. McClurg in June 1924. Beginning with the Ace Books editions of the 1960s, the three segments have usually been issued as separate short novels.", 
     "content_cleaned": true, 
     "classes": [

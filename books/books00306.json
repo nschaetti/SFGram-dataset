@@ -1,4 +1,5 @@
 {
+    "original_title": "The Radio Man", 
     "language_code": "eng", 
     "author_name": "Ralph Milne Farley", 
     "images_urls": [
@@ -8,7 +9,11 @@
         "http://www.gutenberg.org/files/52167/52167-h/images/p4.jpg"
     ], 
     "year": 1924, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/5/51/Radio_man.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/35/An_Earth_Man_on_Venus_78545.JPG", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 306, 
     "category": "Text", 
     "genres": [], 
@@ -43,7 +48,7 @@
     ], 
     "release_date": "2016-05-27T00:00:00", 
     "author": 99, 
-    "original_title": "The Radio Man", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Radio Man is a science fiction novel by American writer Ralph Milne Farley. It is the first book in Farley's Radio Man series. It was first published in book form in 1948 by Fantasy Publishing Company, Inc. in an edition of 1,000 copies. The novel was originally serialized in the magazine Argosy.", 
     "classes": [
         "to-read", 

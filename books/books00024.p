@@ -16,307 +16,311 @@ V30240.txt.utf-8
 p7
 sS'isbn'
 p8
-NsS'year'
+NsS'cover'
 p9
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p10
+sS'year'
+p11
 I1962
 sS'author_name'
-p10
-VKurt Vonnegut
-p11
-sS'images_urls'
 p12
-(lp13
-Vhttp://www.gutenberg.org/files/30240/30240-h/images/001.png
+VKurt Vonnegut
+p13
+sS'images_urls'
 p14
-aVhttp://www.gutenberg.org/files/30240/30240-h/images/002-1.jpg
-p15
-aVhttp://www.gutenberg.org/files/30240/30240-h/images/002-2.jpg
+(lp15
+Vhttp://www.gutenberg.org/files/30240/30240-h/images/001.png
 p16
-asS'language_code'
+aVhttp://www.gutenberg.org/files/30240/30240-h/images/002-1.jpg
 p17
-Veng
+aVhttp://www.gutenberg.org/files/30240/30240-h/images/002-2.jpg
 p18
-sS'images'
+asS'language_code'
 p19
-(lp20
-Vhttps://upload.wikimedia.org/wikipedia/commons/4/4e/Galaxy_195401.jpg
+Veng
+p20
+sS'images'
 p21
+(lp22
+Vhttps://upload.wikimedia.org/wikipedia/commons/4/4e/Galaxy_195401.jpg
+p23
 asS'id'
-p22
+p24
 I24
 sS'category'
-p23
-VText
-p24
-sS'plot'
 p25
-VThe Schwartz family, headed by 172-year-old Harold ("Gramps"), lives in a three-room apartment on the 76th floor of "Building 257 of Alden Village, New York City, Connecticut". Gramps' grandson Louis, his wife Emerald, and 20 other descendants are crowded into the space, perpetually jockeying for Gramps' favor. Gramps gets the best food and the only private bedroom, and controls everyone's life by constantly revising his will to disinherit anyone who earns his displeasure.\u000aAn offhand remark by Lou prompts Gramps to disinherit him and exile Lou and Em to the worst sleeping space in the apartment, near the bathroom. Lou then catches his great-grandnephew, newly wed Mortimer, diluting Gramps' anti-gerasone in the bathroom. Fearing Gramps' reaction to such a scheme, Lou tries to empty the bottle and refill it with the full-strength medicine, but accidentally breaks the bottle and is caught by Gramps, who only tells him to clean up the mess. The next morning, the family finds Gramps' bed empty and a note informing them that he is gone; the note also contains a revised will that bequeaths his entire estate to be held in common by his descendants, with no stipulations as to who receives what property.\u000aA riot breaks out as the family members start fighting over who gets the bedroom, leading to everyone being arrested and jailed at the police station. Lou and Em find the cells to be comfortable and spacious compared to the apartment, and hope that they will be sentenced to prison so they can keep these living arrangements. Meanwhile, Gramps has returned to the now-empty apartment, having watched the events unfold from a tavern across the plaza. He has hired the best lawyer in town in order to get everyone convicted, so that he can have the apartment to himself and they can enjoy the relative comfort of jail for a while. Gramps sees a television commercial for a new product called Super-anti-gerasone, which can reverse the aging process instead of just halting it, and starts thinking about being able to enjoy life again.
+VText
 p26
-sS'genres'
+sS'plot'
 p27
-(lp28
-sS'copyright'
+VThe Schwartz family, headed by 172-year-old Harold ("Gramps"), lives in a three-room apartment on the 76th floor of "Building 257 of Alden Village, New York City, Connecticut". Gramps' grandson Louis, his wife Emerald, and 20 other descendants are crowded into the space, perpetually jockeying for Gramps' favor. Gramps gets the best food and the only private bedroom, and controls everyone's life by constantly revising his will to disinherit anyone who earns his displeasure.\u000aAn offhand remark by Lou prompts Gramps to disinherit him and exile Lou and Em to the worst sleeping space in the apartment, near the bathroom. Lou then catches his great-grandnephew, newly wed Mortimer, diluting Gramps' anti-gerasone in the bathroom. Fearing Gramps' reaction to such a scheme, Lou tries to empty the bottle and refill it with the full-strength medicine, but accidentally breaks the bottle and is caught by Gramps, who only tells him to clean up the mess. The next morning, the family finds Gramps' bed empty and a note informing them that he is gone; the note also contains a revised will that bequeaths his entire estate to be held in common by his descendants, with no stipulations as to who receives what property.\u000aA riot breaks out as the family members start fighting over who gets the bedroom, leading to everyone being arrested and jailed at the police station. Lou and Em find the cells to be comfortable and spacious compared to the apartment, and hope that they will be sentenced to prison so they can keep these living arrangements. Meanwhile, Gramps has returned to the now-empty apartment, having watched the events unfold from a tavern across the plaza. He has hired the best lawyer in town in order to get everyone convicted, so that he can have the apartment to himself and they can enjoy the relative comfort of jail for a while. Gramps sees a television commercial for a new product called Super-anti-gerasone, which can reverse the aging process instead of just halting it, and starts thinking about being able to enjoy life again.
+p28
+sS'genres'
 p29
-VPublic domain in the USA.
-p30
-sS'title'
+(lp30
+sS'copyright'
 p31
-VThe Big Trip Up Yonder
+VPublic domain in the USA.
 p32
-sS'wikipedia'
+sS'title'
 p33
-(dp34
-S'url'
+VThe Big Trip Up Yonder
+p34
+sS'wikipedia'
 p35
-S'https://en.wikipedia.org/wiki/Tomorrow_and_Tomorrow_and_Tomorrow_(short_story)'
-p36
-sS'found'
+(dp36
+S'url'
 p37
+S'https://en.wikipedia.org/wiki/Tomorrow_and_Tomorrow_and_Tomorrow_(short_story)'
+p38
+sS'found'
+p39
 I01
 sS'year'
-p38
+p40
 I-1
 ssS'published_in'
-p39
+p41
 NsS'average_rating'
-p40
+p42
 F3.91
 sS'rating_count'
-p41
+p43
 I155
 sS'publisher_in'
-p42
+p44
 NsS'content_available'
-p43
+p45
 I01
 sS'goodreads'
-p44
-(dp45
-g35
-Vhttps://www.goodreads.com/book/show/8136616-the-big-trip-up-yonder-2br02b
 p46
-sg37
+(dp47
+g37
+Vhttps://www.goodreads.com/book/show/8136616-the-big-trip-up-yonder-2br02b
+p48
+sg39
 I01
-sg38
+sg40
 I1962
 ssS'similar_books'
-p47
-(lp48
-VA Prefect's Uncle (School Stories, #2)
 p49
-aVBrewster's Millions
-p50
-aVLike Warm Sun on Nekkid Bottoms
+(lp50
+VA Prefect's Uncle (School Stories, #2)
 p51
-aVDuncan Delaney and the Cadillac of Doom
+aVBrewster's Millions
 p52
-aVThe Duchess of Padua
+aVLike Warm Sun on Nekkid Bottoms
 p53
-aVFlowers for Elvis
+aVDuncan Delaney and the Cadillac of Doom
 p54
-aVMr. Spaceship
+aVThe Duchess of Padua
 p55
-aVTen Billion Days and One Hundred Billion Nights
+aVFlowers for Elvis
 p56
-aVThe Scent of Magic (Doomspell, #2)
+aVMr. Spaceship
 p57
-aVMoonlight in Odessa
+aVTen Billion Days and One Hundred Billion Nights
 p58
-aVSiesta Lane: A Year Unplugged, or, The Good Intentions of Ten People, Two Cats, One Old Dog, Eight Acres, One Telephone, Three Cars, and Twenty Miles to the Nearest Town
+aVThe Scent of Magic (Doomspell, #2)
 p59
-aVTwo Years Before the Mast and Twenty-Four Years After (Harvard Classics, #23)
+aVMoonlight in Odessa
 p60
-aVLearning to Fly
+aVSiesta Lane: A Year Unplugged, or, The Good Intentions of Ten People, Two Cats, One Old Dog, Eight Acres, One Telephone, Three Cars, and Twenty Miles to the Nearest Town
 p61
-aVThe Outlaw Varjak Paw
+aVTwo Years Before the Mast and Twenty-Four Years After (Harvard Classics, #23)
 p62
-aVO psie, kt�ry je\u017adzi\u0142 kolej\u0105
+aVLearning to Fly
 p63
-aVThe Brenner Assignment: The Untold Story of the Most Daring Spy Mission of World War II
+aVThe Outlaw Varjak Paw
 p64
-aVA Pluralistic Universe
+aVO psie, kt�ry je\u017adzi\u0142 kolej\u0105
 p65
-aVFireflood and Other Stories
+aVThe Brenner Assignment: The Untold Story of the Most Daring Spy Mission of World War II
 p66
-asS'description'
+aVA Pluralistic Universe
 p67
-NsS'gutenberg'
+aVFireflood and Other Stories
 p68
-(dp69
-g35
-Vhttp://www.gutenberg.org/ebooks/30240
+asS'description'
+p69
+NsS'gutenberg'
 p70
+(dp71
+g37
+Vhttp://www.gutenberg.org/ebooks/30240
+p72
 sS'num'
-p71
+p73
 I30240
 ssS'authors'
-p72
-(lp73
+p74
+(lp75
 I4
 asS'publisher'
-p74
-NsS'isbn13'
-p75
-NsS'language'
 p76
-VEnglish
+NsS'isbn13'
 p77
-sS'countries'
+NsS'language'
 p78
-(lp79
+VEnglish
+p79
+sS'countries'
+p80
+(lp81
 I2
 asS'release_date'
-p80
-S'2009-10-13T00:00:00'
-p81
-sS'author'
 p82
+S'2009-10-13T00:00:00'
+p83
+sS'author'
+p84
 I4
 sS'original_title'
-p83
-VTomorrow and Tomorrow and Tomorrow (short story)
-p84
-sS'summary'
 p85
-V"Tomorrow and Tomorrow and Tomorrow" is a short story by Kurt Vonnegut originally written in 1953. It was first published in Galaxy Science Fiction magazine in January 1954, where the story was titled "The Big Trip Up Yonder", which is the protagonist's euphemism for dying. A revised version bearing the title "Tomorrow and Tomorrow and Tomorrow" appeared in Vonnegut's collection of short stories, Canary in a Cat House (1961), and was reprinted in Welcome to the Monkey House (1968). The new title comes from the famous line in Shakespeare's play Macbeth starting "Tomorrow and tomorrow and tomorrow".
+VTomorrow and Tomorrow and Tomorrow (short story)
 p86
-sS'content_cleaned'
+sS'summary'
 p87
+V"Tomorrow and Tomorrow and Tomorrow" is a short story by Kurt Vonnegut originally written in 1953. It was first published in Galaxy Science Fiction magazine in January 1954, where the story was titled "The Big Trip Up Yonder", which is the protagonist's euphemism for dying. A revised version bearing the title "Tomorrow and Tomorrow and Tomorrow" appeared in Vonnegut's collection of short stories, Canary in a Cat House (1961), and was reprinted in Welcome to the Monkey House (1968). The new title comes from the famous line in Shakespeare's play Macbeth starting "Tomorrow and tomorrow and tomorrow".
+p88
+sS'content_cleaned'
+p89
 I01
 sS'classes'
-p88
-(lp89
-Vto-read
 p90
-aVfiction
-p91
-aVshort-stories
+(lp91
+Vto-read
 p92
-aVcurrently-reading
+aVfiction
 p93
-aVsci-fi
+aVshort-stories
 p94
-aVscience-fiction
+aVcurrently-reading
 p95
-aVdystopia
+aVsci-fi
 p96
-aVfavorites
+aVscience-fiction
 p97
-aVebook
+aVdystopia
 p98
-aVhumor
+aVfavorites
 p99
-aVclassics
+aVebook
 p100
-aVsci-fi-or-fantasy
+aVhumor
 p101
-aVdystopian-fiction
+aVclassics
 p102
-aVbooks-owned
+aVsci-fi-or-fantasy
 p103
-aVs-f
+aVdystopian-fiction
 p104
-aVreviewed
+aVbooks-owned
 p105
-aVaudio
+aVs-f
 p106
-aVshort_stories
+aVreviewed
 p107
-aVfor_fun
+aVaudio
 p108
-aVaudiobook
+aVshort_stories
 p109
-aVafter-school-special
+aVfor_fun
 p110
-aV20th-century
+aVaudiobook
 p111
-aVaty-in-52
+aVafter-school-special
 p112
-aVshort-story-collection
+aV20th-century
 p113
-aVshort-stories-and-novellas
+aVaty-in-52
 p114
-aVaudio-books-read
+aVshort-story-collection
 p115
-aV3-stars
+aVshort-stories-and-novellas
 p116
-aVsci-fi-science-fiction
+aVaudio-books-read
 p117
-aValt-society-utopian
+aV3-stars
 p118
-aValt-society-dystopian
+aVsci-fi-science-fiction
 p119
-aValt-science-medicine-horror
+aValt-society-utopian
 p120
-aV1-novellas-short-stories-essays
+aValt-society-dystopian
 p121
-aV1-notable-reads
+aValt-science-medicine-horror
 p122
-aV1-classic-literature
+aV1-novellas-short-stories-essays
 p123
-aVcollections
+aV1-notable-reads
 p124
-aVaudiobooks
+aV1-classic-literature
 p125
-aVgimme-this-book-now
+aVcollections
 p126
-aVluisterbieb
+aVaudiobooks
 p127
-aVread-in-2014
+aVgimme-this-book-now
 p128
-aVsevenponds-reviews
+aVluisterbieb
 p129
-aVsample-reading
+aVread-in-2014
 p130
-aVread-by-kat
+aVsevenponds-reviews
 p131
-aVabout-family
+aVsample-reading
 p132
-aVvonnegut
+aVread-by-kat
 p133
-aVsociology
+aVabout-family
 p134
-aVfree-ebook
+aVvonnegut
 p135
-aVdepressing
+aVsociology
 p136
-aVfiction-to-read
+aVfree-ebook
 p137
-aVkurt-vonnegut
+aVdepressing
 p138
-aVaudio-book
+aVfiction-to-read
 p139
-aVfantasy-and-sci-fi
+aVkurt-vonnegut
 p140
-aVnookbook
+aVaudio-book
 p141
-aVshort-story
+aVfantasy-and-sci-fi
 p142
-aVread-on-kindle
+aVnookbook
 p143
-aVread-in-2012
+aVshort-story
 p144
-aVtop-of-to-read
+aVread-on-kindle
 p145
-aVre-read
+aVread-in-2012
 p146
-aVnook
+aVtop-of-to-read
 p147
-aVread-ss-and-novellas
+aVre-read
 p148
-aVkat
+aVnook
 p149
-aVshortstories
+aVread-ss-and-novellas
 p150
-aVbooksread2011
+aVkat
 p151
-asS'loc_class'
+aVshortstories
 p152
-VPS: Language and Literatures: American and Canadian literature
+aVbooksread2011
 p153
-sS'cover_artist'
+asS'loc_class'
 p154
-NsS'n_authors'
+VPS: Language and Literatures: American and Canadian literature
 p155
+sS'cover_artist'
+p156
+NsS'n_authors'
+p157
 I1
 sb.

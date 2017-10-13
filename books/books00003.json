@@ -1,11 +1,15 @@
 {
     "content_name": "62.txt.utf-8", 
     "isbn": "0143104888", 
-    "language_code": "en-GB", 
+    "original_title": "A Princess of Mars", 
+    "year": 1912, 
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
-    "year": 1912, 
-    "images": [], 
+    "language_code": "en-GB", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Princess_of_Mars_large.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/Under_the_Moons_of_Mars.jpg"
+    ], 
     "id": 3, 
     "category": "Sound", 
     "plot": "John Carter, a Confederate veteran of the American Civil War, goes prospecting in Arizona immediately after the war's end. Having struck a rich vein of gold, he runs afoul of the Apaches. While attempting to evade pursuit by hiding in a sacred cave, he is mysteriously transported to Mars, called \"Barsoom\" by its inhabitants. Carter finds that he has great strength and superhuman agility in this new environment as a result of its lesser gravity and lower atmospheric pressure. He soon falls in with a nomadic tribe of Green Martians, or Tharks, as the planet's warlike, six-limbed, green-skinned inhabitants are known. Thanks to his strength and martial prowess, Carter rises to a high position in the tribe and earns the respect and eventually the friendship of Tars Tarkas, one of the Thark chiefs.\nThe Tharks subsequently capture Dejah Thoris, Princess of Helium, a member of the humanoid red Martian race. The red Martians inhabit a loose network of city-states and control the desert planet's canals, along which its agriculture is concentrated. Carter rescues Dejah Thoris from the green men in a bid to return her to her people.\nSubsequently, Carter becomes embroiled in the political affairs of both the red and green Martians in his efforts to safeguard Dejah Thoris, eventually leading a horde of Tharks against the city-state of Zodanga, the historic enemy of Helium. Winning Dejah Thoris' heart, he becomes Prince of Helium, and the two live happily together for nine years. However, the sudden breakdown of the Atmosphere Plant that sustains the planet's waning air supply endangers all life on Barsoom. In a desperate attempt to save the planet's inhabitants, Carter uses a secret telepathic code to enter the factory, bringing an engineer along who can restore its functionality. Carter then succumbs to asphyxiation, only to awaken back on Earth, left to wonder what has become of Barsoom and his beloved.", 
@@ -58,7 +62,7 @@
     ], 
     "release_date": "2006-10-11T00:00:00", 
     "author": 2, 
-    "original_title": "A Princess of Mars", 
+    "cover": "https://images.gr-assets.com/books/1332272118l/40395.jpg", 
     "summary": "A Princess of Mars is a science fantasy novel by American writer Edgar Rice Burroughs, the first of his Barsoom series. It was first serialized in the pulp magazine All-Story Magazine from February\u2013July, 1912. Full of swordplay and daring feats, the novel is considered a classic example of 20th-century pulp fiction. It is also a seminal instance of the planetary romance, a subgenre of science fantasy that became highly popular in the decades following its publication. Its early chapters also contain elements of the Western. The story is set on Mars, imagined as a dying planet with a harsh desert environment. This vision of Mars was based on the work of the astronomer Percival Lowell, whose ideas were widely popularized in the late 19th and early 20th centuries.\nThe Barsoom series inspired a number of well-known 20th-century science fiction writers, including Jack Vance, Ray Bradbury, Arthur C. Clarke, Robert A. Heinlein, and John Norman. The series was also inspirational for many scientists in the fields of space exploration and the search for extraterrestrial life, including Carl Sagan, who read A Princess of Mars when he was a child.", 
     "content_cleaned": true, 
     "classes": [

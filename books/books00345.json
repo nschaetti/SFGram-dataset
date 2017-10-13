@@ -1,5 +1,6 @@
 {
     "content_name": "19338.txt.utf-8", 
+    "original_title": "The Keeper (short story)", 
     "author_name": "H. Beam Piper", 
     "images_urls": [
         "http://www.gutenberg.org/files/19338/19338-h/images/image_01.jpg"
@@ -38,7 +39,7 @@
     ], 
     "release_date": "2006-09-20T00:00:00", 
     "author": 19, 
-    "original_title": "The Keeper (short story)", 
+    "cover": "https://images.gr-assets.com/books/1395892000l/6477414.jpg", 
     "summary": "\"The Keeper\" is a science fiction short story by American writer H. Beam Piper. It is the last story in Piper\u2019s Terro-Human Future History series, being set in the 301st Century A.E. (Atomic Era).\nIt made its first appearance in the July 1957 issue of Venture Science Fiction.", 
     "content_cleaned": true, 
     "classes": [

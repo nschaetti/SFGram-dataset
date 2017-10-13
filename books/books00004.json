@@ -1,5 +1,6 @@
 {
     "content_name": "31547.txt.utf-8", 
+    "original_title": "Youth (Asimov short story)", 
     "language_code": "eng", 
     "author_name": "Isaac Asimov", 
     "images_urls": [
@@ -59,7 +60,7 @@
     ], 
     "release_date": "2010-03-07T00:00:00", 
     "author": 3, 
-    "original_title": "Youth (Asimov short story)", 
+    "cover": "https://images.gr-assets.com/books/1286757112l/7987660.jpg", 
     "summary": "\"Youth\" is a science fiction novelette by Isaac Asimov. It first appeared in the May 1952 issue of Space Science Fiction and was reprinted in the 1955 collection The Martian Way and Other Stories. Youth is one of the rare Asimov stories with alien characters.", 
     "content_cleaned": true, 
     "classes": [

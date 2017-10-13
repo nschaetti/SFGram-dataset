@@ -1,6 +1,7 @@
 {
     "content_name": "32664.txt.utf-8", 
     "isbn": "1463895038", 
+    "original_title": "People of the Talisman", 
     "author_name": "Leigh Douglass Brackett", 
     "images_urls": [
         "http://www.gutenberg.org/files/32664/32664-h/images/cover.jpg", 
@@ -64,7 +65,7 @@
     ], 
     "release_date": "2010-06-02T00:00:00", 
     "author": 52, 
-    "original_title": "People of the Talisman", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "People of the Talisman is a science fiction novel by Leigh Brackett set on the planet Mars, whose protagonist is Eric John Stark.", 
     "content_cleaned": true, 
     "classes": [

@@ -1,11 +1,14 @@
 {
     "content_name": "1329.txt.utf-8", 
     "isbn": "0803280041", 
-    "language_code": "en-GB", 
+    "original_title": "A Voyage to Arcturus", 
+    "year": 1920, 
     "author_name": "David Lindsay", 
     "images_urls": [], 
-    "year": 1920, 
-    "images": [], 
+    "language_code": "en-GB", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/c/c4/A_Voyage_to_Arcturus_%28first_edition%29.jpg"
+    ], 
     "id": 75, 
     "category": "Text", 
     "genres": [], 
@@ -60,7 +63,7 @@
     ], 
     "release_date": "1998-05-01T00:00:00", 
     "author": 29, 
-    "original_title": "A Voyage to Arcturus", 
+    "cover": "https://images.gr-assets.com/books/1328819689l/1064084.jpg", 
     "summary": "A Voyage to Arcturus is a novel by Scottish writer David Lindsay, first published in 1920. It combines fantasy, philosophy, and science fiction in an exploration of the nature of good and evil and their relationship with existence. Described by critic and philosopher Colin Wilson as the \"greatest novel of the twentieth century\", it was a central influence on C. S. Lewis' Space Trilogy. J. R. R. Tolkien said he read the book \"with avidity\". Clive Barker has stated \" A Voyage to Arcturus is a masterpiece\" and called it \"an extraordinary work . . . quite magnificent.\"\nAn interstellar voyage is the framework for a narrative of a journey through fantastic landscapes. The story is set at Tormance, an imaginary planet orbiting Arcturus, which, in the novel (but not in reality) is a double star system, consisting of stars Branchspell and Alppain. The lands through which the characters travel represent philosophical systems or states of mind, through which the main character, Maskull, passes on his search for the meaning of life.\n\n", 
     "content_cleaned": false, 
     "classes": [

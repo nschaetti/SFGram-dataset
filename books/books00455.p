@@ -155,17 +155,21 @@ p74
 sS'author'
 p75
 I155
-sS'content_cleaned'
+sS'cover'
 p76
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p77
+sS'content_cleaned'
+p78
 I00
 sS'classes'
-p77
-(lp78
-sS'loc_class'
 p79
-VPZ: Language and Literatures: Juvenile belles lettres
-p80
-sS'n_authors'
+(lp80
+sS'loc_class'
 p81
+VPZ: Language and Literatures: Juvenile belles lettres
+p82
+sS'n_authors'
+p83
 I1
 sb.

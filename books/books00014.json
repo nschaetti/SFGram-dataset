@@ -1,5 +1,6 @@
 {
     "content_name": "28644.txt.utf-8", 
+    "original_title": "Beyond the Door (short story)", 
     "language_code": "eng", 
     "author_name": "Philip K. Dick", 
     "images_urls": [
@@ -7,7 +8,10 @@
         "http://www.gutenberg.org/files/28644/28644-h/images/001-2.jpg"
     ], 
     "year": 1954, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/bd/Fantastic_universe_195401.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/7/71/Nuvola_apps_kwrite.png"
+    ], 
     "id": 14, 
     "category": "Text", 
     "plot": "Larry Thomas buys a cuckoo clock for his wife Doris, just like her mother had. He makes clear that he bought it wholesale and otherwise ruins the moment. Doris talks to the cuckoo and becomes convinced that the cuckoo likes her but does not like Larry. Larry is being cuckolded by antique-enthusiast Bob Chambers. When he is at the Thomas' house, and Doris is showing him the clock, Larry returns home unexpectedly and catches them; he throws both out but keeps the clock because he paid for it. Larry keeps winding the clock because he dislikes the empty, quiet house. The clock sometimes does not chime for Larry, who ends up arguing with the cuckoo for not coming out when he should. Eventually, he threatens the clock with a hammer. At this point the cuckoo comes out and catches him in the eye, causing him to fall off a chair and break his neck in the fall. His death is judged an accident by a doctor but Bob thinks \"something else\" might be the cause.", 
@@ -60,7 +64,7 @@
     ], 
     "release_date": "2009-04-30T00:00:00", 
     "author": 8, 
-    "original_title": "Beyond the Door (short story)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"Beyond the Door\" is a low fantasy short story by American writer Philip K. Dick, first published in the January 1954 issue of Fantastic Universe. The plot follows a cuckoo clock, which may or may not be intelligent, and a cuckolded husband.", 
     "content_cleaned": true, 
     "classes": [

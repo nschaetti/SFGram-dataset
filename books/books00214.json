@@ -1,7 +1,8 @@
 {
     "content_name": "18800.txt.utf-8", 
     "isbn": "160312084X", 
-    "language_code": "eng", 
+    "original_title": "Last Enemy", 
+    "year": 1950, 
     "author_name": "H. Beam Piper", 
     "images_urls": [
         "http://www.gutenberg.org/files/18800/18800-h/images/image_01.jpg", 
@@ -13,7 +14,7 @@
         "http://www.gutenberg.org/files/18800/18800-h/images/image_06_02.jpg", 
         "http://www.gutenberg.org/files/18800/18800-h/images/image_07.jpg"
     ], 
-    "year": 1950, 
+    "language_code": "eng", 
     "images": [
         "https://upload.wikimedia.org/wikipedia/en/5/53/Last_Enemy_ASF.jpg"
     ], 
@@ -52,7 +53,7 @@
     ], 
     "release_date": "2006-07-10T00:00:00", 
     "author": 19, 
-    "original_title": "Last Enemy", 
+    "cover": "https://images.gr-assets.com/books/1290571258l/676212.jpg", 
     "summary": "\"Last Enemy\" is a science fiction short story written by H. Beam Piper, and is a part of his Paratime series. The title is a reference to 1 Corinthians 15:26, \u201cThe last enemy that shall be destroyed is death.\u201d (KJV)\nIt made its first appearance in August 1950, in Astounding Science Fiction magazine (now Analog).", 
     "content_cleaned": false, 
     "classes": [

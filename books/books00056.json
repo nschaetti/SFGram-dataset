@@ -1,6 +1,7 @@
 {
     "content_name": "42243.txt.utf-8", 
     "isbn": "0809571943", 
+    "original_title": "The Hour of the Dragon", 
     "author_name": "Robert E. Howard", 
     "images_urls": [
         "http://www.gutenberg.org/files/42243/42243-h/images/cover1.jpg", 
@@ -10,7 +11,10 @@
         "http://www.gutenberg.org/files/42243/42243-h/images/cover5.jpg"
     ], 
     "year": 1950, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/6/60/Conan_the_Conqueror.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Weird_Tales_1935-12_-_The_Hour_of_the_Dragon.jpg"
+    ], 
     "id": 56, 
     "category": "Text", 
     "genres": [], 
@@ -53,7 +57,7 @@
     ], 
     "release_date": "2013-03-02T00:00:00", 
     "author": 22, 
-    "original_title": "The Hour of the Dragon", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Hour of the Dragon, also known as Conan the Conqueror, is a fantasy novel by American writer Robert E. Howard featuring his sword and sorcery hero Conan the Cimmerian. It was one of the last Conan stories published before Howard's suicide although not the last to be written. The novel was first published in serial form in the December, 1935 through April, 1936 issues of the pulp magazine Weird Tales. The first book edition was published by Gnome Press in hardcover in 1950. The Gnome Press edition retitled the story Conan the Conqueror, a title retained by all subsequent editions until 1977, when the original title was restored in an edition issued published by Berkley/Putnam in 1977. The Berkley edition also reverted the text to that of its original Weird Tales publication, discarding later edits. Later editions have generally followed Berkley and published under the original title. The 1997 film Kull the Conqueror is loosely based on The Hour of the Dragon, replacing Conan with Kull but otherwise keeping the same basic plot.\n\n", 
     "content_cleaned": true, 
     "classes": [

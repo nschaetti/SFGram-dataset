@@ -1,5 +1,6 @@
 {
     "isbn": "0836941667", 
+    "original_title": "Tales of Space and Time", 
     "language_code": "eng", 
     "author_name": "H. G. Wells", 
     "images_urls": [
@@ -376,7 +377,9 @@
         "http://www.gutenberg.org/files/27365/27365-page-images/p361.png"
     ], 
     "year": 1899, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/1/1a/Wells_TalesSpaceTime%281st_edition%29.jpg"
+    ], 
     "id": 51, 
     "category": "Text", 
     "genres": [], 
@@ -423,14 +426,14 @@
     "authors": [
         1
     ], 
-    "isbn13": "9780836941661", 
     "language": "English", 
+    "isbn13": "9780836941661", 
     "countries": [
         1
     ], 
     "release_date": "2008-11-30T00:00:00", 
     "author": 1, 
-    "original_title": "Tales of Space and Time", 
+    "cover": "https://images.gr-assets.com/books/1356557864l/3497718.jpg", 
     "summary": "Tales of Space and Time is a fantasy and science fiction collection of three short stories and two novellas written by the English author H. G. Wells between 1897 and 1898. It was first published by Doubleday & McClure Co. in 1899. All the stories had first been published in various monthly periodicals and this was the first volume to collect these stories.", 
     "classes": [
         "to-read", 

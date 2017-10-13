@@ -1,5 +1,6 @@
 {
     "content_name": "30728.txt.utf-8", 
+    "original_title": "The Witches of Karres", 
     "author_name": "James H. Schmitz", 
     "images_urls": [
         "http://www.gutenberg.org/files/30728/30728-h/images/image_001.jpg", 
@@ -39,7 +40,7 @@
     ], 
     "release_date": "2009-12-21T00:00:00", 
     "author": 136, 
-    "original_title": "The Witches of Karres", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Witches of Karres is a space opera novel by James H. Schmitz. It deals with a young space ship captain who finds himself increasingly embroiled in wild adventures involving interdimensional alien invaders, space pirates, and magic power. The story is unrelated to the \"Hub\" series of stories by Schmitz.", 
     "content_cleaned": true, 
     "classes": [

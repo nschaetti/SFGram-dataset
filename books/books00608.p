@@ -713,21 +713,25 @@ p353
 sS'author'
 p354
 I79
-sS'content_cleaned'
+sS'cover'
 p355
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p356
+sS'content_cleaned'
+p357
 I01
 sS'classes'
-p356
-(lp357
-Ve-shelf
 p358
-aVscience-fiction
-p359
-asS'loc_class'
+(lp359
+Ve-shelf
 p360
-VPS: Language and Literatures: American and Canadian literature
+aVscience-fiction
 p361
-sS'n_authors'
+asS'loc_class'
 p362
+VPS: Language and Literatures: American and Canadian literature
+p363
+sS'n_authors'
+p364
 I1
 sb.

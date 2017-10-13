@@ -127,17 +127,21 @@ p61
 sS'author'
 p62
 I166
-sS'content_cleaned'
+sS'cover'
 p63
+Vhttps://images.gr-assets.com/books/1405287901l/21929605.jpg
+p64
+sS'content_cleaned'
+p65
 I01
 sS'classes'
-p64
-(lp65
-sS'loc_class'
 p66
-VPS: Language and Literatures: American and Canadian literature
-p67
-sS'n_authors'
+(lp67
+sS'loc_class'
 p68
+VPS: Language and Literatures: American and Canadian literature
+p69
+sS'n_authors'
+p70
 I1
 sb.

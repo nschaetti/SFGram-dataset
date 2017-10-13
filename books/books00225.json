@@ -1,6 +1,7 @@
 {
     "content_name": "18768.txt.utf-8", 
     "isbn": "1598181033", 
+    "original_title": "The Sky Is Falling (Del Rey novel)", 
     "author_name": "Lester Del Rey", 
     "images_urls": [
         "http://www.gutenberg.org/files/18768/18768-h/images/cover.jpg"
@@ -63,7 +64,7 @@
     ], 
     "release_date": "2006-07-06T00:00:00", 
     "author": 73, 
-    "original_title": "The Sky Is Falling (Del Rey novel)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Sky Is Falling is a short novel by Lester del Rey.\nThe first and shortest version was published in Beyond Fantasy Fiction in July 1954 under the title \"No More Stars\" with the pseudonym Charles Satterfield. It first appeared in book form in 1963 with Badge of Infamy as \"Two Complete Novels\" in a Galaxy paperback original. The first book-length version was published in 1973 by Ace Books.\n\n", 
     "content_cleaned": true, 
     "classes": [

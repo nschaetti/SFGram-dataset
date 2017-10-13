@@ -1,12 +1,16 @@
 {
     "content_name": "42188.txt.utf-8", 
     "isbn": "1406572373", 
+    "original_title": "Shadows in the Moonlight (story)", 
     "author_name": "Robert E. Howard", 
     "images_urls": [
         "http://www.gutenberg.org/files/42188/42188-h/images/cover.jpg"
     ], 
     "year": 1934, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hugh_Rankin_-_Shadows_in_the_Moonlight.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/7/74/Weird_Tales_April_1934.jpg"
+    ], 
     "id": 149, 
     "category": "Text", 
     "plot": "The story begins when a lovely female named Olivia, having fled captivity from the city of Akif, is chased down and cornered in a marsh, on the edge of the Vilayet Sea. Her pursuer and former master is a sadistic rogue named Shah Amurath. But before he can lay hands on her, a figure rises from the reeds. The newcomer has seen all his friends betrayed and treacherously cut down to a man before escaping into the marshes. There he has hidden out for so long he is nearly mad. The newcomer quickly dispatches Shah Amurath, then he and Olivia hop in a boat and decide to lie low for a little while. Only then does the newcomer identify himself: Conan the Cimmerian.\n\nConan and Olivia find their way to a dark and apparently deserted island, where they spend the night sleeping in ancient ruins decorated with remarkably lifelike statues. Olivia has a dream in which she sees a band of men turned into those statues and wakes convinced they will come to life in the moonlight. Conan is less than convinced of Olivia's fears; he is more concerned by whatever it is lurking in the jungle, lobbing giant boulders at the two fugitives.\nA pirate ship makes port on the island. Leaving Olivia hidden in the brush, Conan challenges their captain, an old rival. He slays the pirate captain, but is knocked unconscious by a stone from a sling. The pirates bind him and take him with them to the ruins where they discuss his fate, until they pass out drunk. Olivia meanwhile, narrowly escapes from a massive and dark figure that pursues her up to the ruins.\nOlivia sneaks past the drunken and sleeping pirates and frees Conan. Conan then slays the dark figure that pursued Olivia, a giant man-ape, which had also been hurling the boulders at them. As Conan recovers from his battle with the man-ape, they hear the beginning of a horrific slaughter back at the ruins.\nThe two quickly head back to the deserted pirate ship. As Conan prepares the ship to sail, a band of beaten and bedraggled pirates comes and asks to come aboard and leave the \"devil island.\" Conan challenges them and they accept him as their captain. At the end Olivia begs Conan to allow her to stay with him, and he, laughing, accepts, saying he will make her \"Queen of the Blue Sea.\"", 
@@ -44,7 +48,7 @@
     ], 
     "release_date": "2013-02-24T00:00:00", 
     "author": 22, 
-    "original_title": "Shadows in the Moonlight (story)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"Shadows in the Moonlight\" is one of the original short stories starring the fictional sword and sorcery hero Conan the Cimmerian, written by American author Robert E. Howard and first published in Weird Tales magazine in April 1934. Howard originally named his story \"Iron Shadows in the Moon\". It is set in the pseudo-historical Hyborian Age and concerns Conan escaping to a remote island in the Vilayet Sea where he encounters the Red Brotherhood, a skulking creature, and mysterious iron statues.\nThe story was republished in the collections Conan the Barbarian (Gnome Press, 1954) and Conan the Freebooter (Lancer Books, 1968). It has more recently been published in the collections The Conan Chronicles Volume 1: The People of the Black Circle (Gollancz, 2000) and Conan of Cimmeria: Volume One (1932-1933) (Del Rey, 2003).", 
     "content_cleaned": true, 
     "classes": [

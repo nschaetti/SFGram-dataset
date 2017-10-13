@@ -1,6 +1,7 @@
 {
     "content_name": "20919.txt.utf-8", 
     "isbn": "1434499995", 
+    "original_title": "The Status Civilization", 
     "author_name": "Robert Sheckley", 
     "images_urls": [
         "http://www.gutenberg.org/files/20919/20919-page-images/c001.png", 
@@ -275,7 +276,7 @@
     ], 
     "release_date": "2007-03-28T00:00:00", 
     "author": 23, 
-    "original_title": "The Status Civilization", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Status Civilization is a science fiction novel by Robert Sheckley, first published in 1960.\nThe Status Civilization concerns Will Barrent, a man who finds himself, without memory of any crime or, indeed, of his previous life, being shipped across space to the planet Omega.\nOmega, used to imprison extreme offenders, has a hierarchical society of extreme brutality, where the only way to advance (and avoid dying) is to commit an endless series of crimes. The average life expectancy from time of arrival on Omega is three years. The story concerns Barrent's attempt to survive, escape, and return to Earth to clear himself of the accusations against him.", 
     "content_cleaned": true, 
     "classes": [

@@ -1,11 +1,14 @@
 {
     "content_name": "18224.txt.utf-8", 
     "isbn": "0765312808", 
-    "language_code": "en-US", 
+    "original_title": "Someone Comes to Town, Someone Leaves Town", 
+    "year": 2005, 
     "author_name": "Cory Doctorow", 
     "images_urls": [], 
-    "year": 2005, 
-    "images": [], 
+    "language_code": "en-US", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/8/84/Someonecover.jpg"
+    ], 
     "id": 483, 
     "category": "Text", 
     "plot": "The story mainly takes place in two Ontario locales. In flashbacks, the main character, usually but not always called Alan (he appears to have been alphabetized rather than named, and will answer to any masculine name beginning with A), and his brothers (also alphabetized) grow up outside of the remote town of Kapuskasing. The novel opens with Alan's purchase of a home in the Kensington Market neighborhood of modern-day Toronto.\nThere are two main plotlines. Alan befriends Kurt, a thirtysomething punk who operates a dumpster-diving operation. Kurt uses computer components that he retrieves from the trash and turns them into Wi-Fi network access points. Kurt's goal is to blanket the entire neighborhood with free and secure Internet access by attaching his access points to buildings in a wireless mesh network with the permission of their owners. Kurt's plan doesn't really get off the ground until he forms a partnership with Alan, who puts a more professional face on the operation and sweet-talks many local owners into allowing the access points to use their space and a small amount of their electricity.\nThe second plotline features fantasy elements. Unbeknownst to most of the other characters, Alan and his brothers are not quite human. Their father is a mountain and their mother is a washing machine. Alan's eldest brother can see the future, his second-eldest is an island, his younger brother is undead, and his three youngest brothers are a set of Russian nesting dolls. Alan is the most normal-seeming of his family. Outwardly, he looks human, but he heals at an incredible rate, and if part of him is cut off, it will grow back, and the cut off part can be made to form a new copy of him, much like an earthworm does.\nAnother plot strand concerns Alan's neighbors, a household of students and artists which includes Mimi, a troubled young woman who like Alan is not quite human. Born with wings on her back and no family history, she lives with her abusive boyfriend Krishna, a musician/bartender who can spot beings like Alan and his family, and hates them. Krishna amputates Mimi's wings every three months; she stays with him because she believes he's the only one willing and able to make her \"normal.\"", 
@@ -62,7 +65,7 @@
     ], 
     "release_date": "2006-04-21T00:00:00", 
     "author": 33, 
-    "original_title": "Someone Comes to Town, Someone Leaves Town", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Someone Comes to Town, Someone Leaves Town is a contemporary fantasy novel by Canadian author Cory Doctorow. It was published in June 2005, concurrently released on the Internet under a Creative Commons license, free for download in several formats including ASCII and PDF. It is Doctorow's third novel.\nThe novel was chosen to launch the Sci Fi Channel's book club, Sci Fi Essentials (now defunct).\n\n", 
     "content_cleaned": false, 
     "classes": [

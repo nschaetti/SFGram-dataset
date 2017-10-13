@@ -1,6 +1,7 @@
 {
     "content_name": "50848.txt.utf-8", 
     "isbn": "0671833421", 
+    "original_title": "Soldier Boy (short story)", 
     "author_name": "Michael Shaara", 
     "images_urls": [
         "http://www.gutenberg.org/files/50848/50848-h/images/cover.jpg", 
@@ -47,7 +48,7 @@
     ], 
     "release_date": "2016-01-05T00:00:00", 
     "author": 243, 
-    "original_title": "Soldier Boy (short story)", 
+    "cover": "https://images.gr-assets.com/books/1255605245l/160763.jpg", 
     "summary": "\"Soldier Boy\" (also known as \"X Minus One #71: 56-10-17 Soldier Boy\") is a 1953 science fiction short story by American author Michael Shaara, about a soldier who, when sent on a routine patrol to a colonized world, saves the planet from an alien and its robot attack devices. Despite an ingrained contempt for the military that arose as part of conditioning to avoid war, the human colonists gradually assist the soldier when strange occurrences suggest they are not alone on the planet and may be, like several other colony planets, under threat of extermination by outside forces. It was originally published in the July 1953 issue of Galaxy Science Fiction. It is also the title of a 1982 collection of Shaara's short stories", 
     "content_cleaned": true, 
     "classes": [

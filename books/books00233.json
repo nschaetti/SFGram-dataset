@@ -1,10 +1,10 @@
 {
     "content_name": "285.txt.utf-8", 
     "isbn": "0330239465", 
-    "language_code": "eng", 
+    "year": 1900, 
     "author_name": "Charles John Cutcliffe Wright Hyne", 
     "images_urls": [], 
-    "year": 1900, 
+    "language_code": "eng", 
     "id": 233, 
     "category": "Text", 
     "genres": [], 
@@ -55,6 +55,7 @@
     ], 
     "release_date": "2008-07-09T00:00:00", 
     "author": 76, 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "content_cleaned": false, 
     "classes": [
         "currently-reading", 

@@ -18,324 +18,332 @@ sS'isbn'
 p8
 V1434401049
 p9
-sS'year'
+sS'cover'
 p10
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p11
+sS'year'
+p12
 I1961
 sS'author_name'
-p11
-VJr. John W. Campbell
-p12
-sS'images_urls'
 p13
-(lp14
-Vhttp://www.gutenberg.org/files/20154/20154-h/images/ifti001.jpg
+VJr. John W. Campbell
+p14
+sS'images_urls'
 p15
-asS'language_code'
-p16
-NsS'images'
+(lp16
+Vhttp://www.gutenberg.org/files/20154/20154-h/images/ifti001.jpg
 p17
-(lp18
-sS'id'
+asS'language_code'
+p18
+NsS'images'
 p19
+(lp20
+Vhttps://upload.wikimedia.org/wikipedia/en/2/20/Invaders_from_the_infinite.jpg
+p21
+aVhttps://upload.wikimedia.org/wikipedia/en/d/d7/Invaders_from_the_infinite_fp.jpg
+p22
+asS'id'
+p23
 I204
 sS'category'
-p20
-VText
-p21
-sS'genres'
-p22
-(lp23
-sS'copyright'
 p24
-VPublic domain in the USA.
+VText
 p25
-sS'title'
+sS'genres'
 p26
-VInvaders from the Infinite
-p27
-sS'wikipedia'
+(lp27
+sS'copyright'
 p28
-(dp29
-S'url'
+VPublic domain in the USA.
+p29
+sS'title'
 p30
-Vhttps://en.wikipedia.org/wiki/Invaders_from_the_Infinite
+VInvaders from the Infinite
 p31
-sS'found'
+sS'wikipedia'
 p32
+(dp33
+S'url'
+p34
+Vhttps://en.wikipedia.org/wiki/Invaders_from_the_Infinite
+p35
+sS'found'
+p36
 I01
 sS'year'
-p33
+p37
 I-1
 ssS'published_in'
-p34
+p38
 NsS'average_rating'
-p35
+p39
 F3.25
 sS'rating_count'
-p36
+p40
 I57
 sS'content_available'
-p37
+p41
 I01
 sS'goodreads'
-p38
-(dp39
-g30
+p42
+(dp43
+g34
 Vhttps://www.goodreads.com/book/show/1271786.Invaders_from_the_Infinite
-p40
-sg32
+p44
+sg36
 I01
-sg33
+sg37
 I1961
 ssS'similar_books'
-p41
-(lp42
-VBadge of Infamy
-p43
-aVSpacehounds of IPC
-p44
-aVA Plague of Demons & Other Stories
 p45
-aVThe Colors of Space
-p46
-aVThe Night of the Long Knives
+(lp46
+VBadge of Infamy
 p47
-aVThe Defiant Agents (Time Traders/Ross Murdock, #3)
+aVSpacehounds of IPC
 p48
-aVThe Legion of Space
+aVA Plague of Demons & Other Stories
 p49
-aVA Logic Named Joe
+aVThe Colors of Space
 p50
-aVPlanet of the Damned
+aVThe Night of the Long Knives
 p51
-aVThe Green Odyssey
+aVThe Defiant Agents (Time Traders/Ross Murdock, #3)
 p52
-aVThe Rats, the Bats & the Ugly  (The Rats and the Bats, #2)
+aVThe Legion of Space
 p53
-aVSurvival Tactics
+aVA Logic Named Joe
 p54
-aVThis Crowded Earth
+aVPlanet of the Damned
 p55
-aVSeas of Venus (Seas of Venus, #1-2)
+aVThe Green Odyssey
 p56
-aVThe Year's Best Science Fiction: Twenty-Seventh Annual Collection
+aVThe Rats, the Bats & the Ugly  (The Rats and the Bats, #2)
 p57
-aVArmageddon 2419 A.D.
+aVSurvival Tactics
 p58
-aVThe Girl in the Golden Atom
+aVThis Crowded Earth
 p59
-aVTime's Edge (Time's Edge, #1)
+aVSeas of Venus (Seas of Venus, #1-2)
 p60
-asS'description'
+aVThe Year's Best Science Fiction: Twenty-Seventh Annual Collection
 p61
-VThe alien spaceship was unthinkably huge, enormously powerful, apparently irresistible. It came from the void and settled on Earth, striking awe into the hearts of all who saw it. Its mission, however, was not conquest -- but a call for help! First contact was a job for the brilliant team of scientists, Arcot, Wade, and Morey. And what they received was an offer of an alliance against an invading foe so powerful that no known force could turn it back!<br /><br />John W. Campbell's INVADERS FROM THE INFINITE is a veritable odyssey of the universe, exploring world after world and uncovering cosmic secret after cosmic secret. Here is a classic novel of super-science that may never be surpassed!
+aVArmageddon 2419 A.D.
 p62
-sS'gutenberg'
+aVThe Girl in the Golden Atom
 p63
-(dp64
-g30
-Vhttp://www.gutenberg.org/ebooks/20154
+aVTime's Edge (Time's Edge, #1)
+p64
+asS'description'
 p65
-sS'num'
+VThe alien spaceship was unthinkably huge, enormously powerful, apparently irresistible. It came from the void and settled on Earth, striking awe into the hearts of all who saw it. Its mission, however, was not conquest -- but a call for help! First contact was a job for the brilliant team of scientists, Arcot, Wade, and Morey. And what they received was an offer of an alliance against an invading foe so powerful that no known force could turn it back!<br /><br />John W. Campbell's INVADERS FROM THE INFINITE is a veritable odyssey of the universe, exploring world after world and uncovering cosmic secret after cosmic secret. Here is a classic novel of super-science that may never be surpassed!
 p66
+sS'gutenberg'
+p67
+(dp68
+g34
+Vhttp://www.gutenberg.org/ebooks/20154
+p69
+sS'num'
+p70
 I20154
 ssS'authors'
-p67
-(lp68
+p71
+(lp72
 I41
 asS'pages'
-p69
+p73
 I168
 sS'isbn13'
-p70
-V9781434401045
-p71
-sS'language'
-p72
-VEnglish
-p73
-sS'countries'
 p74
-(lp75
+V9781434401045
+p75
+sS'language'
+p76
+VEnglish
+p77
+sS'countries'
+p78
+(lp79
 I2
 asS'release_date'
-p76
+p80
 S'2006-12-20T00:00:00'
-p77
+p81
 sS'author'
-p78
+p82
 I41
 sS'original_title'
-p79
-VInvaders from the Infinite
-p80
-sS'summary'
-p81
-VInvaders from the Infinite is a science fiction novel by American writer John W. Campbell, Jr.. It was simultaneously published in 1961 by Gnome Press in an edition of 4,000 copies and by Fantasy Press in an edition of 100 copies. The book was originally intended to be published by Fantasy Press, but was handed over to Gnome Press when Fantasy Press folded. Lloyd Eshbach, of Fantasy Press, who was responsible for the printing of both editions, printed the extra copies for his longtime customers. The Fantasy Press edition was issued without a dust-jacket. Eshbach eventually did produce a jacket in 1990 at the urging of George Zebrowski. The novel is an expansion of stories that originally appeared in the magazine Amazing Stories Quarterly.\u000aE. F. Bleiler described the novel as "the early John W. Campbell story par excellence: weak novelistic skills combined with very strong speculative, imaginative theoretical physics. While one may be bored with [the] interminable lectures and rendered drowsy by the repeated space battles, but one must also admire Campbell's ingenuity in creating novel artifacts".
-p82
-sS'content_cleaned'
 p83
+VInvaders from the Infinite
+p84
+sS'summary'
+p85
+VInvaders from the Infinite is a science fiction novel by American writer John W. Campbell, Jr.. It was simultaneously published in 1961 by Gnome Press in an edition of 4,000 copies and by Fantasy Press in an edition of 100 copies. The book was originally intended to be published by Fantasy Press, but was handed over to Gnome Press when Fantasy Press folded. Lloyd Eshbach, of Fantasy Press, who was responsible for the printing of both editions, printed the extra copies for his longtime customers. The Fantasy Press edition was issued without a dust-jacket. Eshbach eventually did produce a jacket in 1990 at the urging of George Zebrowski. The novel is an expansion of stories that originally appeared in the magazine Amazing Stories Quarterly.\u000aE. F. Bleiler described the novel as "the early John W. Campbell story par excellence: weak novelistic skills combined with very strong speculative, imaginative theoretical physics. While one may be bored with [the] interminable lectures and rendered drowsy by the repeated space battles, but one must also admire Campbell's ingenuity in creating novel artifacts".
+p86
+sS'content_cleaned'
+p87
 I00
 sS'classes'
-p84
-(lp85
-Vto-read
-p86
-aVcurrently-reading
-p87
-aVscience-fiction
 p88
-aVsci-fi
-p89
-aVowned
+(lp89
+Vto-read
 p90
-aVkindle
+aVcurrently-reading
 p91
-aVebook
+aVscience-fiction
 p92
-aVfiction
+aVsci-fi
 p93
-aVspace-opera
+aVowned
 p94
-aVscifi
+aVkindle
 p95
-aVadventure
+aVebook
 p96
-aVcalibre
+aVfiction
 p97
-aVe-book
+aVspace-opera
 p98
-aVsci-fi-or-speculative
+aVscifi
 p99
-aVon-calibre-to-read
+aVadventure
 p100
-aVaudiobook
+aVcalibre
 p101
-aVhorror
+aVe-book
 p102
-aVbooks
+aVsci-fi-or-speculative
 p103
-aVaudio-books
+aVon-calibre-to-read
 p104
-aVnon-serial-novels
+aVaudiobook
 p105
-aV2013-june
+aVhorror
 p106
-aVebooks
+aVbooks
 p107
-aVscifi-new-wave-1960-1979
+aVaudio-books
 p108
-aVpulp-fiction
+aVnon-serial-novels
 p109
-aVold-skool
+aV2013-june
 p110
-aVabenteuer
+aVebooks
 p111
-aVowned-pending-kindle-free-ebook
+aVscifi-new-wave-1960-1979
 p112
-aVkindle-free-ebook
+aVpulp-fiction
 p113
-aVz_fiction
+aVold-skool
 p114
-aVx_novel
+aVabenteuer
 p115
-aVwo_scifi
+aVowned-pending-kindle-free-ebook
 p116
-aVw_us_unitary
+aVkindle-free-ebook
 p117
-aVnook
+aVz_fiction
 p118
-aVdefault
+aVx_novel
 p119
-aVbin-010
+aVwo_scifi
 p120
-aVall_non-trek_unread
+aVw_us_unitary
 p121
-aVtote-3
+aVnook
 p122
-aVnovella-novelette
+aVdefault
 p123
-aVd-list
+aVbin-010
 p124
-aVe-books
+aVall_non-trek_unread
 p125
-aVlingua-originale
+aVtote-3
 p126
-aVfantascienza
+aVnovella-novelette
 p127
-aVebook_only
+aVd-list
 p128
-aV2014-reading-list
+aVe-books
 p129
-aVon-disk
+aVlingua-originale
 p130
-aVpaperbacks
+aVfantascienza
 p131
-aVfeedbooks-com
+aVebook_only
 p132
-aVmilitary-sci-fi
+aV2014-reading-list
 p133
-aVclassic
+aVon-disk
 p134
-aVace-doubles-science-fiction
+aVpaperbacks
 p135
-aVshort-stories
+aVfeedbooks-com
 p136
-aVshelved
+aVmilitary-sci-fi
 p137
-aVabandoned
+aVclassic
 p138
-aVsentient-animals
+aVace-doubles-science-fiction
 p139
-aVgiant-creatures
+aVshort-stories
 p140
-aValiens
+aVshelved
 p141
-aVe-reader
+aVabandoned
 p142
-aVjohn-w-campbell
+aVsentient-animals
 p143
-aVgeneral
+aVgiant-creatures
 p144
-aVp-mass-mkt-paperback
+aValiens
 p145
-aVall-paper
+aVe-reader
 p146
-aVown-ebook
+aVjohn-w-campbell
 p147
-aVpublic-domain-science-fiction
+aVgeneral
 p148
-aVbefore-the-golden-age
+aVp-mass-mkt-paperback
 p149
-aVread-2011
+aVall-paper
 p150
-aVsrc-audible-co-uk
+aVown-ebook
 p151
-aVfmt-digital-download
+aVpublic-domain-science-fiction
 p152
-aVfmt-audiobook
+aVbefore-the-golden-age
 p153
-aVkindle-books
+aVread-2011
 p154
-aVi-books
+aVsrc-audible-co-uk
 p155
-aVnot-read
+aVfmt-digital-download
 p156
-aVclassic-lit
+aVfmt-audiobook
 p157
-aVcollected-classics
+aVkindle-books
 p158
-aVwarehouse
+aVi-books
 p159
-aVmia-libreria
+aVnot-read
 p160
-aVpaperback
+aVclassic-lit
 p161
-asS'loc_class'
+aVcollected-classics
 p162
-VPS: Language and Literatures: American and Canadian literature
+aVwarehouse
 p163
-sS'n_authors'
+aVmia-libreria
 p164
+aVpaperback
+p165
+asS'loc_class'
+p166
+VPS: Language and Literatures: American and Canadian literature
+p167
+sS'n_authors'
+p168
 I1
 sb.

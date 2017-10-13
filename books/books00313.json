@@ -1,6 +1,7 @@
 {
     "content_name": "50022.txt.utf-8", 
     "isbn": "141918704X", 
+    "original_title": "The Wailing Asteroid", 
     "author_name": "Murray Leinster", 
     "images_urls": [
         "http://www.gutenberg.org/files/50022/50022-h/images/ad.jpg", 
@@ -9,7 +10,9 @@
         "http://www.gutenberg.org/files/50022/50022-h/images/tp.jpg"
     ], 
     "year": 1960, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/2/2e/Wailing_Asteroid_cover.jpg"
+    ], 
     "id": 313, 
     "category": "Text", 
     "plot": "When satellite-tracking stations around the world begin receiving radio signals from deep space, Joe Burke, owner of a small engineering company, is about to propose marriage to Sandy Lund, a woman he has known since high school. The signals consist of a repeated series of flute-like notes, which Joe recognizes. Joe plays for Sandy a tape recording he made a year earlier and it sounds just like the signal from space. Joe explains that he got the notes from a lucid dream that has come to him off and on since he was eleven. In the dream he is on a world with two moons and trees with ribbon-like leaves and he is holding a strange weapon, a kind of recoilless pistol. In his shop he makes a modified version of the weapon and when he tests it, it breaks loose from the workbench and slams into a wall hard enough to shatter the bricks.\nMeanwhile astronomers trace the signal to an asteroid, M-387, and send a radio signal to it. In response the asteroid changes its signal. With the help of Holmes, a yacht builder, Keller, an electronics expert, and several workmen, Joe builds a small spaceship propelled by a reactionless drive based on his modification of the recoilless pistol. Just in time the ship is finished and, with Holmes, Keller, Sandy, and Sandy\u2019s sister Pam aboard, Joe lifts off just as the police arrive to end the project. Pursued by Nike missiles, Joe takes the ship into space and heads for Asteroid M-387.\nAfter eleven days of travel they arrive at the asteroid and see only a radio mast and the entrance to a tunnel. When they fly their ship into the tunnel a door closes behind them, lights come on, and the tunnel fills with air and artificial gravity. Finding the air breathable, the five impromptu astronauts explore the asteroid. They discover that it is a vast, empty fortress with unknown weapons still in their racks and a control room where the fluting signal originates.\nIn one room Joe finds thousands of small black cubes. When he dozes off next to one he has a lucid dream of taking part in a weapons drill. He understands that the dream that has obsessed him since childhood must have come from a fragment of a similar cube that had been found in a Cro-Magnon cave with artifacts dated to 20,000 B.C. Sandy suggests looking for cube readers, reasoning that learning from a cube by sleeping near it is inefficient. They find a pair of reading helmets and quickly begin learning all about the fortress, its weapons, and an implacable Enemy with which the garrison\u2019s civilization may have been at war for 100,000 years or more. They also learn that the Enemy has sent a new attack, one that will rip apart the solar system in a matter of days.\nUsing a procedure that Keller develops, Joe, Holmes, and Keller modify three hundred of the torpedoes they find in the fortress and launch them. The ten-foot spheres accelerate toward the enemy squadron at 160-gees, approaching the speed of light in little over two days. The torpedoes obliterate the Enemy\u2019s squadron and everyone breathes a sigh of relief. Then Joe notes that in a few centuries Humanity will have to go out into interstellar space to look for the Enemy.", 
@@ -46,7 +49,7 @@
     ], 
     "release_date": "2015-09-20T00:00:00", 
     "author": 61, 
-    "original_title": "The Wailing Asteroid", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Wailing Asteroid is a science-fiction novel written by Murray Leinster (William Fitzgerald Jenkins) and first published in 1960 by Avon Books. It presents the theme of the lone inventor who saves Earth from cosmic danger and introduces Humanity to an unknown civilization. The novel was adapted for film as The Terrornauts in 1967.", 
     "content_cleaned": true, 
     "classes": [

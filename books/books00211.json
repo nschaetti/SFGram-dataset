@@ -1,5 +1,6 @@
 {
     "content_name": "51804.txt.utf-8", 
+    "original_title": "A Plague of Pythons", 
     "language_code": "eng", 
     "author_name": "Frederik Pohl", 
     "images_urls": [
@@ -65,7 +66,7 @@
     ], 
     "release_date": "2016-04-19T00:00:00", 
     "author": 40, 
-    "original_title": "A Plague of Pythons", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "A Plague of Pythons is a science fiction novel by American writer Frederik Pohl. It was originally published in 1965, and an updated version was published in 1984 under the title Demon in the Skull. The title derives from the words \"Domina Pythonis\" used as part of an exorcism ritual performed in the first chapter to scare away the \"demons\" that seem to possess people in the novel.", 
     "content_cleaned": true, 
     "classes": [

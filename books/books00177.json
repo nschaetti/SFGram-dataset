@@ -1,9 +1,12 @@
 {
     "content_name": "31501.txt.utf-8", 
+    "original_title": "The Sensitive Man", 
     "author_name": "Poul Anderson", 
     "images_urls": [], 
     "year": 1954, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/bd/Fantastic_universe_195401.jpg"
+    ], 
     "id": 177, 
     "category": "Text", 
     "plot": "Michael Tighe of the Psychotechnic Institute has been kidnapped by Thomas Bancroft, a politician with ties to an authoritarian movement called the Actionists. Tighe's adopted son, Simon Delgatty, sets out to find him, but is himself captured by Bancroft and taken to his base on an island off the coast of Mexico. In the course of raising Delgatty, Tighe has trained him to exert conscious control over what are normally subconscious and autonomic brain functions. This allows Delgatty to speed up or slow down his metabolism at will, and also allows him to tell what other people are thinking by listening to them subvocalize their thoughts.\nDelgatty escapes from Bancroft's control, and forms an uneasy partnership with Elena Casimir, an undercover FBI agent who has infiltrated Bancroft's organization. Together, Delgatty and Casimir free Tighe and take Bancroft prisoner, then return to the United States. Bancroft will be imprisoned for kidnapping, but the leader of the Actionists, Bertrand Meade, is still free to continue his secret war against the Psychotechnic Institute.", 
@@ -36,7 +39,7 @@
     ], 
     "release_date": "2010-03-04T00:00:00", 
     "author": 30, 
-    "original_title": "The Sensitive Man", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"The Sensitive Man\" is a science fiction novella by American writer Poul Anderson, first published in the January 1954 issue of Fantastic Universe and reprinted in the 1981 collection The Psychotechnic League. The story is a component of the Psychotechnic League future history, and takes place in the year 2009, between \"Un-Man\" and \"The Big Rain\".", 
     "content_cleaned": true, 
     "classes": [

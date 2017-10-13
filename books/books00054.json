@@ -1,10 +1,11 @@
 {
     "content_name": "624.txt.utf-8", 
     "isbn": "0451527631", 
-    "language_code": "eng", 
+    "original_title": "Looking Backward", 
+    "year": 1888, 
     "author_name": "Edward Bellamy", 
     "images_urls": [], 
-    "year": 1888, 
+    "language_code": "eng", 
     "images": [
         "https://upload.wikimedia.org/wikipedia/commons/9/92/Edward_Bellamy_2000_1887.jpg", 
         "https://upload.wikimedia.org/wikipedia/commons/8/84/Looking_Backward.jpg"
@@ -64,7 +65,7 @@
     ], 
     "release_date": "1996-08-01T00:00:00", 
     "author": 21, 
-    "original_title": "Looking Backward", 
+    "cover": "https://images.gr-assets.com/books/1309284869l/296977.jpg", 
     "summary": "Looking Backward: 2000\u20131887 is a utopian science fiction novel by Edward Bellamy, a journalist and writer from Chicopee Falls, Massachusetts; it was first published in 1888.\nIt was the third-largest bestseller of its time, after Uncle Tom's Cabin and Ben-Hur: A Tale of the Christ. It influenced a large number of intellectuals, and appears by title in many socialist writings of the day. \"It is one of the few books ever published that created almost immediately on its appearance a political mass movement\".\nIn the United States alone, over 162 \"Bellamy Clubs\" sprang up to discuss and propagate the book's ideas. Owing to its commitment to the nationalization of private property and the desire to avoid use of the term socialism, this political movement came to be known as Nationalism \u2014 not to be confused with the political concept of nationalism. The novel also inspired several utopian communities.", 
     "content_cleaned": true, 
     "classes": [

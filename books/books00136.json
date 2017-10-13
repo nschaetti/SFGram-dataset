@@ -1,11 +1,14 @@
 {
     "content_name": "369.txt.utf-8", 
     "isbn": "1592245765", 
-    "language_code": "eng", 
+    "original_title": "The Outlaw of Torn", 
+    "year": 1914, 
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
-    "year": 1914, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/4/4e/The_Outlaw_of_Torn.jpg"
+    ], 
     "id": 136, 
     "category": "Text", 
     "plot": "The story is set in 13th century England and concerns the fictional outlaw Norman of Torn, who purportedly harried the country during the power struggle between King Henry III and Simon de Montfort. Norman is the supposed son of the Frenchman de Vac, once the king's fencing master, who has a grudge against his former employer and raises the boy to be a simple, brutal killing machine with a hatred of all things English. His intentions are partially subverted by a priest who befriends Norman and teaches him his letters and chivalry towards women.\nOtherwise, all goes according to plan. By 17, Norman is the best swordsman in all of England; by the age of 18, he has a large bounty on his head, and by the age of 19, he leads the largest band of thieves in all of England. None can catch or best him. In his hatred for the king he even becomes involved in the civil war, which turns the tide in favor of de Montfort. In another guise, that of Roger de Conde, he becomes involved with de Montfort's daughter Bertrade, defending her against her and her father's enemies. She notes in him a curious resemblance to the king's son and heir Prince Edward.\nFinally brought to bay in a confrontation with both King Henry and de Montfort, Norman is brought down by the treachery of de Vac, who appears to kill him, though at the cost of his own life. As de Vac dies, he reveals that Norman is in fact Richard, long-lost son of King Henry and Queen Eleanor and brother to Prince Edward. The fencing master had kidnapped the prince as a child to serve as the vehicle of his vengeance against the king. Luckily, Norman/Richard turns out not to be truly dead, surviving to be reconciled to his true father and attain the hand of Bertrade.", 
@@ -55,7 +58,7 @@
     ], 
     "release_date": "2008-07-11T00:00:00", 
     "author": 2, 
-    "original_title": "The Outlaw of Torn", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Outlaw of Torn is a historical novel by Edgar Rice Burroughs, originally published as a five-part serial in New Story Magazine from January to May 1914, and first published in book form by A. C. McClurg in 1927. It was Burroughs' second novel, his first being the science fiction work A Princess of Mars. His third was Tarzan of the Apes.\nThe Outlaw of Torn is one of only two historical novels Burroughs wrote. The other, I Am a Barbarian, set in the Rome of Caligula, was not published until 1967, seventeen years after his death.", 
     "content_cleaned": false, 
     "classes": [

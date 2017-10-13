@@ -1,5 +1,6 @@
 {
     "content_name": "42182.txt.utf-8", 
+    "original_title": "The Hyborian Age", 
     "author_name": "Robert E. Howard", 
     "images_urls": [
         "http://www.gutenberg.org/files/42182/42182-h/images/cover.jpg"
@@ -40,7 +41,7 @@
     ], 
     "release_date": "2013-02-24T00:00:00", 
     "author": 22, 
-    "original_title": "The Hyborian Age", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Hyborian Age is an essay by Robert E. Howard pertaining to the Hyborian Age, the fictional setting of his stories about Conan the Cimmerian. It was written in the 1930s but not published during Howard's lifetime. Its purpose was to maintain consistency within his fictional setting.", 
     "content_cleaned": true, 
     "classes": [

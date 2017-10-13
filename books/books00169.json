@@ -1,13 +1,16 @@
 {
     "content_name": "50566.txt.utf-8", 
     "isbn": "0727841815", 
-    "language_code": "eng", 
+    "original_title": "Falcons of Narabedla", 
+    "year": 1957, 
     "author_name": "Marion Zimmer Bradley", 
     "images_urls": [
         "http://www.gutenberg.org/files/50566/50566-h/images/cover.jpg"
     ], 
-    "year": 1957, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/0/04/Falcons_of_narabedla.jpg"
+    ], 
     "id": 169, 
     "category": "Text", 
     "genres": [], 
@@ -62,7 +65,7 @@
     ], 
     "release_date": "2015-11-28T00:00:00", 
     "author": 25, 
-    "original_title": "Falcons of Narabedla", 
+    "cover": "https://images.gr-assets.com/books/1412375010l/740510.jpg", 
     "summary": "Falcons of Narabedla is a science fiction novel by Marion Zimmer Bradley set in the universe of her Darkover series. It was first published in book form in English by Ace Books in 1964, as an Ace Double with Bradley's collection The Dark Intruder and Other Stories on the other side. The story first appeared in the May 1957 issue of the magazine Other Worlds.\nThe name \"Narabedla\" is the name of the star \"Aldebaran\" spelled backwards.\n\n", 
     "content_cleaned": true, 
     "classes": [

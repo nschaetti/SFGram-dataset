@@ -1,5 +1,6 @@
 {
     "isbn": "0486419266", 
+    "original_title": "R.U.R.", 
     "language_code": "eng", 
     "author_name": "Karel \u010capek", 
     "images_urls": [], 
@@ -66,7 +67,7 @@
     ], 
     "release_date": "2004-08-02T00:00:00", 
     "author": 37, 
-    "original_title": "R.U.R.", 
+    "cover": "https://images.gr-assets.com/books/1418788200l/436562.jpg", 
     "summary": "R.U.R. is a 1920 science fiction play by the Czech writer Karel \u010capek. R.U.R. stands for Rossumovi Univerz\u00e1ln\u00ed Roboti (Rossum\u2019s Universal Robots). However, the English phrase Rossum\u2019s Universal Robots had been used as the subtitle in the Czech original. It premiered on 25 January 1921 and introduced the word \"robot\" to the English language and to science fiction as a whole.\nR.U.R. quickly became famous and was influential early in the history of its publication. By 1923, it had been translated into thirty languages.\nThe play begins in a factory that makes artificial people, called roboti (robots), from synthetic organic matter. They are not exactly robots by the current definition of the term: they are living flesh and blood creatures rather than machinery and are closer to the modern idea of clones. They may be mistaken for humans and can think for themselves. They seem happy to work for humans at first, but a robot rebellion leads to the extinction of the human race. \u010capek later took a different approach to the same theme in War with the Newts, in which non-humans become a servant class in human society.\nR.U.R. is dark but not without hope, and was successful in its day in both Europe and North America.", 
     "classes": [
         "to-read", 

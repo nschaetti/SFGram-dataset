@@ -1,6 +1,7 @@
 {
     "content_name": "25550.txt.utf-8", 
     "isbn": "0441142494", 
+    "original_title": "The Defiant Agents", 
     "author_name": "Andre Norton", 
     "images_urls": [
         "http://www.gutenberg.org/files/25550/25550-h/images/frontpage.jpg", 
@@ -232,7 +233,10 @@
         "http://www.gutenberg.org/files/25550/25550-page-images/p224.png"
     ], 
     "year": 1962, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/4/49/TheDefiantAgents.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 83, 
     "category": "Text", 
     "plot": "The alien library discovered in the previous novel proved to have locations of many unknown worlds. Finding the secure location of planet Topaz compromised, Apache operatives, including Travis Fox, are sent on an emergency trip by Earth with a mind-altering machine, Redax, that crash lands. They discover they have the ability to communicate with the coyotes, but have no idea why they are there. They encounter Russians who have undergone similar treatment, and similarly lacking their memories, who were taken from the days of the Mongolian Golden Horde. With this common experience, they join forces against the Russians doing mind-control. Memories gradually return. After finding alien technology too dangerous for the Russians to have, Travis seeks allies. They lay a successful trap for the Russian Redax controllers. Defeating the source of Russian control, the allies agree to guard the alien technology from outsiders in the years to come.", 
@@ -287,7 +291,7 @@
     ], 
     "release_date": "2008-05-21T00:00:00", 
     "author": 28, 
-    "original_title": "The Defiant Agents", 
+    "cover": "https://images.gr-assets.com/books/1284848040l/1183819.jpg", 
     "summary": "The Defiant Agents is a science fiction novel by American writer Andre Norton, the third in her series The Time Traders. It was first published in 1962, and as of 2012, had been reprinted in ten editions with cover changes, as well as twice in a combined edition with Key Out of Time. It is part of Norton's Forerunner universe.\nThe Defiant Agents continues the series\u2019 premise, an encounter between Western heroes, and the Russian Communists, and a mysterious alien race that has used time travel to alter Earth. Most interaction in this novel is in an American Indian-like setting.\nKirkus Reviews comments, \u201cAndre Norton, a polished writer of science fiction, weaves [her] outlandish fare in patterns intricate enough to attract the most devoted addict. Do not try to contrive a consistent political allegory out of [her] flight into fantasy. This is pure science fiction....\u201d", 
     "content_cleaned": true, 
     "classes": [

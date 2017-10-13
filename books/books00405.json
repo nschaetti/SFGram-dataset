@@ -1,5 +1,6 @@
 {
     "content_name": "19141.txt.utf-8", 
+    "original_title": "Edison's Conquest of Mars", 
     "author_name": "Garrett P Serviss", 
     "images_urls": [
         "http://www.gutenberg.org/files/19141/19141-h/images/tecm0112.jpg", 
@@ -45,7 +46,13 @@
         "http://www.gutenberg.org/files/19141/19141-h/images/tecm2511.png"
     ], 
     "year": 1898, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/6/6a/Edisons_conquest_of_mars.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/b/b0/Martian_Prisoner_-_conquest_of_Mars.png", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Martian_-_Conquest_of_Mars.png", 
+        "https://upload.wikimedia.org/wikipedia/commons/6/62/Edisonsconquestofmars.jpg"
+    ], 
     "id": 405, 
     "category": "Text", 
     "plot": "The book is set following the abortive Martian attack depicted in Fighters from Mars, much more devastating and global than in H. G. Wells' The War of the Worlds, though in both works the onslaught is thwarted when the aliens die from bacterial illness. Determining that the Martians will inevitably return, Earth's leaders, including U.S. President William McKinley, Queen Victoria, Kaiser Wilhelm II, and Emperor Mutsuhito, unite the world against the common threat and plan an attack on Mars. American inventor Thomas Edison leads a group of scientists studying derelict Martian equipment; they are able to develop an anti-gravity device powered by electric repulsion as well as a disintegration ray.\nUsing this new technology, the allies construct an armada of space ships for the attack. Edison takes some ships to the moon on a test run; using the first known fictional depiction of space suits, the explorers uncover evidence of an extinct civilization of giants. The armada heads on, discovering a solid gold asteroid being mined by the Martians. The humans fight two space battles against the Martians, suffering heavy casualties but ultimately winning thanks to the superiority of Edison's ray gun compared to the Martians' electric weapons. The humans take a captive, from whom they learn the Martian language.\nThe humans reach Mars, but in spite of their superior forces they have lost half their men to the Martians' overwhelming numbers. The Martians envelop the planet in a smoke screen, and the humans retreat to the moon Deimos. During a raid on Mars for supplies, the earth men find Aina, the last of a population of human slaves whose ancestors were captured from Kashmir in a Martian raid 9,000 years before. During this raid, the Martians also constructed the Great Pyramids and the Great Sphynx in Egypt, the latter of which is a statue of their leader. Aina advises Edison that meeting the Martians in battle would be fruitless, and that they should instead attack the dams that channel water from the polar ice. Since most of Mars' cities are under sea level, the flood spreads rapidly, killing most of the Martians and destroying their civilization. Edison and company force a peace with the surviving Martians, and return home to great celebration.", 
@@ -79,7 +86,7 @@
     ], 
     "release_date": "2006-08-29T00:00:00", 
     "author": 90, 
-    "original_title": "Edison's Conquest of Mars", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Edison's Conquest of Mars is an 1898 science fiction novel by American astronomer and writer Garrett P. Serviss. It was written as a sequel to Fighters from Mars, an unauthorized and heavily altered version of H. G. Wells's The War of the Worlds. It has a place in the history of science fiction for its early employment of themes and motifs that later became staples of the genre.\nThe book features Thomas Edison as the primary character, though neither Edison nor H. G. Wells were involved in its creation. Set after the devastating Martian attack in the previous story, the novel depicts Edison leading a group of scientists to develop ships and weapons, including a disintegration ray, for the defence of Earth. Edison and company fight the aliens in space and on Mars, eventually causing a flood that defeats the enemy and forces an end to hostilities. Serviss wrote himself into the story as a professor whom Edison consults; also appearing are scientists such as Edward Emerson Barnard, Lord Kelvin, Wilhelm R\u00ef\u00bf\u00bdntgen, and Silvanus P. Thompson, and heads of state such as Queen Victoria, U.S. President William McKinley, Kaiser Wilhelm II, and Emperor Mutsuhito.\nServiss' first attempt at fiction, the book was published serially in the New York Journal. Serviss went on to write other science fiction stories, arguably making him the first American to write science fiction professionally. An early example of what would later be called space opera, Edison's Conquest of Mars was also a particularly literal \"Edisonade\". The book contains some notable \"firsts\" in science fiction: alien abductions, spacesuits (called \"air-tight suits\": see Spacesuits in fiction), aliens building the Pyramids, space battles, oxygen pills, asteroid mining and disintegrator rays.\n\n", 
     "content_cleaned": true, 
     "classes": [

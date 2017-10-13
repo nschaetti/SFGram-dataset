@@ -1,7 +1,8 @@
 {
     "content_name": "20857.txt.utf-8", 
     "isbn": "0515026182", 
-    "language_code": "eng", 
+    "original_title": "Spacehounds of IPC", 
+    "year": 1931, 
     "author_name": "E. E. Smith", 
     "images_urls": [
         "http://www.gutenberg.org/files/20857/20857-h/images/ill-01-t.jpg", 
@@ -169,8 +170,12 @@
         "http://www.gutenberg.org/files/20857/20857-page-images/p157.png", 
         "http://www.gutenberg.org/files/20857/20857-page-images/p158.png"
     ], 
-    "year": 1931, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/9/9d/Spacehounds_of_ipc.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Amazing_stories_193107.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/6/6c/Amazing_stories_193108.jpg"
+    ], 
     "id": 129, 
     "category": "Text", 
     "genres": [], 
@@ -223,7 +228,7 @@
     ], 
     "release_date": "2007-03-20T00:00:00", 
     "author": 14, 
-    "original_title": "Spacehounds of IPC", 
+    "cover": "https://images.gr-assets.com/books/1328815661l/1914572.jpg", 
     "summary": "Spacehounds of IPC is a science fiction novel by author E. E. Smith. It was first published in book form in 1947 by Fantasy Press in an edition of 2,008 copies. It was the first book published by Fantasy Press. The novel was originally serialized in the August, September and October issues of the magazine Amazing Stories in 1931. Smith became disenchanted when he saw that editor T. O'Conor Sloane had made some unauthorized changes in the story, most likely to give each of the three parts it had been split into equal length. Earlier \"Doc\" Smith had written the first great novels of interstellar exploration, the Skylark series, and later he created another sweeping multi-volume series about the Galactic Patrol in the Lensman series. But this story, Spacehounds of IPC, stands alone. Although it has many similarities to the Lensmen series, the technology and the lifeforms in the story cannot be reconciled with the universe of the Lensmen. It is possible that Smith may have been planning this story as the beginning of a new series, but he was never to return to this setting (mainly Jupiter and its moons) or to the characters in this story. The story was the first to use the term \"tractor beam\", a name and concept that has been adopted by many subsequent literary works of fiction and other media until the present day.", 
     "content_cleaned": true, 
     "classes": [

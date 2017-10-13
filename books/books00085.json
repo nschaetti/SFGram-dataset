@@ -1,15 +1,19 @@
 {
     "content_name": "51461.txt.utf-8", 
     "isbn": "0884119335", 
-    "language_code": "en-US", 
+    "original_title": "A Pail of Air", 
+    "year": 1951, 
     "author_name": "Fritz Leiber", 
     "images_urls": [
         "http://www.gutenberg.org/files/51461/51461-h/images/cover.jpg", 
         "http://www.gutenberg.org/files/51461/51461-h/images/illus1.jpg", 
         "http://www.gutenberg.org/files/51461/51461-h/images/illus2.jpg"
     ], 
-    "year": 1951, 
-    "images": [], 
+    "language_code": "en-US", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/Galaxy_195112.jpg"
+    ], 
     "id": 85, 
     "category": "Text", 
     "plot": "The story is narrated by a ten-year-old boy living on Earth after it has become a rogue planet, having been torn away from the Sun by a passing \"dark star\". The loss of solar heating has caused the Earth's atmosphere to freeze into thick layers of \"snow\". The boy's father had worked with a group of other scientists to construct a large shelter, but the earthquakes accompanying the disaster had destroyed it and killed the others. He managed to construct a smaller, makeshift shelter called the \"Nest\" for his family, where they maintain a breathable atmosphere by periodically retrieving pails of frozen oxygen to thaw over a fire. They have survived in this way for a number of years.\nAt the end, they are found by a search party from a large group of survivors at Los Alamos, where they are using nuclear power to provide heat and have begun using rockets to search for other survivors (radio being ineffective at long range without an ionosphere). They reveal that other groups of humans have survived at Argonne, Brookhaven, and Harwell nuclear research facilities as well as in Tannu Tuva, and that plans are being made to establish uranium-mining colonies at Great Slave Lake or in the Congo region.", 
@@ -65,7 +69,7 @@
     ], 
     "release_date": "2016-03-15T00:00:00", 
     "author": 32, 
-    "original_title": "A Pail of Air", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"A Pail of Air\" is a science fiction short story by American writer Fritz Leiber, which originally appeared in the December 1951 issue of Galaxy Magazine and was dramatized on the radio show X Minus One in March 1956.", 
     "content_cleaned": true, 
     "classes": [

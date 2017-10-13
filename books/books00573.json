@@ -1,6 +1,7 @@
 {
     "content_name": "4920.txt.utf-8", 
     "isbn": "1426419074", 
+    "original_title": "The Blind Spot", 
     "author_name": "Homer Eon Flint", 
     "images_urls": [], 
     "year": 1951, 
@@ -32,14 +33,14 @@
         190, 
         191
     ], 
-    "isbn13": "9781426419072", 
     "language": "English", 
+    "isbn13": "9781426419072", 
     "countries": [
         2
     ], 
     "release_date": "2004-01-01T00:00:00", 
     "author": 190, 
-    "original_title": "The Blind Spot", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Blind Spot is a science fiction novel by American writers Austin Hall and Homer Eon Flint. The novel was originally serialized in six parts in the magazine Argosy beginning in May 1921. It was first published in book form in 1951 by Prime Press in an edition of 1,500 copies, though fewer than 800 were bound and the remainder are assumed lost. The sequel, The Spot of Life, was written by Hall alone.", 
     "content_cleaned": false, 
     "classes": [

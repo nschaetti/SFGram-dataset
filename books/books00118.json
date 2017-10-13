@@ -1,5 +1,6 @@
 {
     "content_name": "41622.txt.utf-8", 
+    "original_title": "Futuria Fantasia", 
     "language_code": "eng", 
     "author_name": "Ray Bradbury", 
     "images_urls": [
@@ -48,7 +49,7 @@
     ], 
     "release_date": "2012-12-14T00:00:00", 
     "author": 18, 
-    "original_title": "Futuria Fantasia", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Futuria Fantasia was an American science fiction fanzine created by Ray Bradbury in 1938, when he was 18 years old. Though only 4 issues of the fanzine were published, Futuria Fantasia boasted an impressive list of contributors, including Hannes Bok, Forrest J. Ackerman, Henry Kuttner, Damon Knight, and Robert A. Heinlein.", 
     "content_cleaned": true, 
     "classes": [

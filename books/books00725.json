@@ -1,11 +1,14 @@
 {
     "content_name": "17028.txt.utf-8", 
     "isbn": "0765310457", 
-    "language_code": "en-US", 
+    "original_title": "Eastern Standard Tribe", 
+    "year": 2004, 
     "author_name": "Cory Doctorow", 
     "images_urls": [], 
-    "year": 2004, 
-    "images": [], 
+    "language_code": "en-US", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/7a/Eastern_Standard_Tribe.jpg"
+    ], 
     "id": 725, 
     "category": "Text", 
     "plot": "The novel takes place in a world where online \"tribes\" form, where all members set their circadian rhythms to the same time zone even though members may be physically located throughout the world.\nThe protagonist, Art Berry, has been sent to an insane asylum as a result of a complex conspiracy. Told mostly in flashbacks, Art explains that he works in London as a consultant for the Greenwich 0 tribe. In reality, though, both he and his associate Fede are in fact double-agents for the Eastern Standard Tribe. Despite his talents as a human experience engineer, Art delivers subtly flawed proposals to the GMT tribe in order to undermine them and enable his own tribe to get a coveted contract.\nHe meets a girl, Linda, after he hits her with his car at 3am. Art has an idea for peer-to-peer music sharing between automobiles, and plans to give it to the EST (taking a cut to himself.) However, his girlfriend meets his coworker, Fede, and they plan to double cross the EST and sell the idea to another tribe. Knowing Art won't approve of the plan, they do it behind his back.\nFede later claims he would have cut Art in on the deal afterwards. However, Art figures out what is going on, and as a result they have him committed to an insane asylum to protect their plot.\nThe book alternates between two points of view: Art meeting Linda in London, and Art in the asylum. The London plot culminates in his attack on Fede when he discovers his betrayal. The asylum plot takes place after his attack on Fede, and culminates in his escape from the asylum and founding of a new company to market health care products using his inside knowledge of psychiatric institutions.", 
@@ -58,7 +61,7 @@
     ], 
     "release_date": "2005-11-20T00:00:00", 
     "author": 33, 
-    "original_title": "Eastern Standard Tribe", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Eastern Standard Tribe is a 2004 novel by Cory Doctorow. Like Doctorow's first two books, the entire text was released under a Creative Commons license on Doctorow's website, allowing the whole text of the book to be read for free and distributed without the publisher's permission.", 
     "content_cleaned": true, 
     "classes": [

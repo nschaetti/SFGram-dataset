@@ -1,10 +1,14 @@
 {
     "content_name": "18361.txt.utf-8", 
     "isbn": "1426451784", 
+    "original_title": "Operation: Outer Space", 
     "author_name": "Murray Leinster", 
     "images_urls": [], 
     "year": 1954, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/b/ba/Operation_outer_space.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 428, 
     "category": "Text", 
     "genres": [], 
@@ -59,7 +63,7 @@
     ], 
     "release_date": "2006-05-10T00:00:00", 
     "author": 61, 
-    "original_title": "Operation: Outer Space", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Operation: Outer Space is a science fiction novel by American writer Murray Leinster. It was first published in 1954 by Fantasy Press in an edition of 2,042 copies.", 
     "content_cleaned": false, 
     "classes": [

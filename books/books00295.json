@@ -1,6 +1,7 @@
 {
     "content_name": "18719.txt.utf-8", 
     "isbn": "1598186396", 
+    "original_title": "Space Tug (novel)", 
     "author_name": "Murray Leinster", 
     "images_urls": [
         "http://www.gutenberg.org/files/18719/18719-h/images/pocketbook.png"
@@ -42,7 +43,7 @@
     ], 
     "release_date": "2006-06-29T00:00:00", 
     "author": 61, 
-    "original_title": "Space Tug (novel)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Space Tug is a young adult science fiction novel by author Murray Leinster. It was published in 1953 by Shasta Publishers in an edition of 5,000 copies. It is the second novel in the author's Joe Kenmore series. Groff Conklin gave it a mixed review in Galaxy, noting that it held \"plenty of excitement though not much maturity.\" Boucher and McComas preferred it to the series's initial volume, but still found it \"quite a notch below ; ; ; Leinster's adult work.\" P. Schuyler Miller reported the novel was marked by \"the fastest kind of action\" and \"the feeling of technical authenticity.\"", 
     "content_cleaned": true, 
     "classes": [

@@ -369,23 +369,27 @@ p182
 sS'author'
 p183
 I224
-sS'content_cleaned'
+sS'cover'
 p184
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p185
+sS'content_cleaned'
+p186
 I01
 sS'classes'
-p185
-(lp186
-Vto-read
 p187
-aVunknown-genre
-p188
-aVcurrently-reading
+(lp188
+Vto-read
 p189
-asS'loc_class'
+aVunknown-genre
 p190
-VPS: Language and Literatures: American and Canadian literature
+aVcurrently-reading
 p191
-sS'n_authors'
+asS'loc_class'
 p192
+VPS: Language and Literatures: American and Canadian literature
+p193
+sS'n_authors'
+p194
 I1
 sb.

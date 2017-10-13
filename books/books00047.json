@@ -1,10 +1,14 @@
 {
     "content_name": "126.txt.utf-8", 
     "isbn": "0803266340", 
+    "original_title": "The Poison Belt", 
     "author_name": "Arthur Conan Doyle", 
     "images_urls": [], 
     "year": 1913, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/4/40/Poison_belt.jpg", 
+        "https://upload.wikimedia.org/wikipedia/en/1/1a/Posion_Belt.jpg"
+    ], 
     "id": 47, 
     "category": "Text", 
     "plot": "Challenger sends telegrams asking his three companions from The Lost World \u2014 Edward Malone, Lord John Roxton, and Professor Summerlee \u2013 to join him at his home outside London, and instructs each of them to 'bring oxygen'. During their journey there, they see people's behaviour become excitable and erratic. On arrival they are ushered into a sealed room, along with Challenger and his wife. In the course of his researches into various phenomena, Challenger has predicted that the Earth is moving into a belt of poisonous ether which, based on its effect on the people of Sumatra earlier in the day, he expects to stifle humanity. Challenger seals them in the room with cylinders of oxygen, which he (correctly) believes will counter the effect of the ether.\n\nThe five wait out the Earth's passage through the poison belt as they watch the world outside, human and animal, die and machines run amok. (According to Victorian values \u2013 or to Doyle's understanding of them \u2013 Challenger's servants are left outside the sealed room, and they continue to perform their duties until the ether overtakes them.) Finally, the last of the oxygen cylinders is emptied, and they open a window, ready to face death. To their surprise, they do not die, and conclude the Earth has now passed through the poison belt. They journey through the dead countryside in Challenger's car, finally arriving in London. They encounter only one survivor, an elderly, bed-ridden woman prescribed oxygen for her health.\nAfter returning to Challenger's house, they discover that the effect of the ether is temporary, and the world reawakens with no knowledge that they have lost any time at all. Eventually Challenger and his companions manage to convince the world what happened \u2013 a task made easier by the tremendous amount of death and destruction caused by runaway machines and fires that took place while the world was asleep \u2013 and humanity is shocked into placing a higher value on life.", 
@@ -60,7 +64,7 @@
     ], 
     "release_date": "1994-04-01T00:00:00", 
     "author": 7, 
-    "original_title": "The Poison Belt", 
+    "cover": "https://images.gr-assets.com/books/1328819119l/272751.jpg", 
     "summary": "The Poison Belt was the second story, a novella, that Sir Arthur Conan Doyle wrote about Professor Challenger. Written in 1913, much of it takes place in a single room in Challenger's house in Sussex \u2013 rather oddly, given that it follows The Lost World, a story set largely outdoors in the wilds of South America. This would be the last story written about Challenger until the 1920s, by which time Doyle's spiritualist beliefs had begun to influence his writing.", 
     "content_cleaned": true, 
     "classes": [

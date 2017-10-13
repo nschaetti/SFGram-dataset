@@ -165,21 +165,25 @@ p78
 sS'author'
 p79
 I49
-sS'content_cleaned'
+sS'cover'
 p80
+Vhttps://images.gr-assets.com/books/1467403044l/22581198.jpg
+p81
+sS'content_cleaned'
+p82
 I01
 sS'classes'
-p81
-(lp82
-Vto-read
 p83
-aVowned-but-havent-read
-p84
-asS'loc_class'
+(lp84
+Vto-read
 p85
-VPS: Language and Literatures: American and Canadian literature
+aVowned-but-havent-read
 p86
-sS'n_authors'
+asS'loc_class'
 p87
+VPS: Language and Literatures: American and Canadian literature
+p88
+sS'n_authors'
+p89
 I2
 sb.

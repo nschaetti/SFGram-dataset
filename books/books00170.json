@@ -1,12 +1,13 @@
 {
     "content_name": "42236.txt.utf-8", 
     "isbn": "0937986135", 
-    "language_code": "eng", 
+    "original_title": "Jewels of Gwahlur (collection)", 
+    "year": 1935, 
     "author_name": "Robert E. Howard", 
     "images_urls": [
         "http://www.gutenberg.org/files/42236/42236-h/images/cover.jpg"
     ], 
-    "year": 1935, 
+    "language_code": "eng", 
     "images": [], 
     "id": 170, 
     "category": "Text", 
@@ -62,7 +63,7 @@
     ], 
     "release_date": "2013-03-01T00:00:00", 
     "author": 22, 
-    "original_title": "Jewels of Gwahlur (collection)", 
+    "cover": "https://images.gr-assets.com/books/1325713497l/1502416.jpg", 
     "summary": "Jewels of Gwahlur is a 1979 collection of two fantasy short stories written by Robert E. Howard featuring his sword and sorcery hero Conan the Barbarian. The book was published in 1979 by Donald M. Grant, Publisher, Inc. as volume VIII of their deluxe Conan set. The title story originally appeared in the magazine Weird Tales. \"The Snout in the Dark\" is the original fragment of a story that Howard never completed. It first appeared, completed by L. Sprague de Camp and Lin Carter, in the collection Conan of Cimmeria.", 
     "content_cleaned": true, 
     "classes": [

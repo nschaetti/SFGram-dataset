@@ -165,17 +165,21 @@ p80
 sS'author'
 p81
 I90
-sS'content_cleaned'
+sS'cover'
 p82
+Vhttps://images.gr-assets.com/books/1465683444l/30456967.jpg
+p83
+sS'content_cleaned'
+p84
 I00
 sS'classes'
-p83
-(lp84
-sS'loc_class'
 p85
-VQB: Science: Astronomy
-p86
-sS'n_authors'
+(lp86
+sS'loc_class'
 p87
+VQB: Science: Astronomy
+p88
+sS'n_authors'
+p89
 I1
 sb.

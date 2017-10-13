@@ -1,6 +1,7 @@
 {
     "content_name": "42209.txt.utf-8", 
     "isbn": "0448145804", 
+    "original_title": "The Devil in Iron (collection)", 
     "author_name": "Robert E. Howard", 
     "images_urls": [
         "http://www.gutenberg.org/files/42209/42209-h/images/cover.jpg"
@@ -42,7 +43,7 @@
     ], 
     "release_date": "2013-02-26T00:00:00", 
     "author": 22, 
-    "original_title": "The Devil in Iron (collection)", 
+    "cover": "https://images.gr-assets.com/books/1485028457l/6052585.jpg", 
     "summary": "The Devil in Iron is a 1976 collection of two fantasy short stories written by Robert E. Howard featuring his sword and sorcery hero Conan the Barbarian. The book was published in 1976 by Donald M. Grant, Publisher, Inc. as volume V of their deluxe Conan set. The stories both originally appeared in the magazine Weird Tales.", 
     "content_cleaned": true, 
     "classes": [

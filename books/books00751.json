@@ -1,10 +1,14 @@
 {
     "content_name": "19660.txt.utf-8", 
     "isbn": "1421835185", 
+    "original_title": "Man of Many Minds", 
     "author_name": "E. Everett Evans", 
     "images_urls": [], 
     "year": 1953, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png", 
+        "https://upload.wikimedia.org/wikipedia/en/7/7e/Man_of_many_minds.jpg"
+    ], 
     "id": 751, 
     "category": "Text", 
     "genres": [], 
@@ -40,7 +44,7 @@
     ], 
     "release_date": "2006-10-29T00:00:00", 
     "author": 38, 
-    "original_title": "Man of Many Minds", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Man of Many Minds is a science fiction novel by author E. Everett Evans. It was first published in 1953 by Fantasy Press in an edition of 3,558 copies. The book includes an introduction by E. E. Smith.", 
     "content_cleaned": true, 
     "classes": [

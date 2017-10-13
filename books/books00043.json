@@ -1,11 +1,15 @@
 {
     "content_name": "72.txt.utf-8", 
     "isbn": "0345339932", 
-    "language_code": "eng", 
+    "original_title": "Thuvia, Maid of Mars", 
+    "year": 1920, 
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
-    "year": 1920, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/Martian_Family_of_John_Carter_from_Edgar_Rice_Burroughs_Barsoom_Novels.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Thuvia_Maid_of_Mars-1920.jpg"
+    ], 
     "id": 43, 
     "category": "Text", 
     "plot": "Carthoris is madly in love with Thuvia. This love was foreshadowed at the end of the previous novel. Unfortunately Thuvia is promised to Kulan Tith, Jeddak of Kaol. On Barsoom nothing can break an engagement between a man and woman except death, although the new suitor may not cause that death. Thus it is that Thuvia will have none of him. This situation leaves Carthoris in a predicament.\nAs Thuvia suffers the common Burroughsian heroine's fate of being kidnapped and in need of rescue, Carthoris' goal is abetted by circumstances. Thus he sets out to find the love of his life. His craft is sabotaged and he finds himself deep in the undiscovered south of Barsoom, in the ruins of ancient Aanthor. Thuvia's kidnappers, the Dusar, have taken her there as well, and Carthoris is just in time to spot Thuvia and her kidnappers under assault by a green man of the hordes of Torquas. Carthoris leaps to her rescue in the style of his father.\nThe rescue takes Carthoris and his love to ancient Lothar, home of an ancient fair-skinned human race gifted with the ability to create lifelike phantasms from pure thought. They habitually use large numbers of phantom bowmen paired with real and phantom banths (Barsoomian lions) to defend themselves from the hordes of Torquas.\nThe kidnapping of Thuvia is done in such a way that Carthoris is blamed. This ignites a war between the red nations of Barsoom. Carthoris must try to be back in time with Thuvia to stop the war from breaking loose. Carthoris wonders if his love will ever be requited by the promised Thuvia.", 
@@ -59,7 +63,7 @@
     ], 
     "release_date": "1993-07-01T00:00:00", 
     "author": 2, 
-    "original_title": "Thuvia, Maid of Mars", 
+    "cover": "https://images.gr-assets.com/books/1444245322l/40387.jpg", 
     "summary": "Thuvia, Maid of Mars is a science fantasy novel by Edgar Rice Burroughs, the fourth of the Barsoom series. The principal characters are Carthoris (the son of John Carter of Mars) and Thuvia of Ptarth, each of whom appeared in the previous two novels.\nWhile typical in many ways of Burrough's Barsoom novels, it also includes some inventive elements.", 
     "content_cleaned": true, 
     "classes": [

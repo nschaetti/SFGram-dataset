@@ -1,7 +1,8 @@
 {
     "content_name": "20728.txt.utf-8", 
     "isbn": "0441777848", 
-    "language_code": "eng", 
+    "original_title": "Space Viking", 
+    "year": 1962, 
     "author_name": "H. Beam Piper", 
     "images_urls": [
         "http://www.gutenberg.org/files/20728/20728-h/images/illus-back.jpg", 
@@ -29,8 +30,10 @@
         "http://www.gutenberg.org/files/20728/20728-h/images/image162.jpg", 
         "http://www.gutenberg.org/files/20728/20728-h/images/image168.jpg"
     ], 
-    "year": 1962, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/c/c6/Space_Viking_%28pb_cover_02ba%29.jpg"
+    ], 
     "id": 68, 
     "category": "Text", 
     "plot": "", 
@@ -80,7 +83,7 @@
     ], 
     "release_date": "2007-03-03T00:00:00", 
     "author": 19, 
-    "original_title": "Space Viking", 
+    "cover": "https://images.gr-assets.com/books/1405700745l/676237.jpg", 
     "summary": "Space Viking is a science fiction novel by American writer H. Beam Piper, set in his Terro-Human future history. It tells the story of one man's search for his wife's murderer and its unexpected consequences. The story was originally serialized in Analog magazine (November 1962 \u2013 February 1963), then published by Ace Books in 1963.", 
     "content_cleaned": true, 
     "classes": [

@@ -1,5 +1,6 @@
 {
     "content_name": "201.txt.utf-8", 
+    "original_title": "Flatland", 
     "author_name": "Edwin Abbott Abbott", 
     "images_urls": [
         "http://www.gutenberg.org/files/201/201-h/images/ill_001.png", 
@@ -16,7 +17,10 @@
         "http://www.gutenberg.org/files/201/201-h/images/ill_intro.png"
     ], 
     "year": 1884, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/Houghton_EC85_Ab264_884f_-_Flatland%2C_cover.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Houghton_EC85_Ab264_884f_-_Flatland%2C_men_and_women_doors.jpg"
+    ], 
     "id": 17, 
     "category": "Text", 
     "plot": "The story describes a two-dimensional world occupied by geometric figures, whereof women are simple line-segments, while men are polygons with various numbers of sides. The narrator is a square named A Square, a member of the caste of gentlemen and professionals, who guides the readers through some of the implications of life in two dimensions. The first half of the story goes through the practicalities of existing in a two-dimensional universe as well as a history leading up to the year 1999 on the eve of the 3rd Millennium.\nOn New Year's Eve, the Square dreams about a visit to a one-dimensional world (Lineland) inhabited by \"lustrous points\", in which he attempts to convince the realm's monarch of a second dimension; but is unable to do so. In the end, the monarch of Lineland tries to kill A Square rather than tolerate his nonsense any further.\nFollowing this vision, he is himself visited by a three-dimensional sphere named A Sphere, which he cannot comprehend until he sees Spaceland (a tridimensional world) for himself. This Sphere visits Flatland at the turn of each millennium to introduce a new apostle to the idea of a third dimension in the hopes of eventually educating the population of Flatland. From the safety of Spaceland, they are able to observe the leaders of Flatland secretly acknowledging the existence of the sphere and prescribing the silencing of anyone found preaching the truth of Spaceland and the third dimension. After this proclamation is made, many witnesses are massacred or imprisoned (according to caste), including A Square's brother, B.\nAfter the Square's mind is opened to new dimensions, he tries to convince the Sphere of the theoretical possibility of the existence of a fourth (and fifth, and sixth ...) spatial dimension; but the Sphere returns his student to Flatland in disgrace.\nThe Square then has a dream in which the Sphere visits him again, this time to introduce him to Pointland, whereof the point (sole inhabitant, monarch, and universe in one) perceives any communication as a thought originating in his own mind (cf. Solipsism):\n\n\"You see,\" said my Teacher, \"how little your words have done. So far as the Monarch understands them at all, he accepts them as his own \u2013 for he cannot conceive of any other except himself \u2013 and plumes himself upon the variety of Its Thought as an instance of creative Power. Let us leave this God of Pointland to the ignorant fruition of his omnipresence and omniscience: nothing that you or I can do can rescue him from his self-satisfaction.\"\n\nThe Square recognizes the identity of the ignorance of the monarchs of Pointland and Lineland with his own (and the Sphere's) previous ignorance of the existence of higher dimensions. Once returned to Flatland, the Square cannot convince anyone of Spaceland's existence, especially after official decrees are announced that anyone preaching the existence of three dimensions will be imprisoned (or executed, depending on caste). Eventually the Square himself is imprisoned for just this reason, with only occasional contact with his brother who is imprisoned in the same facility. He does not manage to convince his brother, even after all they have both seen. Seven years after being imprisoned, A Square writes out the book Flatland in the form of a memoir, hoping to keep it as posterity for a future generation that can see beyond their two-dimensional existence.", 
@@ -50,7 +54,7 @@
     ], 
     "release_date": "1995-01-01T00:00:00", 
     "author": 10, 
-    "original_title": "Flatland", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Flatland: A Romance of Many Dimensions is a satirical novella by the English schoolmaster Edwin Abbott Abbott, first published in 1884 by Seeley & Co. of London.\nWritten pseudonymously by \"A Square\", the book used the fictional two-dimensional world of Flatland to comment on the hierarchy of Victorian culture, but the novella's more enduring contribution is its examination of dimensions.\nSeveral films have been made from the story, including the feature film Flatland (2007). Other efforts have been short or experimental films, including one narrated by Dudley Moore and the short films Flatland: The Movie (2007) and Flatland 2: Sphereland (2012).", 
     "content_cleaned": true, 
     "classes": [], 

@@ -1,6 +1,7 @@
 {
     "content_name": "32317.txt.utf-8", 
     "isbn": "1434409716", 
+    "original_title": "The Haunted Stars", 
     "author_name": "Edmond Hamilton", 
     "images_urls": [
         "http://www.gutenberg.org/files/32317/32317-h/images/cover.jpg", 
@@ -18,7 +19,9 @@
         "http://www.gutenberg.org/files/32317/32317-h/images/image_y1.jpg"
     ], 
     "year": 1942, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/73/TheHauntedStars.jpg"
+    ], 
     "id": 411, 
     "category": "Text", 
     "plot": "The action takes place in an imagined future a few years after the time of writing. Tension between the US and the Soviet Union remains high. Both nations have landed on the Moon, and established bases there.\nJust under half the length of the novel tells how a discovery on the Moon brings Massachusetts linguist, Robert Fairlie to a high-security space base in New Mexico and eventually to the planet Ryn. The remainder of the novel is about what happens on Ryn after Fairlie and his companions arrive: their contact with some of the inhabitants of the planet, and later with Ryn's ancient enemy, the \"shadowed ones\".", 
@@ -54,7 +57,7 @@
     ], 
     "release_date": "2010-05-10T00:00:00", 
     "author": 83, 
-    "original_title": "The Haunted Stars", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Haunted Stars is a science-fiction novel written by Edmond Hamilton. It tells the story of an expedition from Earth (which is in the throes of an arms race) to a planet of the star Altair \u2014 a planet called Ryn, inhabited by humans like those on Earth. Against the wishes of Ryn's inhabitants, the team from Earth seek information about weapons technology used in an ancient space war. Their unsuccessful search ends in dramatic contact with another species, the ancient enemy of Ryn.\nThe novel was first published in 1960 by Torquil Books and belongs to a class of novels which add a darker tone to the popular tradition of space opera. It has been published in English, German, Italian, and Portuguese.", 
     "content_cleaned": true, 
     "classes": [

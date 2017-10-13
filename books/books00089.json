@@ -1,6 +1,7 @@
 {
     "content_name": "21051.txt.utf-8", 
     "isbn": "0803293038", 
+    "original_title": "Skylark Three", 
     "author_name": "E. E. Smith", 
     "images_urls": [
         "http://www.gutenberg.org/files/21051/21051-h/images/ill-388.png", 
@@ -109,7 +110,11 @@
         "http://www.gutenberg.org/files/21051/21051-page-images/p479.png"
     ], 
     "year": 1930, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5e/Amazing_stories_193008.jpg", 
+        "https://upload.wikimedia.org/wikipedia/en/5/54/Skylark_three.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/Amazing_stories_193010.jpg"
+    ], 
     "id": 89, 
     "category": "Text", 
     "genres": [], 
@@ -162,7 +167,7 @@
     ], 
     "release_date": "2007-04-13T00:00:00", 
     "author": 14, 
-    "original_title": "Skylark Three", 
+    "cover": "https://images.gr-assets.com/books/1328818007l/826501.jpg", 
     "summary": "Skylark Three is a science fiction novel by American writer E. E. Smith, the second in his Skylark series. Originally serialized through the Amazing Stories magazine in 1930, it was first collected in book form in 1948 by Fantasy Press.", 
     "content_cleaned": true, 
     "classes": [

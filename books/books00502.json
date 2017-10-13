@@ -1,12 +1,16 @@
 {
     "content_name": "50863.txt.utf-8", 
     "isbn": "1880418169", 
+    "original_title": "Alien Minds", 
     "author_name": "E. Everett Evans", 
     "images_urls": [
         "http://www.gutenberg.org/files/50863/50863-h/images/cover.jpg"
     ], 
     "year": 1955, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/2/2f/Alien_minds.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 502, 
     "category": "Text", 
     "genres": [], 
@@ -41,7 +45,7 @@
     ], 
     "release_date": "2016-01-07T00:00:00", 
     "author": 38, 
-    "original_title": "Alien Minds", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Alien Minds is a science fiction novel by author E. Everett Evans. It was first published in 1955 by Fantasy Press in an edition of 1,417 copies. The book is a sequel to Man of Many Minds", 
     "content_cleaned": true, 
     "classes": [], 

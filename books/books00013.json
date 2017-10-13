@@ -1,13 +1,16 @@
 {
     "content_name": "50133.txt.utf-8", 
     "isbn": "0870540378", 
+    "original_title": "The Dunwich Horror", 
     "author_name": "H. P. Lovecraft", 
     "images_urls": [
         "http://www.gutenberg.org/files/50133/50133-h/images/cover.jpg", 
         "http://www.gutenberg.org/files/50133/50133-h/images/illus.jpg"
     ], 
     "year": 1929, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Weird_Tales_April_1929.jpg"
+    ], 
     "id": 13, 
     "category": "Text", 
     "plot": "In the isolated, desolate, decrepit village of Dunwich, Massachusetts, Wilbur Whateley is the hideous son of Lavinia Whateley, a deformed and unstable albino mother, and an unknown father (alluded to in passing by mad Old Whateley, as \"Yog-Sothoth\"). Strange events surround his birth and precocious development. Wilbur matures at an abnormal rate, reaching manhood within a decade. Locals shun him and his family, and animals fear and despise him due to his odor. All the while, his sorcerer grandfather indoctrinates him into certain dark rituals and the study of witchcraft. Various locals grow suspicious after Old Whateley buys more and more cattle, yet the number of his herd never increases, and the cattle in his field become mysteriously afflicted with severe open wounds.\nWilbur and his grandfather have sequestered an unseen presence at their farmhouse; this being is connected somehow to Yog-Sothoth. Year by year, this unseen entity grows to monstrous proportions, requiring the two men to make frequent modifications to their residence. People begin to notice a trend of cattle mysteriously disappearing. Wilbur's grandfather dies, and his mother disappears soon afterwards. The colossal entity eventually occupies the whole interior of the farmhouse.\nWilbur ventures to Miskatonic University in Arkham to procure their copy of the Necronomicon \u2013 Miskatonic's library is one of only a handful in the world to stock an original. The Necronomicon has spells that Wilbur can use to summon the Old Ones, but his family's copy is damaged and lacks the page he needs to open the \"door.\" When the librarian, Dr. Henry Armitage, refuses to release the university's copy to him (and, by sending warnings to other libraries, thwarts Wilbur's efforts to consult their copies), Wilbur breaks into the library at night to steal it. A guard dog, maddened by Wilbur's alien body odor, attacks and kills him with unusual ferocity. When Dr. Armitage and two other professors, Warren Rice and Francis Morgan, arrive on the scene, they see Wilbur's semi-human corpse before it melts completely, leaving no evidence.\nWith Wilbur dead, no one attends to the mysterious presence growing in the Whateley farmhouse. Early one morning, the farmhouse explodes and the thing, an invisible monster, rampages across Dunwich, cutting a path through fields, trees, and ravines, and leaving huge \"prints\" the size of tree trunks. The monster eventually makes forays into inhabited areas. The invisible creature terrorizes Dunwich for several days, killing two families and several policemen, until Armitage, Rice, and Morgan arrive with the knowledge and weapons needed to kill it. The use of a magic powder renders it visible just long enough to send one of the crew into shock. The barn-sized monster screams for help - in English - just before the spell destroys it, leaving a huge burned area. In the end, its nature is revealed: it is Wilbur's twin brother, though it \"looked more like the father than Wilbur did.\"", 
@@ -62,7 +65,7 @@
     ], 
     "release_date": "2015-10-04T00:00:00", 
     "author": 9, 
-    "original_title": "The Dunwich Horror", 
+    "cover": "https://images.gr-assets.com/books/1341605187l/63213.jpg", 
     "summary": "\"The Dunwich Horror\" is a short story by H. P. Lovecraft. Written in 1928, it was first published in the April 1929 issue of Weird Tales (pp. 481\u2013508). It takes place in Dunwich, a fictional town in Massachusetts. It is considered one of the core stories of the Cthulhu Mythos. \"The Dunwich Horror\" is one of the few tales Lovecraft wrote wherein the heroes successfully defeat the antagonistic entity or monster of the story.", 
     "content_cleaned": true, 
     "classes": [

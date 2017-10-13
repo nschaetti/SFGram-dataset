@@ -207,17 +207,21 @@ p100
 sS'author'
 p101
 I17
-sS'content_cleaned'
+sS'cover'
 p102
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p103
+sS'content_cleaned'
+p104
 I01
 sS'classes'
-p103
-(lp104
-sS'loc_class'
 p105
-VPN: Language and Literatures: Literature: General, Criticism, Collections
-p106
-sS'n_authors'
+(lp106
+sS'loc_class'
 p107
+VPN: Language and Literatures: Literature: General, Criticism, Collections
+p108
+sS'n_authors'
+p109
 I1
 sb.

@@ -1,6 +1,7 @@
 {
     "content_name": "20788.txt.utf-8", 
     "isbn": "044178741X", 
+    "original_title": "Storm Over Warlock", 
     "author_name": "Andre Norton", 
     "images_urls": [
         "http://www.gutenberg.org/files/20788/20788-h/images/illus-back.jpg", 
@@ -63,7 +64,7 @@
     ], 
     "release_date": "2007-03-09T00:00:00", 
     "author": 28, 
-    "original_title": "Storm Over Warlock", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Storm Over Warlock is a science fiction novel written by Andre Norton and published in 1960 by the World Publishing Company. The story combines science fiction with fantasy, technology with witchcraft, in a way typical of Norton\u2019s works. The sequel is Ordeal in Otherwhere.", 
     "content_cleaned": true, 
     "classes": [

@@ -1,11 +1,14 @@
 {
     "content_name": "10966.txt.utf-8", 
     "isbn": "1421925818", 
-    "language_code": "eng", 
+    "original_title": "The Ghost Pirates", 
+    "year": 1909, 
     "author_name": "William Hope Hodgson", 
     "images_urls": [], 
-    "year": 1909, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/7b/Ghost_pirates.jpg"
+    ], 
     "id": 79, 
     "category": "Text", 
     "genres": [], 
@@ -57,7 +60,7 @@
     ], 
     "release_date": "2004-02-01T00:00:00", 
     "author": 11, 
-    "original_title": "The Ghost Pirates", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Ghost Pirates is a novel by William Hope Hodgson, first published in 1909. The economic style of writing has led horror writer Robert Weinberg to describe The Ghost Pirates as \"one of the finest examples of the tightly written novel ever published.\" \nIn it, Hodgson never describes in any remarkable details the ghosts - if this is indeed what they are, since their true nature is left ambiguous - he merely reports on their gradual commandeering of the ship.\n\"The Ghost Pirates . . . is a powerful account of a doomed and haunted ship on its last voyage, and of the terrible sea-devils (of quasi-human aspect, and perhaps the spirits of bygone buccaneers) that besiege it and finally drag it down to an unknown fate. With its command of maritime knowledge, and its clever selection of hints and incidents suggestive of latent horrors in nature, this book at times reaches enviable peaks of power.\" \u2014 H.P. Lovecraft\n\n", 
     "content_cleaned": true, 
     "classes": [

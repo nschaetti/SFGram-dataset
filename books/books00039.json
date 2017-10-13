@@ -1,5 +1,6 @@
 {
     "content_name": "28767.txt.utf-8", 
+    "original_title": "The Defenders (short story)", 
     "language_code": "eng", 
     "author_name": "Philip K. Dick", 
     "images_urls": [
@@ -65,7 +66,7 @@
     ], 
     "release_date": "2009-05-12T00:00:00", 
     "author": 8, 
-    "original_title": "The Defenders (short story)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"The Defenders\" is a 1953 science fiction novelette by American author Philip K. Dick, and the basis for Dick's 1964 novel The Penultimate Truth. It is one of several of his stories to be expanded into a novel. The story was first published in the January 1953 issue of Galaxy Science Fiction.\nIn 1956, the story was adapted for the radio program X Minus One by George Lefferts.", 
     "content_cleaned": true, 
     "classes": [

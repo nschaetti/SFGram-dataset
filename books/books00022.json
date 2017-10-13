@@ -1,5 +1,6 @@
 {
     "content_name": "32154.txt.utf-8", 
+    "original_title": "The Variable Man", 
     "language_code": "eng", 
     "author_name": "Philip K. Dick", 
     "images_urls": [
@@ -67,7 +68,7 @@
     ], 
     "release_date": "2010-04-27T00:00:00", 
     "author": 8, 
-    "original_title": "The Variable Man", 
+    "cover": "https://images.gr-assets.com/books/1373071196l/8734881.jpg", 
     "summary": "The Variable Man is a novella written and sold by Philip K. Dick before he had an agent. It was first published in Space Science Fiction (British), Vol. 2 No. 2, July 1953 and Space Science Fiction, September 1953 with the US publication illustrated by Alex Ebel. Despite the magazine cover dates it is unclear whether the first publication was in the UK or in the United States where magazines tended to be published farther ahead of their cover dates than in the UK. The Variable Man can be found in several collections of Dick's short stories, including The Variable Man and The Short Happy Life of the Brown Oxford.", 
     "content_cleaned": true, 
     "classes": [

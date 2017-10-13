@@ -21,7 +21,7 @@
         "year": 2007
     }, 
     "similar_books": [], 
-    "content_available": false, 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/19963", 
         "num": 19963
@@ -35,6 +35,7 @@
     ], 
     "release_date": "2006-11-29T00:00:00", 
     "author": 95, 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "classes": [
         "to-read", 
         "sf", 
@@ -49,6 +50,6 @@
         "type-short-story", 
         "audio-obtained-ss"
     ], 
-    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "content_available": false, 
     "n_authors": 1
 }

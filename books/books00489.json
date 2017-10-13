@@ -1,5 +1,6 @@
 {
     "content_name": "23103.txt.utf-8", 
+    "original_title": "The Final Key", 
     "language_code": "eng", 
     "author_name": "Roger D. Aycock", 
     "images_urls": [
@@ -55,7 +56,7 @@
     ], 
     "release_date": "2007-10-20T00:00:00", 
     "author": 162, 
-    "original_title": "The Final Key", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Final Key is a science fiction novel in the Saga of the Skolian Empire, a series of books by American writer Catherine Asaro. As the direct sequel to Schism, it tells the story of a major Eubian assault against the Skolian government and Eldrinson's rise from a rustic farmer to a member of the powerful imperial Triad.", 
     "content_cleaned": true, 
     "classes": [

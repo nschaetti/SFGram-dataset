@@ -1,7 +1,8 @@
 {
     "content_name": "20988.txt.utf-8", 
     "isbn": "0441131433", 
-    "language_code": "eng", 
+    "original_title": "Islands of Space", 
+    "year": 1956, 
     "author_name": "Jr. John W. Campbell", 
     "images_urls": [
         "http://www.gutenberg.org/files/20988/20988-h/images/001.png", 
@@ -201,8 +202,11 @@
         "http://www.gutenberg.org/files/20988/20988-page-images/p192.png", 
         "http://www.gutenberg.org/files/20988/20988-page-images/p193.png"
     ], 
-    "year": 1956, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/b/b5/Islands_of_space.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/Amazing_stories_quarterly_1931spr.jpg"
+    ], 
     "id": 132, 
     "category": "Text", 
     "genres": [], 
@@ -239,7 +243,7 @@
     ], 
     "release_date": "2007-04-05T00:00:00", 
     "author": 41, 
-    "original_title": "Islands of Space", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Islands of Space is a science fiction novel by American writer John W. Campbell, Jr.. It was first published in book form in 1957 by Fantasy Press in an edition of 1,417 copies. The novel originally appeared in the magazine Amazing Stories Quarterly; the text was \"extensively edited\" for book publication, with Campbell's approval, by Lloyd Arthur Eshbach. A paperback edition was published by Ace Books in 1966. In 1973, Islands was included in a Doubleday omnibus of all three \"Arcot, Wade, and Morey\" novels. A German translation appeared in 1967 as Kosmische Kreuzfahrt, and an Italian translation was published in 1976 as Isole nello spazio.\nIslands of Space is generally credited with introducing the concepts of hyperspace and the warp drive to science fiction.\n\n", 
     "content_cleaned": true, 
     "classes": [

@@ -152,23 +152,27 @@ p73
 sS'author'
 p74
 I163
-sS'content_cleaned'
+sS'cover'
 p75
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p76
+sS'content_cleaned'
+p77
 I01
 sS'classes'
-p76
-(lp77
-V2016-popsugar
 p78
-aVaudiobooks
-p79
-aVsci-fi
+(lp79
+V2016-popsugar
 p80
-asS'loc_class'
+aVaudiobooks
 p81
-VPS: Language and Literatures: American and Canadian literature
+aVsci-fi
 p82
-sS'n_authors'
+asS'loc_class'
 p83
+VPS: Language and Literatures: American and Canadian literature
+p84
+sS'n_authors'
+p85
 I2
 sb.

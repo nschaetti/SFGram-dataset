@@ -1,6 +1,7 @@
 {
     "content_name": "19445.txt.utf-8", 
     "isbn": "1428073124", 
+    "original_title": "Omnilingual", 
     "author_name": "H. Beam Piper", 
     "images_urls": [
         "http://www.gutenberg.org/files/19445/19445-h/images/001.png", 
@@ -68,7 +69,7 @@
     ], 
     "release_date": "2006-10-02T00:00:00", 
     "author": 19, 
-    "original_title": "Omnilingual", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"Omnilingual\" is a science fiction short story by American writer H. Beam Piper. Originally published in the February 1957 issue of Astounding Science Fiction, it focuses on the problem of archaeology on an alien culture.", 
     "content_cleaned": true, 
     "classes": [

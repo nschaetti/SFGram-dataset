@@ -1,6 +1,7 @@
 {
     "content_name": "19362.txt.utf-8", 
     "isbn": "0809501287", 
+    "original_title": "In the Year 2889 (short story)", 
     "author_name": "Jules Verne", 
     "images_urls": [], 
     "year": 1889, 
@@ -52,14 +53,14 @@
         6, 
         15
     ], 
-    "isbn13": "9780809501281", 
     "language": "English", 
+    "isbn13": "9780809501281", 
     "countries": [
         4
     ], 
     "release_date": "2006-09-23T00:00:00", 
     "author": 6, 
-    "original_title": "In the Year 2889 (short story)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "In the Year 2889 is an 1889 short story published under the name of Jules Verne, but now believed to be mainly the work of his son Michel Verne, based on his father's ideas.", 
     "content_cleaned": true, 
     "classes": [

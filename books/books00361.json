@@ -1,7 +1,8 @@
 {
     "content_name": "51233.txt.utf-8", 
     "isbn": "0345607600", 
-    "language_code": "eng", 
+    "original_title": "The Marching Morons", 
+    "year": 1959, 
     "author_name": "C. M. Kornbluth", 
     "images_urls": [
         "http://www.gutenberg.org/files/51233/51233-h/images/cover.jpg", 
@@ -9,7 +10,7 @@
         "http://www.gutenberg.org/files/51233/51233-h/images/illus2.jpg", 
         "http://www.gutenberg.org/files/51233/51233-h/images/illus3.jpg"
     ], 
-    "year": 1959, 
+    "language_code": "eng", 
     "images": [
         "https://upload.wikimedia.org/wikipedia/commons/c/c8/Galaxy_195104.jpg", 
         "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg"
@@ -70,7 +71,7 @@
     ], 
     "release_date": "2016-02-16T00:00:00", 
     "author": 51, 
-    "original_title": "The Marching Morons", 
+    "cover": "https://images.gr-assets.com/books/1327523964l/2300110.jpg", 
     "summary": "For the Kornbluth short story collection, see The Marching Morons (collection)\n\n\"The Marching Morons\" is a science fiction story by American writer Cyril M. Kornbluth, originally published in Galaxy in April 1951. It was included in The Science Fiction Hall of Fame, Volume Two after being voted one of the best novellas up to 1965.\nThe story is set hundreds of years in the future: the date is 7-B-936. John Barlow, a man from the past put into suspended animation by a freak accident involving a dental drill and anesthesia, is revived in this future. The world seems mad to Barlow until Tinny-Peete explains the Problem of Population: due to a combination of intelligent people not having children and excessive breeding by less intelligent people (see Fertility and intelligence), the world is full of morons, with the exception of an elite few who work slavishly to keep order. Barlow, who was a shrewd real estate con man in his day, has a solution to sell to the elite, in exchange for being made World Dictator.", 
     "content_cleaned": true, 
     "classes": [

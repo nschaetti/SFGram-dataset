@@ -1,5 +1,6 @@
 {
     "content_name": "52574.txt.utf-8", 
+    "original_title": "The Forgotten Planet", 
     "author_name": "Murray Leinster", 
     "images_urls": [
         "http://www.gutenberg.org/files/52574/52574-h/images/cover.jpg", 
@@ -8,7 +9,10 @@
         "http://www.gutenberg.org/files/52574/52574-h/images/illus3.jpg"
     ], 
     "year": 1963, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/e/e8/Forgotten_planet.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 180, 
     "category": "Text", 
     "genres": [], 
@@ -41,7 +45,7 @@
     ], 
     "release_date": "2016-07-14T00:00:00", 
     "author": 61, 
-    "original_title": "The Forgotten Planet", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Forgotten Planet is a science fiction novel by American writer Murray Leinster. It was released in 1954 by Gnome Press in an edition of 5,000 copies. The novel is a fix-up from three short stories, \"The Mad Planet\" and \"The Red Dust\", both of which had originally appeared in the magazine Argosy in 1920 and 1921, and \"Nightmare Planet\", which had been published in Science Fiction Plus in 1953.", 
     "content_cleaned": true, 
     "classes": [

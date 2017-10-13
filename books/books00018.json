@@ -1,11 +1,14 @@
 {
     "content_name": "10002.txt.utf-8", 
     "isbn": "1426438281", 
-    "language_code": "eng", 
+    "original_title": "The House on the Borderland", 
+    "year": 1908, 
     "author_name": "William Hope Hodgson", 
     "images_urls": [], 
-    "year": 1908, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/b/b1/House_on_the_borderland_first.jpg"
+    ], 
     "id": 18, 
     "category": "Text", 
     "plot": "Tonnison and Berreggnog make a fishing holiday to the remote village of Kraighten in rural Ireland. On the third day of their stay, they stumble upon the ruins of a strangely shaped house on a large lake. They discover the mouldering journal of the Recluse, an unidentified man who recorded his last days in the house before its destruction.\nThe Recluse begins his journal with descriptions of how he acquired the house, along with his daily life with his sister and his faithful dog, Pepper. He started the diary to record the strange experiences and horrors occurring in and around the house. The Recluse relates a vision in which he travels to a remote and vast arena, \"the Plain of Silence\", surrounded by mountains with representations of mythological beast-gods, demons, and other \"bestial horrors\" on their slopes. In the center of the plain stands a house almost identical to his own, save that the house in the arena is much larger and appears to be made of a green jade-like substance. Along the way, he sees a huge, menacing humanoid with swine-like features.\nShortly after his vision of the \"arena,\" he is attacked by humanoid pig-like creatures that he names \"the swine-things\", which appear to come from the depths of a great chasm under the house. The struggle with these creatures lasts for several nights of increasing ferocity, but the man kills several of the creatures and drives them off. As he searches for the origin of the swine-things, the man finds a pit beyond the gardens where a river descends into the earth. There he finds a tunnel leading to the great chasm. A rock slide dams the water in the pit. The man is trapped, but Pepper rescues him. The house transports the Recluse to an unknown place called \"the Sea of Sleep\" where he briefly reunites with his lost love.\nTonnison and Berreggnog must stop reading there as the house collapse has destroyed much of the journal. Except for an enigmatic fragment, the book becomes unreadable between the passage describing \"the Sea of Sleep\" and a later entry titled \"The noise in the night\". They realise that the water from the dammed pit has overflowed to create the lake. They suppose that the destroyed section of the journal may have explained other mysteries about the house.\nAs the Recluse's story continues, he notices that the passage of day and night has increased in speed, eventually blurring into a never-ending twilight. As he watches, his surroundings decay and collapse to dust. The dead world slowly grinds to a halt and the sun goes out after several million millennia. Once the world ends, the man floats through space, seeing angelic, human, and demonic forms passing before his eyes. Later, he finds himself back in his own study on Earth, with everything apparently returned to normality, with one exception: Pepper is dead.\nThe malicious swine-beast from his earlier journeys to the \"arena\" has followed him back to his own dimension. The creature infects the man's new dog with a luminous fungal disease. Although the man shoots the suffering animal, he also contracts the disease. The manuscript ends with the man, by then partly covered by the fungal growth, locked (from the outside only) in his study as the creature comes through a trap door in the basement from the chasm under the house. As he ponders suicide to end his suffering, the creature tries to open the study door and the diary abruptly ends.\nTonnison and Berreggnog search for information about the man and his circumstances. They learn that the house was long believed to be evil before the unsociable old man and his elderly sister acquired it. Monthly supplies were brought in by a man who would say nothing about the Recluse. After several years, the man returned early one day from his delivery trip and said that the house had mysteriously fallen into the chasm. The two travellers leave Kraighten and never return. The novel ends with a five-verse poem titled \"Grief\", found behind the fly-leaf of the diary.", 
@@ -54,7 +57,7 @@
     ], 
     "release_date": "2003-11-01T00:00:00", 
     "author": 11, 
-    "original_title": "The House on the Borderland", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The House on the Borderland (1908) is a supernatural horror novel by British fantasist William Hope Hodgson. The novel is a hallucinatory account of a recluse's stay at a remote house, and his experiences of supernatural creatures and otherworldly dimensions.\nAmerican horror writer H. P. Lovecraft listed The House on the Borderland and other works by Hodgson among his greatest influences, and Terry Pratchett has called the novel \"the Big Bang in my private universe as a science fiction and fantasy reader and, later, writer\".", 
     "content_cleaned": true, 
     "classes": [

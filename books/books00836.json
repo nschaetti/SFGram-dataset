@@ -1,9 +1,14 @@
 {
     "content_name": "16721.txt.utf-8", 
+    "original_title": "A Place So Foreign and Eight More", 
     "author_name": "Cory Doctorow", 
     "images_urls": [], 
     "year": 2000, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b4/Saturn_%28planet%29_large.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/archive/b/b4/20150823045304%21Saturn_%28planet%29_large.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/archive/b/b4/20061204011152%21Saturn_%28planet%29_large.jpg"
+    ], 
     "id": 836, 
     "category": "Text", 
     "genres": [], 
@@ -36,7 +41,7 @@
     ], 
     "release_date": "2005-09-19T00:00:00", 
     "author": 33, 
-    "original_title": "A Place So Foreign and Eight More", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "A Place So Foreign and Eight More is a collection of short stories by Canadian-British writer Cory Doctorow. Six of these stories were released electronically under a Creative Commons license. A paperback edition was issued in New York by publisher Four Walls Eight Windows in 2003 with ISBN 1-56858-286-2. The collection features an introduction by Bruce Sterling, and includes \"0wnz0red\", which was nominated for the 2003 Nebula Award for Best Novelette.\n\n", 
     "content_cleaned": false, 
     "classes": [], 

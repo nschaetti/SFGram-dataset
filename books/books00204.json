@@ -1,12 +1,16 @@
 {
     "content_name": "20154.txt.utf-8", 
     "isbn": "1434401049", 
+    "original_title": "Invaders from the Infinite", 
     "author_name": "Jr. John W. Campbell", 
     "images_urls": [
         "http://www.gutenberg.org/files/20154/20154-h/images/ifti001.jpg"
     ], 
     "year": 1961, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/2/20/Invaders_from_the_infinite.jpg", 
+        "https://upload.wikimedia.org/wikipedia/en/d/d7/Invaders_from_the_infinite_fp.jpg"
+    ], 
     "id": 204, 
     "category": "Text", 
     "genres": [], 
@@ -61,7 +65,7 @@
     ], 
     "release_date": "2006-12-20T00:00:00", 
     "author": 41, 
-    "original_title": "Invaders from the Infinite", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Invaders from the Infinite is a science fiction novel by American writer John W. Campbell, Jr.. It was simultaneously published in 1961 by Gnome Press in an edition of 4,000 copies and by Fantasy Press in an edition of 100 copies. The book was originally intended to be published by Fantasy Press, but was handed over to Gnome Press when Fantasy Press folded. Lloyd Eshbach, of Fantasy Press, who was responsible for the printing of both editions, printed the extra copies for his longtime customers. The Fantasy Press edition was issued without a dust-jacket. Eshbach eventually did produce a jacket in 1990 at the urging of George Zebrowski. The novel is an expansion of stories that originally appeared in the magazine Amazing Stories Quarterly.\nE. F. Bleiler described the novel as \"the early John W. Campbell story par excellence: weak novelistic skills combined with very strong speculative, imaginative theoretical physics. While one may be bored with [the] interminable lectures and rendered drowsy by the repeated space battles, but one must also admire Campbell's ingenuity in creating novel artifacts\".", 
     "content_cleaned": false, 
     "classes": [

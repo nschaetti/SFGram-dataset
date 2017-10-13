@@ -1,11 +1,15 @@
 {
     "content_name": "8086.txt.utf-8", 
     "isbn": "076530953X", 
-    "language_code": "en-US", 
+    "original_title": "Down and Out in the Magic Kingdom", 
+    "year": 2003, 
     "author_name": "Cory Doctorow", 
     "images_urls": [], 
-    "year": 2003, 
-    "images": [], 
+    "language_code": "en-US", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/4/49/Downandout.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg"
+    ], 
     "id": 87, 
     "category": "Text", 
     "plot": "The story is told in first person by Julius, whose old college buddy Dan used to be one of the most popular people in the country (as measured by Whuffie). Julius and girlfriend Lil are working with the committee (called an ad hoc) that oversees the Magic Kingdom's Liberty Square. Dan, who has hit rock bottom and lost all his Whuffie, doesn't believe in rejuvenation and wishes to die, but not while he's at rock bottom. He moves in with Julius and Lil in order to rebuild his life. At the park, Julius is murdered and soon refreshed. By the time he wakes up, Debra's ad hoc group has taken control of the Hall of Presidents, and is planning to replace its old-fashioned animatronic robots with the synthetic memory imprinting of the experience of being the president for a moment. Julius believes that this rival committee had him killed as a distraction so that they could seize the Hall in the interim.\nFearing that they will next try to revamp his favorite ride, the Haunted Mansion, he resolves to take a stand against the virtualization of the park, endangering his relationship with both Lil and Dan; eventually Lil leaves Julius for Dan. Julius finally \u201ccracks\u201d when he sees his dreams turned to dust and he bashes up the attractions in the Hall of Presidents, in the process also damaging his own cranial interface to the point that he can no longer back himself up. This pushes his Whuffie to ground level when he is caught and gives Debra and her colleagues enough \u201csympathy Whuffie\u201d to take over the Haunted Mansion, by invitation of the same fans that Julius had recruited to work in the Mansion.\nDan leaves Lil, Julius is kicked out of the ad hoc and his Whuffie hits rock bottom \u2014 low enough that others take his possessions with impunity and elevators don\u2019t stop for him. Then comes the revelation: a few days before Dan's planned suicide by lethal injection, Dan reveals that it was in fact he who had arranged to kill Julius, in collusion with Debra, in exchange for the Whuffie that her team could give him. Dan had asked one of his converts from his missionary days, a young girl, to do the dirty work. Debra then had herself restored from a backup made before this plan, so that she would honestly believe that she wasn't involved. He makes this public; Debra is thrown out, Julius gets sympathy Whuffie and, ironically enough, he develops a friendly affection for his sweet young murderer. He never restores himself, because doing so would erase his memories of that entire year, his last with Dan, but lives with his damaged interface. The book is his attempt to manually document the happenings of the previous year so that, when this incarnation is eventually killed by age or accident, his restored backup will have a partial record of the transpiring events. Dan decides not to take a lethal injection, but to deadhead (putting oneself into a voluntary coma) till the heat death of the Universe.", 
@@ -58,7 +62,7 @@
     ], 
     "release_date": "2005-05-01T00:00:00", 
     "author": 33, 
-    "original_title": "Down and Out in the Magic Kingdom", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Down and Out in the Magic Kingdom is a 2003 science fiction book, the first novel by Canadian author and digital-rights activist Cory Doctorow. Concurrent with its publication by Tor Books, Doctorow released the entire text of the novel under a Creative Commons noncommercial license on his website, allowing the whole text of the book to be freely read and distributed without needing any further permission from him or his publisher.\nThe novel was nominated for the Nebula Award for Best Novel in 2004.", 
     "content_cleaned": true, 
     "classes": [

@@ -1,7 +1,8 @@
 {
     "content_name": "27444.txt.utf-8", 
     "isbn": "0696809532", 
-    "language_code": "eng", 
+    "original_title": "Starman's Quest", 
+    "year": 1958, 
     "author_name": "Robert Silverberg", 
     "images_urls": [
         "http://www.gutenberg.org/files/27444/27444-h/images/001.jpg", 
@@ -194,8 +195,12 @@
         "http://www.gutenberg.org/files/27444/27444-page-images/r0001.png", 
         "http://www.gutenberg.org/files/27444/27444-page-images/s0001.png"
     ], 
-    "year": 1958, 
-    "images": [], 
+    "language_code": "eng", 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/Robert_Silverberg_OTRS.jpg", 
+        "https://upload.wikimedia.org/wikipedia/en/4/40/Starmans_quest.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 209, 
     "category": "Text", 
     "genres": [], 
@@ -250,7 +255,7 @@
     ], 
     "release_date": "2008-12-07T00:00:00", 
     "author": 50, 
-    "original_title": "Starman's Quest", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Starman's Quest is a science fiction novel by American writer Robert Silverberg. It was published in 1958 by Gnome Press in an edition of 5,000 copies, of which only 3,000 were bound. It was reprinted as a second edition in hardcover by Meredith Press in 1969.\n\n", 
     "content_cleaned": true, 
     "classes": [

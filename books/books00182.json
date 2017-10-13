@@ -1,6 +1,7 @@
 {
     "content_name": "42183.txt.utf-8", 
     "isbn": "0937986216", 
+    "original_title": "Queen of the Black Coast (collection)", 
     "author_name": "Robert E. Howard", 
     "images_urls": [
         "http://www.gutenberg.org/files/42183/42183-h/images/cover.jpg"
@@ -60,7 +61,7 @@
     ], 
     "release_date": "2013-02-24T00:00:00", 
     "author": 22, 
-    "original_title": "Queen of the Black Coast (collection)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Queen of the Black Coast is a 1978 collection of two fantasy short stories written by Robert E. Howard featuring his sword and sorcery hero Conan the Barbarian. The book was published in 1978 by Donald M. Grant, Publisher, Inc. as volume VII of their deluxe Conan set. The title story originally appeared in the magazine Weird Tales. \"The Vale of Lost Women\" first appeared in The Magazine of Horror.", 
     "content_cleaned": true, 
     "classes": [

@@ -1,6 +1,7 @@
 {
     "content_name": "1607.txt.utf-8", 
     "isbn": "0803259492", 
+    "original_title": "A Journey in Other Worlds", 
     "author_name": "John Jacob Astor", 
     "images_urls": [
         "http://www.gutenberg.org/files/1607/1607-h/images/ajiow_artic_circle.jpg", 
@@ -18,7 +19,9 @@
         "http://www.gutenberg.org/files/1607/1607-h/images/ajiow_the_return.jpg"
     ], 
     "year": 1894, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg"
+    ], 
     "id": 199, 
     "category": "Text", 
     "genres": [], 
@@ -74,7 +77,7 @@
     ], 
     "release_date": "1999-01-01T00:00:00", 
     "author": 66, 
-    "original_title": "A Journey in Other Worlds", 
+    "cover": "https://images.gr-assets.com/books/1328820922l/1132373.jpg", 
     "summary": "A Journey in Other Worlds: A Romance of the Future is a science fiction novel by John Jacob Astor IV, published in 1894.", 
     "content_cleaned": false, 
     "classes": [

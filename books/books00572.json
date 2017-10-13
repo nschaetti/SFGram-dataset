@@ -1,12 +1,15 @@
 {
     "content_name": "20519.txt.utf-8", 
     "isbn": "1603122052", 
+    "original_title": "Highways in Hiding", 
     "author_name": "George O. Smith", 
     "images_urls": [
         "http://www.gutenberg.org/files/20519/20519-h/images/cover.jpg"
     ], 
     "year": 1956, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/4/42/Highways_in_hiding.jpg"
+    ], 
     "id": 572, 
     "category": "Text", 
     "plot": "The novel concerns ESP and a disease that turns men into supermen. It contains multiple plotlines concerning the interactions of people that can sense things (espers) and people that can read thoughts (telepaths). This is set against the plot of a secret society that is harboring people that are infected with a spaceborne illness called Mekstrom's Disease. The disease is the point on which the plot turns. People get infected and it slowly turns them into a sort of rock. The hardening begins at one of the extremities such as a finger or toe and slowly begins to creep up the infected limb. Eventually all the extremities are hardening and the disease makes its way to the body proper. At this point, the body is hardened until the vitals fail and the patient dies. The plot turns on a secret society that has found a cure for the infected. To hide themselves from the public at large they have devised a hidden highway program that leads the infected to \"Mekstrom safehouses\" of sorts.", 
@@ -44,7 +47,7 @@
     ], 
     "release_date": "2007-02-06T00:00:00", 
     "author": 95, 
-    "original_title": "Highways in Hiding", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Highways in Hiding is a science fiction novel by American writer George O. Smith. It was published in 1956 by Gnome Press in an edition of 4,000 copies. The novel was originally serialized in the magazine Imagination in 1955. An abridged version was published by Avon Books in 1957 under the title Space Plague.", 
     "content_cleaned": true, 
     "classes": [

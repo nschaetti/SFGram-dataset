@@ -63,7 +63,7 @@
         "Girl in The Glass (The Healer's Shadow #1)", 
         "Velvet Valentines (Club Velvet Ice #2)"
     ], 
-    "content_available": false, 
+    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/23210", 
         "num": 23210
@@ -77,6 +77,7 @@
     ], 
     "release_date": "2007-10-27T00:00:00", 
     "author": 63, 
+    "cover": "https://images.gr-assets.com/books/1441034025l/4935233.jpg", 
     "classes": [
         "to-read", 
         "currently-reading", 
@@ -152,6 +153,6 @@
         "mr-formatted", 
         "first-read-2012"
     ], 
-    "loc_class": "PS: Language and Literatures: American and Canadian literature", 
+    "content_available": false, 
     "n_authors": 1
 }

@@ -1,5 +1,6 @@
 {
     "content_name": "32832.txt.utf-8", 
+    "original_title": "Piper in the Woods", 
     "language_code": "eng", 
     "author_name": "Philip K. Dick", 
     "images_urls": [
@@ -63,7 +64,7 @@
     ], 
     "release_date": "2010-06-16T00:00:00", 
     "author": 8, 
-    "original_title": "Piper in the Woods", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Piper in the Woods is a science fiction short story by Philip K. Dick, first published in 1953 in Imagination, and later in The Collected Stories of Philip K. Dick. It has since been republished several times, including in Beyond Lies the Wub in 1988.", 
     "content_cleaned": true, 
     "classes": [

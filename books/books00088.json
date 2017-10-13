@@ -1,10 +1,10 @@
 {
     "content_name": "149.txt.utf-8", 
     "isbn": "1600961509", 
-    "language_code": "eng", 
+    "year": 1916, 
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
-    "year": 1916, 
+    "language_code": "eng", 
     "id": 88, 
     "category": "Text", 
     "genres": [], 
@@ -58,6 +58,7 @@
     ], 
     "release_date": "1994-07-01T00:00:00", 
     "author": 2, 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "content_cleaned": true, 
     "classes": [
         "to-read", 

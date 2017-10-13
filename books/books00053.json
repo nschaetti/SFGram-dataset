@@ -1,7 +1,8 @@
 {
     "content_name": "32530.txt.utf-8", 
     "isbn": "0441029396", 
-    "language_code": "eng", 
+    "original_title": "Armageddon 2419 A.D.", 
+    "year": 1928, 
     "author_name": "Philip Francis Nowlan", 
     "images_urls": [
         "http://www.gutenberg.org/files/32530/32530-h/images/001.png", 
@@ -13,7 +14,7 @@
         "http://www.gutenberg.org/files/32530/32530-h/images/007-1.jpg", 
         "http://www.gutenberg.org/files/32530/32530-h/images/007-2.jpg"
     ], 
-    "year": 1928, 
+    "language_code": "eng", 
     "images": [
         "https://upload.wikimedia.org/wikipedia/en/e/ee/Armageddon2419.jpg", 
         "https://upload.wikimedia.org/wikipedia/commons/4/47/Amazing_stories_192903.jpg", 
@@ -70,7 +71,7 @@
     ], 
     "release_date": "2010-05-26T00:00:00", 
     "author": 20, 
-    "original_title": "Armageddon 2419 A.D.", 
+    "cover": "https://images.gr-assets.com/books/1264374652l/627939.jpg", 
     "summary": "Armageddon 2419 A.D. is Philip Francis Nowlan's novella which first appeared in the August 1928 issue of the pulp magazine Amazing Stories. A sequel called The Airlords of Han was published in the March 1929 issue of Amazing Stories. Both stories are now in the public domain in the US according to the Project Gutenberg website. In the 1960s, Nowlan's two novellas were combined by editor Donald A. Wollheim into one paperback novel, titled Armageddon 2419 A.D. The characters and setting eventually evolved into Buck Rogers.", 
     "content_cleaned": true, 
     "classes": [

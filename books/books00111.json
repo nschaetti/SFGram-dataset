@@ -1,10 +1,13 @@
 {
     "content_name": "553.txt.utf-8", 
     "isbn": "1595402284", 
+    "original_title": "Out of Time's Abyss", 
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
     "year": 1918, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/c/c2/Out_of_Times_Abyss.jpg"
+    ], 
     "id": 111, 
     "category": "Text", 
     "plot": "The book begins with Bradley, who had left Fort Dinosaur on an expedition in the first novel and never returned. Bradley and his party are attempting to return to Fort Dinosaur. Along the way, they encounter a creature which appears to be a flying dead man. Some of the members of the party consider it to be a ghost or banshee. Tippet is convinced that he is soon to die, and the next day he is killed by a Tyrannosaurus. The ghost-like creature is seen again, and James is killed by a Smilodon. Bradley disappears during the night, and the remaining members of the party make it safely to Fort Dinosaur.\nBradley had been captured by the ghost-like creature, which is soon revealed to be a naturally winged human being, belonging to a subgroup of humanity known as the Wieroo. The Wieroo takes Bradley to the island of Oo-oh, set in Caspak's inland sea. It attempts to keep Bradley in a prison, but he escapes through a secret passage. He meets Co-Tan, a member of the highest human race of mainland Caspak, the Galu, fully human and of a neolithic cultural level. They enter the chamber of the Wieroo king, a huge member of the race, and Bradley kills the creature with its own sword.\nCo-Tan and Bradley escape the city of the Wieroo and live for several months on the forested coast of Oo-oh. Finally, though, they are discovered by Wieroo. They succeed in capturing two of the Wieroo and forcing them to fly to the mainland, one bearing each of the humans.\nOn the Caspakian mainland, Co-Tan and Bradley meet the party from the outside world from the previous two books, and they return home to America, where Bradley will marry Co-Tan.", 
@@ -56,7 +59,7 @@
     ], 
     "release_date": "1996-06-01T00:00:00", 
     "author": 2, 
-    "original_title": "Out of Time's Abyss", 
+    "cover": "https://images.gr-assets.com/books/1391794329l/1397217.jpg", 
     "summary": "Out of Time\u2019s Abyss is a fantasy-science fiction novel by American writer Edgar Rice Burroughs, the third of his Caspak trilogy. The sequence was first published in Blue Book Magazine as a three-part serial in the issues for September, October and November 1918, with Out of Time's Abyss forming the third installment. The complete trilogy was later combined for publication in book form under the title of The Land That Time Forgot (the title of the first part) by A. C. McClurg in June 1924. Beginning with the Ace Books editions of the 1960s, the three segments have usually been issued as separate short novels.\n\n", 
     "content_cleaned": true, 
     "classes": [

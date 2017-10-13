@@ -1,10 +1,13 @@
 {
     "content_name": "11870.txt.utf-8", 
     "isbn": "1374906565", 
+    "original_title": "The Country of the Blind and Other Stories", 
     "author_name": "H. G. Wells", 
     "images_urls": [], 
     "year": 1911, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Wells_CountryOfTheBlindStories%281st_edition%29.jpg"
+    ], 
     "id": 49, 
     "category": "Text", 
     "genres": [], 
@@ -32,14 +35,14 @@
     "authors": [
         1
     ], 
-    "isbn13": "9781374906563", 
     "language": "English", 
+    "isbn13": "9781374906563", 
     "countries": [
         1
     ], 
     "release_date": "2004-04-01T00:00:00", 
     "author": 1, 
-    "original_title": "The Country of the Blind and Other Stories", 
+    "cover": "https://images.gr-assets.com/books/1500743114l/35752479.jpg", 
     "summary": "The Country of the Blind and Other Stories is a collection of thirty-three fantasy and science fiction short stories written by the English author H. G. Wells between 1894 and 1909. It was first published by Thomas Nelson and Sons in 1911. All the stories had first been published in various weekly and monthly periodicals. Twenty-seven of the stories had also been previously published in five earlier story collections by Wells.\nThe title of this collection refers to one of Wells's best known short stories, \"The Country of the Blind\", which is included in this book.", 
     "content_cleaned": false, 
     "classes": [

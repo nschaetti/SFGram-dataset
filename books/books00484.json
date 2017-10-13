@@ -1,6 +1,7 @@
 {
     "content_name": "7303.txt.utf-8", 
     "isbn": "1846379679", 
+    "original_title": "Equality (novel)", 
     "author_name": "Edward Bellamy", 
     "images_urls": [], 
     "year": 1897, 
@@ -38,7 +39,7 @@
     ], 
     "release_date": "2005-01-01T00:00:00", 
     "author": 21, 
-    "original_title": "Equality (novel)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Equality is a utopian novel by Edward Bellamy, and the sequel to Looking Backward: 2000\u20131887. It was first published in 1897. The book contains a minimal amount of plot; Bellamy primarily used Equality to expand on the theories he first explored in Looking Backward.\nThe text is now in the public domain and available for free.\n\n", 
     "content_cleaned": true, 
     "classes": [

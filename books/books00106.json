@@ -1,6 +1,7 @@
 {
     "content_name": "31979.txt.utf-8", 
     "isbn": "146380136X", 
+    "original_title": "The Tunnel under the World", 
     "author_name": "Frederik Pohl", 
     "images_urls": [
         "http://www.gutenberg.org/files/31979/31979-h/images/cover.jpg", 
@@ -80,7 +81,7 @@
     ], 
     "release_date": "2010-04-14T00:00:00", 
     "author": 40, 
-    "original_title": "The Tunnel under the World", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"The Tunnel under the World\" is a science fiction short story by American writer Frederik Pohl. It was first published in 1955 in Galaxy magazine. It has often been anthologised, appearing among the others in The Golden Age of Science Fiction, edited by Kingsley Amis (1981).", 
     "content_cleaned": true, 
     "classes": [

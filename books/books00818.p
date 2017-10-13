@@ -111,21 +111,25 @@ p53
 sS'author'
 p54
 I261
-sS'content_cleaned'
+sS'cover'
 p55
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p56
+sS'content_cleaned'
+p57
 I01
 sS'classes'
-p56
-(lp57
-Vcalibre
 p58
-aVto-read
-p59
-asS'loc_class'
+(lp59
+Vcalibre
 p60
-VPS: Language and Literatures: American and Canadian literature
+aVto-read
 p61
-sS'n_authors'
+asS'loc_class'
 p62
+VPS: Language and Literatures: American and Canadian literature
+p63
+sS'n_authors'
+p64
 I1
 sb.

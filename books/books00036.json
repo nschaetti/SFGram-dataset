@@ -1,5 +1,6 @@
 {
     "content_name": "29132.txt.utf-8", 
+    "original_title": "The Gun (short story)", 
     "language_code": "eng", 
     "author_name": "Philip K. Dick", 
     "images_urls": [
@@ -63,7 +64,7 @@
     ], 
     "release_date": "2009-06-15T00:00:00", 
     "author": 8, 
-    "original_title": "The Gun (short story)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Gun is a science fiction short story by Philip K. Dick, first published in 1952 September issue of Planet Stories, and later published in Beyond Lies the Wub in 1984. \"The Gun\" has been published in Italian, German, French and Polish translations.\n\n", 
     "content_cleaned": true, 
     "classes": [

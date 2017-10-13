@@ -1,5 +1,6 @@
 {
     "content_name": "30240.txt.utf-8", 
+    "original_title": "Tomorrow and Tomorrow and Tomorrow (short story)", 
     "language_code": "eng", 
     "author_name": "Kurt Vonnegut", 
     "images_urls": [
@@ -63,7 +64,7 @@
     ], 
     "release_date": "2009-10-13T00:00:00", 
     "author": 4, 
-    "original_title": "Tomorrow and Tomorrow and Tomorrow (short story)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"Tomorrow and Tomorrow and Tomorrow\" is a short story by Kurt Vonnegut originally written in 1953. It was first published in Galaxy Science Fiction magazine in January 1954, where the story was titled \"The Big Trip Up Yonder\", which is the protagonist's euphemism for dying. A revised version bearing the title \"Tomorrow and Tomorrow and Tomorrow\" appeared in Vonnegut's collection of short stories, Canary in a Cat House (1961), and was reprinted in Welcome to the Monkey House (1968). The new title comes from the famous line in Shakespeare's play Macbeth starting \"Tomorrow and tomorrow and tomorrow\".", 
     "content_cleaned": true, 
     "classes": [

@@ -1,5 +1,6 @@
 {
     "content_name": "31619.txt.utf-8", 
+    "original_title": "The Planet Savers", 
     "author_name": "Marion Zimmer Bradley", 
     "images_urls": [
         "http://www.gutenberg.org/files/31619/31619-h/images/i085.jpg", 
@@ -9,7 +10,10 @@
         "http://www.gutenberg.org/files/31619/31619-h/images/icover.jpg"
     ], 
     "year": 1958, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg", 
+        "https://upload.wikimedia.org/wikipedia/en/e/ed/Planet_savers.jpg"
+    ], 
     "id": 154, 
     "category": "Text", 
     "plot": "Desperate to discover a cure for the cyclical 48-year-fever, known as Trailmen\u2019s fever, Dr. Randall Forth persuades a colleague, Dr. Jay Allison, to undergo hypnosis. He calls forth a secondary personality, Jason Allison, who is gregarious and an experienced mountain climber, while Dr. Jay Allison is a cold, clinical man with no outdoor skills.\nJason is asked to lead an expedition into the Hellers to collect medical volunteers from among the Trailmen. Accompanying him are Rafe Scott, Regis Hastur, Kyla Raineach, a Renunciate guide, and several others. During the trip, Jay/Jason yo-yos between his two personalities \u2013 one warm and charming, the other distant and clinical. Jason, the warm personality, falls in love with Kyla.\nThey are attacked on the trail by a party of hostile Trailwomen. As a result of the attack, the Jay personality reappears, and is considerably more formal than the Jason personality. When they reach the Trailmen nest where Jay/Jason lived as a child, he is recognized. The party is invited into the Trailmen\u2019s tree habitat.\nThe Old Ones of the Sky People (Trailmen) inquire why Jay/Jason has brought an armed party of humans to their nest. Jay/Jason explains his mission, to find a remedy for 48-year-fever. He introduces Regis Hastur to the Old Ones, and Regis also pleads for the Sky People\u2019s assistance. One hundred Trailmen volunteer. The party, with volunteers, returns to the Terran Trade City.\nSome months later, a serum is developed for the treatment of 48-year-fever. Regis Hastur arrives to congratulate Jay/Jason Allison. The exposure to Regis reminds Jay/Jason of the expedition, and causes Jay/Jason to merge into a third, more stable personality.", 
@@ -61,7 +65,7 @@
     ], 
     "release_date": "2010-03-13T00:00:00", 
     "author": 25, 
-    "original_title": "The Planet Savers", 
+    "cover": "https://images.gr-assets.com/books/1391846320l/11406971.jpg", 
     "summary": "The Planet Savers is a science fantasy novel by American writer Marion Zimmer Bradley, part of her Darkover series. It was first published in book form in English by Ace Books in 1962, dos-\u00ef\u00bf\u00bd-dos with Bradley's novel The Sword of Aldones. The story first appeared in the November 1958 issue of the magazine Amazing Stories. It subsequently appeared in a German translation in 1960 with additional chapters added that were not by the author.\nThe Planet Savers takes place at least 152 years after the events described in Rediscovery.\n\n", 
     "content_cleaned": true, 
     "classes": [

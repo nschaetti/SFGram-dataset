@@ -119,23 +119,27 @@ p56
 sS'author'
 p57
 I79
-sS'content_cleaned'
+sS'cover'
 p58
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p59
+sS'content_cleaned'
+p60
 I01
 sS'classes'
-p59
-(lp60
-Vto-read
 p61
-aVowned-pending-kindle-free-ebook
-p62
-aVfeedbooks-com
+(lp62
+Vto-read
 p63
-asS'loc_class'
+aVowned-pending-kindle-free-ebook
 p64
-VPS: Language and Literatures: American and Canadian literature
+aVfeedbooks-com
 p65
-sS'n_authors'
+asS'loc_class'
 p66
+VPS: Language and Literatures: American and Canadian literature
+p67
+sS'n_authors'
+p68
 I1
 sb.

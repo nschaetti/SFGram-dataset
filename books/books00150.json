@@ -1,12 +1,16 @@
 {
     "content_name": "41905.txt.utf-8", 
+    "original_title": "Captives of the Flame", 
     "language_code": "eng", 
     "author_name": "Samuel R. Delany", 
     "images_urls": [
         "http://www.gutenberg.org/files/41905/41905-h/images/cover.jpg"
     ], 
     "year": 1963, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png", 
+        "https://upload.wikimedia.org/wikipedia/en/c/c5/Delany_Captives-of-the-Flame.jpg"
+    ], 
     "id": 150, 
     "category": "Text", 
     "genres": [], 
@@ -42,7 +46,7 @@
     ], 
     "release_date": "2013-01-24T00:00:00", 
     "author": 46, 
-    "original_title": "Captives of the Flame", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Captives of the Flame is a 1963 science fantasy novel by Samuel R. Delany, and is the first novel in the \"Fall of the Towers\" trilogy. The novel was originally published as Ace Double F-199 together with The Psionic Menace by Keith Woodcott (a pseudonym of John Brunner). It was later rewritten as Out of the Dead City and published by Signet Books in 1968.\nThe stories of the Fall of the Towers trilogy were originally set in the same post-holocaust Earth as Delany's earlier The Jewels of Aptor; linking references, however, were removed in later revised editions.", 
     "content_cleaned": true, 
     "classes": [

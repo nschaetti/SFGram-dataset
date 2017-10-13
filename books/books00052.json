@@ -1,10 +1,11 @@
 {
     "content_name": "545.txt.utf-8", 
     "isbn": "0809599783", 
-    "language_code": "eng", 
+    "original_title": "At the Earth's Core (novel)", 
+    "year": 1914, 
     "author_name": "Edgar Rice Burroughs", 
     "images_urls": [], 
-    "year": 1914, 
+    "language_code": "eng", 
     "images": [
         "https://upload.wikimedia.org/wikipedia/en/2/2f/AtTheEarthsCore.jpg", 
         "https://upload.wikimedia.org/wikipedia/commons/8/8a/At_the_Earths_Core_1922_Dusk_Jacket.jpg"
@@ -59,7 +60,7 @@
     ], 
     "release_date": "2005-08-01T00:00:00", 
     "author": 2, 
-    "original_title": "At the Earth's Core (novel)", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "At the Earth's Core is a 1914 fantasy novel by American writer Edgar Rice Burroughs, the first in his series about the fictional \"hollow earth\" land of Pellucidar. It first appeared as a four-part serial in All-Story Weekly from April 4\u201325, 1914. It was first published in book form in hardcover by A. C. McClurg in July, 1922.", 
     "content_cleaned": true, 
     "classes": [

@@ -16,297 +16,303 @@ V33644.txt.utf-8
 p7
 sS'isbn'
 p8
-NsS'year'
+NsS'cover'
 p9
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+p10
+sS'year'
+p11
 I1959
 sS'author_name'
-p10
-VDonald A. Wollheim
-p11
-sS'images_urls'
 p12
-(lp13
-Vhttp://www.gutenberg.org/files/33644/33644-h/images/cover.jpg
+VDonald A. Wollheim
+p13
+sS'images_urls'
 p14
-aVhttp://www.gutenberg.org/files/33644/33644-h/images/illus.jpg
-p15
-aVhttp://www.gutenberg.org/files/33644/33644-h/images/title.jpg
+(lp15
+Vhttp://www.gutenberg.org/files/33644/33644-h/images/cover.jpg
 p16
-asS'language_code'
+aVhttp://www.gutenberg.org/files/33644/33644-h/images/illus.jpg
 p17
-NsS'images'
+aVhttp://www.gutenberg.org/files/33644/33644-h/images/title.jpg
 p18
-(lp19
-sS'id'
+asS'language_code'
+p19
+NsS'images'
 p20
+(lp21
+Vhttps://upload.wikimedia.org/wikipedia/en/7/7f/TheSecretOfTheNinthPlanet.jpg
+p22
+asS'id'
+p23
 I301
 sS'category'
-p21
-VText
-p22
-sS'plot'
-p23
-VHelping his father on an archeological expedition in the Peruvian Andes, Burl Denning looks forward to studying engineering when he enters college in the fall. The expedition\u2019s study of Inca ruins is interrupted by the arrival of a small guided missile from California. Inside the missile they find a message informing them that over the past several days the sun\u2019s light has dimmed all over the world, threatening the onset of a new ice age, and that the source of the dimming has been traced to a point seven miles from their camp.\u000aBurl and his father hike to the location they were given and come to a dome surrounded by a wall. Inside the dome they find alien machinery that will not respond to their manipulations of the controls. Burl tries to pick up a small sphere and it blasts him with what feels like an electric shock. He then discovers that the controls will respond to him, so he shuts down the installation and sees immediately that the sunlight outside the dome has returned to normal.\u000aPicked up by the military and taken to California, the Dennings are told that astronomers have detected a dimming of sunlight on Mercury and Mars and suspect it\u2019s occurring on the other planets as well. Worse, calculations show that if the Sun-stealers\u2019 program continues, the sun will blow up as a nova in two to three years. Fortunately the means to solve the problem stands readily at hand for those who dare to use it \u2013 a giant spaceship propelled by an experimental antigravity drive.\u000aBurl is told that, unlike Cavorite, which H.G. Wells described in First Men in the Moon, the drive on A-G 17 (also called Magellan) is an active device, requiring thermonuclear reactors to provide the necessary power. The drive can produce attraction as well as attraction of gravitational fields and it can concentrate the force, enabling the ship to produce tremendous accelerations. With Burl on board, the crew takes the ship into space and grabs the sun\u2019s gravitational field to pull the ship onto a trajectory that will take it to Venus.\u000aAn error in their understanding of the A-G drive leads them to shoot past Venus, so they go to Mercury instead. There, protected by parasols, the wrecking crew invades the Sun-tap station and Burl shuts it down. An alarm flashes and some time later, just as the men have finished photographing the station, the station destroys itself, saving the Earthmen the need to bomb it. They then head out to Venus.\u000aThey find the Sun-tap station on Venus sitting on a wide mudbar in the middle of a shallow, planet-wide ocean. Inside the station Burl shuts down the alarm and then shuts down the station. Then he and his two companions must fight their way past a large, flesh-eating amoeba on their way to the helicopter that will take them back to Magellan.\u000aMars is their next stop. While they pass close to Earth they learn that the Sun-tap transmissions have been traced and they point to Pluto as their destination. On Mars the men discover that the Sun-tap station has been built underneath a Martian city. Again Burl shuts down the alarm and then the station as the other men on his team take pictures and set a tactical atomic bomb to destroy the place. On their way out Boulton fires his gun at what looks like another alarm and is hit by a bolt of electricity. Fighting their way through a mob of the ant-like Martians, they return to Magellan and set course for Jupiter.\u000aOn the way Boulton tries to sabotage the ship, but when Burl grapples with him in an effort to stop him both men are knocked out by a flash of light. When they regain consciousness they find that Boulton is back to normal, the electric contact with Burl having freed him from the alien compulsion.\u000aThe Jovian Sun-tap station sits on Callisto. Burl shuts it down and he and his two companions leave immediately, barely escaping the explosion of the booby-trapped station destroying itself.\u000aPartway to Saturn they encounter a Plutonian ship, a dumbbell shaped, globe-and-rod craft that launches what looks like a lightning bolt at Magellan. The bolt is absorbed by the bazooka rocket that the men had already launched at the alien ship. A tactical atomic bomb on a rocket obliterates half of the Plutonian ship, which flees.\u000aAt Saturn they find the Sun-tap station on Iapetus and, wary of booby traps, drop an H-bomb on it. At Uranus the Sun-tap station sits on Oberon and again they wipe it out with a bomb. Then they head toward Pluto, figuring that they will hit the Sun-tap station at Neptune on their way home. They soon overtake the half-ruined Plutonian ship, which hits Magellan with an energy bolt that nearly cripples the ship, but then Burl obliterates the alien completely with an atomic blast.\u000aArriving at Pluto, an Earth-sized world, the Earthmen discover the last Plutonian city at the north pole with two dumbbell ships hovering over it. They put Magellan into a low equatorial orbit to avoid being spotted while they finish repairing the ship.\u000aBurl and two companions go down to the surface to explore, working their way north and landing their small rocketship several times to examine a dead Plutonian city. Finally they come to within a mile of the planet\u2019s last stronghold. They infiltrate the place, set out a small atomic bomb with its timer set for four hours, and try to leave. Discovered and chased by Plutonians, Burl is trapped and knocked out.\u000aHe regains consciousness in a transparent enclosure on the surface of Triton, just outside the main temple of the Plutonians\u2019 lunar religion. He finds the controls and frees himself, then he joins a ragtag band of Neptunians while Magellan lures the two dumbbell ships out into space where the crew destroys them both. Inside the temple Burl finds the inner sanctum lined with glass cases containing aliens, including one of his companions, in suspended animation, waiting to be sacrificed. Burl battles the priests and smashes the cases in a desperate fight. As each alien regains consciousness it joins the fight and soon there are no more Plutonians.\u000aWith all of the Plutonians dead, the danger to the solar system is past. Burl sees then the people of other planets and of other stars coming together in peace and mutual understanding.
 p24
-sS'genres'
+VText
 p25
-(lp26
-sS'copyright'
+sS'plot'
+p26
+VHelping his father on an archeological expedition in the Peruvian Andes, Burl Denning looks forward to studying engineering when he enters college in the fall. The expedition\u2019s study of Inca ruins is interrupted by the arrival of a small guided missile from California. Inside the missile they find a message informing them that over the past several days the sun\u2019s light has dimmed all over the world, threatening the onset of a new ice age, and that the source of the dimming has been traced to a point seven miles from their camp.\u000aBurl and his father hike to the location they were given and come to a dome surrounded by a wall. Inside the dome they find alien machinery that will not respond to their manipulations of the controls. Burl tries to pick up a small sphere and it blasts him with what feels like an electric shock. He then discovers that the controls will respond to him, so he shuts down the installation and sees immediately that the sunlight outside the dome has returned to normal.\u000aPicked up by the military and taken to California, the Dennings are told that astronomers have detected a dimming of sunlight on Mercury and Mars and suspect it\u2019s occurring on the other planets as well. Worse, calculations show that if the Sun-stealers\u2019 program continues, the sun will blow up as a nova in two to three years. Fortunately the means to solve the problem stands readily at hand for those who dare to use it \u2013 a giant spaceship propelled by an experimental antigravity drive.\u000aBurl is told that, unlike Cavorite, which H.G. Wells described in First Men in the Moon, the drive on A-G 17 (also called Magellan) is an active device, requiring thermonuclear reactors to provide the necessary power. The drive can produce attraction as well as attraction of gravitational fields and it can concentrate the force, enabling the ship to produce tremendous accelerations. With Burl on board, the crew takes the ship into space and grabs the sun\u2019s gravitational field to pull the ship onto a trajectory that will take it to Venus.\u000aAn error in their understanding of the A-G drive leads them to shoot past Venus, so they go to Mercury instead. There, protected by parasols, the wrecking crew invades the Sun-tap station and Burl shuts it down. An alarm flashes and some time later, just as the men have finished photographing the station, the station destroys itself, saving the Earthmen the need to bomb it. They then head out to Venus.\u000aThey find the Sun-tap station on Venus sitting on a wide mudbar in the middle of a shallow, planet-wide ocean. Inside the station Burl shuts down the alarm and then shuts down the station. Then he and his two companions must fight their way past a large, flesh-eating amoeba on their way to the helicopter that will take them back to Magellan.\u000aMars is their next stop. While they pass close to Earth they learn that the Sun-tap transmissions have been traced and they point to Pluto as their destination. On Mars the men discover that the Sun-tap station has been built underneath a Martian city. Again Burl shuts down the alarm and then the station as the other men on his team take pictures and set a tactical atomic bomb to destroy the place. On their way out Boulton fires his gun at what looks like another alarm and is hit by a bolt of electricity. Fighting their way through a mob of the ant-like Martians, they return to Magellan and set course for Jupiter.\u000aOn the way Boulton tries to sabotage the ship, but when Burl grapples with him in an effort to stop him both men are knocked out by a flash of light. When they regain consciousness they find that Boulton is back to normal, the electric contact with Burl having freed him from the alien compulsion.\u000aThe Jovian Sun-tap station sits on Callisto. Burl shuts it down and he and his two companions leave immediately, barely escaping the explosion of the booby-trapped station destroying itself.\u000aPartway to Saturn they encounter a Plutonian ship, a dumbbell shaped, globe-and-rod craft that launches what looks like a lightning bolt at Magellan. The bolt is absorbed by the bazooka rocket that the men had already launched at the alien ship. A tactical atomic bomb on a rocket obliterates half of the Plutonian ship, which flees.\u000aAt Saturn they find the Sun-tap station on Iapetus and, wary of booby traps, drop an H-bomb on it. At Uranus the Sun-tap station sits on Oberon and again they wipe it out with a bomb. Then they head toward Pluto, figuring that they will hit the Sun-tap station at Neptune on their way home. They soon overtake the half-ruined Plutonian ship, which hits Magellan with an energy bolt that nearly cripples the ship, but then Burl obliterates the alien completely with an atomic blast.\u000aArriving at Pluto, an Earth-sized world, the Earthmen discover the last Plutonian city at the north pole with two dumbbell ships hovering over it. They put Magellan into a low equatorial orbit to avoid being spotted while they finish repairing the ship.\u000aBurl and two companions go down to the surface to explore, working their way north and landing their small rocketship several times to examine a dead Plutonian city. Finally they come to within a mile of the planet\u2019s last stronghold. They infiltrate the place, set out a small atomic bomb with its timer set for four hours, and try to leave. Discovered and chased by Plutonians, Burl is trapped and knocked out.\u000aHe regains consciousness in a transparent enclosure on the surface of Triton, just outside the main temple of the Plutonians\u2019 lunar religion. He finds the controls and frees himself, then he joins a ragtag band of Neptunians while Magellan lures the two dumbbell ships out into space where the crew destroys them both. Inside the temple Burl finds the inner sanctum lined with glass cases containing aliens, including one of his companions, in suspended animation, waiting to be sacrificed. Burl battles the priests and smashes the cases in a desperate fight. As each alien regains consciousness it joins the fight and soon there are no more Plutonians.\u000aWith all of the Plutonians dead, the danger to the solar system is past. Burl sees then the people of other planets and of other stars coming together in peace and mutual understanding.
 p27
-VPublic domain in the USA.
+sS'genres'
 p28
-sS'title'
-p29
-VThe Secret of the Ninth Planet
+(lp29
+sS'copyright'
 p30
-sS'wikipedia'
+VPublic domain in the USA.
 p31
-(dp32
-S'url'
+sS'title'
+p32
+VThe Secret of the Ninth Planet
 p33
-Vhttps://en.wikipedia.org/wiki/The_Secret_of_the_Ninth_Planet
+sS'wikipedia'
 p34
+(dp35
+S'url'
+p36
+Vhttps://en.wikipedia.org/wiki/The_Secret_of_the_Ninth_Planet
+p37
 sS'found'
-p35
+p38
 I01
 sS'year'
-p36
+p39
 I-1
 ssS'published_in'
-p37
+p40
 NsS'average_rating'
-p38
+p41
 F3.18
 sS'rating_count'
-p39
+p42
 I55
 sS'content_available'
-p40
+p43
 I01
 sS'cover_art_url'
-p41
+p44
 S'http://www.gutenberg.org/cache/epub/33644/pg33644.cover.medium.jpg'
-p42
-sS'goodreads'
-p43
-(dp44
-g33
-Vhttps://www.goodreads.com/book/show/6115543-the-secret-of-the-ninth-planet
 p45
-sg35
+sS'goodreads'
+p46
+(dp47
+g36
+Vhttps://www.goodreads.com/book/show/6115543-the-secret-of-the-ninth-planet
+p48
+sg38
 I01
-sg36
+sg39
 I1959
 ssS'similar_books'
-p46
-(lp47
-VMasters Of Space
-p48
-aVStar Surgeon (Sector General, #2)
 p49
-aVThe Eighth Science Fiction Megapack: 25 Modern and Classic Stories
-p50
-aVThe Fredric Brown MEGAPACK �: 33 Classic Science Fiction Stories
+(lp50
+VMasters Of Space
 p51
-aVThe Robert Sheckley Megapack: 15 Classic Science Fiction Stories
+aVStar Surgeon (Sector General, #2)
 p52
-aVBerserker's Star (Berserker, #12)
+aVThe Eighth Science Fiction Megapack: 25 Modern and Classic Stories
 p53
-aVVelvet Dogma
+aVThe Fredric Brown MEGAPACK �: 33 Classic Science Fiction Stories
 p54
-aVDark as Day (Cold as Ice, #3)
+aVThe Robert Sheckley Megapack: 15 Classic Science Fiction Stories
 p55
-aV2184
+aVBerserker's Star (Berserker, #12)
 p56
-aVSpace Race I: Solar Flare
+aVVelvet Dogma
 p57
-aVCelebrated Crimes
+aVDark as Day (Cold as Ice, #3)
 p58
-aVTumbler
+aV2184
 p59
-aVDark Matter
+aVSpace Race I: Solar Flare
 p60
-aVA Maze of Stars
+aVCelebrated Crimes
 p61
-aVThe Fourth World
+aVTumbler
 p62
-aVThe Mammoth Book of Mindblowing SF
+aVDark Matter
 p63
-aVYear's Best SF 14
+aVA Maze of Stars
 p64
-asS'description'
+aVThe Fourth World
 p65
-VFrom Pulpville Press. On the day that the theft of the solar system's light begins, Burl Denning is with an archaeological expedition in the Andes. Within hours the U.S. Air Force has ordered the expedition to investigate the strange phenomenon that is causing a dimness and a drop in temperature throughout the world. This is the start of a fantastic adventure that takes Burl on the first circumnavigation of the solar system on the Magellan. Each planet-fall brings unexpected hazards, as the ship draws closer and closer to solving the mystery of the thest.
+aVThe Mammoth Book of Mindblowing SF
 p66
-sS'gutenberg'
+aVYear's Best SF 14
 p67
-(dp68
-g33
-Vhttp://www.gutenberg.org/ebooks/33644
+asS'description'
+p68
+VFrom Pulpville Press. On the day that the theft of the solar system's light begins, Burl Denning is with an archaeological expedition in the Andes. Within hours the U.S. Air Force has ordered the expedition to investigate the strange phenomenon that is causing a dimness and a drop in temperature throughout the world. This is the start of a fantastic adventure that takes Burl on the first circumnavigation of the solar system on the Magellan. Each planet-fall brings unexpected hazards, as the ship draws closer and closer to solving the mystery of the thest.
 p69
-sS'num'
+sS'gutenberg'
 p70
+(dp71
+g36
+Vhttp://www.gutenberg.org/ebooks/33644
+p72
+sS'num'
+p73
 I33644
 ssS'authors'
-p71
-(lp72
+p74
+(lp75
 I97
 asS'isbn13'
-p73
-NsS'language'
-p74
-VEnglish
-p75
-sS'countries'
 p76
-(lp77
+NsS'language'
+p77
+VEnglish
+p78
+sS'countries'
+p79
+(lp80
 I2
 asS'release_date'
-p78
+p81
 S'2010-09-05T00:00:00'
-p79
+p82
 sS'author'
-p80
+p83
 I97
 sS'original_title'
-p81
-VThe Secret of the Ninth Planet
-p82
-sS'summary'
-p83
-VThe Secret of the Ninth Planet is a science-fiction novel written by Donald A. Wollheim and first published in the United States in 1959 by the John C. Winston Co. Wollheim takes his heroes on a grand tour of the solar system as that team struggles to prevent an alien force from blowing up the sun. This is the last of three juvenile novels that Wollheim wrote for Winston, the other two being The Secret of Saturn's Rings and The Secret of the Martian Moons.\u000aThis is one of the thirty-five juvenile novels that comprise the Winston Science Fiction set, which novels were published in the 1950s for a readership of teen-aged boys. The typical protagonist in these books was a boy in his late teens who was proficient in the art of electronics, a hobby that was easily available to the readers.
 p84
-sS'content_cleaned'
+VThe Secret of the Ninth Planet
 p85
+sS'summary'
+p86
+VThe Secret of the Ninth Planet is a science-fiction novel written by Donald A. Wollheim and first published in the United States in 1959 by the John C. Winston Co. Wollheim takes his heroes on a grand tour of the solar system as that team struggles to prevent an alien force from blowing up the sun. This is the last of three juvenile novels that Wollheim wrote for Winston, the other two being The Secret of Saturn's Rings and The Secret of the Martian Moons.\u000aThis is one of the thirty-five juvenile novels that comprise the Winston Science Fiction set, which novels were published in the 1950s for a readership of teen-aged boys. The typical protagonist in these books was a boy in his late teens who was proficient in the art of electronics, a hobby that was easily available to the readers.
+p87
+sS'content_cleaned'
+p88
 I01
 sS'classes'
-p86
-(lp87
-Vto-read
-p88
-aVcurrently-reading
 p89
-aVscience-fiction
-p90
-aVsci-fi
+(lp90
+Vto-read
 p91
-aVfiction
+aVcurrently-reading
 p92
-aVaudio-books
+aVscience-fiction
 p93
-aVlibrivox
+aVsci-fi
 p94
-aVmy-ebooks
+aVfiction
 p95
-aVyoung-adult
+aVaudio-books
 p96
-aVaudiobooks-read
+aVlibrivox
 p97
-aV3-stars
+aVmy-ebooks
 p98
-aVon-calibre-to-read
+aVyoung-adult
 p99
-aV20th-century-lit
+aVaudiobooks-read
 p100
-aVto-read-sci-fic-fantasy
+aV3-stars
 p101
-aV31
+aVon-calibre-to-read
 p102
-aVown-ebook
+aV20th-century-lit
 p103
-aVscifi-space-travel
+aVto-read-sci-fic-fantasy
 p104
-aVdefault
+aV31
 p105
-aVsf
+aVown-ebook
 p106
-aVmy-nook
+aVscifi-space-travel
 p107
-aVsci-fi-read-box-r17
+aVdefault
 p108
-aVbox-a
+aVsf
 p109
-aVlistened-to
+aVmy-nook
 p110
-aVreviewed-apart
+aVsci-fi-read-box-r17
 p111
-aVreviewed
+aVbox-a
 p112
-aVfinal-frontier
+aVlistened-to
 p113
-aV20th-century-sff
+aVreviewed-apart
 p114
-aVgutenberg
+aVreviewed
 p115
-aVpdf
+aVfinal-frontier
 p116
-aVscifi
+aV20th-century-sff
 p117
-aVcollection
+aVgutenberg
 p118
-aVfeedbooks-com
+aVpdf
 p119
-aVfiction-non-hungarian
+aVscifi
 p120
-aVfavourite-readings-of-my-childhood
+aVcollection
 p121
-aVsci-fi-fantasy
+aVfeedbooks-com
 p122
-aVscifi-fantasy
+aVfiction-non-hungarian
 p123
-aVlibrivox-audio
+aVfavourite-readings-of-my-childhood
 p124
-aVkindle
+aVsci-fi-fantasy
 p125
-aVhave-this
+aVscifi-fantasy
 p126
-aVp-mass-mkt-paperback
+aVlibrivox-audio
 p127
-aVall-paper
+aVkindle
 p128
-aVspace-opera
+aVhave-this
 p129
-aVspecial
+aVp-mass-mkt-paperback
 p130
-aVhardcover
+aVall-paper
 p131
-aVadventures
+aVspace-opera
 p132
-aVowned-kindle
+aVspecial
 p133
-aVread-in-2012
+aVhardcover
 p134
-aV3-ebooks
+aVadventures
 p135
-aVscience
+aVowned-kindle
 p136
-aVfantasy
+aVread-in-2012
 p137
-aV1954-1969
+aV3-ebooks
 p138
-aVe-books
+aVscience
 p139
-aVunfiltered
+aVfantasy
 p140
-aVread-pre-2010
+aV1954-1969
 p141
-aVpre-hugo-sf
+aVe-books
 p142
-aVebooks
+aVunfiltered
 p143
-aVnovels
+aVread-pre-2010
 p144
-aVread-before-2009
+aVpre-hugo-sf
 p145
-aV3a-ebooks
+aVebooks
 p146
-aVsf-pre-hugo
+aVnovels
 p147
-asS'loc_class'
+aVread-before-2009
 p148
-VPS: Language and Literatures: American and Canadian literature
+aV3a-ebooks
 p149
-sS'n_authors'
+aVsf-pre-hugo
 p150
+asS'loc_class'
+p151
+VPS: Language and Literatures: American and Canadian literature
+p152
+sS'n_authors'
+p153
 I1
 sb.

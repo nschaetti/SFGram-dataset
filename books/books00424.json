@@ -1,12 +1,17 @@
 {
     "content_name": "50736.txt.utf-8", 
+    "original_title": "Address: Centauri", 
     "language_code": "eng", 
     "author_name": "F L Wallace", 
     "images_urls": [
         "http://www.gutenberg.org/files/50736/50736-h/images/cover.jpg"
     ], 
     "year": 1955, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/b/b4/Address_centauri.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Galaxy_195204.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 424, 
     "category": "Text", 
     "genres": [], 
@@ -41,7 +46,7 @@
     ], 
     "release_date": "2015-12-21T00:00:00", 
     "author": 138, 
-    "original_title": "Address: Centauri", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Address: Centauri is a science fiction novel by author F. L. Wallace. It was published in 1955 by Gnome Press in an edition of 4,000 copies. The novel is an expansion of Wallace's story \"Accidental Flight\" which first appeared in the magazine Galaxy Science Fiction in 1952.", 
     "content_cleaned": true, 
     "classes": [

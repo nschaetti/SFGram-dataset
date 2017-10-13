@@ -1,5 +1,6 @@
 {
     "content_name": "32522.txt.utf-8", 
+    "original_title": "Mr. Spaceship", 
     "language_code": "eng", 
     "author_name": "Philip K. Dick", 
     "images_urls": [
@@ -9,7 +10,10 @@
         "http://www.gutenberg.org/files/32522/32522-h/images/illo1.png"
     ], 
     "year": 1953, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/Imagination_195301.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/7/71/Nuvola_apps_kwrite.png"
+    ], 
     "id": 27, 
     "category": "Text", 
     "genres": [], 
@@ -59,7 +63,7 @@
     ], 
     "release_date": "2010-05-25T00:00:00", 
     "author": 8, 
-    "original_title": "Mr. Spaceship", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"Mr. Spaceship\" is a science fiction short story by Philip K. Dick, first published in 1953 in Imagination, and later in The Collected Stories of Philip K. Dick. It has since been republished several times, including in Beyond Lies the Wub in 1988.\nThe story is set in the distant future, where humanity is at war with \"Yuks\", an alien life form which does not use mechanical spaceships nor constructions. Instead, it relies on life forms. The war has been going on for a long time, and humanity has not been able to come up with a solution against the life-form based ships and mines that the Yuks use. One day, a team of researchers led by Philip Kramer decide to build a spaceship which is powered by a human brain. They find the ideal candidate, Kramer's old professor, a dying man who volunteers to donate his brain to the project.\nThe spaceship is built and on the first test run into outer space, the team discovers that the professor made some changes to the ship, giving him\u2014or rather, his brain\u2014full control over the ship. Sensing trouble, the team flees the ship, leaving the empty ship, piloted by the professor, into outer space. Later, the spaceship returns and kidnaps Kramer and his wife, and on board the ship, the professor's brain informs them that they'll be looking for a new planet to colonize, to start over, as the professor sees no hope in humanity and what it has become- a species which desires, above all else, war.", 
     "content_cleaned": true, 
     "classes": [

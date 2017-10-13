@@ -1,6 +1,7 @@
 {
     "content_name": "42196.txt.utf-8", 
     "isbn": "1406572446", 
+    "original_title": "Shadows in Zamboula", 
     "author_name": "Robert E. Howard", 
     "images_urls": [
         "http://www.gutenberg.org/files/42196/42196-h/images/cover.jpg"
@@ -46,7 +47,7 @@
     ], 
     "release_date": "2013-02-25T00:00:00", 
     "author": 22, 
-    "original_title": "Shadows in Zamboula", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"Shadows in Zamboula\" is one of the original stories by Robert E. Howard about Conan the Cimmerian, first published in Weird Tales in November, 1935. Its original title was \"The Man-Eaters of Zamboula\".\nThe story takes place over the course of a night in the desert city of Zamboula, with political intrigue amidst streets filled with roaming cannibals. It features the character Baal-pteor, one of the few humans in the Conan stories to be a physical challenge for the main Cimmerian character himself.\nBy present-day sensibilities, the story is seriously marred by including a vicious racial stereotype - blacks as cannibals - though Howard strove to lessen this by making clear that the cannibals in Zamboula are only the specific blacks from Darfar, other blacks being untainted.", 
     "content_cleaned": true, 
     "classes": [

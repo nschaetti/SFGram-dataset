@@ -1,13 +1,17 @@
 {
     "content_name": "42254.txt.utf-8", 
     "isbn": "0843959207", 
+    "original_title": "Beyond the Black River", 
     "author_name": "Robert E. Howard", 
     "images_urls": [
         "http://www.gutenberg.org/files/42254/42254-h/images/cover1.jpg", 
         "http://www.gutenberg.org/files/42254/42254-h/images/cover2.jpg"
     ], 
     "year": 1935, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hugh_Rankin_-_Beyond_the_Black_River.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Weird_Tales_May_1935.jpg"
+    ], 
     "id": 120, 
     "category": "Text", 
     "genres": [], 
@@ -61,7 +65,7 @@
     ], 
     "release_date": "2013-03-03T00:00:00", 
     "author": 22, 
-    "original_title": "Beyond the Black River", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"Beyond the Black River\" is one of the original short stories about Conan the Cimmerian, written by American author Robert E. Howard and first published in Weird Tales magazine, v. 25, nos. 5-6, May-June 1935. The story was republished in the collections King Conan (Gnome Press, 1953) and Conan the Warrior (Lancer Books, 1967). It has more recently been published in the anthology The Mighty Swordsmen (Lancer Books, 1970), and the collections The Conan Chronicles Volume 2: The Hour of the Dragon (Gollancz, 2001) and Conan of Cimmeria: Volume Three (1935-1936) (Del Rey, 2005). It is set in the pseudo-historical Hyborian Age and concerns Conan fighting the savage Hyborian Picts in the unsettled lands beyond the infamous Black River.", 
     "content_cleaned": true, 
     "classes": [

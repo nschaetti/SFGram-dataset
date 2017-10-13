@@ -1,6 +1,7 @@
 {
     "content_name": "17355.txt.utf-8", 
     "isbn": "143852871X", 
+    "original_title": "The Runaway Skyscraper", 
     "author_name": "Murray Leinster", 
     "images_urls": [
         "http://www.gutenberg.org/files/17355/17355-h/images/mlrstitle.gif"
@@ -44,7 +45,7 @@
     ], 
     "release_date": "2005-12-19T00:00:00", 
     "author": 61, 
-    "original_title": "The Runaway Skyscraper", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "\"The Runaway Skyscraper\" is a science fiction short story by American writer Murray Leinster, first appeared in the February 22, 1919 issue of Argosy magazine. Although Leinster had been appearing regularly in The Smart Set and pulp magazines such as Argosy and Short Stories for three years, \"The Runaway Skyscraper\" was his first published science fiction story (or more accurately, scientific romance, since Hugo Gernsback had yet to coin the phrase \"science fiction\"). Gernsback would reprint the story in the third issue of his science fiction pulp magazine Amazing Stories in June 1926.", 
     "content_cleaned": true, 
     "classes": [

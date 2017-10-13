@@ -1,12 +1,13 @@
 {
     "content_name": "50571.txt.utf-8", 
     "isbn": "0517098733", 
-    "language_code": "eng", 
+    "original_title": "The Green Odyssey", 
+    "year": 1957, 
     "author_name": "Philip Jos\u00ef\u00bf\u00bd Farmer", 
     "images_urls": [
         "http://www.gutenberg.org/files/50571/50571-h/images/cover.jpg"
     ], 
-    "year": 1957, 
+    "language_code": "eng", 
     "images": [
         "https://upload.wikimedia.org/wikipedia/en/d/d4/TheGreenOdyssey.jpg"
     ], 
@@ -64,7 +65,7 @@
     ], 
     "release_date": "2015-11-29T00:00:00", 
     "author": 42, 
-    "original_title": "The Green Odyssey", 
+    "cover": "https://images.gr-assets.com/books/1385601889l/32789.jpg", 
     "summary": "The Green Odyssey is an American science fiction novel written by Philip Jos\u00e9 Farmer. It was Farmer's first book-length publication, originally released by Ballantine in 1957. Unlike Farmer's most prolific earlier short story work, this book contains no sexual themes, though his next book Flesh returned to these motifs. The novel also appeared in the back ground of the first episode of The Twilight Zone.", 
     "content_cleaned": true, 
     "classes": [

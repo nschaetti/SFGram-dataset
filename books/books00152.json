@@ -1,6 +1,7 @@
 {
     "content_name": "23790.txt.utf-8", 
     "isbn": "0441843328", 
+    "original_title": "The Ultimate Weapon", 
     "author_name": "Jr. John W. Campbell", 
     "images_urls": [
         "http://www.gutenberg.org/files/23790/23790-h/images/001.jpg", 
@@ -115,7 +116,9 @@
         "http://www.gutenberg.org/files/23790/23790-page-images/p106.png"
     ], 
     "year": 1966, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 152, 
     "category": "Text", 
     "plot": "Alien invaders escape their doomed home-planet of Mira and bring their starship fleet to conquer Earth. Nothing stands in the way of the Miran invaders, except Buck Kendall, who has discovered the ultimate weapon that is Earth's last hope.", 
@@ -150,7 +153,7 @@
     ], 
     "release_date": "2007-12-10T00:00:00", 
     "author": 41, 
-    "original_title": "The Ultimate Weapon", 
+    "cover": "https://images.gr-assets.com/books/1260836845l/2153684.jpg", 
     "summary": "The Ultimate Weapon is a 1966 science fiction novel by American writer John W. Campbell.", 
     "content_cleaned": true, 
     "classes": [

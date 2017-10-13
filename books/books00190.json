@@ -1,10 +1,13 @@
 {
     "content_name": "3479.txt.utf-8", 
     "isbn": "1406955353", 
+    "original_title": "The Metal Monster", 
     "author_name": "Abraham Merritt", 
     "images_urls": [], 
     "year": 1920, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Metal_monster_sharp.jpg"
+    ], 
     "id": 190, 
     "category": "Text", 
     "plot": "Dr. Goodwin is on a botanical expedition in the Himalayas. There he meets Dick Drake, the son of one of his old science acquaintances. They are witnesses of a strange aurora-like effect, but seemingly a deliberate one. As they go out to investigate, they meet Goodwin's old friends Martin and Ruth Ventnor, brother and sister scientists. The two are besieged by Persians as Darius III led when Alexander of Macedon conquered them more than two thousand years ago.\nThe group is saved by a magnificent woman they get to know as Norhala. She commands the power of lightning and controls strange metal animate Things, living, metallic, geometric forms; an entire city of sentient cubes, globes and tetrahedrons, capable of joining together and forming colossal shapes, and wielding death rays and other armaments of destruction.\nThey are led to a hidden valley occupied by what they name \"The Metal Monster\", a strange metal city occupied by the metal animate Things Norhala commands. This city is governed by what they call the Metal Emperor, assisted by the Keeper of the Cones.\nRuth is slowly being converted by Norhala to become like her; her little sister. Martin, her brother, tries shooting the Metal Emperor, who retaliates with a ray blast, putting Martin in a comatose state.\nClosed in between the Metal Monster and the Persians, it falls to Goodwin and Drake to find a way to escape their predicament.", 
@@ -59,7 +62,7 @@
     ], 
     "release_date": "2002-10-01T00:00:00", 
     "author": 60, 
-    "original_title": "The Metal Monster", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "The Metal Monster is a Fantasy novel by American writer Abraham Merritt. It was first serialized in Argosy All-Story Weekly in 1920 and features the return of Dr. Goodwin who first appeared in The Moon Pool.\nThe epic adventure starts with a foreword where Merritt is assigned the duty to relay Dr. Walter T. Goodwin's incredible tale of his encounter in the Trans-Himalayan mountains to the world, to let everyone know the terrible fate Goodwin's group barely escaped and the possibility of other such monsters out there.", 
     "content_cleaned": false, 
     "classes": [

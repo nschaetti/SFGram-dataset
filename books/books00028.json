@@ -1,6 +1,7 @@
 {
     "content_name": "83.txt.utf-8", 
     "isbn": "1596051310", 
+    "original_title": "Around the Moon", 
     "author_name": "Jules Verne", 
     "images_urls": [], 
     "year": 1865, 
@@ -52,7 +53,7 @@
     ], 
     "release_date": "1993-09-01T00:00:00", 
     "author": 6, 
-    "original_title": "Around the Moon", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Around the Moon (French: Autour de la Lune, 1870), Jules Verne's sequel to From the Earth to the Moon, is a science fiction novel which continues the trip to the moon which was only partially described in the previous novel. It was later combined with From the Earth to the Moon to create A Trip to the Moon and Around It. From the Earth to the Moon and Around the Moon served as the basis for the film A Trip to the Moon.\n\n", 
     "content_cleaned": true, 
     "classes": [

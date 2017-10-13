@@ -1,5 +1,6 @@
 {
     "content_name": "31469.txt.utf-8", 
+    "original_title": "The Shunned House", 
     "language_code": "eng", 
     "author_name": "H. P. Lovecraft", 
     "images_urls": [
@@ -9,7 +10,11 @@
         "http://www.gutenberg.org/files/31469/31469-h/images/003-2.jpg"
     ], 
     "year": 1937, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f0/WeirdTalesv30n4pg419_Shunned_House.png", 
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/135_Benefit_Street%2C_Providence_RI.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Shunned_House_-_H_P_Lovecraft.png"
+    ], 
     "id": 15, 
     "category": "Text", 
     "plot": "For many years, the protagonist and his uncle, Dr. Elihu Whipple, have nurtured a fascination with an old abandoned house on Benefit Street. Dr. Whipple has made extensive records tracking the mysterious, yet apparently, coincidental sickness and death of many who have lived in the house for over one hundred years. They are also puzzled by the strange weeds growing in the yard, as well as the unexplained foul smell, and whitish phosphorescent fungi growing in the cellar.\n\nAfter the protagonist discovers a strange, yellowish vapour in the basement, which seems to be coupled with a moldy outline of a huddled human form on the floor, he and his uncle decide to spend the night in the house, investigating the possibility of some supernatural force. They set up both cots and chairs in the cellar, arm themselves with military flamethrowers, and outfit a modified Crookes tube in the hopes of destroying any supernatural presence they might find.\nWhen Dr. Whipple naps, while his nephew keeps watch, he begins tossing and turning, and finally starts babbling in French, until he suddenly awakes. He tells the protagonist he had strange visions of lying in an open pit, inside a house with constantly shifting features, while faces stared down at him. Many of the faces were those of the Harris family, whose members died in the house.\nWhen the protagonist sleeps, he is awakened by a horrific scream. He sees a revolting yellowish \"corpse-light\" bubbling up from the floor, which stares at him with many eyes before vanishing in a wisp through the chimney. He finds his uncle transformed into a monster with \"blackened, decaying features\" and dripping claws. He turns on the Crookes tube, but seeing that it has no effect, escapes the house through the cellar door as his uncle's body dissolves, transforming into a multitude of faces of those who died in the house as it melts. The protagonist returns the next day to find his equipment intact, but no body.\nThe protagonist hatches a plan. He orders a military gas mask, digging tools, and six carboys of sulfuric acid to be delivered to the cellar door of the shunned house. He digs into the earthen floor of the cellar, turning up fungous yellow ooze, and arranges the barrels of acid around the hole in the belief that he will happen upon some kind of monstrous creature. Eventually, he uncovers a soft, blue-white, translucent tube, bent in half and two feet in diameter at its widest point. He frantically climbs out of the neck-deep hole, and dumps in four barrels of acid, realizing that he had found the elbow of a gigantic monster. The protagonist faints after emptying the fourth barrel.\nWhen he awakens, the protagonist empties the two remaining barrels, to no effect, replaces the dirt, and finds that the strange fungus has turned to harmless ash. He mourns his uncle, but is relieved to be sure that the horrible creature is finally dead. The protagonist records that the house has subsequently been rented to another family, and that the house now appears completely normal.", 
@@ -64,7 +69,7 @@
     ], 
     "release_date": "2010-03-02T00:00:00", 
     "author": 9, 
-    "original_title": "The Shunned House", 
+    "cover": "https://images.gr-assets.com/books/1344879698l/8507286.jpg", 
     "summary": "\"The Shunned House\" is a horror fiction novelette by American author H. P. Lovecraft, written on October 16\u201319, 1924. It was first published in the October 1937 issue of Weird Tales.", 
     "content_cleaned": true, 
     "classes": [

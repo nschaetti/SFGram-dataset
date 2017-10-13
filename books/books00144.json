@@ -1,5 +1,6 @@
 {
     "content_name": "21647.txt.utf-8", 
+    "original_title": "Subspace Explorers", 
     "author_name": "E. E. Smith", 
     "images_urls": [
         "http://www.gutenberg.org/files/21647/21647-h/images/illus_106.png", 
@@ -69,7 +70,11 @@
         "http://www.gutenberg.org/files/21647/21647-page-images/p136b.png"
     ], 
     "year": 1960, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/1/13/Subspace_explorers.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg", 
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sfbook.png"
+    ], 
     "id": 144, 
     "category": "Text", 
     "genres": [], 
@@ -102,7 +107,7 @@
     ], 
     "release_date": "2007-05-30T00:00:00", 
     "author": 14, 
-    "original_title": "Subspace Explorers", 
+    "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "summary": "Subspace Explorers is a science fiction novel by E. E. \"Doc\" Smith. It was first published in 1965 by Canaveral Press in an edition of 1,460 copies. The novel is an expansion of Smith's story \"Subspace Survivors\" which first appeared in the July 1960 issue of the magazine Astounding.", 
     "content_cleaned": false, 
     "classes": [

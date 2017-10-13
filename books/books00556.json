@@ -1,12 +1,15 @@
 {
     "content_name": "50561.txt.utf-8", 
+    "original_title": "The Dark Other", 
     "language_code": "eng", 
     "author_name": "Stanley Weinbaum", 
     "images_urls": [
         "http://www.gutenberg.org/files/50561/50561-h/images/cover.jpg"
     ], 
     "year": 1950, 
-    "images": [], 
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/en/5/5d/Dark_other.jpg"
+    ], 
     "id": 556, 
     "category": "Text", 
     "genres": [], 
@@ -41,7 +44,7 @@
     ], 
     "release_date": "2015-11-27T00:00:00", 
     "author": 62, 
-    "original_title": "The Dark Other", 
+    "cover": "https://images.gr-assets.com/books/1409170383l/23114361.jpg", 
     "summary": "The Dark Other is a horror novel by Stanley G. Weinbaum. It was first published in 1950 by Fantasy Publishing Company, Inc. in an edition of 700 copies. The manuscript, written in the 1920s, was originally titled The Mad Brain. With permission of his widow Forrest J Ackerman edited it, modernising, removing some of the \"anachronisms\" of the 20s.", 
     "content_cleaned": true, 
     "classes": [
