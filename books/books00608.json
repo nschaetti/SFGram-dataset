@@ -1,5 +1,6 @@
 {
     "content_name": "27019.txt.utf-8", 
+    "isbn": "1490536728", 
     "author_name": "Stephen Marlowe", 
     "images_urls": [
         "http://www.gutenberg.org/files/27019/27019-h/images/001.png", 
@@ -315,11 +316,11 @@
     "average_rating": 3.0, 
     "rating_count": 1, 
     "goodreads": {
-        "url": "https://www.goodreads.com/book/show/10061599-my-shipmate-columbus", 
-        "found": true, 
-        "year": 2010
+        "url": "https://www.goodreads.com/book/show/20462927-my-shipmate---columbus", 
+        "found": true
     }, 
     "similar_books": [], 
+    "description": "The laughter brought spots of color to his cheeks. He stood there for a while, taking it, and then decided he had had enough and would sit down. A whisper of amusement still stirred the room as he returned to his seat and the professor said, \"But just a moment, Mr. Jones. Won't you tell the class what makes you think Columbus was not the 'bold skipper' the history books say he was. After all, Mr. Jones, this is a history class. If you know more or better history than the history books do, isn't it your duty to tell us?\"", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/27019", 
@@ -328,8 +329,9 @@
     "authors": [
         79
     ], 
+    "pages": 26, 
     "language": "English", 
-    "isbn13": "2940011877179", 
+    "isbn13": "9781490536729", 
     "countries": [
         2
     ], 
@@ -337,10 +339,7 @@
     "author": 79, 
     "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png", 
     "content_cleaned": true, 
-    "classes": [
-        "e-shelf", 
-        "science-fiction"
-    ], 
+    "classes": [], 
     "content_available": true, 
     "n_authors": 1
 }

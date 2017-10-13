@@ -24,7 +24,6 @@
     }, 
     "similar_books": [], 
     "description": "The book has no illustrations or index. Purchasers are entitled to a free trial membership in the General Books Club where they can select from more than a million books without charge. Subjects: Science fiction; Technological innovations; Twenty-first century; Time travel; London (England); Science fiction, English; Fiction / Science Fiction / General;", 
-    "format": "Paperback", 
     "loc_class": "PS: Language and Literatures: American and Canadian literature", 
     "gutenberg": {
         "url": "http://www.gutenberg.org/ebooks/29322", 
@@ -33,8 +32,8 @@
     "authors": [
         197
     ], 
-    "language": "English", 
     "isbn13": "9781153818339", 
+    "language": "English", 
     "countries": [
         2
     ], 
