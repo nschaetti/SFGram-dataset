@@ -124,7 +124,7 @@ p59
 I144
 sS'cover'
 p60
-Vhttps://images.gr-assets.com/books/1364847660l/16241198.jpg
+Vhttps://images.gr-assets.com/books/1406508849l/22528563.jpg
 p61
 sS'content_cleaned'
 p62

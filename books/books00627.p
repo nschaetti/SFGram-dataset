@@ -161,7 +161,7 @@ p78
 I19
 sS'cover'
 p79
-Vhttps://images.gr-assets.com/books/1502710327l/36028687.jpg
+Vhttps://images.gr-assets.com/books/1335651526l/1931595.jpg
 p80
 sS'content_cleaned'
 p81

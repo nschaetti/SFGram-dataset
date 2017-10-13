@@ -122,7 +122,7 @@ p59
 I108
 sS'cover'
 p60
-Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+Vhttps://images.gr-assets.com/books/1421007589l/24446649.jpg
 p61
 sS'content_cleaned'
 p62

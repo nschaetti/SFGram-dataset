@@ -126,7 +126,7 @@ p61
 I207
 sS'cover'
 p62
-Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+Vhttps://images.gr-assets.com/books/1368366326l/17910824.jpg
 p63
 sS'content_cleaned'
 p64

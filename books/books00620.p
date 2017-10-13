@@ -129,7 +129,7 @@ p62
 I194
 sS'cover'
 p63
-Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+Vhttps://images.gr-assets.com/books/1381286629l/11448855.jpg
 p64
 sS'content_cleaned'
 p65

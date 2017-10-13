@@ -109,7 +109,7 @@ p52
 I116
 sS'cover'
 p53
-Vhttps://images.gr-assets.com/books/1364973676l/17659077.jpg
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
 p54
 sS'content_cleaned'
 p55

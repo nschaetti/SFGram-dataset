@@ -115,7 +115,7 @@ p55
 I203
 sS'cover'
 p56
-Vhttps://images.gr-assets.com/books/1401953526l/77699.jpg
+Vhttps://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
 p57
 sS'content_cleaned'
 p58
