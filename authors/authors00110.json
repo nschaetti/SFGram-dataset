@@ -4,6 +4,7 @@
     "countries": [
         2
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Alan_Arkin", 
         "found": true

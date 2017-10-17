@@ -4,6 +4,7 @@
     "countries": [
         2
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lester_del_Rey", 
         "found": true

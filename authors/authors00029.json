@@ -4,6 +4,7 @@
     "countries": [
         7
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/David_Lindsay_(novelist)", 
         "found": true

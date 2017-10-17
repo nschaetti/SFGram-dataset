@@ -3,8 +3,10 @@
     "countries": [
         2
     ], 
+    "gender": "m", 
     "wikipedia": {
-        "found": false
+        "url": "https://fr.wikipedia.org/wiki/Frederik_Pohl", 
+        "found": true
     }, 
     "n_books": 1, 
     "books": [

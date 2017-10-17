@@ -4,6 +4,7 @@
     "countries": [
         1
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle", 
         "found": true

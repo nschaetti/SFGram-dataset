@@ -6,6 +6,7 @@
             "countries": [
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/H._G._Wells", 
                 "found": true
@@ -37,6 +38,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs", 
                 "found": true
@@ -69,6 +71,7 @@
                 2, 
                 16
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Isaac_Asimov", 
                 "found": true
@@ -88,6 +91,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut", 
                 "found": true
@@ -108,6 +112,7 @@
                 2, 
                 16
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ayn_Rand", 
                 "found": true
@@ -127,6 +132,7 @@
             "countries": [
                 4
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Jules_Verne", 
                 "found": true
@@ -160,6 +166,7 @@
             "countries": [
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle", 
                 "found": true
@@ -180,6 +187,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Philip_K._Dick", 
                 "found": true
@@ -211,6 +219,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/H._P._Lovecraft", 
                 "found": true
@@ -232,6 +241,7 @@
             "countries": [
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott", 
                 "found": true
@@ -252,6 +262,7 @@
             "countries": [
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/William_Hope_Hodgson", 
                 "found": true
@@ -272,6 +283,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ray_Cummings", 
                 "found": true
@@ -289,6 +301,7 @@
             "countries": [
                 4
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Jules_Verne", 
                 "found": true
@@ -308,6 +321,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/E._E._Smith", 
                 "found": true
@@ -336,6 +350,7 @@
             "countries": [
                 4
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Michel_Verne", 
                 "found": true
@@ -353,6 +368,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Harry_Harrison_(writer)", 
                 "found": true
@@ -379,6 +395,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -413,6 +430,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ray_Bradbury", 
                 "found": true
@@ -435,6 +453,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/H._Beam_Piper", 
                 "found": true
@@ -483,6 +502,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Philip_Francis_Nowlan", 
                 "found": true
@@ -503,6 +523,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Edward_Bellamy", 
                 "found": true
@@ -523,6 +544,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_E._Howard", 
                 "found": true
@@ -553,6 +575,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_Sheckley", 
                 "found": true
@@ -587,6 +610,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -602,6 +626,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Marion_Zimmer_Bradley", 
                 "found": true
@@ -625,6 +650,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Lee_Hawkins_Garby", 
                 "found": true
@@ -643,6 +669,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -658,6 +685,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Andre_Norton", 
                 "found": true
@@ -687,6 +715,7 @@
             "countries": [
                 7
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/David_Lindsay_(novelist)", 
                 "found": true
@@ -706,6 +735,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Poul_Anderson", 
                 "found": true
@@ -733,6 +763,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_W._Chambers", 
                 "found": true
@@ -752,6 +783,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Fritz_Leiber", 
                 "found": true
@@ -788,6 +820,7 @@
                 8, 
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Cory_Doctorow", 
                 "found": true
@@ -815,6 +848,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Karen_Anderson_(writer)", 
                 "found": true
@@ -834,6 +868,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Cordwainer_Smith", 
                 "found": true
@@ -852,6 +887,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Katherine_MacLean", 
                 "found": true
@@ -872,6 +908,7 @@
             "countries": [
                 23
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Karel_%C4%8Capek", 
                 "found": true
@@ -890,6 +927,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/E._Everett_Evans", 
                 "found": true
@@ -911,6 +949,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Tom_Godwin", 
                 "found": true
@@ -932,6 +971,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Frederik_Pohl", 
                 "found": true
@@ -960,6 +1000,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/John_W._Campbell", 
                 "found": true
@@ -983,6 +1024,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Philip_Jos%C3%A9_Farmer", 
                 "found": true
@@ -1004,6 +1046,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/August_Derleth", 
                 "found": true
@@ -1023,6 +1066,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -1041,6 +1085,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_Bloch", 
                 "found": true
@@ -1059,6 +1104,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Samuel_R._Delany", 
                 "found": true
@@ -1078,6 +1124,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ben_Bova", 
                 "found": true
@@ -1096,6 +1143,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -1113,6 +1161,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Randall_Garrett", 
                 "found": true
@@ -1175,6 +1224,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_Silverberg", 
                 "found": true
@@ -1199,6 +1249,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Cyril_M._Kornbluth", 
                 "found": true
@@ -1225,6 +1276,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Leigh_Brackett", 
                 "found": true
@@ -1244,6 +1296,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -1259,6 +1312,7 @@
                 1, 
                 20
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Rudyard_Kipling", 
                 "found": true
@@ -1278,6 +1332,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/James_Blish", 
                 "found": true
@@ -1298,6 +1353,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Clifford_D._Simak", 
                 "found": true
@@ -1321,6 +1377,7 @@
                 1, 
                 24
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Edwin_Lester_Arnold", 
                 "found": true
@@ -1337,6 +1394,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Fredric_Brown", 
                 "found": true
@@ -1360,6 +1418,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Henry_Slesar", 
                 "found": true
@@ -1381,6 +1440,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/A._Merritt", 
                 "found": true
@@ -1401,6 +1461,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Murray_Leinster", 
                 "found": true
@@ -1451,6 +1512,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Stanley_G._Weinbaum", 
                 "found": true
@@ -1473,6 +1535,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Frank_Herbert", 
                 "found": true
@@ -1493,6 +1556,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Mark_Phillips_(author)", 
                 "found": true
@@ -1522,6 +1586,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Philip_Wylie", 
                 "found": true
@@ -1540,6 +1605,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -1554,6 +1620,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Keith_Laumer", 
                 "found": true
@@ -1580,6 +1647,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -1605,6 +1673,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Mack_Reynolds", 
                 "found": true
@@ -1638,6 +1707,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Hal_Clement", 
                 "found": true
@@ -1656,6 +1726,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ray_Cummings", 
                 "found": true
@@ -1679,6 +1750,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Carl_Richard_Jacobi", 
                 "found": true
@@ -1699,6 +1771,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Lester_del_Rey", 
                 "found": true
@@ -1729,6 +1802,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/R._A._Lafferty", 
                 "found": true
@@ -1753,6 +1827,7 @@
                 8, 
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_Barr_(writer)", 
                 "found": true
@@ -1772,6 +1847,7 @@
             "countries": [
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/C._J._Cutcliffe_Hyne", 
                 "found": true
@@ -1788,6 +1864,7 @@
             "countries": [
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -1802,6 +1879,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -1820,6 +1898,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Stephen_Marlowe", 
                 "found": true
@@ -1850,6 +1929,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -1864,6 +1944,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Christopher_Anvil", 
                 "found": true
@@ -1882,8 +1963,10 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
-                "found": false
+                "url": "https://fr.wikipedia.org/wiki/Frederik_Pohl", 
+                "found": true
             }, 
             "n_books": 1, 
             "books": [
@@ -1897,6 +1980,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Edmond_Hamilton", 
                 "found": true
@@ -1920,15 +2004,20 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
-                "found": false
+                "url": "https://en.wikipedia.org/wiki/Randall_Garrett", 
+                "found": true
             }, 
             "n_books": 2, 
+            "summary": "Randall Garrett (December 16, 1927 \u2013 December 31, 1987) was an American science fiction and fantasy author. He was a prolific contributor to Astounding and other science fiction magazines of the 1950s and 1960s. He instructed Robert Silverberg in the techniques of selling large quantities of action-adventure science fiction, and collaborated with him on two novels about Earth bringing civilization to an alien planet.", 
+            "born": "1927-12-16 00:00:00", 
             "books": [
                 252, 
                 698
             ], 
-            "id": 84
+            "id": 84, 
+            "died": "1987-12-31 00:00:00"
         }, 
         {
             "bio": "Bixby was the editor of Planet Stories from Summer 1950 to July 1951, and editor of Two Complete Science Adventure Novels from Winter 1950 to July 1951.\nHis best-known television works include two original Star Trek episodes: 1967's \"Mirror, Mirror\", which introduced the franchise's concept of the \"Mirror Universe\"; and 1969's \"Requiem for Methuselah\", about \"Flint\", a 6,000-year-old man. But his short story \"It's a Good Life\" (1953), adapted as a teleplay for The Twilight Zone by Rod Serling, is arguably his most generally known work to reach the small screen. It was popular enough to be revisited in the 1983 Twilight Zone film, and famous enough to be parodied in the Simpsons Halloween 1991 episode \"Treehouse of Horror II\". His 1968 Star Trek episode \"Day of the Dove\" is also much respected by fans of science fiction. Bixby also conceived and co-wrote the story for the 1966 film Fantastic Voyage,  Bantam Books obtained the rights for a paperback novelization based on the screenplay and approached Isaac Asimov to write it.\nJerome Bixby's last work, a screenplay The Man from Earth, was conceived in the early 1960s and completed on his deathbed in April 1998. In 2007 it was turned into an independent motion picture executive produced by his son Emerson Bixby, directed by Richard Schenkman and starring David Lee Smith, William Katt, Richard Riehle, Tony Todd, Annika Peterson, Alexis Thorpe, Ellen Crawford and John Billingsley.\nBixby wrote the original screenplay for 1958's It! The Terror from Beyond Space, which was the inspiration for 1979's Alien. The Star Trek: Deep Space Nine seventh season (1999) Mirror Universe episode, \"The Emperor's New Cloak\", is dedicated to Bixby's memory.", 
@@ -1936,6 +2025,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Jerome_Bixby", 
                 "found": true
@@ -1959,6 +2049,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Jack_Williamson", 
                 "found": true
@@ -1979,6 +2070,7 @@
             "countries": [
                 3
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -1993,6 +2085,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Bryce_Walton", 
                 "found": true
@@ -2014,6 +2107,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Jack_Vance", 
                 "found": true
@@ -2032,6 +2126,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Garrett_P._Serviss", 
                 "found": true
@@ -2054,6 +2149,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Algis_Budrys", 
                 "found": true
@@ -2078,6 +2174,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Eando_Binder", 
                 "found": true
@@ -2096,6 +2193,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2110,6 +2208,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2139,6 +2238,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/George_O._Smith", 
                 "found": true
@@ -2162,6 +2262,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2176,6 +2277,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Donald_A._Wollheim", 
                 "found": true
@@ -2196,6 +2298,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/William_Tenn", 
                 "found": true
@@ -2217,6 +2320,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Roger_Sherman_Hoar", 
                 "found": true
@@ -2234,6 +2338,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2248,6 +2353,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Fletcher_Pratt", 
                 "found": true
@@ -2268,6 +2374,7 @@
                 2, 
                 17
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/William_R._Bradshaw", 
                 "found": true
@@ -2287,6 +2394,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Forrest_J_Ackerman", 
                 "found": true
@@ -2309,6 +2417,7 @@
                 18, 
                 26
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Harry_Bates_(author)", 
                 "found": true
@@ -2329,6 +2438,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/David_Duncan_(writer)", 
                 "found": true
@@ -2345,6 +2455,7 @@
             "countries": [
                 1
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Pauline_Ashwell", 
                 "found": true
@@ -2361,6 +2472,7 @@
             "countries": [
                 4
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Pierre_Benoit_(novelist)", 
                 "found": true
@@ -2378,6 +2490,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Alan_E._Nourse", 
                 "found": true
@@ -2406,6 +2519,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_Abernathy", 
                 "found": true
@@ -2425,6 +2539,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Alan_Arkin", 
                 "found": true
@@ -2443,6 +2558,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/C._C._MacApp", 
                 "found": true
@@ -2460,6 +2576,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Sonya_Dorman", 
                 "found": true
@@ -2476,6 +2593,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ed_Earl_Repp", 
                 "found": true
@@ -2494,6 +2612,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2509,6 +2628,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2522,6 +2642,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Walter_M._Miller_Jr.", 
                 "found": true
@@ -2541,6 +2662,7 @@
             "countries": [
                 3
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2555,6 +2677,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2575,6 +2698,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/George_Griffith", 
                 "found": true
@@ -2595,6 +2719,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Harry_Bates_(author)", 
                 "found": true
@@ -2614,6 +2739,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2635,6 +2761,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Richard_Matheson", 
                 "found": true
@@ -2654,6 +2781,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Henry_Kuttner", 
                 "found": true
@@ -2674,6 +2802,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2691,6 +2820,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Anthony_Boucher", 
                 "found": true
@@ -2707,6 +2837,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2721,6 +2852,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Miles_J._Breuer", 
                 "found": true
@@ -2738,6 +2870,7 @@
             "countries": [
                 4
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Albert_Robida", 
                 "found": true
@@ -2757,6 +2890,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Raymond_F._Jones", 
                 "found": true
@@ -2780,6 +2914,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Manly_Wade_Wellman", 
                 "found": true
@@ -2796,6 +2931,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Neil_R._Jones", 
                 "found": true
@@ -2816,6 +2952,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Edgar_Pangborn", 
                 "found": true
@@ -2835,6 +2972,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2849,6 +2987,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2863,6 +3002,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_Moore_Williams", 
                 "found": true
@@ -2887,6 +3027,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/James_H._Schmitz", 
                 "found": true
@@ -2915,6 +3056,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/John_D._MacDonald", 
                 "found": true
@@ -2933,6 +3075,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/F._L._Wallace", 
                 "found": true
@@ -2954,6 +3097,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/S._P._Meek", 
                 "found": true
@@ -2976,6 +3120,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -2990,6 +3135,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3005,6 +3151,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Jim_Harmon", 
                 "found": true
@@ -3033,6 +3180,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3047,6 +3195,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Charles_L._Fontenay", 
                 "found": true
@@ -3071,6 +3220,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3086,6 +3236,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Jeff_Sutton", 
                 "found": true
@@ -3103,6 +3254,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Sam_Merwin_Jr.", 
                 "found": true
@@ -3123,6 +3275,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Raymond_Z._Gallun", 
                 "found": true
@@ -3146,6 +3299,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3164,6 +3318,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ward_Moore", 
                 "found": true
@@ -3183,6 +3338,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/C._L._Moore", 
                 "found": true
@@ -3201,6 +3357,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3213,6 +3370,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_F._Young", 
                 "found": true
@@ -3234,6 +3392,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_Shea", 
                 "found": true
@@ -3257,6 +3416,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Roy_Rockwood", 
                 "found": true
@@ -3273,6 +3433,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3288,6 +3449,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Joseph_Samachson", 
                 "found": true
@@ -3312,6 +3474,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Wallace_West", 
                 "found": true
@@ -3329,6 +3492,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3344,6 +3508,7 @@
             "countries": [
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3364,6 +3529,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/James_E._Gunn_(writer)", 
                 "found": true
@@ -3382,6 +3548,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Roger_Dee", 
                 "found": true
@@ -3409,6 +3576,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Charles_L._Harness", 
                 "found": true
@@ -3427,6 +3595,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Theodore_L._Thomas", 
                 "found": true
@@ -3444,6 +3613,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Donald_Wandrei", 
                 "found": true
@@ -3462,6 +3632,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Alfred_Coppel", 
                 "found": true
@@ -3481,6 +3652,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3497,6 +3669,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Donald_E._Westlake", 
                 "found": true
@@ -3519,6 +3692,7 @@
                 2, 
                 27
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Robert_Arthur_Jr.", 
                 "found": true
@@ -3538,6 +3712,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3553,6 +3728,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Frank_Belknap_Long", 
                 "found": true
@@ -3575,6 +3751,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Evelyn_E._Smith", 
                 "found": true
@@ -3603,6 +3780,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3617,6 +3795,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3631,6 +3810,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3645,6 +3825,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3660,6 +3841,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Terry_Carr", 
                 "found": true
@@ -3679,6 +3861,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Roman_Frederick_Starzl", 
                 "found": true
@@ -3697,6 +3880,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3713,6 +3897,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Frank_M._Robinson", 
                 "found": true
@@ -3735,6 +3920,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3750,6 +3936,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Rosel_George_Brown", 
                 "found": true
@@ -3767,6 +3954,7 @@
             "countries": [
                 3
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3781,6 +3969,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3795,6 +3984,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3811,6 +4001,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Miriam_Allen_deFord", 
                 "found": true
@@ -3829,6 +4020,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3843,6 +4035,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3858,6 +4051,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/C._C._Beck", 
                 "found": true
@@ -3876,6 +4070,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Homer_Eon_Flint", 
                 "found": true
@@ -3895,6 +4090,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Austin_Hall_(writer)", 
                 "found": true
@@ -3913,6 +4109,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3928,6 +4125,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3943,6 +4141,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Kris_Ottman_Neville", 
                 "found": true
@@ -3965,6 +4164,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3979,6 +4179,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -3993,6 +4194,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Arthur_Leo_Zagat", 
                 "found": true
@@ -4012,6 +4214,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4027,6 +4230,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/John_Franklin_Carter", 
                 "found": true
@@ -4045,6 +4249,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4060,6 +4265,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Paul_Ernst_(American_writer)", 
                 "found": true
@@ -4077,6 +4283,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4091,6 +4298,7 @@
             "countries": [
                 3
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4107,6 +4315,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Damon_Knight", 
                 "found": true
@@ -4125,6 +4334,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4145,6 +4355,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4160,6 +4371,7 @@
             "countries": [
                 2
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4174,6 +4386,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Rog_Phillips", 
                 "found": true
@@ -4191,6 +4404,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Milo_Hastings", 
                 "found": true
@@ -4207,6 +4421,7 @@
             "countries": [
                 3
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4221,6 +4436,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4237,6 +4453,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4249,6 +4466,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4263,6 +4481,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4278,6 +4497,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4292,6 +4512,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Harold_L._Goodwin", 
                 "found": true
@@ -4309,6 +4530,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Richard_Wilson_(author)", 
                 "found": true
@@ -4324,6 +4546,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/William_Campbell_Gault", 
                 "found": true
@@ -4340,6 +4563,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4354,6 +4578,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Daniel_F._Galouye", 
                 "found": true
@@ -4375,6 +4600,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Paul_W._Fairman", 
                 "found": true
@@ -4394,6 +4620,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Walter_Tevis", 
                 "found": true
@@ -4412,6 +4639,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4426,6 +4654,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Everett_B._Cole", 
                 "found": true
@@ -4449,6 +4678,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Ron_Goulart", 
                 "found": true
@@ -4467,6 +4697,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Arthur_J._Burks", 
                 "found": true
@@ -4486,6 +4717,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4502,6 +4734,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4522,6 +4755,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4537,6 +4771,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4551,6 +4786,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4566,6 +4802,7 @@
             "countries": [
                 3
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4580,6 +4817,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Stanton_A._Coblentz", 
                 "found": true
@@ -4596,6 +4834,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4612,6 +4851,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Howard_Browne", 
                 "found": true
@@ -4631,6 +4871,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Mark_Clifton", 
                 "found": true
@@ -4654,6 +4895,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4669,6 +4911,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4683,6 +4926,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Henry_Hasse", 
                 "found": true
@@ -4699,6 +4943,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4713,6 +4958,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4728,6 +4974,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/G._C._Edmondson", 
                 "found": true
@@ -4744,6 +4991,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Michael_Shaara", 
                 "found": true
@@ -4762,6 +5010,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Nat_Schachner", 
                 "found": true
@@ -4779,6 +5028,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4794,6 +5044,7 @@
             "countries": [
                 1
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/George_Griffith", 
                 "found": true
@@ -4812,6 +5063,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4826,6 +5078,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Tom_Purdom", 
                 "found": true
@@ -4843,6 +5096,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4858,6 +5112,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4872,6 +5127,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4886,6 +5142,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4900,6 +5157,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4914,6 +5172,7 @@
             "countries": [
                 3
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4928,6 +5187,7 @@
             "countries": [
                 3
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4943,6 +5203,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4957,6 +5218,7 @@
             "countries": [
                 3
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4971,6 +5233,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4985,6 +5248,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -4999,6 +5263,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5014,6 +5279,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5029,6 +5295,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Arthur_Porges", 
                 "found": true
@@ -5045,6 +5312,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5059,6 +5327,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5073,6 +5342,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5088,6 +5358,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Greye_La_Spina", 
                 "found": true
@@ -5106,6 +5377,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5120,6 +5392,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5135,6 +5408,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Harl_Vincent", 
                 "found": true
@@ -5154,6 +5428,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5168,6 +5443,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5183,6 +5459,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5197,6 +5474,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5211,6 +5489,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5226,6 +5505,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/L._Taylor_Hansen", 
                 "found": true
@@ -5244,6 +5524,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5258,6 +5539,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5272,6 +5554,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5287,6 +5570,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/William_F._Nolan", 
                 "found": true
@@ -5304,6 +5588,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5318,6 +5603,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Donald_Keith_(author)", 
                 "found": true
@@ -5334,6 +5620,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5348,6 +5635,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5362,6 +5650,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5376,6 +5665,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5390,6 +5680,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/George_Henry_Weiss", 
                 "found": true
@@ -5408,6 +5699,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Sydney_J._Van_Scyoc", 
                 "found": true
@@ -5425,6 +5717,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Nelson_S._Bond", 
                 "found": true
@@ -5443,6 +5736,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5457,6 +5751,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "url": "d", 
                 "found": true
@@ -5472,6 +5767,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5486,6 +5782,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5500,6 +5797,7 @@
             "countries": [
                 3
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5514,6 +5812,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5528,6 +5827,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5543,6 +5843,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "url": "https://en.wikipedia.org/wiki/Harry_Stephen_Keeler", 
                 "found": true
@@ -5559,6 +5860,7 @@
             "countries": [
                 3
             ], 
+            "gender": "", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5573,6 +5875,7 @@
             "countries": [
                 2
             ], 
+            "gender": "f", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5587,6 +5890,7 @@
             "countries": [
                 2
             ], 
+            "gender": "m", 
             "wikipedia": {
                 "found": false
             }, 
@@ -5599,6 +5903,7 @@
         {
             "name": "Seaton McKettrig", 
             "countries": [], 
+            "gender": "m", 
             "summary": "Randall Garrett (December 16, 1927 \u2013 December 31, 1987) was an American science fiction and fantasy author. He was a prolific contributor to Astounding and other science fiction magazines of the 1950s and 1960s. He instructed Robert Silverberg in the techniques of selling large quantities of action-adventure science fiction, and collaborated with him on two novels about Earth bringing civilization to an alien planet.", 
             "born": "1927-12-16 00:00:00", 
             "books": [
@@ -5608,12 +5913,16 @@
             "died": "1987-12-31 00:00:00"
         }, 
         {
+            "name": "David Gordon", 
             "countries": [], 
+            "gender": "m", 
+            "summary": "Randall Garrett (December 16, 1927 \u2013 December 31, 1987) was an American science fiction and fantasy author. He was a prolific contributor to Astounding and other science fiction magazines of the 1950s and 1960s. He instructed Robert Silverberg in the techniques of selling large quantities of action-adventure science fiction, and collaborated with him on two novels about Earth bringing civilization to an alien planet.", 
+            "born": "1927-12-16 00:00:00", 
             "books": [
                 645
             ], 
             "id": 301, 
-            "name": "David Gordon"
+            "died": "1987-12-31 00:00:00"
         }
     ]
 }

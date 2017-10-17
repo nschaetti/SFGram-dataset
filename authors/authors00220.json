@@ -3,6 +3,7 @@
     "countries": [
         2
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Daniel_F._Galouye", 
         "found": true

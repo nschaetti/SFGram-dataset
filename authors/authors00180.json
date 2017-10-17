@@ -4,6 +4,7 @@
     "countries": [
         2
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Frank_M._Robinson", 
         "found": true

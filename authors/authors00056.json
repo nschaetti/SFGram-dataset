@@ -4,6 +4,7 @@
     "countries": [
         2
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Clifford_D._Simak", 
         "found": true

@@ -1,8 +1,12 @@
 {
+    "name": "David Gordon", 
     "countries": [], 
+    "gender": "m", 
+    "summary": "Randall Garrett (December 16, 1927 \u2013 December 31, 1987) was an American science fiction and fantasy author. He was a prolific contributor to Astounding and other science fiction magazines of the 1950s and 1960s. He instructed Robert Silverberg in the techniques of selling large quantities of action-adventure science fiction, and collaborated with him on two novels about Earth bringing civilization to an alien planet.", 
+    "born": "1927-12-16 00:00:00", 
     "books": [
         645
     ], 
     "id": 301, 
-    "name": "David Gordon"
+    "died": "1987-12-31 00:00:00"
 }

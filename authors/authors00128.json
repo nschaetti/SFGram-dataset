@@ -4,6 +4,7 @@
     "countries": [
         4
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Albert_Robida", 
         "found": true

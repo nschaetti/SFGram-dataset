@@ -4,6 +4,7 @@
     "countries": [
         3
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/George_Griffith", 
         "found": true

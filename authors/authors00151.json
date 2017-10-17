@@ -4,6 +4,7 @@
     "countries": [
         2
     ], 
+    "gender": "f", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/C._L._Moore", 
         "found": true

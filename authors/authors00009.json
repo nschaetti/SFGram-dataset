@@ -4,6 +4,7 @@
     "countries": [
         2
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/H._P._Lovecraft", 
         "found": true

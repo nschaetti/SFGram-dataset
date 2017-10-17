@@ -3,6 +3,7 @@
     "countries": [
         2
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Charles_L._Fontenay", 
         "found": true

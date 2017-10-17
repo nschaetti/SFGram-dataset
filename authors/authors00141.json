@@ -3,6 +3,7 @@
     "countries": [
         3
     ], 
+    "gender": "", 
     "wikipedia": {
         "found": false
     }, 

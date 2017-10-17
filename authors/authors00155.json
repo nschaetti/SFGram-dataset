@@ -3,6 +3,7 @@
     "countries": [
         3
     ], 
+    "gender": "", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Roy_Rockwood", 
         "found": true

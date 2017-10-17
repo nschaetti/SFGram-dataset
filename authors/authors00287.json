@@ -3,6 +3,7 @@
     "countries": [
         2
     ], 
+    "gender": "f", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Sydney_J._Van_Scyoc", 
         "found": true

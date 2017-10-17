@@ -4,6 +4,7 @@
         1, 
         20
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Rudyard_Kipling", 
         "found": true

@@ -3,6 +3,7 @@
     "countries": [
         4
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michel_Verne", 
         "found": true

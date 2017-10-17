@@ -3,6 +3,7 @@
     "countries": [
         2
     ], 
+    "gender": "f", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Evelyn_E._Smith", 
         "found": true

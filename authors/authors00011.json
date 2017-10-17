@@ -4,6 +4,7 @@
     "countries": [
         1
     ], 
+    "gender": "m", 
     "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/William_Hope_Hodgson", 
         "found": true
