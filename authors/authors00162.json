@@ -4,9 +4,11 @@
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Roger_Dee", 
+        "found": true
     }, 
     "n_books": 12, 
+    "summary": "Roger D. Aycock ( 6 December 1914 \u2013 5 April 2004) was an American author who wrote under the pseudonym Roger Dee. He primarily wrote science fiction.", 
     "books": [
         489, 
         566, 

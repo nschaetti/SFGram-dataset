@@ -4,9 +4,11 @@
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Tom_Godwin", 
+        "found": true
     }, 
     "n_books": 5, 
+    "summary": "Tom Godwin (January 1, 1915\u2013January 1, 1980) was an American science fiction author. Godwin published three novels and twenty seven short stories. His hard SF short story \"The Cold Equations\" is a notable example of the mid-1950s science fiction genre.", 
     "books": [
         103, 
         237, 

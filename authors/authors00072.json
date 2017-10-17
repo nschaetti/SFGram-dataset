@@ -1,15 +1,20 @@
 {
+    "bio": "  ", 
     "name": "Carl Richard Jacobi", 
     "countries": [
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Carl_Richard_Jacobi", 
+        "found": true
     }, 
     "n_books": 2, 
+    "summary": "Carl Richard Jacobi (July 10, 1908 \u2013 August 25, 1997) was an American journalist and author. He wrote short stories in the horror and fantasy genres for the pulp magazine market, appearing in such pulps of the bizarre and uncanny as Thrilling, Ghost Stories, Startling Stories, Thrilling Wonder Stories and Strange Stories. He also wrote stories crime and adventure which appeared in such pulps as Thrilling Adventures, Complete Stories, Top-Notch, Short Stories, The Skipper, Doc Savage and Dime Adventures Magazine. He also produced some science fiction, mainly space opera, published in such magazines as Planet Stories. He was one of the last surviving pulp-fictioneers to have contributed to the legendary American horror magazine Weird Tales during its \"glory days\" (the 1920s and 1930s). His stories have been translated into French, Swedish, Danish and Dutch.", 
+    "born": "1908-07-10 00:00:00", 
     "books": [
         224, 
         871
     ], 
-    "id": 72
+    "id": 72, 
+    "died": "1997-08-25 00:00:00"
 }

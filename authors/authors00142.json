@@ -1,12 +1,16 @@
 {
+    "bio": "Harmon died February 16, 2010, of a heart attack. Harmon died February 16, 2010, of a heart attack. Harmon died February 16, 2010, of a heart attack.", 
     "name": "Jim Harmon", 
     "countries": [
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Jim_Harmon", 
+        "found": true
     }, 
     "n_books": 11, 
+    "summary": "James Judson Harmon (21 April 1933 \u2013 16 February 2010), better known as Jim Harmon, was an American short story author and popular culture historian who wrote extensively about the Golden Age of Radio. He sometimes used the pseudonym Judson Grey, and occasionally he was labeled Mr. Nostalgia.", 
+    "born": "1933-04-21 00:00:00", 
     "books": [
         427, 
         460, 
@@ -20,5 +24,6 @@
         837, 
         886
     ], 
-    "id": 142
+    "id": 142, 
+    "died": "2010-02-16 00:00:00"
 }

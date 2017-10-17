@@ -4,12 +4,12 @@
         2
     ], 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Evelyn_Everett-Green", 
+        "url": "https://en.wikipedia.org/wiki/E._Everett_Evans", 
         "found": true
     }, 
     "n_books": 4, 
-    "summary": "Evelyn Ward Everett-Green (17 November 1856, London \u2013 23 April 1932, Funchal) was an English novelist who started her writing career with improving and pious stories for children, and later wrote historical fiction for older girls, and then adult romantic fiction. She wrote about 350 books: more than 200 under her own name, and others using the pen-names H. F. E., Cecil Adair, E. Ward, or Evelyn Dare.", 
-    "born": "1856-11-17 00:00:00", 
+    "summary": "Edward Everett Evans (November 30, 1893 \u2013 December 2, 1958) was an American science fiction author and fan.\nHis works included the novels Man of Many Minds (1953), The Planet Mappers (1955), Alien Minds (1955), and the posthumously-published collaboration with E. E. \"Doc\" Smith Masters of Space (1976); and the collection Food for Demons (1971). All of these novels since passed into public domain and are available for free download.", 
+    "born": "1893-11-30 00:00:00", 
     "books": [
         102, 
         502, 
@@ -17,5 +17,5 @@
         751
     ], 
     "id": 38, 
-    "died": "1932-04-23 00:00:00"
+    "died": "1958-12-02 00:00:00"
 }

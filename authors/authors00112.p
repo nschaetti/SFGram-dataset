@@ -23,7 +23,7 @@ p10
 (dp11
 S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Women_of_Wonder
+S'https://en.wikipedia.org/wiki/Sonya_Dorman'
 p13
 sS'found'
 p14
@@ -33,7 +33,7 @@ p15
 I1
 sS'summary'
 p16
-VWomen of Wonder: Science-fiction Stories by Women about Women is a collection of short stories edited by Pamela Sargent, first published in 1975. It also includes an introduction and notes before each story by Sargent.\u000aIn the introduction, Sargent provides a comprehensive and informed analysis of women in the science fiction genre, both as writers and characters. She notes that \u201cMost science fiction has been written by men, and they still form a majority of the writers today. About 10 to 15 percent of the writers are women\u201d (p. 11).\u000aShe discusses some of the earlier prominent women writers, from Mary Shelley to C. L. Moore, then looks at how women characters have been ignored or stereotyped by writers like Jules Verne, H. G. Wells, Isaac Asimov, and Robert Heinlein. She closes by saying that changes will likely happen in the genre if readers show they want different perspectives, which will then make publishers interested in new ideas.
+VSonya Dorman (1924 \u2013 February 14, 2005) was the working name of Sonya Dorman Hess. She was born in New York City in 1924 and died in Taos, New Mexico on February 14, 2005 at the age of 80.\u000aShe is perhaps best known outside of the world of science fiction as a poet. One of her poems, however, Corruption of Metals, received honors within science fiction circles by winning the Rhysling Award of the Science Fiction Poetry Association. Her best-known work of science fiction is the story "When I Was Miss Dow", which has been reprinted numerous times and received a James Tiptree, Jr. retrospective award nomination.\u000aShe also appeared in Harlan Ellison's anthology Dangerous Visions, with the story "Go, Go, Go, Said the Bird."
 p17
 sS'books'
 p18

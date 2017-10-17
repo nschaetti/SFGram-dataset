@@ -23,7 +23,7 @@ p10
 (dp11
 S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Glen_Soderholm
+S'https://en.wikipedia.org/wiki/Roy_Rockwood'
 p13
 sS'found'
 p14
@@ -33,22 +33,13 @@ p15
 I1
 sS'summary'
 p16
-VGlen Soderholm is a Canadian, singer-songwriter, minister, praise and worship leader, speaker and teacher based in Rockwood, Ontario, Canada.
+VRoy Rockwood was a house pseudonym used by the Stratemeyer Syndicate for boy's adventure books. The name is most well-remembered for the Bomba the Jungle Boy and Great Marvel series.
 p17
-sS'born'
-p18
-cdatetime
-datetime
-p19
-(S'\x07\xa7\x0c\x05\x00\x00\x00\x00\x00\x00'
-p20
-tp21
-Rp22
 sS'books'
-p23
-(lp24
+p18
+(lp19
 I455
 asS'id'
-p25
+p20
 I155
 sb.

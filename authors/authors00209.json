@@ -4,9 +4,11 @@
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Milo_Hastings", 
+        "found": true
     }, 
     "n_books": 1, 
+    "summary": "Milo Milton Hastings (June 28, 1884 \u2013 February 25, 1957) was an American inventor, author, and nutritionist. He invented the forced-draft chicken incubator and Weeniwinks, a health-food snack. He wrote about chickens, science fiction, and health, among other things. Some of his writing is available in book form and on Project Gutenberg. Hastings was married twice and had three children.", 
     "books": [
         633
     ], 

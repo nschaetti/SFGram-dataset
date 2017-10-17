@@ -10,37 +10,41 @@ p2
 Ntp3
 Rp4
 (dp5
-S'name'
+S'bio'
 p6
-VRosel George Brown
+VBorn New Orleans, Louisiana, she lived in the city of her birth with her husband after concluding her formal education at Sophie Newcomb College, where she majored in Greek, and at the University of Minnesota where she received her M.A. in Greek. Several of her books were dedicated to her husband W. Burlie Brown, who was a history professor at Tulane University. The couple had two children. In addition to writing, she worked as a teacher and a welfare visitor in Louisiana. In 1959, she was nominated for the Hugo Award for best new author, but her career was cut short when she died of lymphoma at the age of 41 in 1967. The fourth Nebula Award Anthology contains an obituary written by Daniel F. Galouye, and Anne McCaffrey dedicated her 1970 anthology Alchemy & Academe to Brown, along with several other people. Brown and McCaffrey had met at a Milford Writer's Workshop. Born New Orleans, Louisiana, she lived in the city of her birth with her husband after concluding her formal education at Sophie Newcomb College, where she majored in Greek, and at the University of Minnesota where she received her M.A. in Greek. Several of her books were dedicated to her husband W. Burlie Brown, who was a history professor at Tulane University. The couple had two children. In addition to writing, she worked as a teacher and a welfare visitor in Louisiana. In 1959, she was nominated for the Hugo Award for best new author, but her career was cut short when she died of lymphoma at the age of 41 in 1967. The fourth Nebula Award Anthology contains an obituary written by Daniel F. Galouye, and Anne McCaffrey dedicated her 1970 anthology Alchemy & Academe to Brown, along with several other people. Brown and McCaffrey had met at a Milford Writer's Workshop. Born New Orleans, Louisiana, she lived in the city of her birth with her husband after concluding her formal education at Sophie Newcomb College, where she majored in Greek, and at the University of Minnesota where she received her M.A. in Greek. Several of her books were dedicated to her husband W. Burlie Brown, who was a history professor at Tulane University. The couple had two children. In addition to writing, she worked as a teacher and a welfare visitor in Louisiana. In 1959, she was nominated for the Hugo Award for best new author, but her career was cut short when she died of lymphoma at the age of 41 in 1967. The fourth Nebula Award Anthology contains an obituary written by Daniel F. Galouye, and Anne McCaffrey dedicated her 1970 anthology Alchemy & Academe to Brown, along with several other people. Brown and McCaffrey had met at a Milford Writer's Workshop.
 p7
-sS'countries'
+sS'name'
 p8
-(lp9
+VRosel George Brown
+p9
+sS'countries'
+p10
+(lp11
 I2
 asS'wikipedia'
-p10
-(dp11
-S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Russell_(surname)
-p13
-sS'found'
+(dp13
+S'url'
 p14
+S'https://en.wikipedia.org/wiki/Rosel_George_Brown'
+p15
+sS'found'
+p16
 I01
 ssS'n_books'
-p15
+p17
 I2
 sS'summary'
-p16
-VRussell also Rossell is a British name some writers claim to be derived from the Anglo-Norman nickname rus[s]el (Modern Norman patronymic Roussel). The nickname was said to be a diminutive of the Anglo-Norman rous for red (Old French ros).\u000aThe name may also refer to Clan Russell, a Scottish armigerous clan. Historian William Anderson has written that Scottish Russells from Aberdeenshire can trace their ancestry through local parish records, back to a baron Rosel who purchased estates at Aden in Aberdeenshire in 1333.\u000aThe first appearance of the Russell form of the name on any official record was William Russell, son of a Ralph de Rosel whose name appears in the Winton Domesday Book of (1107-1128). The Lenton Register named William Russell as Ralph de Rosel's son. (J.H. Wiffen, The Time of the Norman Conquest)\u000aThe last recorded use of the de Rosel form of the name in England in any official document was in a charter by Alain Russell, who held the fief of the church of Donnington in Lincolnshire from his father Robert Russell. In 1258 Alain Russell made a charter bestowing the church of St. Stephen at Plessis-Grimault in the Calvados area of France to the local parish, in which he named himself Alain de Rosel, showing that he continued to use the older de Rosel form of the name when in France. (J.H. Wiffen, The Time of the Norman Conquest) The Subsidy Roll carried out in 1327 lists 22 land owners named Russell with estates large enough to be taxed, but no one named de Rosel, showing that by 1327 the older de Rosel form of the name was no longer widely used in England.\u000aWhile there appears to be solid documentary evidence for the de Rosel origin of the surname Russell, the alternative proposed origin, 'rus' or 'rous' meaning red, seems to be based mainly on conjecture by various authors. Census records of England and Wales show a very uneven nationwide distribution of the name with areas of high density and wide areas of very low density, which points to a single family origin.\u000a\u000a
-p17
-sS'books'
 p18
-(lp19
+VRosel George Brown (March 15, 1926 \u2013 November 26, 1967) was an American science fiction author.
+p19
+sS'books'
+p20
+(lp21
 I546
 aI872
 asS'id'
-p20
+p22
 I182
 sb.

@@ -4,9 +4,11 @@
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Theodore_L._Thomas", 
+        "found": true
     }, 
     "n_books": 1, 
+    "summary": "Theodore Lockard Thomas (born April 13, 1920 - September 24, 2005) was an American chemical engineer and attorney who wrote more than 50 science fiction short stories, published between the early 1950s to the late 1970s. He also collaborated on two novels with Kate Wilhelm, as well as producing stories under the pseudonyms of Leonard Lockhard and Cogswell Thomas, and was nominated for a Nebula award and a Hugo Award.", 
     "books": [
         492
     ], 

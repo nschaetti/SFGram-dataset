@@ -23,7 +23,7 @@ p10
 (dp11
 S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Christopher_Anvil_bibliography
+S'https://en.wikipedia.org/wiki/Christopher_Anvil'
 p13
 sS'found'
 p14
@@ -33,13 +33,29 @@ p15
 I1
 sS'summary'
 p16
-VThis is complete works by American science fiction writer Christopher Anvil, a pseudonym used by Harry Christopher Crosby.
+VChristopher Anvil (March 11, 1925 \u2013 November 30, 2009) is a pseudonym used by American author Harry Christopher Crosby. He was born in Norwich, Connecticut, the only child of Harry Clifton Crosby and Rose Glasbrenner. He began publishing science fiction with the story "Cinderella, Inc." in the December 1952 issue of the science fiction magazine Imagination. By 1956, he had adopted his pseudonym and was being published in Astounding Magazine.\u000aAnvil's repeated appearances in Astounding/Analog were due in part to his ability to write to one of Campbell's preferred plots: alien opponents with superior firepower losing out to the superior intelligence or indomitable will of humans. A second factor is his stories are nearly always humorous throughout. Another was his characterization and manner of story crafting, where his protagonists slid from disaster to disaster with the best of intentions, and through exercise of fast thinking, managed to snatch victory somehow from the jaws of defeat.\u000aAccording to David Weber, who acknowledges being influenced by Anvil in the introduction to the anthology Interstellar Patrol:\u000a\u000aAn Anvil character triumphs by shooting the rapids, by caroming from one obstacle to another, adapting and overcoming as he goes. In many ways, his characters are science-fiction descendents of Odysseus, the scheming fast thinker who dazzles his opponents with his footwork. Of course, sometimes it's a little difficult to tell whether they're dazzling an opponent with their footwork, or skittering across a floor covered in ball bearings. But Anvil has the technique and the skill to bring them out triumphant in the end, and watching them dance is such a delightful pleasure.\u000a\u000aOne of Anvil's best-known short stories is "Pandora's Planet", which appeared first in Astounding Magazine in September 1956 and has since been reprinted several times, including an appearance in the first volume of Anvil's works published in hardcover by Baen's Books, Pandora's Legions and it has also been "fixed-up" into a full-length novel.\u000aAnvil also published a number of stories taking place within the Federation of Humanity (The term originates in the sub-title of the third anthology title released by Baen: Interstellar Patrol II, "The Federation of Humanity"). Anvil himself, as well as John Campbell, referred to these stories as the Colonization Series prior to them being released as collections. The stories deal with characters in different human government organizations, dealing with adventures, gadgetry and subterfuge both internal and external.\u000aThe bulk of Anvil's published writing consists of short stories. Many of them are almost purely idea-driven science fiction. Some of the most striking, for example "Gadget vs. Trend", entirely lack dialogue and almost entirely lack characters; these stories consist of a series of newspaper reports or other similar materials. In these and other stories, Anvil's technique is to put forth a gadget, invention, or social trend and logically develop the consequences.
 p17
-sS'books'
+sS'born'
 p18
-(lp19
+cdatetime
+datetime
+p19
+(S'\x07\x85\x03\x0b\x00\x00\x00\x00\x00\x00'
+p20
+tp21
+Rp22
+sS'books'
+p23
+(lp24
 I245
 asS'id'
-p20
+p25
 I81
+sS'died'
+p26
+g19
+(S'\x07\xd9\x0b\x1e\x00\x00\x00\x00\x00\x00'
+p27
+tp28
+Rp29
 sb.

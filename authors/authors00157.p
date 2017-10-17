@@ -10,34 +10,38 @@ p2
 Ntp3
 Rp4
 (dp5
-S'name'
+S'bio'
 p6
-VJoseph Samachson
+VJoseph Samachson died of complications from Parkinson's disease in 1980. He was survived by his wife, now deceased, a son, Michael Samachson, and a daughter, the photographer Miriam Berkley.  Joseph Samachson died of complications from Parkinson's disease in 1980. He was survived by his wife, now deceased, a son, Michael Samachson, and a daughter, the photographer Miriam Berkley.  Joseph Samachson died of complications from Parkinson's disease in 1980. He was survived by his wife, now deceased, a son, Michael Samachson, and a daughter, the photographer Miriam Berkley. 
 p7
-sS'countries'
+sS'name'
 p8
-(lp9
+VJoseph Samachson
+p9
+sS'countries'
+p10
+(lp11
 I2
 asS'wikipedia'
-p10
-(dp11
-S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Tomahawk_(comics)
-p13
-sS'found'
+(dp13
+S'url'
 p14
+S'https://en.wikipedia.org/wiki/Joseph_Samachson'
+p15
+sS'found'
+p16
 I01
 ssS'n_books'
-p15
+p17
 I8
 sS'summary'
-p16
-VTomahawk is an American comic book character whose adventures were published by DC Comics during the 1940s, 1950s and 1960s as a backup feature in Star Spangled Comics and World's Finest Comics and in his own eponymous series. He was created by writer Joe Samachson and artist Edmund Good, and first appeared in Star-Spangled Comics #69 (June 1947). Tomahawk's uniqueness stems in part from the time frame of his fictional adventures: the American Revolutionary War.
-p17
-sS'books'
 p18
-(lp19
+VJoseph "Joe" Samachson (October 13, 1906 \u2013 June 1980) was an American scientist and author, primarily of science fiction and comic books.
+p19
+sS'books'
+p20
+(lp21
 I469
 aI601
 aI692
@@ -47,6 +51,6 @@ aI937
 aI962
 aI964
 asS'id'
-p20
+p22
 I157
 sb.

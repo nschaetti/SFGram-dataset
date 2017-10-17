@@ -4,9 +4,11 @@
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/C._C._MacApp", 
+        "found": true
     }, 
     "n_books": 2, 
+    "summary": "C. C. MacApp, pseudonym of Carroll Mather Capps (27 November 1917 \u2013 15 January 1971) was an American science fiction author. He was also a long-time benefactor of San Francisco chess. He was a former president of the San Francisco Bay Area Chess League, and won the Northern California and San Francisco chess championship several times.", 
     "books": [
         346, 
         607

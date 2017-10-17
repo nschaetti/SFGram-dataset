@@ -4,15 +4,11 @@
         2
     ], 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/John_Jacob_Astor_IV", 
-        "found": true
+        "found": false
     }, 
     "n_books": 1, 
-    "summary": "John Jacob \"Jack\" Astor IV (July 13, 1864 \u2013 April 15, 1912) was an American businessman, real estate builder, investor, inventor, writer, lieutenant colonel in the Spanish\u2013American War, and a prominent member of the Astor family.\nAstor died in the sinking of the RMS Titanic during the early hours of April 15, 1912. He was among the 1,514 people on board who did not survive. He was the richest passenger aboard the Titanic and was thought to be among the richest people in the world at that time, with a net worth of nearly $87 million when he died (equivalent to $2.16 billion in 2016).", 
-    "born": "1864-08-25 00:00:00", 
     "books": [
         199
     ], 
-    "id": 66, 
-    "died": "1912-08-25 00:00:00"
+    "id": 66
 }

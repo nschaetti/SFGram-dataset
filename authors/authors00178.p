@@ -10,38 +10,42 @@ p2
 Ntp3
 Rp4
 (dp5
-S'name'
+S'bio'
 p6
-VRoman Frederick Starzl
+VBorn Roman Frederick Starzl, he was the son of John (born Johann) V. Starzl and Margaret Theisen. John V. Starzl was born April 9, 1865 in Webrowa (later known as V\u011bvrov) in southwest Bohemia, the son of Josef Starzl and Magdalena Ruba. Josef Starzl immigrated with his wife and 5 children (including John) in 1878 to the USA. John V. Starzl sold his pharmacy in Chicago around the time of his marriage and moved back to Le Mars, Iowa, near where his Bohemian immigrant parents had settled after immigration. There, he purchased the German-language newspaper, Der Herold, which later became Le Mars Globe Post, and raised Starzl and two other surviving children. Starzl started his career as a reporter for this newspaper. He reportedly started writing for pulp magazines as part of his efforts to raise enough money for a specific goal. Said goal was to acquire ownership of the newspaper and printing establishment associated with his family. Starzl eventually achieved this goal and retired from writing. Or so the story goes. His writing career indeed lasted only six years (1929\u20131934), during which he published about 24 stories. But it is possible that his writing career ended as his duties in the newspaper increased. A decision of necessity rather than choice. He became a partner in the Globe-Post in 1934, and sole owner and publisher in 1940. He continued in this role until 1968, when his printing plant fell victim to a fire. He was a member of both the German Rocket Society and the American Rocket Society. Later in life, he developed an interest in right-wing politics.\u000aHis literary output in science-fiction consists of about twenty stories, a few of them in collaborations with Everett E. Smith and Festus Pragnell. He also tried his hand in other genres. His stories are essentially "action fiction with science-fictional trappings". Though nine of them feature the Interplanetary Flying Police, they can hardly be seen as a series. There is little to no consistency between them, and they are often set in different time periods. He managed to somewhat stand out among the writers of this era, through a skill with words and a capacity for creative ideas. He did not, however, avoid the tendencies of his contemporaries in science fiction. Already in 1931, the readers of Wonder Stories complained that some of the stories published in the periodical seemed to be regular western fiction, crime fiction, adventure fiction with superficial science-fiction elements (such as placing the action in a future era or another planet). Stories like The Man who Changed the Future (1931) by Starzl are evidence that this was quite true.\u000aHis first story Out of the Sub-Universe (Summer, 1928), was featured in an issue of Amazing Stories Quarterly and inspired its cover. It depicted a young couple shrinking in size. The story built on an idea previously used in The Man from the Atom (1923) by Green Peyton Wertenbaker, but it also served as a parody of the Golden Atom tales by Ray Cummings. The Last Planet (1934), on the other hand, seems to be a precursor to the generation ship tales. Unfortunately, Starzl never fully dwelt on the subject. Leaving The Voyage That Lasted 600 Years (1940) by Don Wilcox to be the first fully realized example of this subgenre. Born Roman Frederick Starzl, he was the son of John (born Johann) V. Starzl and Margaret Theisen. John V. Starzl was born April 9, 1865 in Webrowa (later known as V\u011bvrov) in southwest Bohemia, the son of Josef Starzl and Magdalena Ruba. Josef Starzl immigrated with his wife and 5 children (including John) in 1878 to the USA. John V. Starzl sold his pharmacy in Chicago around the time of his marriage and moved back to Le Mars, Iowa, near where his Bohemian immigrant parents had settled after immigration. There, he purchased the German-language newspaper, Der Herold, which later became Le Mars Globe Post, and raised Starzl and two other surviving children. Starzl started his career as a reporter for this newspaper. He reportedly started writing for pulp magazines as part of his efforts to raise enough money for a specific goal. Said goal was to acquire ownership of the newspaper and printing establishment associated with his family. Starzl eventually achieved this goal and retired from writing. Or so the story goes. His writing career indeed lasted only six years (1929\u20131934), during which he published about 24 stories. But it is possible that his writing career ended as his duties in the newspaper increased. A decision of necessity rather than choice. He became a partner in the Globe-Post in 1934, and sole owner and publisher in 1940. He continued in this role until 1968, when his printing plant fell victim to a fire. He was a member of both the German Rocket Society and the American Rocket Society. Later in life, he developed an interest in right-wing politics.\u000aHis literary output in science-fiction consists of about twenty stories, a few of them in collaborations with Everett E. Smith and Festus Pragnell. He also tried his hand in other genres. His stories are essentially "action fiction with science-fictional trappings". Though nine of them feature the Interplanetary Flying Police, they can hardly be seen as a series. There is little to no consistency between them, and they are often set in different time periods. He managed to somewhat stand out among the writers of this era, through a skill with words and a capacity for creative ideas. He did not, however, avoid the tendencies of his contemporaries in science fiction. Already in 1931, the readers of Wonder Stories complained that some of the stories published in the periodical seemed to be regular western fiction, crime fiction, adventure fiction with superficial science-fiction elements (such as placing the action in a future era or another planet). Stories like The Man who Changed the Future (1931) by Starzl are evidence that this was quite true.\u000aHis first story Out of the Sub-Universe (Summer, 1928), was featured in an issue of Amazing Stories Quarterly and inspired its cover. It depicted a young couple shrinking in size. The story built on an idea previously used in The Man from the Atom (1923) by Green Peyton Wertenbaker, but it also served as a parody of the Golden Atom tales by Ray Cummings. The Last Planet (1934), on the other hand, seems to be a precursor to the generation ship tales. Unfortunately, Starzl never fully dwelt on the subject. Leaving The Voyage That Lasted 600 Years (1940) by Don Wilcox to be the first fully realized example of this subgenre. Born Roman Frederick Starzl, he was the son of John (born Johann) V. Starzl and Margaret Theisen. John V. Starzl was born April 9, 1865 in Webrowa (later known as V\u011bvrov) in southwest Bohemia, the son of Josef Starzl and Magdalena Ruba. Josef Starzl immigrated with his wife and 5 children (including John) in 1878 to the USA. John V. Starzl sold his pharmacy in Chicago around the time of his marriage and moved back to Le Mars, Iowa, near where his Bohemian immigrant parents had settled after immigration. There, he purchased the German-language newspaper, Der Herold, which later became Le Mars Globe Post, and raised Starzl and two other surviving children. Starzl started his career as a reporter for this newspaper. He reportedly started writing for pulp magazines as part of his efforts to raise enough money for a specific goal. Said goal was to acquire ownership of the newspaper and printing establishment associated with his family. Starzl eventually achieved this goal and retired from writing. Or so the story goes. His writing career indeed lasted only six years (1929\u20131934), during which he published about 24 stories. But it is possible that his writing career ended as his duties in the newspaper increased. A decision of necessity rather than choice. He became a partner in the Globe-Post in 1934, and sole owner and publisher in 1940. He continued in this role until 1968, when his printing plant fell victim to a fire. He was a member of both the German Rocket Society and the American Rocket Society. Later in life, he developed an interest in right-wing politics.\u000aHis literary output in science-fiction consists of about twenty stories, a few of them in collaborations with Everett E. Smith and Festus Pragnell. He also tried his hand in other genres. His stories are essentially "action fiction with science-fictional trappings". Though nine of them feature the Interplanetary Flying Police, they can hardly be seen as a series. There is little to no consistency between them, and they are often set in different time periods. He managed to somewhat stand out among the writers of this era, through a skill with words and a capacity for creative ideas. He did not, however, avoid the tendencies of his contemporaries in science fiction. Already in 1931, the readers of Wonder Stories complained that some of the stories published in the periodical seemed to be regular western fiction, crime fiction, adventure fiction with superficial science-fiction elements (such as placing the action in a future era or another planet). Stories like The Man who Changed the Future (1931) by Starzl are evidence that this was quite true.\u000aHis first story Out of the Sub-Universe (Summer, 1928), was featured in an issue of Amazing Stories Quarterly and inspired its cover. It depicted a young couple shrinking in size. The story built on an idea previously used in The Man from the Atom (1923) by Green Peyton Wertenbaker, but it also served as a parody of the Golden Atom tales by Ray Cummings. The Last Planet (1934), on the other hand, seems to be a precursor to the generation ship tales. Unfortunately, Starzl never fully dwelt on the subject. Leaving The Voyage That Lasted 600 Years (1940) by Don Wilcox to be the first fully realized example of this subgenre.
 p7
-sS'countries'
+sS'name'
 p8
-(lp9
+VRoman Frederick Starzl
+p9
+sS'countries'
+p10
+(lp11
 I2
 asS'wikipedia'
-p10
-(dp11
-S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/List_of_science_fiction_authors
-p13
-sS'found'
+(dp13
+S'url'
 p14
+S'https://en.wikipedia.org/wiki/Roman_Frederick_Starzl'
+p15
+sS'found'
+p16
 I01
 ssS'n_books'
-p15
+p17
 I3
 sS'summary'
-p16
-VNote that this partial list contains some authors whose works of fantastic fiction would today be called science fiction, even if they predate, or did not work in that genre. There is also a considerable overlap with the List of fantasy authors, since many authors are equally comfortable with both genres, and in any case some works deliberately combine the two or blur the distinction. Most science fiction authors write as novelists or short story writers, though increasingly, as the genre becomes possible, they write as playwrights or screen writers.\u000aSome notable science fiction authors are (in alphabetical order):\u000a\u000a
-p17
-sS'books'
 p18
-(lp19
+VRoman Frederick Starzl (1899\u20131976) was an American author. He, and earlier, his father (John V. Starzl), owned the Le Mars Globe-Post newspaper of Le Mars, Iowa. Roman Frederick was also the father of physician Thomas E. Starzl. His writing is largely forgotten now, but he was called a "master" by the pioneer of space opera E. E. Smith. Starzl's Interplanetary Flying Patrol, in The Hornets of Space, may have influenced Smith's Galactic Patrol. There is an extensive interview with Thomas Starzl about his father in Eric Leif Davin's Pioneers of Wonder.
+p19
+sS'books'
+p20
+(lp21
 I538
 aI862
 aI891
 asS'id'
-p20
+p22
 I178
 sb.

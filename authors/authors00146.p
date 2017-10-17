@@ -10,28 +10,40 @@ p2
 Ntp3
 Rp4
 (dp5
-S'name'
+S'bio'
 p6
-VJeff Sutton
+VSutton was born on July 25, 1913, in Los Angeles, California. He began work at fourteen as an office boy in the editorial department of the Los Angeles Examiner, where both he and his father worked for many years. He was a staff photographer and writer with International News Photos from 1937 to 1940.\u000aSutton was in the United States Marine Corps from 1932 through 1936 and reenlisted at the outset of World War II, serving with the 2nd Marine Division in the South and Central Pacific areas. His novel The River owes much to his experience on Guadalcanal. He married Eugenia Geneva Hensen on February 1, 1941, and they had two children: Christopher and Gale.\u000aSutton did not immediately turn to writing after the war, but worked in a number of jobs, including as an assistant to San Diego Mayor Harley Knox. After receiving his master's degree in experimental psychology at San Diego State University, he worked as a research engineer in human factors engineering in the aerospace industry. He then worked in editorial public relations for General Dynamics, an experience he used when writing his novel The Missile Lords a few years later. As a human factors engineer working for Convair, he explored man's adaptation to machines and established his business as an editorial consultant to industry. Several years later he returned to writing. Sutton was born on July 25, 1913, in Los Angeles, California. He began work at fourteen as an office boy in the editorial department of the Los Angeles Examiner, where both he and his father worked for many years. He was a staff photographer and writer with International News Photos from 1937 to 1940.\u000aSutton was in the United States Marine Corps from 1932 through 1936 and reenlisted at the outset of World War II, serving with the 2nd Marine Division in the South and Central Pacific areas. His novel The River owes much to his experience on Guadalcanal. He married Eugenia Geneva Hensen on February 1, 1941, and they had two children: Christopher and Gale.\u000aSutton did not immediately turn to writing after the war, but worked in a number of jobs, including as an assistant to San Diego Mayor Harley Knox. After receiving his master's degree in experimental psychology at San Diego State University, he worked as a research engineer in human factors engineering in the aerospace industry. He then worked in editorial public relations for General Dynamics, an experience he used when writing his novel The Missile Lords a few years later. As a human factors engineer working for Convair, he explored man's adaptation to machines and established his business as an editorial consultant to industry. Several years later he returned to writing. Sutton was born on July 25, 1913, in Los Angeles, California. He began work at fourteen as an office boy in the editorial department of the Los Angeles Examiner, where both he and his father worked for many years. He was a staff photographer and writer with International News Photos from 1937 to 1940.\u000aSutton was in the United States Marine Corps from 1932 through 1936 and reenlisted at the outset of World War II, serving with the 2nd Marine Division in the South and Central Pacific areas. His novel The River owes much to his experience on Guadalcanal. He married Eugenia Geneva Hensen on February 1, 1941, and they had two children: Christopher and Gale.\u000aSutton did not immediately turn to writing after the war, but worked in a number of jobs, including as an assistant to San Diego Mayor Harley Knox. After receiving his master's degree in experimental psychology at San Diego State University, he worked as a research engineer in human factors engineering in the aerospace industry. He then worked in editorial public relations for General Dynamics, an experience he used when writing his novel The Missile Lords a few years later. As a human factors engineer working for Convair, he explored man's adaptation to machines and established his business as an editorial consultant to industry. Several years later he returned to writing.
 p7
-sS'countries'
+sS'name'
 p8
-(lp9
+VJeff Sutton
+p9
+sS'countries'
+p10
+(lp11
 I2
 asS'wikipedia'
-p10
-(dp11
-S'found'
 p12
-I00
-ssS'n_books'
-p13
-I1
-sS'books'
+(dp13
+S'url'
 p14
-(lp15
+S'https://en.wikipedia.org/wiki/Jeff_Sutton'
+p15
+sS'found'
+p16
+I01
+ssS'n_books'
+p17
+I1
+sS'summary'
+p18
+VJefferson Howard Sutton (July 25, 1913\u2013 January 31, 1979) was an American author who wrote 23 books of science fiction, war, political and juvenile fiction.
+p19
+sS'books'
+p20
+(lp21
 I435
 asS'id'
-p16
+p22
 I146
 sb.

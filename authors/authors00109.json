@@ -4,13 +4,15 @@
         2
     ], 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Abernathy_(surname)", 
+        "url": "https://en.wikipedia.org/wiki/Robert_Abernathy", 
         "found": true
     }, 
     "n_books": 1, 
-    "summary": "Abernathy, a chiefly North American variation of the surname Abernethy, may refer to:\nAnne Abernathy (born 1953), American luger\nBen Abernathy, American editor\nBrent Abernathy (born 1977), American baseball player\nCharles F. Abernathy, American law professor\nConstance Abernathy (1931-1994), American architect and jeweller\nDonzaleigh Abernathy, American actress\nFrankie Abernathy (1981\u20132007), American castmate on MTV's The Real World: San Diego\nJack Abernathy (1876-1941), United States Marshall\nKathleen Quinn Abernathy (born 1956), Commissioner of the United States Federal Communications Commission from 2001 to 2005\nLouis and Temple Abernathy, children of Jack Abernathy\nRalph Abernathy (1926\u20131990), American civil rights leader\nRalph David Abernathy III (1959-2016), American politician\nRobert Abernathy (1924\u20131990), American science fiction writer\nTed Abernathy (1933\u20132004), American baseball player\nWilliam J. Abernathy (1933-1983), US-American business professor", 
+    "summary": "Robert Abernathy (1924\u20131990) was an American science fiction author during the 1940s and 1950s. He was known primarily for his short stories which were published in many of the pulp magazines that flourished during the Golden Age of Science Fiction. Many of his stories have been included in various anthologies of classic science fiction such as the French Les Vingt Meilleurs R\u00e9cits de science-fiction edited by Hubert Juin.", 
+    "born": "1924-10-17 00:00:00", 
     "books": [
         337
     ], 
-    "id": 109
+    "id": 109, 
+    "died": "1990-10-17 00:00:00"
 }

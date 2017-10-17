@@ -10,34 +10,47 @@ p2
 Ntp3
 Rp4
 (dp5
-S'name'
+S'bio'
 p6
-VRobert Silverberg
+VSilverberg has been married twice. He and Barbara Brown married in 1956, separated in 1976, and divorced a decade later. Silverberg and science fiction writer Karen Haber married in 1987. They live in the San Francisco Bay Area. Before the age of 30, Silverberg was independently wealthy through his investments and once owned the former mansion of New York City Mayor Fiorello La Guardia.  Silverberg has been married twice. He and Barbara Brown married in 1956, separated in 1976, and divorced a decade later. Silverberg and science fiction writer Karen Haber married in 1987. They live in the San Francisco Bay Area. Before the age of 30, Silverberg was independently wealthy through his investments and once owned the former mansion of New York City Mayor Fiorello La Guardia.  Silverberg has been married twice. He and Barbara Brown married in 1956, separated in 1976, and divorced a decade later. Silverberg and science fiction writer Karen Haber married in 1987. They live in the San Francisco Bay Area. Before the age of 30, Silverberg was independently wealthy through his investments and once owned the former mansion of New York City Mayor Fiorello La Guardia. 
 p7
-sS'countries'
+sS'name'
 p8
-(lp9
+VRobert Silverberg
+p9
+sS'countries'
+p10
+(lp11
 I2
 asS'wikipedia'
-p10
-(dp11
-S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Alpha_6_(Robert_Silverberg_anthology)
-p13
-sS'found'
+(dp13
+S'url'
 p14
+S'https://en.wikipedia.org/wiki/Robert_Silverberg'
+p15
+sS'found'
+p16
 I01
 ssS'n_books'
-p15
+p17
 I7
 sS'summary'
-p16
-VAlpha 6 is a science fiction anthology edited by American writer Robert Silverberg, first published in 1976.
-p17
-sS'books'
 p18
-(lp19
+VRobert Silverberg (born January 15, 1935) is an American author and editor, best known for writing science fiction. He is a multiple winner of both Hugo and Nebula Awards, a member of the Science Fiction and Fantasy Hall of Fame, and a Grand Master of SF. He attended every Hugo Awards ceremony since the inaugural event in 1953.\u000a\u000a
+p19
+sS'born'
+p20
+cdatetime
+datetime
+p21
+(S'\x07\x8f\x01\x0f\x00\x00\x00\x00\x00\x00'
+p22
+tp23
+Rp24
+sS'books'
+p25
+(lp26
 I141
 aI208
 aI209
@@ -46,6 +59,6 @@ aI256
 aI323
 aI443
 asS'id'
-p20
+p27
 I50
 sb.

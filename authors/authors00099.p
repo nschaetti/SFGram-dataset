@@ -23,7 +23,7 @@ p10
 (dp11
 S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/The_Radio_Man
+S'https://en.wikipedia.org/wiki/Roger_Sherman_Hoar'
 p13
 sS'found'
 p14
@@ -33,7 +33,7 @@ p15
 I2
 sS'summary'
 p16
-VThe Radio Man is a science fiction novel by American writer Ralph Milne Farley. It is the first book in Farley's Radio Man series. It was first published in book form in 1948 by Fantasy Publishing Company, Inc. in an edition of 1,000 copies. The novel was originally serialized in the magazine Argosy.
+VRoger Sherman Hoar (April 8, 1887 \u2013 October 10, 1963) was an American state senator and assistant Attorney General, for the state of Massachusetts. He also wrote science fiction under the pseudonym of "Ralph Milne Farley".
 p17
 sS'books'
 p18

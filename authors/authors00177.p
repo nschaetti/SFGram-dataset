@@ -12,7 +12,7 @@ Rp4
 (dp5
 S'bio'
 p6
-V Pitney was touring the UK in the spring of 2006 when his manager found him dead in his hotel room in Cardiff on April 5. An autopsy found the cause of death to be a heart attack and that he had severely occluded coronary arteries. His final show at Cardiff's St David's Hall had earned him a standing ovation; he ended with "Town Without Pity." He was survived by his wife Lynne and their three sons Todd, Chris, and David. His remains were buried at Somers Center Cemetery in Somers, Connecticut.
+VCarr married a fellow science fiction fan, Miriam Dyches, in 1959. They were divorced in 1961. Later that year, Carr married Carol Stuart. He remained married to her until his death. Under her married name of Carol Carr, his widow has also sold science fiction: "You Think You've Got Troubles" (1969), "Inside" (1970), "Some Are Born Cats" (1973, with Terry Carr), "Wally a Deux" (1973), and "Tooth Fairy" (1984).\u000aTerry Carr died April 7, 1987 from congestive heart failure. A memorial gathering of the sf community was held in Tilden Park in Berkeley, California on May 30. An original anthology of science fiction, Terry's Universe, was published the following year; all proceeds went to his widow. His papers and his large collection of fanzines (71 linear feet and almost 2000 titles) have become part of the Eaton collection of Science Fiction at the University of California, Riverside. Carr married a fellow science fiction fan, Miriam Dyches, in 1959. They were divorced in 1961. Later that year, Carr married Carol Stuart. He remained married to her until his death. Under her married name of Carol Carr, his widow has also sold science fiction: "You Think You've Got Troubles" (1969), "Inside" (1970), "Some Are Born Cats" (1973, with Terry Carr), "Wally a Deux" (1973), and "Tooth Fairy" (1984).\u000aTerry Carr died April 7, 1987 from congestive heart failure. A memorial gathering of the sf community was held in Tilden Park in Berkeley, California on May 30. An original anthology of science fiction, Terry's Universe, was published the following year; all proceeds went to his widow. His papers and his large collection of fanzines (71 linear feet and almost 2000 titles) have become part of the Eaton collection of Science Fiction at the University of California, Riverside. Carr married a fellow science fiction fan, Miriam Dyches, in 1959. They were divorced in 1961. Later that year, Carr married Carol Stuart. He remained married to her until his death. Under her married name of Carol Carr, his widow has also sold science fiction: "You Think You've Got Troubles" (1969), "Inside" (1970), "Some Are Born Cats" (1973, with Terry Carr), "Wally a Deux" (1973), and "Tooth Fairy" (1984).\u000aTerry Carr died April 7, 1987 from congestive heart failure. A memorial gathering of the sf community was held in Tilden Park in Berkeley, California on May 30. An original anthology of science fiction, Terry's Universe, was published the following year; all proceeds went to his widow. His papers and his large collection of fanzines (71 linear feet and almost 2000 titles) have become part of the Eaton collection of Science Fiction at the University of California, Riverside.
 p7
 sS'name'
 p8
@@ -27,7 +27,7 @@ p12
 (dp13
 S'url'
 p14
-Vhttps://en.wikipedia.org/wiki/Gene_Pitney
+S'https://en.wikipedia.org/wiki/Terry_Carr'
 p15
 sS'found'
 p16
@@ -37,14 +37,14 @@ p17
 I1
 sS'summary'
 p18
-VGene Francis Alan Pitney (February 17, 1940 \u2013 April 5, 2006) was an American singer-songwriter, musician, and sound engineer.\u000aPitney charted 16 Top-40 hits in the United States, four in the Top 10. In the United Kingdom he had 22 Top-40 hits, and 11 singles in the Top Ten. He also wrote the early 1960s hits "Rubber Ball" recorded by Bobby Vee, "He's a Rebel" by the Crystals, and "Hello Mary Lou" by Ricky Nelson. In 2002, he was inducted into the Rock and Roll Hall of Fame.\u000a\u000a
+VTerry Gene Carr (February 19, 1937 \u2013 April 7, 1987) was a United States science fiction fan, author, editor, and writing instructor.
 p19
 sS'born'
 p20
 cdatetime
 datetime
 p21
-(S'\x07\x94\x02\x11\x00\x00\x00\x00\x00\x00'
+(S'\x07\x91\x02\x13\x00\x00\x00\x00\x00\x00'
 p22
 tp23
 Rp24
@@ -58,7 +58,7 @@ I177
 sS'died'
 p28
 g21
-(S'\x07\xd6\x04\x05\x00\x00\x00\x00\x00\x00'
+(S'\x07\xc3\x04\x07\x00\x00\x00\x00\x00\x00'
 p29
 tp30
 Rp31

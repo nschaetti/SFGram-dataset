@@ -1,15 +1,20 @@
 {
+    "bio": "Bradshaw was born in 1851 in Ireland and brought to the United States as an infant. He was a resident of Flushing, Queens, New York from 1896 until his death (residing at 57 St. George's Place, Flushing, during December, 1913).\nHe was an active participant of anti-vivisectionism for many years.\nA member of the Republican party, he served as a party district captain in Flushing. Bradshaw died after a brief illness at his home at 37 Locust Street, Flushing on July 19, 1927, aged 75. He was survived by his wife, two sons and three daughters. Bradshaw was born in 1851 in Ireland and brought to the United States as an infant. He was a resident of Flushing, Queens, New York from 1896 until his death (residing at 57 St. George's Place, Flushing, during December, 1913).\nHe was an active participant of anti-vivisectionism for many years.\nA member of the Republican party, he served as a party district captain in Flushing. Bradshaw died after a brief illness at his home at 37 Locust Street, Flushing on July 19, 1927, aged 75. He was survived by his wife, two sons and three daughters. Bradshaw was born in 1851 in Ireland and brought to the United States as an infant. He was a resident of Flushing, Queens, New York from 1896 until his death (residing at 57 St. George's Place, Flushing, during December, 1913).\nHe was an active participant of anti-vivisectionism for many years.\nA member of the Republican party, he served as a party district captain in Flushing. Bradshaw died after a brief illness at his home at 37 Locust Street, Flushing on July 19, 1927, aged 75. He was survived by his wife, two sons and three daughters.", 
     "name": "William Richard Bradshaw", 
     "countries": [
         2, 
         17
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/William_R._Bradshaw", 
+        "found": true
     }, 
     "n_books": 1, 
+    "summary": "William Richard Bradshaw (1851\u20131927) was an Irish-born American author, editor and lecturer who served as president of the New York Anti-Vivisection Society. He is known best for his science fiction-type novel The Goddess of Atvatabar.", 
+    "born": "1851-10-17 00:00:00", 
     "books": [
         310
     ], 
-    "id": 102
+    "id": 102, 
+    "died": "1927-10-17 00:00:00"
 }

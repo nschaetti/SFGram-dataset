@@ -4,11 +4,15 @@
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Eando_Binder", 
+        "found": true
     }, 
     "n_books": 1, 
+    "summary": "Eando Binder is a pen-name used by two mid-20th-century science fiction authors, Earl Andrew Binder (1904\u20131965) and his brother Otto Binder (1911\u20131974). The name is derived from their first initials (\"E and O Binder\").\nUnder the Eando name, the Binders wrote some published science fiction, including stories featuring a heroic robot named Adam Link. The first Adam Link story, published in 1939, is titled I, Robot. An unrelated collection of stories by Isaac Asimov, also entitled I, Robot, was published in 1950. The name was chosen by the publisher, against Asimov's wishes.\nBy 1939, Otto had taken over all of the writing, leaving Earl to act as his literary agent. Under his own name, Otto wrote for the Captain Marvel line of comic books published by Fawcett Comics (1941\u20131953) and the Superman line for DC Comics (1948\u20131969).", 
+    "born": "1904-10-17 00:00:00", 
     "books": [
         287
     ], 
-    "id": 92
+    "id": 92, 
+    "died": "1965-10-17 00:00:00"
 }

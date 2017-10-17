@@ -24,7 +24,7 @@ p10
 (dp11
 S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/A_Princess_of_Mars
+S'https://en.wikipedia.org/wiki/Edwin_Lester_Arnold'
 p13
 sS'found'
 p14
@@ -34,7 +34,7 @@ p15
 I1
 sS'summary'
 p16
-VA Princess of Mars is a science fantasy novel by American writer Edgar Rice Burroughs, the first of his Barsoom series. It was first serialized in the pulp magazine All-Story Magazine from February\u2013July, 1912. Full of swordplay and daring feats, the novel is considered a classic example of 20th-century pulp fiction. It is also a seminal instance of the planetary romance, a subgenre of science fantasy that became highly popular in the decades following its publication. Its early chapters also contain elements of the Western. The story is set on Mars, imagined as a dying planet with a harsh desert environment. This vision of Mars was based on the work of the astronomer Percival Lowell, whose ideas were widely popularized in the late 19th and early 20th centuries.\u000aThe Barsoom series inspired a number of well-known 20th-century science fiction writers, including Jack Vance, Ray Bradbury, Arthur C. Clarke, Robert A. Heinlein, and John Norman. The series was also inspirational for many scientists in the fields of space exploration and the search for extraterrestrial life, including Carl Sagan, who read A Princess of Mars when he was a child.
+VEdwin Lester Linden Arnold (14 May 1857 \u2013 1 March 1935) was an English author. Most of his works were issued under his working name of Edwin Lester Arnold.\u000aArnold was born in Swanscombe, Kent, as son of Sir Edwin Arnold. Most of his childhood was spent in India, but he returned to England to study agriculture and ornithology. He became a journalist in 1883, and published his first books A Holiday In Scandinavia (1877) and Bird Life In England (1887) before writing his first novel The Wonderful Adventures of Phra the Phoenician, the adventures of a warrior who goes in and out of an unexplained state of suspended animation in order to be a witness to invasions or attempted invasions of England. Phra was first published in 24 parts in the prestigious Illustrated London News, and later published in book form in the United States and the United Kingdom.\u000aArnold later wrote other novels, including Rutherford the Twice-Born (1892) and Lepidus the Centurion: A Roman of Today (1901), both of which flopped commercially. In 1905 Arnold published his best known novel, Lieut. Gullivar Jones: His Vacation, also known as Gulliver of Mars, (1905). Its initial reception was lukewarm, leading Arnold to stop writing fiction altogether.
 p17
 sS'books'
 p18

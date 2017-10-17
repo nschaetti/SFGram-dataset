@@ -4,16 +4,12 @@
         3
     ], 
     "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Chabrill%C3%B3n", 
-        "found": true
+        "found": false
     }, 
     "n_books": 2, 
-    "summary": "Andr\u00e9s Chabrill\u00f3n (anglicised as Andres Chabrillon, 20 September 1887\u20141968) was an Argentine poet, writer, lecturer and literature professor of French descent.\nChabrill\u00f3n was born in Paran\u00e1, Entre R\u00edos, and later lived in Buenos Aires.\nHe travelled widely across Europe and the Americas. In 1911 he published his first book of poems, entitled \"A la luz de una sombra\" (\"Under a shadow's light\").\nHe is considered one of the advanced poets of the creationism movement that was initiated with Vicente Huidobro and Pierre Reverdy. He handled the historical, the specific, the picturesque, the artificial, and sometimes he took for himself some elements of symbolism, of the Parnaso and those of decadentism (basic components of his revolutionary formula). As Mastronardi would do in the next movement, Chabrill\u00f3n pioneered the modernist \"Kermesse porte\u00f1a\" in a very \"entrerrianian\" way.\nHe belonged to the group of Bohemians who would meet at the Caf\u00e9 de los Inmortales in Buenos Aires.\nEvaristo Carriego, Ghiraldo, \u00c1lvaro Meli\u00e1n Lafinur, Enrique Banchs, Juan Pedro Calou, Roberto F. Giusti, Alfredo Bianchi, Juan Pablo Echag\u00fce, Hugo de Ach\u00e1val, Natalio Botana, Alberto Gerchunoff, Charles de Soussens, Roberto J. Payr\u00f3, Luis Doello Jurado, Edmundo Montagne, Bernardo Gonz\u00e1lez Arrili, Domingo Robatto, H\u00e9ctor Pedro Blomberg, Federico Carlando, Juan Francisco Palerino, Fern\u00e1n F\u00e9lix de Amador and the viscount Emilio de Lascano Tegui were some of the poets and writers that used to share their time with Chabrill\u00f3n.\nHe graduated as an Attorney in 1913 from the Faculty of Law, University of Buenos Aires. He practiced as a lawyer and judge in the provinces of Entre R\u00edos and Misiones Province.\nIn 1918 he moved to Concordia, Entre R\u00edos, where he lived until 1962. He then moved to Buenos Aires, where he spent the last few years of his life until his death in 1968.", 
-    "born": "1887-09-20 00:00:00", 
     "books": [
         475, 
         742
     ], 
-    "id": 159, 
-    "died": "2038-01-01 00:00:00"
+    "id": 159
 }

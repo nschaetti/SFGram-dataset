@@ -1,12 +1,16 @@
 {
+    "bio": "Most of Jones' short fiction was published during the 1940s, 1950s, and 1960s, in magazines such as Thrilling Wonder Stories, Astounding Stories, and Galaxy. His sixteen novels were published between 1951 and 1978.\nHis short story \"Rat Race\", first published in the April 1966 issue of Analog Science Fiction and Fact, was nominated for a Hugo Award. In 1996, \"Correspondence Course\", first published in the April 1945 edition of Astounding Stories, was nominated for a Retro Hugo award for best short story. Another short story, \"The Alien Machine\", first published in the June 1949 edition of Thrilling Wonder Stories, was later combined with two other short stories, \"The Shroud of Secrecy\" and \"The Greater Conflict\", and expanded into the novel This Island Earth, upon which the movie of the same name was based.\nJones also wrote the story upon which a 1952 Tales of Tomorrow television program episode, titled \"The Children's Room\", was based.\nJones short story, \"Tools of the Trade\", that appeared in the November, 1950 issue of Astounding, was the FIRST story dealing with 3-D printing, although he called it \"Molecular Spray\" at the time. Jones was born at Salt Lake City, Utah, and was a Mormon from birth. He died at Sandy, Utah, in 1994. Most of Jones' short fiction was published during the 1940s, 1950s, and 1960s, in magazines such as Thrilling Wonder Stories, Astounding Stories, and Galaxy. His sixteen novels were published between 1951 and 1978.\nHis short story \"Rat Race\", first published in the April 1966 issue of Analog Science Fiction and Fact, was nominated for a Hugo Award. In 1996, \"Correspondence Course\", first published in the April 1945 edition of Astounding Stories, was nominated for a Retro Hugo award for best short story. Another short story, \"The Alien Machine\", first published in the June 1949 edition of Thrilling Wonder Stories, was later combined with two other short stories, \"The Shroud of Secrecy\" and \"The Greater Conflict\", and expanded into the novel This Island Earth, upon which the movie of the same name was based.\nJones also wrote the story upon which a 1952 Tales of Tomorrow television program episode, titled \"The Children's Room\", was based.\nJones short story, \"Tools of the Trade\", that appeared in the November, 1950 issue of Astounding, was the FIRST story dealing with 3-D printing, although he called it \"Molecular Spray\" at the time. Jones was born at Salt Lake City, Utah, and was a Mormon from birth. He died at Sandy, Utah, in 1994. Most of Jones' short fiction was published during the 1940s, 1950s, and 1960s, in magazines such as Thrilling Wonder Stories, Astounding Stories, and Galaxy. His sixteen novels were published between 1951 and 1978.\nHis short story \"Rat Race\", first published in the April 1966 issue of Analog Science Fiction and Fact, was nominated for a Hugo Award. In 1996, \"Correspondence Course\", first published in the April 1945 edition of Astounding Stories, was nominated for a Retro Hugo award for best short story. Another short story, \"The Alien Machine\", first published in the June 1949 edition of Thrilling Wonder Stories, was later combined with two other short stories, \"The Shroud of Secrecy\" and \"The Greater Conflict\", and expanded into the novel This Island Earth, upon which the movie of the same name was based.\nJones also wrote the story upon which a 1952 Tales of Tomorrow television program episode, titled \"The Children's Room\", was based.\nJones short story, \"Tools of the Trade\", that appeared in the November, 1950 issue of Astounding, was the FIRST story dealing with 3-D printing, although he called it \"Molecular Spray\" at the time. Jones was born at Salt Lake City, Utah, and was a Mormon from birth. He died at Sandy, Utah, in 1994.", 
     "name": "Raymond F. Jones", 
     "countries": [
         2
     ], 
     "wikipedia": {
-        "found": false
+        "url": "https://en.wikipedia.org/wiki/Raymond_F._Jones", 
+        "found": true
     }, 
     "n_books": 5, 
+    "summary": "Raymond Fisher Jones (15 November 1915 \u2013 24 January 1994) was an American science fiction author. He is best known for his 1952 novel This Island Earth, which was adapted into the eponymous 1955 film.", 
+    "born": "1915-11-15 00:00:00", 
     "books": [
         400, 
         680, 
@@ -14,5 +18,6 @@
         793, 
         834
     ], 
-    "id": 129
+    "id": 129, 
+    "died": "1994-01-24 00:00:00"
 }

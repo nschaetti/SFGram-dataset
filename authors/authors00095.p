@@ -10,34 +10,38 @@ p2
 Ntp3
 Rp4
 (dp5
-S'name'
+S'bio'
 p6
-VGeorge O. Smith
+VSmith was an active contributor to Astounding Science Fiction during the Golden Age of Science Fiction in the 1940s. His collaboration with the magazine's editor, John W. Campbell, Jr. was interrupted when Campbell's first wife, Doña, left him in 1949 and married Smith.\u000aSmith continued regularly publishing science fiction novels and stories until 1960. His output greatly diminished in the 1960s and 1970s when he had a job that required his undivided attention. He was given the First Fandom Hall of Fame award in 1980.\u000aHe was a member of the all-male literary banqueting club the Trap Door Spiders, which served as the basis of Isaac Asimov's fictional group of mystery solvers the Black Widowers. Smith was an active contributor to Astounding Science Fiction during the Golden Age of Science Fiction in the 1940s. His collaboration with the magazine's editor, John W. Campbell, Jr. was interrupted when Campbell's first wife, Doña, left him in 1949 and married Smith.\u000aSmith continued regularly publishing science fiction novels and stories until 1960. His output greatly diminished in the 1960s and 1970s when he had a job that required his undivided attention. He was given the First Fandom Hall of Fame award in 1980.\u000aHe was a member of the all-male literary banqueting club the Trap Door Spiders, which served as the basis of Isaac Asimov's fictional group of mystery solvers the Black Widowers. Smith was an active contributor to Astounding Science Fiction during the Golden Age of Science Fiction in the 1940s. His collaboration with the magazine's editor, John W. Campbell, Jr. was interrupted when Campbell's first wife, Doña, left him in 1949 and married Smith.\u000aSmith continued regularly publishing science fiction novels and stories until 1960. His output greatly diminished in the 1960s and 1970s when he had a job that required his undivided attention. He was given the First Fandom Hall of Fame award in 1980.\u000aHe was a member of the all-male literary banqueting club the Trap Door Spiders, which served as the basis of Isaac Asimov's fictional group of mystery solvers the Black Widowers.
 p7
-sS'countries'
+sS'name'
 p8
-(lp9
+VGeorge O. Smith
+p9
+sS'countries'
+p10
+(lp11
 I2
 asS'wikipedia'
-p10
-(dp11
-S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/George_H._Smith_(fiction_author)
-p13
-sS'found'
+(dp13
+S'url'
 p14
+S'https://en.wikipedia.org/wiki/George_O._Smith'
+p15
+sS'found'
+p16
 I01
 ssS'n_books'
-p15
+p17
 I8
 sS'summary'
-p16
-VGeorge Henry Smith (October 27, 1922 \u2013 May 22, 1996) was an American science fiction author, who also wrote soft-core erotica. He is not the same person as George H. Smith, a libertarian writer, or George O. Smith, another science fiction writer. There were at least 3 authors writing as "George H. Smith" in the 1960s; one wrote many "swamp love" paperback originals, which are often erroneously attributed to George Henry Smith. Smith himself used the pseudonyms Jerry August, Don Bellmore, Ross Camra, M J Deer (with his wife, Jane Deer Smith), John Dexter (a "house name" used by multiple authors); George Devlin, Robert Hadley, Jan Hudson (a "house name"), Jerry Jason, Clancy O'Brien, Alan Robinson, Holt Standish, Diana Summers, Hal Stryker, Hank Stryker, Morgan Trehune, Roy Warren, and J X Williams (a "house name") for publishers such as Avalon, Beacon, Boudoir, Brandon House, Epic, Evening Reader, France, Greenleaf, Midwood, Monarch, Notetime, Pike, Pillow, and Playtime. It is known that he wrote more than 100 novels.
-p17
-sS'books'
 p18
-(lp19
+VGeorge Oliver Smith (April 9, 1911 \u2013 May 27, 1981) (also known by the pseudonym Wesley Long) was an American science fiction author. He is not to be confused with George H. Smith, another American science fiction author.
+p19
+sS'books'
+p20
+(lp21
 I296
 aI572
 aI597
@@ -47,6 +51,6 @@ aI807
 aI823
 aI927
 asS'id'
-p20
+p22
 I95
 sb.

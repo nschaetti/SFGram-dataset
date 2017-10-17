@@ -12,7 +12,7 @@ Rp4
 (dp5
 S'bio'
 p6
-VLawrence was born March 1940 in New York City. She has previously lived in Greece, and in Oxford with her late husband. She currently lives in Athens, Greece. Little is known of Lawrence's life before her marriage to James Blish, in 1964. During her short marriage, she became confidant and collaborator to her husband. Her contributions to Blish's Star Trek novelization series were uncredited until the release of Star Trek 11 in 1977. The final volume in the series was Mudd's Angels in 1978, which included two episode adaptations and an original novella by Lawrence.\u000a\u000aLawrence's short fiction was regularly published by Galaxy Science Fiction, and included in several short fiction anthologies. As an illustrator, her work includes the covers to editions of Black Easter and The Day After Judgment. She also sketched the cover of Fugue for a Darkening Island by Christopher Priest. She contributed two covers to the Kalki science fiction fanzine, and the cover for the April 1972 issue of The Magazine of Fantasy & Science Fiction.
+VBlish died on 30 July 1975 and was buried in Holywell Cemetery, Oxford. The archive of Blish's books and papers is deposited at the Bodleian Library in Oxford. Blish died on 30 July 1975 and was buried in Holywell Cemetery, Oxford. The archive of Blish's books and papers is deposited at the Bodleian Library in Oxford. Blish died on 30 July 1975 and was buried in Holywell Cemetery, Oxford. The archive of Blish's books and papers is deposited at the Bodleian Library in Oxford.
 p7
 sS'name'
 p8
@@ -27,7 +27,7 @@ p12
 (dp13
 S'url'
 p14
-Vhttps://en.wikipedia.org/wiki/J._A._Lawrence
+S'https://en.wikipedia.org/wiki/James_Blish'
 p15
 sS'found'
 p16
@@ -37,14 +37,14 @@ p17
 I2
 sS'summary'
 p18
-VJudith Ann Blish (née Lawrence \u2014 born c. March 1940), also credited as Judith L. Blish and Judy Blish, is an American sketch artist and short fiction writer known for her collaborative work with her husband, James Blish, on the Bantam Books series of Star Trek episode novelizations. She has also been active in preserving and promoting her husband's other works.
+VJames Benjamin Blish (May 23, 1921 \u2013 July 30, 1975) was an American author of fantasy and science fiction. He is best known for his work on Star Trek. Blish also wrote literary criticism of science fiction using the pen-name William Atheling Jr.
 p19
 sS'born'
 p20
 cdatetime
 datetime
 p21
-(S'\x07\x94\x08\x19\x00\x00\x00\x00\x00\x00'
+(S'\x07\x81\x05\x17\x00\x00\x00\x00\x00\x00'
 p22
 tp23
 Rp24
@@ -56,4 +56,11 @@ aI198
 asS'id'
 p27
 I55
+sS'died'
+p28
+g21
+(S'\x07\xb7\x07\x1e\x00\x00\x00\x00\x00\x00'
+p29
+tp30
+Rp31
 sb.

@@ -23,7 +23,7 @@ p10
 (dp11
 S'url'
 p12
-Vhttps://en.wikipedia.org/wiki/Mark_Phillips_(author)
+S'https://en.wikipedia.org/wiki/Randall_Garrett'
 p13
 sS'found'
 p14
@@ -33,11 +33,20 @@ p15
 I44
 sS'summary'
 p16
-VMark Phillips was the joint pseudonym used by science fiction writers Laurence Mark Janifer and Randall Philip Garrett in the early 1960s. Together they authored several humorous short novels in the so-called "Psi-Power" series: Brain Twister (1962), The Impossibles (1963), and Supermind (1963). For Brain Twister they were nominated for the Hugo Award for Best Novel in 1960 (under the novel's original title, "That Sweet Little Old Lady"). They also co-authored the novel Pagan Passions (1959) with Garrett using his own name and Janifer using his Larry M. Harris pseudonym.
+VRandall Garrett (December 16, 1927 \u2013 December 31, 1987) was an American science fiction and fantasy author. He was a prolific contributor to Astounding and other science fiction magazines of the 1950s and 1960s. He instructed Robert Silverberg in the techniques of selling large quantities of action-adventure science fiction, and collaborated with him on two novels about Earth bringing civilization to an alien planet.
 p17
-sS'books'
+sS'born'
 p18
-(lp19
+cdatetime
+datetime
+p19
+(S'\x07\x87\x0c\x10\x00\x00\x00\x00\x00\x00'
+p20
+tp21
+Rp22
+sS'books'
+p23
+(lp24
 I141
 aI161
 aI194
@@ -83,6 +92,13 @@ aI708
 aI854
 aI879
 asS'id'
-p20
+p25
 I49
+sS'died'
+p26
+g19
+(S'\x07\xc3\x0c\x1f\x00\x00\x00\x00\x00\x00'
+p27
+tp28
+Rp29
 sb.
