@@ -1,0 +1,130 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1964", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v22n05_1964-06_modified/Galaxy_v22n05_1964-06_modified_jp2.zip&file=Galaxy_v22n05_1964-06_modified_jp2/Galaxy_v22n05_1964-06_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/aa/GALJUN1964.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        578, 
+        499, 
+        581, 
+        563, 
+        40, 
+        339, 
+        326, 
+        443, 
+        204, 
+        590, 
+        30, 
+        588, 
+        315, 
+        591, 
+        16, 
+        47, 
+        302
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1101, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "To Build a World"
+        }, 
+        {
+            "author": 545, 
+            "title": "To Build a World [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "To Build a World [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "To Build a World [4]"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Man From Earth"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Well-Trained Heroes"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Well-Trained Heroes [2]"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Many Dooms"
+        }, 
+        {
+            "author": 578, 
+            "title": "An Ancient Madness"
+        }, 
+        {
+            "author": 578, 
+            "title": "An Ancient Madness [2]"
+        }, 
+        {
+            "author": 563, 
+            "title": "The Sincerest Form"
+        }, 
+        {
+            "author": 40, 
+            "title": "All We Unemployed"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Anyone Else for Space?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1964)"
+        }, 
+        {
+            "author": 443, 
+            "title": "The Well-Trained Heroes"
+        }, 
+        {
+            "author": 204, 
+            "title": "An Ancient Madness"
+        }, 
+        {
+            "author": 590, 
+            "title": "The Sincerest Form"
+        }, 
+        {
+            "author": 30, 
+            "title": "To Build a World"
+        }, 
+        {
+            "author": 588, 
+            "title": "The King of the Beasts"
+        }, 
+        {
+            "author": 315, 
+            "title": "The Man From Earth"
+        }, 
+        {
+            "author": 591, 
+            "title": "Collector's Fever"
+        }, 
+        {
+            "author": 16, 
+            "title": "The Many Dooms"
+        }, 
+        {
+            "author": 47, 
+            "title": "Men of Good Will"
+        }
+    ]
+}

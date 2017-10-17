@@ -1,0 +1,77 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1974", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v34n05_1974-02/Galaxy_v34n05_1974-02_jp2.zip&file=Galaxy_v34n05_1974-02_jp2/Galaxy_v34n05_1974-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9d/GALFEB74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        341, 
+        326, 
+        74, 
+        730, 
+        577, 
+        725, 
+        731, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1169, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Created Equal"
+        }, 
+        {
+            "author": 499, 
+            "title": "Deathsong"
+        }, 
+        {
+            "author": 499, 
+            "title": "Rivers of Damascus"
+        }, 
+        {
+            "author": 499, 
+            "title": "Protest"
+        }, 
+        {
+            "author": 499, 
+            "title": "Inverted World (Part 3 of 4)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, February 1974)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, February 1974)"
+        }, 
+        {
+            "author": 74, 
+            "title": "Rivers of Damascus"
+        }, 
+        {
+            "author": 730, 
+            "title": "Created Equal"
+        }, 
+        {
+            "author": 577, 
+            "title": "Deathsong"
+        }, 
+        {
+            "author": 725, 
+            "title": "Inverted World (Part 3 of 4)"
+        }, 
+        {
+            "author": 731, 
+            "title": "Protest"
+        }
+    ]
+}

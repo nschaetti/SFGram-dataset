@@ -1,0 +1,141 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1968", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v27n05_1968-12_modified/Galaxy_v27n05_1968-12_modified_jp2.zip&file=Galaxy_v27n05_1968-12_modified_jp2/Galaxy_v27n05_1968-12_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/7a/GALDEC68.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        640, 
+        641, 
+        499, 
+        545, 
+        642, 
+        40, 
+        339, 
+        326, 
+        91, 
+        30, 
+        129, 
+        383, 
+        69, 
+        32, 
+        643, 
+        603, 
+        302
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1128, 
+    "contents": [
+        {
+            "author": 640, 
+            "title": "The Sharing of Flesh"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Sharing of Flesh [2]"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Sharing of Flesh [3]"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Sharing of Flesh [4]"
+        }, 
+        {
+            "author": 641, 
+            "title": "One Station of the Way"
+        }, 
+        {
+            "author": 499, 
+            "title": "Subway to the Stars"
+        }, 
+        {
+            "author": 499, 
+            "title": "Subway to the Stars [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Subway to the Stars [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "A Life Postponed"
+        }, 
+        {
+            "author": 545, 
+            "title": "A Life Postponed [2]"
+        }, 
+        {
+            "author": 642, 
+            "title": "Spying Season"
+        }, 
+        {
+            "author": 642, 
+            "title": "Spying Season [2]"
+        }, 
+        {
+            "author": 642, 
+            "title": "Spying Season [3]"
+        }, 
+        {
+            "author": 642, 
+            "title": "Spying Season [4]"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Great Inventions"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Discovery of the Solar System"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1968)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, December 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, December 1968)"
+        }, 
+        {
+            "author": 30, 
+            "title": "The Sharing of Flesh"
+        }, 
+        {
+            "author": 129, 
+            "title": "Subway to the Stars"
+        }, 
+        {
+            "author": 383, 
+            "title": "A Life Postponed"
+        }, 
+        {
+            "author": 69, 
+            "title": "Spying Season"
+        }, 
+        {
+            "author": 32, 
+            "title": "One Station of the Way"
+        }, 
+        {
+            "author": 643, 
+            "title": "Sweet Dreams, Melissa"
+        }, 
+        {
+            "author": 603, 
+            "title": "Jinn"
+        }
+    ]
+}

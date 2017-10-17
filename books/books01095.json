@@ -1,0 +1,135 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1963", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v21n05_1963-06/Galaxy_v21n05_1963-06_jp2.zip&file=Galaxy_v21n05_1963-06_jp2/Galaxy_v21n05_1963-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/2c/GALJUN1963.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        581, 
+        568, 
+        497, 
+        582, 
+        40, 
+        339, 
+        483, 
+        326, 
+        67, 
+        575, 
+        56, 
+        278, 
+        315, 
+        302
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1095, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "Here Gather the Stars (Part 1 of 2)"
+        }, 
+        {
+            "author": 519, 
+            "title": "Here Gather the Stars (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Here Gather the Stars (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Here Gather the Stars (Part 1 of 2) [4]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Here Gather the Stars (Part 1 of 2) [5]"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Cool War"
+        }, 
+        {
+            "author": 568, 
+            "title": "End As a Hero"
+        }, 
+        {
+            "author": 568, 
+            "title": "End As a Hero [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Faithful Wilf"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Faithful Wilf [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Faithful Wilf [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Faithful Wilf [4]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Faithful Wilf [5]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Faithful Wilf [6]"
+        }, 
+        {
+            "author": 582, 
+            "title": "The Sellers of the Dream"
+        }, 
+        {
+            "author": 582, 
+            "title": "The Sellers of the Dream [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Of Worms and Men"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Sounding Rockets and Geoprobes"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1963)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1963)"
+        }, 
+        {
+            "author": 67, 
+            "title": "End As a Hero"
+        }, 
+        {
+            "author": 575, 
+            "title": "The Sellers of the Dream"
+        }, 
+        {
+            "author": 56, 
+            "title": "Here Gather the Stars (Part 1 of 2)"
+        }, 
+        {
+            "author": 278, 
+            "title": "The Cool War"
+        }, 
+        {
+            "author": 315, 
+            "title": "The Faithful Wilf"
+        }
+    ]
+}

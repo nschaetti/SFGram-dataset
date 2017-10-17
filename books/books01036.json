@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1956", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v11n04_1956-02/Galaxy_v11n04_1956-02_jp2.zip&file=Galaxy_v11n04_1956-02_jp2/Galaxy_v11n04_1956-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/33/MLO4386.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        481, 
+        488, 
+        471, 
+        305, 
+        326, 
+        339, 
+        483, 
+        214, 
+        443, 
+        45, 
+        30, 
+        23, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1036, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Man in a Sewing Machine"
+        }, 
+        {
+            "author": 363, 
+            "title": "Man in a Sewing Machine [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Man in a Sewing Machine [3]"
+        }, 
+        {
+            "author": 481, 
+            "title": "Dead-End Doctor"
+        }, 
+        {
+            "author": 481, 
+            "title": "The Corkscrew of Space"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Category Inventors"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Category Inventors [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Category Inventors [3]"
+        }, 
+        {
+            "author": 488, 
+            "title": "Trap"
+        }, 
+        {
+            "author": 471, 
+            "title": "Bodyguard"
+        }, 
+        {
+            "author": 471, 
+            "title": "Bodyguard [2]"
+        }, 
+        {
+            "author": 471, 
+            "title": "Bodyguard [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Saps Will Rise"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1956)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Other Side of the Moon"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, February 1956)"
+        }, 
+        {
+            "author": 214, 
+            "title": "Man in a Sewing Machine"
+        }, 
+        {
+            "author": 443, 
+            "title": "The Category Inventors"
+        }, 
+        {
+            "author": 305, 
+            "title": "Bodyguard"
+        }, 
+        {
+            "author": 45, 
+            "title": "Dead-End Doctor"
+        }, 
+        {
+            "author": 30, 
+            "title": "The Corkscrew of Space"
+        }, 
+        {
+            "author": 23, 
+            "title": "Trap"
+        }
+    ]
+}

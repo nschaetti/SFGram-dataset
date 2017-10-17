@@ -1,0 +1,128 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1952", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/Galaxy_v04n05_1952-08/Galaxy_v04n05_1952-08_jp2.zip&file=Galaxy_v04n05_1952-08_jp2/Galaxy_v04n05_1952-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/02/GALAUG1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        402, 
+        342, 
+        305, 
+        339, 
+        340, 
+        55, 
+        32, 
+        40, 
+        23, 
+        403, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 995, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Surface Tension"
+        }, 
+        {
+            "author": 363, 
+            "title": "Surface Tension [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Surface Tension [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Surface Tension [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Surface Tension [5]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Proof of the Pudding"
+        }, 
+        {
+            "author": 363, 
+            "title": "Proof of the Pudding [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Yesterday House"
+        }, 
+        {
+            "author": 402, 
+            "title": "Yesterday House [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Yesterday House [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Education of a Martian"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 3 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 3 of 3) [5]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Action &Amp; Reaction"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Supersonic Bot Fly"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, August 1952)"
+        }, 
+        {
+            "author": 55, 
+            "title": "Surface Tension"
+        }, 
+        {
+            "author": 32, 
+            "title": "Yesterday House"
+        }, 
+        {
+            "author": 40, 
+            "title": "Gravy Planet (Part 3 of 3)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Proof of the Pudding"
+        }, 
+        {
+            "author": 403, 
+            "title": "Education of a Martian"
+        }
+    ]
+}

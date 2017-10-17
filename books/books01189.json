@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1976", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v37n01_1976-01/Galaxy_v37n01_1976-01_jp2.zip&file=Galaxy_v37n01_1976-01_jp2/Galaxy_v37n01_1976-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/72/GALJAN1976.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        744, 
+        793, 
+        763, 
+        326, 
+        753, 
+        748, 
+        604, 
+        770, 
+        794, 
+        795, 
+        728, 
+        741, 
+        302
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 1189, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "Showcase (Galaxy, January 1976)"
+        }, 
+        {
+            "author": 744, 
+            "title": "Forum: Through Innocent Eyes"
+        }, 
+        {
+            "author": 744, 
+            "title": "We Who Are About to ... (Part 1 of 2)"
+        }, 
+        {
+            "author": 744, 
+            "title": "We Who Are About to ... (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 793, 
+            "title": "It's a Sunny Day"
+        }, 
+        {
+            "author": 744, 
+            "title": "Shattered Hopes, Broken Dreams"
+        }, 
+        {
+            "author": 744, 
+            "title": "Shattered Hopes, Broken Dreams [2]"
+        }, 
+        {
+            "author": 744, 
+            "title": "Shattered Hopes, Broken Dreams [3]"
+        }, 
+        {
+            "author": 763, 
+            "title": "A Step Farther Out: Building the Mote in God's Eye"
+        }, 
+        {
+            "author": 742, 
+            "title": "Angel of Destruction"
+        }, 
+        {
+            "author": 326, 
+            "title": "Ambiguous Oracle"
+        }, 
+        {
+            "author": 753, 
+            "title": "Getting Away"
+        }, 
+        {
+            "author": 748, 
+            "title": "Forum: Through Innocent Eyes"
+        }, 
+        {
+            "author": 604, 
+            "title": "Building the Mote in God's Eye"
+        }, 
+        {
+            "author": 770, 
+            "title": "Galaxy Bookshelf (Galaxy, January 1976)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, January 1976)"
+        }, 
+        {
+            "author": 794, 
+            "title": "Shattered Hopes, Broken Dreams"
+        }, 
+        {
+            "author": 795, 
+            "title": "Angel of Destruction"
+        }, 
+        {
+            "author": 728, 
+            "title": "We Who Are About to ... (Part 1 of 2)"
+        }, 
+        {
+            "author": 770, 
+            "title": "It's a Sunny Day"
+        }, 
+        {
+            "author": 770, 
+            "title": "Ambiguous Oracle"
+        }, 
+        {
+            "author": 741, 
+            "title": "Getting Away"
+        }
+    ]
+}

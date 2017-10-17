@@ -1,0 +1,101 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1974", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v35n12_1974-12/Galaxy_v35n12_1974-12_jp2.zip&file=Galaxy_v35n12_1974-12_jp2/Galaxy_v35n12_1974-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4c/GALDEC74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        742, 
+        743, 
+        734, 
+        341, 
+        69, 
+        761, 
+        762, 
+        561, 
+        741, 
+        50, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1179, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Cry Wolf!"
+        }, 
+        {
+            "author": 499, 
+            "title": "Ember Eyes"
+        }, 
+        {
+            "author": 326, 
+            "title": "Love Conquers All (Part 2 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Eggs of Eden"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Man Who Came Back"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Bleeding Man"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Bleeding Man [2]"
+        }, 
+        {
+            "author": 743, 
+            "title": "Forum: Escape Routes"
+        }, 
+        {
+            "author": 734, 
+            "title": "Black Holes and Cosmic Censorship"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, December 1974)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, December 1974)"
+        }, 
+        {
+            "author": 69, 
+            "title": "Cry Wolf!"
+        }, 
+        {
+            "author": 761, 
+            "title": "The Eggs of Eden"
+        }, 
+        {
+            "author": 762, 
+            "title": "The Bleeding Man"
+        }, 
+        {
+            "author": 561, 
+            "title": "Love Conquers All (Part 2 of 3)"
+        }, 
+        {
+            "author": 741, 
+            "title": "Ember Eyes"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Man Who Came Back"
+        }
+    ]
+}

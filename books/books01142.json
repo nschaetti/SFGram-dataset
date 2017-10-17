@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1970", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v30n03_1970-06/Galaxy_v30n03_1970-06_jp2.zip&file=Galaxy_v30n03_1970-06_jp2/Galaxy_v30n03_1970-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/54/GALJUN70.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        677, 
+        667, 
+        91, 
+        50, 
+        678, 
+        546, 
+        602, 
+        679, 
+        680, 
+        302
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1142, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Player at Yellow Silence"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Player at Yellow Silence [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Out of Mindshot"
+        }, 
+        {
+            "author": 499, 
+            "title": "Ship Me Tomorrow"
+        }, 
+        {
+            "author": 326, 
+            "title": "Oil-Mad Bug-Eyed Monsters"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Moon of Thin Reality"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 3 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Children's Crusade"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 3 of 3) [5]"
+        }, 
+        {
+            "author": 677, 
+            "title": "Galaxy Stars (Galaxy, June 1970)"
+        }, 
+        {
+            "author": 667, 
+            "title": "I Will Fear No Evil"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Book Shelf (Galaxy, June 1970)"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Tower of Glass (Part 3 of 3)"
+        }, 
+        {
+            "author": 678, 
+            "title": "The Player at Yellow Silence"
+        }, 
+        {
+            "author": 546, 
+            "title": "Out of Mindshot"
+        }, 
+        {
+            "author": 677, 
+            "title": "Ship Me Tomorrow"
+        }, 
+        {
+            "author": 602, 
+            "title": "Oil-Mad Bug-Eyed Monsters"
+        }, 
+        {
+            "author": 679, 
+            "title": "The Moon of Thin Reality"
+        }, 
+        {
+            "author": 680, 
+            "title": "Children's Crusade"
+        }
+    ]
+}

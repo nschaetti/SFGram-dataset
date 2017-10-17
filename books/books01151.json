@@ -1,0 +1,110 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1971", 
+    "cover": "https://ia800209.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v31n06_1971-05-06/Galaxy_v31n06_1971-05-06_jp2.zip&file=Galaxy_v31n06_1971-05-06_jp2/Galaxy_v31n06_1971-05-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e7/GALMAYJUN71.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        667, 
+        91, 
+        687, 
+        161, 
+        50, 
+        386, 
+        341, 
+        679, 
+        205, 
+        651, 
+        596, 
+        302
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1151, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Tip of the Iceberg"
+        }, 
+        {
+            "author": 326, 
+            "title": "Falling Through the World"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Message"
+        }, 
+        {
+            "author": 326, 
+            "title": "Rate of Exchange"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Time of Changes (Part 3 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Buyer"
+        }, 
+        {
+            "author": 326, 
+            "title": "Price of Leisure"
+        }, 
+        {
+            "author": 667, 
+            "title": "Letters 3"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Book Shelf (Galaxy, May-June 1971)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, May-June 1971)"
+        }, 
+        {
+            "author": 687, 
+            "title": "Tip of the Iceberg"
+        }, 
+        {
+            "author": 161, 
+            "title": "The Message"
+        }, 
+        {
+            "author": 50, 
+            "title": "A Time of Changes (Part 3 of 3)"
+        }, 
+        {
+            "author": 386, 
+            "title": "The No-Wind Spotted Tiger Planet"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Verity File"
+        }, 
+        {
+            "author": 679, 
+            "title": "Falling Through the World"
+        }, 
+        {
+            "author": 205, 
+            "title": "Rate of Exchange"
+        }, 
+        {
+            "author": 651, 
+            "title": "The Buyer"
+        }, 
+        {
+            "author": 596, 
+            "title": "Price of Leisure"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1979", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/Galaxy_v39n09_1979-03/Galaxy_v39n09_1979-03_jp2.zip&file=Galaxy_v39n09_1979-03_jp2/Galaxy_v39n09_1979-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c5/GALMARAPR79.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        881, 
+        744, 
+        882, 
+        883, 
+        884, 
+        885, 
+        843, 
+        767, 
+        844, 
+        326, 
+        886, 
+        384, 
+        40, 
+        887, 
+        888, 
+        889, 
+        302
+    ], 
+    "year": 1979, 
+    "images": [], 
+    "id": 1214, 
+    "contents": [
+        {
+            "author": 881, 
+            "title": "Parasite"
+        }, 
+        {
+            "author": 881, 
+            "title": "Parasite [2]"
+        }, 
+        {
+            "author": 881, 
+            "title": "Parasite [3]"
+        }, 
+        {
+            "author": 744, 
+            "title": "Duet"
+        }, 
+        {
+            "author": 881, 
+            "title": "Duet [2]"
+        }, 
+        {
+            "author": 882, 
+            "title": "Jem (Part 2 of 5)"
+        }, 
+        {
+            "author": 883, 
+            "title": "The World of God"
+        }, 
+        {
+            "author": 883, 
+            "title": "The World of God [2]"
+        }, 
+        {
+            "author": 884, 
+            "title": "A Scientific Fact"
+        }, 
+        {
+            "author": 885, 
+            "title": "Someone to Talk To"
+        }, 
+        {
+            "author": 885, 
+            "title": "Someone to Talk to [2]"
+        }, 
+        {
+            "author": 843, 
+            "title": "Galaxy Bookshelf (Galaxy, March-April 1979)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, March-April 1979)"
+        }, 
+        {
+            "author": 844, 
+            "title": "Directions (Galaxy, March-April 1979)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Things to Come (Galaxy, March-April 1979)"
+        }, 
+        {
+            "author": 886, 
+            "title": "Parasite"
+        }, 
+        {
+            "author": 384, 
+            "title": "The World of God"
+        }, 
+        {
+            "author": 40, 
+            "title": "Jem (Part 2 of 5)"
+        }, 
+        {
+            "author": 887, 
+            "title": "Duet"
+        }, 
+        {
+            "author": 888, 
+            "title": "A Scientific Fact"
+        }, 
+        {
+            "author": 889, 
+            "title": "Someone to Talk To"
+        }
+    ]
+}

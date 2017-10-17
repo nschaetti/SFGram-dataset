@@ -1,0 +1,121 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1952", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_v03n06_1952-03/Galaxy_v03n06_1952-03_jp2.zip&file=Galaxy_v03n06_1952-03_jp2/Galaxy_v03n06_1952-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/3a/GALMAR1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        390, 
+        352, 
+        326, 
+        305, 
+        339, 
+        340, 
+        371, 
+        385, 
+        94, 
+        391, 
+        204, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 990, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Year of the Jackpot"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Year of the Jackpot [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Year of the Jackpot [3]"
+        }, 
+        {
+            "author": 390, 
+            "title": "Manners of the Age"
+        }, 
+        {
+            "author": 390, 
+            "title": "Manners of the Age [2]"
+        }, 
+        {
+            "author": 390, 
+            "title": "Manners of the Age [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The 7th Order"
+        }, 
+        {
+            "author": 363, 
+            "title": "The 7th Order [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The 7th Order [3]"
+        }, 
+        {
+            "author": 352, 
+            "title": "Catch That Martian"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Demolished Man (Part 3 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Demolished Man (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Demolished Man (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Demolished Man (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "In This Corner"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information (Galaxy, March 1952)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, March 1952)"
+        }, 
+        {
+            "author": 371, 
+            "title": "The Year of the Jackpot"
+        }, 
+        {
+            "author": 385, 
+            "title": "The Demolished Man (Part 3 of 3)"
+        }, 
+        {
+            "author": 94, 
+            "title": "Manners of the Age"
+        }, 
+        {
+            "author": 391, 
+            "title": "The 7th Order"
+        }, 
+        {
+            "author": 204, 
+            "title": "Catch That Martian"
+        }
+    ]
+}

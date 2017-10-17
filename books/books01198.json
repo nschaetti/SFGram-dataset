@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1977", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v38n01_1977-03/Galaxy_v38n01_1977-03_jp2.zip&file=Galaxy_v38n01_1977-03_jp2/Galaxy_v38n01_1977-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/ab/GALMAR77.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        780, 
+        326, 
+        499, 
+        806, 
+        742, 
+        579, 
+        734, 
+        767, 
+        789, 
+        761, 
+        40, 
+        696, 
+        770, 
+        302
+    ], 
+    "year": 1977, 
+    "images": [], 
+    "id": 1198, 
+    "contents": [
+        {
+            "author": 780, 
+            "title": "Showcase (Galaxy, March 1977)"
+        }, 
+        {
+            "author": 326, 
+            "title": "They Who Go Down to the Sea"
+        }, 
+        {
+            "author": 326, 
+            "title": "They Who Go Down to the Sea [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Interstellar Probes and Starships"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tides of Time"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tides of Time [2]"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 3 of 3)"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Wallad Blonde"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Wallad Blonde [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "No Renewal"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, March 1977)"
+        }, 
+        {
+            "author": 579, 
+            "title": "Interstellar Probes and Starships"
+        }, 
+        {
+            "author": 734, 
+            "title": "Promises and a Potpourri"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, March 1977)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, March 1977)"
+        }, 
+        {
+            "author": 789, 
+            "title": "They Who Go Down to the Sea"
+        }, 
+        {
+            "author": 761, 
+            "title": "The Wallad Blonde"
+        }, 
+        {
+            "author": 40, 
+            "title": "Gateway (Part 3 of 3)"
+        }, 
+        {
+            "author": 696, 
+            "title": "The Tides of Time"
+        }, 
+        {
+            "author": 770, 
+            "title": "No Renewal"
+        }
+    ]
+}

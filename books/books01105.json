@@ -1,0 +1,127 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1965", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v23n03_1965-02/Galaxy_v23n03_1965-02_jp2.zip&file=Galaxy_v23n03_1965-02_jp2/Galaxy_v23n03_1965-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f5/GALFEB65.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        545, 
+        326, 
+        499, 
+        40, 
+        339, 
+        91, 
+        384, 
+        136, 
+        479, 
+        111, 
+        50, 
+        217, 
+        597, 
+        302
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1105, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "On the Storm Planet"
+        }, 
+        {
+            "author": 497, 
+            "title": "On the Storm Planet [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "On the Storm Planet [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "On the Storm Planet [4]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Man Who Killed Immortals"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Man Who Killed Immortals [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Man Who Killed Immortals [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, February 1965) (Circulation:73,536)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Planet of Forgetting"
+        }, 
+        {
+            "author": 499, 
+            "title": "Planet of Forgetting [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Planet of Forgetting [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Planet of Forgetting [4]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Fred Hoyle Revisited"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Forerunners of the Planetarium"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, February 1965)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1965)"
+        }, 
+        {
+            "author": 384, 
+            "title": "The Man Who Killed Immortals"
+        }, 
+        {
+            "author": 136, 
+            "title": "Planet of Forgetting"
+        }, 
+        {
+            "author": 479, 
+            "title": "On the Storm Planet"
+        }, 
+        {
+            "author": 111, 
+            "title": "A Flask of Fine Arcturan"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Sixth Palace"
+        }, 
+        {
+            "author": 217, 
+            "title": "Harry Protagonist, Brain-Drainer"
+        }, 
+        {
+            "author": 597, 
+            "title": "Fin's Funeral"
+        }
+    ]
+}

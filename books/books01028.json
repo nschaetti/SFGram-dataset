@@ -1,0 +1,132 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1955", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_v10n02_1955-05/Galaxy_v10n02_1955-05_jp2.zip&file=Galaxy_v10n02_1955-05_jp2/Galaxy_v10n02_1955-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e1/MLO4379.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        427, 
+        471, 
+        472, 
+        336, 
+        363, 
+        305, 
+        326, 
+        339, 
+        340, 
+        473, 
+        61, 
+        236, 
+        169, 
+        40, 
+        421, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1028, 
+    "contents": [
+        {
+            "author": 427, 
+            "title": "The Dreaming Wall"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Dreaming Wall [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Dreaming Wall [3]"
+        }, 
+        {
+            "author": 471, 
+            "title": "The Aggravation of Elmer"
+        }, 
+        {
+            "author": 472, 
+            "title": "The Middle of Nowhere"
+        }, 
+        {
+            "author": 472, 
+            "title": "The Middle of Nowhere [2]"
+        }, 
+        {
+            "author": 472, 
+            "title": "The Middle of Nowhere [3]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Sam, This Is You"
+        }, 
+        {
+            "author": 427, 
+            "title": "Sam, This Is You [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Sam, This Is You [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Competition"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Woman's Place"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Woman's Place [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Woman's Place [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "That's Two Votes"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, May 1955)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: \"Midnight Marvels\""
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, May 1955)"
+        }, 
+        {
+            "author": 473, 
+            "title": "The Dreaming Wall"
+        }, 
+        {
+            "author": 61, 
+            "title": "Sam, This Is You"
+        }, 
+        {
+            "author": 236, 
+            "title": "A Woman's Place"
+        }, 
+        {
+            "author": 169, 
+            "title": "The Aggravation of Elmer"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Middle of Nowhere"
+        }, 
+        {
+            "author": 421, 
+            "title": "Competition"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1950", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/Galaxy_v01n03_1950-12/Galaxy_v01n03_1950-12_jp2.zip&file=Galaxy_v01n03_1950-12_jp2/Galaxy_v01n03_1950-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/52/GALDEC1950.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        346, 
+        347, 
+        342, 
+        348, 
+        338, 
+        336, 
+        305, 
+        340, 
+        339, 
+        326, 
+        136, 
+        129, 
+        56, 
+        349, 
+        350, 
+        122, 
+        302
+    ], 
+    "year": 1950, 
+    "images": [], 
+    "id": 976, 
+    "contents": [
+        {
+            "author": 346, 
+            "title": "Second Night of Summer"
+        }, 
+        {
+            "author": 346, 
+            "title": "Second Night of Summer [2]"
+        }, 
+        {
+            "author": 346, 
+            "title": "Second Night of Summer [3]"
+        }, 
+        {
+            "author": 347, 
+            "title": "Judas Ram"
+        }, 
+        {
+            "author": 347, 
+            "title": "Judas Ram [2]"
+        }, 
+        {
+            "author": 347, 
+            "title": "Judas Ram [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Jaywalker"
+        }, 
+        {
+            "author": 348, 
+            "title": "A Stone and a Spear"
+        }, 
+        {
+            "author": 342, 
+            "title": "Twenty-Foot Miss"
+        }, 
+        {
+            "author": 338, 
+            "title": "The Waker Dreams"
+        }, 
+        {
+            "author": 338, 
+            "title": "The Waker Dreams [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 3 of 3)"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Let's Talk It Over"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, December 1950)"
+        }, 
+        {
+            "author": 339, 
+            "title": "Twenty-Foot Miss"
+        }, 
+        {
+            "author": 326, 
+            "title": "Next Month's Contents Page (Galaxy, December 1950)"
+        }, 
+        {
+            "author": 136, 
+            "title": "Second Night of Summer"
+        }, 
+        {
+            "author": 129, 
+            "title": "A Stone and a Spear"
+        }, 
+        {
+            "author": 56, 
+            "title": "Time Quarry (Part 3 of 3)"
+        }, 
+        {
+            "author": 349, 
+            "title": "Judas Ram"
+        }, 
+        {
+            "author": 350, 
+            "title": "Jaywalker"
+        }, 
+        {
+            "author": 122, 
+            "title": "The Waker Dreams"
+        }
+    ]
+}

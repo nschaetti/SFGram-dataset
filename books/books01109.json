@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1965", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v24n01_1965-10/Galaxy_v24n01_1965-10_jp2.zip&file=Galaxy_v24n01_1965-10_jp2/Galaxy_v24n01_1965-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/69/GALOCT65.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        545, 
+        499, 
+        40, 
+        339, 
+        91, 
+        326, 
+        479, 
+        23, 
+        18, 
+        305, 
+        132, 
+        56, 
+        32, 
+        3, 
+        302
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1109, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "The Age of the Pussyfoot (Part 1 of 3)"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Age of the Pussyfoot (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Age of the Pussyfoot (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Three to a Given Star"
+        }, 
+        {
+            "author": 545, 
+            "title": "Three to a Given Star [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Three to a Given Star [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Shall We Have a Little Talk?"
+        }, 
+        {
+            "author": 499, 
+            "title": "Shall We Have a Little Talk? [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Day After Tomorrow"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Fifteen Years of Galaxy -- Thirteen Years of F.Y.I."
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, October 1965)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1965)"
+        }, 
+        {
+            "author": 479, 
+            "title": "Three to a Given Star"
+        }, 
+        {
+            "author": 23, 
+            "title": "Shall We Have a Little Talk?"
+        }, 
+        {
+            "author": 18, 
+            "title": "The Machines, Beyond Shylock"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Age of the Pussyfoot (Part 1 of 3)"
+        }, 
+        {
+            "author": 305, 
+            "title": "Inside Man"
+        }, 
+        {
+            "author": 132, 
+            "title": "A Better Mousehole"
+        }, 
+        {
+            "author": 56, 
+            "title": "Small Deer"
+        }, 
+        {
+            "author": 32, 
+            "title": "The Good New Days"
+        }, 
+        {
+            "author": 3, 
+            "title": "Founding Father"
+        }
+    ]
+}

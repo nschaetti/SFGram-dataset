@@ -1,0 +1,95 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1974", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v35n07_1974-07/Galaxy_v35n07_1974-07_jp2.zip&file=Galaxy_v35n07_1974-07_jp2/Galaxy_v35n07_1974-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c1/GALJUL74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        739, 
+        3, 
+        734, 
+        665, 
+        740, 
+        418, 
+        561, 
+        741, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1174, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Frontliners"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Full Member of the Club"
+        }, 
+        {
+            "author": 326, 
+            "title": "Opening Problem"
+        }, 
+        {
+            "author": 499, 
+            "title": "Life Force"
+        }, 
+        {
+            "author": 739, 
+            "title": "Showcase (Galaxy, July 1974)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Act of Mercy"
+        }, 
+        {
+            "author": 326, 
+            "title": "Orbitsville (Part 2 of 3)"
+        }, 
+        {
+            "author": 3, 
+            "title": "Forum: Is There Hope for the Future?"
+        }, 
+        {
+            "author": 734, 
+            "title": "This Generation of Wonder"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, July 1974)"
+        }, 
+        {
+            "author": 665, 
+            "title": "A Full Member of the Club"
+        }, 
+        {
+            "author": 740, 
+            "title": "Opening Problem"
+        }, 
+        {
+            "author": 418, 
+            "title": "The Frontliners"
+        }, 
+        {
+            "author": 665, 
+            "title": "Orbitsville (Part 2 of 3)"
+        }, 
+        {
+            "author": 561, 
+            "title": "Life Force"
+        }, 
+        {
+            "author": 741, 
+            "title": "Act of Mercy"
+        }
+    ]
+}

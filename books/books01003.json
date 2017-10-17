@@ -1,0 +1,148 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1953", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_v06n01_1953-04/Galaxy_v06n01_1953-04_jp2.zip&file=Galaxy_v06n01_1953-04_jp2/Galaxy_v06n01_1953-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c2/MLO4310.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        402, 
+        336, 
+        426, 
+        427, 
+        305, 
+        326, 
+        339, 
+        340, 
+        384, 
+        362, 
+        61, 
+        23, 
+        401, 
+        428, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1003, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Made in U.S.A."
+        }, 
+        {
+            "author": 363, 
+            "title": "Made in U.S.A. [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Made in U.S.A. [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Made in U.S.A. [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Seventh Victim"
+        }, 
+        {
+            "author": 402, 
+            "title": "University"
+        }, 
+        {
+            "author": 402, 
+            "title": "University [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "University [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Law"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Law [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Law [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Law [4]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Law [5]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Law [6]"
+        }, 
+        {
+            "author": 426, 
+            "title": "Unready to Wear"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Sentimentalists"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Sentimentalists [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Sentimentalists [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Common Sense (Ii)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1953)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Birth of the Space Station"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, April 1953)"
+        }, 
+        {
+            "author": 384, 
+            "title": "Made in U.S.A."
+        }, 
+        {
+            "author": 362, 
+            "title": "University"
+        }, 
+        {
+            "author": 61, 
+            "title": "The Sentimentalists"
+        }, 
+        {
+            "author": 23, 
+            "title": "Seventh Victim"
+        }, 
+        {
+            "author": 401, 
+            "title": "Origins of Galactic Law"
+        }, 
+        {
+            "author": 428, 
+            "title": "Unready to Wear"
+        }
+    ]
+}

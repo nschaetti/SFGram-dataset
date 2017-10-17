@@ -1,0 +1,133 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1964", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v23n01_1964-10/Galaxy_v23n01_1964-10_jp2.zip&file=Galaxy_v23n01_1964-10_jp2/Galaxy_v23n01_1964-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/ff/GALOCT1964.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        593, 
+        499, 
+        497, 
+        40, 
+        339, 
+        326, 
+        63, 
+        315, 
+        594, 
+        32, 
+        16, 
+        470, 
+        74, 
+        132, 
+        8, 
+        302
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1103, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "Soldier, Ask Not"
+        }, 
+        {
+            "author": 545, 
+            "title": "Soldier, Ask Not [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Soldier, Ask Not [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Soldier, Ask Not [4]"
+        }, 
+        {
+            "author": 593, 
+            "title": "The 1980 President"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tactful Saboteur"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tactful Saboteur [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tactful Saboteur [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Children of Night"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Children of Night [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Seeing Stars"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Area of \"Accessible Space\""
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1964)"
+        }, 
+        {
+            "author": 63, 
+            "title": "The Tactful Saboteur"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Children of Night"
+        }, 
+        {
+            "author": 315, 
+            "title": "Soldier, Ask Not"
+        }, 
+        {
+            "author": 315, 
+            "title": "Battle Hymn of the Friendly Soldiers"
+        }, 
+        {
+            "author": 594, 
+            "title": "Martian Play Song"
+        }, 
+        {
+            "author": 32, 
+            "title": "Be of Good Cheer"
+        }, 
+        {
+            "author": 16, 
+            "title": "How the Old World Died"
+        }, 
+        {
+            "author": 470, 
+            "title": "The 1980 President"
+        }, 
+        {
+            "author": 74, 
+            "title": "What's the Name of That Town?"
+        }, 
+        {
+            "author": 132, 
+            "title": "Maxwell's Monkey"
+        }, 
+        {
+            "author": 8, 
+            "title": "Precious Artifact"
+        }
+    ]
+}

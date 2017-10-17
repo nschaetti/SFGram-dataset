@@ -1,0 +1,132 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1957", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/Galaxy_v14n01_1957-05/Galaxy_v14n01_1957-05_jp2.zip&file=Galaxy_v14n01_1957-05_jp2/Galaxy_v14n01_1957-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/8a/MLO4437.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        506, 
+        419, 
+        497, 
+        305, 
+        339, 
+        326, 
+        483, 
+        40, 
+        200, 
+        32, 
+        23, 
+        56, 
+        446, 
+        217, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1051, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Survival Kit"
+        }, 
+        {
+            "author": 499, 
+            "title": "Survival Kit [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Survival Kit [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Language of Love"
+        }, 
+        {
+            "author": 506, 
+            "title": "Founding Father"
+        }, 
+        {
+            "author": 419, 
+            "title": "A Touch of E Flat"
+        }, 
+        {
+            "author": 419, 
+            "title": "A Touch of E Flat [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "A Touch of E Flat [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Double Dome"
+        }, 
+        {
+            "author": 499, 
+            "title": "Quota for Conquest"
+        }, 
+        {
+            "author": 506, 
+            "title": "Time in the Round"
+        }, 
+        {
+            "author": 506, 
+            "title": "Time in the Round [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Time in the Round [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Behind the Cob"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Who'll Own the Planets?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, May 1957)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, May 1957)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Survival Kit"
+        }, 
+        {
+            "author": 200, 
+            "title": "A Touch of E Flat"
+        }, 
+        {
+            "author": 32, 
+            "title": "Time in the Round"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Language of Love"
+        }, 
+        {
+            "author": 56, 
+            "title": "Founding Father"
+        }, 
+        {
+            "author": 446, 
+            "title": "Double Dome"
+        }, 
+        {
+            "author": 217, 
+            "title": "Quota for Conquest"
+        }
+    ]
+}

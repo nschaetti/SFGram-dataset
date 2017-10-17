@@ -1,0 +1,74 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1971", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v32n02_1971-09/Galaxy_v32n02_1971-09_jp2.zip&file=Galaxy_v32n02_1971-09_jp2/Galaxy_v32n02_1971-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/5b/GALSEPOCT71.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        91, 
+        696, 
+        341, 
+        630, 
+        679, 
+        86, 
+        698, 
+        302
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1153, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Edge and the Mist"
+        }, 
+        {
+            "author": 326, 
+            "title": "Why Johnny Can't Speed"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Moon Children (Part 2 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, September-October 1971)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, September-October 1971)"
+        }, 
+        {
+            "author": 696, 
+            "title": "The Edge and the Mist"
+        }, 
+        {
+            "author": 341, 
+            "title": "Dazed"
+        }, 
+        {
+            "author": 630, 
+            "title": "Sister Ships"
+        }, 
+        {
+            "author": 679, 
+            "title": "Galilean Problem"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Moon Children (Part 2 of 3)"
+        }, 
+        {
+            "author": 698, 
+            "title": "Why Johnny Can't Speed"
+        }
+    ]
+}

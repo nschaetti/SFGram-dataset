@@ -1,0 +1,138 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1977", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v38n05_1977-07/Galaxy_v38n05_1977-07_jp2.zip&file=Galaxy_v38n05_1977-07_jp2/Galaxy_v38n05_1977-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/bb/GALJUL77.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        819, 
+        742, 
+        784, 
+        326, 
+        770, 
+        734, 
+        822, 
+        63, 
+        823, 
+        685, 
+        817, 
+        824, 
+        825, 
+        302
+    ], 
+    "year": 1977, 
+    "images": [], 
+    "id": 1202, 
+    "contents": [
+        {
+            "author": 819, 
+            "title": "Variations in the Visible Spectra of Certain Cepheid Stars"
+        }, 
+        {
+            "author": 819, 
+            "title": "Variations in the Visible Spectra of Certain Cepheid Stars [2]"
+        }, 
+        {
+            "author": 819, 
+            "title": "Variations in the Visible Spectra of Certain Cepheid Stars [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Take My Mate, Please!"
+        }, 
+        {
+            "author": 742, 
+            "title": "Take My Mate, Please! [2]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 3 of 4)"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 3 of 4) [2]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 3 of 4) [3]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 3 of 4) [4]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Skitch and the Kids"
+        }, 
+        {
+            "author": 742, 
+            "title": "Skitch and the Kids [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Dinsdale Dissents"
+        }, 
+        {
+            "author": 742, 
+            "title": "Dinsdale Dissents [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Brother John's Day Out"
+        }, 
+        {
+            "author": 819, 
+            "title": "A Perfect Twilight"
+        }, 
+        {
+            "author": 819, 
+            "title": "A Perfect Twilight [2]"
+        }, 
+        {
+            "author": 770, 
+            "title": "Galaxy Bookshelf (Galaxy, July 1977)"
+        }, 
+        {
+            "author": 734, 
+            "title": "Can Trash Save Us?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, July 1977)"
+        }, 
+        {
+            "author": 822, 
+            "title": "Variations in the Visible Spectra of Certain Cepheid Stars"
+        }, 
+        {
+            "author": 63, 
+            "title": "The Dosadi Experiment (Part 3 of 4)"
+        }, 
+        {
+            "author": 823, 
+            "title": "Take My Mate, Please!"
+        }, 
+        {
+            "author": 685, 
+            "title": "Skitch and the Kids"
+        }, 
+        {
+            "author": 817, 
+            "title": "Dinsdale Dissents"
+        }, 
+        {
+            "author": 824, 
+            "title": "Brother John's Day Out"
+        }, 
+        {
+            "author": 825, 
+            "title": "A Perfect Twilight"
+        }
+    ]
+}

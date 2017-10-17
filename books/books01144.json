@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1970", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/Galaxy_v30n05_1970-08-09/Galaxy_v30n05_1970-08-09_jp2.zip&file=Galaxy_v30n05_1970-08-09_jp2/Galaxy_v30n05_1970-08-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/89/GALAUGSEP70.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        667, 
+        91, 
+        112, 
+        55, 
+        371, 
+        74, 
+        662, 
+        663, 
+        302
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1144, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Day After Judgment"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Day After Judgment [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Day After Judgment [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "About a Secret Crocodile"
+        }, 
+        {
+            "author": 499, 
+            "title": "Power Play"
+        }, 
+        {
+            "author": 326, 
+            "title": "Moon Heat"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 2 of 4)"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 2 of 4) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 2 of 4) [3]"
+        }, 
+        {
+            "author": 667, 
+            "title": "The Raries"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Book Shelf (Galaxy, August-September 1970)"
+        }, 
+        {
+            "author": 112, 
+            "title": "Coordinates"
+        }, 
+        {
+            "author": 55, 
+            "title": "The Day After Judgment (Complete Novel)"
+        }, 
+        {
+            "author": 371, 
+            "title": "I Will Fear No Evil (Part 2 of 4)"
+        }, 
+        {
+            "author": 74, 
+            "title": "About a Secret Crocodile"
+        }, 
+        {
+            "author": 662, 
+            "title": "Power Play"
+        }, 
+        {
+            "author": 663, 
+            "title": "Moon Heat"
+        }
+    ]
+}

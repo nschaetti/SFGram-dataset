@@ -1,0 +1,125 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1955", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v09n06_1955-03/Galaxy_v09n06_1955-03_jp2.zip&file=Galaxy_v09n06_1955-03_jp2/Galaxy_v09n06_1955-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/52/MLO4377.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        419, 
+        427, 
+        461, 
+        402, 
+        433, 
+        305, 
+        326, 
+        339, 
+        340, 
+        56, 
+        204, 
+        341, 
+        40, 
+        470, 
+        121, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1026, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Project Mastodon"
+        }, 
+        {
+            "author": 363, 
+            "title": "Project Mastodon [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Project Mastodon [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Candle Lighter"
+        }, 
+        {
+            "author": 427, 
+            "title": "Dulcie and Decorum"
+        }, 
+        {
+            "author": 427, 
+            "title": "Dulcie and Decorum [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Dulcie and Decorum [3]"
+        }, 
+        {
+            "author": 461, 
+            "title": "One Way"
+        }, 
+        {
+            "author": 402, 
+            "title": "Who?"
+        }, 
+        {
+            "author": 402, 
+            "title": "Who? [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Who? [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Big Stupe"
+        }, 
+        {
+            "author": 305, 
+            "title": "I Read You"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, March 1955)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Death of the Sun"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, March 1955)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Project Mastodon"
+        }, 
+        {
+            "author": 204, 
+            "title": "Dulcie and Decorum"
+        }, 
+        {
+            "author": 341, 
+            "title": "Who?"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Candle Lighter"
+        }, 
+        {
+            "author": 470, 
+            "title": "One Way"
+        }, 
+        {
+            "author": 121, 
+            "title": "Big Stupe"
+        }
+    ]
+}

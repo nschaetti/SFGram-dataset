@@ -1,0 +1,158 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1954", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v07n05_1954-02/Galaxy_v07n05_1954-02_jp2.zip&file=Galaxy_v07n05_1954-02_jp2/Galaxy_v07n05_1954-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/57/MLO4329.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        433, 
+        419, 
+        417, 
+        336, 
+        305, 
+        339, 
+        340, 
+        326, 
+        55, 
+        400, 
+        442, 
+        384, 
+        443, 
+        98, 
+        444, 
+        58, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1013, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Beep"
+        }, 
+        {
+            "author": 363, 
+            "title": "Beep [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Beep [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Beep [4]"
+        }, 
+        {
+            "author": 433, 
+            "title": "The Boys From Vespis"
+        }, 
+        {
+            "author": 419, 
+            "title": "Pet Farm"
+        }, 
+        {
+            "author": 363, 
+            "title": "Inanimate Objection"
+        }, 
+        {
+            "author": 363, 
+            "title": "Inanimate Objection [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Project Hush"
+        }, 
+        {
+            "author": 419, 
+            "title": "Project Hush [2]"
+        }, 
+        {
+            "author": 417, 
+            "title": "The Passenger"
+        }, 
+        {
+            "author": 417, 
+            "title": "The Passenger [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Experiment"
+        }, 
+        {
+            "author": 336, 
+            "title": "Sentry"
+        }, 
+        {
+            "author": 419, 
+            "title": "Men Like Mules"
+        }, 
+        {
+            "author": 419, 
+            "title": "Men Like Mules [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Men Like Mules [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Help Wanted!"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Hints to Future Archeologists"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, February 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1954)"
+        }, 
+        {
+            "author": 55, 
+            "title": "Beep"
+        }, 
+        {
+            "author": 400, 
+            "title": "Pet Farm"
+        }, 
+        {
+            "author": 442, 
+            "title": "Inanimate Objection"
+        }, 
+        {
+            "author": 384, 
+            "title": "Men Like Mules"
+        }, 
+        {
+            "author": 443, 
+            "title": "The Boys From Vespis"
+        }, 
+        {
+            "author": 98, 
+            "title": "Project Hush"
+        }, 
+        {
+            "author": 444, 
+            "title": "The Passenger"
+        }, 
+        {
+            "author": 58, 
+            "title": "Experiment"
+        }, 
+        {
+            "author": 58, 
+            "title": "Sentry"
+        }
+    ]
+}

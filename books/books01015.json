@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1954", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v08n01_1954-04/Galaxy_v08n01_1954-04_jp2.zip&file=Galaxy_v08n01_1954-04_jp2/Galaxy_v08n01_1954-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/7e/MLO4331.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        431, 
+        433, 
+        402, 
+        305, 
+        339, 
+        340, 
+        23, 
+        204, 
+        40, 
+        434, 
+        243, 
+        315, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1015, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Midas Plague"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Midas Plague [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Midas Plague [3]"
+        }, 
+        {
+            "author": 431, 
+            "title": "Limiting Factor"
+        }, 
+        {
+            "author": 433, 
+            "title": "Hands Off"
+        }, 
+        {
+            "author": 433, 
+            "title": "Hands Off [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Hands Off [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Wainer"
+        }, 
+        {
+            "author": 363, 
+            "title": "Black Charlie"
+        }, 
+        {
+            "author": 402, 
+            "title": "Special Delivery"
+        }, 
+        {
+            "author": 402, 
+            "title": "Special Delivery [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Special Delivery [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Stuff &Amp; Nonsense?"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Case of the Lying Stones"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, April 1954)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Hands Off"
+        }, 
+        {
+            "author": 204, 
+            "title": "Special Delivery"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Midas Plague"
+        }, 
+        {
+            "author": 434, 
+            "title": "Limiting Factor"
+        }, 
+        {
+            "author": 243, 
+            "title": "Wainer"
+        }, 
+        {
+            "author": 315, 
+            "title": "Black Charlie"
+        }
+    ]
+}

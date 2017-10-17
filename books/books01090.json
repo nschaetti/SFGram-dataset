@@ -1,0 +1,127 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1962", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v20n05_1962-06/Galaxy_v20n05_1962-06_jp2.zip&file=Galaxy_v20n05_1962-06_jp2/Galaxy_v20n05_1962-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/af/GALJUN1962.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        488, 
+        419, 
+        573, 
+        574, 
+        564, 
+        499, 
+        551, 
+        40, 
+        339, 
+        326, 
+        483, 
+        91, 
+        55, 
+        50, 
+        196, 
+        158, 
+        401, 
+        74, 
+        302
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1090, 
+    "contents": [
+        {
+            "author": 488, 
+            "title": "For Love"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Lamps of the Angels"
+        }, 
+        {
+            "author": 573, 
+            "title": "On the Wall of the Lodge"
+        }, 
+        {
+            "author": 573, 
+            "title": "On the Wall of the Lodge [2]"
+        }, 
+        {
+            "author": 574, 
+            "title": "Dawningsburgh"
+        }, 
+        {
+            "author": 564, 
+            "title": "Origins of Galactic Philosophy"
+        }, 
+        {
+            "author": 564, 
+            "title": "Origins of Galactic Philosophy [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dreamworld"
+        }, 
+        {
+            "author": 551, 
+            "title": "The Seed of Earth"
+        }, 
+        {
+            "author": 551, 
+            "title": "The Seed of Earth [2]"
+        }, 
+        {
+            "author": 551, 
+            "title": "The Seed of Earth [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Deadly Mission of Phineas Snodgrass"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Names in the Sky"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1962)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1962)"
+        }, 
+        {
+            "author": 91, 
+            "title": "For Love"
+        }, 
+        {
+            "author": 55, 
+            "title": "On the Wall of the Lodge"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Seed of Earth"
+        }, 
+        {
+            "author": 196, 
+            "title": "The Lamps of the Angels"
+        }, 
+        {
+            "author": 158, 
+            "title": "Dawningsburgh"
+        }, 
+        {
+            "author": 401, 
+            "title": "Origins of Galactic Philosophy"
+        }, 
+        {
+            "author": 74, 
+            "title": "Dreamworld"
+        }
+    ]
+}

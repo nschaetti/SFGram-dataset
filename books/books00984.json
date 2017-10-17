@@ -1,0 +1,134 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1951", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v02n06_1951-09/Galaxy_v02n06_1951-09_jp2.zip&file=Galaxy_v02n06_1951-09_jp2/Galaxy_v02n06_1951-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/1e/GALSEP1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        369, 
+        367, 
+        363, 
+        305, 
+        339, 
+        340, 
+        370, 
+        61, 
+        204, 
+        371, 
+        365, 
+        372, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 984, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 1 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 1 of 3) [5]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 1 of 3) [6]"
+        }, 
+        {
+            "author": 369, 
+            "title": "The Sense of Wonder"
+        }, 
+        {
+            "author": 369, 
+            "title": "The Sense of Wonder [2]"
+        }, 
+        {
+            "author": 369, 
+            "title": "If You Was a Moklin"
+        }, 
+        {
+            "author": 369, 
+            "title": "If You Was a Moklin [2]"
+        }, 
+        {
+            "author": 369, 
+            "title": "If You Was a Moklin [3]"
+        }, 
+        {
+            "author": 367, 
+            "title": "Cabin Boy"
+        }, 
+        {
+            "author": 367, 
+            "title": "Cabin Boy [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "What Is Posat?"
+        }, 
+        {
+            "author": 363, 
+            "title": "What Is Posat? [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Annual Report"
+        }, 
+        {
+            "author": 339, 
+            "title": "The Meteoric Stream"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five-Star Shelf (Galaxy, September 1951)"
+        }, 
+        {
+            "author": 370, 
+            "title": "Letter (Galaxy, September 1951): Department of Public Information, Chicago, Ill."
+        }, 
+        {
+            "author": 61, 
+            "title": "If You Was a Moklin"
+        }, 
+        {
+            "author": 204, 
+            "title": "Cabin Boy"
+        }, 
+        {
+            "author": 371, 
+            "title": "The Puppet Masters (Part 1 of 3)"
+        }, 
+        {
+            "author": 365, 
+            "title": "The Sense of Wonder"
+        }, 
+        {
+            "author": 372, 
+            "title": "What Is Posat?"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Biography Project"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1974", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v34n06_1974-03/Galaxy_v34n06_1974-03_jp2.zip&file=Galaxy_v34n06_1974-03_jp2/Galaxy_v34n06_1974-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9e/GALMAR74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        570, 
+        341, 
+        675, 
+        732, 
+        546, 
+        725, 
+        722, 
+        733, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1170, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Web of Everywhere (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Hook, the Eye and the Whip"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Typical Day"
+        }, 
+        {
+            "author": 499, 
+            "title": "Infidel of Five Temples"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Durable Man"
+        }, 
+        {
+            "author": 570, 
+            "title": "The Ba"
+        }, 
+        {
+            "author": 499, 
+            "title": "Inverted World (Part 4 of 4)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, March 1974)"
+        }, 
+        {
+            "author": 675, 
+            "title": "The Hook, the Eye and the Whip"
+        }, 
+        {
+            "author": 732, 
+            "title": "Infidel of Five Temples"
+        }, 
+        {
+            "author": 546, 
+            "title": "Web of Everywhere (Part 1 of 2)"
+        }, 
+        {
+            "author": 725, 
+            "title": "Inverted World (Part 4 of 4)"
+        }, 
+        {
+            "author": 722, 
+            "title": "A Typical Day"
+        }, 
+        {
+            "author": 733, 
+            "title": "The Durable Man"
+        }
+    ]
+}

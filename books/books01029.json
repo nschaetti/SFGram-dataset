@@ -1,0 +1,127 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1955", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v10n03_1955-06/Galaxy_v10n03_1955-06_jp2.zip&file=Galaxy_v10n03_1955-06_jp2/Galaxy_v10n03_1955-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d6/MLO4380.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        433, 
+        419, 
+        363, 
+        402, 
+        427, 
+        305, 
+        339, 
+        326, 
+        340, 
+        172, 
+        217, 
+        40, 
+        23, 
+        387, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1029, 
+    "contents": [
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 1 of 4)"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 1 of 4) [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 1 of 4) [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 1 of 4) [4]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Necessary Thing"
+        }, 
+        {
+            "author": 433, 
+            "title": "The Princess and the Physicist"
+        }, 
+        {
+            "author": 433, 
+            "title": "The Princess and the Physicist [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "The Princess and the Physicist [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Picture Bride"
+        }, 
+        {
+            "author": 402, 
+            "title": "Grandy Devil"
+        }, 
+        {
+            "author": 427, 
+            "title": "Inside Story"
+        }, 
+        {
+            "author": 427, 
+            "title": "Inside Story [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Inside Story [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Man's Bait"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Konstantin Anklitzen Alias Friar Bertholdus"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1955)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, June 1955)"
+        }, 
+        {
+            "author": 172, 
+            "title": "The Princess and the Physicist"
+        }, 
+        {
+            "author": 217, 
+            "title": "Inside Story"
+        }, 
+        {
+            "author": 40, 
+            "title": "Preferred Risk (Part 1 of 4)"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Necessary Thing"
+        }, 
+        {
+            "author": 387, 
+            "title": "Picture Bride"
+        }, 
+        {
+            "author": 40, 
+            "title": "Grandy Devil"
+        }
+    ]
+}

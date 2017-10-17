@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1973", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v33n04_1973-01/Galaxy_v33n04_1973-01_jp2.zip&file=Galaxy_v33n04_1973-01_jp2/Galaxy_v33n04_1973-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d1/GALJANFEB73.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        605, 
+        710, 
+        341, 
+        663, 
+        63, 
+        711, 
+        712, 
+        302
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1161, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Case and the Dreamer"
+        }, 
+        {
+            "author": 499, 
+            "title": "Mayflower Three"
+        }, 
+        {
+            "author": 499, 
+            "title": "La Befana"
+        }, 
+        {
+            "author": 326, 
+            "title": "Project 40 (Part 2 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Reflex"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy Magazine, January-February 1973)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, January-February 1973) (Circulation: 51,602)"
+        }, 
+        {
+            "author": 605, 
+            "title": "Is the Star of Bethlehem Observable Today?"
+        }, 
+        {
+            "author": 710, 
+            "title": "Is the Star of Bethlehem Observable Today? A Comment."
+        }, 
+        {
+            "author": 605, 
+            "title": "Galaxy Stars (Galaxy Magazine, January-February 1973)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, January-February 1973)"
+        }, 
+        {
+            "author": 663, 
+            "title": "Mayflower Three"
+        }, 
+        {
+            "author": 341, 
+            "title": "Case and the Dreamer"
+        }, 
+        {
+            "author": 63, 
+            "title": "Project 40 (Part 2 of 3)"
+        }, 
+        {
+            "author": 711, 
+            "title": "La Befana"
+        }, 
+        {
+            "author": 712, 
+            "title": "Reflex"
+        }
+    ]
+}

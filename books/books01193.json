@@ -1,0 +1,113 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1976", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v37n05_1976-07/Galaxy_v37n05_1976-07_jp2.zip&file=Galaxy_v37n05_1976-07_jp2/Galaxy_v37n05_1976-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a9/GALJUL76.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        763, 
+        744, 
+        499, 
+        326, 
+        734, 
+        770, 
+        797, 
+        804, 
+        591, 
+        741, 
+        805, 
+        302
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 1193, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "Gotta Sing, Gotta Dance"
+        }, 
+        {
+            "author": 742, 
+            "title": "Gotta Sing, Gotta Dance [2]"
+        }, 
+        {
+            "author": 763, 
+            "title": "Larval Stage"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Hand of Oberon (Part 2 of 3)"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Hand of Oberon (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Hand of Oberon (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Wind Music"
+        }, 
+        {
+            "author": 499, 
+            "title": "Wind Music [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Toward the Fullness of Fate"
+        }, 
+        {
+            "author": 326, 
+            "title": "Toward the Fullness of Fate [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Toward the Fullness of Fate [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Showcase (Galaxy, July 1976)"
+        }, 
+        {
+            "author": 734, 
+            "title": "Lasers, Grasers and Marxists"
+        }, 
+        {
+            "author": 770, 
+            "title": "Bookshelf (Galaxy, July 1976)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, July 1976)"
+        }, 
+        {
+            "author": 797, 
+            "title": "Gotta Sing, Gotta Dance"
+        }, 
+        {
+            "author": 804, 
+            "title": "Toward the Fullness of Fate"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Hand of Oberon (Part 2 of 3)"
+        }, 
+        {
+            "author": 741, 
+            "title": "Larval Stage"
+        }, 
+        {
+            "author": 805, 
+            "title": "Wind Music"
+        }
+    ]
+}

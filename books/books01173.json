@@ -1,0 +1,92 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1974", 
+    "cover": "https://ia800205.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v35n06_1974-06/Galaxy_v35n06_1974-06_jp2.zip&file=Galaxy_v35n06_1974-06_jp2/Galaxy_v35n06_1974-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/da/GALJUN74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        738, 
+        341, 
+        734, 
+        55, 
+        418, 
+        665, 
+        86, 
+        651, 
+        660, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1173, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Orbitsville (Part 1 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Where There's Smoke"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Private War of Pvt. Jacob"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Glitch"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Org's Egg (Part 3 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Little Game"
+        }, 
+        {
+            "author": 738, 
+            "title": "Forum: Farewell to Yesterday's Tomorrow"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, June 1974)"
+        }, 
+        {
+            "author": 734, 
+            "title": "How Long to Doomsday"
+        }, 
+        {
+            "author": 55, 
+            "title": "The Glitch"
+        }, 
+        {
+            "author": 418, 
+            "title": "Little Game"
+        }, 
+        {
+            "author": 665, 
+            "title": "Orbitsville (Part 1 of 3)"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Org's Egg (Part 3 of 3)"
+        }, 
+        {
+            "author": 651, 
+            "title": "Where There's Smoke"
+        }, 
+        {
+            "author": 660, 
+            "title": "The Private War of Pvt. Jacob"
+        }
+    ]
+}

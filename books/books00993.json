@@ -1,0 +1,130 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1952", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v04n03_1952-06/Galaxy_v04n03_1952-06_jp2.zip&file=Galaxy_v04n03_1952-06_jp2/Galaxy_v04n03_1952-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f1/GALJUN1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        398, 
+        363, 
+        305, 
+        326, 
+        339, 
+        340, 
+        243, 
+        217, 
+        40, 
+        88, 
+        387, 
+        51, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 993, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 1 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 1 of 3) [5]"
+        }, 
+        {
+            "author": 398, 
+            "title": "The Highest Mountain"
+        }, 
+        {
+            "author": 363, 
+            "title": "Orphans of the Void"
+        }, 
+        {
+            "author": 363, 
+            "title": "Orphans of the Void [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Orphans of the Void [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Shipping Clerk"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Hoaxters"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Hoaxters [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Hoaxters [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Luckiest Man in Denv"
+        }, 
+        {
+            "author": 305, 
+            "title": "Random Notes"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1952)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information (Galaxy, June 1952)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1952)"
+        }, 
+        {
+            "author": 243, 
+            "title": "Orphans of the Void"
+        }, 
+        {
+            "author": 217, 
+            "title": "The Hoaxters"
+        }, 
+        {
+            "author": 40, 
+            "title": "Gravy Planet (Part 1 of 3)"
+        }, 
+        {
+            "author": 88, 
+            "title": "The Highest Mountain"
+        }, 
+        {
+            "author": 387, 
+            "title": "Shipping Clerk"
+        }, 
+        {
+            "author": 51, 
+            "title": "The Luckiest Man in Denv"
+        }
+    ]
+}

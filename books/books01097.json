@@ -1,0 +1,115 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1963", 
+    "cover": "https://ia601306.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v22n01_1963-10/Galaxy_v22n01_1963-10_jp2.zip&file=Galaxy_v22n01_1963-10_jp2/Galaxy_v22n01_1963-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/1a/GALOCT1963.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        519, 
+        584, 
+        581, 
+        363, 
+        40, 
+        326, 
+        339, 
+        483, 
+        479, 
+        442, 
+        61, 
+        98, 
+        153, 
+        302
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1097, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Men in the Walls"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Men in the Walls [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Men in the Walls [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Men in the Walls [4]"
+        }, 
+        {
+            "author": 519, 
+            "title": "On the Gem Planet"
+        }, 
+        {
+            "author": 584, 
+            "title": "A Day On Death Highway"
+        }, 
+        {
+            "author": 584, 
+            "title": "A Day On Death Highway [2]"
+        }, 
+        {
+            "author": 581, 
+            "title": "Sweet Tooth"
+        }, 
+        {
+            "author": 363, 
+            "title": "Med Ship Man"
+        }, 
+        {
+            "author": 363, 
+            "title": "Med Ship Man [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Med Ship Man [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "What's the Score?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1963)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: King of the Rats"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, October 1963)"
+        }, 
+        {
+            "author": 479, 
+            "title": "On the Gem Planet"
+        }, 
+        {
+            "author": 442, 
+            "title": "A Day On Death Highway"
+        }, 
+        {
+            "author": 61, 
+            "title": "Med Ship Man"
+        }, 
+        {
+            "author": 98, 
+            "title": "The Men in the Walls"
+        }, 
+        {
+            "author": 153, 
+            "title": "Sweet Tooth"
+        }
+    ]
+}

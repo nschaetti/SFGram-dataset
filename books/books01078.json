@@ -1,0 +1,150 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1960", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v18n04_1960-04/Galaxy_v18n04_1960-04_jp2.zip&file=Galaxy_v18n04_1960-04_jp2/Galaxy_v18n04_1960-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/ad/GALAPR1960.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        551, 
+        506, 
+        552, 
+        419, 
+        305, 
+        326, 
+        339, 
+        483, 
+        198, 
+        479, 
+        258, 
+        95, 
+        56, 
+        423, 
+        211, 
+        58, 
+        302
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1078, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "Success Story"
+        }, 
+        {
+            "author": 519, 
+            "title": "Success Story [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Success Story [3]"
+        }, 
+        {
+            "author": 551, 
+            "title": "Condition of Employment"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Airy Servitor"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Lady Who Sailed the Soul"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Lady Who Sailed the Soul [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Lady Who Sailed the Soul [3]"
+        }, 
+        {
+            "author": 552, 
+            "title": "Solid Solution"
+        }, 
+        {
+            "author": 552, 
+            "title": "Solid Solution [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Don't Look Now"
+        }, 
+        {
+            "author": 519, 
+            "title": "Don't Look Now [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Don't Look Now [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Troublemakers"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Troublemakers [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Troublemakers [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "The World of Tomorrow"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1960)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: What's Only Money?"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, April 1960)"
+        }, 
+        {
+            "author": 198, 
+            "title": "Success Story"
+        }, 
+        {
+            "author": 479, 
+            "title": "The Lady Who Sailed the Soul"
+        }, 
+        {
+            "author": 258, 
+            "title": "Don't Look Now"
+        }, 
+        {
+            "author": 95, 
+            "title": "The Troublemakers"
+        }, 
+        {
+            "author": 56, 
+            "title": "Condition of Employment"
+        }, 
+        {
+            "author": 423, 
+            "title": "The Airy Servitor"
+        }, 
+        {
+            "author": 211, 
+            "title": "Solid Solution"
+        }, 
+        {
+            "author": 58, 
+            "title": "The Power"
+        }
+    ]
+}

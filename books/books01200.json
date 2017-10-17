@@ -1,0 +1,146 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1977", 
+    "cover": "https://ia600504.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v38n03_1977-05/Galaxy_v38n03_1977-05_jp2.zip&file=Galaxy_v38n03_1977-05_jp2/Galaxy_v38n03_1977-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fb/GALMAY77.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        744, 
+        784, 
+        326, 
+        742, 
+        63, 
+        818, 
+        734, 
+        767, 
+        770, 
+        809, 
+        760, 
+        817, 
+        248, 
+        302
+    ], 
+    "year": 1977, 
+    "images": [], 
+    "id": 1200, 
+    "contents": [
+        {
+            "author": 744, 
+            "title": "Showcase (Galaxy, May 1977)"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Consentiency - and How It Got That Way"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 1 of 4)"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 1 of 4) [2]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 1 of 4) [3]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 1 of 4) [4]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 1 of 4) [5]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 1 of 4) [6]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 1 of 4) [7]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Way of the Sword"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Way of the Sword [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Way of the Sword [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Crash Site"
+        }, 
+        {
+            "author": 742, 
+            "title": "Marconi, Mattin, Maxwell"
+        }, 
+        {
+            "author": 742, 
+            "title": "Marconi, Mattin, Maxwell [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Chains of Freedom"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, May 1977)"
+        }, 
+        {
+            "author": 63, 
+            "title": "The Consentiency - and How It Got That Way"
+        }, 
+        {
+            "author": 818, 
+            "title": "Forum: Ray Gun Evaporates Mainstream"
+        }, 
+        {
+            "author": 734, 
+            "title": "What It's Like Out There"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, May 1977)"
+        }, 
+        {
+            "author": 770, 
+            "title": "Galaxy Bookshelf (Galaxy, May 1977)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, May 1977)"
+        }, 
+        {
+            "author": 809, 
+            "title": "The Way of the Sword"
+        }, 
+        {
+            "author": 63, 
+            "title": "The Dosadi Experiment (Part 1 of 4)"
+        }, 
+        {
+            "author": 760, 
+            "title": "Crash Site"
+        }, 
+        {
+            "author": 817, 
+            "title": "Marconi, Mattin, Maxwell"
+        }, 
+        {
+            "author": 248, 
+            "title": "The Chains of Freedom"
+        }
+    ]
+}

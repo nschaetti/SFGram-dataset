@@ -1,0 +1,166 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1969", 
+    "cover": "https://ia801309.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v28n01_1969-02/Galaxy_v28n01_1969-02_jp2.zip&file=Galaxy_v28n01_1969-02_jp2/Galaxy_v28n01_1969-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/14/GALFEB69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        646, 
+        626, 
+        640, 
+        40, 
+        339, 
+        91, 
+        326, 
+        50, 
+        647, 
+        602, 
+        8, 
+        55, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1130, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "To Jorslem"
+        }, 
+        {
+            "author": 499, 
+            "title": "To Jorslem [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "To Jorslem [3]"
+        }, 
+        {
+            "author": 646, 
+            "title": "The War with the Fnools"
+        }, 
+        {
+            "author": 646, 
+            "title": "The War with the Fnools [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [6]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [7]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [8]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [9]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [10]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [11]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Golden Quicksand [12]"
+        }, 
+        {
+            "author": 626, 
+            "title": "Our Binary Brothers"
+        }, 
+        {
+            "author": 640, 
+            "title": "Kendy's World"
+        }, 
+        {
+            "author": 640, 
+            "title": "Kendy's World [2]"
+        }, 
+        {
+            "author": 640, 
+            "title": "Kendy's World [3]"
+        }, 
+        {
+            "author": 640, 
+            "title": "Kendy's World [4]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Traps or Truths"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Island of Brazil"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, February 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1969)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Galaxy's Stars (Galaxy, February 1969)"
+        }, 
+        {
+            "author": 50, 
+            "title": "To Jorslem"
+        }, 
+        {
+            "author": 647, 
+            "title": "Golden Quicksand"
+        }, 
+        {
+            "author": 602, 
+            "title": "Kendy's World"
+        }, 
+        {
+            "author": 91, 
+            "title": "Now Hear the Word of the Lord"
+        }, 
+        {
+            "author": 8, 
+            "title": "The War with the Fnools"
+        }, 
+        {
+            "author": 55, 
+            "title": "Our Binary Brothers"
+        }
+    ]
+}

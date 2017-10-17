@@ -1,0 +1,123 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1978", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v39n06_1978-06/Galaxy_v39n06_1978-06_jp2.zip&file=Galaxy_v39n06_1978-06_jp2/Galaxy_v39n06_1978-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/dd/GALJUN78.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        849, 
+        866, 
+        863, 
+        742, 
+        867, 
+        326, 
+        734, 
+        843, 
+        767, 
+        844, 
+        868, 
+        693, 
+        869, 
+        870, 
+        302
+    ], 
+    "year": 1978, 
+    "images": [], 
+    "id": 1211, 
+    "contents": [
+        {
+            "author": 849, 
+            "title": "Hung Jury"
+        }, 
+        {
+            "author": 866, 
+            "title": "To Go Not Gently"
+        }, 
+        {
+            "author": 866, 
+            "title": "To Go Not Gently [2]"
+        }, 
+        {
+            "author": 866, 
+            "title": "To Go Not Gently [3]"
+        }, 
+        {
+            "author": 866, 
+            "title": "To Go Not Gently [4]"
+        }, 
+        {
+            "author": 863, 
+            "title": "Star Warring"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 2 of 3)"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 2 of 3) [5]"
+        }, 
+        {
+            "author": 867, 
+            "title": "Henry the Spaceship"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, June 1978)"
+        }, 
+        {
+            "author": 734, 
+            "title": "The Tools of the Trade"
+        }, 
+        {
+            "author": 843, 
+            "title": "Galaxy Bookshelf (Galaxy, June 1978)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, June 1978)"
+        }, 
+        {
+            "author": 844, 
+            "title": "Directions (Galaxy, June 1978)"
+        }, 
+        {
+            "author": 868, 
+            "title": "To Go Not Gently"
+        }, 
+        {
+            "author": 693, 
+            "title": "The Stars in Shroud (Part 2 of 3)"
+        }, 
+        {
+            "author": 869, 
+            "title": "Hung Jury"
+        }, 
+        {
+            "author": 870, 
+            "title": "Star Warring"
+        }, 
+        {
+            "author": 843, 
+            "title": "Henry the Spaceship"
+        }
+    ]
+}

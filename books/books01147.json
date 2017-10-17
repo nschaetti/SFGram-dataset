@@ -1,0 +1,127 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1971", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v31n02_1971-01/Galaxy_v31n02_1971-01_jp2.zip&file=Galaxy_v31n02_1971-01_jp2/Galaxy_v31n02_1971-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/0f/GALJAN71.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        667, 
+        91, 
+        597, 
+        623, 
+        675, 
+        630, 
+        47, 
+        663, 
+        651, 
+        689, 
+        690, 
+        505, 
+        302
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1147, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Too Many People"
+        }, 
+        {
+            "author": 326, 
+            "title": "Snow Princess"
+        }, 
+        {
+            "author": 326, 
+            "title": "Intersect Green"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Teacher"
+        }, 
+        {
+            "author": 499, 
+            "title": "What You Know"
+        }, 
+        {
+            "author": 326, 
+            "title": "Schnoppsday"
+        }, 
+        {
+            "author": 326, 
+            "title": "Lot 22a"
+        }, 
+        {
+            "author": 326, 
+            "title": "When You Hear the Tone"
+        }, 
+        {
+            "author": 499, 
+            "title": "Exiled From Earth (Part 1 of 2)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Wealth"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, January 1971)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, January 1971)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, January 1971) (Circulation: 46,091)"
+        }, 
+        {
+            "author": 597, 
+            "title": "Who's Who On the Moon"
+        }, 
+        {
+            "author": 623, 
+            "title": "Too Many People"
+        }, 
+        {
+            "author": 675, 
+            "title": "Snow Princess"
+        }, 
+        {
+            "author": 630, 
+            "title": "What You Know"
+        }, 
+        {
+            "author": 47, 
+            "title": "Exiled From Earth (Part 1 of 2)"
+        }, 
+        {
+            "author": 663, 
+            "title": "Intersect Green"
+        }, 
+        {
+            "author": 651, 
+            "title": "The Teacher"
+        }, 
+        {
+            "author": 689, 
+            "title": "Schnoppsday"
+        }, 
+        {
+            "author": 690, 
+            "title": "Lot 22a"
+        }, 
+        {
+            "author": 505, 
+            "title": "When You Hear the Tone"
+        }
+    ]
+}

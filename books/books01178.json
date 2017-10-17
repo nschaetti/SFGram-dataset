@@ -1,0 +1,89 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1974", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v35n11_1974-11/Galaxy_v35n11_1974-11_jp2.zip&file=Galaxy_v35n11_1974-11_jp2/Galaxy_v35n11_1974-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/11/GALNOV74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        499, 
+        744, 
+        326, 
+        40, 
+        734, 
+        341, 
+        740, 
+        755, 
+        759, 
+        561, 
+        760, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1178, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "Love Conquers All (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Persistence of Memory"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Butcher's Bill"
+        }, 
+        {
+            "author": 326, 
+            "title": "Of a Death On Dante"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Aerial Machine"
+        }, 
+        {
+            "author": 40, 
+            "title": "Forum: Sf East: An Sf Safari to Redland"
+        }, 
+        {
+            "author": 734, 
+            "title": "Here Come the Brains"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, November 1974)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, November 1974)"
+        }, 
+        {
+            "author": 740, 
+            "title": "The Persistence of Memory"
+        }, 
+        {
+            "author": 755, 
+            "title": "The Butcher's Bill"
+        }, 
+        {
+            "author": 759, 
+            "title": "The Aerial Machine"
+        }, 
+        {
+            "author": 561, 
+            "title": "Love Conquers All (Part 1 of 3)"
+        }, 
+        {
+            "author": 760, 
+            "title": "Of a Death On Dante"
+        }
+    ]
+}

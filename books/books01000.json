@@ -1,0 +1,128 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1953", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/Galaxy_v05n04_1953-01/Galaxy_v05n04_1953-01_jp2.zip&file=Galaxy_v05n04_1953-01_jp2/Galaxy_v05n04_1953-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d1/GALJAN53.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        419, 
+        402, 
+        420, 
+        342, 
+        305, 
+        339, 
+        340, 
+        326, 
+        8, 
+        217, 
+        56, 
+        421, 
+        422, 
+        423, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1000, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Defenders"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Defenders [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Defenders [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Teething Ring"
+        }, 
+        {
+            "author": 419, 
+            "title": "Life Sentence"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Inhabited"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Inhabited [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Inhabited [3]"
+        }, 
+        {
+            "author": 420, 
+            "title": "Prott"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 2 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Common Sense"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Ice Age (Ii)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, January 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, January 1953)"
+        }, 
+        {
+            "author": 8, 
+            "title": "The Defenders"
+        }, 
+        {
+            "author": 217, 
+            "title": "The Inhabited"
+        }, 
+        {
+            "author": 56, 
+            "title": "Ring Around the Sun (Part 2 of 3)"
+        }, 
+        {
+            "author": 421, 
+            "title": "Teething Ring"
+        }, 
+        {
+            "author": 422, 
+            "title": "Life Sentence"
+        }, 
+        {
+            "author": 423, 
+            "title": "Prott"
+        }
+    ]
+}

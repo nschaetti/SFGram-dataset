@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1953", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_v06n05_1953-08/Galaxy_v06n05_1953-08_jp2.zip&file=Galaxy_v06n05_1953-08_jp2/Galaxy_v06n05_1953-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/28/MLO4314.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        431, 
+        430, 
+        402, 
+        363, 
+        433, 
+        305, 
+        339, 
+        340, 
+        326, 
+        23, 
+        148, 
+        384, 
+        236, 
+        247, 
+        434, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1007, 
+    "contents": [
+        {
+            "author": 431, 
+            "title": "Mind Alone"
+        }, 
+        {
+            "author": 431, 
+            "title": "Mind Alone [2]"
+        }, 
+        {
+            "author": 431, 
+            "title": "Mind Alone [3]"
+        }, 
+        {
+            "author": 430, 
+            "title": "We're Civilized!"
+        }, 
+        {
+            "author": 402, 
+            "title": "Diplomatic Immunity"
+        }, 
+        {
+            "author": 402, 
+            "title": "Diplomatic Immunity [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Diplomatic Immunity [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Trap"
+        }, 
+        {
+            "author": 363, 
+            "title": "Minimum Sentence"
+        }, 
+        {
+            "author": 433, 
+            "title": "Stamped Caution"
+        }, 
+        {
+            "author": 433, 
+            "title": "Stamped Caution [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Stamped Caution [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Chance &Amp; Maps"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Scientific Journey"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1953)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Diplomatic Immunity"
+        }, 
+        {
+            "author": 148, 
+            "title": "Stamped Caution"
+        }, 
+        {
+            "author": 384, 
+            "title": "Mind Alone"
+        }, 
+        {
+            "author": 236, 
+            "title": "We're Civilized!"
+        }, 
+        {
+            "author": 247, 
+            "title": "The Trap"
+        }, 
+        {
+            "author": 434, 
+            "title": "Minimum Sentence"
+        }
+    ]
+}

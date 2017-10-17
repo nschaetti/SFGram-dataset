@@ -1,0 +1,125 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1954", 
+    "cover": "https://ia801300.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v08n06_1954-09/Galaxy_v08n06_1954-09_jp2.zip&file=Galaxy_v08n06_1954-09_jp2/Galaxy_v08n06_1954-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/cb/MLO4371.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        402, 
+        456, 
+        454, 
+        433, 
+        419, 
+        436, 
+        305, 
+        339, 
+        326, 
+        340, 
+        393, 
+        443, 
+        56, 
+        220, 
+        8, 
+        23, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1020, 
+    "contents": [
+        {
+            "author": 402, 
+            "title": "The Man Who Was Six"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Man Who Was Six [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Man Who Was Six [3]"
+        }, 
+        {
+            "author": 456, 
+            "title": "A Start in Life"
+        }, 
+        {
+            "author": 454, 
+            "title": "Dusty Zebra"
+        }, 
+        {
+            "author": 454, 
+            "title": "Dusty Zebra [2]"
+        }, 
+        {
+            "author": 454, 
+            "title": "Dusty Zebra [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Shell Game"
+        }, 
+        {
+            "author": 419, 
+            "title": "Milk Run"
+        }, 
+        {
+            "author": 436, 
+            "title": "Satan's Shrine"
+        }, 
+        {
+            "author": 436, 
+            "title": "Satan's Shrine [2]"
+        }, 
+        {
+            "author": 436, 
+            "title": "Satan's Shrine [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Qwertyuiop"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Southern Cross"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, September 1954)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, September 1954)"
+        }, 
+        {
+            "author": 393, 
+            "title": "The Man Who Was Six"
+        }, 
+        {
+            "author": 443, 
+            "title": "A Start in Life"
+        }, 
+        {
+            "author": 56, 
+            "title": "Dusty Zebra"
+        }, 
+        {
+            "author": 220, 
+            "title": "Satan's Shrine"
+        }, 
+        {
+            "author": 8, 
+            "title": "Shell Game"
+        }, 
+        {
+            "author": 23, 
+            "title": "Milk Run"
+        }
+    ]
+}

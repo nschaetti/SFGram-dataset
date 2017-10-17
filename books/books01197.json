@@ -1,0 +1,104 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1976", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v37n09_1976-12/Galaxy_v37n09_1976-12_jp2.zip&file=Galaxy_v37n09_1976-12_jp2/Galaxy_v37n09_1976-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/24/GALDEC76.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        806, 
+        499, 
+        764, 
+        734, 
+        770, 
+        813, 
+        478, 
+        40, 
+        814, 
+        815, 
+        302
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 1197, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "Chance Meeting Near Ararat"
+        }, 
+        {
+            "author": 806, 
+            "title": "The Earth Dwellers"
+        }, 
+        {
+            "author": 742, 
+            "title": "Cages"
+        }, 
+        {
+            "author": 742, 
+            "title": "Cages [2]"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 2 of 3)"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Rock and the Pool"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Rock and the Pool [2]"
+        }, 
+        {
+            "author": 764, 
+            "title": "Epistle to the Christians"
+        }, 
+        {
+            "author": 734, 
+            "title": "That Buck Rogers Stuff"
+        }, 
+        {
+            "author": 770, 
+            "title": "Galaxy Bookshelf (Galaxy, December 1976)"
+        }, 
+        {
+            "author": 813, 
+            "title": "Cages"
+        }, 
+        {
+            "author": 478, 
+            "title": "The Rock and the Pool"
+        }, 
+        {
+            "author": 40, 
+            "title": "Gateway (Part 2 of 3)"
+        }, 
+        {
+            "author": 814, 
+            "title": "Chance Meeting Near Ararat"
+        }, 
+        {
+            "author": 815, 
+            "title": "The Earth Dwellers"
+        }
+    ]
+}

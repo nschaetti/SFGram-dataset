@@ -1,0 +1,190 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I302
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1975
+sS'title'
+p14
+VGalaxy Magazine January 1975
+p15
+sS'cover'
+p16
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v36n01_1975-01/Galaxy_v36n01_1975-01_jp2.zip&file=Galaxy_v36n01_1975-01_jp2/Galaxy_v36n01_1975-01_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/d/d6/GALJAN75.jpg'
+p19
+sS'author_name'
+p20
+VGalaxy Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I745
+aI326
+aI763
+aI499
+aI742
+aI744
+aI764
+aI591
+aI734
+aI561
+aI711
+aI765
+aI762
+aI766
+aI761
+aI302
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1180
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I745
+sg14
+VStraw
+p32
+sa(dp33
+g10
+I326
+sg14
+VSign of the Unicorn (Part 1 of 3)
+p34
+sa(dp35
+g10
+I763
+sg14
+VShowcase (Galaxy, January 1975)
+p36
+sa(dp37
+g10
+I499
+sg14
+VPow Wow
+p38
+sa(dp39
+g10
+I326
+sg14
+VA Horse of a Different Technicolor
+p40
+sa(dp41
+g10
+I499
+sg14
+VThe Schwarzkind Singularity
+p42
+sa(dp43
+g10
+I742
+sg14
+VLove Conquers All (Part 3 of 3)
+p44
+sa(dp45
+g10
+I744
+sg14
+VBe Ye Perfect
+p46
+sa(dp47
+g10
+I764
+sg14
+VFusion
+p48
+sa(dp49
+g10
+I591
+sg14
+VAn Essay in Amber
+p50
+sa(dp51
+g10
+I734
+sg14
+VFuzzy Black Holes Have No Hair
+p52
+sa(dp53
+g10
+I326
+sg14
+VDirections (Galaxy, January 1975)
+p54
+sa(dp55
+g10
+I591
+sg14
+VSign of the Unicorn (Part 1 of 3)
+p56
+sa(dp57
+g10
+I561
+sg14
+VLove Conquers All (Part 3 of 3)
+p58
+sa(dp59
+g10
+I711
+sg14
+VStraw
+p60
+sa(dp61
+g10
+I765
+sg14
+VPow Wow
+p62
+sa(dp63
+g10
+I762
+sg14
+VA Horse of a Different Technicolor
+p64
+sa(dp65
+g10
+I766
+sg14
+VThe Schwarzkind Singularity
+p66
+sa(dp67
+g10
+I761
+sg14
+VBe Ye Perfect
+p68
+sasb.

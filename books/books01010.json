@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1953", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v07n02_1953-11/Galaxy_v07n02_1953-11_jp2.zip&file=Galaxy_v07n02_1953-11_jp2/Galaxy_v07n02_1953-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f9/MLO4317.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        431, 
+        419, 
+        427, 
+        417, 
+        363, 
+        305, 
+        339, 
+        326, 
+        340, 
+        23, 
+        243, 
+        3, 
+        440, 
+        228, 
+        400, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1010, 
+    "contents": [
+        {
+            "author": 431, 
+            "title": "Keep Your Shape"
+        }, 
+        {
+            "author": 419, 
+            "title": "Mr. President"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Book"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Book [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Book [3]"
+        }, 
+        {
+            "author": 431, 
+            "title": "Unbegotten Child"
+        }, 
+        {
+            "author": 417, 
+            "title": "Clean Break"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 2 of 3)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "That's Life, Etc."
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Is Artificial Life Possible?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, November 1953)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, November 1953)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Keep Your Shape"
+        }, 
+        {
+            "author": 243, 
+            "title": "The Book"
+        }, 
+        {
+            "author": 3, 
+            "title": "The Caves of Steel (Part 2 of 3)"
+        }, 
+        {
+            "author": 440, 
+            "title": "Mr. President"
+        }, 
+        {
+            "author": 228, 
+            "title": "Unbegotten Child"
+        }, 
+        {
+            "author": 400, 
+            "title": "Clean Break"
+        }
+    ]
+}

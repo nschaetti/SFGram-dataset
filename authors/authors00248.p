@@ -52,6 +52,9 @@ sS'books'
 p25
 (lp26
 I776
+aI1080
+aI1110
+aI1200
 asS'id'
 p27
 I248

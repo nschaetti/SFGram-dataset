@@ -1,0 +1,115 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1957", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v15n02_1957-12/Galaxy_v15n02_1957-12_jp2.zip&file=Galaxy_v15n02_1957-12_jp2/Galaxy_v15n02_1957-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/25/MLO4444.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        419, 
+        523, 
+        515, 
+        519, 
+        524, 
+        305, 
+        339, 
+        483, 
+        326, 
+        3, 
+        446, 
+        56, 
+        98, 
+        32, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1058, 
+    "contents": [
+        {
+            "author": 419, 
+            "title": "Galley Slave"
+        }, 
+        {
+            "author": 419, 
+            "title": "Galley Slave [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Galley Slave [3]"
+        }, 
+        {
+            "author": 523, 
+            "title": "Sanctuary"
+        }, 
+        {
+            "author": 515, 
+            "title": "What's He Doing in There?"
+        }, 
+        {
+            "author": 519, 
+            "title": "Payload"
+        }, 
+        {
+            "author": 519, 
+            "title": "Payload [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Payload [3]"
+        }, 
+        {
+            "author": 524, 
+            "title": "Carbon Copy"
+        }, 
+        {
+            "author": 524, 
+            "title": "Carbon Copy [2]"
+        }, 
+        {
+            "author": 524, 
+            "title": "Carbon Copy [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Roundest Trip"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Spaceship in the Basement"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, December 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1957)"
+        }, 
+        {
+            "author": 3, 
+            "title": "Galley Slave"
+        }, 
+        {
+            "author": 446, 
+            "title": "Payload"
+        }, 
+        {
+            "author": 56, 
+            "title": "Carbon Copy"
+        }, 
+        {
+            "author": 98, 
+            "title": "Sanctuary"
+        }, 
+        {
+            "author": 32, 
+            "title": "What's He Doing in There?"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1972", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v32n04_1972-01/Galaxy_v32n04_1972-01_jp2.zip&file=Galaxy_v32n04_1972-01_jp2/Galaxy_v32n04_1972-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/29/GALJANFEB72.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        703, 
+        667, 
+        675, 
+        341, 
+        605, 
+        669, 
+        161, 
+        704, 
+        665, 
+        705, 
+        706, 
+        302
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1155, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Dark Inferno (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Rorqual Maru"
+        }, 
+        {
+            "author": 499, 
+            "title": "Esmeralda"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Answer"
+        }, 
+        {
+            "author": 703, 
+            "title": "The Answer [2]"
+        }, 
+        {
+            "author": 703, 
+            "title": "The Answer [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Gambler"
+        }, 
+        {
+            "author": 326, 
+            "title": "Joey"
+        }, 
+        {
+            "author": 667, 
+            "title": "Editor's Page (Galaxy Magazine, January-February 1972)"
+        }, 
+        {
+            "author": 675, 
+            "title": "Galaxy Stars (Galaxy, January-February 1972)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, January-February 1972)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy Magazine, January-February 1972)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, January-February 1972) (Circulation: 45,598)"
+        }, 
+        {
+            "author": 605, 
+            "title": "Want to Bet ... (Galaxy Magazine, January-February 1972)"
+        }, 
+        {
+            "author": 669, 
+            "title": "Rorqual Maru"
+        }, 
+        {
+            "author": 161, 
+            "title": "The Answer"
+        }, 
+        {
+            "author": 704, 
+            "title": "Dark Inferno (Part 1 of 2)"
+        }, 
+        {
+            "author": 675, 
+            "title": "Esmeralda"
+        }, 
+        {
+            "author": 665, 
+            "title": "Stormseeker"
+        }, 
+        {
+            "author": 705, 
+            "title": "Gambler"
+        }, 
+        {
+            "author": 706, 
+            "title": "Joey"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1973", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v34n02_1973-11/Galaxy_v34n02_1973-11_jp2.zip&file=Galaxy_v34n02_1973-11_jp2/Galaxy_v34n02_1973-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/59/GALNOV73.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        341, 
+        663, 
+        607, 
+        23, 
+        704, 
+        724, 
+        40, 
+        74, 
+        302
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1166, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Think Only This of Me"
+        }, 
+        {
+            "author": 499, 
+            "title": "And No Birds Sing"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Suppliant in Space"
+        }, 
+        {
+            "author": 499, 
+            "title": "Mayflower Ii"
+        }, 
+        {
+            "author": 499, 
+            "title": "Some Joys Under the Star"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dream Millennium (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "By the Seashore"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, November 1973)"
+        }, 
+        {
+            "author": 663, 
+            "title": "Eclipse Expedition Into the Sahara"
+        }, 
+        {
+            "author": 663, 
+            "title": "Galaxy Stars (Galaxy, November 1973)"
+        }, 
+        {
+            "author": 607, 
+            "title": "Think Only This of Me"
+        }, 
+        {
+            "author": 23, 
+            "title": "A Suppliant in Space"
+        }, 
+        {
+            "author": 663, 
+            "title": "Mayflower Ii"
+        }, 
+        {
+            "author": 704, 
+            "title": "The Dream Millennium (Part 2 of 3)"
+        }, 
+        {
+            "author": 724, 
+            "title": "And No Birds Sing"
+        }, 
+        {
+            "author": 40, 
+            "title": "Some Joys Under the Star"
+        }, 
+        {
+            "author": 74, 
+            "title": "By the Seashore"
+        }
+    ]
+}

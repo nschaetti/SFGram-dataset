@@ -1,0 +1,117 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1974", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v35n09_1974-09/Galaxy_v35n09_1974-09_jp2.zip&file=Galaxy_v35n09_1974-09_jp2/Galaxy_v35n09_1974-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f6/GALSEP74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        744, 
+        499, 
+        745, 
+        746, 
+        341, 
+        326, 
+        747, 
+        734, 
+        748, 
+        740, 
+        132, 
+        722, 
+        749, 
+        750, 
+        751, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1176, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "The Splendid Freedom"
+        }, 
+        {
+            "author": 744, 
+            "title": "Nature's Children"
+        }, 
+        {
+            "author": 744, 
+            "title": "Incident"
+        }, 
+        {
+            "author": 499, 
+            "title": "Target of Opportunity"
+        }, 
+        {
+            "author": 745, 
+            "title": "The Company of Glory (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Family Program"
+        }, 
+        {
+            "author": 499, 
+            "title": "The August Revolution"
+        }, 
+        {
+            "author": 746, 
+            "title": "Showcase (Galaxy, September 1974)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, September 1974)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, September 1974)"
+        }, 
+        {
+            "author": 747, 
+            "title": "Forum: Television: Never-Never Land and Clarke's Third Law"
+        }, 
+        {
+            "author": 734, 
+            "title": "Technology and Brainpower: Two Revolutions"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, September 1974)"
+        }, 
+        {
+            "author": 748, 
+            "title": "The Splendid Freedom"
+        }, 
+        {
+            "author": 740, 
+            "title": "Family Program"
+        }, 
+        {
+            "author": 132, 
+            "title": "The Company of Glory (Part 2 of 3)"
+        }, 
+        {
+            "author": 722, 
+            "title": "Nature's Children"
+        }, 
+        {
+            "author": 749, 
+            "title": "Incident"
+        }, 
+        {
+            "author": 750, 
+            "title": "Target of Opportunity"
+        }, 
+        {
+            "author": 751, 
+            "title": "The August Revolution"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1978", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v39n07_1978-09/Galaxy_v39n07_1978-09_jp2.zip&file=Galaxy_v39n07_1978-09_jp2/Galaxy_v39n07_1978-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/bb/GALSEP78.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        863, 
+        326, 
+        871, 
+        742, 
+        734, 
+        844, 
+        843, 
+        767, 
+        872, 
+        693, 
+        851, 
+        873, 
+        817, 
+        302
+    ], 
+    "year": 1978, 
+    "images": [], 
+    "id": 1212, 
+    "contents": [
+        {
+            "author": 863, 
+            "title": "Showcase (Galaxy, September 1978)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Rescue Room"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Breath of the Lily"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Breath of the Lily [2]"
+        }, 
+        {
+            "author": 871, 
+            "title": "Fearn"
+        }, 
+        {
+            "author": 871, 
+            "title": "Fearn [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 3 of 3)"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Stars in Shroud (Part 3 of 3) [5]"
+        }, 
+        {
+            "author": 863, 
+            "title": "The Dalmatian of Faust"
+        }, 
+        {
+            "author": 863, 
+            "title": "The Dalmatian of Faust [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, September 1978)"
+        }, 
+        {
+            "author": 734, 
+            "title": "Will There Be Stars in Our Crown?"
+        }, 
+        {
+            "author": 844, 
+            "title": "Editorial Matters (Galaxy, September 1978)"
+        }, 
+        {
+            "author": 843, 
+            "title": "Galaxy Bookshelf (Galaxy, September 1978)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, September 1978)"
+        }, 
+        {
+            "author": 872, 
+            "title": "Rescue Room"
+        }, 
+        {
+            "author": 693, 
+            "title": "The Stars in Shroud (Part 3 of 3)"
+        }, 
+        {
+            "author": 851, 
+            "title": "The Breath of the Lily"
+        }, 
+        {
+            "author": 873, 
+            "title": "Fearn"
+        }, 
+        {
+            "author": 817, 
+            "title": "The Dalmatian of Faust"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1951", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/Galaxy_v03n01_1951-10/Galaxy_v03n01_1951-10_jp2.zip&file=Galaxy_v03n01_1951-10_jp2/Galaxy_v03n01_1951-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/30/GALOCT1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        336, 
+        363, 
+        353, 
+        367, 
+        373, 
+        305, 
+        340, 
+        3, 
+        374, 
+        371, 
+        375, 
+        376, 
+        268, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 985, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "The C-Chute"
+        }, 
+        {
+            "author": 336, 
+            "title": "The C-Chute [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "The C-Chute [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "The C-Chute [4]"
+        }, 
+        {
+            "author": 336, 
+            "title": "The C-Chute [5]"
+        }, 
+        {
+            "author": 336, 
+            "title": "The C-Chute [6]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Pleasant Dreams"
+        }, 
+        {
+            "author": 353, 
+            "title": "Ambition"
+        }, 
+        {
+            "author": 353, 
+            "title": "Ambition [2]"
+        }, 
+        {
+            "author": 367, 
+            "title": "Spacemen Die at Home"
+        }, 
+        {
+            "author": 373, 
+            "title": "The Celestial Hammerlock"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 2 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 2 of 3) [5]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Use Before Shaking"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, October 1951)"
+        }, 
+        {
+            "author": 3, 
+            "title": "The C-Chute"
+        }, 
+        {
+            "author": 374, 
+            "title": "Ambition"
+        }, 
+        {
+            "author": 371, 
+            "title": "The Puppet Masters (Part 2 of 3)"
+        }, 
+        {
+            "author": 375, 
+            "title": "Pleasant Dreams"
+        }, 
+        {
+            "author": 376, 
+            "title": "Spacemen Die at Home"
+        }, 
+        {
+            "author": 268, 
+            "title": "The Celestial Hammerlock"
+        }
+    ]
+}

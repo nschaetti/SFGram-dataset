@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1956", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v12n02_1956-06/Galaxy_v12n02_1956-06_jp2.zip&file=Galaxy_v12n02_1956-06_jp2/Galaxy_v12n02_1956-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/2f/MLO4396.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        486, 
+        419, 
+        305, 
+        326, 
+        339, 
+        483, 
+        393, 
+        172, 
+        475, 
+        23, 
+        495, 
+        496, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1040, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Mezzerow Loves Company"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mezzerow Loves Company [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mezzerow Loves Company [3]"
+        }, 
+        {
+            "author": 486, 
+            "title": "Death Wish"
+        }, 
+        {
+            "author": 486, 
+            "title": "The Scapegoat"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Venus Trap"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Venus Trap [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Venus Trap [3]"
+        }, 
+        {
+            "author": 486, 
+            "title": "The Moralist"
+        }, 
+        {
+            "author": 363, 
+            "title": "In the Cards"
+        }, 
+        {
+            "author": 363, 
+            "title": "In the Cards [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "In the Cards [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Freedom From Everything"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1956)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Mutant of the Iron Horse"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1956)"
+        }, 
+        {
+            "author": 393, 
+            "title": "Mezzerow Loves Company"
+        }, 
+        {
+            "author": 172, 
+            "title": "The Venus Trap"
+        }, 
+        {
+            "author": 475, 
+            "title": "In the Cards"
+        }, 
+        {
+            "author": 23, 
+            "title": "Death Wish"
+        }, 
+        {
+            "author": 495, 
+            "title": "The Scapegoat"
+        }, 
+        {
+            "author": 496, 
+            "title": "The Moralist"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1951", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v02n05_1951-08/Galaxy_v02n05_1951-08_jp2.zip&file=Galaxy_v02n05_1951-08_jp2/Galaxy_v02n05_1951-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f2/GALAUG1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        336, 
+        363, 
+        366, 
+        367, 
+        305, 
+        326, 
+        339, 
+        254, 
+        354, 
+        368, 
+        356, 
+        36, 
+        18, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 983, 
+    "contents": [
+        {
+            "author": 336, 
+            "title": "Beyond Bedlam"
+        }, 
+        {
+            "author": 336, 
+            "title": "Beyond Bedlam [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Beyond Bedlam [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Beyond Bedlam [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Operation Distress"
+        }, 
+        {
+            "author": 363, 
+            "title": "Operation Distress [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "The Pilot and the Bushman"
+        }, 
+        {
+            "author": 336, 
+            "title": "The Pilot and the Bushman [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "The Pilot and the Bushman [3]"
+        }, 
+        {
+            "author": 366, 
+            "title": "Pictures Don't Lie"
+        }, 
+        {
+            "author": 366, 
+            "title": "Pictures Don't Lie [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Fire and the Sword"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Fire and the Sword [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Fire and the Sword [3]"
+        }, 
+        {
+            "author": 367, 
+            "title": "A Little Journey"
+        }, 
+        {
+            "author": 305, 
+            "title": "Ask a Foolish Question"
+        }, 
+        {
+            "author": 326, 
+            "title": "Next Month's Contents Page (Galaxy, August 1951)"
+        }, 
+        {
+            "author": 339, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1951)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Flying Saucer Contest Winners"
+        }, 
+        {
+            "author": 254, 
+            "title": "The Pilot and the Bushman"
+        }, 
+        {
+            "author": 354, 
+            "title": "The Fire and the Sword"
+        }, 
+        {
+            "author": 368, 
+            "title": "Beyond Bedlam"
+        }, 
+        {
+            "author": 356, 
+            "title": "Operation Distress"
+        }, 
+        {
+            "author": 36, 
+            "title": "Pictures Don't Lie"
+        }, 
+        {
+            "author": 18, 
+            "title": "A Little Journey"
+        }
+    ]
+}

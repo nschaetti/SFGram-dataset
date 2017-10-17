@@ -1,0 +1,134 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1968", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v27n02_1968-09/Galaxy_v27n02_1968-09_jp2.zip&file=Galaxy_v27n02_1968-09_jp2/Galaxy_v27n02_1968-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d2/GALSEP68.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        611, 
+        626, 
+        40, 
+        339, 
+        91, 
+        161, 
+        50, 
+        32, 
+        592, 
+        350, 
+        632, 
+        302
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1125, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Nightwings"
+        }, 
+        {
+            "author": 499, 
+            "title": "Nightwings [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Nightwings [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "When I Was Very Jung"
+        }, 
+        {
+            "author": 326, 
+            "title": "Find the Face"
+        }, 
+        {
+            "author": 611, 
+            "title": "The Listeners"
+        }, 
+        {
+            "author": 611, 
+            "title": "The Listeners [2]"
+        }, 
+        {
+            "author": 626, 
+            "title": "The Wonders We Owe Degaulle"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 3 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 3 of 3) [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 3 of 3) [6]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Film Festival (Ii)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Mission to a Comet"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, September 1968)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, September 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, September 1968)"
+        }, 
+        {
+            "author": 161, 
+            "title": "The Listeners"
+        }, 
+        {
+            "author": 50, 
+            "title": "Nightwings"
+        }, 
+        {
+            "author": 32, 
+            "title": "A Specter Is Haunting Texas (Part 3 of 3)"
+        }, 
+        {
+            "author": 592, 
+            "title": "When I Was Very Jung"
+        }, 
+        {
+            "author": 350, 
+            "title": "Find the Face"
+        }, 
+        {
+            "author": 632, 
+            "title": "The Wonders We Owe Degaulle"
+        }
+    ]
+}

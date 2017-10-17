@@ -1,0 +1,156 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1966", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v24n04_1966-04/Galaxy_v24n04_1966-04_jp2.zip&file=Galaxy_v24n04_1966-04_jp2/Galaxy_v24n04_1966-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/51/GALAPR66.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        545, 
+        519, 
+        40, 
+        91, 
+        326, 
+        339, 
+        50, 
+        63, 
+        89, 
+        32, 
+        609, 
+        142, 
+        81, 
+        610, 
+        302
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1111, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Last Castle"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Last Castle [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Last Castle [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Last Castle [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Last Castle [5]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Lazarus Come Forth!"
+        }, 
+        {
+            "author": 545, 
+            "title": "Lazarus Come Forth! [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Lazarus Come Forth! [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Lazarus Come Forth! [4]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Primitives"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Primitives [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Primitives [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Twenty-Seven Inches of Moonshine"
+        }, 
+        {
+            "author": 499, 
+            "title": "Twenty-Seven Inches of Moonshine [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Twenty-Seven Inches of Moonshine [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Twenty-Seven Inches of Moonshine [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Twenty-Seven Inches of Moonshine [5]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Where the Jobs Go"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, April 1966)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1966)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, April 1966) (Circulation:73,610)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Re-Designed Solar System"
+        }, 
+        {
+            "author": 50, 
+            "title": "Lazarus Come Forth!"
+        }, 
+        {
+            "author": 63, 
+            "title": "The Primitives"
+        }, 
+        {
+            "author": 89, 
+            "title": "The Last Castle"
+        }, 
+        {
+            "author": 32, 
+            "title": "The Crystal Prison"
+        }, 
+        {
+            "author": 609, 
+            "title": "The Night Before"
+        }, 
+        {
+            "author": 142, 
+            "title": "Big Business"
+        }, 
+        {
+            "author": 81, 
+            "title": "Devise and Conquer"
+        }, 
+        {
+            "author": 610, 
+            "title": "Twenty-Seven Inches of Moonshine"
+        }
+    ]
+}

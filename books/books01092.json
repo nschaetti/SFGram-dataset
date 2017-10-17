@@ -1,0 +1,142 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1962", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v21n01_1962-10/Galaxy_v21n01_1962-10_jp2.zip&file=Galaxy_v21n01_1962-10_jp2/Galaxy_v21n01_1962-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/97/GALOCT1962.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        576, 
+        488, 
+        560, 
+        568, 
+        40, 
+        339, 
+        326, 
+        483, 
+        479, 
+        168, 
+        18, 
+        192, 
+        142, 
+        423, 
+        577, 
+        315, 
+        302
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1092, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Ballad of Lost C'mell"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Ballad of Lost C'mell [2]"
+        }, 
+        {
+            "author": 576, 
+            "title": "The Earthman's Burden"
+        }, 
+        {
+            "author": 576, 
+            "title": "The Earthman's Burden [2]"
+        }, 
+        {
+            "author": 488, 
+            "title": "A City Near Centaurus"
+        }, 
+        {
+            "author": 488, 
+            "title": "How to Make Friends"
+        }, 
+        {
+            "author": 488, 
+            "title": "How to Make Friends [2]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Plague of Pythons (Part 1 of 2)"
+        }, 
+        {
+            "author": 560, 
+            "title": "Plague of Pythons (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Plague of Pythons (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Roberta"
+        }, 
+        {
+            "author": 568, 
+            "title": "Who Dares a Bulbur Eat?"
+        }, 
+        {
+            "author": 568, 
+            "title": "Who Dares a Bulbur Eat? [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Business of Being Bad"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The End of the Jet Age"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1962)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, October 1962)"
+        }, 
+        {
+            "author": 479, 
+            "title": "The Ballad of Lost C'mell"
+        }, 
+        {
+            "author": 168, 
+            "title": "The Earthman's Burden"
+        }, 
+        {
+            "author": 40, 
+            "title": "Plague of Pythons (Part 1 of 2)"
+        }, 
+        {
+            "author": 18, 
+            "title": "Come Into My Cellar"
+        }, 
+        {
+            "author": 192, 
+            "title": "A City Near Centaurus"
+        }, 
+        {
+            "author": 142, 
+            "title": "How to Make Friends"
+        }, 
+        {
+            "author": 423, 
+            "title": "Roberta"
+        }, 
+        {
+            "author": 577, 
+            "title": "Bimmie Says"
+        }, 
+        {
+            "author": 315, 
+            "title": "Who Dares a Bulbur Eat?"
+        }
+    ]
+}

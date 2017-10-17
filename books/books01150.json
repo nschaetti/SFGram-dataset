@@ -1,0 +1,100 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1971", 
+    "cover": "https://ia800206.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/Galaxy_v31n05_1971-04/Galaxy_v31n05_1971-04_jp2.zip&file=Galaxy_v31n05_1971-04_jp2/Galaxy_v31n05_1971-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/75/GALAPR71.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        667, 
+        91, 
+        660, 
+        679, 
+        696, 
+        50, 
+        341, 
+        663, 
+        694, 
+        302
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1150, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "To Fit the Crime"
+        }, 
+        {
+            "author": 326, 
+            "title": "Necessary and Sufficient"
+        }, 
+        {
+            "author": 326, 
+            "title": "Takeover"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Exorcism"
+        }, 
+        {
+            "author": 326, 
+            "title": "Liaison Assignment"
+        }, 
+        {
+            "author": 499, 
+            "title": "Defender of Death"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Time of Changes (Part 2 of 3)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Letters 2"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, April 1971)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Book Shelf (Galaxy, April 1971)"
+        }, 
+        {
+            "author": 660, 
+            "title": "To Fit the Crime"
+        }, 
+        {
+            "author": 679, 
+            "title": "Liaison Assignment"
+        }, 
+        {
+            "author": 696, 
+            "title": "Defender of Death"
+        }, 
+        {
+            "author": 50, 
+            "title": "A Time of Changes (Part 2 of 3)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Necessary and Sufficient"
+        }, 
+        {
+            "author": 663, 
+            "title": "Takeover"
+        }, 
+        {
+            "author": 694, 
+            "title": "The Exorcism"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1953", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v07n01_1953-10/Galaxy_v07n01_1953-10_jp2.zip&file=Galaxy_v07n01_1953-10_jp2/Galaxy_v07n01_1953-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4e/MLO4316.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        438, 
+        336, 
+        435, 
+        431, 
+        305, 
+        326, 
+        339, 
+        340, 
+        3, 
+        387, 
+        36, 
+        401, 
+        439, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1009, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 1 of 3)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 438, 
+            "title": "The Model of a Judge"
+        }, 
+        {
+            "author": 438, 
+            "title": "The Carnivore"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Etiquette"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Etiquette [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Etiquette [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Etiquette [4]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Etiquette [5]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Etiquette [6]"
+        }, 
+        {
+            "author": 435, 
+            "title": "With a Vengeance"
+        }, 
+        {
+            "author": 431, 
+            "title": "At the Post"
+        }, 
+        {
+            "author": 431, 
+            "title": "At the Post [2]"
+        }, 
+        {
+            "author": 431, 
+            "title": "At the Post [3]"
+        }, 
+        {
+            "author": 431, 
+            "title": "At the Post [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "To the Hills!"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1953)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Earth Tunnels"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, October 1953)"
+        }, 
+        {
+            "author": 305, 
+            "title": "At the Post"
+        }, 
+        {
+            "author": 3, 
+            "title": "The Caves of Steel (Part 1 of 3)"
+        }, 
+        {
+            "author": 387, 
+            "title": "The Model of a Judge"
+        }, 
+        {
+            "author": 36, 
+            "title": "The Carnivore"
+        }, 
+        {
+            "author": 401, 
+            "title": "Origins of Galactic Etiquette"
+        }, 
+        {
+            "author": 439, 
+            "title": "With a Vengeance"
+        }
+    ]
+}

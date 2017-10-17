@@ -47,6 +47,8 @@ sS'books'
 p22
 (lp23
 I390
+aI975
+aI1002
 asS'id'
 p24
 I125

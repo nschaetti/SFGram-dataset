@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1955", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/Galaxy_v11n02_1955-11/Galaxy_v11n02_1955-11_jp2.zip&file=Galaxy_v11n02_1955-11_jp2/Galaxy_v11n02_1955-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fa/GALNOV55.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        480, 
+        481, 
+        482, 
+        402, 
+        305, 
+        339, 
+        483, 
+        326, 
+        8, 
+        40, 
+        136, 
+        484, 
+        485, 
+        23, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1034, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Ties of Earth (Part 1 of 2)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Ties of Earth (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Ties of Earth (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 480, 
+            "title": "The Semantic War"
+        }, 
+        {
+            "author": 363, 
+            "title": "Autofac"
+        }, 
+        {
+            "author": 363, 
+            "title": "Autofac [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Autofac [3]"
+        }, 
+        {
+            "author": 481, 
+            "title": "Cause of Death"
+        }, 
+        {
+            "author": 482, 
+            "title": "Warrior's Return"
+        }, 
+        {
+            "author": 402, 
+            "title": "With Redfern On Capella Xii"
+        }, 
+        {
+            "author": 402, 
+            "title": "With Redfern On Capella Xii [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "With Redfern On Capella Xii [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Who'll Be Around?"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information (Galaxy Science Fiction, November 1955)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, November 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, November 1955)"
+        }, 
+        {
+            "author": 8, 
+            "title": "Autofac"
+        }, 
+        {
+            "author": 40, 
+            "title": "With Redfern On Capella Xii"
+        }, 
+        {
+            "author": 136, 
+            "title": "The Ties of Earth (Part 1 of 2)"
+        }, 
+        {
+            "author": 484, 
+            "title": "The Semantic War"
+        }, 
+        {
+            "author": 485, 
+            "title": "Cause of Death"
+        }, 
+        {
+            "author": 23, 
+            "title": "Warrior's Return"
+        }
+    ]
+}

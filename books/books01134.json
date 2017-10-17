@@ -1,0 +1,113 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1969", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v28n05_1969-07/Galaxy_v28n05_1969-07_jp2.zip&file=Galaxy_v28n05_1969-07_jp2/Galaxy_v28n05_1969-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/8e/GALJUL69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        611, 
+        640, 
+        40, 
+        339, 
+        91, 
+        326, 
+        55, 
+        630, 
+        63, 
+        655, 
+        656, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1134, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Dune Messiah (Part 1 of 5)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dune Messiah (Part 1 of 5) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dune Messiah (Part 1 of 5) [3]"
+        }, 
+        {
+            "author": 611, 
+            "title": "The City That Was the World"
+        }, 
+        {
+            "author": 611, 
+            "title": "The City That Was the World [2]"
+        }, 
+        {
+            "author": 611, 
+            "title": "The City That Was the World [3]"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Kinsolving's Planet Irregulars"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Kinsolving's Planet Irregulars [2]"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Kinsolving's Planet Irregulars [3]"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Kinsolving's Planet Irregulars [4]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Sf in the Sun"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Eugen Sanger and the Rocket-Propelled Airplane"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, July 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, July 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, July 1969)"
+        }, 
+        {
+            "author": 55, 
+            "title": "The City That Was the World"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Kinsolving's Planet Irregulars"
+        }, 
+        {
+            "author": 63, 
+            "title": "Dune Messiah (Part 1 of 5)"
+        }, 
+        {
+            "author": 655, 
+            "title": "Full Commitment"
+        }, 
+        {
+            "author": 656, 
+            "title": "A Brief History of the Revolution"
+        }
+    ]
+}

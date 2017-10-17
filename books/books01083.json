@@ -1,0 +1,159 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1961", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v19n03_1961-02/Galaxy_v19n03_1961-02_jp2.zip&file=Galaxy_v19n03_1961-02_jp2/Galaxy_v19n03_1961-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4e/GALFEB1961.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        560, 
+        557, 
+        523, 
+        499, 
+        395, 
+        497, 
+        305, 
+        326, 
+        339, 
+        483, 
+        315, 
+        61, 
+        172, 
+        67, 
+        561, 
+        111, 
+        220, 
+        204, 
+        302
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1083, 
+    "contents": [
+        {
+            "author": 560, 
+            "title": "Sentry of the Sky"
+        }, 
+        {
+            "author": 560, 
+            "title": "Sentry of the Sky [2]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Sentry of the Sky [3]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Sentry of the Sky [4]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Sentry of the Sky [5]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Doorstep"
+        }, 
+        {
+            "author": 557, 
+            "title": "Volume Paa-Pyx"
+        }, 
+        {
+            "author": 557, 
+            "title": "Volume Paa-Pyx [2]"
+        }, 
+        {
+            "author": 523, 
+            "title": "The Drug"
+        }, 
+        {
+            "author": 499, 
+            "title": "An Honorable Death"
+        }, 
+        {
+            "author": 499, 
+            "title": "An Honorable Death [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "An Honorable Death [3]"
+        }, 
+        {
+            "author": 395, 
+            "title": "The Chasers"
+        }, 
+        {
+            "author": 395, 
+            "title": "The Chasers [2]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Auto-Da-Fe"
+        }, 
+        {
+            "author": 497, 
+            "title": "Doctor"
+        }, 
+        {
+            "author": 497, 
+            "title": "Doctor [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Trunk to Tail"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, February 1961) (Circulation: 91,000)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Let's Do Something About the Weather"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1961)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, February 1961)"
+        }, 
+        {
+            "author": 315, 
+            "title": "An Honorable Death"
+        }, 
+        {
+            "author": 61, 
+            "title": "Doctor"
+        }, 
+        {
+            "author": 172, 
+            "title": "Sentry of the Sky"
+        }, 
+        {
+            "author": 67, 
+            "title": "Doorstep"
+        }, 
+        {
+            "author": 561, 
+            "title": "Volume Paa-Pyx"
+        }, 
+        {
+            "author": 111, 
+            "title": "The Drug"
+        }, 
+        {
+            "author": 220, 
+            "title": "The Chasers"
+        }, 
+        {
+            "author": 204, 
+            "title": "Auto-Da-Fe"
+        }
+    ]
+}

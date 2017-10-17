@@ -1,0 +1,111 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1975", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v36n03_1975-03/Galaxy_v36n03_1975-03_jp2.zip&file=Galaxy_v36n03_1975-03_jp2/Galaxy_v36n03_1975-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/99/GALMAR75.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        744, 
+        499, 
+        742, 
+        764, 
+        734, 
+        356, 
+        341, 
+        326, 
+        748, 
+        770, 
+        591, 
+        771, 
+        772, 
+        773, 
+        302
+    ], 
+    "year": 1975, 
+    "images": [], 
+    "id": 1182, 
+    "contents": [
+        {
+            "author": 744, 
+            "title": "In This Month's Issue"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Politics of Ratticide"
+        }, 
+        {
+            "author": 499, 
+            "title": "Changelings"
+        }, 
+        {
+            "author": 744, 
+            "title": "Sign of the Unicorn (Part 3 of 3)"
+        }, 
+        {
+            "author": 744, 
+            "title": "Sign of the Unicorn (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Nobody Likes to Be Lonely"
+        }, 
+        {
+            "author": 744, 
+            "title": "Tree of Life"
+        }, 
+        {
+            "author": 742, 
+            "title": "Showcase (Galaxy, March 1975)"
+        }, 
+        {
+            "author": 764, 
+            "title": "If This Goes On (and On and On ... )"
+        }, 
+        {
+            "author": 734, 
+            "title": "Abm, Missile-Eating Lasers and a Bi-Polar World"
+        }, 
+        {
+            "author": 356, 
+            "title": "Forum: The Siren Song of Academe"
+        }, 
+        {
+            "author": 341, 
+            "title": "Bookshelf (Galaxy, March 1975)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, March 1975)"
+        }, 
+        {
+            "author": 748, 
+            "title": "The Politics of Ratticide"
+        }, 
+        {
+            "author": 770, 
+            "title": "Nobody Likes to Be Lonely"
+        }, 
+        {
+            "author": 591, 
+            "title": "Sign of the Unicorn (Part 3 of 3)"
+        }, 
+        {
+            "author": 771, 
+            "title": "In This Month's Issue"
+        }, 
+        {
+            "author": 772, 
+            "title": "Changelings"
+        }, 
+        {
+            "author": 773, 
+            "title": "Tree of Life"
+        }
+    ]
+}

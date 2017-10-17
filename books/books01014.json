@@ -1,0 +1,135 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1954", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v07n06_1954-03/Galaxy_v07n06_1954-03_jp2.zip&file=Galaxy_v07n06_1954-03_jp2/Galaxy_v07n06_1954-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/0e/MLO4330.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        431, 
+        436, 
+        433, 
+        412, 
+        402, 
+        305, 
+        326, 
+        339, 
+        340, 
+        445, 
+        91, 
+        341, 
+        446, 
+        447, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1014, 
+    "contents": [
+        {
+            "author": 431, 
+            "title": "The Telenizer"
+        }, 
+        {
+            "author": 431, 
+            "title": "The Telenizer [2]"
+        }, 
+        {
+            "author": 431, 
+            "title": "The Telenizer [3]"
+        }, 
+        {
+            "author": 436, 
+            "title": "The Littlest People"
+        }, 
+        {
+            "author": 436, 
+            "title": "The Littlest People [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Ironclad"
+        }, 
+        {
+            "author": 433, 
+            "title": "Ironclad [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Ironclad [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Ironclad [4]"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Merchants of Venus"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Education of Drusilla Strange"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Education of Drusilla Strange [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Education of Drusilla Strange [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Education of Drusilla Strange [4]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Education of Drusilla Strange [5]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Education of Drusilla Strange [6]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Moving Day (Ii)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, March 1954)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The 7-Cornered Polygon"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, March 1954)"
+        }, 
+        {
+            "author": 445, 
+            "title": "The Telenizer"
+        }, 
+        {
+            "author": 91, 
+            "title": "Ironclad"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Education of Drusilla Strange"
+        }, 
+        {
+            "author": 446, 
+            "title": "The Littlest People"
+        }, 
+        {
+            "author": 447, 
+            "title": "The Merchants of Venus"
+        }
+    ]
+}

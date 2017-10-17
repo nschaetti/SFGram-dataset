@@ -1,0 +1,127 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1969", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v28n02_1969-03/Galaxy_v28n02_1969-03_jp2.zip&file=Galaxy_v28n02_1969-03_jp2/Galaxy_v28n02_1969-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/38/GALMAR69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        640, 
+        40, 
+        326, 
+        339, 
+        604, 
+        91, 
+        613, 
+        648, 
+        67, 
+        446, 
+        632, 
+        645, 
+        592, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1131, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Weather On Welladay"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Weather On Welladay [2]"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Weather On Welladay [3]"
+        }, 
+        {
+            "author": 640, 
+            "title": "The Weather On Welladay [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Godel Numbers"
+        }, 
+        {
+            "author": 499, 
+            "title": "Godel Numbers [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Godel Numbers [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Election Everybody Won"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, March 1969)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Collision Course"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Theory and Practice of Teleportation"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, March 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, March 1969)"
+        }, 
+        {
+            "author": 613, 
+            "title": "The Weather On Welladay"
+        }, 
+        {
+            "author": 648, 
+            "title": "Godel Numbers"
+        }, 
+        {
+            "author": 67, 
+            "title": "And Now They Wake (Part 1 of 3)"
+        }, 
+        {
+            "author": 446, 
+            "title": "The City That Loves You"
+        }, 
+        {
+            "author": 632, 
+            "title": "Leviathan"
+        }, 
+        {
+            "author": 645, 
+            "title": "The Last Flight of Dr. Ain"
+        }, 
+        {
+            "author": 592, 
+            "title": "Greeks Bringing Knee-High Gifts"
+        }
+    ]
+}

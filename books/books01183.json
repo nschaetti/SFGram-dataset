@@ -1,0 +1,125 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1975", 
+    "cover": "https://ia601001.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v36n04_1975-04/Galaxy_v36n04_1975-04_jp2.zip&file=Galaxy_v36n04_1975-04_jp2/Galaxy_v36n04_1975-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d9/GALAPR75.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        753, 
+        742, 
+        40, 
+        734, 
+        767, 
+        741, 
+        748, 
+        591, 
+        774, 
+        762, 
+        757, 
+        775, 
+        776, 
+        777, 
+        302
+    ], 
+    "year": 1975, 
+    "images": [], 
+    "id": 1183, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Game of Blood and Dust"
+        }, 
+        {
+            "author": 499, 
+            "title": "Helium (Part 1 of 3)"
+        }, 
+        {
+            "author": 753, 
+            "title": "Efficiency"
+        }, 
+        {
+            "author": 326, 
+            "title": "To See the City Sitting On Its Buildings"
+        }, 
+        {
+            "author": 742, 
+            "title": "Invaders"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Day of the Gringo"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dea Ex Machina"
+        }, 
+        {
+            "author": 753, 
+            "title": "Cheap Thrills"
+        }, 
+        {
+            "author": 499, 
+            "title": "Elmo's Box"
+        }, 
+        {
+            "author": 40, 
+            "title": "Forum: A Short Term Solution"
+        }, 
+        {
+            "author": 734, 
+            "title": "Technological Expertise: A Diminishing Resource?"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, April 1975)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, April 1975)"
+        }, 
+        {
+            "author": 741, 
+            "title": "Invaders"
+        }, 
+        {
+            "author": 748, 
+            "title": "Helium (Part 1 of 3)"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Game of Blood and Dust"
+        }, 
+        {
+            "author": 774, 
+            "title": "Efficiency"
+        }, 
+        {
+            "author": 762, 
+            "title": "To See the City Sitting On Its Buildings"
+        }, 
+        {
+            "author": 757, 
+            "title": "The Day of the Gringo"
+        }, 
+        {
+            "author": 775, 
+            "title": "Dea Ex Machina"
+        }, 
+        {
+            "author": 776, 
+            "title": "Cheap Thrills"
+        }, 
+        {
+            "author": 777, 
+            "title": "Elmo's Box"
+        }
+    ]
+}

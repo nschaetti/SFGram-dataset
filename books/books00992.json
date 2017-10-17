@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1952", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v04n02_1952-05/Galaxy_v04n02_1952-05_jp2.zip&file=Galaxy_v04n02_1952-05_jp2/Galaxy_v04n02_1952-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/cb/GALMAY1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        394, 
+        342, 
+        395, 
+        305, 
+        339, 
+        340, 
+        326, 
+        122, 
+        30, 
+        396, 
+        362, 
+        121, 
+        397, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 992, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Category Phoenix"
+        }, 
+        {
+            "author": 363, 
+            "title": "Category Phoenix [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Category Phoenix [3]"
+        }, 
+        {
+            "author": 394, 
+            "title": "Lost Memory"
+        }, 
+        {
+            "author": 342, 
+            "title": "Wheels Within"
+        }, 
+        {
+            "author": 363, 
+            "title": "Lover When You're Near Me"
+        }, 
+        {
+            "author": 363, 
+            "title": "Lover When You're Near Me [2]"
+        }, 
+        {
+            "author": 395, 
+            "title": "Freudian Slip"
+        }, 
+        {
+            "author": 363, 
+            "title": "Garden in the Void"
+        }, 
+        {
+            "author": 363, 
+            "title": "Garden in the Void [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Garden in the Void [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Force Feeding"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information (Galaxy, May 1952)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, May 1952)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, May 1952)"
+        }, 
+        {
+            "author": 122, 
+            "title": "Lover When You're Near Me"
+        }, 
+        {
+            "author": 30, 
+            "title": "Garden in the Void"
+        }, 
+        {
+            "author": 396, 
+            "title": "Category Phoenix"
+        }, 
+        {
+            "author": 362, 
+            "title": "Lost Memory"
+        }, 
+        {
+            "author": 121, 
+            "title": "Wheels Within"
+        }, 
+        {
+            "author": 397, 
+            "title": "Freudian Slip"
+        }
+    ]
+}

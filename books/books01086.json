@@ -1,0 +1,168 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1961", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v19n06_1961-08/Galaxy_v19n06_1961-08_jp2.zip&file=Galaxy_v19n06_1961-08_jp2/Galaxy_v19n06_1961-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/2c/GALAUG1961.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        488, 
+        504, 
+        564, 
+        562, 
+        560, 
+        497, 
+        363, 
+        419, 
+        565, 
+        326, 
+        339, 
+        483, 
+        384, 
+        67, 
+        89, 
+        566, 
+        423, 
+        192, 
+        74, 
+        142, 
+        59, 
+        356, 
+        567, 
+        302
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1086, 
+    "contents": [
+        {
+            "author": 488, 
+            "title": "The Gatekeepers"
+        }, 
+        {
+            "author": 488, 
+            "title": "The Gatekeepers [2]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Lochinvar"
+        }, 
+        {
+            "author": 564, 
+            "title": "The God Next Door"
+        }, 
+        {
+            "author": 564, 
+            "title": "The God Next Door [2]"
+        }, 
+        {
+            "author": 562, 
+            "title": "Aloys"
+        }, 
+        {
+            "author": 562, 
+            "title": "Aloys [2]"
+        }, 
+        {
+            "author": 562, 
+            "title": "The Air of Castor Oil"
+        }, 
+        {
+            "author": 562, 
+            "title": "The Air of Castor Oil [2]"
+        }, 
+        {
+            "author": 560, 
+            "title": "The Stuff"
+        }, 
+        {
+            "author": 497, 
+            "title": "The King of the City"
+        }, 
+        {
+            "author": 497, 
+            "title": "The King of the City [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Deep Down Dragon"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Moon Moth"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Moon Moth [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Moon Moth [3]"
+        }, 
+        {
+            "author": 565, 
+            "title": "Notes From an Editor's Pad"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1961)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Man I Didn't Meet"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1961)"
+        }, 
+        {
+            "author": 384, 
+            "title": "The Gatekeepers"
+        }, 
+        {
+            "author": 67, 
+            "title": "The King of the City"
+        }, 
+        {
+            "author": 89, 
+            "title": "The Moon Moth"
+        }, 
+        {
+            "author": 566, 
+            "title": "Extraterrestrial Trilogue On Terran Self-Destruction"
+        }, 
+        {
+            "author": 423, 
+            "title": "Lochinvar"
+        }, 
+        {
+            "author": 192, 
+            "title": "The God Next Door"
+        }, 
+        {
+            "author": 74, 
+            "title": "Aloys"
+        }, 
+        {
+            "author": 142, 
+            "title": "The Air of Castor Oil"
+        }, 
+        {
+            "author": 59, 
+            "title": "The Stuff"
+        }, 
+        {
+            "author": 356, 
+            "title": "Return Engagement"
+        }, 
+        {
+            "author": 567, 
+            "title": "The Deep Down Dragon"
+        }
+    ]
+}

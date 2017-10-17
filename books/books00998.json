@@ -1,0 +1,146 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1952", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v05n02_1952-11/Galaxy_v05n02_1952-11_jp2.zip&file=Galaxy_v05n02_1952-11_jp2/Galaxy_v05n02_1952-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fa/GALNOV1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        415, 
+        402, 
+        336, 
+        352, 
+        305, 
+        326, 
+        339, 
+        340, 
+        416, 
+        389, 
+        3, 
+        23, 
+        188, 
+        51, 
+        161, 
+        387, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 998, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Martian Way"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Martian Way [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Martian Way [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Martian Way [4]"
+        }, 
+        {
+            "author": 415, 
+            "title": "Warrior Race"
+        }, 
+        {
+            "author": 402, 
+            "title": "Sugar Plum"
+        }, 
+        {
+            "author": 402, 
+            "title": "Sugar Plum [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Sugar Plum [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "A Thought for Tomorrow"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Altar at Midnight"
+        }, 
+        {
+            "author": 352, 
+            "title": "The Misogynist"
+        }, 
+        {
+            "author": 402, 
+            "title": "Runaway"
+        }, 
+        {
+            "author": 402, 
+            "title": "Command Performance"
+        }, 
+        {
+            "author": 402, 
+            "title": "Command Performance [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Command Performance [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Next Voice"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, November 1952)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Mars"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, November 1952)"
+        }, 
+        {
+            "author": 416, 
+            "title": "Sugar Plum"
+        }, 
+        {
+            "author": 389, 
+            "title": "Command Performance"
+        }, 
+        {
+            "author": 3, 
+            "title": "The Martian Way"
+        }, 
+        {
+            "author": 23, 
+            "title": "Warrior Race"
+        }, 
+        {
+            "author": 188, 
+            "title": "A Thought for Tomorrow"
+        }, 
+        {
+            "author": 51, 
+            "title": "The Altar at Midnight"
+        }, 
+        {
+            "author": 161, 
+            "title": "The Misogynist"
+        }, 
+        {
+            "author": 387, 
+            "title": "Runaway"
+        }
+    ]
+}

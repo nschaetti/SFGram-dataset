@@ -1,0 +1,155 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1953", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v07n03_1953-12/Galaxy_v07n03_1953-12_jp2.zip&file=Galaxy_v07n03_1953-12_jp2/Galaxy_v07n03_1953-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/54/MLO4318.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        402, 
+        363, 
+        431, 
+        336, 
+        305, 
+        339, 
+        340, 
+        326, 
+        441, 
+        341, 
+        3, 
+        23, 
+        58, 
+        401, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1011, 
+    "contents": [
+        {
+            "author": 402, 
+            "title": "The Dark Door"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Dark Door [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Dark Door [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Dark Door [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "One Man's Poison"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mr. Costello, Hero"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mr. Costello, Hero [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mr. Costello, Hero [3]"
+        }, 
+        {
+            "author": 431, 
+            "title": "Hall of Mirrors"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Medicine"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Medicine [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Medicine [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Medicine [4]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Medicine [5]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Medicine [6]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 3 of 3)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Caves of Steel (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Gone Today"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Deadly Trees"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, December 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Who's Predicting?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1953)"
+        }, 
+        {
+            "author": 441, 
+            "title": "The Dark Door"
+        }, 
+        {
+            "author": 341, 
+            "title": "Mr. Costello, Hero"
+        }, 
+        {
+            "author": 3, 
+            "title": "The Caves of Steel (Part 3 of 3)"
+        }, 
+        {
+            "author": 23, 
+            "title": "One Man's Poison"
+        }, 
+        {
+            "author": 58, 
+            "title": "Hall of Mirrors"
+        }, 
+        {
+            "author": 401, 
+            "title": "Origins of Galactic Medicine"
+        }
+    ]
+}

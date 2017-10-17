@@ -1,0 +1,143 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1959", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_v17n04_1959-04/Galaxy_v17n04_1959-04_jp2.zip&file=Galaxy_v17n04_1959-04_jp2/Galaxy_v17n04_1959-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/56/GALAPR1959.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        506, 
+        519, 
+        525, 
+        523, 
+        543, 
+        544, 
+        305, 
+        326, 
+        339, 
+        483, 
+        384, 
+        315, 
+        220, 
+        530, 
+        40, 
+        514, 
+        23, 
+        479, 
+        302
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 1072, 
+    "contents": [
+        {
+            "author": 506, 
+            "title": "The City of Force"
+        }, 
+        {
+            "author": 506, 
+            "title": "The City of Force [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The City of Force [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Security Plan"
+        }, 
+        {
+            "author": 525, 
+            "title": "The Bitterest Pill"
+        }, 
+        {
+            "author": 519, 
+            "title": "Kingslayer"
+        }, 
+        {
+            "author": 519, 
+            "title": "Kingslayer [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Kingslayer [3]"
+        }, 
+        {
+            "author": 523, 
+            "title": "Love Called This Thing"
+        }, 
+        {
+            "author": 543, 
+            "title": "The Sweeper of Loray"
+        }, 
+        {
+            "author": 544, 
+            "title": "When the People Fell"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Man in the Mailbag"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Man in the Mailbag [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Man in the Mailbag [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "So Far"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1959)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Atlantic Missile Range"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Bookshelf (Galaxy, April 1959)"
+        }, 
+        {
+            "author": 384, 
+            "title": "Kingslayer"
+        }, 
+        {
+            "author": 315, 
+            "title": "The Man in the Mailbag"
+        }, 
+        {
+            "author": 220, 
+            "title": "The City of Force"
+        }, 
+        {
+            "author": 530, 
+            "title": "Security Plan"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Bitterest Pill"
+        }, 
+        {
+            "author": 514, 
+            "title": "Love Called This Thing"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Sweeper of Loray"
+        }, 
+        {
+            "author": 479, 
+            "title": "When the People Fell"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1951", 
+    "cover": "https://ia801309.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v01n05_1951-02/Galaxy_v01n05_1951-02_jp2.zip&file=Galaxy_v01n05_1951-02_jp2/Galaxy_v01n05_1951-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/41/GALFEB1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        352, 
+        342, 
+        336, 
+        346, 
+        355, 
+        348, 
+        305, 
+        340, 
+        18, 
+        3, 
+        356, 
+        247, 
+        56, 
+        354, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 978, 
+    "contents": [
+        {
+            "author": 352, 
+            "title": "The Fireman"
+        }, 
+        {
+            "author": 352, 
+            "title": "The Fireman [2]"
+        }, 
+        {
+            "author": 352, 
+            "title": "The Fireman [3]"
+        }, 
+        {
+            "author": 352, 
+            "title": "The Fireman [4]"
+        }, 
+        {
+            "author": 342, 
+            "title": "... And It Comes Out Here"
+        }, 
+        {
+            "author": 342, 
+            "title": "... And It Comes Out Here [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "The Protector"
+        }, 
+        {
+            "author": 346, 
+            "title": "Second Childhood"
+        }, 
+        {
+            "author": 346, 
+            "title": "Second Childhood [2]"
+        }, 
+        {
+            "author": 355, 
+            "title": "Two Weeks in August"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 2 of 3)"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Yardstick for Science Fiction"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five-Star Shelf (Galaxy, February 1951)"
+        }, 
+        {
+            "author": 18, 
+            "title": "The Fireman"
+        }, 
+        {
+            "author": 3, 
+            "title": "Tyrann (Part 2 of 3)"
+        }, 
+        {
+            "author": 356, 
+            "title": "... And It Comes Out Here"
+        }, 
+        {
+            "author": 247, 
+            "title": "The Protector"
+        }, 
+        {
+            "author": 56, 
+            "title": "Second Childhood"
+        }, 
+        {
+            "author": 354, 
+            "title": "Two Weeks in August"
+        }
+    ]
+}

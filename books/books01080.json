@@ -1,0 +1,146 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1960", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v18n06_1960-08/Galaxy_v18n06_1960-08_jp2.zip&file=Galaxy_v18n06_1960-08_jp2/Galaxy_v18n06_1960-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/17/GALAUG1960.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        553, 
+        556, 
+        557, 
+        519, 
+        419, 
+        363, 
+        305, 
+        339, 
+        326, 
+        483, 
+        81, 
+        248, 
+        40, 
+        554, 
+        205, 
+        558, 
+        214, 
+        302
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1080, 
+    "contents": [
+        {
+            "author": 553, 
+            "title": "Mind Partner"
+        }, 
+        {
+            "author": 553, 
+            "title": "Mind Partner [2]"
+        }, 
+        {
+            "author": 553, 
+            "title": "Mind Partner [3]"
+        }, 
+        {
+            "author": 556, 
+            "title": "A Husband for My Wife"
+        }, 
+        {
+            "author": 556, 
+            "title": "A Husband for My Wife [2]"
+        }, 
+        {
+            "author": 557, 
+            "title": "The Business, As Usual"
+        }, 
+        {
+            "author": 557, 
+            "title": "The Business, As Usual [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Sordman the Protector"
+        }, 
+        {
+            "author": 519, 
+            "title": "Sordman the Protector [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Sordman the Protector [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "To Tell the Truth"
+        }, 
+        {
+            "author": 419, 
+            "title": "An Elephant for the Prinkip"
+        }, 
+        {
+            "author": 363, 
+            "title": "Drunkard's Walk (Part 2 of 2)"
+        }, 
+        {
+            "author": 363, 
+            "title": "Drunkard's Walk (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Drunkard's Walk (Part 2 of 2) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Drunkard's Walk (Part 2 of 2) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Readers On Aliens"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: How to Slay Dragons"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1960)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1960)"
+        }, 
+        {
+            "author": 81, 
+            "title": "Mind Partner"
+        }, 
+        {
+            "author": 248, 
+            "title": "Sordman the Protector"
+        }, 
+        {
+            "author": 40, 
+            "title": "Drunkard's Walk (Part 2 of 2)"
+        }, 
+        {
+            "author": 554, 
+            "title": "A Husband for My Wife"
+        }, 
+        {
+            "author": 205, 
+            "title": "The Business, As Usual"
+        }, 
+        {
+            "author": 558, 
+            "title": "To Tell the Truth"
+        }, 
+        {
+            "author": 214, 
+            "title": "An Elephant for the Prinkip"
+        }
+    ]
+}

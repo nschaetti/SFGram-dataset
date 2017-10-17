@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1974", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/Galaxy_v35n05_1974-05/Galaxy_v35n05_1974-05_jp2.zip&file=Galaxy_v35n05_1974-05_jp2/Galaxy_v35n05_1974-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e3/GALMAY74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        734, 
+        341, 
+        737, 
+        635, 
+        86, 
+        23, 
+        153, 
+        74, 
+        651, 
+        722, 
+        112, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1172, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "End City"
+        }, 
+        {
+            "author": 499, 
+            "title": "Tinkerboy"
+        }, 
+        {
+            "author": 326, 
+            "title": "Endangered Species"
+        }, 
+        {
+            "author": 499, 
+            "title": "Cox's Quality"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Org's Egg (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Time and Duckworth"
+        }, 
+        {
+            "author": 326, 
+            "title": "Substance and Shadow"
+        }, 
+        {
+            "author": 499, 
+            "title": "War of the Wastelife"
+        }, 
+        {
+            "author": 499, 
+            "title": "Cool Affection"
+        }, 
+        {
+            "author": 734, 
+            "title": "Those Pesky Belters and Their Torchships"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, May 1974)"
+        }, 
+        {
+            "author": 737, 
+            "title": "Cox's Quality"
+        }, 
+        {
+            "author": 635, 
+            "title": "War of the Wastelife"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Org's Egg (Part 2 of 3)"
+        }, 
+        {
+            "author": 23, 
+            "title": "End City"
+        }, 
+        {
+            "author": 153, 
+            "title": "Tinkerboy"
+        }, 
+        {
+            "author": 74, 
+            "title": "Endangered Species"
+        }, 
+        {
+            "author": 651, 
+            "title": "Time and Duckworth"
+        }, 
+        {
+            "author": 722, 
+            "title": "Substance and Shadow"
+        }, 
+        {
+            "author": 112, 
+            "title": "Cool Affection"
+        }
+    ]
+}

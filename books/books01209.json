@@ -1,0 +1,155 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1978", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/Galaxy_v39n03_1978-03/Galaxy_v39n03_1978-03_jp2.zip&file=Galaxy_v39n03_1978-03_jp2/Galaxy_v39n03_1978-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/42/GALMAR78.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        860, 
+        848, 
+        849, 
+        842, 
+        326, 
+        734, 
+        843, 
+        767, 
+        844, 
+        861, 
+        857, 
+        862, 
+        714, 
+        817, 
+        302
+    ], 
+    "year": 1978, 
+    "images": [], 
+    "id": 1209, 
+    "contents": [
+        {
+            "author": 860, 
+            "title": "Showcase (Galaxy, March 1978)"
+        }, 
+        {
+            "author": 848, 
+            "title": "Moonless Night"
+        }, 
+        {
+            "author": 848, 
+            "title": "Moonless Night [2]"
+        }, 
+        {
+            "author": 849, 
+            "title": "Bugs"
+        }, 
+        {
+            "author": 849, 
+            "title": "Bugs [2]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Exchange"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Exchange [2]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Exchange [3]"
+        }, 
+        {
+            "author": 849, 
+            "title": "The Norns' Loom"
+        }, 
+        {
+            "author": 849, 
+            "title": "The Norns' Loom [2]"
+        }, 
+        {
+            "author": 849, 
+            "title": "Killing Vector"
+        }, 
+        {
+            "author": 849, 
+            "title": "Killing Vector [2]"
+        }, 
+        {
+            "author": 849, 
+            "title": "Killing Vector [3]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 2 of 4)"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 2 of 4) [2]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 2 of 4) [3]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 2 of 4) [4]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 2 of 4) [5]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, March 1978)"
+        }, 
+        {
+            "author": 734, 
+            "title": "The Moral Equivalent of War"
+        }, 
+        {
+            "author": 843, 
+            "title": "Galaxy Bookshelf (Galaxy, March 1978)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, March 1978)"
+        }, 
+        {
+            "author": 844, 
+            "title": "Who's Minding the Store?"
+        }, 
+        {
+            "author": 844, 
+            "title": "Directions (Galaxy, March 1978)"
+        }, 
+        {
+            "author": 861, 
+            "title": "The Exchange"
+        }, 
+        {
+            "author": 857, 
+            "title": "The Faded Sun: Kesrith (Part 2 of 4)"
+        }, 
+        {
+            "author": 862, 
+            "title": "Moonless Night"
+        }, 
+        {
+            "author": 843, 
+            "title": "Bugs"
+        }, 
+        {
+            "author": 714, 
+            "title": "The Norns' Loom"
+        }, 
+        {
+            "author": 817, 
+            "title": "Killing Vector"
+        }
+    ]
+}

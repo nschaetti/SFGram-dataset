@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1958", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v16n01_1958-05/Galaxy_v16n01_1958-05_jp2.zip&file=Galaxy_v16n01_1958-05_jp2/Galaxy_v16n01_1958-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/62/MLO4450.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        506, 
+        533, 
+        419, 
+        525, 
+        519, 
+        305, 
+        339, 
+        326, 
+        483, 
+        498, 
+        50, 
+        514, 
+        487, 
+        217, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1063, 
+    "contents": [
+        {
+            "author": 506, 
+            "title": "Never Come Midnight"
+        }, 
+        {
+            "author": 506, 
+            "title": "Never Come Midnight [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Never Come Midnight [3]"
+        }, 
+        {
+            "author": 533, 
+            "title": "Or All the Seas with Oysters"
+        }, 
+        {
+            "author": 419, 
+            "title": "Pick a Crime"
+        }, 
+        {
+            "author": 506, 
+            "title": "Bridle Shower"
+        }, 
+        {
+            "author": 506, 
+            "title": "Bridle Shower [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Bridle Shower [3]"
+        }, 
+        {
+            "author": 525, 
+            "title": "The Voice of the Diaphragm"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Iron Chancellor"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Iron Chancellor [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Fun 4 1 &Amp; All"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Remnants of the Sarmatian Sea"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, May 1958)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, May 1958)"
+        }, 
+        {
+            "author": 498, 
+            "title": "Bridle Shower"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Iron Chancellor"
+        }, 
+        {
+            "author": 305, 
+            "title": "Never Come Midnight"
+        }, 
+        {
+            "author": 514, 
+            "title": "Or All the Seas with Oysters"
+        }, 
+        {
+            "author": 487, 
+            "title": "Pick a Crime"
+        }, 
+        {
+            "author": 217, 
+            "title": "The Voice of the Diaphragm"
+        }
+    ]
+}

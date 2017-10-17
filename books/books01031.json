@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1955", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v10n05_1955-08/Galaxy_v10n05_1955-08_jp2.zip&file=Galaxy_v10n05_1955-08_jp2/Galaxy_v10n05_1955-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f7/MLO4382.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        402, 
+        474, 
+        461, 
+        433, 
+        305, 
+        339, 
+        326, 
+        98, 
+        220, 
+        40, 
+        110, 
+        195, 
+        341, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1031, 
+    "contents": [
+        {
+            "author": 402, 
+            "title": "The Flat-Eyed Monster"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Flat-Eyed Monster [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Flat-Eyed Monster [3]"
+        }, 
+        {
+            "author": 474, 
+            "title": "Whiskabroom"
+        }, 
+        {
+            "author": 461, 
+            "title": "Country Estate"
+        }, 
+        {
+            "author": 461, 
+            "title": "Country Estate [2]"
+        }, 
+        {
+            "author": 461, 
+            "title": "Country Estate [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "A Gift From Earth"
+        }, 
+        {
+            "author": 402, 
+            "title": "Twink"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 3 of 4)"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 3 of 4) [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 3 of 4) [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 3 of 4) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Two Upper Lips"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Not Quite Perennial Phyllopod"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1955)"
+        }, 
+        {
+            "author": 98, 
+            "title": "The Flat-Eyed Monster"
+        }, 
+        {
+            "author": 220, 
+            "title": "Country Estate"
+        }, 
+        {
+            "author": 40, 
+            "title": "Preferred Risk (Part 3 of 4)"
+        }, 
+        {
+            "author": 110, 
+            "title": "Whiskabroom"
+        }, 
+        {
+            "author": 195, 
+            "title": "A Gift From Earth"
+        }, 
+        {
+            "author": 341, 
+            "title": "Twink"
+        }
+    ]
+}

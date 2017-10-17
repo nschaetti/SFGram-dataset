@@ -1,0 +1,110 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1953", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v06n02_1953-05/Galaxy_v06n02_1953-05_jp2.zip&file=Galaxy_v06n02_1953-05_jp2/Galaxy_v06n02_1953-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/00/MLO4311.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        344, 
+        363, 
+        419, 
+        326, 
+        305, 
+        339, 
+        340, 
+        56, 
+        161, 
+        23, 
+        429, 
+        172, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1004, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "Wherever You May Be"
+        }, 
+        {
+            "author": 342, 
+            "title": "Wherever You May Be [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Wherever You May Be [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Wherever You May Be [4]"
+        }, 
+        {
+            "author": 344, 
+            "title": "Specialist"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Gleeb for Earth"
+        }, 
+        {
+            "author": 419, 
+            "title": "Not Fit for Children"
+        }, 
+        {
+            "author": 342, 
+            "title": "Junkyard"
+        }, 
+        {
+            "author": 342, 
+            "title": "Junkyard [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Junkyard [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, May 1953)"
+        }, 
+        {
+            "author": 305, 
+            "title": "Gueffef On Progreff"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Birth of the Space Station (Ii)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, May 1953)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Junkyard"
+        }, 
+        {
+            "author": 161, 
+            "title": "Wherever You May Be"
+        }, 
+        {
+            "author": 23, 
+            "title": "Specialist"
+        }, 
+        {
+            "author": 429, 
+            "title": "A Gleeb for Earth"
+        }, 
+        {
+            "author": 172, 
+            "title": "Not Fit for Children"
+        }
+    ]
+}

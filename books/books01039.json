@@ -1,0 +1,109 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1956", 
+    "cover": "https://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v12n01_1956-05/Galaxy_v12n01_1956-05_jp2.zip&file=Galaxy_v12n01_1956-05_jp2/Galaxy_v12n01_1956-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/6b/MLO4395.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        419, 
+        486, 
+        363, 
+        494, 
+        305, 
+        339, 
+        483, 
+        368, 
+        376, 
+        40, 
+        142, 
+        443, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1039, 
+    "contents": [
+        {
+            "author": 419, 
+            "title": "Volpla"
+        }, 
+        {
+            "author": 419, 
+            "title": "Volpla [2]"
+        }, 
+        {
+            "author": 486, 
+            "title": "Name Your Symptom"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Coffin for Jacob"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Coffin for Jacob [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Coffin for Jacob [3]"
+        }, 
+        {
+            "author": 494, 
+            "title": "One Across"
+        }, 
+        {
+            "author": 363, 
+            "title": "Slave Ship (Part 3 of 3)"
+        }, 
+        {
+            "author": 363, 
+            "title": "Slave Ship (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Slave Ship (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Slave Ship (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Of Two Minds"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Wanted &Mdash; Dead or Alive"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, May 1956)"
+        }, 
+        {
+            "author": 368, 
+            "title": "Volpla"
+        }, 
+        {
+            "author": 376, 
+            "title": "A Coffin for Jacob"
+        }, 
+        {
+            "author": 40, 
+            "title": "Slave Ship (Part 3 of 3)"
+        }, 
+        {
+            "author": 142, 
+            "title": "Name Your Symptom"
+        }, 
+        {
+            "author": 443, 
+            "title": "One Across"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1968", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v26n04_1968-04/Galaxy_v26n04_1968-04_jp2.zip&file=Galaxy_v26n04_1968-04_jp2/Galaxy_v26n04_1968-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/28/GALAPR68.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        611, 
+        326, 
+        499, 
+        40, 
+        339, 
+        91, 
+        622, 
+        350, 
+        204, 
+        56, 
+        305, 
+        623, 
+        604, 
+        302
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1122, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "Goblin Reservation (Part 1 of 2)"
+        }, 
+        {
+            "author": 545, 
+            "title": "Goblin Reservation (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Goblin Reservation (Part 1 of 2) [4]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Goblin Reservation (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Goblin Reservation (Part 1 of 2) [5]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Goblin Reservation (Part 1 of 2) [6]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Brain Drain"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sword Game"
+        }, 
+        {
+            "author": 611, 
+            "title": "Touch of the Moon"
+        }, 
+        {
+            "author": 611, 
+            "title": "Touch of the Moon [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Deceivers"
+        }, 
+        {
+            "author": 499, 
+            "title": "The World and Thorinn"
+        }, 
+        {
+            "author": 499, 
+            "title": "The World and Thorinn [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The World and Thorinn [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The World and Thorinn [4]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Yet Still It Moves"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Devil's Apples"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, April 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1968)"
+        }, 
+        {
+            "author": 622, 
+            "title": "Brain Drain"
+        }, 
+        {
+            "author": 350, 
+            "title": "Touch of the Moon"
+        }, 
+        {
+            "author": 204, 
+            "title": "The World and Thorinn"
+        }, 
+        {
+            "author": 56, 
+            "title": "Goblin Reservation (Part 1 of 2)"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Riches of Embarrassment"
+        }, 
+        {
+            "author": 623, 
+            "title": "Sword Game"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Deceivers"
+        }
+    ]
+}

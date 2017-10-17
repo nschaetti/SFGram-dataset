@@ -1,0 +1,149 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1963", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v21n06_1963-08/Galaxy_v21n06_1963-08_jp2.zip&file=Galaxy_v21n06_1963-08_jp2/Galaxy_v21n06_1963-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/34/GALAUG1963.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        519, 
+        551, 
+        581, 
+        556, 
+        40, 
+        339, 
+        326, 
+        341, 
+        583, 
+        56, 
+        70, 
+        143, 
+        356, 
+        50, 
+        192, 
+        302
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1096, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "Hot Planet"
+        }, 
+        {
+            "author": 497, 
+            "title": "Hot Planet [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Hot Planet [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Hot Planet [4]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Great Nebraska Sea"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Great Nebraska Sea [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Great Nebraska Sea [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Great Nebraska Sea [4]"
+        }, 
+        {
+            "author": 551, 
+            "title": "The Problem Makers"
+        }, 
+        {
+            "author": 551, 
+            "title": "The Problem Makers [2]"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Pain Peddlers"
+        }, 
+        {
+            "author": 519, 
+            "title": "Here Gather the Stars (Part 2 of 2)"
+        }, 
+        {
+            "author": 519, 
+            "title": "Here Gather the Stars (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Here Gather the Stars (Part 2 of 2) [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Here Gather the Stars (Part 2 of 2) [4]"
+        }, 
+        {
+            "author": 556, 
+            "title": "The Birds of Lorrane"
+        }, 
+        {
+            "author": 556, 
+            "title": "The Birds of Lorrane [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Spacewar, 1963"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information (Galaxy, August 1963)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1963)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy's 5 Star Shelf: The Immense and the Outrageous"
+        }, 
+        {
+            "author": 583, 
+            "title": "The Problem Makers"
+        }, 
+        {
+            "author": 56, 
+            "title": "Here Gather the Stars (Part 2 of 2)"
+        }, 
+        {
+            "author": 70, 
+            "title": "Hot Planet"
+        }, 
+        {
+            "author": 143, 
+            "title": "The Great Nebraska Sea"
+        }, 
+        {
+            "author": 356, 
+            "title": "Earthbound"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Pain Peddlers"
+        }, 
+        {
+            "author": 192, 
+            "title": "The Birds of Lorrane"
+        }
+    ]
+}

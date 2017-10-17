@@ -1,0 +1,111 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1967", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v25n04_1967-04/Galaxy_v25n04_1967-04_jp2.zip&file=Galaxy_v25n04_1967-04_jp2/Galaxy_v25n04_1967-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d9/GALAPR67.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        40, 
+        339, 
+        326, 
+        91, 
+        67, 
+        602, 
+        614, 
+        81, 
+        616, 
+        617, 
+        194, 
+        16, 
+        302
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1117, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "Thunderhead"
+        }, 
+        {
+            "author": 545, 
+            "title": "Thunderhead [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Thunderhead [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Purpose of Life"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Purpose of Life [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Purpose of Life [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Making Models"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Orbits of the Comets"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, April 1967) ((Circulation: 73,450)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, April 1967)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1967)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Thunderhead"
+        }, 
+        {
+            "author": 602, 
+            "title": "The Purpose of Life"
+        }, 
+        {
+            "author": 614, 
+            "title": "Fair Test"
+        }, 
+        {
+            "author": 81, 
+            "title": "The New Member"
+        }, 
+        {
+            "author": 616, 
+            "title": "The Young Priests of Adytum 199"
+        }, 
+        {
+            "author": 617, 
+            "title": "Within the Cloud"
+        }, 
+        {
+            "author": 194, 
+            "title": "Ballenger's People"
+        }, 
+        {
+            "author": 16, 
+            "title": "You Men of Violence"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1977", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v38n07_1977-09/Galaxy_v38n07_1977-09_jp2.zip&file=Galaxy_v38n07_1977-09_jp2/Galaxy_v38n07_1977-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/91/GALSEP77.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        734, 
+        770, 
+        829, 
+        830, 
+        831, 
+        750, 
+        832, 
+        833, 
+        302
+    ], 
+    "year": 1977, 
+    "images": [], 
+    "id": 1204, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "Showcase (Galaxy, September 1977)"
+        }, 
+        {
+            "author": 742, 
+            "title": "Exiles to Glory (Part 1 of 2)"
+        }, 
+        {
+            "author": 742, 
+            "title": "Exiles to Glory (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Exiles to Glory (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Gently Rapping"
+        }, 
+        {
+            "author": 742, 
+            "title": "Gently Rapping [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Came the Revolution"
+        }, 
+        {
+            "author": 742, 
+            "title": "Came the Revolution [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Came the Revolution [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Get Happy"
+        }, 
+        {
+            "author": 742, 
+            "title": "Coming Home"
+        }, 
+        {
+            "author": 742, 
+            "title": "Coming Home [2]"
+        }, 
+        {
+            "author": 734, 
+            "title": "Some Futures"
+        }, 
+        {
+            "author": 770, 
+            "title": "Galaxy Bookshelf (Galaxy, September 1977)"
+        }, 
+        {
+            "author": 829, 
+            "title": "Review of an Audio Dramatization of Brian W. Aldiss' \"Frankenstein Unbound\", Adapted"
+        }, 
+        {
+            "author": 770, 
+            "title": "Review of the Audio Recording \"Joanna Russ Interpreting Her Stories\""
+        }, 
+        {
+            "author": 830, 
+            "title": "Review of an Audio Dramatization of Isaac Asimov's \"Nightfall\" Adapted"
+        }, 
+        {
+            "author": 831, 
+            "title": "Came the Revolution"
+        }, 
+        {
+            "author": 750, 
+            "title": "Get Happy"
+        }, 
+        {
+            "author": 734, 
+            "title": "Exiles to Glory (Part 1 of 2)"
+        }, 
+        {
+            "author": 832, 
+            "title": "Gently Rapping"
+        }, 
+        {
+            "author": 833, 
+            "title": "Coming Home"
+        }
+    ]
+}

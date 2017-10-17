@@ -1,0 +1,105 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1975", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v36n05_1975-06/Galaxy_v36n05_1975-06_jp2.zip&file=Galaxy_v36n05_1975-06_jp2/Galaxy_v36n05_1975-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b1/GALJUN75.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        753, 
+        499, 
+        744, 
+        770, 
+        734, 
+        326, 
+        86, 
+        778, 
+        748, 
+        779, 
+        774, 
+        759, 
+        302
+    ], 
+    "year": 1975, 
+    "images": [], 
+    "id": 1184, 
+    "contents": [
+        {
+            "author": 753, 
+            "title": "The Eternity Engine"
+        }, 
+        {
+            "author": 499, 
+            "title": "Elephant with Wooden Leg"
+        }, 
+        {
+            "author": 499, 
+            "title": "Helium (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Helium (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Venging"
+        }, 
+        {
+            "author": 499, 
+            "title": "Let Darkness Fall"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Yidam"
+        }, 
+        {
+            "author": 744, 
+            "title": "Cartoon: \"Phalaxy?\""
+        }, 
+        {
+            "author": 753, 
+            "title": "Showcase (Galaxy, June 1975)"
+        }, 
+        {
+            "author": 770, 
+            "title": "Bookshelf (Galaxy, June 1975)"
+        }, 
+        {
+            "author": 734, 
+            "title": "The New Faces of Big Science"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, June 1975)"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Eternity Engine"
+        }, 
+        {
+            "author": 778, 
+            "title": "The Venging"
+        }, 
+        {
+            "author": 748, 
+            "title": "Helium (Part 2 of 3)"
+        }, 
+        {
+            "author": 779, 
+            "title": "Elephant with Wooden Leg"
+        }, 
+        {
+            "author": 774, 
+            "title": "Let Darkness Fall"
+        }, 
+        {
+            "author": 759, 
+            "title": "The Yidam"
+        }
+    ]
+}

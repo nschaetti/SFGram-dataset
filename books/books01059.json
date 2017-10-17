@@ -1,0 +1,128 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1958", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v15n03_1958-01/Galaxy_v15n03_1958-01_jp2.zip&file=Galaxy_v15n03_1958-01_jp2/Galaxy_v15n03_1958-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/02/MLO4445.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        504, 
+        419, 
+        525, 
+        499, 
+        305, 
+        339, 
+        326, 
+        483, 
+        526, 
+        527, 
+        528, 
+        40, 
+        315, 
+        56, 
+        217, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1059, 
+    "contents": [
+        {
+            "author": 504, 
+            "title": "The Knights of Arthur"
+        }, 
+        {
+            "author": 504, 
+            "title": "The Knights of Arthur [2]"
+        }, 
+        {
+            "author": 504, 
+            "title": "The Knights of Arthur [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Hated"
+        }, 
+        {
+            "author": 525, 
+            "title": "Rex and Mr. Rejilla"
+        }, 
+        {
+            "author": 525, 
+            "title": "Rex and Mr. Rejilla [2]"
+        }, 
+        {
+            "author": 525, 
+            "title": "Rex and Mr. Rejilla [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Kill Me with Kindness"
+        }, 
+        {
+            "author": 499, 
+            "title": "The World That Couldn't Be"
+        }, 
+        {
+            "author": 499, 
+            "title": "The World That Couldn't Be [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The World That Couldn't Be [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Utter Dark"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Life Without Gravity"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, January 1958)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, January 1958)"
+        }, 
+        {
+            "author": 526, 
+            "title": "Review of the Nonfiction Work \"a Key to the Stars\""
+        }, 
+        {
+            "author": 527, 
+            "title": "Review of the Nonfiction Work \"Discovery of the Universe\""
+        }, 
+        {
+            "author": 528, 
+            "title": "Review of the Nonfiction Work \"the Modern Universe\""
+        }, 
+        {
+            "author": 40, 
+            "title": "The Knights of Arthur"
+        }, 
+        {
+            "author": 315, 
+            "title": "Rex and Mr. Rejilla"
+        }, 
+        {
+            "author": 56, 
+            "title": "The World That Couldn't Be"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Hated"
+        }, 
+        {
+            "author": 217, 
+            "title": "Kill Me with Kindness"
+        }
+    ]
+}

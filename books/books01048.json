@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1957", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_v13n04_1957-02/Galaxy_v13n04_1957-02_jp2.zip&file=Galaxy_v13n04_1957-02_jp2/Galaxy_v13n04_1957-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/77/MLO4434.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        490, 
+        497, 
+        504, 
+        305, 
+        483, 
+        326, 
+        339, 
+        40, 
+        81, 
+        167, 
+        23, 
+        505, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1048, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "My Lady Greensleeves"
+        }, 
+        {
+            "author": 499, 
+            "title": "My Lady Greensleeves [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "My Lady Greensleeves [3]"
+        }, 
+        {
+            "author": 490, 
+            "title": "The Martyr"
+        }, 
+        {
+            "author": 497, 
+            "title": "Advance Agent"
+        }, 
+        {
+            "author": 497, 
+            "title": "Advance Agent [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Advance Agent [3]"
+        }, 
+        {
+            "author": 504, 
+            "title": "The Bomb in the Bathtub"
+        }, 
+        {
+            "author": 499, 
+            "title": "I Am a Nucleus"
+        }, 
+        {
+            "author": 499, 
+            "title": "I Am a Nucleus [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "I Am a Nucleus [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "A Load Off the Mind"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, February 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1957)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Between Us and Space Travel"
+        }, 
+        {
+            "author": 40, 
+            "title": "My Lady Greensleeves"
+        }, 
+        {
+            "author": 81, 
+            "title": "Advance Agent"
+        }, 
+        {
+            "author": 167, 
+            "title": "I Am a Nucleus"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Martyr"
+        }, 
+        {
+            "author": 505, 
+            "title": "The Bomb in the Bathtub"
+        }
+    ]
+}

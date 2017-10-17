@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1964", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v23n02_1964-12/Galaxy_v23n02_1964-12_jp2.zip&file=Galaxy_v23n02_1964-12_jp2/Galaxy_v23n02_1964-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/62/GALDEC1964.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        578, 
+        497, 
+        545, 
+        40, 
+        339, 
+        326, 
+        368, 
+        356, 
+        16, 
+        566, 
+        595, 
+        591, 
+        596, 
+        302
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1104, 
+    "contents": [
+        {
+            "author": 578, 
+            "title": "The Starsloggers"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Starsloggers [2]"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Starsloggers [3]"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Starsloggers [4]"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Man of the Renaissance"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Man of the Renaissance [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Man of the Renaissance [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Man of the Renaissance [4]"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Man of the Renaissance [5]"
+        }, 
+        {
+            "author": 545, 
+            "title": "To Avenge Man"
+        }, 
+        {
+            "author": 545, 
+            "title": "To Avenge Man [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Spacemen &Amp; Lawmen"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Rarest Animals"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1964)"
+        }, 
+        {
+            "author": 368, 
+            "title": "A Man of the Renaissance"
+        }, 
+        {
+            "author": 356, 
+            "title": "To Avenge Man"
+        }, 
+        {
+            "author": 16, 
+            "title": "The Starsloggers"
+        }, 
+        {
+            "author": 566, 
+            "title": "Ballad of the Interstellar Merchants"
+        }, 
+        {
+            "author": 595, 
+            "title": "The Rules of the Road"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Monster and the Maiden"
+        }, 
+        {
+            "author": 596, 
+            "title": "Let Me Call Her Sweetcore"
+        }
+    ]
+}

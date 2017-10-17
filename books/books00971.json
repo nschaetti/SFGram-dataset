@@ -1,0 +1,91 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1994", 
+    "cover": "https://ia801402.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/Galaxy_2nd_Series_v01n01_1994-01/Galaxy_2nd_Series_v01n01_1994-01_jp2.zip&file=Galaxy_2nd_Series_v01n01_1994-01_jp2/Galaxy_2nd_Series_v01n01_1994-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/data/images/g/galaxy_199401-02.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        303, 
+        103, 
+        23, 
+        304, 
+        305, 
+        50, 
+        40, 
+        306, 
+        307, 
+        308, 
+        309, 
+        310, 
+        311, 
+        312, 
+        302
+    ], 
+    "year": 1994, 
+    "images": [], 
+    "id": 971, 
+    "contents": [
+        {
+            "author": 303, 
+            "title": "Editorial: Durston's Last Ride (Galaxy, #1)"
+        }, 
+        {
+            "author": 103, 
+            "title": "The Man with Nine Lives: Vincent Price 1911 - 1993"
+        }, 
+        {
+            "author": 23, 
+            "title": "The City of the Dead (Part 1 of 3)"
+        }, 
+        {
+            "author": 304, 
+            "title": "Vampire's Fast (Part 1 of 2)"
+        }, 
+        {
+            "author": 305, 
+            "title": "That's the Spirit"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Nature of the Place"
+        }, 
+        {
+            "author": 40, 
+            "title": "Pythias"
+        }, 
+        {
+            "author": 306, 
+            "title": "Perfectly Preserved"
+        }, 
+        {
+            "author": 307, 
+            "title": "What Comes Naturally"
+        }, 
+        {
+            "author": 308, 
+            "title": "Cigarbox"
+        }, 
+        {
+            "author": 309, 
+            "title": "Let Sleeping Sigils Lie"
+        }, 
+        {
+            "author": 310, 
+            "title": "Last Appointment"
+        }, 
+        {
+            "author": 311, 
+            "title": "Cyberactions"
+        }, 
+        {
+            "author": 312, 
+            "title": "In the Canal Zone"
+        }
+    ]
+}

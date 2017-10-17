@@ -1,0 +1,154 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1964", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v22n04_1964-04/Galaxy_v22n04_1964-04_jp2.zip&file=Galaxy_v22n04_1964-04_jp2/Galaxy_v22n04_1964-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/14/GALAPR1964.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        581, 
+        578, 
+        40, 
+        339, 
+        326, 
+        16, 
+        588, 
+        479, 
+        589, 
+        577, 
+        205, 
+        302
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1100, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Boy Who Bought Old Earth"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Boy Who Bought Old Earth [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Boy Who Bought Old Earth [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Boy Who Bought Old Earth [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [6]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [7]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [8]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [9]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [10]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [11]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Earth Eighteen [12]"
+        }, 
+        {
+            "author": 581, 
+            "title": "Final Encounter"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Blasphemers"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Blasphemers [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "How to Talk Science"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Galton's Random Machine, the Bean Curve and Military Purchases"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, April 1964) (Circulation: 77,677)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1964)"
+        }, 
+        {
+            "author": 16, 
+            "title": "Final Encounter"
+        }, 
+        {
+            "author": 588, 
+            "title": "The Blasphemers"
+        }, 
+        {
+            "author": 479, 
+            "title": "The Boy Who Bought Old Earth"
+        }, 
+        {
+            "author": 589, 
+            "title": "The End of the Race"
+        }, 
+        {
+            "author": 577, 
+            "title": "Soft and Soupy Whispers"
+        }, 
+        {
+            "author": 40, 
+            "title": "Earth Eighteen"
+        }, 
+        {
+            "author": 205, 
+            "title": "At the Feelies"
+        }
+    ]
+}

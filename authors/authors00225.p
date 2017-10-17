@@ -52,6 +52,7 @@ sS'books'
 p25
 (lp26
 I686
+aI1082
 asS'id'
 p27
 I225

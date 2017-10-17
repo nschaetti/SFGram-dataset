@@ -1,0 +1,137 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1951", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v02n04_1951-07/Galaxy_v02n04_1951-07_jp2.zip&file=Galaxy_v02n04_1951-07_jp2/Galaxy_v02n04_1951-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/03/GALJUL1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        364, 
+        346, 
+        363, 
+        342, 
+        305, 
+        340, 
+        98, 
+        32, 
+        51, 
+        137, 
+        36, 
+        365, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 982, 
+    "contents": [
+        {
+            "author": 364, 
+            "title": "Venus Is a Man's World"
+        }, 
+        {
+            "author": 364, 
+            "title": "Venus Is a Man's World [2]"
+        }, 
+        {
+            "author": 346, 
+            "title": "Common Denominator"
+        }, 
+        {
+            "author": 346, 
+            "title": "Common Denominator [2]"
+        }, 
+        {
+            "author": 346, 
+            "title": "Common Denominator [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Syndrome Johnny"
+        }, 
+        {
+            "author": 363, 
+            "title": "Syndrome Johnny [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Syndrome Johnny [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 3 of 3)"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 3 of 3) [5]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 3 of 3) [6]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Pen Pal"
+        }, 
+        {
+            "author": 342, 
+            "title": "Pen Pal [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Appointment in Tomorrow"
+        }, 
+        {
+            "author": 363, 
+            "title": "Appointment in Tomorrow [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Getting Personal"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, July 1951)"
+        }, 
+        {
+            "author": 98, 
+            "title": "Venus Is a Man's World"
+        }, 
+        {
+            "author": 32, 
+            "title": "Appointment in Tomorrow"
+        }, 
+        {
+            "author": 51, 
+            "title": "Mars Child (Part 3 of 3)"
+        }, 
+        {
+            "author": 137, 
+            "title": "Common Denominator"
+        }, 
+        {
+            "author": 36, 
+            "title": "Syndrome Johnny"
+        }, 
+        {
+            "author": 365, 
+            "title": "Pen Pal"
+        }
+    ]
+}

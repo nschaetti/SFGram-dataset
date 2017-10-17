@@ -1,0 +1,184 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1968", 
+    "cover": "https://ia601006.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v26n06_1968-07/Galaxy_v26n06_1968-07_jp2.zip&file=Galaxy_v26n06_1968-07_jp2/Galaxy_v26n06_1968-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d8/GALJUL68.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        624, 
+        625, 
+        626, 
+        326, 
+        627, 
+        628, 
+        40, 
+        339, 
+        91, 
+        356, 
+        604, 
+        546, 
+        32, 
+        74, 
+        629, 
+        592, 
+        614, 
+        630, 
+        302
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1123, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 1 of 3) [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 1 of 3) [6]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 1 of 3) [7]"
+        }, 
+        {
+            "author": 624, 
+            "title": "Mcgruder's Marvels"
+        }, 
+        {
+            "author": 624, 
+            "title": "Mcgruder's Marvels [2]"
+        }, 
+        {
+            "author": 625, 
+            "title": "There Is a Tide"
+        }, 
+        {
+            "author": 625, 
+            "title": "There Is a Tide [2]"
+        }, 
+        {
+            "author": 625, 
+            "title": "There Is a Tide [3]"
+        }, 
+        {
+            "author": 625, 
+            "title": "There Is a Tide [4]"
+        }, 
+        {
+            "author": 626, 
+            "title": "Bailey's Ark"
+        }, 
+        {
+            "author": 626, 
+            "title": "Bailey's Ark [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Dreamer, Schemer"
+        }, 
+        {
+            "author": 499, 
+            "title": "Factsheet Six"
+        }, 
+        {
+            "author": 499, 
+            "title": "Factsheet Six [2]"
+        }, 
+        {
+            "author": 627, 
+            "title": "Seconds' Chance"
+        }, 
+        {
+            "author": 627, 
+            "title": "Seconds' Chance [2]"
+        }, 
+        {
+            "author": 627, 
+            "title": "Seconds' Chance [3]"
+        }, 
+        {
+            "author": 628, 
+            "title": "When I Was in the Zoo"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Week That Was"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Would You Do About Vietnam?"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Interplanetary Communications"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, July 1968)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, July 1968)"
+        }, 
+        {
+            "author": 356, 
+            "title": "2001: A Space Odyssey (Movie Review)"
+        }, 
+        {
+            "author": 604, 
+            "title": "There Is a Tide"
+        }, 
+        {
+            "author": 546, 
+            "title": "Factsheet Six"
+        }, 
+        {
+            "author": 32, 
+            "title": "A Specter Is Haunting Texas (Part 1 of 3)"
+        }, 
+        {
+            "author": 74, 
+            "title": "Mcgruder's Marvels"
+        }, 
+        {
+            "author": 629, 
+            "title": "Bailey's Ark"
+        }, 
+        {
+            "author": 592, 
+            "title": "Dreamer, Schemer"
+        }, 
+        {
+            "author": 614, 
+            "title": "Seconds' Chance"
+        }, 
+        {
+            "author": 630, 
+            "title": "When I Was in the Zoo"
+        }
+    ]
+}

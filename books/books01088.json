@@ -1,0 +1,135 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1961", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v20n02_1961-12_modified/Galaxy_v20n02_1961-12_modified_jp2.zip&file=Galaxy_v20n02_1961-12_modified_jp2/Galaxy_v20n02_1961-12_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/07/GALDEC1961.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        519, 
+        499, 
+        419, 
+        562, 
+        556, 
+        565, 
+        339, 
+        483, 
+        569, 
+        326, 
+        91, 
+        423, 
+        30, 
+        470, 
+        257, 
+        74, 
+        554, 
+        302
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1088, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Day After Doomsday (Part 1 of 2)"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Day After Doomsday (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Day After Doomsday (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Oh, Rats!"
+        }, 
+        {
+            "author": 519, 
+            "title": "Oh, Rats! [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Satisfaction Guaranteed"
+        }, 
+        {
+            "author": 419, 
+            "title": "Wall of Crystal, Eye of Night"
+        }, 
+        {
+            "author": 419, 
+            "title": "Wall of Crystal, Eye of Night [2]"
+        }, 
+        {
+            "author": 562, 
+            "title": "Rainbird"
+        }, 
+        {
+            "author": 497, 
+            "title": "An Old Fashioned Bird Christmas"
+        }, 
+        {
+            "author": 556, 
+            "title": "The Watery Wonders of Captain Nemo"
+        }, 
+        {
+            "author": 562, 
+            "title": "The Little Man Who Wasn't Quite"
+        }, 
+        {
+            "author": 565, 
+            "title": "Way Out There"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Dragons and Hot-Air Balloons"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, December 1961)"
+        }, 
+        {
+            "author": 569, 
+            "title": "The Watery Wonders of Captain Nemo"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1961)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Wall of Crystal, Eye of Night"
+        }, 
+        {
+            "author": 423, 
+            "title": "An Old Fashioned Bird Christmas"
+        }, 
+        {
+            "author": 30, 
+            "title": "The Day After Doomsday (Part 1 of 2)"
+        }, 
+        {
+            "author": 470, 
+            "title": "Oh, Rats!"
+        }, 
+        {
+            "author": 257, 
+            "title": "Satisfaction Guaranteed"
+        }, 
+        {
+            "author": 74, 
+            "title": "Rainbird"
+        }, 
+        {
+            "author": 554, 
+            "title": "The Little Man Who Wasn't Quite"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1970", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v30n04_1970-07/Galaxy_v30n04_1970-07_jp2.zip&file=Galaxy_v30n04_1970-07_jp2/Galaxy_v30n04_1970-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/3f/GALJUL70.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        681, 
+        499, 
+        667, 
+        682, 
+        613, 
+        91, 
+        50, 
+        74, 
+        371, 
+        662, 
+        549, 
+        302
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1143, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 1 of 4)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Throwbacks"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Throwbacks [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Throwbacks [3]"
+        }, 
+        {
+            "author": 681, 
+            "title": "Good"
+        }, 
+        {
+            "author": 326, 
+            "title": "The All-at-Once Man"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Hookup"
+        }, 
+        {
+            "author": 326, 
+            "title": "Ask a Silly Question"
+        }, 
+        {
+            "author": 499, 
+            "title": "Sittik"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 1 of 4) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 1 of 4) [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 1 of 4) [4]"
+        }, 
+        {
+            "author": 667, 
+            "title": "Asbestos, Too"
+        }, 
+        {
+            "author": 682, 
+            "title": "Containers for the Condition of Man"
+        }, 
+        {
+            "author": 613, 
+            "title": "Galaxy Stars (Galaxy, July 1970)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, July 1970)"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Throwbacks"
+        }, 
+        {
+            "author": 74, 
+            "title": "The All-at-Once Man"
+        }, 
+        {
+            "author": 371, 
+            "title": "I Will Fear No Evil (Part 1 of 4)"
+        }, 
+        {
+            "author": 662, 
+            "title": "The Hookup"
+        }, 
+        {
+            "author": 549, 
+            "title": "Ask a Silly Question"
+        }, 
+        {
+            "author": 613, 
+            "title": "Sittik"
+        }
+    ]
+}

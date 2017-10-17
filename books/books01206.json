@@ -1,0 +1,146 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1977", 
+    "cover": "https://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v38n09_1977-11/Galaxy_v38n09_1977-11_jp2.zip&file=Galaxy_v38n09_1977-11_jp2/Galaxy_v38n09_1977-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c1/GALNOV77.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        841, 
+        326, 
+        842, 
+        734, 
+        836, 
+        843, 
+        844, 
+        817, 
+        845, 
+        846, 
+        591, 
+        750, 
+        847, 
+        302
+    ], 
+    "year": 1977, 
+    "images": [], 
+    "id": 1206, 
+    "contents": [
+        {
+            "author": 841, 
+            "title": "Showcase (Galaxy, November 1977)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Courts of Chaos (Part 1 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Courts of Chaos (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Courts of Chaos (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Courts of Chaos (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Courts of Chaos (Part 1 of 3) [5]"
+        }, 
+        {
+            "author": 842, 
+            "title": "Jogging Up Main Street"
+        }, 
+        {
+            "author": 842, 
+            "title": "Jogging Up Main Street [2]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Holy Temple"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Holy Temple [2]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Holy Temple [3]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Holy Temple [4]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Long Chance"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Long Chance [2]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Long Chance [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Timeless Spy"
+        }, 
+        {
+            "author": 842, 
+            "title": "My Friend's Last Show"
+        }, 
+        {
+            "author": 734, 
+            "title": "Lucifer's Hammer"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, November 1977)"
+        }, 
+        {
+            "author": 836, 
+            "title": "A Message From the Publisher: A New Editor"
+        }, 
+        {
+            "author": 843, 
+            "title": "Galaxy Bookshelf (Galaxy, November 1977)"
+        }, 
+        {
+            "author": 844, 
+            "title": "The Golden Age"
+        }, 
+        {
+            "author": 817, 
+            "title": "The Long Chance"
+        }, 
+        {
+            "author": 845, 
+            "title": "The Timeless Spy"
+        }, 
+        {
+            "author": 846, 
+            "title": "The Holy Temple"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Courts of Chaos (Part 1 of 3)"
+        }, 
+        {
+            "author": 750, 
+            "title": "Jogging Up Main Street"
+        }, 
+        {
+            "author": 847, 
+            "title": "My Friend's Last Show"
+        }
+    ]
+}

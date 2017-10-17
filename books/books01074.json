@@ -1,0 +1,153 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1959", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/Galaxy_v17n06_1959-08/Galaxy_v17n06_1959-08_jp2.zip&file=Galaxy_v17n06_1959-08_jp2/Galaxy_v17n06_1959-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/85/GALAUG1959.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        419, 
+        504, 
+        506, 
+        305, 
+        339, 
+        483, 
+        326, 
+        50, 
+        98, 
+        40, 
+        56, 
+        243, 
+        142, 
+        299, 
+        219, 
+        302
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 1074, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "No Life of Their Own"
+        }, 
+        {
+            "author": 519, 
+            "title": "No Life of Their Own [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "No Life of Their Own [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Citizen Jell"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Spicy Sound of Success"
+        }, 
+        {
+            "author": 504, 
+            "title": "Mugwump Four"
+        }, 
+        {
+            "author": 504, 
+            "title": "Mugwump Four [2]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Mugwump Four [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "License to Steal"
+        }, 
+        {
+            "author": 519, 
+            "title": "Lex"
+        }, 
+        {
+            "author": 519, 
+            "title": "Lex [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Malted Milk Monster"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Malted Milk Monster [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Malted Milk Monster [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Waging of the Peace"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Waging of the Peace [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Waging of the Peace [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Thought for Food"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Orbit Around the Sun"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1959)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1959)"
+        }, 
+        {
+            "author": 50, 
+            "title": "Mugwump Four"
+        }, 
+        {
+            "author": 98, 
+            "title": "The Malted Milk Monster"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Waging of the Peace"
+        }, 
+        {
+            "author": 56, 
+            "title": "No Life of Their Own"
+        }, 
+        {
+            "author": 243, 
+            "title": "Citizen Jell"
+        }, 
+        {
+            "author": 142, 
+            "title": "The Spicy Sound of Success"
+        }, 
+        {
+            "author": 299, 
+            "title": "License to Steal"
+        }, 
+        {
+            "author": 219, 
+            "title": "Lex"
+        }
+    ]
+}

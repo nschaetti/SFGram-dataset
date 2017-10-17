@@ -1,0 +1,104 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1971", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v32n03_1971-11/Galaxy_v32n03_1971-11_jp2.zip&file=Galaxy_v32n03_1971-11_jp2/Galaxy_v32n03_1971-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/27/GALNOVDEC71.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        699, 
+        91, 
+        478, 
+        604, 
+        700, 
+        86, 
+        701, 
+        702, 
+        74, 
+        302
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1154, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Birds Fly South in Winter"
+        }, 
+        {
+            "author": 499, 
+            "title": "Autumntime"
+        }, 
+        {
+            "author": 326, 
+            "title": "Rammer"
+        }, 
+        {
+            "author": 326, 
+            "title": "I'll Be Judge, I'll Be Jury"
+        }, 
+        {
+            "author": 699, 
+            "title": "Starcult"
+        }, 
+        {
+            "author": 699, 
+            "title": "Starcult [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Bubbles When They Burst"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Moon Children (Part 3 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, November-December 1971)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Book Shelf (Galaxy, November-December 1971)"
+        }, 
+        {
+            "author": 326, 
+            "title": "John W. Campbell: June 8, 1910-July11, 1971 (Obituary)"
+        }, 
+        {
+            "author": 478, 
+            "title": "Birds Fly South in Winter"
+        }, 
+        {
+            "author": 604, 
+            "title": "Rammer"
+        }, 
+        {
+            "author": 700, 
+            "title": "Starcult"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Moon Children (Part 3 of 3)"
+        }, 
+        {
+            "author": 701, 
+            "title": "Autumntime"
+        }, 
+        {
+            "author": 702, 
+            "title": "I'll Be Judge, I'll Be Jury"
+        }, 
+        {
+            "author": 74, 
+            "title": "Bubbles When They Burst"
+        }
+    ]
+}

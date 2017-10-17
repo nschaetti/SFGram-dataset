@@ -1,0 +1,148 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1960", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v18n03_1960-02/Galaxy_v18n03_1960-02_jp2.zip&file=Galaxy_v18n03_1960-02_jp2/Galaxy_v18n03_1960-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/18/GALFEB1960.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        419, 
+        519, 
+        506, 
+        305, 
+        326, 
+        339, 
+        483, 
+        23, 
+        40, 
+        56, 
+        280, 
+        423, 
+        211, 
+        550, 
+        206, 
+        302
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1077, 
+    "contents": [
+        {
+            "author": 419, 
+            "title": "Meeting of the Minds"
+        }, 
+        {
+            "author": 419, 
+            "title": "Meeting of the Minds [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Meeting of the Minds [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Nuse Man"
+        }, 
+        {
+            "author": 506, 
+            "title": "Dumbwaiter"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Day the Icicle Works Closed"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Day the Icicle Works Closed [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Day the Icicle Works Closed [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Something Bright"
+        }, 
+        {
+            "author": 519, 
+            "title": "Crying Jag"
+        }, 
+        {
+            "author": 519, 
+            "title": "Crying Jag [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Crying Jag [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "East in the Morning"
+        }, 
+        {
+            "author": 419, 
+            "title": "Death's Wisher"
+        }, 
+        {
+            "author": 419, 
+            "title": "Death's Wisher [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Death's Wisher [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "What Kind of Fiction?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1960)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: One Planet, One Language"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, February 1960)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Meeting of the Minds"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Day the Icicle Works Closed"
+        }, 
+        {
+            "author": 56, 
+            "title": "Crying Jag"
+        }, 
+        {
+            "author": 280, 
+            "title": "Death's Wisher"
+        }, 
+        {
+            "author": 423, 
+            "title": "The Nuse Man"
+        }, 
+        {
+            "author": 211, 
+            "title": "Dumbwaiter"
+        }, 
+        {
+            "author": 550, 
+            "title": "Something Bright"
+        }, 
+        {
+            "author": 206, 
+            "title": "East in the Morning"
+        }
+    ]
+}

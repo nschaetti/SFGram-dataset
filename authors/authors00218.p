@@ -43,6 +43,7 @@ sS'books'
 p20
 (lp21
 I666
+aI977
 asS'id'
 p22
 I218

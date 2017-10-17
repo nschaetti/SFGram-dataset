@@ -1,0 +1,77 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1973", 
+    "cover": "https://ia601303.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v33n07_1973-07/Galaxy_v33n07_1973-07_jp2.zip&file=Galaxy_v33n07_1973-07_jp2/Galaxy_v33n07_1973-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/89/GALJULAUG73.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        150, 
+        341, 
+        663, 
+        713, 
+        717, 
+        718, 
+        302
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1164, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Doomsday Gene (Part 2 of 2)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Frank Merriwell in the White House"
+        }, 
+        {
+            "author": 499, 
+            "title": "Just a Matter of Time"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Voice and Bitter Weeping"
+        }, 
+        {
+            "author": 499, 
+            "title": "Luna One"
+        }, 
+        {
+            "author": 150, 
+            "title": "Galaxy Stars (Galaxy, July-August 1973)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, July-August 1973)"
+        }, 
+        {
+            "author": 150, 
+            "title": "Frank Merriwell in the White House"
+        }, 
+        {
+            "author": 663, 
+            "title": "Luna One"
+        }, 
+        {
+            "author": 713, 
+            "title": "The Doomsday Gene (Part 2 of 2)"
+        }, 
+        {
+            "author": 717, 
+            "title": "Just a Matter of Time"
+        }, 
+        {
+            "author": 718, 
+            "title": "A Voice and Bitter Weeping"
+        }
+    ]
+}

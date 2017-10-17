@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1975", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v36n06_1975-07/Galaxy_v36n06_1975-07_jp2.zip&file=Galaxy_v36n06_1975-07_jp2/Galaxy_v36n06_1975-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/16/GALJUL75.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        780, 
+        742, 
+        744, 
+        326, 
+        591, 
+        734, 
+        604, 
+        781, 
+        748, 
+        23, 
+        782, 
+        783, 
+        302
+    ], 
+    "year": 1975, 
+    "images": [], 
+    "id": 1185, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Syncope and Fugue"
+        }, 
+        {
+            "author": 499, 
+            "title": "Syncope and Fugue [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Eyes I Dare Not Meet in Dreams"
+        }, 
+        {
+            "author": 780, 
+            "title": "Tinker"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Thinker of Thryllmynrein"
+        }, 
+        {
+            "author": 499, 
+            "title": "Helium (Part 3 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Helium (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Helium (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 744, 
+            "title": "Magma Wave"
+        }, 
+        {
+            "author": 499, 
+            "title": "Showcase: Merlin and the Dragon"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, July 1975)"
+        }, 
+        {
+            "author": 591, 
+            "title": "Forum: Some Science Fiction Parameters: A Biased View"
+        }, 
+        {
+            "author": 734, 
+            "title": "Life Among the Asteroids"
+        }, 
+        {
+            "author": 604, 
+            "title": "Galaxy Stars: J. E. Pournelle"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, July 1975)"
+        }, 
+        {
+            "author": 734, 
+            "title": "Tinker"
+        }, 
+        {
+            "author": 781, 
+            "title": "The Thinker of Thryllmynrein"
+        }, 
+        {
+            "author": 748, 
+            "title": "Helium (Part 3 of 3)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Syncope and Fugue"
+        }, 
+        {
+            "author": 782, 
+            "title": "Eyes I Dare Not Meet in Dreams"
+        }, 
+        {
+            "author": 783, 
+            "title": "Magma Wave"
+        }
+    ]
+}

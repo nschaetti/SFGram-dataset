@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1971", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v31n04_1971-03/Galaxy_v31n04_1971-03_jp2.zip&file=Galaxy_v31n04_1971-03_jp2/Galaxy_v31n04_1971-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/12/GALMAR71.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        341, 
+        91, 
+        630, 
+        693, 
+        645, 
+        50, 
+        663, 
+        694, 
+        695, 
+        679, 
+        638, 
+        302
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1149, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "A Time of Changes (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Time of Changes (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Pegasus Two"
+        }, 
+        {
+            "author": 499, 
+            "title": "Pegasus Two [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Mountain Movers"
+        }, 
+        {
+            "author": 326, 
+            "title": "Choice"
+        }, 
+        {
+            "author": 326, 
+            "title": "But the Secret Sits"
+        }, 
+        {
+            "author": 326, 
+            "title": "Mother in the Sky with Diamonds"
+        }, 
+        {
+            "author": 326, 
+            "title": "Here Comes the Sun"
+        }, 
+        {
+            "author": 499, 
+            "title": "Gehenna"
+        }, 
+        {
+            "author": 341, 
+            "title": "After Sex - What?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, March 1971)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, March 1971)"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Mountain Movers"
+        }, 
+        {
+            "author": 693, 
+            "title": "But the Secret Sits"
+        }, 
+        {
+            "author": 645, 
+            "title": "Mother in the Sky with Diamonds"
+        }, 
+        {
+            "author": 50, 
+            "title": "A Time of Changes (Part 1 of 3)"
+        }, 
+        {
+            "author": 663, 
+            "title": "Pegasus Two"
+        }, 
+        {
+            "author": 694, 
+            "title": "Choice"
+        }, 
+        {
+            "author": 695, 
+            "title": "Frog Pond"
+        }, 
+        {
+            "author": 679, 
+            "title": "Here Comes the Sun"
+        }, 
+        {
+            "author": 638, 
+            "title": "Gehenna"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1978", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v39n02_1978-02/Galaxy_v39n02_1978-02_jp2.zip&file=Galaxy_v39n02_1978-02_jp2/Galaxy_v39n02_1978-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b8/GALFEB78.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        842, 
+        849, 
+        855, 
+        844, 
+        734, 
+        843, 
+        856, 
+        857, 
+        591, 
+        858, 
+        859, 
+        302
+    ], 
+    "year": 1978, 
+    "images": [], 
+    "id": 1208, 
+    "contents": [
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 1 of 4)"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 1 of 4) [2]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 1 of 4) [3]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 1 of 4) [4]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 1 of 4) [5]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 1 of 4) [6]"
+        }, 
+        {
+            "author": 849, 
+            "title": "The Nothing Spot"
+        }, 
+        {
+            "author": 849, 
+            "title": "Writer's Block"
+        }, 
+        {
+            "author": 849, 
+            "title": "Writer's Block [2]"
+        }, 
+        {
+            "author": 855, 
+            "title": "The Courts of Chaos (Part 3 of 3)"
+        }, 
+        {
+            "author": 855, 
+            "title": "The Courts of Chaos (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 855, 
+            "title": "The Courts of Chaos (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 855, 
+            "title": "The Courts of Chaos (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 855, 
+            "title": "The Courts of Chaos (Part 3 of 3) [5]"
+        }, 
+        {
+            "author": 849, 
+            "title": "Death's Dimensions"
+        }, 
+        {
+            "author": 849, 
+            "title": "Death's Dimensions [2]"
+        }, 
+        {
+            "author": 842, 
+            "title": "Showcase (Galaxy, February 1978)"
+        }, 
+        {
+            "author": 844, 
+            "title": "Imagination and Evolution"
+        }, 
+        {
+            "author": 734, 
+            "title": "Rapping Out the Space Industries"
+        }, 
+        {
+            "author": 843, 
+            "title": "Galaxy Bookshelf (Galaxy, February 1978)"
+        }, 
+        {
+            "author": 844, 
+            "title": "Directions (Galaxy, February 1978)"
+        }, 
+        {
+            "author": 856, 
+            "title": "Writer's Block"
+        }, 
+        {
+            "author": 857, 
+            "title": "The Faded Sun: Kesrith (Part 1 of 4)"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Courts of Chaos (Part 3 of 3)"
+        }, 
+        {
+            "author": 858, 
+            "title": "The Nothing Spot"
+        }, 
+        {
+            "author": 859, 
+            "title": "Death's Dimensions"
+        }
+    ]
+}

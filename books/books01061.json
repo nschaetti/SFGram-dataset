@@ -1,0 +1,110 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1958", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v15n05_1958-03/Galaxy_v15n05_1958-03_jp2.zip&file=Galaxy_v15n05_1958-03_jp2/Galaxy_v15n05_1958-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fa/MLO4447.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        506, 
+        519, 
+        525, 
+        305, 
+        339, 
+        326, 
+        483, 
+        498, 
+        387, 
+        32, 
+        172, 
+        530, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1061, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Big Time (Part 1 of 2)"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Big Time (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "My Fair Planet"
+        }, 
+        {
+            "author": 519, 
+            "title": "Spare the Rod"
+        }, 
+        {
+            "author": 519, 
+            "title": "Spare the Rod [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Spare the Rod [3]"
+        }, 
+        {
+            "author": 525, 
+            "title": "The Ethical Way"
+        }, 
+        {
+            "author": 506, 
+            "title": "A Feast of Demons"
+        }, 
+        {
+            "author": 506, 
+            "title": "A Feast of Demons [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "A Feast of Demons [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "They're Back"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Orbit of the Vanguard Satellite"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, March 1958)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, March 1958)"
+        }, 
+        {
+            "author": 498, 
+            "title": "Spare the Rod"
+        }, 
+        {
+            "author": 387, 
+            "title": "A Feast of Demons"
+        }, 
+        {
+            "author": 32, 
+            "title": "The Big Time (Part 1 of 2)"
+        }, 
+        {
+            "author": 172, 
+            "title": "My Fair Planet"
+        }, 
+        {
+            "author": 530, 
+            "title": "The Ethical Way"
+        }
+    ]
+}

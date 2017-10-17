@@ -1,0 +1,133 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1958", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v16n05_1958-09/Galaxy_v16n05_1958-09_jp2.zip&file=Galaxy_v16n05_1958-09_jp2/Galaxy_v16n05_1958-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c7/MLO4454.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        419, 
+        506, 
+        305, 
+        339, 
+        483, 
+        538, 
+        539, 
+        540, 
+        541, 
+        326, 
+        3, 
+        182, 
+        204, 
+        498, 
+        542, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1067, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "Lastborn"
+        }, 
+        {
+            "author": 519, 
+            "title": "Lastborn [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Lastborn [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "On the Double"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Stroke of the Sun"
+        }, 
+        {
+            "author": 506, 
+            "title": "From an Unseen Censor"
+        }, 
+        {
+            "author": 506, 
+            "title": "From an Unseen Censor [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Personnel Problem"
+        }, 
+        {
+            "author": 519, 
+            "title": "Thing of Beauty"
+        }, 
+        {
+            "author": 519, 
+            "title": "Thing of Beauty [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Breeches Needed"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Last of the Moas"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, September 1958)"
+        }, 
+        {
+            "author": 538, 
+            "title": "Review of the Nonfiction Work \"the First Book of Archaeology\""
+        }, 
+        {
+            "author": 539, 
+            "title": "Review of the Nonfiction Work \"the First Book of Mammals\""
+        }, 
+        {
+            "author": 540, 
+            "title": "Review of the Nonfiction Work \"the First Book of Submarines\""
+        }, 
+        {
+            "author": 541, 
+            "title": "Review of the Nonfiction Work \"the Wonderful World of Energy\""
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, September 1958)"
+        }, 
+        {
+            "author": 3, 
+            "title": "Lastborn"
+        }, 
+        {
+            "author": 182, 
+            "title": "From an Unseen Censor"
+        }, 
+        {
+            "author": 204, 
+            "title": "Thing of Beauty"
+        }, 
+        {
+            "author": 498, 
+            "title": "On the Double"
+        }, 
+        {
+            "author": 542, 
+            "title": "The Stroke of the Sun"
+        }, 
+        {
+            "author": 305, 
+            "title": "Personnel Problem"
+        }
+    ]
+}

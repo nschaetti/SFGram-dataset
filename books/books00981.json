@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1951", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v02n03_1951-06/Galaxy_v02n03_1951-06_jp2.zip&file=Galaxy_v02n03_1951-06_jp2/Galaxy_v02n03_1951-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/91/GALJUN1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        355, 
+        336, 
+        351, 
+        363, 
+        305, 
+        340, 
+        132, 
+        204, 
+        51, 
+        194, 
+        326, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 981, 
+    "contents": [
+        {
+            "author": 355, 
+            "title": "Hunt the Hunter"
+        }, 
+        {
+            "author": 336, 
+            "title": "Angel's Egg"
+        }, 
+        {
+            "author": 336, 
+            "title": "Angel's Egg [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Angel's Egg [3]"
+        }, 
+        {
+            "author": 351, 
+            "title": "Don't Live in the Past"
+        }, 
+        {
+            "author": 351, 
+            "title": "Don't Live in the Past [2]"
+        }, 
+        {
+            "author": 351, 
+            "title": "Don't Live in the Past [3]"
+        }, 
+        {
+            "author": 351, 
+            "title": "Don't Live in the Past [4]"
+        }, 
+        {
+            "author": 351, 
+            "title": "Don't Live in the Past [5]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 2 of 3)"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 2 of 3) [5]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Mars Child (Part 2 of 3) [6]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Looking Forward"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, June 1951)"
+        }, 
+        {
+            "author": 132, 
+            "title": "Angel's Egg"
+        }, 
+        {
+            "author": 204, 
+            "title": "Don't Live in the Past"
+        }, 
+        {
+            "author": 51, 
+            "title": "Mars Child (Part 2 of 3)"
+        }, 
+        {
+            "author": 194, 
+            "title": "Hunt the Hunter"
+        }, 
+        {
+            "author": 326, 
+            "title": "Next Month's Contents Page (Galaxy, June 1951)"
+        }
+    ]
+}

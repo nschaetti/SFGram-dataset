@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1970", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v31n01_1970-12/Galaxy_v31n01_1970-12_jp2.zip&file=Galaxy_v31n01_1970-12_jp2/Galaxy_v31n01_1970-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/95/GALDEC70.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        667, 
+        91, 
+        67, 
+        55, 
+        50, 
+        371, 
+        687, 
+        688, 
+        478, 
+        302
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1146, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Darkside Crossing"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Stenth Dimension"
+        }, 
+        {
+            "author": 326, 
+            "title": "We Are Well Organized"
+        }, 
+        {
+            "author": 326, 
+            "title": "We Are Well Organized [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Two Thousand One Hours Solo"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Mad Scientist and the Fbi"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 4 of 4)"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 4 of 4) [2]"
+        }, 
+        {
+            "author": 667, 
+            "title": "43&Deg; N, 154&Deg; E"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Book Shelf (Galaxy, December 1970)"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Limiting Velocity of Orthodoxy"
+        }, 
+        {
+            "author": 55, 
+            "title": "Darkside Crossing"
+        }, 
+        {
+            "author": 50, 
+            "title": "We Are Well Organized"
+        }, 
+        {
+            "author": 371, 
+            "title": "I Will Fear No Evil (Part 4 of 4)"
+        }, 
+        {
+            "author": 687, 
+            "title": "The Stenth Dimension"
+        }, 
+        {
+            "author": 688, 
+            "title": "Two Thousand One Hours Solo"
+        }, 
+        {
+            "author": 478, 
+            "title": "The Mad Scientist and the Fbi"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1958", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v16n06_1958-10/Galaxy_v16n06_1958-10_jp2.zip&file=Galaxy_v16n06_1958-10_jp2/Galaxy_v16n06_1958-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b3/GALOCT1958.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        523, 
+        305, 
+        339, 
+        326, 
+        483, 
+        40, 
+        98, 
+        23, 
+        514, 
+        45, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1068, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "Time Killer (Part 1 of 4)"
+        }, 
+        {
+            "author": 519, 
+            "title": "Time Killer (Part 1 of 4) [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Time Killer (Part 1 of 4) [3]"
+        }, 
+        {
+            "author": 523, 
+            "title": "Paramount Ulj"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Wizards of Pung's Corners"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Wizards of Pung's Corners [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Wizards of Pung's Corners [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Lisbon Cubed"
+        }, 
+        {
+            "author": 519, 
+            "title": "Lisbon Cubed [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Lisbon Cubed [3]"
+        }, 
+        {
+            "author": 523, 
+            "title": "Block That Metaphor"
+        }, 
+        {
+            "author": 305, 
+            "title": "Pick One"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: X-Rays in Space"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1958)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, October 1958)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Wizards of Pung's Corners"
+        }, 
+        {
+            "author": 98, 
+            "title": "Lisbon Cubed"
+        }, 
+        {
+            "author": 23, 
+            "title": "Time Killer (Part 1 of 4)"
+        }, 
+        {
+            "author": 514, 
+            "title": "Paramount Ulj"
+        }, 
+        {
+            "author": 45, 
+            "title": "Block That Metaphor"
+        }
+    ]
+}

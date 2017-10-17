@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1963", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/Galaxy_v22n02_1963-12/Galaxy_v22n02_1963-12_jp2.zip&file=Galaxy_v22n02_1963-12_jp2/Galaxy_v22n02_1963-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/69/GALDEC1963.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        585, 
+        584, 
+        499, 
+        578, 
+        581, 
+        40, 
+        339, 
+        341, 
+        326, 
+        8, 
+        586, 
+        32, 
+        587, 
+        89, 
+        204, 
+        111, 
+        302
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1098, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Star King (Part 1 of 2)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Star King (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Star King (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 585, 
+            "title": "The Big Pat Boom"
+        }, 
+        {
+            "author": 584, 
+            "title": "If There Were No Benny Cemoli"
+        }, 
+        {
+            "author": 499, 
+            "title": "And All the Earth a Grave"
+        }, 
+        {
+            "author": 578, 
+            "title": "In the Control Tower"
+        }, 
+        {
+            "author": 581, 
+            "title": "No Great Magic"
+        }, 
+        {
+            "author": 581, 
+            "title": "No Great Magic [2]"
+        }, 
+        {
+            "author": 581, 
+            "title": "No Great Magic [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Science-- Sacred &Amp; Profane"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Names of the Constellations"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy's 5 Star Shelf: The Infinite Moskowitz"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1963)"
+        }, 
+        {
+            "author": 8, 
+            "title": "If There Were No Benny Cemoli"
+        }, 
+        {
+            "author": 586, 
+            "title": "In the Control Tower"
+        }, 
+        {
+            "author": 32, 
+            "title": "No Great Magic"
+        }, 
+        {
+            "author": 587, 
+            "title": "Lulla"
+        }, 
+        {
+            "author": 89, 
+            "title": "The Star King (Part 1 of 2)"
+        }, 
+        {
+            "author": 204, 
+            "title": "The Big Pat Boom"
+        }, 
+        {
+            "author": 111, 
+            "title": "And All the Earth a Grave"
+        }
+    ]
+}

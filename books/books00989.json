@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1952", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v03n05_1952-02/Galaxy_v03n05_1952-02_jp2.zip&file=Galaxy_v03n05_1952-02_jp2/Galaxy_v03n05_1952-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e4/GALFEB1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        388, 
+        336, 
+        352, 
+        342, 
+        305, 
+        345, 
+        371, 
+        340, 
+        389, 
+        385, 
+        166, 
+        32, 
+        194, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 989, 
+    "contents": [
+        {
+            "author": 388, 
+            "title": "Double Standard"
+        }, 
+        {
+            "author": 336, 
+            "title": "Conditionally Human"
+        }, 
+        {
+            "author": 336, 
+            "title": "Conditionally Human [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Conditionally Human [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Dr. Kometevsky's Day"
+        }, 
+        {
+            "author": 336, 
+            "title": "Dr. Kometevsky's Day [2]"
+        }, 
+        {
+            "author": 352, 
+            "title": "Fresh Air Fiend"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Demolished Man (Part 2 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Demolished Man (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Demolished Man (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Demolished Man (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Open Letters"
+        }, 
+        {
+            "author": 345, 
+            "title": "Where Were We?"
+        }, 
+        {
+            "author": 371, 
+            "title": "Where To?"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, February 1952)"
+        }, 
+        {
+            "author": 389, 
+            "title": "Conditionally Human"
+        }, 
+        {
+            "author": 385, 
+            "title": "The Demolished Man (Part 2 of 3)"
+        }, 
+        {
+            "author": 166, 
+            "title": "Double Standard"
+        }, 
+        {
+            "author": 32, 
+            "title": "Dr. Kometevsky's Day"
+        }, 
+        {
+            "author": 194, 
+            "title": "Fresh Air Fiend"
+        }
+    ]
+}

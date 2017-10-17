@@ -1,0 +1,105 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1970", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v30n06_1970-10-11/Galaxy_v30n06_1970-10-11_jp2.zip&file=Galaxy_v30n06_1970-10-11_jp2/Galaxy_v30n06_1970-10-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/3a/GALOCTNOV70.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        667, 
+        50, 
+        371, 
+        683, 
+        684, 
+        685, 
+        686, 
+        302
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1145, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The World Outside"
+        }, 
+        {
+            "author": 326, 
+            "title": "The World Outside [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The World Outside [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The World Outside [4]"
+        }, 
+        {
+            "author": 326, 
+            "title": "A New Life"
+        }, 
+        {
+            "author": 326, 
+            "title": "Readout Time"
+        }, 
+        {
+            "author": 326, 
+            "title": "Traffic Problem"
+        }, 
+        {
+            "author": 326, 
+            "title": "Pi\u00d1On Fall"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 3 of 4)"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 3 of 4) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Will Fear No Evil (Part 3 of 4) [3]"
+        }, 
+        {
+            "author": 667, 
+            "title": "Letters"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, October-November 1970)"
+        }, 
+        {
+            "author": 50, 
+            "title": "The World Outside"
+        }, 
+        {
+            "author": 371, 
+            "title": "I Will Fear No Evil (Part 3 of 4)"
+        }, 
+        {
+            "author": 683, 
+            "title": "A New Life"
+        }, 
+        {
+            "author": 684, 
+            "title": "Readout Time"
+        }, 
+        {
+            "author": 685, 
+            "title": "Traffic Problem"
+        }, 
+        {
+            "author": 686, 
+            "title": "Pi\u00d1On Fall"
+        }
+    ]
+}

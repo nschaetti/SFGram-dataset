@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1957", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v13n03_1957-01/Galaxy_v13n03_1957-01_jp2.zip&file=Galaxy_v13n03_1957-01_jp2/Galaxy_v13n03_1957-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/45/MLO4433.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        419, 
+        497, 
+        499, 
+        363, 
+        305, 
+        483, 
+        326, 
+        339, 
+        194, 
+        503, 
+        385, 
+        220, 
+        40, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1047, 
+    "contents": [
+        {
+            "author": 419, 
+            "title": "Moral Equivalent"
+        }, 
+        {
+            "author": 419, 
+            "title": "Moral Equivalent [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Moral Equivalent [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "All Jackson's Children"
+        }, 
+        {
+            "author": 499, 
+            "title": "Butterfly 9"
+        }, 
+        {
+            "author": 499, 
+            "title": "Butterfly 9 [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Butterfly 9 [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Haunted Corpse"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 4 of 4)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 4 of 4) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 4 of 4) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 4 of 4) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Treasurer's Report"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, January 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, January 1957)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Tracking Down the Sea Serpent (Part Ii)"
+        }, 
+        {
+            "author": 194, 
+            "title": "Moral Equivalent"
+        }, 
+        {
+            "author": 503, 
+            "title": "Butterfly 9"
+        }, 
+        {
+            "author": 385, 
+            "title": "The Stars My Destination (Part 4 of 4)"
+        }, 
+        {
+            "author": 220, 
+            "title": "All Jackson's Children"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Haunted Corpse"
+        }
+    ]
+}

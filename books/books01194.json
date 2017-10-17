@@ -1,0 +1,148 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1976", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/Galaxy_v37n06_1976-09/Galaxy_v37n06_1976-09_jp2.zip&file=Galaxy_v37n06_1976-09_jp2/Galaxy_v37n06_1976-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/13/GALSEP76.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        806, 
+        742, 
+        326, 
+        807, 
+        744, 
+        763, 
+        734, 
+        770, 
+        767, 
+        808, 
+        604, 
+        591, 
+        663, 
+        762, 
+        790, 
+        302
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 1194, 
+    "contents": [
+        {
+            "author": 806, 
+            "title": "Showcase (Galaxy, September 1976)"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Children of the State (Part 1 of 3)"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Children of the State (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Children of the State (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Children of the State (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Jupiter One"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Dirty Old Man, or, Nocka, Nocka, Who Goes There?"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Dirty Old Man, or, Nocka, Nocka, Who Goes There? [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Dirty Old Man, or, Nocka, Nocka, Who Goes There? [3]"
+        }, 
+        {
+            "author": 807, 
+            "title": "A Little Bit of Recycled Time"
+        }, 
+        {
+            "author": 807, 
+            "title": "A Little Bit of Recycled Time [2]"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Hand of Oberon (Part 3 of 3)"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Hand of Oberon (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Hand of Oberon (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Hand of Oberon (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 763, 
+            "title": "Abandon All Heat, Ye Who Enter Here"
+        }, 
+        {
+            "author": 763, 
+            "title": "Abandon All Heat, Ye Who Enter Here [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, September 1976)"
+        }, 
+        {
+            "author": 734, 
+            "title": "Science and Man's Future: Prognosis Magnificent!"
+        }, 
+        {
+            "author": 770, 
+            "title": "Bookshelf (Galaxy, September 1976)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, September 1976)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, September 1976)"
+        }, 
+        {
+            "author": 808, 
+            "title": "Abandon All Heat, Ye Who Enter Here"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Children of the State (Part 1 of 3)"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Hand of Oberon (Part 3 of 3)"
+        }, 
+        {
+            "author": 663, 
+            "title": "Jupiter One"
+        }, 
+        {
+            "author": 762, 
+            "title": "The Dirty Old Man, or, Nocka, Nocka, Who Goes There?"
+        }, 
+        {
+            "author": 790, 
+            "title": "A Little Bit of Recycled Time"
+        }
+    ]
+}

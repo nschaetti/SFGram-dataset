@@ -1,0 +1,95 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1965", 
+    "cover": "https://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/Galaxy_v23n06_1965-08/Galaxy_v23n06_1965-08_jp2.zip&file=Galaxy_v23n06_1965-08_jp2/Galaxy_v23n06_1965-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9a/GALAUG65.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        578, 
+        545, 
+        40, 
+        339, 
+        326, 
+        91, 
+        55, 
+        63, 
+        153, 
+        607, 
+        302
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1108, 
+    "contents": [
+        {
+            "author": 578, 
+            "title": "Do I Wake or Dream? (Complete Novel)"
+        }, 
+        {
+            "author": 578, 
+            "title": "Do I Wake or Dream? (Complete Novel) [2]"
+        }, 
+        {
+            "author": 578, 
+            "title": "Do I Wake or Dream? (Complete Novel) [3]"
+        }, 
+        {
+            "author": 578, 
+            "title": "Do I Wake or Dream? (Complete Novel) [4]"
+        }, 
+        {
+            "author": 578, 
+            "title": "Do I Wake or Dream? (Complete Novel) [5]"
+        }, 
+        {
+            "author": 578, 
+            "title": "Do I Wake or Dream? (Complete Novel) [6]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Shipwrecked Hotel"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Shipwrecked Hotel [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Old Home Month"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Galactic Giants"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1965)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, August 1965)"
+        }, 
+        {
+            "author": 55, 
+            "title": "The Shipwrecked Hotel"
+        }, 
+        {
+            "author": 63, 
+            "title": "Do I Wake or Dream? (Complete Novel)"
+        }, 
+        {
+            "author": 153, 
+            "title": "Peeping Tommy"
+        }, 
+        {
+            "author": 607, 
+            "title": "Please State My Business"
+        }
+    ]
+}

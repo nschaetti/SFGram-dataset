@@ -1,0 +1,127 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1950", 
+    "cover": "https://ia801303.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v01n01_1950-10/Galaxy_v01n01_1950-10_jp2.zip&file=Galaxy_v01n01_1950-10_jp2/Galaxy_v01n01_1950-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/bf/GALOCT1950.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        336, 
+        337, 
+        326, 
+        338, 
+        305, 
+        339, 
+        340, 
+        341, 
+        36, 
+        56, 
+        122, 
+        32, 
+        58, 
+        3, 
+        302
+    ], 
+    "year": 1950, 
+    "images": [], 
+    "id": 974, 
+    "contents": [
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 1 of 3)"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 1 of 3) [5]"
+        }, 
+        {
+            "author": 337, 
+            "title": "Third From the Sun"
+        }, 
+        {
+            "author": 326, 
+            "title": "Flying Saucers: Friend, Foe or Fantasy?"
+        }, 
+        {
+            "author": 337, 
+            "title": "The Stars Are the Styx"
+        }, 
+        {
+            "author": 326, 
+            "title": "Later Than You Think"
+        }, 
+        {
+            "author": 338, 
+            "title": "Contagion"
+        }, 
+        {
+            "author": 326, 
+            "title": "Darwinian Pool Room"
+        }, 
+        {
+            "author": 305, 
+            "title": "For Adults Only"
+        }, 
+        {
+            "author": 339, 
+            "title": "Flying Saucers: Friend, Foe or Fantasy?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1950)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, October 1950)"
+        }, 
+        {
+            "author": 305, 
+            "title": "You'll Never See It in Galaxy"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Stars Are the Styx"
+        }, 
+        {
+            "author": 36, 
+            "title": "Contagion"
+        }, 
+        {
+            "author": 56, 
+            "title": "Time Quarry (Part 1 of 3)"
+        }, 
+        {
+            "author": 122, 
+            "title": "Third From the Sun"
+        }, 
+        {
+            "author": 32, 
+            "title": "Later Than You Think"
+        }, 
+        {
+            "author": 58, 
+            "title": "The Last Martian"
+        }, 
+        {
+            "author": 3, 
+            "title": "Darwinian Pool Room"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1965", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v23n05_1965-06/Galaxy_v23n05_1965-06_jp2.zip&file=Galaxy_v23n05_1965-06_jp2/Galaxy_v23n05_1965-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/67/GALJUN65.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        581, 
+        40, 
+        326, 
+        339, 
+        597, 
+        605, 
+        91, 
+        50, 
+        604, 
+        23, 
+        34, 
+        606, 
+        591, 
+        302
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1107, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "Mindswap"
+        }, 
+        {
+            "author": 545, 
+            "title": "Mindswap [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Mindswap [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Mindswap [4]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Mindswap [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Blue Fire"
+        }, 
+        {
+            "author": 499, 
+            "title": "Blue Fire [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Blue Fire [3]"
+        }, 
+        {
+            "author": 581, 
+            "title": "One Face"
+        }, 
+        {
+            "author": 581, 
+            "title": "One Face [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Whichness and Whereness"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1965)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Observatory On the Moon"
+        }, 
+        {
+            "author": 597, 
+            "title": "Observatory On the Moon"
+        }, 
+        {
+            "author": 605, 
+            "title": "An Eye for Selene"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, June 1965)"
+        }, 
+        {
+            "author": 50, 
+            "title": "Blue Fire"
+        }, 
+        {
+            "author": 604, 
+            "title": "One Face"
+        }, 
+        {
+            "author": 23, 
+            "title": "Mindswap"
+        }, 
+        {
+            "author": 34, 
+            "title": "Think of a Man"
+        }, 
+        {
+            "author": 606, 
+            "title": "Servant Problem"
+        }, 
+        {
+            "author": 591, 
+            "title": "Devil Car"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1977", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v39n01_1978-01/Galaxy_v39n01_1978-01_jp2.zip&file=Galaxy_v39n01_1978-01_jp2/Galaxy_v39n01_1978-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c4/GALDECJAN77.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        848, 
+        849, 
+        842, 
+        850, 
+        326, 
+        734, 
+        843, 
+        767, 
+        844, 
+        714, 
+        591, 
+        851, 
+        852, 
+        853, 
+        854, 
+        302
+    ], 
+    "year": 1977, 
+    "images": [], 
+    "id": 1207, 
+    "contents": [
+        {
+            "author": 848, 
+            "title": "Showcase (Galaxy, December 1977-January 1978)"
+        }, 
+        {
+            "author": 849, 
+            "title": "Memo to the Leader"
+        }, 
+        {
+            "author": 849, 
+            "title": "Memo to the Leader [2]"
+        }, 
+        {
+            "author": 849, 
+            "title": "Memo to the Leader [3]"
+        }, 
+        {
+            "author": 849, 
+            "title": "Memo to the Leader [4]"
+        }, 
+        {
+            "author": 849, 
+            "title": "Memo to the Leader [5]"
+        }, 
+        {
+            "author": 849, 
+            "title": "The Road to God"
+        }, 
+        {
+            "author": 849, 
+            "title": "The Road to God [2]"
+        }, 
+        {
+            "author": 842, 
+            "title": "Come Again"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Courts of Chaos (Part 2 of 3)"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Courts of Chaos (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Courts of Chaos (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Courts of Chaos (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Courts of Chaos (Part 2 of 3) [5]"
+        }, 
+        {
+            "author": 326, 
+            "title": "John Henry and the Ultra-Media Experience Machine"
+        }, 
+        {
+            "author": 842, 
+            "title": "With Clean Hands"
+        }, 
+        {
+            "author": 842, 
+            "title": "With Clean Hands [2]"
+        }, 
+        {
+            "author": 734, 
+            "title": "E. F. Schumacher, Rip"
+        }, 
+        {
+            "author": 843, 
+            "title": "Galaxy Bookshelf (Galaxy, December 1977-January 1978)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, December 1977-January 1978)"
+        }, 
+        {
+            "author": 844, 
+            "title": "Directions (Galaxy, December 1977-January 1978)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, December 1977-January 1978) (Circulation: 81,035)"
+        }, 
+        {
+            "author": 714, 
+            "title": "Memo to the Leader"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Courts of Chaos (Part 2 of 3)"
+        }, 
+        {
+            "author": 851, 
+            "title": "The Road to God"
+        }, 
+        {
+            "author": 852, 
+            "title": "Come Again"
+        }, 
+        {
+            "author": 853, 
+            "title": "John Henry and the Ultra-Media Experience Machine"
+        }, 
+        {
+            "author": 854, 
+            "title": "With Clean Hands"
+        }
+    ]
+}

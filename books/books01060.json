@@ -1,0 +1,129 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1958", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v15n04_1958-02/Galaxy_v15n04_1958-02_jp2.zip&file=Galaxy_v15n04_1958-02_jp2/Galaxy_v15n04_1958-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/1b/MLO4446.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        525, 
+        529, 
+        419, 
+        504, 
+        506, 
+        305, 
+        339, 
+        483, 
+        498, 
+        19, 
+        509, 
+        16, 
+        32, 
+        172, 
+        400, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1060, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "The Rule of the Door"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Rule of the Door [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Rule of the Door [3]"
+        }, 
+        {
+            "author": 525, 
+            "title": "The Big Bounce"
+        }, 
+        {
+            "author": 529, 
+            "title": "The Repairman"
+        }, 
+        {
+            "author": 519, 
+            "title": "Bread Overhead"
+        }, 
+        {
+            "author": 519, 
+            "title": "Bread Overhead [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Bread Overhead [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Blue Tower"
+        }, 
+        {
+            "author": 504, 
+            "title": "Traders Risk"
+        }, 
+        {
+            "author": 506, 
+            "title": "Graveyard of Dreams"
+        }, 
+        {
+            "author": 506, 
+            "title": "Graveyard of Dreams [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Graveyard of Dreams [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Repeat Performance"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: A Century of New Animals"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, February 1958)"
+        }, 
+        {
+            "author": 498, 
+            "title": "The Rule of the Door"
+        }, 
+        {
+            "author": 19, 
+            "title": "Graveyard of Dreams"
+        }, 
+        {
+            "author": 509, 
+            "title": "The Big Bounce"
+        }, 
+        {
+            "author": 16, 
+            "title": "The Repairman"
+        }, 
+        {
+            "author": 32, 
+            "title": "Bread Overhead"
+        }, 
+        {
+            "author": 172, 
+            "title": "The Blue Tower"
+        }, 
+        {
+            "author": 400, 
+            "title": "Traders Risk"
+        }
+    ]
+}

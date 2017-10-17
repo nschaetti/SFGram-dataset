@@ -1,0 +1,128 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1976", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/Galaxy_v37n08_1976-11/Galaxy_v37n08_1976-11_jp2.zip&file=Galaxy_v37n08_1976-11_jp2/Galaxy_v37n08_1976-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/35/GALNOV76.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        812, 
+        806, 
+        326, 
+        780, 
+        742, 
+        499, 
+        734, 
+        86, 
+        770, 
+        40, 
+        604, 
+        794, 
+        762, 
+        750, 
+        638, 
+        302
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 1196, 
+    "contents": [
+        {
+            "author": 812, 
+            "title": "Showcase (Galaxy, November 1976)"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 1 of 3)"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 806, 
+            "title": "Gateway (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "In Xanadu"
+        }, 
+        {
+            "author": 780, 
+            "title": "Designing a Dyson Sphere"
+        }, 
+        {
+            "author": 742, 
+            "title": "Lovelife of the Leglorn"
+        }, 
+        {
+            "author": 499, 
+            "title": "Guardians at the Gate of Morpheus"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Children of the State (Part 3 of 3)"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Children of the State (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Inaugural"
+        }, 
+        {
+            "author": 499, 
+            "title": "Inaugural [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, November 1976)"
+        }, 
+        {
+            "author": 734, 
+            "title": "Crashing Neutron Stars, Mini Black Holes and Spacedrives"
+        }, 
+        {
+            "author": 86, 
+            "title": "Designing a Dyson Sphere"
+        }, 
+        {
+            "author": 770, 
+            "title": "Galaxy Bookshelf (Galaxy, November 1976)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, November 1976)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Gateway (Part 1 of 3)"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Children of the State (Part 3 of 3)"
+        }, 
+        {
+            "author": 794, 
+            "title": "In Xanadu"
+        }, 
+        {
+            "author": 762, 
+            "title": "Lovelife of the Leglorn"
+        }, 
+        {
+            "author": 750, 
+            "title": "Guardians at the Gate of Morpheus"
+        }, 
+        {
+            "author": 638, 
+            "title": "Inaugural"
+        }
+    ]
+}

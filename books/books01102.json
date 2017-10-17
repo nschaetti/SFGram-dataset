@@ -1,0 +1,109 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1964", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v22n06_1964-08/Galaxy_v22n06_1964-08_jp2.zip&file=Galaxy_v22n06_1964-08_jp2/Galaxy_v22n06_1964-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/15/GALAUG1964.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        581, 
+        497, 
+        40, 
+        339, 
+        326, 
+        592, 
+        217, 
+        368, 
+        479, 
+        50, 
+        302
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1102, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Dead Lady of Clown Town"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Dead Lady of Clown Town [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Dead Lady of Clown Town [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Dead Lady of Clown Town [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Jungle Substitute"
+        }, 
+        {
+            "author": 499, 
+            "title": "Jungle Substitute [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Watchers in the Glade"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Watchers in the Glade [2]"
+        }, 
+        {
+            "author": 581, 
+            "title": "Neighbor"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Delegate From Guapanga"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Delegate From Guapanga [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Politics -- 21st Century Style"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: A Century of Fossil Man"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1964)"
+        }, 
+        {
+            "author": 592, 
+            "title": "Jungle Substitute"
+        }, 
+        {
+            "author": 217, 
+            "title": "The Watchers in the Glade"
+        }, 
+        {
+            "author": 368, 
+            "title": "The Delegate From Guapanga"
+        }, 
+        {
+            "author": 479, 
+            "title": "The Dead Lady of Clown Town"
+        }, 
+        {
+            "author": 50, 
+            "title": "Neighbor"
+        }
+    ]
+}

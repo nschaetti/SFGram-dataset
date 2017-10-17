@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1958", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v15n06_1958-04/Galaxy_v15n06_1958-04_jp2.zip&file=Galaxy_v15n06_1958-04_jp2/Galaxy_v15n06_1958-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9e/MLO4449.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        419, 
+        506, 
+        525, 
+        497, 
+        305, 
+        339, 
+        483, 
+        531, 
+        56, 
+        532, 
+        32, 
+        214, 
+        470, 
+        63, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1062, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "The Sitters"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Sitters [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Sitters [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Garth and the Visitor"
+        }, 
+        {
+            "author": 519, 
+            "title": "First Man"
+        }, 
+        {
+            "author": 519, 
+            "title": "First Man [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "First Man [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Eel"
+        }, 
+        {
+            "author": 525, 
+            "title": "Old Rambling House"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Big Time (Part 2 of 2)"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Big Time (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Big Time (Part 2 of 2) [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "No Turban, Please"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Island of the Stone Heads"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, April 1958)"
+        }, 
+        {
+            "author": 531, 
+            "title": "Review of the Nonfiction Work \"Radiation\""
+        }, 
+        {
+            "author": 56, 
+            "title": "The Sitters"
+        }, 
+        {
+            "author": 532, 
+            "title": "First Man"
+        }, 
+        {
+            "author": 32, 
+            "title": "The Big Time (Part 2 of 2)"
+        }, 
+        {
+            "author": 214, 
+            "title": "Garth and the Visitor"
+        }, 
+        {
+            "author": 470, 
+            "title": "The Eel"
+        }, 
+        {
+            "author": 63, 
+            "title": "Old Rambling House"
+        }
+    ]
+}

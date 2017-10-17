@@ -1,0 +1,126 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1970", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v30n02_1970-05/Galaxy_v30n02_1970-05_jp2.zip&file=Galaxy_v30n02_1970-05_jp2/Galaxy_v30n02_1970-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/57/GALMAY70.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        626, 
+        615, 
+        667, 
+        91, 
+        40, 
+        55, 
+        668, 
+        675, 
+        50, 
+        542, 
+        514, 
+        302
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1141, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "A Style in Treason"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Style in Treason [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Style in Treason [3]"
+        }, 
+        {
+            "author": 626, 
+            "title": "A Style in Treason [4]"
+        }, 
+        {
+            "author": 626, 
+            "title": "A Style in Treason [5]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The God Machine"
+        }, 
+        {
+            "author": 499, 
+            "title": "Neutron Tide"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Timeserver"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whatever Became of the Mcgowans?"
+        }, 
+        {
+            "author": 615, 
+            "title": "Sunpot (Part 4 of 4)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 667, 
+            "title": "The Ddts"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, May 1970)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Editorial View: Overkill"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, May 1970)"
+        }, 
+        {
+            "author": 55, 
+            "title": "A Style in Treason"
+        }, 
+        {
+            "author": 668, 
+            "title": "The God Machine"
+        }, 
+        {
+            "author": 675, 
+            "title": "Whatever Became of the Mcgowans?"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Tower of Glass (Part 2 of 3)"
+        }, 
+        {
+            "author": 542, 
+            "title": "Neutron Tide"
+        }, 
+        {
+            "author": 514, 
+            "title": "Timeserver"
+        }
+    ]
+}

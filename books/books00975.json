@@ -1,0 +1,116 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1950", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v01n02_1950-11/Galaxy_v01n02_1950-11_jp2.zip&file=Galaxy_v01n02_1950-11_jp2/Galaxy_v01n02_1950-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/8c/GALNOV1950.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        343, 
+        338, 
+        344, 
+        336, 
+        305, 
+        345, 
+        326, 
+        340, 
+        58, 
+        125, 
+        56, 
+        3, 
+        32, 
+        204, 
+        302
+    ], 
+    "year": 1950, 
+    "images": [], 
+    "id": 975, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "Honeymoon in Hell"
+        }, 
+        {
+            "author": 343, 
+            "title": "Misbegotten Missionary"
+        }, 
+        {
+            "author": 338, 
+            "title": "Transfer Point"
+        }, 
+        {
+            "author": 344, 
+            "title": "Coming Attraction"
+        }, 
+        {
+            "author": 336, 
+            "title": "To Serve Man"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 2 of 3)"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Time Quarry (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "It's All Yours"
+        }, 
+        {
+            "author": 345, 
+            "title": "Lands of Yesterday"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, November 1950)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Next Month's Contents Page (Galaxy, November 1950)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, November 1950)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Flying Saucer Contest"
+        }, 
+        {
+            "author": 58, 
+            "title": "Honeymoon in Hell"
+        }, 
+        {
+            "author": 125, 
+            "title": "Transfer Point"
+        }, 
+        {
+            "author": 56, 
+            "title": "Time Quarry (Part 2 of 3)"
+        }, 
+        {
+            "author": 3, 
+            "title": "Misbegotten Missionary"
+        }, 
+        {
+            "author": 32, 
+            "title": "Coming Attraction"
+        }, 
+        {
+            "author": 204, 
+            "title": "To Serve Man"
+        }
+    ]
+}

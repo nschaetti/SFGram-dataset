@@ -1,0 +1,148 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1952", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v04n06_1952-09/Galaxy_v04n06_1952-09_jp2.zip&file=Galaxy_v04n06_1952-09_jp2/Galaxy_v04n06_1952-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4f/GALSEP1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        363, 
+        402, 
+        352, 
+        305, 
+        326, 
+        404, 
+        340, 
+        393, 
+        136, 
+        36, 
+        400, 
+        237, 
+        172, 
+        315, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 996, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "Delay in Transit"
+        }, 
+        {
+            "author": 342, 
+            "title": "Delay in Transit [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Delay in Transit [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Delay in Transit [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Snowball Effect"
+        }, 
+        {
+            "author": 363, 
+            "title": "Today Is Forever"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Moons of Mars"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Moons of Mars [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Tea Tray in the Sky"
+        }, 
+        {
+            "author": 402, 
+            "title": "Tea Tray in the Sky [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Tea Tray in the Sky [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Tea Tray in the Sky [4]"
+        }, 
+        {
+            "author": 352, 
+            "title": "The Mousetrap"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Altruist"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Altruist [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Altruist [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Altruist [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "On Heroes"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, September 1952)"
+        }, 
+        {
+            "author": 404, 
+            "title": "For Your Information: Space Travel"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, September 1952)"
+        }, 
+        {
+            "author": 393, 
+            "title": "Delay in Transit"
+        }, 
+        {
+            "author": 136, 
+            "title": "The Altruist"
+        }, 
+        {
+            "author": 36, 
+            "title": "The Snowball Effect"
+        }, 
+        {
+            "author": 400, 
+            "title": "Today Is Forever"
+        }, 
+        {
+            "author": 237, 
+            "title": "The Moons of Mars"
+        }, 
+        {
+            "author": 172, 
+            "title": "Tea Tray in the Sky"
+        }, 
+        {
+            "author": 315, 
+            "title": "The Mousetrap"
+        }
+    ]
+}

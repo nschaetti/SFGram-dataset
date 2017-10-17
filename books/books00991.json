@@ -1,0 +1,129 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1952", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v04n01_1952-04/Galaxy_v04n01_1952-04_jp2.zip&file=Galaxy_v04n01_1952-04_jp2/Galaxy_v04n01_1952-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a5/GALAPR1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        336, 
+        392, 
+        305, 
+        339, 
+        340, 
+        204, 
+        393, 
+        384, 
+        32, 
+        293, 
+        362, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 991, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Accidental Flight"
+        }, 
+        {
+            "author": 363, 
+            "title": "Accidental Flight [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Accidental Flight [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Accidental Flight [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Accidental Flight [5]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Accidental Flight [6]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Katahut Said No"
+        }, 
+        {
+            "author": 363, 
+            "title": "Katahut Said No [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "The Moon Is Green"
+        }, 
+        {
+            "author": 363, 
+            "title": "Martians Never Die"
+        }, 
+        {
+            "author": 392, 
+            "title": "She Who Laughs"
+        }, 
+        {
+            "author": 363, 
+            "title": "Ticket to Anywhere"
+        }, 
+        {
+            "author": 363, 
+            "title": "Ticket to Anywhere [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Ticket to Anywhere [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Ticket to Anywhere [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Homeless Facts"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Carbon-14 and the Ice Age"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, April 1952)"
+        }, 
+        {
+            "author": 204, 
+            "title": "Ticket to Anywhere"
+        }, 
+        {
+            "author": 393, 
+            "title": "Accidental Flight"
+        }, 
+        {
+            "author": 384, 
+            "title": "Katahut Said No"
+        }, 
+        {
+            "author": 32, 
+            "title": "The Moon Is Green"
+        }, 
+        {
+            "author": 293, 
+            "title": "Martians Never Die"
+        }, 
+        {
+            "author": 362, 
+            "title": "She Who Laughs"
+        }
+    ]
+}

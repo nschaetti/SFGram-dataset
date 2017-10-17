@@ -1,0 +1,131 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1977", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v38n06_1977-08/Galaxy_v38n06_1977-08_jp2.zip&file=Galaxy_v38n06_1977-08_jp2/Galaxy_v38n06_1977-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/71/GALAUG77.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        826, 
+        742, 
+        326, 
+        827, 
+        764, 
+        40, 
+        734, 
+        767, 
+        770, 
+        822, 
+        748, 
+        63, 
+        817, 
+        828, 
+        302
+    ], 
+    "year": 1977, 
+    "images": [], 
+    "id": 1203, 
+    "contents": [
+        {
+            "author": 826, 
+            "title": "Showcase (Galaxy, August 1977)"
+        }, 
+        {
+            "author": 742, 
+            "title": "... And Earth so Far Away"
+        }, 
+        {
+            "author": 742, 
+            "title": "... And Earth so Far Away [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "... And Earth so Far Away [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Perfectly Safe, Nothing to Worry About"
+        }, 
+        {
+            "author": 326, 
+            "title": "Perfectly Safe, Nothing to Worry About [2]"
+        }, 
+        {
+            "author": 827, 
+            "title": "The Dosadi Experiment (Part 4 of 4)"
+        }, 
+        {
+            "author": 827, 
+            "title": "The Dosadi Experiment (Part 4 of 4) [2]"
+        }, 
+        {
+            "author": 827, 
+            "title": "The Dosadi Experiment (Part 4 of 4) [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Pheromonal Fountain"
+        }, 
+        {
+            "author": 742, 
+            "title": "The All-Soul Is Calling Quinlan"
+        }, 
+        {
+            "author": 742, 
+            "title": "The All-Soul Is Calling Quinlan [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, August 1977)"
+        }, 
+        {
+            "author": 764, 
+            "title": "Galaxy and the Galaxy"
+        }, 
+        {
+            "author": 40, 
+            "title": "Postscript to Gateway"
+        }, 
+        {
+            "author": 734, 
+            "title": "A Time for Decisions"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, August 1977)"
+        }, 
+        {
+            "author": 770, 
+            "title": "Galaxy Bookshelf (Galaxy, August 1977)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, August 1977)"
+        }, 
+        {
+            "author": 822, 
+            "title": "... And Earth so Far Away"
+        }, 
+        {
+            "author": 748, 
+            "title": "The Pheromonal Fountain"
+        }, 
+        {
+            "author": 63, 
+            "title": "The Dosadi Experiment (Part 4 of 4)"
+        }, 
+        {
+            "author": 817, 
+            "title": "Perfectly Safe, Nothing to Worry About"
+        }, 
+        {
+            "author": 828, 
+            "title": "The All-Soul Is Calling Quinlan"
+        }
+    ]
+}

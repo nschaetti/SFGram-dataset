@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1995", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_2nd_Series_v02n02_1995-03/Galaxy_2nd_Series_v02n02_1995-03_jp2.zip&file=Galaxy_2nd_Series_v02n02_1995-03_jp2/Galaxy_2nd_Series_v02n02_1995-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/data/images/g/galaxy_199503-04.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        303, 
+        326, 
+        313, 
+        314, 
+        312, 
+        315, 
+        327, 
+        328, 
+        325, 
+        329, 
+        330, 
+        307, 
+        331, 
+        332, 
+        333, 
+        334, 
+        335, 
+        302
+    ], 
+    "year": 1995, 
+    "images": [], 
+    "id": 973, 
+    "contents": [
+        {
+            "author": 303, 
+            "title": "Editorial (Galaxy, #8)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Jiffy Thoroughthink's 5-Star Book Review"
+        }, 
+        {
+            "author": 313, 
+            "title": "Trek Diary: Court Martial"
+        }, 
+        {
+            "author": 314, 
+            "title": "For Your Information (Galaxy, #8)"
+        }, 
+        {
+            "author": 312, 
+            "title": "Reckless"
+        }, 
+        {
+            "author": 315, 
+            "title": "The Man in the Mailbag"
+        }, 
+        {
+            "author": 327, 
+            "title": "Me and My Shadow"
+        }, 
+        {
+            "author": 328, 
+            "title": "Crystal"
+        }, 
+        {
+            "author": 325, 
+            "title": "I'm Dying Out Here"
+        }, 
+        {
+            "author": 329, 
+            "title": "Dances with Elves"
+        }, 
+        {
+            "author": 330, 
+            "title": "Bad Moon Rising"
+        }, 
+        {
+            "author": 307, 
+            "title": "Syrup of Greep"
+        }, 
+        {
+            "author": 331, 
+            "title": "The Difference a Day Makes"
+        }, 
+        {
+            "author": 325, 
+            "title": "Knockout"
+        }, 
+        {
+            "author": 325, 
+            "title": "Dessert"
+        }, 
+        {
+            "author": 332, 
+            "title": "Sacrifice"
+        }, 
+        {
+            "author": 333, 
+            "title": "That's Progress"
+        }, 
+        {
+            "author": 334, 
+            "title": "Mutant"
+        }, 
+        {
+            "author": 335, 
+            "title": "Silky, Slinky, Fabulous -- To Die For"
+        }
+    ]
+}

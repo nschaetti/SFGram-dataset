@@ -1,0 +1,127 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1975", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v36n08_1975-09/Galaxy_v36n08_1975-09_jp2.zip&file=Galaxy_v36n08_1975-09_jp2/Galaxy_v36n08_1975-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/50/GALSEP75.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        753, 
+        744, 
+        742, 
+        763, 
+        30, 
+        734, 
+        770, 
+        326, 
+        787, 
+        788, 
+        604, 
+        789, 
+        790, 
+        741, 
+        302
+    ], 
+    "year": 1975, 
+    "images": [], 
+    "id": 1187, 
+    "contents": [
+        {
+            "author": 753, 
+            "title": "Evening Song, Night Dancer"
+        }, 
+        {
+            "author": 744, 
+            "title": "Alien Persuasion"
+        }, 
+        {
+            "author": 744, 
+            "title": "Alien Persuasion [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Moonball"
+        }, 
+        {
+            "author": 753, 
+            "title": "A Nice Girl Like Me"
+        }, 
+        {
+            "author": 742, 
+            "title": "Forum: Our Many Roads to the Stars"
+        }, 
+        {
+            "author": 763, 
+            "title": "Inferno (Part 2 of 3)"
+        }, 
+        {
+            "author": 763, 
+            "title": "Inferno (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 744, 
+            "title": "Overdose"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Other Half"
+        }, 
+        {
+            "author": 30, 
+            "title": "Galaxy, September 1975"
+        }, 
+        {
+            "author": 734, 
+            "title": "An Open Letter"
+        }, 
+        {
+            "author": 734, 
+            "title": "The Big Rain"
+        }, 
+        {
+            "author": 30, 
+            "title": "Forum: Our Many Roads to the Stars"
+        }, 
+        {
+            "author": 770, 
+            "title": "Bookshelf (Galaxy, September 1975)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, September 1975)"
+        }, 
+        {
+            "author": 787, 
+            "title": "Alien Persuasion"
+        }, 
+        {
+            "author": 788, 
+            "title": "Moonball"
+        }, 
+        {
+            "author": 604, 
+            "title": "Inferno (Part 2 of 3)"
+        }, 
+        {
+            "author": 789, 
+            "title": "Evening Song, Night Dancer"
+        }, 
+        {
+            "author": 790, 
+            "title": "A Nice Girl Like Me"
+        }, 
+        {
+            "author": 770, 
+            "title": "Overdose"
+        }, 
+        {
+            "author": 741, 
+            "title": "The Other Half"
+        }
+    ]
+}

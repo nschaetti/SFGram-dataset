@@ -1,0 +1,137 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1979", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v39n10_1979-07/Galaxy_v39n10_1979-07_jp2.zip&file=Galaxy_v39n10_1979-07_jp2/Galaxy_v39n10_1979-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/61/GALJUNJUL79.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        890, 
+        891, 
+        892, 
+        326, 
+        312, 
+        893, 
+        767, 
+        894, 
+        895, 
+        896, 
+        854, 
+        40, 
+        897, 
+        658, 
+        376, 
+        596, 
+        302
+    ], 
+    "year": 1979, 
+    "images": [], 
+    "id": 1215, 
+    "contents": [
+        {
+            "author": 890, 
+            "title": "Star Warriors (Part 1 of 2)"
+        }, 
+        {
+            "author": 890, 
+            "title": "Star Warriors (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 890, 
+            "title": "Star Warriors (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 890, 
+            "title": "Star Warriors (Part 1 of 2) [4]"
+        }, 
+        {
+            "author": 891, 
+            "title": "The Psychic"
+        }, 
+        {
+            "author": 892, 
+            "title": "Jem (Part 3 of 5)"
+        }, 
+        {
+            "author": 892, 
+            "title": "Jem (Part 3 of 5) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "When the Metal Eaters Came"
+        }, 
+        {
+            "author": 326, 
+            "title": "Beneath the Bermuda Triangle"
+        }, 
+        {
+            "author": 326, 
+            "title": "Showcase (Galaxy, June-July 1979)"
+        }, 
+        {
+            "author": 326, 
+            "title": "About Our Contributors (Galaxy, June-July 1979)"
+        }, 
+        {
+            "author": 312, 
+            "title": "Editorial (Galaxy, June-July 1979)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Forecast (Galaxy, June-July 1979)"
+        }, 
+        {
+            "author": 893, 
+            "title": "Science Fiction Hotline (Galaxy, June-July 1979)"
+        }, 
+        {
+            "author": 767, 
+            "title": "Galaxy Bookshelf (Galaxy, June-July 1979)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Letters (Galaxy, June-July 1979)"
+        }, 
+        {
+            "author": 894, 
+            "title": "Statement of Policy (Galaxy, June-July 1979)"
+        }, 
+        {
+            "author": 895, 
+            "title": "The Psychic"
+        }, 
+        {
+            "author": 896, 
+            "title": "Beneath the Bermuda Triangle"
+        }, 
+        {
+            "author": 854, 
+            "title": "Star Warriors (Part 1 of 2)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Jem (Part 3 of 5)"
+        }, 
+        {
+            "author": 897, 
+            "title": "The-Super-Duper-Make-Your-Own-Ba"
+        }, 
+        {
+            "author": 658, 
+            "title": "Femworld"
+        }, 
+        {
+            "author": 376, 
+            "title": "An End to Crime"
+        }, 
+        {
+            "author": 596, 
+            "title": "When the Metal Eaters Came"
+        }
+    ]
+}

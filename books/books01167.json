@@ -1,0 +1,90 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1973", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v34n03_1973-12/Galaxy_v34n03_1973-12_jp2.zip&file=Galaxy_v34n03_1973-12_jp2/Galaxy_v34n03_1973-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/ec/GALDEC73.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        341, 
+        577, 
+        725, 
+        704, 
+        722, 
+        726, 
+        727, 
+        302
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1167, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Inverted World (Part 1 of 4)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Unbiased God"
+        }, 
+        {
+            "author": 499, 
+            "title": "Sweet Sister, Green Brother"
+        }, 
+        {
+            "author": 499, 
+            "title": "Her Fine and Private Planet"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Better Rat-Trap"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dream Millennium (Part 3 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, December 1973)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, December 1973)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, December 1973) (Circulation: 54,524)"
+        }, 
+        {
+            "author": 577, 
+            "title": "Sweet Sister, Green Brother"
+        }, 
+        {
+            "author": 725, 
+            "title": "Inverted World (Part 1 of 4)"
+        }, 
+        {
+            "author": 704, 
+            "title": "The Dream Millennium (Part 3 of 3)"
+        }, 
+        {
+            "author": 722, 
+            "title": "Unbiased God"
+        }, 
+        {
+            "author": 726, 
+            "title": "Her Fine and Private Planet"
+        }, 
+        {
+            "author": 727, 
+            "title": "A Better Rat-Trap"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1959", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v18n02_1959-12/Galaxy_v18n02_1959-12_jp2.zip&file=Galaxy_v18n02_1959-12_jp2/Galaxy_v18n02_1959-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fb/GALDEC1959.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        506, 
+        545, 
+        497, 
+        519, 
+        419, 
+        305, 
+        339, 
+        326, 
+        483, 
+        23, 
+        95, 
+        142, 
+        549, 
+        182, 
+        159, 
+        8, 
+        40, 
+        45, 
+        302
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 1076, 
+    "contents": [
+        {
+            "author": 506, 
+            "title": "Prospector's Special"
+        }, 
+        {
+            "author": 506, 
+            "title": "Prospector's Special [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Prospector's Special [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Flower Arrangement"
+        }, 
+        {
+            "author": 545, 
+            "title": "Sales Talk"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Undetected"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Undetected [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Undetected [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "War Game"
+        }, 
+        {
+            "author": 419, 
+            "title": "Charity Case"
+        }, 
+        {
+            "author": 419, 
+            "title": "Charity Case [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Charity Case [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Snowmen"
+        }, 
+        {
+            "author": 497, 
+            "title": "Sabbatical"
+        }, 
+        {
+            "author": 519, 
+            "title": "Blacksword"
+        }, 
+        {
+            "author": 519, 
+            "title": "Blacksword [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Blacksword [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Of All Things"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Dead or Alive?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1959)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, December 1959)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Prospector's Special"
+        }, 
+        {
+            "author": 95, 
+            "title": "The Undetected"
+        }, 
+        {
+            "author": 142, 
+            "title": "Charity Case"
+        }, 
+        {
+            "author": 549, 
+            "title": "Blacksword"
+        }, 
+        {
+            "author": 182, 
+            "title": "Flower Arrangement"
+        }, 
+        {
+            "author": 159, 
+            "title": "Sales Talk"
+        }, 
+        {
+            "author": 8, 
+            "title": "War Game"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Snowmen"
+        }, 
+        {
+            "author": 45, 
+            "title": "Sabbatical"
+        }
+    ]
+}

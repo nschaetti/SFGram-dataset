@@ -1,0 +1,133 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1957", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v13n06_1957-04/Galaxy_v13n06_1957-04_jp2.zip&file=Galaxy_v13n06_1957-04_jp2/Galaxy_v13n06_1957-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/8b/MLO4436.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        402, 
+        419, 
+        472, 
+        506, 
+        305, 
+        339, 
+        326, 
+        483, 
+        56, 
+        172, 
+        204, 
+        509, 
+        23, 
+        441, 
+        401, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1050, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Operation Stinky"
+        }, 
+        {
+            "author": 499, 
+            "title": "Operation Stinky [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Operation Stinky [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Man in the Jar"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Ifth of Oofth"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Victim From Space"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Victim From Space [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Victim From Space [3]"
+        }, 
+        {
+            "author": 472, 
+            "title": "The Coffin Cure"
+        }, 
+        {
+            "author": 506, 
+            "title": "Army Without Banners"
+        }, 
+        {
+            "author": 506, 
+            "title": "Once a Greech"
+        }, 
+        {
+            "author": 506, 
+            "title": "Once a Greech [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Once a Greech [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Danger in the Air"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Coming of the Robots"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1957)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, April 1957)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Operation Stinky"
+        }, 
+        {
+            "author": 172, 
+            "title": "Once a Greech"
+        }, 
+        {
+            "author": 204, 
+            "title": "Man in the Jar"
+        }, 
+        {
+            "author": 509, 
+            "title": "The Ifth of Oofth"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Victim From Space"
+        }, 
+        {
+            "author": 441, 
+            "title": "The Coffin Cure"
+        }, 
+        {
+            "author": 401, 
+            "title": "Army Without Banners"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1978", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v39n04_1978-04/Galaxy_v39n04_1978-04_jp2.zip&file=Galaxy_v39n04_1978-04_jp2/Galaxy_v39n04_1978-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a3/GALAPR78.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        863, 
+        850, 
+        842, 
+        857, 
+        734, 
+        843, 
+        479, 
+        864, 
+        768, 
+        865, 
+        302
+    ], 
+    "year": 1978, 
+    "images": [], 
+    "id": 1210, 
+    "contents": [
+        {
+            "author": 863, 
+            "title": "The Queen of the Afternoon"
+        }, 
+        {
+            "author": 863, 
+            "title": "The Queen of the Afternoon [2]"
+        }, 
+        {
+            "author": 863, 
+            "title": "The Queen of the Afternoon [3]"
+        }, 
+        {
+            "author": 863, 
+            "title": "The Queen of the Afternoon [4]"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Defector"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Defector [2]"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Devil and All Her Works"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Devil and All Her Works [2]"
+        }, 
+        {
+            "author": 850, 
+            "title": "The Devil and All Her Works [3]"
+        }, 
+        {
+            "author": 842, 
+            "title": "The Faded Sun: Kesrith (Part 3 of 4)"
+        }, 
+        {
+            "author": 857, 
+            "title": "The Faded Sun: Kesrith (Part 3 of 4) [2]"
+        }, 
+        {
+            "author": 857, 
+            "title": "The Faded Sun: Kesrith (Part 3 of 4) [3]"
+        }, 
+        {
+            "author": 857, 
+            "title": "The Faded Sun: Kesrith (Part 3 of 4) [4]"
+        }, 
+        {
+            "author": 857, 
+            "title": "The Faded Sun: Kesrith (Part 3 of 4) [5]"
+        }, 
+        {
+            "author": 863, 
+            "title": "The Purblind People"
+        }, 
+        {
+            "author": 863, 
+            "title": "The Purblind People [2]"
+        }, 
+        {
+            "author": 863, 
+            "title": "The Purblind People [3]"
+        }, 
+        {
+            "author": 863, 
+            "title": "The Purblind People [4]"
+        }, 
+        {
+            "author": 734, 
+            "title": "Man and the Weather Machine"
+        }, 
+        {
+            "author": 843, 
+            "title": "Galaxy Bookshelf (Galaxy, April 1978)"
+        }, 
+        {
+            "author": 479, 
+            "title": "The Queen of the Afternoon"
+        }, 
+        {
+            "author": 864, 
+            "title": "The Devil and All Her Works"
+        }, 
+        {
+            "author": 768, 
+            "title": "The Purblind People"
+        }, 
+        {
+            "author": 857, 
+            "title": "The Faded Sun: Kesrith (Part 3 of 4)"
+        }, 
+        {
+            "author": 865, 
+            "title": "The Defector"
+        }
+    ]
+}

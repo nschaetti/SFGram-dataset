@@ -1,0 +1,169 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1965", 
+    "cover": "https://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v23n04_1965-04/Galaxy_v23n04_1965-04_jp2.zip&file=Galaxy_v23n04_1965-04_jp2/Galaxy_v23n04_1965-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/bd/GALAPR65.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        581, 
+        499, 
+        545, 
+        40, 
+        339, 
+        326, 
+        91, 
+        598, 
+        599, 
+        600, 
+        601, 
+        602, 
+        315, 
+        603, 
+        67, 
+        63, 
+        604, 
+        546, 
+        74, 
+        111, 
+        302
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1106, 
+    "contents": [
+        {
+            "author": 581, 
+            "title": "Committee of the Whole"
+        }, 
+        {
+            "author": 581, 
+            "title": "Committee of the Whole [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Death and Birth of the Angakok"
+        }, 
+        {
+            "author": 499, 
+            "title": "Death and Birth of the Angakok [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Death and Birth of the Angakok [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "A Wobble in Wockii Futures"
+        }, 
+        {
+            "author": 545, 
+            "title": "A Wobble in Wockii Futures [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "A Wobble in Wockii Futures [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Decision Makers"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Decision Makers [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "War Against the Yukks"
+        }, 
+        {
+            "author": 545, 
+            "title": "War Against the Yukks [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "War Against the Yukks [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "War Against the Yukks [4]"
+        }, 
+        {
+            "author": 545, 
+            "title": "War Against the Yukks [5]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Here Are the Stars"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Symbolically Speaking"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1965)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, April 1965)"
+        }, 
+        {
+            "author": 598, 
+            "title": "Review of the Nonfiction Work \"Alone Through the Dark Sea\""
+        }, 
+        {
+            "author": 599, 
+            "title": "Review of the Nonfiction Work \"Star Names: Their Lore and Meaning\""
+        }, 
+        {
+            "author": 600, 
+            "title": "Review of the Nonfiction Work \"the Binary Stars\""
+        }, 
+        {
+            "author": 601, 
+            "title": "Review of the Nonfiction Work \"the Friendly Stars\""
+        }, 
+        {
+            "author": 602, 
+            "title": "Death and Birth of the Angakok"
+        }, 
+        {
+            "author": 315, 
+            "title": "A Wobble in Wockii Futures"
+        }, 
+        {
+            "author": 603, 
+            "title": "The Decision Makers"
+        }, 
+        {
+            "author": 67, 
+            "title": "War Against the Yukks"
+        }, 
+        {
+            "author": 63, 
+            "title": "Committee of the Whole"
+        }, 
+        {
+            "author": 604, 
+            "title": "Wrong-Way Street"
+        }, 
+        {
+            "author": 546, 
+            "title": "Wasted On the Young"
+        }, 
+        {
+            "author": 74, 
+            "title": "Slow Tuesday Night"
+        }, 
+        {
+            "author": 111, 
+            "title": "Sculptor"
+        }
+    ]
+}

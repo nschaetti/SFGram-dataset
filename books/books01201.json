@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1977", 
+    "cover": "https://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v38n04_1977-06/Galaxy_v38n04_1977-06_jp2.zip&file=Galaxy_v38n04_1977-06_jp2/Galaxy_v38n04_1977-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/68/GALJUN77.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        784, 
+        819, 
+        734, 
+        770, 
+        326, 
+        817, 
+        794, 
+        63, 
+        820, 
+        821, 
+        302
+    ], 
+    "year": 1977, 
+    "images": [], 
+    "id": 1201, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "Legacy"
+        }, 
+        {
+            "author": 742, 
+            "title": "Legacy [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Legacy [3]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 2 of 4)"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 2 of 4) [2]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 2 of 4) [3]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 2 of 4) [4]"
+        }, 
+        {
+            "author": 784, 
+            "title": "The Dosadi Experiment (Part 2 of 4) [5]"
+        }, 
+        {
+            "author": 742, 
+            "title": "A Meeting of Minds"
+        }, 
+        {
+            "author": 742, 
+            "title": "A Meeting of Minds [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "A Meeting of Minds [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Help Not Wanted"
+        }, 
+        {
+            "author": 819, 
+            "title": "Who Murders, Who Dreams"
+        }, 
+        {
+            "author": 819, 
+            "title": "Who Murders, Who Dreams [2]"
+        }, 
+        {
+            "author": 819, 
+            "title": "Who Murders, Who Dreams [3]"
+        }, 
+        {
+            "author": 734, 
+            "title": "We Interrupt This Program"
+        }, 
+        {
+            "author": 770, 
+            "title": "Galaxy Bookshelf (Galaxy, June 1977)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, June 1977)"
+        }, 
+        {
+            "author": 817, 
+            "title": "Legacy"
+        }, 
+        {
+            "author": 794, 
+            "title": "A Meeting of Minds"
+        }, 
+        {
+            "author": 63, 
+            "title": "The Dosadi Experiment (Part 2 of 4)"
+        }, 
+        {
+            "author": 820, 
+            "title": "Help Not Wanted"
+        }, 
+        {
+            "author": 821, 
+            "title": "Who Murders, Who Dreams"
+        }
+    ]
+}

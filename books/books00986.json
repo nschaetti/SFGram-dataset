@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1951", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v03n02_1951-11/Galaxy_v03n02_1951-11_jp2.zip&file=Galaxy_v03n02_1951-11_jp2/Galaxy_v03n02_1951-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9b/GALNOV1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        377, 
+        378, 
+        367, 
+        366, 
+        336, 
+        342, 
+        305, 
+        340, 
+        379, 
+        249, 
+        380, 
+        371, 
+        298, 
+        381, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 986, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Sea Legs"
+        }, 
+        {
+            "author": 363, 
+            "title": "Sea Legs [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Sea Legs [3]"
+        }, 
+        {
+            "author": 377, 
+            "title": "Tiger"
+        }, 
+        {
+            "author": 378, 
+            "title": "Tiger"
+        }, 
+        {
+            "author": 367, 
+            "title": "Zeritsky's Law"
+        }, 
+        {
+            "author": 366, 
+            "title": "Self Portrait"
+        }, 
+        {
+            "author": 366, 
+            "title": "Self Portrait [2]"
+        }, 
+        {
+            "author": 366, 
+            "title": "Self Portrait [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Psychotennis, Anyone?"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 3 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Puppet Masters (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Step Outside"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, November 1951)"
+        }, 
+        {
+            "author": 379, 
+            "title": "Review of the Nonfiction Work \"Nature's Ways\""
+        }, 
+        {
+            "author": 249, 
+            "title": "Sea Legs"
+        }, 
+        {
+            "author": 380, 
+            "title": "Self Portrait"
+        }, 
+        {
+            "author": 371, 
+            "title": "The Puppet Masters (Part 3 of 3)"
+        }, 
+        {
+            "author": 298, 
+            "title": "Zeritsky's Law"
+        }, 
+        {
+            "author": 381, 
+            "title": "Psychotennis, Anyone?"
+        }
+    ]
+}

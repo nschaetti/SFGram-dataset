@@ -1,0 +1,112 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1974", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/Galaxy_v35n10_1974-10/Galaxy_v35n10_1974-10_jp2.zip&file=Galaxy_v35n10_1974-10_jp2/Galaxy_v35n10_1974-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/5b/GALOCT74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        499, 
+        744, 
+        752, 
+        753, 
+        341, 
+        734, 
+        754, 
+        748, 
+        132, 
+        755, 
+        756, 
+        757, 
+        359, 
+        758, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1177, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "The Eastcoast Confinement"
+        }, 
+        {
+            "author": 499, 
+            "title": "Under the Hammer"
+        }, 
+        {
+            "author": 499, 
+            "title": "Witch Children"
+        }, 
+        {
+            "author": 744, 
+            "title": "Easy Rider"
+        }, 
+        {
+            "author": 752, 
+            "title": "The Last Destination of Master G"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Long Night"
+        }, 
+        {
+            "author": 753, 
+            "title": "The Company of Glory (Part 3 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Twist"
+        }, 
+        {
+            "author": 499, 
+            "title": "Showcase (Galaxy, October 1974)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, October 1974)"
+        }, 
+        {
+            "author": 734, 
+            "title": "Ships for Manned Spaceflight"
+        }, 
+        {
+            "author": 754, 
+            "title": "Witch Children"
+        }, 
+        {
+            "author": 748, 
+            "title": "The Eastcoast Confinement"
+        }, 
+        {
+            "author": 132, 
+            "title": "The Company of Glory (Part 3 of 3)"
+        }, 
+        {
+            "author": 755, 
+            "title": "Under the Hammer"
+        }, 
+        {
+            "author": 756, 
+            "title": "Easy Rider"
+        }, 
+        {
+            "author": 757, 
+            "title": "The Last Destination of Master G"
+        }, 
+        {
+            "author": 359, 
+            "title": "The Long Night"
+        }, 
+        {
+            "author": 758, 
+            "title": "The Twist"
+        }
+    ]
+}

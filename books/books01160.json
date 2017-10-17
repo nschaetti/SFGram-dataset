@@ -1,0 +1,91 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1972", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v33n03_1972-11/Galaxy_v33n03_1972-11_jp2.zip&file=Galaxy_v33n03_1972-11_jp2/Galaxy_v33n03_1972-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/23/GALNOVDEC72.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        667, 
+        341, 
+        577, 
+        630, 
+        663, 
+        63, 
+        660, 
+        112, 
+        302
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1160, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Project 40 (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "26 Days On Earth"
+        }, 
+        {
+            "author": 499, 
+            "title": "Noepti-Noe"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Dutchman"
+        }, 
+        {
+            "author": 499, 
+            "title": "Mayflower I"
+        }, 
+        {
+            "author": 499, 
+            "title": "Journey"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, November-December 1972)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Editor's Column: The Naked Dream"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, November-December 1972)"
+        }, 
+        {
+            "author": 577, 
+            "title": "Noepti-Noe"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Dutchman"
+        }, 
+        {
+            "author": 663, 
+            "title": "Mayflower I"
+        }, 
+        {
+            "author": 63, 
+            "title": "Project 40 (Part 1 of 3)"
+        }, 
+        {
+            "author": 660, 
+            "title": "26 Days On Earth"
+        }, 
+        {
+            "author": 112, 
+            "title": "Journey"
+        }
+    ]
+}

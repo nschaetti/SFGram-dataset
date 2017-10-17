@@ -1,0 +1,110 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1956", 
+    "cover": "https://ia800206.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v13n01_1956-11/Galaxy_v13n01_1956-11_jp2.zip&file=Galaxy_v13n01_1956-11_jp2/Galaxy_v13n01_1956-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d1/MLO4431.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        461, 
+        419, 
+        497, 
+        363, 
+        305, 
+        339, 
+        483, 
+        326, 
+        40, 
+        385, 
+        356, 
+        493, 
+        50, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1045, 
+    "contents": [
+        {
+            "author": 461, 
+            "title": "The Man Who Ate the World"
+        }, 
+        {
+            "author": 461, 
+            "title": "The Man Who Ate the World [2]"
+        }, 
+        {
+            "author": 461, 
+            "title": "The Man Who Ate the World [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Dead Ringer"
+        }, 
+        {
+            "author": 497, 
+            "title": "Vigil"
+        }, 
+        {
+            "author": 419, 
+            "title": "Double Dare"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 2 of 4)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 2 of 4) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 2 of 4) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 2 of 4) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Ba+2na"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: No Longer Imaginary"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, November 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, November 1956)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Man Who Ate the World"
+        }, 
+        {
+            "author": 385, 
+            "title": "The Stars My Destination (Part 2 of 4)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Dead Ringer"
+        }, 
+        {
+            "author": 493, 
+            "title": "Vigil"
+        }, 
+        {
+            "author": 50, 
+            "title": "Double Dare"
+        }
+    ]
+}

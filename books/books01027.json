@@ -1,0 +1,145 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1955", 
+    "cover": "https://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/Galaxy_v10n01_1955-04/Galaxy_v10n01_1955-04_jp2.zip&file=Galaxy_v10n01_1955-04_jp2/Galaxy_v10n01_1955-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d1/MLO4378.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        402, 
+        433, 
+        419, 
+        336, 
+        427, 
+        305, 
+        339, 
+        326, 
+        98, 
+        341, 
+        193, 
+        23, 
+        40, 
+        401, 
+        172, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1027, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Servant Problem"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Servant Problem [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Servant Problem [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Don't Shoot"
+        }, 
+        {
+            "author": 433, 
+            "title": "The Lifeboat Mutiny"
+        }, 
+        {
+            "author": 419, 
+            "title": "Target One"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Advice to the Lovelorn"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Advice to the Lovelorn [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Advice to the Lovelorn [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Advice to the Lovelorn [4]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Advice to the Lovelorn [5]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Advice to the Lovelorn [6]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Advice to the Lovelorn [7]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Man's Best Friend"
+        }, 
+        {
+            "author": 402, 
+            "title": "Hurricane Trio"
+        }, 
+        {
+            "author": 402, 
+            "title": "Hurricane Trio [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Hurricane Trio [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Speaking of Trends"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Death of the Sun (Ii)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1955)"
+        }, 
+        {
+            "author": 98, 
+            "title": "The Servant Problem"
+        }, 
+        {
+            "author": 341, 
+            "title": "Hurricane Trio"
+        }, 
+        {
+            "author": 193, 
+            "title": "Don't Shoot"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Lifeboat Mutiny"
+        }, 
+        {
+            "author": 40, 
+            "title": "Target One"
+        }, 
+        {
+            "author": 401, 
+            "title": "Origins of Galactic Advice to the Lovelorn"
+        }, 
+        {
+            "author": 172, 
+            "title": "Man's Best Friend"
+        }
+    ]
+}

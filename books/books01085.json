@@ -1,0 +1,162 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1961", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v19n05_1961-06_modified/Galaxy_v19n05_1961-06_modified_jp2.zip&file=Galaxy_v19n05_1961-06_modified_jp2/Galaxy_v19n05_1961-06_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fa/GALJUN1961.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        560, 
+        504, 
+        519, 
+        497, 
+        563, 
+        499, 
+        419, 
+        564, 
+        565, 
+        339, 
+        326, 
+        483, 
+        69, 
+        479, 
+        63, 
+        558, 
+        40, 
+        74, 
+        234, 
+        30, 
+        561, 
+        302
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1085, 
+    "contents": [
+        {
+            "author": 560, 
+            "title": "Farmer"
+        }, 
+        {
+            "author": 560, 
+            "title": "Farmer [2]"
+        }, 
+        {
+            "author": 504, 
+            "title": "The Graybes of Wrath"
+        }, 
+        {
+            "author": 560, 
+            "title": "A Gentle Dying"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Weirdest World"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Weirdest World [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Weirdest World [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Mother Hitton's Littul Kittons"
+        }, 
+        {
+            "author": 497, 
+            "title": "Mother Hitton's Littul Kittons [2]"
+        }, 
+        {
+            "author": 563, 
+            "title": "Breakdown"
+        }, 
+        {
+            "author": 563, 
+            "title": "Breakdown [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A-W-F Unlimited"
+        }, 
+        {
+            "author": 499, 
+            "title": "A-W-F Unlimited [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "My Object All Sublime"
+        }, 
+        {
+            "author": 419, 
+            "title": "My Object All Sublime [2]"
+        }, 
+        {
+            "author": 564, 
+            "title": "The Long Way Home"
+        }, 
+        {
+            "author": 564, 
+            "title": "The Long Way Home [2]"
+        }, 
+        {
+            "author": 565, 
+            "title": "A Life in the Day of an Editor"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Strait Named After Vitus Bering"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1961)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1961)"
+        }, 
+        {
+            "author": 69, 
+            "title": "Farmer"
+        }, 
+        {
+            "author": 479, 
+            "title": "Mother Hitton's Littul Kittons"
+        }, 
+        {
+            "author": 63, 
+            "title": "A-W-F Unlimited"
+        }, 
+        {
+            "author": 558, 
+            "title": "The Graybes of Wrath"
+        }, 
+        {
+            "author": 40, 
+            "title": "A Gentle Dying"
+        }, 
+        {
+            "author": 74, 
+            "title": "The Weirdest World"
+        }, 
+        {
+            "author": 234, 
+            "title": "Breakdown"
+        }, 
+        {
+            "author": 30, 
+            "title": "My Object All Sublime"
+        }, 
+        {
+            "author": 561, 
+            "title": "The Long Way Home"
+        }
+    ]
+}

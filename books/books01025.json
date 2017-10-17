@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1955", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v09n05_1955-02/Galaxy_v09n05_1955-02_jp2.zip&file=Galaxy_v09n05_1955-02_jp2/Galaxy_v09n05_1955-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/13/MLO4376.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        427, 
+        456, 
+        433, 
+        305, 
+        326, 
+        339, 
+        340, 
+        172, 
+        468, 
+        161, 
+        387, 
+        384, 
+        40, 
+        469, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1025, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Helpfully Yours"
+        }, 
+        {
+            "author": 363, 
+            "title": "Helpfully Yours [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Helpfully Yours [3]"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Cave of Night"
+        }, 
+        {
+            "author": 363, 
+            "title": "Dead Man's Planet"
+        }, 
+        {
+            "author": 456, 
+            "title": "Open House"
+        }, 
+        {
+            "author": 427, 
+            "title": "Pythias"
+        }, 
+        {
+            "author": 433, 
+            "title": "Blind Spot"
+        }, 
+        {
+            "author": 427, 
+            "title": "Rich Living"
+        }, 
+        {
+            "author": 427, 
+            "title": "Rich Living [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Rich Living [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Past Performance"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1955)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: How Much Water?"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, February 1955)"
+        }, 
+        {
+            "author": 172, 
+            "title": "Helpfully Yours"
+        }, 
+        {
+            "author": 468, 
+            "title": "Rich Living"
+        }, 
+        {
+            "author": 161, 
+            "title": "The Cave of Night"
+        }, 
+        {
+            "author": 387, 
+            "title": "Dead Man's Planet"
+        }, 
+        {
+            "author": 384, 
+            "title": "Open House"
+        }, 
+        {
+            "author": 40, 
+            "title": "Pythias"
+        }, 
+        {
+            "author": 469, 
+            "title": "Blind Spot"
+        }
+    ]
+}

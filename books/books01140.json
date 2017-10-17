@@ -1,0 +1,129 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1970", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/Galaxy_v30n01_1970-04/Galaxy_v30n01_1970-04_jp2.zip&file=Galaxy_v30n01_1970-04_jp2/Galaxy_v30n01_1970-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4a/GALAPR70.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        615, 
+        667, 
+        91, 
+        478, 
+        675, 
+        630, 
+        18, 
+        50, 
+        676, 
+        161, 
+        302
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1140, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Allison, Carmichael and Tattersall"
+        }, 
+        {
+            "author": 499, 
+            "title": "Allison, Carmichael and Tattersall [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Allison, Carmichael and Tattersall [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Discover a Latent Moses"
+        }, 
+        {
+            "author": 499, 
+            "title": "Discover a Latent Moses [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Tower of Glass (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Darwin, in the Fields"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Rub"
+        }, 
+        {
+            "author": 615, 
+            "title": "Sunpot (Part 3 of 4)"
+        }, 
+        {
+            "author": 499, 
+            "title": "No Planet Like Home"
+        }, 
+        {
+            "author": 499, 
+            "title": "Kindergarten"
+        }, 
+        {
+            "author": 499, 
+            "title": "Kindergarten [2]"
+        }, 
+        {
+            "author": 667, 
+            "title": "On Genetics and Consensus"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, April 1970)"
+        }, 
+        {
+            "author": 478, 
+            "title": "Allison, Carmichael and Tattersall"
+        }, 
+        {
+            "author": 675, 
+            "title": "Discover a Latent Moses"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Rub"
+        }, 
+        {
+            "author": 18, 
+            "title": "Darwin, the Curious"
+        }, 
+        {
+            "author": 18, 
+            "title": "Darwin, in the Fields"
+        }, 
+        {
+            "author": 18, 
+            "title": "Darwin, Wandering Home at Dawn"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Tower of Glass (Part 1 of 3)"
+        }, 
+        {
+            "author": 676, 
+            "title": "No Planet Like Home"
+        }, 
+        {
+            "author": 161, 
+            "title": "Kindergarten"
+        }
+    ]
+}

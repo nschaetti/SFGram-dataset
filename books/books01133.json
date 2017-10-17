@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1969", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v28n04_1969-05/Galaxy_v28n04_1969-05_jp2.zip&file=Galaxy_v28n04_1969-05_jp2/Galaxy_v28n04_1969-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fd/GALMAY69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        640, 
+        650, 
+        499, 
+        40, 
+        339, 
+        326, 
+        91, 
+        217, 
+        577, 
+        67, 
+        651, 
+        621, 
+        652, 
+        653, 
+        654, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1133, 
+    "contents": [
+        {
+            "author": 640, 
+            "title": "Little Blue Hawk"
+        }, 
+        {
+            "author": 640, 
+            "title": "Little Blue Hawk [2]"
+        }, 
+        {
+            "author": 640, 
+            "title": "Little Blue Hawk [3]"
+        }, 
+        {
+            "author": 650, 
+            "title": "A Man Spekith"
+        }, 
+        {
+            "author": 650, 
+            "title": "A Man Spekith [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 3 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Littleness of Earth and the Bigness of Man"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Max Valier and the Rocket-Propelled Airplane"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, May 1969)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, May 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, May 1969)"
+        }, 
+        {
+            "author": 217, 
+            "title": "A Man Spekith"
+        }, 
+        {
+            "author": 577, 
+            "title": "Little Blue Hawk"
+        }, 
+        {
+            "author": 67, 
+            "title": "And Now They Wake (Part 3 of 3)"
+        }, 
+        {
+            "author": 651, 
+            "title": "The Open Secrets"
+        }, 
+        {
+            "author": 621, 
+            "title": "Star Dream"
+        }, 
+        {
+            "author": 652, 
+            "title": "Coloured Element"
+        }, 
+        {
+            "author": 653, 
+            "title": "Killerbot!"
+        }, 
+        {
+            "author": 654, 
+            "title": "The Man Inside"
+        }
+    ]
+}

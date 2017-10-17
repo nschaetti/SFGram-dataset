@@ -1,0 +1,109 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1957", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v14n05_1957-09/Galaxy_v14n05_1957-09_jp2.zip&file=Galaxy_v14n05_1957-09_jp2/Galaxy_v14n05_1957-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/84/MLO4441.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        515, 
+        504, 
+        506, 
+        305, 
+        339, 
+        483, 
+        341, 
+        387, 
+        56, 
+        520, 
+        98, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1055, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "The Pod in the Barrier"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Pod in the Barrier [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Pod in the Barrier [3]"
+        }, 
+        {
+            "author": 515, 
+            "title": "Doat Age"
+        }, 
+        {
+            "author": 504, 
+            "title": "The Sly Bungerhop"
+        }, 
+        {
+            "author": 504, 
+            "title": "The Sly Bungerhop [2]"
+        }, 
+        {
+            "author": 504, 
+            "title": "The Sly Bungerhop [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Dark Star"
+        }, 
+        {
+            "author": 506, 
+            "title": "Shadow World"
+        }, 
+        {
+            "author": 506, 
+            "title": "Shadow World [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Shadow World [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Mea Culpa"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Earliest Robot"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, September 1957)"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Pod in the Barrier"
+        }, 
+        {
+            "author": 387, 
+            "title": "The Sly Bungerhop"
+        }, 
+        {
+            "author": 56, 
+            "title": "Shadow World"
+        }, 
+        {
+            "author": 520, 
+            "title": "Doat Age"
+        }, 
+        {
+            "author": 98, 
+            "title": "The Dark Star"
+        }
+    ]
+}

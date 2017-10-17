@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1958", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v16n03_1958-07_modified/Galaxy_v16n03_1958-07_modified_jp2.zip&file=Galaxy_v16n03_1958-07_modified_jp2/Galaxy_v16n03_1958-07_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/dd/MLO4452.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        506, 
+        523, 
+        519, 
+        305, 
+        326, 
+        339, 
+        483, 
+        167, 
+        32, 
+        30, 
+        40, 
+        214, 
+        443, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1065, 
+    "contents": [
+        {
+            "author": 506, 
+            "title": "The Back of Our Heads"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Back of Our Heads [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Back of Our Heads [3]"
+        }, 
+        {
+            "author": 523, 
+            "title": "We Never Mention Aunt Nora"
+        }, 
+        {
+            "author": 523, 
+            "title": "Man in a Quandary"
+        }, 
+        {
+            "author": 506, 
+            "title": "Bullet with His Name"
+        }, 
+        {
+            "author": 506, 
+            "title": "Bullet with His Name [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Bullet with His Name [3]"
+        }, 
+        {
+            "author": 523, 
+            "title": "Blank Form"
+        }, 
+        {
+            "author": 519, 
+            "title": "Innocent at Large"
+        }, 
+        {
+            "author": 519, 
+            "title": "Innocent at Large [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Innocent at Large [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Coming Soon"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, July 1958)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Igy Roundup"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, July 1958)"
+        }, 
+        {
+            "author": 167, 
+            "title": "The Back of Our Heads"
+        }, 
+        {
+            "author": 32, 
+            "title": "Bullet with His Name"
+        }, 
+        {
+            "author": 30, 
+            "title": "Innocent at Large"
+        }, 
+        {
+            "author": 40, 
+            "title": "We Never Mention Aunt Nora"
+        }, 
+        {
+            "author": 214, 
+            "title": "Man in a Quandary"
+        }, 
+        {
+            "author": 443, 
+            "title": "Blank Form"
+        }
+    ]
+}

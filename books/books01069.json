@@ -1,0 +1,113 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1958", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v17n01_1958-11/Galaxy_v17n01_1958-11_jp2.zip&file=Galaxy_v17n01_1958-11_jp2/Galaxy_v17n01_1958-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/ca/GALNOV1958.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        419, 
+        525, 
+        519, 
+        305, 
+        339, 
+        483, 
+        326, 
+        56, 
+        50, 
+        23, 
+        110, 
+        142, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1069, 
+    "contents": [
+        {
+            "author": 419, 
+            "title": "The Civilization Game"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Civilization Game [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Civilization Game [3]"
+        }, 
+        {
+            "author": 525, 
+            "title": "People Soup"
+        }, 
+        {
+            "author": 519, 
+            "title": "Birds of a Feather"
+        }, 
+        {
+            "author": 519, 
+            "title": "Birds of a Feather [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Birds of a Feather [3]"
+        }, 
+        {
+            "author": 525, 
+            "title": "No Substitutions"
+        }, 
+        {
+            "author": 519, 
+            "title": "Time Killer (Part 2 of 4)"
+        }, 
+        {
+            "author": 519, 
+            "title": "Time Killer (Part 2 of 4) [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Time Killer (Part 2 of 4) [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Tin Age"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The First Spaceship"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, November 1958)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, November 1958)"
+        }, 
+        {
+            "author": 56, 
+            "title": "The Civilization Game"
+        }, 
+        {
+            "author": 50, 
+            "title": "Birds of a Feather"
+        }, 
+        {
+            "author": 23, 
+            "title": "Time Killer (Part 2 of 4)"
+        }, 
+        {
+            "author": 110, 
+            "title": "People Soup"
+        }, 
+        {
+            "author": 142, 
+            "title": "No Substitutions"
+        }
+    ]
+}

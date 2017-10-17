@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1957", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v13n05_1957-03/Galaxy_v13n05_1957-03_jp2.zip&file=Galaxy_v13n05_1957-03_jp2/Galaxy_v13n05_1957-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/2a/MLO4435.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        506, 
+        472, 
+        499, 
+        305, 
+        326, 
+        339, 
+        483, 
+        172, 
+        507, 
+        204, 
+        341, 
+        508, 
+        30, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1049, 
+    "contents": [
+        {
+            "author": 506, 
+            "title": "The Ignoble Savages"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Ignoble Savages [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Ignoble Savages [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Other Celia"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Deep One"
+        }, 
+        {
+            "author": 472, 
+            "title": "Survival Type"
+        }, 
+        {
+            "author": 472, 
+            "title": "Survival Type [2]"
+        }, 
+        {
+            "author": 472, 
+            "title": "Survival Type [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Light"
+        }, 
+        {
+            "author": 499, 
+            "title": "An Eye for a What?"
+        }, 
+        {
+            "author": 499, 
+            "title": "An Eye for a What? [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "An Eye for a What? [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Personal Account"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, March 1957)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Great Pyramid, the Golden Section and Pi"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, March 1957)"
+        }, 
+        {
+            "author": 172, 
+            "title": "The Ignoble Savages"
+        }, 
+        {
+            "author": 507, 
+            "title": "Survival Type"
+        }, 
+        {
+            "author": 204, 
+            "title": "An Eye for a What?"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Other Celia"
+        }, 
+        {
+            "author": 508, 
+            "title": "The Deep One"
+        }, 
+        {
+            "author": 30, 
+            "title": "The Light"
+        }
+    ]
+}

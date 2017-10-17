@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1956", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v12n05_1956-09/Galaxy_v12n05_1956-09_jp2.zip&file=Galaxy_v12n05_1956-09_jp2/Galaxy_v12n05_1956-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b8/MLO4429.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        494, 
+        419, 
+        486, 
+        500, 
+        339, 
+        483, 
+        501, 
+        326, 
+        443, 
+        341, 
+        475, 
+        23, 
+        220, 
+        396, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1043, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Other Man"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Other Man [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Other Man [3]"
+        }, 
+        {
+            "author": 494, 
+            "title": "Nothing but the Best"
+        }, 
+        {
+            "author": 419, 
+            "title": "Verbal Agreement"
+        }, 
+        {
+            "author": 419, 
+            "title": "Verbal Agreement [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Verbal Agreement [3]"
+        }, 
+        {
+            "author": 486, 
+            "title": "Human Man's Burden"
+        }, 
+        {
+            "author": 494, 
+            "title": "Seeing-Eye Dog"
+        }, 
+        {
+            "author": 500, 
+            "title": "Chain Reaction"
+        }, 
+        {
+            "author": 500, 
+            "title": "Chain Reaction [2]"
+        }, 
+        {
+            "author": 500, 
+            "title": "Chain Reaction [3]"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Project Vanguard"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, September 1956)"
+        }, 
+        {
+            "author": 501, 
+            "title": "Review of the Nonfiction Work \"Mysteries of the North Pole\""
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, September 1956)"
+        }, 
+        {
+            "author": 443, 
+            "title": "Verbal Agreement"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Other Man"
+        }, 
+        {
+            "author": 475, 
+            "title": "Nothing but the Best"
+        }, 
+        {
+            "author": 23, 
+            "title": "Human Man's Burden"
+        }, 
+        {
+            "author": 220, 
+            "title": "Seeing-Eye Dog"
+        }, 
+        {
+            "author": 396, 
+            "title": "Chain Reaction"
+        }
+    ]
+}

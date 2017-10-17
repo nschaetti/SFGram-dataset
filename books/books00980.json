@@ -1,0 +1,130 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1951", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v02n01_1951-04/Galaxy_v02n01_1951-04_jp2.zip&file=Galaxy_v02n01_1951-04_jp2/Galaxy_v02n01_1951-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/7b/GALAPR1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        357, 
+        336, 
+        347, 
+        360, 
+        342, 
+        305, 
+        340, 
+        30, 
+        361, 
+        51, 
+        32, 
+        98, 
+        362, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 980, 
+    "contents": [
+        {
+            "author": 357, 
+            "title": "Nice Girl with Five Husbands"
+        }, 
+        {
+            "author": 357, 
+            "title": "Nice Girl with Five Husbands [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Inside Earth"
+        }, 
+        {
+            "author": 336, 
+            "title": "Inside Earth [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Inside Earth [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Inside Earth [4]"
+        }, 
+        {
+            "author": 347, 
+            "title": "Betelgeuse Bridge"
+        }, 
+        {
+            "author": 347, 
+            "title": "Betelgeuse Bridge [2]"
+        }, 
+        {
+            "author": 360, 
+            "title": "I, the Unspeakable"
+        }, 
+        {
+            "author": 360, 
+            "title": "I, the Unspeakable [2]"
+        }, 
+        {
+            "author": 360, 
+            "title": "I, the Unspeakable [3]"
+        }, 
+        {
+            "author": 347, 
+            "title": "Field Study"
+        }, 
+        {
+            "author": 347, 
+            "title": "Field Study [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Marching Morons"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Marching Morons [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Marching Morons [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Treasurer's Report"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five-Star Shelf (Galaxy, April 1951)"
+        }, 
+        {
+            "author": 30, 
+            "title": "Inside Earth"
+        }, 
+        {
+            "author": 361, 
+            "title": "I, the Unspeakable"
+        }, 
+        {
+            "author": 51, 
+            "title": "The Marching Morons"
+        }, 
+        {
+            "author": 32, 
+            "title": "Nice Girl with Five Husbands"
+        }, 
+        {
+            "author": 98, 
+            "title": "Betelgeuse Bridge"
+        }, 
+        {
+            "author": 362, 
+            "title": "Field Study"
+        }
+    ]
+}

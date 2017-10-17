@@ -1,0 +1,134 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1954", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v09n02_1954-11/Galaxy_v09n02_1954-11_jp2.zip&file=Galaxy_v09n02_1954-11_jp2/Galaxy_v09n02_1954-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fd/MLO4373.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        457, 
+        458, 
+        459, 
+        460, 
+        461, 
+        419, 
+        305, 
+        339, 
+        326, 
+        340, 
+        56, 
+        393, 
+        462, 
+        23, 
+        293, 
+        443, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1022, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "How-2"
+        }, 
+        {
+            "author": 363, 
+            "title": "How-2 [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "How-2 [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "How-2 [4]"
+        }, 
+        {
+            "author": 457, 
+            "title": "The Nostalgia Gene"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Laxian Key"
+        }, 
+        {
+            "author": 458, 
+            "title": "The Music Master of Ba"
+        }, 
+        {
+            "author": 459, 
+            "title": "The Music Master of Ba"
+        }, 
+        {
+            "author": 460, 
+            "title": "The Music Master of Ba"
+        }, 
+        {
+            "author": 461, 
+            "title": "Up for Renewal"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Age of Kindness"
+        }, 
+        {
+            "author": 363, 
+            "title": "Big Ancestor"
+        }, 
+        {
+            "author": 363, 
+            "title": "Big Ancestor [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Big Ancestor [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Better &Amp; Better?"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Asteroid Roundup"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, November 1954)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, November 1954)"
+        }, 
+        {
+            "author": 56, 
+            "title": "How-2"
+        }, 
+        {
+            "author": 393, 
+            "title": "Big Ancestor"
+        }, 
+        {
+            "author": 462, 
+            "title": "The Nostalgia Gene"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Laxian Key"
+        }, 
+        {
+            "author": 293, 
+            "title": "Up for Renewal"
+        }, 
+        {
+            "author": 443, 
+            "title": "The Age of Kindness"
+        }
+    ]
+}

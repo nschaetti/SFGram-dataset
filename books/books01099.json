@@ -1,0 +1,102 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1964", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v22n03_1964-02/Galaxy_v22n03_1964-02_jp2.zip&file=Galaxy_v22n03_1964-02_jp2/Galaxy_v22n03_1964-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/82/GALFEB1964.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        578, 
+        545, 
+        363, 
+        40, 
+        339, 
+        326, 
+        384, 
+        194, 
+        8, 
+        89, 
+        67, 
+        205, 
+        302
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1099, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "Grandmother Earth"
+        }, 
+        {
+            "author": 497, 
+            "title": "Grandmother Earth [2]"
+        }, 
+        {
+            "author": 578, 
+            "title": "Shamar's War"
+        }, 
+        {
+            "author": 578, 
+            "title": "Shamar's War [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Oh, to Be a Blobel!"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Star King (Part 2 of 2)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Star King (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Star King (Part 2 of 2) [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Paper Tiger"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Early Days of the Metric System"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1964)"
+        }, 
+        {
+            "author": 384, 
+            "title": "Grandmother Earth"
+        }, 
+        {
+            "author": 194, 
+            "title": "Shamar's War"
+        }, 
+        {
+            "author": 8, 
+            "title": "Oh, to Be a Blobel!"
+        }, 
+        {
+            "author": 89, 
+            "title": "The Star King (Part 2 of 2)"
+        }, 
+        {
+            "author": 67, 
+            "title": "A Bad Day for Vermin"
+        }, 
+        {
+            "author": 205, 
+            "title": "The Awakening"
+        }
+    ]
+}

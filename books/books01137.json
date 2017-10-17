@@ -1,0 +1,131 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1969", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v29n02_1969-10/Galaxy_v29n02_1969-10_jp2.zip&file=Galaxy_v29n02_1969-10_jp2/Galaxy_v29n02_1969-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/23/GALOCT69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        40, 
+        339, 
+        91, 
+        602, 
+        663, 
+        63, 
+        204, 
+        664, 
+        665, 
+        630, 
+        666, 
+        662, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1137, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Tomorrow Cum Laude"
+        }, 
+        {
+            "author": 499, 
+            "title": "Tomorrow Cum Laude [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Tomorrow Cum Laude [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Tomorrow Cum Laude [4]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The God of Cool"
+        }, 
+        {
+            "author": 326, 
+            "title": "Element of Chance"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Soul Machine"
+        }, 
+        {
+            "author": 499, 
+            "title": "Ersalz's Rule"
+        }, 
+        {
+            "author": 326, 
+            "title": "Take the B Train"
+        }, 
+        {
+            "author": 499, 
+            "title": "Take the B Train [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Stella"
+        }, 
+        {
+            "author": 326, 
+            "title": "Dune Messiah (Part 4 of 5)"
+        }, 
+        {
+            "author": 40, 
+            "title": "What Happened On 18 December 1955"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information (Galaxy Magazine, October 1969)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, October 1969)"
+        }, 
+        {
+            "author": 602, 
+            "title": "Tomorrow Cum Laude"
+        }, 
+        {
+            "author": 663, 
+            "title": "Take the B Train"
+        }, 
+        {
+            "author": 63, 
+            "title": "Dune Messiah (Part 4 of 5)"
+        }, 
+        {
+            "author": 204, 
+            "title": "Truly Human"
+        }, 
+        {
+            "author": 664, 
+            "title": "The God of Cool"
+        }, 
+        {
+            "author": 665, 
+            "title": "Element of Chance"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Soul Machine"
+        }, 
+        {
+            "author": 666, 
+            "title": "Ersalz's Rule"
+        }, 
+        {
+            "author": 662, 
+            "title": "Stella"
+        }
+    ]
+}

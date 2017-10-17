@@ -1,0 +1,160 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1960", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v19n01_1960-10/Galaxy_v19n01_1960-10_jp2.zip&file=Galaxy_v19n01_1960-10_jp2/Galaxy_v19n01_1960-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/6b/GALOCT1960.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        419, 
+        506, 
+        519, 
+        553, 
+        556, 
+        305, 
+        339, 
+        483, 
+        326, 
+        179, 
+        558, 
+        105, 
+        166, 
+        284, 
+        211, 
+        278, 
+        251, 
+        401, 
+        315, 
+        302
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1081, 
+    "contents": [
+        {
+            "author": 419, 
+            "title": "World in a Bottle"
+        }, 
+        {
+            "author": 419, 
+            "title": "World in a Bottle [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "World in a Bottle [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Hills of Home"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Hills of Home [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Beach Scene"
+        }, 
+        {
+            "author": 553, 
+            "title": "The Imitation of Earth"
+        }, 
+        {
+            "author": 419, 
+            "title": "Cry Snooker"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Stentorii Luggage"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Stentorii Luggage [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Stentorii Luggage [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "A Fall of Glass"
+        }, 
+        {
+            "author": 556, 
+            "title": "The Hours Are Good"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Immortals"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Immortals [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Immortals [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Notes"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Air On the Moon"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, October 1960)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1960)"
+        }, 
+        {
+            "author": 179, 
+            "title": "World in a Bottle"
+        }, 
+        {
+            "author": 558, 
+            "title": "The Stentorii Luggage"
+        }, 
+        {
+            "author": 105, 
+            "title": "The Immortals"
+        }, 
+        {
+            "author": 166, 
+            "title": "The Hills of Home"
+        }, 
+        {
+            "author": 284, 
+            "title": "Beach Scene"
+        }, 
+        {
+            "author": 211, 
+            "title": "The Imitation of Earth"
+        }, 
+        {
+            "author": 278, 
+            "title": "Cry Snooker"
+        }, 
+        {
+            "author": 251, 
+            "title": "A Fall of Glass"
+        }, 
+        {
+            "author": 401, 
+            "title": "Origins of the Galactic Short-Snorter"
+        }, 
+        {
+            "author": 315, 
+            "title": "The Hours Are Good"
+        }
+    ]
+}

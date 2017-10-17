@@ -1,0 +1,133 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1956", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/Galaxy_v12n03_1956-07/Galaxy_v12n03_1956-07_jp2.zip&file=Galaxy_v12n03_1956-07_jp2/Galaxy_v12n03_1956-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/05/MLO4427.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        486, 
+        490, 
+        471, 
+        476, 
+        497, 
+        305, 
+        326, 
+        339, 
+        483, 
+        56, 
+        341, 
+        498, 
+        55, 
+        23, 
+        423, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1041, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Drop Dead"
+        }, 
+        {
+            "author": 363, 
+            "title": "Drop Dead [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Drop Dead [3]"
+        }, 
+        {
+            "author": 486, 
+            "title": "Gypped"
+        }, 
+        {
+            "author": 490, 
+            "title": "Writing of the Rat"
+        }, 
+        {
+            "author": 471, 
+            "title": "Bad Medicine"
+        }, 
+        {
+            "author": 471, 
+            "title": "Bad Medicine [2]"
+        }, 
+        {
+            "author": 471, 
+            "title": "Bad Medicine [3]"
+        }, 
+        {
+            "author": 476, 
+            "title": "All the Things You Are"
+        }, 
+        {
+            "author": 476, 
+            "title": "Horrer Howce"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Skills of Xanadu"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Skills of Xanadu [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Skills of Xanadu [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Now Look!"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, July 1956)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Welcome to Reality C-Ti"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, July 1956)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Drop Dead"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Skills of Xanadu"
+        }, 
+        {
+            "author": 498, 
+            "title": "Gypped"
+        }, 
+        {
+            "author": 55, 
+            "title": "Writing of the Rat"
+        }, 
+        {
+            "author": 23, 
+            "title": "Bad Medicine"
+        }, 
+        {
+            "author": 23, 
+            "title": "All the Things You Are"
+        }, 
+        {
+            "author": 423, 
+            "title": "Horrer Howce"
+        }
+    ]
+}

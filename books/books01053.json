@@ -1,0 +1,108 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1957", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/Galaxy_v14n03_1957-07/Galaxy_v14n03_1957-07_jp2.zip&file=Galaxy_v14n03_1957-07_jp2/Galaxy_v14n03_1957-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/26/MLO4439.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        513, 
+        504, 
+        419, 
+        305, 
+        326, 
+        339, 
+        483, 
+        30, 
+        514, 
+        23, 
+        121, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1053, 
+    "contents": [
+        {
+            "author": 513, 
+            "title": "A World Called Maanerek"
+        }, 
+        {
+            "author": 513, 
+            "title": "A World Called Maanerek [2]"
+        }, 
+        {
+            "author": 513, 
+            "title": "A Wind Is Rising"
+        }, 
+        {
+            "author": 504, 
+            "title": "Help! I Am Dr. Morris Goldpepper"
+        }, 
+        {
+            "author": 504, 
+            "title": "Help! I Am Dr. Morris Goldpepper [2]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Help! I Am Dr. Morris Goldpepper [3]"
+        }, 
+        {
+            "author": 513, 
+            "title": "Growing Up On Big Muddy"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Deaths of Ben Baxter"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Deaths of Ben Baxter [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Deaths of Ben Baxter [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "You Were Saying?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, July 1957)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Moon Contract"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, July 1957)"
+        }, 
+        {
+            "author": 30, 
+            "title": "A World Called Maanerek"
+        }, 
+        {
+            "author": 514, 
+            "title": "Help! I Am Dr. Morris Goldpepper"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Deaths of Ben Baxter"
+        }, 
+        {
+            "author": 23, 
+            "title": "A Wind Is Rising"
+        }, 
+        {
+            "author": 121, 
+            "title": "Growing Up On Big Muddy"
+        }
+    ]
+}

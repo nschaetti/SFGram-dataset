@@ -1,0 +1,144 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1951", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v01n04_1951-01/Galaxy_v01n04_1951-01_jp2.zip&file=Galaxy_v01n04_1951-01_jp2/Galaxy_v01n04_1951-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f8/GALJAN1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        348, 
+        351, 
+        352, 
+        353, 
+        347, 
+        342, 
+        305, 
+        340, 
+        326, 
+        341, 
+        218, 
+        354, 
+        3, 
+        58, 
+        137, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 977, 
+    "contents": [
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 1 of 3)"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 1 of 3) [5]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 1 of 3) [6]"
+        }, 
+        {
+            "author": 351, 
+            "title": "Dark Interlude"
+        }, 
+        {
+            "author": 352, 
+            "title": "Rule of Three"
+        }, 
+        {
+            "author": 352, 
+            "title": "Rule of Three [2]"
+        }, 
+        {
+            "author": 352, 
+            "title": "Rule of Three [3]"
+        }, 
+        {
+            "author": 353, 
+            "title": "Made to Measure"
+        }, 
+        {
+            "author": 353, 
+            "title": "Made to Measure [2]"
+        }, 
+        {
+            "author": 353, 
+            "title": "Made to Measure [3]"
+        }, 
+        {
+            "author": 353, 
+            "title": "Made to Measure [4]"
+        }, 
+        {
+            "author": 347, 
+            "title": "Susceptibility"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Reluctant Heroes"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Reluctant Heroes [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Reluctant Heroes [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Old Business and New"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, January 1951)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Next Month's Contents Page (Galaxy, January 1951)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Rule of Three"
+        }, 
+        {
+            "author": 218, 
+            "title": "Made to Measure"
+        }, 
+        {
+            "author": 354, 
+            "title": "The Reluctant Heroes"
+        }, 
+        {
+            "author": 3, 
+            "title": "Tyrann (Part 1 of 3)"
+        }, 
+        {
+            "author": 58, 
+            "title": "Dark Interlude"
+        }, 
+        {
+            "author": 137, 
+            "title": "Susceptibility"
+        }
+    ]
+}

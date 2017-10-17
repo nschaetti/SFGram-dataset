@@ -1,0 +1,182 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1967", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v26n01_1967-10_modified/Galaxy_v26n01_1967-10_modified_jp2.zip&file=Galaxy_v26n01_1967-10_modified_jp2/Galaxy_v26n01_1967-10_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/29/GALOCT67.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        497, 
+        545, 
+        619, 
+        620, 
+        40, 
+        326, 
+        339, 
+        91, 
+        305, 
+        95, 
+        591, 
+        30, 
+        302
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1119, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Damnation Alley"
+        }, 
+        {
+            "author": 499, 
+            "title": "Damnation Alley [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Damnation Alley [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Damnation Alley [4]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [4]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [5]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [6]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [7]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [8]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [9]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [10]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [11]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Poulfinch's Mythology [12]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Transmogrification of Wamba's Revenge"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Transmogrification of Wamba's Revenge [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Transmogrification of Wamba's Revenge [3]"
+        }, 
+        {
+            "author": 619, 
+            "title": "Understanding"
+        }, 
+        {
+            "author": 619, 
+            "title": "Understanding [2]"
+        }, 
+        {
+            "author": 619, 
+            "title": "Understanding [3]"
+        }, 
+        {
+            "author": 619, 
+            "title": "Understanding [4]"
+        }, 
+        {
+            "author": 620, 
+            "title": "A Galaxy of Fashion"
+        }, 
+        {
+            "author": 620, 
+            "title": "A Galaxy of Fashion [2]"
+        }, 
+        {
+            "author": 620, 
+            "title": "A Galaxy of Fashion [3]"
+        }, 
+        {
+            "author": 620, 
+            "title": "A Galaxy of Fashion [4]"
+        }, 
+        {
+            "author": 620, 
+            "title": "A Galaxy of Fashion [5]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Thirty Long Years"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1967)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Worst of All Comets"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, October 1967)"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Transmogrification of Wamba's Revenge"
+        }, 
+        {
+            "author": 95, 
+            "title": "Understanding"
+        }, 
+        {
+            "author": 591, 
+            "title": "Damnation Alley"
+        }, 
+        {
+            "author": 40, 
+            "title": "A Galaxy of Fashion"
+        }, 
+        {
+            "author": 30, 
+            "title": "Poulfinch's Mythology"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1956", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v12n04_1956-08/Galaxy_v12n04_1956-08_jp2.zip&file=Galaxy_v12n04_1956-08_jp2/Galaxy_v12n04_1956-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c4/MLO4428.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        419, 
+        480, 
+        363, 
+        499, 
+        471, 
+        326, 
+        339, 
+        483, 
+        98, 
+        341, 
+        56, 
+        204, 
+        23, 
+        55, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1042, 
+    "contents": [
+        {
+            "author": 419, 
+            "title": "Time in Advance"
+        }, 
+        {
+            "author": 419, 
+            "title": "Time in Advance [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Time in Advance [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Honorable Opponent"
+        }, 
+        {
+            "author": 480, 
+            "title": "This Way to the Regress"
+        }, 
+        {
+            "author": 363, 
+            "title": "Early Model"
+        }, 
+        {
+            "author": 363, 
+            "title": "Early Model [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Early Model [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Genius Heap"
+        }, 
+        {
+            "author": 471, 
+            "title": "The Claustrophile"
+        }, 
+        {
+            "author": 471, 
+            "title": "The Claustrophile [2]"
+        }, 
+        {
+            "author": 471, 
+            "title": "The Claustrophile [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1956)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Demotion of Pluto"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1956)"
+        }, 
+        {
+            "author": 98, 
+            "title": "Time in Advance"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Claustrophile"
+        }, 
+        {
+            "author": 56, 
+            "title": "Honorable Opponent"
+        }, 
+        {
+            "author": 204, 
+            "title": "This Way to the Regress"
+        }, 
+        {
+            "author": 23, 
+            "title": "Early Model"
+        }, 
+        {
+            "author": 55, 
+            "title": "The Genius Heap"
+        }
+    ]
+}

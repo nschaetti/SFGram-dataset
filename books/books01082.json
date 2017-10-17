@@ -1,0 +1,157 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1960", 
+    "cover": "https://ia600305.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/Galaxy_v19n02_1960-12/Galaxy_v19n02_1960-12_jp2.zip&file=Galaxy_v19n02_1960-12_jp2/Galaxy_v19n02_1960-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b1/GALDEC1960.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        552, 
+        326, 
+        395, 
+        559, 
+        519, 
+        504, 
+        419, 
+        305, 
+        339, 
+        483, 
+        384, 
+        74, 
+        94, 
+        220, 
+        192, 
+        121, 
+        225, 
+        142, 
+        260, 
+        302
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1082, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Wrong World"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Wrong World [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Wrong World [3]"
+        }, 
+        {
+            "author": 552, 
+            "title": "Jamieson"
+        }, 
+        {
+            "author": 326, 
+            "title": "Metamorphosis"
+        }, 
+        {
+            "author": 326, 
+            "title": "Metamorphosis [2]"
+        }, 
+        {
+            "author": 395, 
+            "title": "Snuffles"
+        }, 
+        {
+            "author": 395, 
+            "title": "Snuffles [2]"
+        }, 
+        {
+            "author": 559, 
+            "title": "Subject to Change"
+        }, 
+        {
+            "author": 559, 
+            "title": "Subject to Change [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Round-and-Round Trip"
+        }, 
+        {
+            "author": 519, 
+            "title": "Blueblood"
+        }, 
+        {
+            "author": 519, 
+            "title": "Blueblood [2]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Bad Memory"
+        }, 
+        {
+            "author": 419, 
+            "title": "Fighting Spirit"
+        }, 
+        {
+            "author": 419, 
+            "title": "Fighting Spirit [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Reactions"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Moon Worm"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, December 1960)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1960)"
+        }, 
+        {
+            "author": 384, 
+            "title": "The Wrong World"
+        }, 
+        {
+            "author": 74, 
+            "title": "Snuffles"
+        }, 
+        {
+            "author": 94, 
+            "title": "Round-and-Round Trip"
+        }, 
+        {
+            "author": 220, 
+            "title": "Fighting Spirit"
+        }, 
+        {
+            "author": 192, 
+            "title": "Jamieson"
+        }, 
+        {
+            "author": 121, 
+            "title": "Metamorphosis"
+        }, 
+        {
+            "author": 225, 
+            "title": "Subject to Change"
+        }, 
+        {
+            "author": 142, 
+            "title": "Blueblood"
+        }, 
+        {
+            "author": 260, 
+            "title": "Bad Memory"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1961", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v19n04_1961-04/Galaxy_v19n04_1961-04_jp2.zip&file=Galaxy_v19n04_1961-04_jp2/Galaxy_v19n04_1961-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/83/GALAPR1961.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        419, 
+        559, 
+        499, 
+        562, 
+        305, 
+        339, 
+        483, 
+        326, 
+        561, 
+        384, 
+        341, 
+        32, 
+        211, 
+        220, 
+        74, 
+        400, 
+        302
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1084, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "Planeteer"
+        }, 
+        {
+            "author": 497, 
+            "title": "Planeteer [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Planeteer [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Kreativity for Kats"
+        }, 
+        {
+            "author": 419, 
+            "title": "Scent Makes a Difference"
+        }, 
+        {
+            "author": 419, 
+            "title": "Scent Makes a Difference [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "I Can Do Anything"
+        }, 
+        {
+            "author": 419, 
+            "title": "I Can Do Anything [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "I Can Do Anything [3]"
+        }, 
+        {
+            "author": 559, 
+            "title": "Homey Atmosphere"
+        }, 
+        {
+            "author": 559, 
+            "title": "Homey Atmosphere [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "All the People"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Feeling"
+        }, 
+        {
+            "author": 562, 
+            "title": "Tandy's Story"
+        }, 
+        {
+            "author": 562, 
+            "title": "Tandy's Story [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Puzzles for Plotters"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Puzzle Called Gegenschein"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, April 1961)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1961)"
+        }, 
+        {
+            "author": 561, 
+            "title": "Planeteer"
+        }, 
+        {
+            "author": 384, 
+            "title": "I Can Do Anything"
+        }, 
+        {
+            "author": 341, 
+            "title": "Tandy's Story"
+        }, 
+        {
+            "author": 32, 
+            "title": "Kreativity for Kats"
+        }, 
+        {
+            "author": 211, 
+            "title": "Scent Makes a Difference"
+        }, 
+        {
+            "author": 220, 
+            "title": "Homey Atmosphere"
+        }, 
+        {
+            "author": 74, 
+            "title": "All the People"
+        }, 
+        {
+            "author": 400, 
+            "title": "The Feeling"
+        }
+    ]
+}

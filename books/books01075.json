@@ -1,0 +1,143 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1959", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v18n01_1959-10/Galaxy_v18n01_1959-10_jp2.zip&file=Galaxy_v18n01_1959-10_jp2/Galaxy_v18n01_1959-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/11/GALOCT1959.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        419, 
+        525, 
+        545, 
+        506, 
+        305, 
+        339, 
+        326, 
+        483, 
+        546, 
+        40, 
+        493, 
+        56, 
+        547, 
+        548, 
+        302
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 1075, 
+    "contents": [
+        {
+            "author": 419, 
+            "title": "Someone to Watch Over Me"
+        }, 
+        {
+            "author": 419, 
+            "title": "Someone to Watch Over Me [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Someone to Watch Over Me [3]"
+        }, 
+        {
+            "author": 525, 
+            "title": "Last of the Morticians"
+        }, 
+        {
+            "author": 419, 
+            "title": "A Death in the House"
+        }, 
+        {
+            "author": 419, 
+            "title": "A Death in the House [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "A Death in the House [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "King of the Planet"
+        }, 
+        {
+            "author": 545, 
+            "title": "Silence"
+        }, 
+        {
+            "author": 545, 
+            "title": "Silence [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Silence [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "True Self"
+        }, 
+        {
+            "author": 506, 
+            "title": "Way Up Yonder"
+        }, 
+        {
+            "author": 506, 
+            "title": "Way Up Yonder [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Way Up Yonder [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Other People's Mail"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Accident That Didn't Happen"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1959)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, October 1969)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Review of \"Van Nostrand's Scientific Encyclopedia\""
+        }, 
+        {
+            "author": 546, 
+            "title": "Silence"
+        }, 
+        {
+            "author": 40, 
+            "title": "Way Up Yonder"
+        }, 
+        {
+            "author": 305, 
+            "title": "Someone to Watch Over Me"
+        }, 
+        {
+            "author": 493, 
+            "title": "Last of the Morticians"
+        }, 
+        {
+            "author": 56, 
+            "title": "A Death in the House"
+        }, 
+        {
+            "author": 547, 
+            "title": "King of the Planet"
+        }, 
+        {
+            "author": 548, 
+            "title": "True Self"
+        }
+    ]
+}

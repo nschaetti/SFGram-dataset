@@ -177752,4 +177752,46749 @@ sg194
 g1899
 sg196
 I1
-sba.
+sbag1
+(g2
+g3
+Ntp68220
+Rp68221
+(dp68222
+g49
+(lp68223
+sg30
+(lp68224
+sg86
+I302
+sg82
+(lp68225
+I2
+asg13
+I1994
+sg34
+VGalaxy Magazine January 1994
+p68226
+sg11
+Vhttps://ia801402.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/Galaxy_2nd_Series_v01n01_1994-01/Galaxy_2nd_Series_v01n01_1994-01_jp2.zip&file=Galaxy_2nd_Series_v01n01_1994-01_jp2/Galaxy_2nd_Series_v01n01_1994-01_0000.jp2&scale=0&rotate=0
+p68227
+sS'cover_art'
+p68228
+S'http://www.philsp.com/data/images/g/galaxy_199401-02.jpg'
+p68229
+sg14
+VGalaxy Magazine
+p68230
+sg16
+(lp68231
+sg75
+(lp68232
+I303
+aI103
+aI23
+aI304
+aI305
+aI50
+aI40
+aI306
+aI307
+aI308
+aI309
+aI310
+aI311
+aI312
+aI302
+asg20
+(lp68233
+sg25
+I971
+sS'contents'
+p68234
+(lp68235
+(dp68236
+g86
+I303
+sg34
+VEditorial: Durston's Last Ride (Galaxy, #1)
+p68237
+sa(dp68238
+g86
+I103
+sg34
+VThe Man with Nine Lives: Vincent Price 1911 - 1993
+p68239
+sa(dp68240
+g86
+I23
+sg34
+VThe City of the Dead (Part 1 of 3)
+p68241
+sa(dp68242
+g86
+I304
+sg34
+VVampire's Fast (Part 1 of 2)
+p68243
+sa(dp68244
+g86
+I305
+sg34
+VThat's the Spirit
+p68245
+sa(dp68246
+g86
+I50
+sg34
+VThe Nature of the Place
+p68247
+sa(dp68248
+g86
+I40
+sg34
+VPythias
+p68249
+sa(dp68250
+g86
+I306
+sg34
+VPerfectly Preserved
+p68251
+sa(dp68252
+g86
+I307
+sg34
+VWhat Comes Naturally
+p68253
+sa(dp68254
+g86
+I308
+sg34
+VCigarbox
+p68255
+sa(dp68256
+g86
+I309
+sg34
+VLet Sleeping Sigils Lie
+p68257
+sa(dp68258
+g86
+I310
+sg34
+VLast Appointment
+p68259
+sa(dp68260
+g86
+I311
+sg34
+VCyberactions
+p68261
+sa(dp68262
+g86
+I312
+sg34
+VIn the Canal Zone
+p68263
+sasbag1
+(g2
+g3
+Ntp68264
+Rp68265
+(dp68266
+g49
+(lp68267
+sg30
+(lp68268
+sg86
+I302
+sg82
+(lp68269
+I2
+asg13
+I1995
+sg34
+VGalaxy Magazine January 1995
+p68270
+sg11
+Vhttps://ia801309.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_2nd_Series_v02n01_1995-01/Galaxy_2nd_Series_v02n01_1995-01_jp2.zip&file=Galaxy_2nd_Series_v02n01_1995-01_jp2/Galaxy_2nd_Series_v02n01_1995-01_0000.jp2&scale=0&rotate=0
+p68271
+sg68228
+S'http://www.philsp.com/data/images/g/galaxy_199501-02.jpg'
+p68272
+sg14
+g68230
+sg16
+(lp68273
+sg75
+(lp68274
+I303
+aI313
+aI314
+aI23
+aI50
+aI315
+aI316
+aI317
+aI318
+aI319
+aI320
+aI63
+aI321
+aI322
+aI323
+aI324
+aI325
+aI312
+aI302
+asg20
+(lp68275
+sg25
+I972
+sg68234
+(lp68276
+(dp68277
+g86
+I303
+sg34
+VEditorial (Galaxy, #7)
+p68278
+sa(dp68279
+g86
+I313
+sg34
+VMy Life Among the Stars: Balance of Terror (Galaxy, #7)
+p68280
+sa(dp68281
+g86
+I314
+sg34
+VFor Your Information (Galaxy, #7)
+p68282
+sa(dp68283
+g86
+I23
+sg34
+VSeven Soup Rivers
+p68284
+sa(dp68285
+g86
+I50
+sg34
+VMugwump Four
+p68286
+sa(dp68287
+g86
+I315
+sg34
+VLulungomeena
+p68288
+sa(dp68289
+g86
+I316
+sg34
+VSupport Unlimited
+p68290
+sa(dp68291
+g86
+I317
+sg34
+VMidnight Pearls Blue
+p68292
+sa(dp68293
+g86
+I318
+sg34
+VThoroughly Modern Magic
+p68294
+sa(dp68295
+g86
+I319
+sg34
+VThis Space for Rent
+p68296
+sa(dp68297
+g86
+I320
+sg34
+VThe Temptation of Harringay
+p68298
+sa(dp68299
+g86
+I63
+sg34
+VOld Rambling House
+p68300
+sa(dp68301
+g86
+I321
+sg34
+VSongs of the Soul
+p68302
+sa(dp68303
+g86
+I322
+sg34
+VThe Client From Hell
+p68304
+sa(dp68305
+g86
+I323
+sg34
+VJust Rubberface and Me
+p68306
+sa(dp68307
+g86
+I324
+sg34
+VThe Greatest Loss
+p68308
+sa(dp68309
+g86
+I325
+sg34
+VCoke Bottle Lenses
+p68310
+sa(dp68311
+g86
+I312
+sg34
+VThe Dead-End
+p68312
+sasbag1
+(g2
+g3
+Ntp68313
+Rp68314
+(dp68315
+g49
+(lp68316
+sg30
+(lp68317
+sg86
+I302
+sg82
+(lp68318
+I2
+asg13
+I1995
+sg34
+VGalaxy Magazine March 1995
+p68319
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_2nd_Series_v02n02_1995-03/Galaxy_2nd_Series_v02n02_1995-03_jp2.zip&file=Galaxy_2nd_Series_v02n02_1995-03_jp2/Galaxy_2nd_Series_v02n02_1995-03_0000.jp2&scale=0&rotate=0
+p68320
+sg68228
+S'http://www.philsp.com/data/images/g/galaxy_199503-04.jpg'
+p68321
+sg14
+g68230
+sg16
+(lp68322
+sg75
+(lp68323
+I303
+aI326
+aI313
+aI314
+aI312
+aI315
+aI327
+aI328
+aI325
+aI329
+aI330
+aI307
+aI331
+aI332
+aI333
+aI334
+aI335
+aI302
+asg20
+(lp68324
+sg25
+I973
+sg68234
+(lp68325
+(dp68326
+g86
+I303
+sg34
+VEditorial (Galaxy, #8)
+p68327
+sa(dp68328
+g86
+I326
+sg34
+VJiffy Thoroughthink's 5-Star Book Review
+p68329
+sa(dp68330
+g86
+I313
+sg34
+VTrek Diary: Court Martial
+p68331
+sa(dp68332
+g86
+I314
+sg34
+VFor Your Information (Galaxy, #8)
+p68333
+sa(dp68334
+g86
+I312
+sg34
+VReckless
+p68335
+sa(dp68336
+g86
+I315
+sg34
+VThe Man in the Mailbag
+p68337
+sa(dp68338
+g86
+I327
+sg34
+VMe and My Shadow
+p68339
+sa(dp68340
+g86
+I328
+sg34
+VCrystal
+p68341
+sa(dp68342
+g86
+I325
+sg34
+VI'm Dying Out Here
+p68343
+sa(dp68344
+g86
+I329
+sg34
+VDances with Elves
+p68345
+sa(dp68346
+g86
+I330
+sg34
+VBad Moon Rising
+p68347
+sa(dp68348
+g86
+I307
+sg34
+VSyrup of Greep
+p68349
+sa(dp68350
+g86
+I331
+sg34
+VThe Difference a Day Makes
+p68351
+sa(dp68352
+g86
+I325
+sg34
+VKnockout
+p68353
+sa(dp68354
+g86
+I325
+sg34
+VDessert
+p68355
+sa(dp68356
+g86
+I332
+sg34
+VSacrifice
+p68357
+sa(dp68358
+g86
+I333
+sg34
+VThat's Progress
+p68359
+sa(dp68360
+g86
+I334
+sg34
+VMutant
+p68361
+sa(dp68362
+g86
+I335
+sg34
+VSilky, Slinky, Fabulous -- To Die For
+p68363
+sasbag1
+(g2
+g3
+Ntp68364
+Rp68365
+(dp68366
+g49
+(lp68367
+sg30
+(lp68368
+sg86
+I302
+sg82
+(lp68369
+I2
+asg13
+I1950
+sg34
+VGalaxy Magazine October 1950
+p68370
+sg11
+Vhttps://ia801303.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v01n01_1950-10/Galaxy_v01n01_1950-10_jp2.zip&file=Galaxy_v01n01_1950-10_jp2/Galaxy_v01n01_1950-10_0000.jp2&scale=0&rotate=0
+p68371
+sg68228
+S'http://www.isfdb.org/wiki/images/b/bf/GALOCT1950.jpg'
+p68372
+sg14
+g68230
+sg16
+(lp68373
+sg75
+(lp68374
+I336
+aI337
+aI326
+aI338
+aI305
+aI339
+aI340
+aI341
+aI36
+aI56
+aI122
+aI32
+aI58
+aI3
+aI302
+asg20
+(lp68375
+sg25
+I974
+sg68234
+(lp68376
+(dp68377
+g86
+I336
+sg34
+VTime Quarry (Part 1 of 3)
+p68378
+sa(dp68379
+g86
+I336
+sg34
+VTime Quarry (Part 1 of 3) [2]
+p68380
+sa(dp68381
+g86
+I336
+sg34
+VTime Quarry (Part 1 of 3) [3]
+p68382
+sa(dp68383
+g86
+I336
+sg34
+VTime Quarry (Part 1 of 3) [4]
+p68384
+sa(dp68385
+g86
+I336
+sg34
+VTime Quarry (Part 1 of 3) [5]
+p68386
+sa(dp68387
+g86
+I337
+sg34
+VThird From the Sun
+p68388
+sa(dp68389
+g86
+I326
+sg34
+VFlying Saucers: Friend, Foe or Fantasy?
+p68390
+sa(dp68391
+g86
+I337
+sg34
+VThe Stars Are the Styx
+p68392
+sa(dp68393
+g86
+I326
+sg34
+VLater Than You Think
+p68394
+sa(dp68395
+g86
+I338
+sg34
+VContagion
+p68396
+sa(dp68397
+g86
+I326
+sg34
+VDarwinian Pool Room
+p68398
+sa(dp68399
+g86
+I305
+sg34
+VFor Adults Only
+p68400
+sa(dp68401
+g86
+I339
+sg34
+VFlying Saucers: Friend, Foe or Fantasy?
+p68402
+sa(dp68403
+g86
+I326
+sg34
+VForecast (Galaxy, October 1950)
+p68404
+sa(dp68405
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, October 1950)
+p68406
+sa(dp68407
+g86
+I305
+sg34
+VYou'll Never See It in Galaxy
+p68408
+sa(dp68409
+g86
+I341
+sg34
+VThe Stars Are the Styx
+p68410
+sa(dp68411
+g86
+I36
+sg34
+VContagion
+p68412
+sa(dp68413
+g86
+I56
+sg34
+VTime Quarry (Part 1 of 3)
+p68414
+sa(dp68415
+g86
+I122
+sg34
+VThird From the Sun
+p68416
+sa(dp68417
+g86
+I32
+sg34
+VLater Than You Think
+p68418
+sa(dp68419
+g86
+I58
+sg34
+VThe Last Martian
+p68420
+sa(dp68421
+g86
+I3
+sg34
+VDarwinian Pool Room
+p68422
+sasbag1
+(g2
+g3
+Ntp68423
+Rp68424
+(dp68425
+g49
+(lp68426
+sg30
+(lp68427
+sg86
+I302
+sg82
+(lp68428
+I2
+asg13
+I1950
+sg34
+VGalaxy Magazine November 1950
+p68429
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v01n02_1950-11/Galaxy_v01n02_1950-11_jp2.zip&file=Galaxy_v01n02_1950-11_jp2/Galaxy_v01n02_1950-11_0000.jp2&scale=0&rotate=0
+p68430
+sg68228
+S'http://www.isfdb.org/wiki/images/8/8c/GALNOV1950.jpg'
+p68431
+sg14
+g68230
+sg16
+(lp68432
+sg75
+(lp68433
+I342
+aI343
+aI338
+aI344
+aI336
+aI305
+aI345
+aI326
+aI340
+aI58
+aI125
+aI56
+aI3
+aI32
+aI204
+aI302
+asg20
+(lp68434
+sg25
+I975
+sg68234
+(lp68435
+(dp68436
+g86
+I342
+sg34
+VHoneymoon in Hell
+p68437
+sa(dp68438
+g86
+I343
+sg34
+VMisbegotten Missionary
+p68439
+sa(dp68440
+g86
+I338
+sg34
+VTransfer Point
+p68441
+sa(dp68442
+g86
+I344
+sg34
+VComing Attraction
+p68443
+sa(dp68444
+g86
+I336
+sg34
+VTo Serve Man
+p68445
+sa(dp68446
+g86
+I336
+sg34
+VTime Quarry (Part 2 of 3)
+p68447
+sa(dp68448
+g86
+I336
+sg34
+VTime Quarry (Part 2 of 3) [2]
+p68449
+sa(dp68450
+g86
+I336
+sg34
+VTime Quarry (Part 2 of 3) [3]
+p68451
+sa(dp68452
+g86
+I305
+sg34
+VIt's All Yours
+p68453
+sa(dp68454
+g86
+I345
+sg34
+VLands of Yesterday
+p68455
+sa(dp68456
+g86
+I326
+sg34
+VForecast (Galaxy, November 1950)
+p68457
+sa(dp68458
+g86
+I326
+sg34
+VNext Month's Contents Page (Galaxy, November 1950)
+p68459
+sa(dp68460
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, November 1950)
+p68461
+sa(dp68462
+g86
+I326
+sg34
+VFlying Saucer Contest
+p68463
+sa(dp68464
+g86
+I58
+sg34
+VHoneymoon in Hell
+p68465
+sa(dp68466
+g86
+I125
+sg34
+VTransfer Point
+p68467
+sa(dp68468
+g86
+I56
+sg34
+VTime Quarry (Part 2 of 3)
+p68469
+sa(dp68470
+g86
+I3
+sg34
+VMisbegotten Missionary
+p68471
+sa(dp68472
+g86
+I32
+sg34
+VComing Attraction
+p68473
+sa(dp68474
+g86
+I204
+sg34
+VTo Serve Man
+p68475
+sasbag1
+(g2
+g3
+Ntp68476
+Rp68477
+(dp68478
+g49
+(lp68479
+sg30
+(lp68480
+sg86
+I302
+sg82
+(lp68481
+I2
+asg13
+I1950
+sg34
+VGalaxy Magazine December 1950
+p68482
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/Galaxy_v01n03_1950-12/Galaxy_v01n03_1950-12_jp2.zip&file=Galaxy_v01n03_1950-12_jp2/Galaxy_v01n03_1950-12_0000.jp2&scale=0&rotate=0
+p68483
+sg68228
+S'http://www.isfdb.org/wiki/images/5/52/GALDEC1950.jpg'
+p68484
+sg14
+g68230
+sg16
+(lp68485
+sg75
+(lp68486
+I346
+aI347
+aI342
+aI348
+aI338
+aI336
+aI305
+aI340
+aI339
+aI326
+aI136
+aI129
+aI56
+aI349
+aI350
+aI122
+aI302
+asg20
+(lp68487
+sg25
+I976
+sg68234
+(lp68488
+(dp68489
+g86
+I346
+sg34
+VSecond Night of Summer
+p68490
+sa(dp68491
+g86
+I346
+sg34
+VSecond Night of Summer [2]
+p68492
+sa(dp68493
+g86
+I346
+sg34
+VSecond Night of Summer [3]
+p68494
+sa(dp68495
+g86
+I347
+sg34
+VJudas Ram
+p68496
+sa(dp68497
+g86
+I347
+sg34
+VJudas Ram [2]
+p68498
+sa(dp68499
+g86
+I347
+sg34
+VJudas Ram [3]
+p68500
+sa(dp68501
+g86
+I342
+sg34
+VJaywalker
+p68502
+sa(dp68503
+g86
+I348
+sg34
+VA Stone and a Spear
+p68504
+sa(dp68505
+g86
+I342
+sg34
+VTwenty-Foot Miss
+p68506
+sa(dp68507
+g86
+I338
+sg34
+VThe Waker Dreams
+p68508
+sa(dp68509
+g86
+I338
+sg34
+VThe Waker Dreams [2]
+p68510
+sa(dp68511
+g86
+I336
+sg34
+VTime Quarry (Part 3 of 3)
+p68512
+sa(dp68513
+g86
+I336
+sg34
+VTime Quarry (Part 3 of 3) [2]
+p68514
+sa(dp68515
+g86
+I336
+sg34
+VTime Quarry (Part 3 of 3) [3]
+p68516
+sa(dp68517
+g86
+I305
+sg34
+VLet's Talk It Over
+p68518
+sa(dp68519
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, December 1950)
+p68520
+sa(dp68521
+g86
+I339
+sg34
+VTwenty-Foot Miss
+p68522
+sa(dp68523
+g86
+I326
+sg34
+VNext Month's Contents Page (Galaxy, December 1950)
+p68524
+sa(dp68525
+g86
+I136
+sg34
+VSecond Night of Summer
+p68526
+sa(dp68527
+g86
+I129
+sg34
+VA Stone and a Spear
+p68528
+sa(dp68529
+g86
+I56
+sg34
+VTime Quarry (Part 3 of 3)
+p68530
+sa(dp68531
+g86
+I349
+sg34
+VJudas Ram
+p68532
+sa(dp68533
+g86
+I350
+sg34
+VJaywalker
+p68534
+sa(dp68535
+g86
+I122
+sg34
+VThe Waker Dreams
+p68536
+sasbag1
+(g2
+g3
+Ntp68537
+Rp68538
+(dp68539
+g49
+(lp68540
+sg30
+(lp68541
+sg86
+I302
+sg82
+(lp68542
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine January 1951
+p68543
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v01n04_1951-01/Galaxy_v01n04_1951-01_jp2.zip&file=Galaxy_v01n04_1951-01_jp2/Galaxy_v01n04_1951-01_0000.jp2&scale=0&rotate=0
+p68544
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f8/GALJAN1951.jpg'
+p68545
+sg14
+g68230
+sg16
+(lp68546
+sg75
+(lp68547
+I348
+aI351
+aI352
+aI353
+aI347
+aI342
+aI305
+aI340
+aI326
+aI341
+aI218
+aI354
+aI3
+aI58
+aI137
+aI302
+asg20
+(lp68548
+sg25
+I977
+sg68234
+(lp68549
+(dp68550
+g86
+I348
+sg34
+VTyrann (Part 1 of 3)
+p68551
+sa(dp68552
+g86
+I348
+sg34
+VTyrann (Part 1 of 3) [2]
+p68553
+sa(dp68554
+g86
+I348
+sg34
+VTyrann (Part 1 of 3) [3]
+p68555
+sa(dp68556
+g86
+I348
+sg34
+VTyrann (Part 1 of 3) [4]
+p68557
+sa(dp68558
+g86
+I348
+sg34
+VTyrann (Part 1 of 3) [5]
+p68559
+sa(dp68560
+g86
+I348
+sg34
+VTyrann (Part 1 of 3) [6]
+p68561
+sa(dp68562
+g86
+I351
+sg34
+VDark Interlude
+p68563
+sa(dp68564
+g86
+I352
+sg34
+VRule of Three
+p68565
+sa(dp68566
+g86
+I352
+sg34
+VRule of Three [2]
+p68567
+sa(dp68568
+g86
+I352
+sg34
+VRule of Three [3]
+p68569
+sa(dp68570
+g86
+I353
+sg34
+VMade to Measure
+p68571
+sa(dp68572
+g86
+I353
+sg34
+VMade to Measure [2]
+p68573
+sa(dp68574
+g86
+I353
+sg34
+VMade to Measure [3]
+p68575
+sa(dp68576
+g86
+I353
+sg34
+VMade to Measure [4]
+p68577
+sa(dp68578
+g86
+I347
+sg34
+VSusceptibility
+p68579
+sa(dp68580
+g86
+I342
+sg34
+VThe Reluctant Heroes
+p68581
+sa(dp68582
+g86
+I342
+sg34
+VThe Reluctant Heroes [2]
+p68583
+sa(dp68584
+g86
+I342
+sg34
+VThe Reluctant Heroes [3]
+p68585
+sa(dp68586
+g86
+I305
+sg34
+VOld Business and New
+p68587
+sa(dp68588
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, January 1951)
+p68589
+sa(dp68590
+g86
+I326
+sg34
+VNext Month's Contents Page (Galaxy, January 1951)
+p68591
+sa(dp68592
+g86
+I341
+sg34
+VRule of Three
+p68593
+sa(dp68594
+g86
+I218
+sg34
+VMade to Measure
+p68595
+sa(dp68596
+g86
+I354
+sg34
+VThe Reluctant Heroes
+p68597
+sa(dp68598
+g86
+I3
+sg34
+VTyrann (Part 1 of 3)
+p68599
+sa(dp68600
+g86
+I58
+sg34
+VDark Interlude
+p68601
+sa(dp68602
+g86
+I137
+sg34
+VSusceptibility
+p68603
+sasbag1
+(g2
+g3
+Ntp68604
+Rp68605
+(dp68606
+g49
+(lp68607
+sg30
+(lp68608
+sg86
+I302
+sg82
+(lp68609
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine February 1951
+p68610
+sg11
+Vhttps://ia801309.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v01n05_1951-02/Galaxy_v01n05_1951-02_jp2.zip&file=Galaxy_v01n05_1951-02_jp2/Galaxy_v01n05_1951-02_0000.jp2&scale=0&rotate=0
+p68611
+sg68228
+S'http://www.isfdb.org/wiki/images/4/41/GALFEB1951.jpg'
+p68612
+sg14
+g68230
+sg16
+(lp68613
+sg75
+(lp68614
+I352
+aI342
+aI336
+aI346
+aI355
+aI348
+aI305
+aI340
+aI18
+aI3
+aI356
+aI247
+aI56
+aI354
+aI302
+asg20
+(lp68615
+sg25
+I978
+sg68234
+(lp68616
+(dp68617
+g86
+I352
+sg34
+VThe Fireman
+p68618
+sa(dp68619
+g86
+I352
+sg34
+VThe Fireman [2]
+p68620
+sa(dp68621
+g86
+I352
+sg34
+VThe Fireman [3]
+p68622
+sa(dp68623
+g86
+I352
+sg34
+VThe Fireman [4]
+p68624
+sa(dp68625
+g86
+I342
+sg34
+V... And It Comes Out Here
+p68626
+sa(dp68627
+g86
+I342
+sg34
+V... And It Comes Out Here [2]
+p68628
+sa(dp68629
+g86
+I336
+sg34
+VThe Protector
+p68630
+sa(dp68631
+g86
+I346
+sg34
+VSecond Childhood
+p68632
+sa(dp68633
+g86
+I346
+sg34
+VSecond Childhood [2]
+p68634
+sa(dp68635
+g86
+I355
+sg34
+VTwo Weeks in August
+p68636
+sa(dp68637
+g86
+I348
+sg34
+VTyrann (Part 2 of 3)
+p68638
+sa(dp68639
+g86
+I348
+sg34
+VTyrann (Part 2 of 3) [2]
+p68640
+sa(dp68641
+g86
+I348
+sg34
+VTyrann (Part 2 of 3) [3]
+p68642
+sa(dp68643
+g86
+I348
+sg34
+VTyrann (Part 2 of 3) [4]
+p68644
+sa(dp68645
+g86
+I305
+sg34
+VYardstick for Science Fiction
+p68646
+sa(dp68647
+g86
+I340
+sg34
+VGalaxy's Five-Star Shelf (Galaxy, February 1951)
+p68648
+sa(dp68649
+g86
+I18
+sg34
+VThe Fireman
+p68650
+sa(dp68651
+g86
+I3
+sg34
+VTyrann (Part 2 of 3)
+p68652
+sa(dp68653
+g86
+I356
+sg34
+V... And It Comes Out Here
+p68654
+sa(dp68655
+g86
+I247
+sg34
+VThe Protector
+p68656
+sa(dp68657
+g86
+I56
+sg34
+VSecond Childhood
+p68658
+sa(dp68659
+g86
+I354
+sg34
+VTwo Weeks in August
+p68660
+sasbag1
+(g2
+g3
+Ntp68661
+Rp68662
+(dp68663
+g49
+(lp68664
+sg30
+(lp68665
+sg86
+I302
+sg82
+(lp68666
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine March 1951
+p68667
+sg11
+Vhttps://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v01n06_1951-03/Galaxy_v01n06_1951-03_jp2.zip&file=Galaxy_v01n06_1951-03_jp2/Galaxy_v01n06_1951-03_0000.jp2&scale=0&rotate=0
+p68668
+sg68228
+S'http://www.isfdb.org/wiki/images/a/af/GALMAR1951.jpg'
+p68669
+sg14
+g68230
+sg16
+(lp68670
+sg75
+(lp68671
+I342
+aI357
+aI358
+aI348
+aI305
+aI339
+aI326
+aI356
+aI56
+aI3
+aI61
+aI359
+aI302
+asg20
+(lp68672
+sg25
+I979
+sg68234
+(lp68673
+(dp68674
+g86
+I342
+sg34
+VThe Wind Between the Worlds
+p68675
+sa(dp68676
+g86
+I342
+sg34
+VThe Wind Between the Worlds [2]
+p68677
+sa(dp68678
+g86
+I342
+sg34
+VThe Wind Between the Worlds [3]
+p68679
+sa(dp68680
+g86
+I357
+sg34
+VThe Other Now
+p68681
+sa(dp68682
+g86
+I342
+sg34
+VGood Night, Mr. James
+p68683
+sa(dp68684
+g86
+I342
+sg34
+VGood Night, Mr. James [2]
+p68685
+sa(dp68686
+g86
+I342
+sg34
+VGood Night, Mr. James [3]
+p68687
+sa(dp68688
+g86
+I358
+sg34
+VSocrates
+p68689
+sa(dp68690
+g86
+I358
+sg34
+VSocrates [2]
+p68691
+sa(dp68692
+g86
+I348
+sg34
+VTyrann (Part 3 of 3)
+p68693
+sa(dp68694
+g86
+I348
+sg34
+VTyrann (Part 3 of 3) [2]
+p68695
+sa(dp68696
+g86
+I348
+sg34
+VTyrann (Part 3 of 3) [3]
+p68697
+sa(dp68698
+g86
+I348
+sg34
+VTyrann (Part 3 of 3) [4]
+p68699
+sa(dp68700
+g86
+I348
+sg34
+VTyrann (Part 3 of 3) [5]
+p68701
+sa(dp68702
+g86
+I305
+sg34
+VConsensus
+p68703
+sa(dp68704
+g86
+I339
+sg34
+VMissiles Over the Sea
+p68705
+sa(dp68706
+g86
+I326
+sg34
+VNext Month's Contents Page (Galaxy, March 1951)
+p68707
+sa(dp68708
+g86
+I356
+sg34
+VThe Wind Between the Worlds
+p68709
+sa(dp68710
+g86
+I56
+sg34
+VGood Night, Mr. James
+p68711
+sa(dp68712
+g86
+I3
+sg34
+VTyrann (Part 3 of 3)
+p68713
+sa(dp68714
+g86
+I61
+sg34
+VThe Other Now
+p68715
+sa(dp68716
+g86
+I359
+sg34
+VSocrates
+p68717
+sasbag1
+(g2
+g3
+Ntp68718
+Rp68719
+(dp68720
+g49
+(lp68721
+sg30
+(lp68722
+sg86
+I302
+sg82
+(lp68723
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine April 1951
+p68724
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v02n01_1951-04/Galaxy_v02n01_1951-04_jp2.zip&file=Galaxy_v02n01_1951-04_jp2/Galaxy_v02n01_1951-04_0000.jp2&scale=0&rotate=0
+p68725
+sg68228
+S'http://www.isfdb.org/wiki/images/7/7b/GALAPR1951.jpg'
+p68726
+sg14
+g68230
+sg16
+(lp68727
+sg75
+(lp68728
+I357
+aI336
+aI347
+aI360
+aI342
+aI305
+aI340
+aI30
+aI361
+aI51
+aI32
+aI98
+aI362
+aI302
+asg20
+(lp68729
+sg25
+I980
+sg68234
+(lp68730
+(dp68731
+g86
+I357
+sg34
+VNice Girl with Five Husbands
+p68732
+sa(dp68733
+g86
+I357
+sg34
+VNice Girl with Five Husbands [2]
+p68734
+sa(dp68735
+g86
+I336
+sg34
+VInside Earth
+p68736
+sa(dp68737
+g86
+I336
+sg34
+VInside Earth [2]
+p68738
+sa(dp68739
+g86
+I336
+sg34
+VInside Earth [3]
+p68740
+sa(dp68741
+g86
+I336
+sg34
+VInside Earth [4]
+p68742
+sa(dp68743
+g86
+I347
+sg34
+VBetelgeuse Bridge
+p68744
+sa(dp68745
+g86
+I347
+sg34
+VBetelgeuse Bridge [2]
+p68746
+sa(dp68747
+g86
+I360
+sg34
+VI, the Unspeakable
+p68748
+sa(dp68749
+g86
+I360
+sg34
+VI, the Unspeakable [2]
+p68750
+sa(dp68751
+g86
+I360
+sg34
+VI, the Unspeakable [3]
+p68752
+sa(dp68753
+g86
+I347
+sg34
+VField Study
+p68754
+sa(dp68755
+g86
+I347
+sg34
+VField Study [2]
+p68756
+sa(dp68757
+g86
+I342
+sg34
+VThe Marching Morons
+p68758
+sa(dp68759
+g86
+I342
+sg34
+VThe Marching Morons [2]
+p68760
+sa(dp68761
+g86
+I342
+sg34
+VThe Marching Morons [3]
+p68762
+sa(dp68763
+g86
+I305
+sg34
+VTreasurer's Report
+p68764
+sa(dp68765
+g86
+I340
+sg34
+VGalaxy's Five-Star Shelf (Galaxy, April 1951)
+p68766
+sa(dp68767
+g86
+I30
+sg34
+VInside Earth
+p68768
+sa(dp68769
+g86
+I361
+sg34
+VI, the Unspeakable
+p68770
+sa(dp68771
+g86
+I51
+sg34
+VThe Marching Morons
+p68772
+sa(dp68773
+g86
+I32
+sg34
+VNice Girl with Five Husbands
+p68774
+sa(dp68775
+g86
+I98
+sg34
+VBetelgeuse Bridge
+p68776
+sa(dp68777
+g86
+I362
+sg34
+VField Study
+p68778
+sasbag1
+(g2
+g3
+Ntp68779
+Rp68780
+(dp68781
+g49
+(lp68782
+sg30
+(lp68783
+sg86
+I302
+sg82
+(lp68784
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine June 1951
+p68785
+sg11
+Vhttps://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v02n03_1951-06/Galaxy_v02n03_1951-06_jp2.zip&file=Galaxy_v02n03_1951-06_jp2/Galaxy_v02n03_1951-06_0000.jp2&scale=0&rotate=0
+p68786
+sg68228
+S'http://www.isfdb.org/wiki/images/9/91/GALJUN1951.jpg'
+p68787
+sg14
+g68230
+sg16
+(lp68788
+sg75
+(lp68789
+I355
+aI336
+aI351
+aI363
+aI305
+aI340
+aI132
+aI204
+aI51
+aI194
+aI326
+aI302
+asg20
+(lp68790
+sg25
+I981
+sg68234
+(lp68791
+(dp68792
+g86
+I355
+sg34
+VHunt the Hunter
+p68793
+sa(dp68794
+g86
+I336
+sg34
+VAngel's Egg
+p68795
+sa(dp68796
+g86
+I336
+sg34
+VAngel's Egg [2]
+p68797
+sa(dp68798
+g86
+I336
+sg34
+VAngel's Egg [3]
+p68799
+sa(dp68800
+g86
+I351
+sg34
+VDon't Live in the Past
+p68801
+sa(dp68802
+g86
+I351
+sg34
+VDon't Live in the Past [2]
+p68803
+sa(dp68804
+g86
+I351
+sg34
+VDon't Live in the Past [3]
+p68805
+sa(dp68806
+g86
+I351
+sg34
+VDon't Live in the Past [4]
+p68807
+sa(dp68808
+g86
+I351
+sg34
+VDon't Live in the Past [5]
+p68809
+sa(dp68810
+g86
+I363
+sg34
+VMars Child (Part 2 of 3)
+p68811
+sa(dp68812
+g86
+I363
+sg34
+VMars Child (Part 2 of 3) [2]
+p68813
+sa(dp68814
+g86
+I363
+sg34
+VMars Child (Part 2 of 3) [3]
+p68815
+sa(dp68816
+g86
+I363
+sg34
+VMars Child (Part 2 of 3) [4]
+p68817
+sa(dp68818
+g86
+I363
+sg34
+VMars Child (Part 2 of 3) [5]
+p68819
+sa(dp68820
+g86
+I363
+sg34
+VMars Child (Part 2 of 3) [6]
+p68821
+sa(dp68822
+g86
+I305
+sg34
+VLooking Forward
+p68823
+sa(dp68824
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, June 1951)
+p68825
+sa(dp68826
+g86
+I132
+sg34
+VAngel's Egg
+p68827
+sa(dp68828
+g86
+I204
+sg34
+VDon't Live in the Past
+p68829
+sa(dp68830
+g86
+I51
+sg34
+VMars Child (Part 2 of 3)
+p68831
+sa(dp68832
+g86
+I194
+sg34
+VHunt the Hunter
+p68833
+sa(dp68834
+g86
+I326
+sg34
+VNext Month's Contents Page (Galaxy, June 1951)
+p68835
+sasbag1
+(g2
+g3
+Ntp68836
+Rp68837
+(dp68838
+g49
+(lp68839
+sg30
+(lp68840
+sg86
+I302
+sg82
+(lp68841
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine July 1951
+p68842
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v02n04_1951-07/Galaxy_v02n04_1951-07_jp2.zip&file=Galaxy_v02n04_1951-07_jp2/Galaxy_v02n04_1951-07_0000.jp2&scale=0&rotate=0
+p68843
+sg68228
+S'http://www.isfdb.org/wiki/images/0/03/GALJUL1951.jpg'
+p68844
+sg14
+g68230
+sg16
+(lp68845
+sg75
+(lp68846
+I364
+aI346
+aI363
+aI342
+aI305
+aI340
+aI98
+aI32
+aI51
+aI137
+aI36
+aI365
+aI302
+asg20
+(lp68847
+sg25
+I982
+sg68234
+(lp68848
+(dp68849
+g86
+I364
+sg34
+VVenus Is a Man's World
+p68850
+sa(dp68851
+g86
+I364
+sg34
+VVenus Is a Man's World [2]
+p68852
+sa(dp68853
+g86
+I346
+sg34
+VCommon Denominator
+p68854
+sa(dp68855
+g86
+I346
+sg34
+VCommon Denominator [2]
+p68856
+sa(dp68857
+g86
+I346
+sg34
+VCommon Denominator [3]
+p68858
+sa(dp68859
+g86
+I363
+sg34
+VSyndrome Johnny
+p68860
+sa(dp68861
+g86
+I363
+sg34
+VSyndrome Johnny [2]
+p68862
+sa(dp68863
+g86
+I363
+sg34
+VSyndrome Johnny [3]
+p68864
+sa(dp68865
+g86
+I363
+sg34
+VMars Child (Part 3 of 3)
+p68866
+sa(dp68867
+g86
+I363
+sg34
+VMars Child (Part 3 of 3) [2]
+p68868
+sa(dp68869
+g86
+I363
+sg34
+VMars Child (Part 3 of 3) [3]
+p68870
+sa(dp68871
+g86
+I363
+sg34
+VMars Child (Part 3 of 3) [4]
+p68872
+sa(dp68873
+g86
+I363
+sg34
+VMars Child (Part 3 of 3) [5]
+p68874
+sa(dp68875
+g86
+I363
+sg34
+VMars Child (Part 3 of 3) [6]
+p68876
+sa(dp68877
+g86
+I342
+sg34
+VPen Pal
+p68878
+sa(dp68879
+g86
+I342
+sg34
+VPen Pal [2]
+p68880
+sa(dp68881
+g86
+I363
+sg34
+VAppointment in Tomorrow
+p68882
+sa(dp68883
+g86
+I363
+sg34
+VAppointment in Tomorrow [2]
+p68884
+sa(dp68885
+g86
+I305
+sg34
+VGetting Personal
+p68886
+sa(dp68887
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, July 1951)
+p68888
+sa(dp68889
+g86
+I98
+sg34
+VVenus Is a Man's World
+p68890
+sa(dp68891
+g86
+I32
+sg34
+VAppointment in Tomorrow
+p68892
+sa(dp68893
+g86
+I51
+sg34
+VMars Child (Part 3 of 3)
+p68894
+sa(dp68895
+g86
+I137
+sg34
+VCommon Denominator
+p68896
+sa(dp68897
+g86
+I36
+sg34
+VSyndrome Johnny
+p68898
+sa(dp68899
+g86
+I365
+sg34
+VPen Pal
+p68900
+sasbag1
+(g2
+g3
+Ntp68901
+Rp68902
+(dp68903
+g49
+(lp68904
+sg30
+(lp68905
+sg86
+I302
+sg82
+(lp68906
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine August 1951
+p68907
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v02n05_1951-08/Galaxy_v02n05_1951-08_jp2.zip&file=Galaxy_v02n05_1951-08_jp2/Galaxy_v02n05_1951-08_0000.jp2&scale=0&rotate=0
+p68908
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f2/GALAUG1951.jpg'
+p68909
+sg14
+g68230
+sg16
+(lp68910
+sg75
+(lp68911
+I336
+aI363
+aI366
+aI367
+aI305
+aI326
+aI339
+aI254
+aI354
+aI368
+aI356
+aI36
+aI18
+aI302
+asg20
+(lp68912
+sg25
+I983
+sg68234
+(lp68913
+(dp68914
+g86
+I336
+sg34
+VBeyond Bedlam
+p68915
+sa(dp68916
+g86
+I336
+sg34
+VBeyond Bedlam [2]
+p68917
+sa(dp68918
+g86
+I336
+sg34
+VBeyond Bedlam [3]
+p68919
+sa(dp68920
+g86
+I336
+sg34
+VBeyond Bedlam [4]
+p68921
+sa(dp68922
+g86
+I363
+sg34
+VOperation Distress
+p68923
+sa(dp68924
+g86
+I363
+sg34
+VOperation Distress [2]
+p68925
+sa(dp68926
+g86
+I336
+sg34
+VThe Pilot and the Bushman
+p68927
+sa(dp68928
+g86
+I336
+sg34
+VThe Pilot and the Bushman [2]
+p68929
+sa(dp68930
+g86
+I336
+sg34
+VThe Pilot and the Bushman [3]
+p68931
+sa(dp68932
+g86
+I366
+sg34
+VPictures Don't Lie
+p68933
+sa(dp68934
+g86
+I366
+sg34
+VPictures Don't Lie [2]
+p68935
+sa(dp68936
+g86
+I363
+sg34
+VThe Fire and the Sword
+p68937
+sa(dp68938
+g86
+I363
+sg34
+VThe Fire and the Sword [2]
+p68939
+sa(dp68940
+g86
+I363
+sg34
+VThe Fire and the Sword [3]
+p68941
+sa(dp68942
+g86
+I367
+sg34
+VA Little Journey
+p68943
+sa(dp68944
+g86
+I305
+sg34
+VAsk a Foolish Question
+p68945
+sa(dp68946
+g86
+I326
+sg34
+VNext Month's Contents Page (Galaxy, August 1951)
+p68947
+sa(dp68948
+g86
+I339
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1951)
+p68949
+sa(dp68950
+g86
+I326
+sg34
+VFlying Saucer Contest Winners
+p68951
+sa(dp68952
+g86
+I254
+sg34
+VThe Pilot and the Bushman
+p68953
+sa(dp68954
+g86
+I354
+sg34
+VThe Fire and the Sword
+p68955
+sa(dp68956
+g86
+I368
+sg34
+VBeyond Bedlam
+p68957
+sa(dp68958
+g86
+I356
+sg34
+VOperation Distress
+p68959
+sa(dp68960
+g86
+I36
+sg34
+VPictures Don't Lie
+p68961
+sa(dp68962
+g86
+I18
+sg34
+VA Little Journey
+p68963
+sasbag1
+(g2
+g3
+Ntp68964
+Rp68965
+(dp68966
+g49
+(lp68967
+sg30
+(lp68968
+sg86
+I302
+sg82
+(lp68969
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine September 1951
+p68970
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v02n06_1951-09/Galaxy_v02n06_1951-09_jp2.zip&file=Galaxy_v02n06_1951-09_jp2/Galaxy_v02n06_1951-09_0000.jp2&scale=0&rotate=0
+p68971
+sg68228
+S'http://www.isfdb.org/wiki/images/1/1e/GALSEP1951.jpg'
+p68972
+sg14
+g68230
+sg16
+(lp68973
+sg75
+(lp68974
+I342
+aI369
+aI367
+aI363
+aI305
+aI339
+aI340
+aI370
+aI61
+aI204
+aI371
+aI365
+aI372
+aI302
+asg20
+(lp68975
+sg25
+I984
+sg68234
+(lp68976
+(dp68977
+g86
+I342
+sg34
+VThe Puppet Masters (Part 1 of 3)
+p68978
+sa(dp68979
+g86
+I342
+sg34
+VThe Puppet Masters (Part 1 of 3) [2]
+p68980
+sa(dp68981
+g86
+I342
+sg34
+VThe Puppet Masters (Part 1 of 3) [3]
+p68982
+sa(dp68983
+g86
+I342
+sg34
+VThe Puppet Masters (Part 1 of 3) [4]
+p68984
+sa(dp68985
+g86
+I342
+sg34
+VThe Puppet Masters (Part 1 of 3) [5]
+p68986
+sa(dp68987
+g86
+I342
+sg34
+VThe Puppet Masters (Part 1 of 3) [6]
+p68988
+sa(dp68989
+g86
+I369
+sg34
+VThe Sense of Wonder
+p68990
+sa(dp68991
+g86
+I369
+sg34
+VThe Sense of Wonder [2]
+p68992
+sa(dp68993
+g86
+I369
+sg34
+VIf You Was a Moklin
+p68994
+sa(dp68995
+g86
+I369
+sg34
+VIf You Was a Moklin [2]
+p68996
+sa(dp68997
+g86
+I369
+sg34
+VIf You Was a Moklin [3]
+p68998
+sa(dp68999
+g86
+I367
+sg34
+VCabin Boy
+p69000
+sa(dp69001
+g86
+I367
+sg34
+VCabin Boy [2]
+p69002
+sa(dp69003
+g86
+I363
+sg34
+VWhat Is Posat?
+p69004
+sa(dp69005
+g86
+I363
+sg34
+VWhat Is Posat? [2]
+p69006
+sa(dp69007
+g86
+I305
+sg34
+VAnnual Report
+p69008
+sa(dp69009
+g86
+I339
+sg34
+VThe Meteoric Stream
+p69010
+sa(dp69011
+g86
+I340
+sg34
+VGalaxy's Five-Star Shelf (Galaxy, September 1951)
+p69012
+sa(dp69013
+g86
+I370
+sg34
+VLetter (Galaxy, September 1951): Department of Public Information, Chicago, Ill.
+p69014
+sa(dp69015
+g86
+I61
+sg34
+VIf You Was a Moklin
+p69016
+sa(dp69017
+g86
+I204
+sg34
+VCabin Boy
+p69018
+sa(dp69019
+g86
+I371
+sg34
+VThe Puppet Masters (Part 1 of 3)
+p69020
+sa(dp69021
+g86
+I365
+sg34
+VThe Sense of Wonder
+p69022
+sa(dp69023
+g86
+I372
+sg34
+VWhat Is Posat?
+p69024
+sa(dp69025
+g86
+I305
+sg34
+VThe Biography Project
+p69026
+sasbag1
+(g2
+g3
+Ntp69027
+Rp69028
+(dp69029
+g49
+(lp69030
+sg30
+(lp69031
+sg86
+I302
+sg82
+(lp69032
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine October 1951
+p69033
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/Galaxy_v03n01_1951-10/Galaxy_v03n01_1951-10_jp2.zip&file=Galaxy_v03n01_1951-10_jp2/Galaxy_v03n01_1951-10_0000.jp2&scale=0&rotate=0
+p69034
+sg68228
+S'http://www.isfdb.org/wiki/images/3/30/GALOCT1951.jpg'
+p69035
+sg14
+g68230
+sg16
+(lp69036
+sg75
+(lp69037
+I342
+aI336
+aI363
+aI353
+aI367
+aI373
+aI305
+aI340
+aI3
+aI374
+aI371
+aI375
+aI376
+aI268
+aI302
+asg20
+(lp69038
+sg25
+I985
+sg68234
+(lp69039
+(dp69040
+g86
+I342
+sg34
+VThe Puppet Masters (Part 2 of 3) [2]
+p69041
+sa(dp69042
+g86
+I336
+sg34
+VThe C-Chute
+p69043
+sa(dp69044
+g86
+I336
+sg34
+VThe C-Chute [2]
+p69045
+sa(dp69046
+g86
+I336
+sg34
+VThe C-Chute [3]
+p69047
+sa(dp69048
+g86
+I336
+sg34
+VThe C-Chute [4]
+p69049
+sa(dp69050
+g86
+I336
+sg34
+VThe C-Chute [5]
+p69051
+sa(dp69052
+g86
+I336
+sg34
+VThe C-Chute [6]
+p69053
+sa(dp69054
+g86
+I363
+sg34
+VPleasant Dreams
+p69055
+sa(dp69056
+g86
+I353
+sg34
+VAmbition
+p69057
+sa(dp69058
+g86
+I353
+sg34
+VAmbition [2]
+p69059
+sa(dp69060
+g86
+I367
+sg34
+VSpacemen Die at Home
+p69061
+sa(dp69062
+g86
+I373
+sg34
+VThe Celestial Hammerlock
+p69063
+sa(dp69064
+g86
+I342
+sg34
+VThe Puppet Masters (Part 2 of 3)
+p69065
+sa(dp69066
+g86
+I342
+sg34
+VThe Puppet Masters (Part 2 of 3) [3]
+p69067
+sa(dp69068
+g86
+I342
+sg34
+VThe Puppet Masters (Part 2 of 3) [4]
+p69069
+sa(dp69070
+g86
+I342
+sg34
+VThe Puppet Masters (Part 2 of 3) [5]
+p69071
+sa(dp69072
+g86
+I305
+sg34
+VUse Before Shaking
+p69073
+sa(dp69074
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1951)
+p69075
+sa(dp69076
+g86
+I3
+sg34
+VThe C-Chute
+p69077
+sa(dp69078
+g86
+I374
+sg34
+VAmbition
+p69079
+sa(dp69080
+g86
+I371
+sg34
+VThe Puppet Masters (Part 2 of 3)
+p69081
+sa(dp69082
+g86
+I375
+sg34
+VPleasant Dreams
+p69083
+sa(dp69084
+g86
+I376
+sg34
+VSpacemen Die at Home
+p69085
+sa(dp69086
+g86
+I268
+sg34
+VThe Celestial Hammerlock
+p69087
+sasbag1
+(g2
+g3
+Ntp69088
+Rp69089
+(dp69090
+g49
+(lp69091
+sg30
+(lp69092
+sg86
+I302
+sg82
+(lp69093
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine November 1951
+p69094
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v03n02_1951-11/Galaxy_v03n02_1951-11_jp2.zip&file=Galaxy_v03n02_1951-11_jp2/Galaxy_v03n02_1951-11_0000.jp2&scale=0&rotate=0
+p69095
+sg68228
+S'http://www.isfdb.org/wiki/images/9/9b/GALNOV1951.jpg'
+p69096
+sg14
+g68230
+sg16
+(lp69097
+sg75
+(lp69098
+I363
+aI377
+aI378
+aI367
+aI366
+aI336
+aI342
+aI305
+aI340
+aI379
+aI249
+aI380
+aI371
+aI298
+aI381
+aI302
+asg20
+(lp69099
+sg25
+I986
+sg68234
+(lp69100
+(dp69101
+g86
+I363
+sg34
+VSea Legs
+p69102
+sa(dp69103
+g86
+I363
+sg34
+VSea Legs [2]
+p69104
+sa(dp69105
+g86
+I363
+sg34
+VSea Legs [3]
+p69106
+sa(dp69107
+g86
+I377
+sg34
+VTiger
+p69108
+sa(dp69109
+g86
+I378
+sg34
+VTiger
+p69110
+sa(dp69111
+g86
+I367
+sg34
+VZeritsky's Law
+p69112
+sa(dp69113
+g86
+I366
+sg34
+VSelf Portrait
+p69114
+sa(dp69115
+g86
+I366
+sg34
+VSelf Portrait [2]
+p69116
+sa(dp69117
+g86
+I366
+sg34
+VSelf Portrait [3]
+p69118
+sa(dp69119
+g86
+I336
+sg34
+VPsychotennis, Anyone?
+p69120
+sa(dp69121
+g86
+I342
+sg34
+VThe Puppet Masters (Part 3 of 3)
+p69122
+sa(dp69123
+g86
+I342
+sg34
+VThe Puppet Masters (Part 3 of 3) [2]
+p69124
+sa(dp69125
+g86
+I342
+sg34
+VThe Puppet Masters (Part 3 of 3) [3]
+p69126
+sa(dp69127
+g86
+I342
+sg34
+VThe Puppet Masters (Part 3 of 3) [4]
+p69128
+sa(dp69129
+g86
+I305
+sg34
+VStep Outside
+p69130
+sa(dp69131
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, November 1951)
+p69132
+sa(dp69133
+g86
+I379
+sg34
+VReview of the Nonfiction Work "Nature's Ways"
+p69134
+sa(dp69135
+g86
+I249
+sg34
+VSea Legs
+p69136
+sa(dp69137
+g86
+I380
+sg34
+VSelf Portrait
+p69138
+sa(dp69139
+g86
+I371
+sg34
+VThe Puppet Masters (Part 3 of 3)
+p69140
+sa(dp69141
+g86
+I298
+sg34
+VZeritsky's Law
+p69142
+sa(dp69143
+g86
+I381
+sg34
+VPsychotennis, Anyone?
+p69144
+sasbag1
+(g2
+g3
+Ntp69145
+Rp69146
+(dp69147
+g49
+(lp69148
+sg30
+(lp69149
+sg86
+I302
+sg82
+(lp69150
+I2
+asg13
+I1951
+sg34
+VGalaxy Magazine December 1951
+p69151
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v03n03_1951-12/Galaxy_v03n03_1951-12_jp2.zip&file=Galaxy_v03n03_1951-12_jp2/Galaxy_v03n03_1951-12_0000.jp2&scale=0&rotate=0
+p69152
+sg68228
+S'http://www.isfdb.org/wiki/images/c/ce/GALDEC1951.jpg'
+p69153
+sg14
+g68230
+sg16
+(lp69154
+sg75
+(lp69155
+I363
+aI352
+aI367
+aI336
+aI382
+aI305
+aI340
+aI326
+aI51
+aI383
+aI204
+aI32
+aI89
+aI237
+aI302
+asg20
+(lp69156
+sg25
+I987
+sg68234
+(lp69157
+(dp69158
+g86
+I363
+sg34
+VWorld Without Children
+p69159
+sa(dp69160
+g86
+I363
+sg34
+VWorld Without Children [2]
+p69161
+sa(dp69162
+g86
+I363
+sg34
+VWorld Without Children [3]
+p69163
+sa(dp69164
+g86
+I363
+sg34
+VWorld Without Children [4]
+p69165
+sa(dp69166
+g86
+I363
+sg34
+VWorld Without Children [5]
+p69167
+sa(dp69168
+g86
+I363
+sg34
+VA Pail of Air
+p69169
+sa(dp69170
+g86
+I363
+sg34
+VA Pail of Air [2]
+p69171
+sa(dp69172
+g86
+I352
+sg34
+VWith These Hands
+p69173
+sa(dp69174
+g86
+I352
+sg34
+VWith These Hands [2]
+p69175
+sa(dp69176
+g86
+I367
+sg34
+VWinner Lose All
+p69177
+sa(dp69178
+g86
+I367
+sg34
+VWinner Lose All [2]
+p69179
+sa(dp69180
+g86
+I336
+sg34
+VNot a Creature Was Stirring
+p69181
+sa(dp69182
+g86
+I336
+sg34
+VNot a Creature Was Stirring [2]
+p69183
+sa(dp69184
+g86
+I382
+sg34
+VPillar to Post
+p69185
+sa(dp69186
+g86
+I382
+sg34
+VPillar to Post [2]
+p69187
+sa(dp69188
+g86
+I382
+sg34
+VPillar to Post [3]
+p69189
+sa(dp69190
+g86
+I305
+sg34
+VFore and Aft
+p69191
+sa(dp69192
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, December 1951)
+p69193
+sa(dp69194
+g86
+I326
+sg34
+VNext Month's Contents Page (Galaxy, December 1951)
+p69195
+sa(dp69196
+g86
+I51
+sg34
+VWith These Hands
+p69197
+sa(dp69198
+g86
+I383
+sg34
+VPillar to Post
+p69199
+sa(dp69200
+g86
+I204
+sg34
+VWorld Without Children
+p69201
+sa(dp69202
+g86
+I32
+sg34
+VA Pail of Air
+p69203
+sa(dp69204
+g86
+I89
+sg34
+VWinner Lose All
+p69205
+sa(dp69206
+g86
+I237
+sg34
+VNot a Creature Was Stirring
+p69207
+sasbag1
+(g2
+g3
+Ntp69208
+Rp69209
+(dp69210
+g49
+(lp69211
+sg30
+(lp69212
+sg86
+I302
+sg82
+(lp69213
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine January 1952
+p69214
+sg11
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v03n04_1952-01/Galaxy_v03n04_1952-01_jp2.zip&file=Galaxy_v03n04_1952-01_jp2/Galaxy_v03n04_1952-01_0000.jp2&scale=0&rotate=0
+p69215
+sg68228
+S'http://www.isfdb.org/wiki/images/1/18/GALJAN1952.jpg'
+p69216
+sg14
+g68230
+sg16
+(lp69217
+sg75
+(lp69218
+I342
+aI336
+aI363
+aI367
+aI305
+aI340
+aI354
+aI384
+aI385
+aI386
+aI237
+aI387
+aI302
+asg20
+(lp69219
+sg25
+I988
+sg68234
+(lp69220
+(dp69221
+g86
+I342
+sg34
+VThe Demolished Man (Part 1 of 3)
+p69222
+sa(dp69223
+g86
+I342
+sg34
+VThe Demolished Man (Part 1 of 3) [2]
+p69224
+sa(dp69225
+g86
+I342
+sg34
+VThe Demolished Man (Part 1 of 3) [3]
+p69226
+sa(dp69227
+g86
+I342
+sg34
+VThe Demolished Man (Part 1 of 3) [4]
+p69228
+sa(dp69229
+g86
+I342
+sg34
+VThe Demolished Man (Part 1 of 3) [5]
+p69230
+sa(dp69231
+g86
+I336
+sg34
+VDead End
+p69232
+sa(dp69233
+g86
+I336
+sg34
+VDead End [2]
+p69234
+sa(dp69235
+g86
+I363
+sg34
+VThe Girls From Earth
+p69236
+sa(dp69237
+g86
+I363
+sg34
+VThe Girls From Earth [2]
+p69238
+sa(dp69239
+g86
+I363
+sg34
+VThe Girls From Earth [3]
+p69240
+sa(dp69241
+g86
+I363
+sg34
+VThe Girls From Earth [4]
+p69242
+sa(dp69243
+g86
+I367
+sg34
+VThe Furious Rose
+p69244
+sa(dp69245
+g86
+I363
+sg34
+VThe Addicts
+p69246
+sa(dp69247
+g86
+I363
+sg34
+VThe Addicts [2]
+p69248
+sa(dp69249
+g86
+I342
+sg34
+VHallucination Orbit
+p69250
+sa(dp69251
+g86
+I342
+sg34
+VHallucination Orbit [2]
+p69252
+sa(dp69253
+g86
+I342
+sg34
+VHallucination Orbit [3]
+p69254
+sa(dp69255
+g86
+I305
+sg34
+VGloom &Amp; Doom
+p69256
+sa(dp69257
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, January 1952)
+p69258
+sa(dp69259
+g86
+I354
+sg34
+VThe Girls From Earth
+p69260
+sa(dp69261
+g86
+I384
+sg34
+VHallucination Orbit
+p69262
+sa(dp69263
+g86
+I385
+sg34
+VThe Demolished Man (Part 1 of 3)
+p69264
+sa(dp69265
+g86
+I386
+sg34
+VDead End
+p69266
+sa(dp69267
+g86
+I237
+sg34
+VThe Furious Rose
+p69268
+sa(dp69269
+g86
+I387
+sg34
+VThe Addicts
+p69270
+sasbag1
+(g2
+g3
+Ntp69271
+Rp69272
+(dp69273
+g49
+(lp69274
+sg30
+(lp69275
+sg86
+I302
+sg82
+(lp69276
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine February 1952
+p69277
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v03n05_1952-02/Galaxy_v03n05_1952-02_jp2.zip&file=Galaxy_v03n05_1952-02_jp2/Galaxy_v03n05_1952-02_0000.jp2&scale=0&rotate=0
+p69278
+sg68228
+S'http://www.isfdb.org/wiki/images/e/e4/GALFEB1952.jpg'
+p69279
+sg14
+g68230
+sg16
+(lp69280
+sg75
+(lp69281
+I388
+aI336
+aI352
+aI342
+aI305
+aI345
+aI371
+aI340
+aI389
+aI385
+aI166
+aI32
+aI194
+aI302
+asg20
+(lp69282
+sg25
+I989
+sg68234
+(lp69283
+(dp69284
+g86
+I388
+sg34
+VDouble Standard
+p69285
+sa(dp69286
+g86
+I336
+sg34
+VConditionally Human
+p69287
+sa(dp69288
+g86
+I336
+sg34
+VConditionally Human [2]
+p69289
+sa(dp69290
+g86
+I336
+sg34
+VConditionally Human [3]
+p69291
+sa(dp69292
+g86
+I336
+sg34
+VDr. Kometevsky's Day
+p69293
+sa(dp69294
+g86
+I336
+sg34
+VDr. Kometevsky's Day [2]
+p69295
+sa(dp69296
+g86
+I352
+sg34
+VFresh Air Fiend
+p69297
+sa(dp69298
+g86
+I342
+sg34
+VThe Demolished Man (Part 2 of 3)
+p69299
+sa(dp69300
+g86
+I342
+sg34
+VThe Demolished Man (Part 2 of 3) [2]
+p69301
+sa(dp69302
+g86
+I342
+sg34
+VThe Demolished Man (Part 2 of 3) [3]
+p69303
+sa(dp69304
+g86
+I342
+sg34
+VThe Demolished Man (Part 2 of 3) [4]
+p69305
+sa(dp69306
+g86
+I305
+sg34
+VOpen Letters
+p69307
+sa(dp69308
+g86
+I345
+sg34
+VWhere Were We?
+p69309
+sa(dp69310
+g86
+I371
+sg34
+VWhere To?
+p69311
+sa(dp69312
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, February 1952)
+p69313
+sa(dp69314
+g86
+I389
+sg34
+VConditionally Human
+p69315
+sa(dp69316
+g86
+I385
+sg34
+VThe Demolished Man (Part 2 of 3)
+p69317
+sa(dp69318
+g86
+I166
+sg34
+VDouble Standard
+p69319
+sa(dp69320
+g86
+I32
+sg34
+VDr. Kometevsky's Day
+p69321
+sa(dp69322
+g86
+I194
+sg34
+VFresh Air Fiend
+p69323
+sasbag1
+(g2
+g3
+Ntp69324
+Rp69325
+(dp69326
+g49
+(lp69327
+sg30
+(lp69328
+sg86
+I302
+sg82
+(lp69329
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine March 1952
+p69330
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_v03n06_1952-03/Galaxy_v03n06_1952-03_jp2.zip&file=Galaxy_v03n06_1952-03_jp2/Galaxy_v03n06_1952-03_0000.jp2&scale=0&rotate=0
+p69331
+sg68228
+S'http://www.isfdb.org/wiki/images/3/3a/GALMAR1952.jpg'
+p69332
+sg14
+g68230
+sg16
+(lp69333
+sg75
+(lp69334
+I363
+aI390
+aI352
+aI326
+aI305
+aI339
+aI340
+aI371
+aI385
+aI94
+aI391
+aI204
+aI302
+asg20
+(lp69335
+sg25
+I990
+sg68234
+(lp69336
+(dp69337
+g86
+I363
+sg34
+VThe Year of the Jackpot
+p69338
+sa(dp69339
+g86
+I363
+sg34
+VThe Year of the Jackpot [2]
+p69340
+sa(dp69341
+g86
+I363
+sg34
+VThe Year of the Jackpot [3]
+p69342
+sa(dp69343
+g86
+I390
+sg34
+VManners of the Age
+p69344
+sa(dp69345
+g86
+I390
+sg34
+VManners of the Age [2]
+p69346
+sa(dp69347
+g86
+I390
+sg34
+VManners of the Age [3]
+p69348
+sa(dp69349
+g86
+I363
+sg34
+VThe 7th Order
+p69350
+sa(dp69351
+g86
+I363
+sg34
+VThe 7th Order [2]
+p69352
+sa(dp69353
+g86
+I363
+sg34
+VThe 7th Order [3]
+p69354
+sa(dp69355
+g86
+I352
+sg34
+VCatch That Martian
+p69356
+sa(dp69357
+g86
+I326
+sg34
+VThe Demolished Man (Part 3 of 3)
+p69358
+sa(dp69359
+g86
+I326
+sg34
+VThe Demolished Man (Part 3 of 3) [2]
+p69360
+sa(dp69361
+g86
+I326
+sg34
+VThe Demolished Man (Part 3 of 3) [3]
+p69362
+sa(dp69363
+g86
+I326
+sg34
+VThe Demolished Man (Part 3 of 3) [4]
+p69364
+sa(dp69365
+g86
+I305
+sg34
+VIn This Corner
+p69366
+sa(dp69367
+g86
+I339
+sg34
+VFor Your Information (Galaxy, March 1952)
+p69368
+sa(dp69369
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, March 1952)
+p69370
+sa(dp69371
+g86
+I371
+sg34
+VThe Year of the Jackpot
+p69372
+sa(dp69373
+g86
+I385
+sg34
+VThe Demolished Man (Part 3 of 3)
+p69374
+sa(dp69375
+g86
+I94
+sg34
+VManners of the Age
+p69376
+sa(dp69377
+g86
+I391
+sg34
+VThe 7th Order
+p69378
+sa(dp69379
+g86
+I204
+sg34
+VCatch That Martian
+p69380
+sasbag1
+(g2
+g3
+Ntp69381
+Rp69382
+(dp69383
+g49
+(lp69384
+sg30
+(lp69385
+sg86
+I302
+sg82
+(lp69386
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine April 1952
+p69387
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v04n01_1952-04/Galaxy_v04n01_1952-04_jp2.zip&file=Galaxy_v04n01_1952-04_jp2/Galaxy_v04n01_1952-04_0000.jp2&scale=0&rotate=0
+p69388
+sg68228
+S'http://www.isfdb.org/wiki/images/a/a5/GALAPR1952.jpg'
+p69389
+sg14
+g68230
+sg16
+(lp69390
+sg75
+(lp69391
+I363
+aI336
+aI392
+aI305
+aI339
+aI340
+aI204
+aI393
+aI384
+aI32
+aI293
+aI362
+aI302
+asg20
+(lp69392
+sg25
+I991
+sg68234
+(lp69393
+(dp69394
+g86
+I363
+sg34
+VAccidental Flight
+p69395
+sa(dp69396
+g86
+I363
+sg34
+VAccidental Flight [2]
+p69397
+sa(dp69398
+g86
+I363
+sg34
+VAccidental Flight [3]
+p69399
+sa(dp69400
+g86
+I363
+sg34
+VAccidental Flight [4]
+p69401
+sa(dp69402
+g86
+I363
+sg34
+VAccidental Flight [5]
+p69403
+sa(dp69404
+g86
+I363
+sg34
+VAccidental Flight [6]
+p69405
+sa(dp69406
+g86
+I363
+sg34
+VKatahut Said No
+p69407
+sa(dp69408
+g86
+I363
+sg34
+VKatahut Said No [2]
+p69409
+sa(dp69410
+g86
+I336
+sg34
+VThe Moon Is Green
+p69411
+sa(dp69412
+g86
+I363
+sg34
+VMartians Never Die
+p69413
+sa(dp69414
+g86
+I392
+sg34
+VShe Who Laughs
+p69415
+sa(dp69416
+g86
+I363
+sg34
+VTicket to Anywhere
+p69417
+sa(dp69418
+g86
+I363
+sg34
+VTicket to Anywhere [2]
+p69419
+sa(dp69420
+g86
+I363
+sg34
+VTicket to Anywhere [3]
+p69421
+sa(dp69422
+g86
+I363
+sg34
+VTicket to Anywhere [4]
+p69423
+sa(dp69424
+g86
+I305
+sg34
+VHomeless Facts
+p69425
+sa(dp69426
+g86
+I339
+sg34
+VFor Your Information: Carbon-14 and the Ice Age
+p69427
+sa(dp69428
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, April 1952)
+p69429
+sa(dp69430
+g86
+I204
+sg34
+VTicket to Anywhere
+p69431
+sa(dp69432
+g86
+I393
+sg34
+VAccidental Flight
+p69433
+sa(dp69434
+g86
+I384
+sg34
+VKatahut Said No
+p69435
+sa(dp69436
+g86
+I32
+sg34
+VThe Moon Is Green
+p69437
+sa(dp69438
+g86
+I293
+sg34
+VMartians Never Die
+p69439
+sa(dp69440
+g86
+I362
+sg34
+VShe Who Laughs
+p69441
+sasbag1
+(g2
+g3
+Ntp69442
+Rp69443
+(dp69444
+g49
+(lp69445
+sg30
+(lp69446
+sg86
+I302
+sg82
+(lp69447
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine May 1952
+p69448
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v04n02_1952-05/Galaxy_v04n02_1952-05_jp2.zip&file=Galaxy_v04n02_1952-05_jp2/Galaxy_v04n02_1952-05_0000.jp2&scale=0&rotate=0
+p69449
+sg68228
+S'http://www.isfdb.org/wiki/images/c/cb/GALMAY1952.jpg'
+p69450
+sg14
+g68230
+sg16
+(lp69451
+sg75
+(lp69452
+I363
+aI394
+aI342
+aI395
+aI305
+aI339
+aI340
+aI326
+aI122
+aI30
+aI396
+aI362
+aI121
+aI397
+aI302
+asg20
+(lp69453
+sg25
+I992
+sg68234
+(lp69454
+(dp69455
+g86
+I363
+sg34
+VCategory Phoenix
+p69456
+sa(dp69457
+g86
+I363
+sg34
+VCategory Phoenix [2]
+p69458
+sa(dp69459
+g86
+I363
+sg34
+VCategory Phoenix [3]
+p69460
+sa(dp69461
+g86
+I394
+sg34
+VLost Memory
+p69462
+sa(dp69463
+g86
+I342
+sg34
+VWheels Within
+p69464
+sa(dp69465
+g86
+I363
+sg34
+VLover When You're Near Me
+p69466
+sa(dp69467
+g86
+I363
+sg34
+VLover When You're Near Me [2]
+p69468
+sa(dp69469
+g86
+I395
+sg34
+VFreudian Slip
+p69470
+sa(dp69471
+g86
+I363
+sg34
+VGarden in the Void
+p69472
+sa(dp69473
+g86
+I363
+sg34
+VGarden in the Void [2]
+p69474
+sa(dp69475
+g86
+I363
+sg34
+VGarden in the Void [3]
+p69476
+sa(dp69477
+g86
+I305
+sg34
+VForce Feeding
+p69478
+sa(dp69479
+g86
+I339
+sg34
+VFor Your Information (Galaxy, May 1952)
+p69480
+sa(dp69481
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, May 1952)
+p69482
+sa(dp69483
+g86
+I326
+sg34
+VForecast (Galaxy, May 1952)
+p69484
+sa(dp69485
+g86
+I122
+sg34
+VLover When You're Near Me
+p69486
+sa(dp69487
+g86
+I30
+sg34
+VGarden in the Void
+p69488
+sa(dp69489
+g86
+I396
+sg34
+VCategory Phoenix
+p69490
+sa(dp69491
+g86
+I362
+sg34
+VLost Memory
+p69492
+sa(dp69493
+g86
+I121
+sg34
+VWheels Within
+p69494
+sa(dp69495
+g86
+I397
+sg34
+VFreudian Slip
+p69496
+sasbag1
+(g2
+g3
+Ntp69497
+Rp69498
+(dp69499
+g49
+(lp69500
+sg30
+(lp69501
+sg86
+I302
+sg82
+(lp69502
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine June 1952
+p69503
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v04n03_1952-06/Galaxy_v04n03_1952-06_jp2.zip&file=Galaxy_v04n03_1952-06_jp2/Galaxy_v04n03_1952-06_0000.jp2&scale=0&rotate=0
+p69504
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f1/GALJUN1952.jpg'
+p69505
+sg14
+g68230
+sg16
+(lp69506
+sg75
+(lp69507
+I342
+aI398
+aI363
+aI305
+aI326
+aI339
+aI340
+aI243
+aI217
+aI40
+aI88
+aI387
+aI51
+aI302
+asg20
+(lp69508
+sg25
+I993
+sg68234
+(lp69509
+(dp69510
+g86
+I342
+sg34
+VGravy Planet (Part 1 of 3)
+p69511
+sa(dp69512
+g86
+I342
+sg34
+VGravy Planet (Part 1 of 3) [2]
+p69513
+sa(dp69514
+g86
+I342
+sg34
+VGravy Planet (Part 1 of 3) [3]
+p69515
+sa(dp69516
+g86
+I342
+sg34
+VGravy Planet (Part 1 of 3) [4]
+p69517
+sa(dp69518
+g86
+I342
+sg34
+VGravy Planet (Part 1 of 3) [5]
+p69519
+sa(dp69520
+g86
+I398
+sg34
+VThe Highest Mountain
+p69521
+sa(dp69522
+g86
+I363
+sg34
+VOrphans of the Void
+p69523
+sa(dp69524
+g86
+I363
+sg34
+VOrphans of the Void [2]
+p69525
+sa(dp69526
+g86
+I363
+sg34
+VOrphans of the Void [3]
+p69527
+sa(dp69528
+g86
+I363
+sg34
+VShipping Clerk
+p69529
+sa(dp69530
+g86
+I363
+sg34
+VThe Hoaxters
+p69531
+sa(dp69532
+g86
+I363
+sg34
+VThe Hoaxters [2]
+p69533
+sa(dp69534
+g86
+I363
+sg34
+VThe Hoaxters [3]
+p69535
+sa(dp69536
+g86
+I363
+sg34
+VThe Luckiest Man in Denv
+p69537
+sa(dp69538
+g86
+I305
+sg34
+VRandom Notes
+p69539
+sa(dp69540
+g86
+I326
+sg34
+VForecast (Galaxy, June 1952)
+p69541
+sa(dp69542
+g86
+I339
+sg34
+VFor Your Information (Galaxy, June 1952)
+p69543
+sa(dp69544
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1952)
+p69545
+sa(dp69546
+g86
+I243
+sg34
+VOrphans of the Void
+p69547
+sa(dp69548
+g86
+I217
+sg34
+VThe Hoaxters
+p69549
+sa(dp69550
+g86
+I40
+sg34
+VGravy Planet (Part 1 of 3)
+p69551
+sa(dp69552
+g86
+I88
+sg34
+VThe Highest Mountain
+p69553
+sa(dp69554
+g86
+I387
+sg34
+VShipping Clerk
+p69555
+sa(dp69556
+g86
+I51
+sg34
+VThe Luckiest Man in Denv
+p69557
+sasbag1
+(g2
+g3
+Ntp69558
+Rp69559
+(dp69560
+g49
+(lp69561
+sg30
+(lp69562
+sg86
+I302
+sg82
+(lp69563
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine July 1952
+p69564
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v04n04_1952-07/Galaxy_v04n04_1952-07_jp2.zip&file=Galaxy_v04n04_1952-07_jp2/Galaxy_v04n04_1952-07_0000.jp2&scale=0&rotate=0
+p69565
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d7/GALJUL1952.jpg'
+p69566
+sg14
+g68230
+sg16
+(lp69567
+sg75
+(lp69568
+I336
+aI363
+aI399
+aI342
+aI305
+aI326
+aI339
+aI340
+aI236
+aI383
+aI40
+aI400
+aI401
+aI122
+aI302
+asg20
+(lp69569
+sg25
+I994
+sg68234
+(lp69570
+(dp69571
+g86
+I336
+sg34
+VStar, Bright
+p69572
+sa(dp69573
+g86
+I336
+sg34
+VStar, Bright [2]
+p69574
+sa(dp69575
+g86
+I336
+sg34
+VStar, Bright [3]
+p69576
+sa(dp69577
+g86
+I336
+sg34
+VStar, Bright [4]
+p69578
+sa(dp69579
+g86
+I363
+sg34
+VWailing Wall
+p69580
+sa(dp69581
+g86
+I336
+sg34
+VOrigins of Galactic Slang
+p69582
+sa(dp69583
+g86
+I336
+sg34
+VOrigins of Galactic Slang [2]
+p69584
+sa(dp69585
+g86
+I336
+sg34
+VOrigins of Galactic Slang [3]
+p69586
+sa(dp69587
+g86
+I336
+sg34
+VOrigins of Galactic Slang [4]
+p69588
+sa(dp69589
+g86
+I336
+sg34
+VOrigins of Galactic Slang [5]
+p69590
+sa(dp69591
+g86
+I336
+sg34
+VOrigins of Galactic Slang [6]
+p69592
+sa(dp69593
+g86
+I336
+sg34
+VOrigins of Galactic Slang [7]
+p69594
+sa(dp69595
+g86
+I399
+sg34
+VDumb Martian
+p69596
+sa(dp69597
+g86
+I399
+sg34
+VDumb Martian [2]
+p69598
+sa(dp69599
+g86
+I399
+sg34
+VDumb Martian [3]
+p69600
+sa(dp69601
+g86
+I363
+sg34
+VShipshape Home
+p69602
+sa(dp69603
+g86
+I363
+sg34
+VShipshape Home [2]
+p69604
+sa(dp69605
+g86
+I342
+sg34
+VGravy Planet (Part 2 of 3)
+p69606
+sa(dp69607
+g86
+I342
+sg34
+VGravy Planet (Part 2 of 3) [2]
+p69608
+sa(dp69609
+g86
+I342
+sg34
+VGravy Planet (Part 2 of 3) [3]
+p69610
+sa(dp69611
+g86
+I342
+sg34
+VGravy Planet (Part 2 of 3) [4]
+p69612
+sa(dp69613
+g86
+I342
+sg34
+VGravy Planet (Part 2 of 3) [5]
+p69614
+sa(dp69615
+g86
+I305
+sg34
+VWonderment
+p69616
+sa(dp69617
+g86
+I326
+sg34
+VForecast (Galaxy, July 1952)
+p69618
+sa(dp69619
+g86
+I339
+sg34
+VFor Your Information: When Will Worlds Collide?
+p69620
+sa(dp69621
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, July 1952)
+p69622
+sa(dp69623
+g86
+I236
+sg34
+VStar, Bright
+p69624
+sa(dp69625
+g86
+I383
+sg34
+VDumb Martian
+p69626
+sa(dp69627
+g86
+I40
+sg34
+VGravy Planet (Part 2 of 3)
+p69628
+sa(dp69629
+g86
+I400
+sg34
+VWailing Wall
+p69630
+sa(dp69631
+g86
+I401
+sg34
+VOrigins of Galactic Slang
+p69632
+sa(dp69633
+g86
+I122
+sg34
+VShipshape Home
+p69634
+sasbag1
+(g2
+g3
+Ntp69635
+Rp69636
+(dp69637
+g49
+(lp69638
+sg30
+(lp69639
+sg86
+I302
+sg82
+(lp69640
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine August 1952
+p69641
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/Galaxy_v04n05_1952-08/Galaxy_v04n05_1952-08_jp2.zip&file=Galaxy_v04n05_1952-08_jp2/Galaxy_v04n05_1952-08_0000.jp2&scale=0&rotate=0
+p69642
+sg68228
+S'http://www.isfdb.org/wiki/images/0/02/GALAUG1952.jpg'
+p69643
+sg14
+g68230
+sg16
+(lp69644
+sg75
+(lp69645
+I363
+aI402
+aI342
+aI305
+aI339
+aI340
+aI55
+aI32
+aI40
+aI23
+aI403
+aI302
+asg20
+(lp69646
+sg25
+I995
+sg68234
+(lp69647
+(dp69648
+g86
+I363
+sg34
+VSurface Tension
+p69649
+sa(dp69650
+g86
+I363
+sg34
+VSurface Tension [2]
+p69651
+sa(dp69652
+g86
+I363
+sg34
+VSurface Tension [3]
+p69653
+sa(dp69654
+g86
+I363
+sg34
+VSurface Tension [4]
+p69655
+sa(dp69656
+g86
+I363
+sg34
+VSurface Tension [5]
+p69657
+sa(dp69658
+g86
+I363
+sg34
+VProof of the Pudding
+p69659
+sa(dp69660
+g86
+I363
+sg34
+VProof of the Pudding [2]
+p69661
+sa(dp69662
+g86
+I402
+sg34
+VYesterday House
+p69663
+sa(dp69664
+g86
+I402
+sg34
+VYesterday House [2]
+p69665
+sa(dp69666
+g86
+I402
+sg34
+VYesterday House [3]
+p69667
+sa(dp69668
+g86
+I363
+sg34
+VEducation of a Martian
+p69669
+sa(dp69670
+g86
+I342
+sg34
+VGravy Planet (Part 3 of 3)
+p69671
+sa(dp69672
+g86
+I342
+sg34
+VGravy Planet (Part 3 of 3) [2]
+p69673
+sa(dp69674
+g86
+I342
+sg34
+VGravy Planet (Part 3 of 3) [3]
+p69675
+sa(dp69676
+g86
+I342
+sg34
+VGravy Planet (Part 3 of 3) [4]
+p69677
+sa(dp69678
+g86
+I342
+sg34
+VGravy Planet (Part 3 of 3) [5]
+p69679
+sa(dp69680
+g86
+I305
+sg34
+VAction &Amp; Reaction
+p69681
+sa(dp69682
+g86
+I339
+sg34
+VFor Your Information: The Supersonic Bot Fly
+p69683
+sa(dp69684
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, August 1952)
+p69685
+sa(dp69686
+g86
+I55
+sg34
+VSurface Tension
+p69687
+sa(dp69688
+g86
+I32
+sg34
+VYesterday House
+p69689
+sa(dp69690
+g86
+I40
+sg34
+VGravy Planet (Part 3 of 3)
+p69691
+sa(dp69692
+g86
+I23
+sg34
+VProof of the Pudding
+p69693
+sa(dp69694
+g86
+I403
+sg34
+VEducation of a Martian
+p69695
+sasbag1
+(g2
+g3
+Ntp69696
+Rp69697
+(dp69698
+g49
+(lp69699
+sg30
+(lp69700
+sg86
+I302
+sg82
+(lp69701
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine September 1952
+p69702
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v04n06_1952-09/Galaxy_v04n06_1952-09_jp2.zip&file=Galaxy_v04n06_1952-09_jp2/Galaxy_v04n06_1952-09_0000.jp2&scale=0&rotate=0
+p69703
+sg68228
+S'http://www.isfdb.org/wiki/images/4/4f/GALSEP1952.jpg'
+p69704
+sg14
+g68230
+sg16
+(lp69705
+sg75
+(lp69706
+I342
+aI363
+aI402
+aI352
+aI305
+aI326
+aI404
+aI340
+aI393
+aI136
+aI36
+aI400
+aI237
+aI172
+aI315
+aI302
+asg20
+(lp69707
+sg25
+I996
+sg68234
+(lp69708
+(dp69709
+g86
+I342
+sg34
+VDelay in Transit
+p69710
+sa(dp69711
+g86
+I342
+sg34
+VDelay in Transit [2]
+p69712
+sa(dp69713
+g86
+I342
+sg34
+VDelay in Transit [3]
+p69714
+sa(dp69715
+g86
+I342
+sg34
+VDelay in Transit [4]
+p69716
+sa(dp69717
+g86
+I363
+sg34
+VThe Snowball Effect
+p69718
+sa(dp69719
+g86
+I363
+sg34
+VToday Is Forever
+p69720
+sa(dp69721
+g86
+I363
+sg34
+VThe Moons of Mars
+p69722
+sa(dp69723
+g86
+I363
+sg34
+VThe Moons of Mars [2]
+p69724
+sa(dp69725
+g86
+I402
+sg34
+VTea Tray in the Sky
+p69726
+sa(dp69727
+g86
+I402
+sg34
+VTea Tray in the Sky [2]
+p69728
+sa(dp69729
+g86
+I402
+sg34
+VTea Tray in the Sky [3]
+p69730
+sa(dp69731
+g86
+I402
+sg34
+VTea Tray in the Sky [4]
+p69732
+sa(dp69733
+g86
+I352
+sg34
+VThe Mousetrap
+p69734
+sa(dp69735
+g86
+I402
+sg34
+VThe Altruist
+p69736
+sa(dp69737
+g86
+I402
+sg34
+VThe Altruist [2]
+p69738
+sa(dp69739
+g86
+I402
+sg34
+VThe Altruist [3]
+p69740
+sa(dp69741
+g86
+I402
+sg34
+VThe Altruist [4]
+p69742
+sa(dp69743
+g86
+I305
+sg34
+VOn Heroes
+p69744
+sa(dp69745
+g86
+I326
+sg34
+VForecast (Galaxy, September 1952)
+p69746
+sa(dp69747
+g86
+I404
+sg34
+VFor Your Information: Space Travel
+p69748
+sa(dp69749
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, September 1952)
+p69750
+sa(dp69751
+g86
+I393
+sg34
+VDelay in Transit
+p69752
+sa(dp69753
+g86
+I136
+sg34
+VThe Altruist
+p69754
+sa(dp69755
+g86
+I36
+sg34
+VThe Snowball Effect
+p69756
+sa(dp69757
+g86
+I400
+sg34
+VToday Is Forever
+p69758
+sa(dp69759
+g86
+I237
+sg34
+VThe Moons of Mars
+p69760
+sa(dp69761
+g86
+I172
+sg34
+VTea Tray in the Sky
+p69762
+sa(dp69763
+g86
+I315
+sg34
+VThe Mousetrap
+p69764
+sasbag1
+(g2
+g3
+Ntp69765
+Rp69766
+(dp69767
+g49
+(lp69768
+sg30
+(lp69769
+sg86
+I302
+sg82
+(lp69770
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine October 1952
+p69771
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v05n01_1952-10/Galaxy_v05n01_1952-10_jp2.zip&file=Galaxy_v05n01_1952-10_jp2/Galaxy_v05n01_1952-10_0000.jp2&scale=0&rotate=0
+p69772
+sg68228
+S'http://www.isfdb.org/wiki/images/4/46/GALOCT1952.jpg'
+p69773
+sg14
+g68230
+sg16
+(lp69774
+sg75
+(lp69775
+I326
+aI405
+aI406
+aI407
+aI408
+aI409
+aI410
+aI402
+aI342
+aI363
+aI411
+aI336
+aI412
+aI305
+aI339
+aI340
+aI70
+aI413
+aI414
+aI24
+aI289
+aI137
+aI302
+asg20
+(lp69776
+sg25
+I997
+sg68234
+(lp69777
+(dp69778
+g86
+I326
+sg34
+VGalaxy's Birthday Party
+p69779
+sa(dp69780
+g86
+I405
+sg34
+VBa
+p69781
+sa(dp69782
+g86
+I406
+sg34
+VBa
+p69783
+sa(dp69784
+g86
+I407
+sg34
+VBa
+p69785
+sa(dp69786
+g86
+I408
+sg34
+VBa
+p69787
+sa(dp69788
+g86
+I409
+sg34
+VBa
+p69789
+sa(dp69790
+g86
+I410
+sg34
+VBa
+p69791
+sa(dp69792
+g86
+I402
+sg34
+VZen
+p69793
+sa(dp69794
+g86
+I342
+sg34
+VWait for Weight
+p69795
+sa(dp69796
+g86
+I363
+sg34
+VHalo
+p69797
+sa(dp69798
+g86
+I363
+sg34
+VHalo [2]
+p69799
+sa(dp69800
+g86
+I363
+sg34
+VHalo [3]
+p69801
+sa(dp69802
+g86
+I363
+sg34
+VHalo [4]
+p69803
+sa(dp69804
+g86
+I411
+sg34
+VTree, Spare That Woodman
+p69805
+sa(dp69806
+g86
+I336
+sg34
+VGame for Blondes
+p69807
+sa(dp69808
+g86
+I412
+sg34
+VA Little Oil ...
+p69809
+sa(dp69810
+g86
+I412
+sg34
+VA Little Oil ... [2]
+p69811
+sa(dp69812
+g86
+I412
+sg34
+VA Little Oil ... [3]
+p69813
+sa(dp69814
+g86
+I305
+sg34
+VAnnual Report to Our Readers
+p69815
+sa(dp69816
+g86
+I339
+sg34
+VFor Your Information: The World of 2052
+p69817
+sa(dp69818
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, October 1952)
+p69819
+sa(dp69820
+g86
+I326
+sg34
+VForecast (Galaxy, October 1952)
+p69821
+sa(dp69822
+g86
+I70
+sg34
+VHalo
+p69823
+sa(dp69824
+g86
+I413
+sg34
+VA Little Oil ...
+p69825
+sa(dp69826
+g86
+I414
+sg34
+VZen
+p69827
+sa(dp69828
+g86
+I24
+sg34
+VWait for Weight
+p69829
+sa(dp69830
+g86
+I289
+sg34
+VTree, Spare That Woodman
+p69831
+sa(dp69832
+g86
+I137
+sg34
+VGame for Blondes
+p69833
+sasbag1
+(g2
+g3
+Ntp69834
+Rp69835
+(dp69836
+g49
+(lp69837
+sg30
+(lp69838
+sg86
+I302
+sg82
+(lp69839
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine November 1952
+p69840
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v05n02_1952-11/Galaxy_v05n02_1952-11_jp2.zip&file=Galaxy_v05n02_1952-11_jp2/Galaxy_v05n02_1952-11_0000.jp2&scale=0&rotate=0
+p69841
+sg68228
+S'http://www.isfdb.org/wiki/images/f/fa/GALNOV1952.jpg'
+p69842
+sg14
+g68230
+sg16
+(lp69843
+sg75
+(lp69844
+I363
+aI415
+aI402
+aI336
+aI352
+aI305
+aI326
+aI339
+aI340
+aI416
+aI389
+aI3
+aI23
+aI188
+aI51
+aI161
+aI387
+aI302
+asg20
+(lp69845
+sg25
+I998
+sg68234
+(lp69846
+(dp69847
+g86
+I363
+sg34
+VThe Martian Way
+p69848
+sa(dp69849
+g86
+I363
+sg34
+VThe Martian Way [2]
+p69850
+sa(dp69851
+g86
+I363
+sg34
+VThe Martian Way [3]
+p69852
+sa(dp69853
+g86
+I363
+sg34
+VThe Martian Way [4]
+p69854
+sa(dp69855
+g86
+I415
+sg34
+VWarrior Race
+p69856
+sa(dp69857
+g86
+I402
+sg34
+VSugar Plum
+p69858
+sa(dp69859
+g86
+I402
+sg34
+VSugar Plum [2]
+p69860
+sa(dp69861
+g86
+I402
+sg34
+VSugar Plum [3]
+p69862
+sa(dp69863
+g86
+I336
+sg34
+VA Thought for Tomorrow
+p69864
+sa(dp69865
+g86
+I402
+sg34
+VThe Altar at Midnight
+p69866
+sa(dp69867
+g86
+I352
+sg34
+VThe Misogynist
+p69868
+sa(dp69869
+g86
+I402
+sg34
+VRunaway
+p69870
+sa(dp69871
+g86
+I402
+sg34
+VCommand Performance
+p69872
+sa(dp69873
+g86
+I402
+sg34
+VCommand Performance [2]
+p69874
+sa(dp69875
+g86
+I402
+sg34
+VCommand Performance [3]
+p69876
+sa(dp69877
+g86
+I305
+sg34
+VThe Next Voice
+p69878
+sa(dp69879
+g86
+I326
+sg34
+VForecast (Galaxy, November 1952)
+p69880
+sa(dp69881
+g86
+I339
+sg34
+VFor Your Information: Mars
+p69882
+sa(dp69883
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, November 1952)
+p69884
+sa(dp69885
+g86
+I416
+sg34
+VSugar Plum
+p69886
+sa(dp69887
+g86
+I389
+sg34
+VCommand Performance
+p69888
+sa(dp69889
+g86
+I3
+sg34
+VThe Martian Way
+p69890
+sa(dp69891
+g86
+I23
+sg34
+VWarrior Race
+p69892
+sa(dp69893
+g86
+I188
+sg34
+VA Thought for Tomorrow
+p69894
+sa(dp69895
+g86
+I51
+sg34
+VThe Altar at Midnight
+p69896
+sa(dp69897
+g86
+I161
+sg34
+VThe Misogynist
+p69898
+sa(dp69899
+g86
+I387
+sg34
+VRunaway
+p69900
+sasbag1
+(g2
+g3
+Ntp69901
+Rp69902
+(dp69903
+g49
+(lp69904
+sg30
+(lp69905
+sg86
+I302
+sg82
+(lp69906
+I2
+asg13
+I1952
+sg34
+VGalaxy Magazine December 1952
+p69907
+sg11
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v05n03_1952-12/Galaxy_v05n03_1952-12_jp2.zip&file=Galaxy_v05n03_1952-12_jp2/Galaxy_v05n03_1952-12_0000.jp2&scale=0&rotate=0
+p69908
+sg68228
+S'http://www.isfdb.org/wiki/images/0/06/GALDEC1952.jpg'
+p69909
+sg14
+g68230
+sg16
+(lp69910
+sg75
+(lp69911
+I342
+aI363
+aI417
+aI402
+aI305
+aI339
+aI326
+aI340
+aI3
+aI56
+aI203
+aI418
+aI23
+aI302
+asg20
+(lp69912
+sg25
+I999
+sg68234
+(lp69913
+(dp69914
+g86
+I342
+sg34
+VRing Around the Sun (Part 1 of 3)
+p69915
+sa(dp69916
+g86
+I342
+sg34
+VRing Around the Sun (Part 1 of 3) [2]
+p69917
+sa(dp69918
+g86
+I342
+sg34
+VRing Around the Sun (Part 1 of 3) [3]
+p69919
+sa(dp69920
+g86
+I342
+sg34
+VRing Around the Sun (Part 1 of 3) [4]
+p69921
+sa(dp69922
+g86
+I363
+sg34
+VHomesick
+p69923
+sa(dp69924
+g86
+I363
+sg34
+VThe Reluctant Weapon
+p69925
+sa(dp69926
+g86
+I363
+sg34
+VThe Reluctant Weapon [2]
+p69927
+sa(dp69928
+g86
+I363
+sg34
+VThe Reluctant Weapon [3]
+p69929
+sa(dp69930
+g86
+I417
+sg34
+VThe Leech
+p69931
+sa(dp69932
+g86
+I363
+sg34
+VCost of Living
+p69933
+sa(dp69934
+g86
+I402
+sg34
+VThe Deep
+p69935
+sa(dp69936
+g86
+I402
+sg34
+VThe Deep [2]
+p69937
+sa(dp69938
+g86
+I402
+sg34
+VThe Deep [3]
+p69939
+sa(dp69940
+g86
+I305
+sg34
+VWhat's New?
+p69941
+sa(dp69942
+g86
+I339
+sg34
+VFor Your Information: Cause of the Ice Age
+p69943
+sa(dp69944
+g86
+I326
+sg34
+VForecast (Galaxy, December 1952)
+p69945
+sa(dp69946
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, December 1952)
+p69947
+sa(dp69948
+g86
+I3
+sg34
+VThe Deep
+p69949
+sa(dp69950
+g86
+I56
+sg34
+VRing Around the Sun (Part 1 of 3)
+p69951
+sa(dp69952
+g86
+I203
+sg34
+VHomesick
+p69953
+sa(dp69954
+g86
+I418
+sg34
+VThe Reluctant Weapon
+p69955
+sa(dp69956
+g86
+I23
+sg34
+VThe Leech
+p69957
+sa(dp69958
+g86
+I23
+sg34
+VCost of Living
+p69959
+sasbag1
+(g2
+g3
+Ntp69960
+Rp69961
+(dp69962
+g49
+(lp69963
+sg30
+(lp69964
+sg86
+I302
+sg82
+(lp69965
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine January 1953
+p69966
+sg11
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/Galaxy_v05n04_1953-01/Galaxy_v05n04_1953-01_jp2.zip&file=Galaxy_v05n04_1953-01_jp2/Galaxy_v05n04_1953-01_0000.jp2&scale=0&rotate=0
+p69967
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d1/GALJAN53.jpg'
+p69968
+sg14
+g68230
+sg16
+(lp69969
+sg75
+(lp69970
+I363
+aI419
+aI402
+aI420
+aI342
+aI305
+aI339
+aI340
+aI326
+aI8
+aI217
+aI56
+aI421
+aI422
+aI423
+aI302
+asg20
+(lp69971
+sg25
+I1000
+sg68234
+(lp69972
+(dp69973
+g86
+I363
+sg34
+VThe Defenders
+p69974
+sa(dp69975
+g86
+I363
+sg34
+VThe Defenders [2]
+p69976
+sa(dp69977
+g86
+I363
+sg34
+VThe Defenders [3]
+p69978
+sa(dp69979
+g86
+I419
+sg34
+VTeething Ring
+p69980
+sa(dp69981
+g86
+I419
+sg34
+VLife Sentence
+p69982
+sa(dp69983
+g86
+I402
+sg34
+VThe Inhabited
+p69984
+sa(dp69985
+g86
+I402
+sg34
+VThe Inhabited [2]
+p69986
+sa(dp69987
+g86
+I402
+sg34
+VThe Inhabited [3]
+p69988
+sa(dp69989
+g86
+I420
+sg34
+VPrott
+p69990
+sa(dp69991
+g86
+I342
+sg34
+VRing Around the Sun (Part 2 of 3)
+p69992
+sa(dp69993
+g86
+I342
+sg34
+VRing Around the Sun (Part 2 of 3) [2]
+p69994
+sa(dp69995
+g86
+I342
+sg34
+VRing Around the Sun (Part 2 of 3) [3]
+p69996
+sa(dp69997
+g86
+I342
+sg34
+VRing Around the Sun (Part 2 of 3) [4]
+p69998
+sa(dp69999
+g86
+I305
+sg34
+VCommon Sense
+p70000
+sa(dp70001
+g86
+I339
+sg34
+VFor Your Information: Ice Age (Ii)
+p70002
+sa(dp70003
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, January 1953)
+p70004
+sa(dp70005
+g86
+I326
+sg34
+VForecast (Galaxy, January 1953)
+p70006
+sa(dp70007
+g86
+I8
+sg34
+VThe Defenders
+p70008
+sa(dp70009
+g86
+I217
+sg34
+VThe Inhabited
+p70010
+sa(dp70011
+g86
+I56
+sg34
+VRing Around the Sun (Part 2 of 3)
+p70012
+sa(dp70013
+g86
+I421
+sg34
+VTeething Ring
+p70014
+sa(dp70015
+g86
+I422
+sg34
+VLife Sentence
+p70016
+sa(dp70017
+g86
+I423
+sg34
+VPrott
+p70018
+sasbag1
+(g2
+g3
+Ntp70019
+Rp70020
+(dp70021
+g49
+(lp70022
+sg30
+(lp70023
+sg86
+I302
+sg82
+(lp70024
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine February 1953
+p70025
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v05n05_1953-02/Galaxy_v05n05_1953-02_jp2.zip&file=Galaxy_v05n05_1953-02_jp2/Galaxy_v05n05_1953-02_0000.jp2&scale=0&rotate=0
+p70026
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b6/GALFEB53.jpg'
+p70027
+sg14
+g68230
+sg16
+(lp70028
+sg75
+(lp70029
+I402
+aI363
+aI424
+aI342
+aI305
+aI326
+aI339
+aI340
+aI204
+aI23
+aI56
+aI91
+aI341
+aI425
+aI302
+asg20
+(lp70030
+sg25
+I1001
+sg68234
+(lp70031
+(dp70032
+g86
+I402
+sg34
+VFour in One
+p70033
+sa(dp70034
+g86
+I402
+sg34
+VFour in One [2]
+p70035
+sa(dp70036
+g86
+I402
+sg34
+VFour in One [3]
+p70037
+sa(dp70038
+g86
+I363
+sg34
+VProtective Mimicry
+p70039
+sa(dp70040
+g86
+I424
+sg34
+VSaucer of Loneliness
+p70041
+sa(dp70042
+g86
+I363
+sg34
+VWatchbird
+p70043
+sa(dp70044
+g86
+I363
+sg34
+VWatchbird [2]
+p70045
+sa(dp70046
+g86
+I363
+sg34
+VWatchbird [3]
+p70047
+sa(dp70048
+g86
+I424
+sg34
+VKnow Thy Neighbor
+p70049
+sa(dp70050
+g86
+I342
+sg34
+VRing Around the Sun (Part 3 of 3)
+p70051
+sa(dp70052
+g86
+I342
+sg34
+VRing Around the Sun (Part 3 of 3) [2]
+p70053
+sa(dp70054
+g86
+I342
+sg34
+VRing Around the Sun (Part 3 of 3) [3]
+p70055
+sa(dp70056
+g86
+I342
+sg34
+VRing Around the Sun (Part 3 of 3) [4]
+p70057
+sa(dp70058
+g86
+I305
+sg34
+VBuy Me That!
+p70059
+sa(dp70060
+g86
+I326
+sg34
+VForecast (Galaxy, February 1953)
+p70061
+sa(dp70062
+g86
+I339
+sg34
+VFor Your Information: The Ice Age (Iii)
+p70063
+sa(dp70064
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, February 1953)
+p70065
+sa(dp70066
+g86
+I204
+sg34
+VFour in One
+p70067
+sa(dp70068
+g86
+I23
+sg34
+VWatchbird
+p70069
+sa(dp70070
+g86
+I56
+sg34
+VRing Around the Sun (Part 3 of 3)
+p70071
+sa(dp70072
+g86
+I91
+sg34
+VProtective Mimicry
+p70073
+sa(dp70074
+g86
+I341
+sg34
+VSaucer of Loneliness
+p70075
+sa(dp70076
+g86
+I425
+sg34
+VKnow Thy Neighbor
+p70077
+sasbag1
+(g2
+g3
+Ntp70078
+Rp70079
+(dp70080
+g49
+(lp70081
+sg30
+(lp70082
+sg86
+I302
+sg82
+(lp70083
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine March 1953
+p70084
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v05n06_1953-03/Galaxy_v05n06_1953-03_jp2.zip&file=Galaxy_v05n06_1953-03_jp2/Galaxy_v05n06_1953-03_0000.jp2&scale=0&rotate=0
+p70085
+sg68228
+S'http://www.isfdb.org/wiki/images/4/42/GALMAR53.jpg'
+p70086
+sg14
+g68230
+sg16
+(lp70087
+sg75
+(lp70088
+I402
+aI363
+aI326
+aI305
+aI339
+aI340
+aI393
+aI30
+aI36
+aI125
+aI359
+aI302
+asg20
+(lp70089
+sg25
+I1002
+sg68234
+(lp70090
+(dp70091
+g86
+I402
+sg34
+VThe Old Die Rich
+p70092
+sa(dp70093
+g86
+I402
+sg34
+VThe Old Die Rich [2]
+p70094
+sa(dp70095
+g86
+I402
+sg34
+VThe Old Die Rich [3]
+p70096
+sa(dp70097
+g86
+I402
+sg34
+VThe Old Die Rich [4]
+p70098
+sa(dp70099
+g86
+I402
+sg34
+VThe Old Die Rich [5]
+p70100
+sa(dp70101
+g86
+I402
+sg34
+VThe Old Die Rich [6]
+p70102
+sa(dp70103
+g86
+I402
+sg34
+VGames
+p70104
+sa(dp70105
+g86
+I402
+sg34
+VStudent Body
+p70106
+sa(dp70107
+g86
+I402
+sg34
+VStudent Body [2]
+p70108
+sa(dp70109
+g86
+I402
+sg34
+VStudent Body [3]
+p70110
+sa(dp70111
+g86
+I402
+sg34
+VStudent Body [4]
+p70112
+sa(dp70113
+g86
+I402
+sg34
+VStudent Body [5]
+p70114
+sa(dp70115
+g86
+I402
+sg34
+VStudent Body [6]
+p70116
+sa(dp70117
+g86
+I363
+sg34
+VSecret of the House
+p70118
+sa(dp70119
+g86
+I363
+sg34
+VThe Drop
+p70120
+sa(dp70121
+g86
+I363
+sg34
+VThe Drop [2]
+p70122
+sa(dp70123
+g86
+I363
+sg34
+VThe Drop [3]
+p70124
+sa(dp70125
+g86
+I326
+sg34
+VHorse Trader
+p70126
+sa(dp70127
+g86
+I326
+sg34
+VHorse Trader [2]
+p70128
+sa(dp70129
+g86
+I326
+sg34
+VHorse Trader [3]
+p70130
+sa(dp70131
+g86
+I305
+sg34
+VFor Writers Mostly
+p70132
+sa(dp70133
+g86
+I339
+sg34
+VFor Your Information: Ancestor of the Dinosaurs
+p70134
+sa(dp70135
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, March 1953)
+p70136
+sa(dp70137
+g86
+I326
+sg34
+VForecast (Galaxy, March 1953)
+p70138
+sa(dp70139
+g86
+I393
+sg34
+VStudent Body
+p70140
+sa(dp70141
+g86
+I30
+sg34
+VHorse Trader
+p70142
+sa(dp70143
+g86
+I305
+sg34
+VThe Old Die Rich
+p70144
+sa(dp70145
+g86
+I36
+sg34
+VGames
+p70146
+sa(dp70147
+g86
+I125
+sg34
+VSecret of the House
+p70148
+sa(dp70149
+g86
+I359
+sg34
+VThe Drop
+p70150
+sasbag1
+(g2
+g3
+Ntp70151
+Rp70152
+(dp70153
+g49
+(lp70154
+sg30
+(lp70155
+sg86
+I302
+sg82
+(lp70156
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine April 1953
+p70157
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_v06n01_1953-04/Galaxy_v06n01_1953-04_jp2.zip&file=Galaxy_v06n01_1953-04_jp2/Galaxy_v06n01_1953-04_0000.jp2&scale=0&rotate=0
+p70158
+sg68228
+S'http://www.isfdb.org/wiki/images/c/c2/MLO4310.jpg'
+p70159
+sg14
+g68230
+sg16
+(lp70160
+sg75
+(lp70161
+I363
+aI402
+aI336
+aI426
+aI427
+aI305
+aI326
+aI339
+aI340
+aI384
+aI362
+aI61
+aI23
+aI401
+aI428
+aI302
+asg20
+(lp70162
+sg25
+I1003
+sg68234
+(lp70163
+(dp70164
+g86
+I363
+sg34
+VMade in U.S.A.
+p70165
+sa(dp70166
+g86
+I363
+sg34
+VMade in U.S.A. [2]
+p70167
+sa(dp70168
+g86
+I363
+sg34
+VMade in U.S.A. [3]
+p70169
+sa(dp70170
+g86
+I363
+sg34
+VMade in U.S.A. [4]
+p70171
+sa(dp70172
+g86
+I363
+sg34
+VSeventh Victim
+p70173
+sa(dp70174
+g86
+I402
+sg34
+VUniversity
+p70175
+sa(dp70176
+g86
+I402
+sg34
+VUniversity [2]
+p70177
+sa(dp70178
+g86
+I402
+sg34
+VUniversity [3]
+p70179
+sa(dp70180
+g86
+I336
+sg34
+VOrigins of Galactic Law
+p70181
+sa(dp70182
+g86
+I336
+sg34
+VOrigins of Galactic Law [2]
+p70183
+sa(dp70184
+g86
+I336
+sg34
+VOrigins of Galactic Law [3]
+p70185
+sa(dp70186
+g86
+I336
+sg34
+VOrigins of Galactic Law [4]
+p70187
+sa(dp70188
+g86
+I336
+sg34
+VOrigins of Galactic Law [5]
+p70189
+sa(dp70190
+g86
+I336
+sg34
+VOrigins of Galactic Law [6]
+p70191
+sa(dp70192
+g86
+I426
+sg34
+VUnready to Wear
+p70193
+sa(dp70194
+g86
+I427
+sg34
+VThe Sentimentalists
+p70195
+sa(dp70196
+g86
+I427
+sg34
+VThe Sentimentalists [2]
+p70197
+sa(dp70198
+g86
+I427
+sg34
+VThe Sentimentalists [3]
+p70199
+sa(dp70200
+g86
+I305
+sg34
+VCommon Sense (Ii)
+p70201
+sa(dp70202
+g86
+I326
+sg34
+VForecast (Galaxy, April 1953)
+p70203
+sa(dp70204
+g86
+I339
+sg34
+VFor Your Information: The Birth of the Space Station
+p70205
+sa(dp70206
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, April 1953)
+p70207
+sa(dp70208
+g86
+I384
+sg34
+VMade in U.S.A.
+p70209
+sa(dp70210
+g86
+I362
+sg34
+VUniversity
+p70211
+sa(dp70212
+g86
+I61
+sg34
+VThe Sentimentalists
+p70213
+sa(dp70214
+g86
+I23
+sg34
+VSeventh Victim
+p70215
+sa(dp70216
+g86
+I401
+sg34
+VOrigins of Galactic Law
+p70217
+sa(dp70218
+g86
+I428
+sg34
+VUnready to Wear
+p70219
+sasbag1
+(g2
+g3
+Ntp70220
+Rp70221
+(dp70222
+g49
+(lp70223
+sg30
+(lp70224
+sg86
+I302
+sg82
+(lp70225
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine May 1953
+p70226
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v06n02_1953-05/Galaxy_v06n02_1953-05_jp2.zip&file=Galaxy_v06n02_1953-05_jp2/Galaxy_v06n02_1953-05_0000.jp2&scale=0&rotate=0
+p70227
+sg68228
+S'http://www.isfdb.org/wiki/images/0/00/MLO4311.jpg'
+p70228
+sg14
+g68230
+sg16
+(lp70229
+sg75
+(lp70230
+I342
+aI344
+aI363
+aI419
+aI326
+aI305
+aI339
+aI340
+aI56
+aI161
+aI23
+aI429
+aI172
+aI302
+asg20
+(lp70231
+sg25
+I1004
+sg68234
+(lp70232
+(dp70233
+g86
+I342
+sg34
+VWherever You May Be
+p70234
+sa(dp70235
+g86
+I342
+sg34
+VWherever You May Be [2]
+p70236
+sa(dp70237
+g86
+I342
+sg34
+VWherever You May Be [3]
+p70238
+sa(dp70239
+g86
+I342
+sg34
+VWherever You May Be [4]
+p70240
+sa(dp70241
+g86
+I344
+sg34
+VSpecialist
+p70242
+sa(dp70243
+g86
+I363
+sg34
+VA Gleeb for Earth
+p70244
+sa(dp70245
+g86
+I419
+sg34
+VNot Fit for Children
+p70246
+sa(dp70247
+g86
+I342
+sg34
+VJunkyard
+p70248
+sa(dp70249
+g86
+I342
+sg34
+VJunkyard [2]
+p70250
+sa(dp70251
+g86
+I342
+sg34
+VJunkyard [3]
+p70252
+sa(dp70253
+g86
+I326
+sg34
+VForecast (Galaxy, May 1953)
+p70254
+sa(dp70255
+g86
+I305
+sg34
+VGueffef On Progreff
+p70256
+sa(dp70257
+g86
+I339
+sg34
+VFor Your Information: The Birth of the Space Station (Ii)
+p70258
+sa(dp70259
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, May 1953)
+p70260
+sa(dp70261
+g86
+I56
+sg34
+VJunkyard
+p70262
+sa(dp70263
+g86
+I161
+sg34
+VWherever You May Be
+p70264
+sa(dp70265
+g86
+I23
+sg34
+VSpecialist
+p70266
+sa(dp70267
+g86
+I429
+sg34
+VA Gleeb for Earth
+p70268
+sa(dp70269
+g86
+I172
+sg34
+VNot Fit for Children
+p70270
+sasbag1
+(g2
+g3
+Ntp70271
+Rp70272
+(dp70273
+g49
+(lp70274
+sg30
+(lp70275
+sg86
+I302
+sg82
+(lp70276
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine June 1953
+p70277
+sg11
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v06n03_1953-06/Galaxy_v06n03_1953-06_jp2.zip&file=Galaxy_v06n03_1953-06_jp2/Galaxy_v06n03_1953-06_0000.jp2&scale=0&rotate=0
+p70278
+sg68228
+S'http://www.isfdb.org/wiki/images/8/82/MLO4312.jpg'
+p70279
+sg14
+g68230
+sg16
+(lp70280
+sg75
+(lp70281
+I363
+aI430
+aI417
+aI305
+aI339
+aI326
+aI340
+aI384
+aI8
+aI393
+aI228
+aI23
+aI136
+aI217
+aI302
+asg20
+(lp70282
+sg25
+I1005
+sg68234
+(lp70283
+(dp70284
+g86
+I363
+sg34
+VTangle Hold
+p70285
+sa(dp70286
+g86
+I363
+sg34
+VTangle Hold [2]
+p70287
+sa(dp70288
+g86
+I363
+sg34
+VTangle Hold [3]
+p70289
+sa(dp70290
+g86
+I430
+sg34
+VThe Water Eater
+p70291
+sa(dp70292
+g86
+I363
+sg34
+VWarm
+p70293
+sa(dp70294
+g86
+I363
+sg34
+VFirst Lady
+p70295
+sa(dp70296
+g86
+I363
+sg34
+VFirst Lady [2]
+p70297
+sa(dp70298
+g86
+I363
+sg34
+VFirst Lady [3]
+p70299
+sa(dp70300
+g86
+I363
+sg34
+VWe Don't Want Any Trouble
+p70301
+sa(dp70302
+g86
+I417
+sg34
+VIf You Were the Only&Mdash;
+p70303
+sa(dp70304
+g86
+I363
+sg34
+VColony
+p70305
+sa(dp70306
+g86
+I363
+sg34
+VColony [2]
+p70307
+sa(dp70308
+g86
+I363
+sg34
+VColony [3]
+p70309
+sa(dp70310
+g86
+I305
+sg34
+VOf All Things
+p70311
+sa(dp70312
+g86
+I339
+sg34
+VFor Your Information: The Intractable Prime Number
+p70313
+sa(dp70314
+g86
+I326
+sg34
+VForecast (Galaxy, June 1953)
+p70315
+sa(dp70316
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1953)
+p70317
+sa(dp70318
+g86
+I384
+sg34
+VFirst Lady
+p70319
+sa(dp70320
+g86
+I8
+sg34
+VColony
+p70321
+sa(dp70322
+g86
+I393
+sg34
+VTangle Hold
+p70323
+sa(dp70324
+g86
+I228
+sg34
+VThe Water Eater
+p70325
+sa(dp70326
+g86
+I23
+sg34
+VWarm
+p70327
+sa(dp70328
+g86
+I136
+sg34
+VWe Don't Want Any Trouble
+p70329
+sa(dp70330
+g86
+I217
+sg34
+VIf You Were the Only&Mdash;
+p70331
+sasbag1
+(g2
+g3
+Ntp70332
+Rp70333
+(dp70334
+g49
+(lp70335
+sg30
+(lp70336
+sg86
+I302
+sg82
+(lp70337
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine July 1953
+p70338
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v06n04_1953-07/Galaxy_v06n04_1953-07_jp2.zip&file=Galaxy_v06n04_1953-07_jp2/Galaxy_v06n04_1953-07_0000.jp2&scale=0&rotate=0
+p70339
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d4/MLO4313.jpg'
+p70340
+sg14
+g68230
+sg16
+(lp70341
+sg75
+(lp70342
+I342
+aI363
+aI402
+aI431
+aI419
+aI305
+aI339
+aI326
+aI340
+aI56
+aI387
+aI243
+aI136
+aI123
+aI32
+aI432
+aI302
+asg20
+(lp70343
+sg25
+I1006
+sg68234
+(lp70344
+(dp70345
+g86
+I342
+sg34
+VKindergarten
+p70346
+sa(dp70347
+g86
+I342
+sg34
+VKindergarten [2]
+p70348
+sa(dp70349
+g86
+I342
+sg34
+VKindergarten [3]
+p70350
+sa(dp70351
+g86
+I342
+sg34
+VKindergarten [4]
+p70352
+sa(dp70353
+g86
+I363
+sg34
+VCaretaker
+p70354
+sa(dp70355
+g86
+I402
+sg34
+VHome Is the Hunter
+p70356
+sa(dp70357
+g86
+I431
+sg34
+VThe Weather On Mercury
+p70358
+sa(dp70359
+g86
+I431
+sg34
+VThe Weather On Mercury [2]
+p70360
+sa(dp70361
+g86
+I431
+sg34
+VThe Weather On Mercury [3]
+p70362
+sa(dp70363
+g86
+I363
+sg34
+VA Bad Day for Sales
+p70364
+sa(dp70365
+g86
+I419
+sg34
+VGreen Grew the Lasses
+p70366
+sa(dp70367
+g86
+I363
+sg34
+VSoldier Boy
+p70368
+sa(dp70369
+g86
+I363
+sg34
+VSoldier Boy [2]
+p70370
+sa(dp70371
+g86
+I363
+sg34
+VSoldier Boy [3]
+p70372
+sa(dp70373
+g86
+I363
+sg34
+VSoldier Boy [4]
+p70374
+sa(dp70375
+g86
+I305
+sg34
+VOld Laws - New Uses
+p70376
+sa(dp70377
+g86
+I339
+sg34
+VFor Your Information: Second Trip to Venus
+p70378
+sa(dp70379
+g86
+I326
+sg34
+VForecast (Galaxy, July 1953)
+p70380
+sa(dp70381
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, July 1953)
+p70382
+sa(dp70383
+g86
+I56
+sg34
+VKindergarten
+p70384
+sa(dp70385
+g86
+I387
+sg34
+VThe Weather On Mercury
+p70386
+sa(dp70387
+g86
+I243
+sg34
+VSoldier Boy
+p70388
+sa(dp70389
+g86
+I136
+sg34
+VCaretaker
+p70390
+sa(dp70391
+g86
+I123
+sg34
+VHome Is the Hunter
+p70392
+sa(dp70393
+g86
+I32
+sg34
+VA Bad Day for Sales
+p70394
+sa(dp70395
+g86
+I432
+sg34
+VGreen Grew the Lasses
+p70396
+sasbag1
+(g2
+g3
+Ntp70397
+Rp70398
+(dp70399
+g49
+(lp70400
+sg30
+(lp70401
+sg86
+I302
+sg82
+(lp70402
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine August 1953
+p70403
+sg11
+Vhttps://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_v06n05_1953-08/Galaxy_v06n05_1953-08_jp2.zip&file=Galaxy_v06n05_1953-08_jp2/Galaxy_v06n05_1953-08_0000.jp2&scale=0&rotate=0
+p70404
+sg68228
+S'http://www.isfdb.org/wiki/images/2/28/MLO4314.jpg'
+p70405
+sg14
+g68230
+sg16
+(lp70406
+sg75
+(lp70407
+I431
+aI430
+aI402
+aI363
+aI433
+aI305
+aI339
+aI340
+aI326
+aI23
+aI148
+aI384
+aI236
+aI247
+aI434
+aI302
+asg20
+(lp70408
+sg25
+I1007
+sg68234
+(lp70409
+(dp70410
+g86
+I431
+sg34
+VMind Alone
+p70411
+sa(dp70412
+g86
+I431
+sg34
+VMind Alone [2]
+p70413
+sa(dp70414
+g86
+I431
+sg34
+VMind Alone [3]
+p70415
+sa(dp70416
+g86
+I430
+sg34
+VWe're Civilized!
+p70417
+sa(dp70418
+g86
+I402
+sg34
+VDiplomatic Immunity
+p70419
+sa(dp70420
+g86
+I402
+sg34
+VDiplomatic Immunity [2]
+p70421
+sa(dp70422
+g86
+I402
+sg34
+VDiplomatic Immunity [3]
+p70423
+sa(dp70424
+g86
+I363
+sg34
+VThe Trap
+p70425
+sa(dp70426
+g86
+I363
+sg34
+VMinimum Sentence
+p70427
+sa(dp70428
+g86
+I433
+sg34
+VStamped Caution
+p70429
+sa(dp70430
+g86
+I433
+sg34
+VStamped Caution [2]
+p70431
+sa(dp70432
+g86
+I433
+sg34
+VStamped Caution [3]
+p70433
+sa(dp70434
+g86
+I305
+sg34
+VChance &Amp; Maps
+p70435
+sa(dp70436
+g86
+I339
+sg34
+VFor Your Information: Scientific Journey
+p70437
+sa(dp70438
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1953)
+p70439
+sa(dp70440
+g86
+I326
+sg34
+VForecast (Galaxy, August 1953)
+p70441
+sa(dp70442
+g86
+I23
+sg34
+VDiplomatic Immunity
+p70443
+sa(dp70444
+g86
+I148
+sg34
+VStamped Caution
+p70445
+sa(dp70446
+g86
+I384
+sg34
+VMind Alone
+p70447
+sa(dp70448
+g86
+I236
+sg34
+VWe're Civilized!
+p70449
+sa(dp70450
+g86
+I247
+sg34
+VThe Trap
+p70451
+sa(dp70452
+g86
+I434
+sg34
+VMinimum Sentence
+p70453
+sasbag1
+(g2
+g3
+Ntp70454
+Rp70455
+(dp70456
+g49
+(lp70457
+sg30
+(lp70458
+sg86
+I302
+sg82
+(lp70459
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine September 1953
+p70460
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/Galaxy_v06n06_1953-09/Galaxy_v06n06_1953-09_jp2.zip&file=Galaxy_v06n06_1953-09_jp2/Galaxy_v06n06_1953-09_0000.jp2&scale=0&rotate=0
+p70461
+sg68228
+S'http://www.isfdb.org/wiki/images/1/1c/MLO4315.jpg'
+p70462
+sg14
+g68230
+sg16
+(lp70463
+sg75
+(lp70464
+I363
+aI435
+aI419
+aI342
+aI430
+aI436
+aI305
+aI339
+aI326
+aI340
+aI437
+aI121
+aI341
+aI56
+aI400
+aI289
+aI268
+aI302
+asg20
+(lp70465
+sg25
+I1008
+sg68234
+(lp70466
+(dp70467
+g86
+I363
+sg34
+VThe Touch of Your Hand
+p70468
+sa(dp70469
+g86
+I363
+sg34
+VThe Touch of Your Hand [2]
+p70470
+sa(dp70471
+g86
+I363
+sg34
+VThe Touch of Your Hand [3]
+p70472
+sa(dp70473
+g86
+I435
+sg34
+VWorrywart
+p70474
+sa(dp70475
+g86
+I419
+sg34
+VProblem On Balak
+p70476
+sa(dp70477
+g86
+I342
+sg34
+VFar From the Warming Sun
+p70478
+sa(dp70479
+g86
+I342
+sg34
+VFar From the Warming Sun [2]
+p70480
+sa(dp70481
+g86
+I342
+sg34
+VFar From the Warming Sun [3]
+p70482
+sa(dp70483
+g86
+I430
+sg34
+VNew Hire
+p70484
+sa(dp70485
+g86
+I436
+sg34
+VHalf Past Alligator
+p70486
+sa(dp70487
+g86
+I436
+sg34
+VHalf Past Alligator [2]
+p70488
+sa(dp70489
+g86
+I436
+sg34
+VHalf Past Alligator [3]
+p70490
+sa(dp70491
+g86
+I419
+sg34
+VDelayed Action
+p70492
+sa(dp70493
+g86
+I419
+sg34
+VDelayed Action [2]
+p70494
+sa(dp70495
+g86
+I305
+sg34
+VWhat's the Good Word?
+p70496
+sa(dp70497
+g86
+I339
+sg34
+VFor Your Information: The "Martian Space Stations"
+p70498
+sa(dp70499
+g86
+I326
+sg34
+VForecast (Galaxy, September 1953)
+p70500
+sa(dp70501
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, September 1953)
+p70502
+sa(dp70503
+g86
+I437
+sg34
+VFar From the Warming Sun
+p70504
+sa(dp70505
+g86
+I121
+sg34
+VDelayed Action
+p70506
+sa(dp70507
+g86
+I341
+sg34
+VThe Touch of Your Hand
+p70508
+sa(dp70509
+g86
+I56
+sg34
+VWorrywart
+p70510
+sa(dp70511
+g86
+I400
+sg34
+VProblem On Balak
+p70512
+sa(dp70513
+g86
+I289
+sg34
+VNew Hire
+p70514
+sa(dp70515
+g86
+I268
+sg34
+VHalf Past Alligator
+p70516
+sasbag1
+(g2
+g3
+Ntp70517
+Rp70518
+(dp70519
+g49
+(lp70520
+sg30
+(lp70521
+sg86
+I302
+sg82
+(lp70522
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine October 1953
+p70523
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v07n01_1953-10/Galaxy_v07n01_1953-10_jp2.zip&file=Galaxy_v07n01_1953-10_jp2/Galaxy_v07n01_1953-10_0000.jp2&scale=0&rotate=0
+p70524
+sg68228
+S'http://www.isfdb.org/wiki/images/4/4e/MLO4316.jpg'
+p70525
+sg14
+g68230
+sg16
+(lp70526
+sg75
+(lp70527
+I363
+aI438
+aI336
+aI435
+aI431
+aI305
+aI326
+aI339
+aI340
+aI3
+aI387
+aI36
+aI401
+aI439
+aI302
+asg20
+(lp70528
+sg25
+I1009
+sg68234
+(lp70529
+(dp70530
+g86
+I363
+sg34
+VThe Caves of Steel (Part 1 of 3)
+p70531
+sa(dp70532
+g86
+I363
+sg34
+VThe Caves of Steel (Part 1 of 3) [2]
+p70533
+sa(dp70534
+g86
+I363
+sg34
+VThe Caves of Steel (Part 1 of 3) [3]
+p70535
+sa(dp70536
+g86
+I363
+sg34
+VThe Caves of Steel (Part 1 of 3) [4]
+p70537
+sa(dp70538
+g86
+I438
+sg34
+VThe Model of a Judge
+p70539
+sa(dp70540
+g86
+I438
+sg34
+VThe Carnivore
+p70541
+sa(dp70542
+g86
+I336
+sg34
+VOrigins of Galactic Etiquette
+p70543
+sa(dp70544
+g86
+I336
+sg34
+VOrigins of Galactic Etiquette [2]
+p70545
+sa(dp70546
+g86
+I336
+sg34
+VOrigins of Galactic Etiquette [3]
+p70547
+sa(dp70548
+g86
+I336
+sg34
+VOrigins of Galactic Etiquette [4]
+p70549
+sa(dp70550
+g86
+I336
+sg34
+VOrigins of Galactic Etiquette [5]
+p70551
+sa(dp70552
+g86
+I336
+sg34
+VOrigins of Galactic Etiquette [6]
+p70553
+sa(dp70554
+g86
+I435
+sg34
+VWith a Vengeance
+p70555
+sa(dp70556
+g86
+I431
+sg34
+VAt the Post
+p70557
+sa(dp70558
+g86
+I431
+sg34
+VAt the Post [2]
+p70559
+sa(dp70560
+g86
+I431
+sg34
+VAt the Post [3]
+p70561
+sa(dp70562
+g86
+I431
+sg34
+VAt the Post [4]
+p70563
+sa(dp70564
+g86
+I305
+sg34
+VTo the Hills!
+p70565
+sa(dp70566
+g86
+I326
+sg34
+VForecast (Galaxy, October 1953)
+p70567
+sa(dp70568
+g86
+I339
+sg34
+VFor Your Information: Earth Tunnels
+p70569
+sa(dp70570
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, October 1953)
+p70571
+sa(dp70572
+g86
+I305
+sg34
+VAt the Post
+p70573
+sa(dp70574
+g86
+I3
+sg34
+VThe Caves of Steel (Part 1 of 3)
+p70575
+sa(dp70576
+g86
+I387
+sg34
+VThe Model of a Judge
+p70577
+sa(dp70578
+g86
+I36
+sg34
+VThe Carnivore
+p70579
+sa(dp70580
+g86
+I401
+sg34
+VOrigins of Galactic Etiquette
+p70581
+sa(dp70582
+g86
+I439
+sg34
+VWith a Vengeance
+p70583
+sasbag1
+(g2
+g3
+Ntp70584
+Rp70585
+(dp70586
+g49
+(lp70587
+sg30
+(lp70588
+sg86
+I302
+sg82
+(lp70589
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine November 1953
+p70590
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v07n02_1953-11/Galaxy_v07n02_1953-11_jp2.zip&file=Galaxy_v07n02_1953-11_jp2/Galaxy_v07n02_1953-11_0000.jp2&scale=0&rotate=0
+p70591
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f9/MLO4317.jpg'
+p70592
+sg14
+g68230
+sg16
+(lp70593
+sg75
+(lp70594
+I431
+aI419
+aI427
+aI417
+aI363
+aI305
+aI339
+aI326
+aI340
+aI23
+aI243
+aI3
+aI440
+aI228
+aI400
+aI302
+asg20
+(lp70595
+sg25
+I1010
+sg68234
+(lp70596
+(dp70597
+g86
+I431
+sg34
+VKeep Your Shape
+p70598
+sa(dp70599
+g86
+I419
+sg34
+VMr. President
+p70600
+sa(dp70601
+g86
+I427
+sg34
+VThe Book
+p70602
+sa(dp70603
+g86
+I427
+sg34
+VThe Book [2]
+p70604
+sa(dp70605
+g86
+I427
+sg34
+VThe Book [3]
+p70606
+sa(dp70607
+g86
+I431
+sg34
+VUnbegotten Child
+p70608
+sa(dp70609
+g86
+I417
+sg34
+VClean Break
+p70610
+sa(dp70611
+g86
+I363
+sg34
+VThe Caves of Steel (Part 2 of 3)
+p70612
+sa(dp70613
+g86
+I363
+sg34
+VThe Caves of Steel (Part 2 of 3) [2]
+p70614
+sa(dp70615
+g86
+I363
+sg34
+VThe Caves of Steel (Part 2 of 3) [3]
+p70616
+sa(dp70617
+g86
+I363
+sg34
+VThe Caves of Steel (Part 2 of 3) [4]
+p70618
+sa(dp70619
+g86
+I305
+sg34
+VThat's Life, Etc.
+p70620
+sa(dp70621
+g86
+I339
+sg34
+VFor Your Information: Is Artificial Life Possible?
+p70622
+sa(dp70623
+g86
+I326
+sg34
+VForecast (Galaxy, November 1953)
+p70624
+sa(dp70625
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, November 1953)
+p70626
+sa(dp70627
+g86
+I23
+sg34
+VKeep Your Shape
+p70628
+sa(dp70629
+g86
+I243
+sg34
+VThe Book
+p70630
+sa(dp70631
+g86
+I3
+sg34
+VThe Caves of Steel (Part 2 of 3)
+p70632
+sa(dp70633
+g86
+I440
+sg34
+VMr. President
+p70634
+sa(dp70635
+g86
+I228
+sg34
+VUnbegotten Child
+p70636
+sa(dp70637
+g86
+I400
+sg34
+VClean Break
+p70638
+sasbag1
+(g2
+g3
+Ntp70639
+Rp70640
+(dp70641
+g49
+(lp70642
+sg30
+(lp70643
+sg86
+I302
+sg82
+(lp70644
+I2
+asg13
+I1953
+sg34
+VGalaxy Magazine December 1953
+p70645
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v07n03_1953-12/Galaxy_v07n03_1953-12_jp2.zip&file=Galaxy_v07n03_1953-12_jp2/Galaxy_v07n03_1953-12_0000.jp2&scale=0&rotate=0
+p70646
+sg68228
+S'http://www.isfdb.org/wiki/images/5/54/MLO4318.jpg'
+p70647
+sg14
+g68230
+sg16
+(lp70648
+sg75
+(lp70649
+I402
+aI363
+aI431
+aI336
+aI305
+aI339
+aI340
+aI326
+aI441
+aI341
+aI3
+aI23
+aI58
+aI401
+aI302
+asg20
+(lp70650
+sg25
+I1011
+sg68234
+(lp70651
+(dp70652
+g86
+I402
+sg34
+VThe Dark Door
+p70653
+sa(dp70654
+g86
+I402
+sg34
+VThe Dark Door [2]
+p70655
+sa(dp70656
+g86
+I402
+sg34
+VThe Dark Door [3]
+p70657
+sa(dp70658
+g86
+I402
+sg34
+VThe Dark Door [4]
+p70659
+sa(dp70660
+g86
+I363
+sg34
+VOne Man's Poison
+p70661
+sa(dp70662
+g86
+I363
+sg34
+VMr. Costello, Hero
+p70663
+sa(dp70664
+g86
+I363
+sg34
+VMr. Costello, Hero [2]
+p70665
+sa(dp70666
+g86
+I363
+sg34
+VMr. Costello, Hero [3]
+p70667
+sa(dp70668
+g86
+I431
+sg34
+VHall of Mirrors
+p70669
+sa(dp70670
+g86
+I336
+sg34
+VOrigins of Galactic Medicine
+p70671
+sa(dp70672
+g86
+I336
+sg34
+VOrigins of Galactic Medicine [2]
+p70673
+sa(dp70674
+g86
+I336
+sg34
+VOrigins of Galactic Medicine [3]
+p70675
+sa(dp70676
+g86
+I336
+sg34
+VOrigins of Galactic Medicine [4]
+p70677
+sa(dp70678
+g86
+I336
+sg34
+VOrigins of Galactic Medicine [5]
+p70679
+sa(dp70680
+g86
+I336
+sg34
+VOrigins of Galactic Medicine [6]
+p70681
+sa(dp70682
+g86
+I363
+sg34
+VThe Caves of Steel (Part 3 of 3)
+p70683
+sa(dp70684
+g86
+I363
+sg34
+VThe Caves of Steel (Part 3 of 3) [2]
+p70685
+sa(dp70686
+g86
+I363
+sg34
+VThe Caves of Steel (Part 3 of 3) [3]
+p70687
+sa(dp70688
+g86
+I363
+sg34
+VThe Caves of Steel (Part 3 of 3) [4]
+p70689
+sa(dp70690
+g86
+I305
+sg34
+VGone Today
+p70691
+sa(dp70692
+g86
+I339
+sg34
+VFor Your Information: The Deadly Trees
+p70693
+sa(dp70694
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, December 1953)
+p70695
+sa(dp70696
+g86
+I326
+sg34
+VWho's Predicting?
+p70697
+sa(dp70698
+g86
+I326
+sg34
+VForecast (Galaxy, December 1953)
+p70699
+sa(dp70700
+g86
+I441
+sg34
+VThe Dark Door
+p70701
+sa(dp70702
+g86
+I341
+sg34
+VMr. Costello, Hero
+p70703
+sa(dp70704
+g86
+I3
+sg34
+VThe Caves of Steel (Part 3 of 3)
+p70705
+sa(dp70706
+g86
+I23
+sg34
+VOne Man's Poison
+p70707
+sa(dp70708
+g86
+I58
+sg34
+VHall of Mirrors
+p70709
+sa(dp70710
+g86
+I401
+sg34
+VOrigins of Galactic Medicine
+p70711
+sasbag1
+(g2
+g3
+Ntp70712
+Rp70713
+(dp70714
+g49
+(lp70715
+sg30
+(lp70716
+sg86
+I302
+sg82
+(lp70717
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine January 1954
+p70718
+sg11
+Vhttps://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v07n04_1954-01/Galaxy_v07n04_1954-01_jp2.zip&file=Galaxy_v07n04_1954-01_jp2/Galaxy_v07n04_1954-01_0000.jp2&scale=0&rotate=0
+p70719
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f7/MLO4328.jpg'
+p70720
+sg14
+g68230
+sg16
+(lp70721
+sg75
+(lp70722
+I363
+aI433
+aI419
+aI342
+aI305
+aI326
+aI339
+aI340
+aI315
+aI228
+aI204
+aI428
+aI414
+aI302
+asg20
+(lp70723
+sg25
+I1012
+sg68234
+(lp70724
+(dp70725
+g86
+I363
+sg34
+VNatural State
+p70726
+sa(dp70727
+g86
+I363
+sg34
+VNatural State [2]
+p70728
+sa(dp70729
+g86
+I363
+sg34
+VNatural State [3]
+p70730
+sa(dp70731
+g86
+I363
+sg34
+VNatural State [4]
+p70732
+sa(dp70733
+g86
+I433
+sg34
+VLulungomeena
+p70734
+sa(dp70735
+g86
+I433
+sg34
+VLulungomeena [2]
+p70736
+sa(dp70737
+g86
+I433
+sg34
+VThe Big Trip Up Yonder
+p70738
+sa(dp70739
+g86
+I419
+sg34
+VThe Holes Around Mars
+p70740
+sa(dp70741
+g86
+I342
+sg34
+VBacklash
+p70742
+sa(dp70743
+g86
+I342
+sg34
+VBacklash [2]
+p70744
+sa(dp70745
+g86
+I342
+sg34
+VBacklash [3]
+p70746
+sa(dp70747
+g86
+I305
+sg34
+VMoving Day
+p70748
+sa(dp70749
+g86
+I326
+sg34
+VForecast (Galaxy, January 1954)
+p70750
+sa(dp70751
+g86
+I339
+sg34
+VFor Your Information: Small Bodies Near Heavy Planets
+p70752
+sa(dp70753
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, January 1954)
+p70754
+sa(dp70755
+g86
+I315
+sg34
+VLulungomeena
+p70756
+sa(dp70757
+g86
+I228
+sg34
+VBacklash
+p70758
+sa(dp70759
+g86
+I204
+sg34
+VNatural State
+p70760
+sa(dp70761
+g86
+I428
+sg34
+VThe Big Trip Up Yonder
+p70762
+sa(dp70763
+g86
+I414
+sg34
+VThe Holes Around Mars
+p70764
+sasbag1
+(g2
+g3
+Ntp70765
+Rp70766
+(dp70767
+g49
+(lp70768
+sg30
+(lp70769
+sg86
+I302
+sg82
+(lp70770
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine February 1954
+p70771
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v07n05_1954-02/Galaxy_v07n05_1954-02_jp2.zip&file=Galaxy_v07n05_1954-02_jp2/Galaxy_v07n05_1954-02_0000.jp2&scale=0&rotate=0
+p70772
+sg68228
+S'http://www.isfdb.org/wiki/images/5/57/MLO4329.jpg'
+p70773
+sg14
+g68230
+sg16
+(lp70774
+sg75
+(lp70775
+I363
+aI433
+aI419
+aI417
+aI336
+aI305
+aI339
+aI340
+aI326
+aI55
+aI400
+aI442
+aI384
+aI443
+aI98
+aI444
+aI58
+aI302
+asg20
+(lp70776
+sg25
+I1013
+sg68234
+(lp70777
+(dp70778
+g86
+I363
+sg34
+VBeep
+p70779
+sa(dp70780
+g86
+I363
+sg34
+VBeep [2]
+p70781
+sa(dp70782
+g86
+I363
+sg34
+VBeep [3]
+p70783
+sa(dp70784
+g86
+I363
+sg34
+VBeep [4]
+p70785
+sa(dp70786
+g86
+I433
+sg34
+VThe Boys From Vespis
+p70787
+sa(dp70788
+g86
+I419
+sg34
+VPet Farm
+p70789
+sa(dp70790
+g86
+I363
+sg34
+VInanimate Objection
+p70791
+sa(dp70792
+g86
+I363
+sg34
+VInanimate Objection [2]
+p70793
+sa(dp70794
+g86
+I419
+sg34
+VProject Hush
+p70795
+sa(dp70796
+g86
+I419
+sg34
+VProject Hush [2]
+p70797
+sa(dp70798
+g86
+I417
+sg34
+VThe Passenger
+p70799
+sa(dp70800
+g86
+I417
+sg34
+VThe Passenger [2]
+p70801
+sa(dp70802
+g86
+I336
+sg34
+VExperiment
+p70803
+sa(dp70804
+g86
+I336
+sg34
+VSentry
+p70805
+sa(dp70806
+g86
+I419
+sg34
+VMen Like Mules
+p70807
+sa(dp70808
+g86
+I419
+sg34
+VMen Like Mules [2]
+p70809
+sa(dp70810
+g86
+I419
+sg34
+VMen Like Mules [3]
+p70811
+sa(dp70812
+g86
+I305
+sg34
+VHelp Wanted!
+p70813
+sa(dp70814
+g86
+I339
+sg34
+VFor Your Information: Hints to Future Archeologists
+p70815
+sa(dp70816
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, February 1954)
+p70817
+sa(dp70818
+g86
+I326
+sg34
+VForecast (Galaxy, February 1954)
+p70819
+sa(dp70820
+g86
+I55
+sg34
+VBeep
+p70821
+sa(dp70822
+g86
+I400
+sg34
+VPet Farm
+p70823
+sa(dp70824
+g86
+I442
+sg34
+VInanimate Objection
+p70825
+sa(dp70826
+g86
+I384
+sg34
+VMen Like Mules
+p70827
+sa(dp70828
+g86
+I443
+sg34
+VThe Boys From Vespis
+p70829
+sa(dp70830
+g86
+I98
+sg34
+VProject Hush
+p70831
+sa(dp70832
+g86
+I444
+sg34
+VThe Passenger
+p70833
+sa(dp70834
+g86
+I58
+sg34
+VExperiment
+p70835
+sa(dp70836
+g86
+I58
+sg34
+VSentry
+p70837
+sasbag1
+(g2
+g3
+Ntp70838
+Rp70839
+(dp70840
+g49
+(lp70841
+sg30
+(lp70842
+sg86
+I302
+sg82
+(lp70843
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine March 1954
+p70844
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v07n06_1954-03/Galaxy_v07n06_1954-03_jp2.zip&file=Galaxy_v07n06_1954-03_jp2/Galaxy_v07n06_1954-03_0000.jp2&scale=0&rotate=0
+p70845
+sg68228
+S'http://www.isfdb.org/wiki/images/0/0e/MLO4330.jpg'
+p70846
+sg14
+g68230
+sg16
+(lp70847
+sg75
+(lp70848
+I431
+aI436
+aI433
+aI412
+aI402
+aI305
+aI326
+aI339
+aI340
+aI445
+aI91
+aI341
+aI446
+aI447
+aI302
+asg20
+(lp70849
+sg25
+I1014
+sg68234
+(lp70850
+(dp70851
+g86
+I431
+sg34
+VThe Telenizer
+p70852
+sa(dp70853
+g86
+I431
+sg34
+VThe Telenizer [2]
+p70854
+sa(dp70855
+g86
+I431
+sg34
+VThe Telenizer [3]
+p70856
+sa(dp70857
+g86
+I436
+sg34
+VThe Littlest People
+p70858
+sa(dp70859
+g86
+I436
+sg34
+VThe Littlest People [2]
+p70860
+sa(dp70861
+g86
+I433
+sg34
+VIronclad
+p70862
+sa(dp70863
+g86
+I433
+sg34
+VIronclad [2]
+p70864
+sa(dp70865
+g86
+I433
+sg34
+VIronclad [3]
+p70866
+sa(dp70867
+g86
+I433
+sg34
+VIronclad [4]
+p70868
+sa(dp70869
+g86
+I412
+sg34
+VThe Merchants of Venus
+p70870
+sa(dp70871
+g86
+I402
+sg34
+VThe Education of Drusilla Strange
+p70872
+sa(dp70873
+g86
+I402
+sg34
+VThe Education of Drusilla Strange [2]
+p70874
+sa(dp70875
+g86
+I402
+sg34
+VThe Education of Drusilla Strange [3]
+p70876
+sa(dp70877
+g86
+I402
+sg34
+VThe Education of Drusilla Strange [4]
+p70878
+sa(dp70879
+g86
+I402
+sg34
+VThe Education of Drusilla Strange [5]
+p70880
+sa(dp70881
+g86
+I402
+sg34
+VThe Education of Drusilla Strange [6]
+p70882
+sa(dp70883
+g86
+I305
+sg34
+VMoving Day (Ii)
+p70884
+sa(dp70885
+g86
+I326
+sg34
+VForecast (Galaxy, March 1954)
+p70886
+sa(dp70887
+g86
+I339
+sg34
+VFor Your Information: The 7-Cornered Polygon
+p70888
+sa(dp70889
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, March 1954)
+p70890
+sa(dp70891
+g86
+I445
+sg34
+VThe Telenizer
+p70892
+sa(dp70893
+g86
+I91
+sg34
+VIronclad
+p70894
+sa(dp70895
+g86
+I341
+sg34
+VThe Education of Drusilla Strange
+p70896
+sa(dp70897
+g86
+I446
+sg34
+VThe Littlest People
+p70898
+sa(dp70899
+g86
+I447
+sg34
+VThe Merchants of Venus
+p70900
+sasbag1
+(g2
+g3
+Ntp70901
+Rp70902
+(dp70903
+g49
+(lp70904
+sg30
+(lp70905
+sg86
+I302
+sg82
+(lp70906
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine April 1954
+p70907
+sg11
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v08n01_1954-04/Galaxy_v08n01_1954-04_jp2.zip&file=Galaxy_v08n01_1954-04_jp2/Galaxy_v08n01_1954-04_0000.jp2&scale=0&rotate=0
+p70908
+sg68228
+S'http://www.isfdb.org/wiki/images/7/7e/MLO4331.jpg'
+p70909
+sg14
+g68230
+sg16
+(lp70910
+sg75
+(lp70911
+I363
+aI431
+aI433
+aI402
+aI305
+aI339
+aI340
+aI23
+aI204
+aI40
+aI434
+aI243
+aI315
+aI302
+asg20
+(lp70912
+sg25
+I1015
+sg68234
+(lp70913
+(dp70914
+g86
+I363
+sg34
+VThe Midas Plague
+p70915
+sa(dp70916
+g86
+I363
+sg34
+VThe Midas Plague [2]
+p70917
+sa(dp70918
+g86
+I363
+sg34
+VThe Midas Plague [3]
+p70919
+sa(dp70920
+g86
+I431
+sg34
+VLimiting Factor
+p70921
+sa(dp70922
+g86
+I433
+sg34
+VHands Off
+p70923
+sa(dp70924
+g86
+I433
+sg34
+VHands Off [2]
+p70925
+sa(dp70926
+g86
+I433
+sg34
+VHands Off [3]
+p70927
+sa(dp70928
+g86
+I402
+sg34
+VWainer
+p70929
+sa(dp70930
+g86
+I363
+sg34
+VBlack Charlie
+p70931
+sa(dp70932
+g86
+I402
+sg34
+VSpecial Delivery
+p70933
+sa(dp70934
+g86
+I402
+sg34
+VSpecial Delivery [2]
+p70935
+sa(dp70936
+g86
+I402
+sg34
+VSpecial Delivery [3]
+p70937
+sa(dp70938
+g86
+I305
+sg34
+VStuff &Amp; Nonsense?
+p70939
+sa(dp70940
+g86
+I339
+sg34
+VFor Your Information: The Case of the Lying Stones
+p70941
+sa(dp70942
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, April 1954)
+p70943
+sa(dp70944
+g86
+I23
+sg34
+VHands Off
+p70945
+sa(dp70946
+g86
+I204
+sg34
+VSpecial Delivery
+p70947
+sa(dp70948
+g86
+I40
+sg34
+VThe Midas Plague
+p70949
+sa(dp70950
+g86
+I434
+sg34
+VLimiting Factor
+p70951
+sa(dp70952
+g86
+I243
+sg34
+VWainer
+p70953
+sa(dp70954
+g86
+I315
+sg34
+VBlack Charlie
+p70955
+sasbag1
+(g2
+g3
+Ntp70956
+Rp70957
+(dp70958
+g49
+(lp70959
+sg30
+(lp70960
+sg86
+I302
+sg82
+(lp70961
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine May 1954
+p70962
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v08n02_1954-05/Galaxy_v08n02_1954-05_jp2.zip&file=Galaxy_v08n02_1954-05_jp2/Galaxy_v08n02_1954-05_0000.jp2&scale=0&rotate=0
+p70963
+sg68228
+S'http://www.isfdb.org/wiki/images/d/dc/MLO4332.jpg'
+p70964
+sg14
+g68230
+sg16
+(lp70965
+sg75
+(lp70966
+I448
+aI431
+aI402
+aI305
+aI339
+aI340
+aI326
+aI228
+aI161
+aI387
+aI341
+aI217
+aI440
+aI302
+asg20
+(lp70967
+sg25
+I1016
+sg68234
+(lp70968
+(dp70969
+g86
+I448
+sg34
+VGranny Won't Knit
+p70970
+sa(dp70971
+g86
+I448
+sg34
+VGranny Won't Knit [2]
+p70972
+sa(dp70973
+g86
+I448
+sg34
+VGranny Won't Knit [3]
+p70974
+sa(dp70975
+g86
+I448
+sg34
+VGranny Won't Knit [4]
+p70976
+sa(dp70977
+g86
+I431
+sg34
+VBack to Julie
+p70978
+sa(dp70979
+g86
+I402
+sg34
+VMate in Two Moves
+p70980
+sa(dp70981
+g86
+I402
+sg34
+VMate in Two Moves [2]
+p70982
+sa(dp70983
+g86
+I402
+sg34
+VMate in Two Moves [3]
+p70984
+sa(dp70985
+g86
+I402
+sg34
+VOpen Warfare
+p70986
+sa(dp70987
+g86
+I402
+sg34
+VOpen Warfare [2]
+p70988
+sa(dp70989
+g86
+I402
+sg34
+VOpen Warfare [3]
+p70990
+sa(dp70991
+g86
+I402
+sg34
+VChain of Command
+p70992
+sa(dp70993
+g86
+I431
+sg34
+VBedside Manner
+p70994
+sa(dp70995
+g86
+I431
+sg34
+VBedside Manner [2]
+p70996
+sa(dp70997
+g86
+I305
+sg34
+VReady, Aim - Extrapolate!
+p70998
+sa(dp70999
+g86
+I339
+sg34
+VFor Your Information: Top of the World
+p71000
+sa(dp71001
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, May 1954)
+p71002
+sa(dp71003
+g86
+I326
+sg34
+VForecast (Galaxy, May 1954)
+p71004
+sa(dp71005
+g86
+I228
+sg34
+VMate in Two Moves
+p71006
+sa(dp71007
+g86
+I161
+sg34
+VOpen Warfare
+p71008
+sa(dp71009
+g86
+I387
+sg34
+VBedside Manner
+p71010
+sa(dp71011
+g86
+I341
+sg34
+VGranny Won't Knit
+p71012
+sa(dp71013
+g86
+I217
+sg34
+VBack to Julie
+p71014
+sa(dp71015
+g86
+I440
+sg34
+VChain of Command
+p71016
+sasbag1
+(g2
+g3
+Ntp71017
+Rp71018
+(dp71019
+g49
+(lp71020
+sg30
+(lp71021
+sg86
+I302
+sg82
+(lp71022
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine June 1954
+p71023
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v08n03_1954-06/Galaxy_v08n03_1954-06_jp2.zip&file=Galaxy_v08n03_1954-06_jp2/Galaxy_v08n03_1954-06_0000.jp2&scale=0&rotate=0
+p71024
+sg68228
+S'http://www.isfdb.org/wiki/images/5/51/MLO4333.jpg'
+p71025
+sg14
+g68230
+sg16
+(lp71026
+sg75
+(lp71027
+I363
+aI419
+aI433
+aI402
+aI305
+aI326
+aI339
+aI340
+aI98
+aI393
+aI40
+aI23
+aI449
+aI450
+aI302
+asg20
+(lp71028
+sg25
+I1017
+sg68234
+(lp71029
+(dp71030
+g86
+I363
+sg34
+VGladiator at Law (Part 1 of 3)
+p71031
+sa(dp71032
+g86
+I363
+sg34
+VGladiator at Law (Part 1 of 3) [2]
+p71033
+sa(dp71034
+g86
+I363
+sg34
+VGladiator at Law (Part 1 of 3) [3]
+p71035
+sa(dp71036
+g86
+I363
+sg34
+VGladiator at Law (Part 1 of 3) [4]
+p71037
+sa(dp71038
+g86
+I363
+sg34
+VGladiator at Law (Part 1 of 3) [5]
+p71039
+sa(dp71040
+g86
+I419
+sg34
+VSomething for Nothing
+p71041
+sa(dp71042
+g86
+I433
+sg34
+VHigh Man
+p71043
+sa(dp71044
+g86
+I402
+sg34
+VDown Among the Dead Men
+p71045
+sa(dp71046
+g86
+I402
+sg34
+VDown Among the Dead Men [2]
+p71047
+sa(dp71048
+g86
+I402
+sg34
+VDown Among the Dead Men [3]
+p71049
+sa(dp71050
+g86
+I402
+sg34
+VSee?
+p71051
+sa(dp71052
+g86
+I363
+sg34
+VForget Me Nearly
+p71053
+sa(dp71054
+g86
+I363
+sg34
+VForget Me Nearly [2]
+p71055
+sa(dp71056
+g86
+I363
+sg34
+VForget Me Nearly [3]
+p71057
+sa(dp71058
+g86
+I363
+sg34
+VForget Me Nearly [4]
+p71059
+sa(dp71060
+g86
+I305
+sg34
+VBreakthrough
+p71061
+sa(dp71062
+g86
+I326
+sg34
+VForecast (Galaxy, June 1954)
+p71063
+sa(dp71064
+g86
+I339
+sg34
+VFor Your Information: Largest of Their Kind
+p71065
+sa(dp71066
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1954)
+p71067
+sa(dp71068
+g86
+I98
+sg34
+VDown Among the Dead Men
+p71069
+sa(dp71070
+g86
+I393
+sg34
+VForget Me Nearly
+p71071
+sa(dp71072
+g86
+I40
+sg34
+VGladiator at Law (Part 1 of 3)
+p71073
+sa(dp71074
+g86
+I23
+sg34
+VSomething for Nothing
+p71075
+sa(dp71076
+g86
+I449
+sg34
+VHigh Man
+p71077
+sa(dp71078
+g86
+I450
+sg34
+VSee?
+p71079
+sasbag1
+(g2
+g3
+Ntp71080
+Rp71081
+(dp71082
+g49
+(lp71083
+sg30
+(lp71084
+sg86
+I302
+sg82
+(lp71085
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine July 1954
+p71086
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v08n04_1954-07/Galaxy_v08n04_1954-07_jp2.zip&file=Galaxy_v08n04_1954-07_jp2/Galaxy_v08n04_1954-07_0000.jp2&scale=0&rotate=0
+p71087
+sg68228
+S'http://www.isfdb.org/wiki/images/7/75/MLO4334.jpg'
+p71088
+sg14
+g68230
+sg16
+(lp71089
+sg75
+(lp71090
+I451
+aI419
+aI452
+aI431
+aI363
+aI305
+aI339
+aI340
+aI326
+aI23
+aI56
+aI40
+aI446
+aI453
+aI421
+aI302
+asg20
+(lp71091
+sg25
+I1018
+sg68234
+(lp71092
+(dp71093
+g86
+I451
+sg34
+VA Thief in Time
+p71094
+sa(dp71095
+g86
+I451
+sg34
+VA Thief in Time [2]
+p71096
+sa(dp71097
+g86
+I451
+sg34
+VA Thief in Time [3]
+p71098
+sa(dp71099
+g86
+I419
+sg34
+VThis Side Up
+p71100
+sa(dp71101
+g86
+I419
+sg34
+VThis Side Up [2]
+p71102
+sa(dp71103
+g86
+I452
+sg34
+VGreen Thumb
+p71104
+sa(dp71105
+g86
+I419
+sg34
+VWhat Rough Beast?
+p71106
+sa(dp71107
+g86
+I419
+sg34
+VWhat Rough Beast? [2]
+p71108
+sa(dp71109
+g86
+I431
+sg34
+VFelony
+p71110
+sa(dp71111
+g86
+I363
+sg34
+VGladiator at Law (Part 2 of 3)
+p71112
+sa(dp71113
+g86
+I363
+sg34
+VGladiator at Law (Part 2 of 3) [2]
+p71114
+sa(dp71115
+g86
+I363
+sg34
+VGladiator at Law (Part 2 of 3) [3]
+p71116
+sa(dp71117
+g86
+I363
+sg34
+VGladiator at Law (Part 2 of 3) [4]
+p71118
+sa(dp71119
+g86
+I363
+sg34
+VGladiator at Law (Part 2 of 3) [5]
+p71120
+sa(dp71121
+g86
+I305
+sg34
+VCareer Offered
+p71122
+sa(dp71123
+g86
+I339
+sg34
+VFor Your Information: Closeup of Mars
+p71124
+sa(dp71125
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, July 1954)
+p71126
+sa(dp71127
+g86
+I326
+sg34
+VForecast (Galaxy, July 1954)
+p71128
+sa(dp71129
+g86
+I23
+sg34
+VA Thief in Time
+p71130
+sa(dp71131
+g86
+I56
+sg34
+VGreen Thumb
+p71132
+sa(dp71133
+g86
+I40
+sg34
+VGladiator at Law (Part 2 of 3)
+p71134
+sa(dp71135
+g86
+I446
+sg34
+VThis Side Up
+p71136
+sa(dp71137
+g86
+I453
+sg34
+VWhat Rough Beast?
+p71138
+sa(dp71139
+g86
+I421
+sg34
+VFelony
+p71140
+sasbag1
+(g2
+g3
+Ntp71141
+Rp71142
+(dp71143
+g49
+(lp71144
+sg30
+(lp71145
+sg86
+I302
+sg82
+(lp71146
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine August 1954
+p71147
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v08n05_1954-08/Galaxy_v08n05_1954-08_jp2.zip&file=Galaxy_v08n05_1954-08_jp2/Galaxy_v08n05_1954-08_0000.jp2&scale=0&rotate=0
+p71148
+sg68228
+S'http://www.isfdb.org/wiki/images/7/7d/MLO4335.jpg'
+p71149
+sg14
+g68230
+sg16
+(lp71150
+sg75
+(lp71151
+I402
+aI433
+aI419
+aI454
+aI452
+aI363
+aI305
+aI455
+aI340
+aI326
+aI98
+aI393
+aI434
+aI40
+aI23
+aI443
+aI302
+asg20
+(lp71152
+sg25
+I1019
+sg68234
+(lp71153
+(dp71154
+g86
+I402
+sg34
+VParty of the Two Parts
+p71155
+sa(dp71156
+g86
+I402
+sg34
+VParty of the Two Parts [2]
+p71157
+sa(dp71158
+g86
+I402
+sg34
+VParty of the Two Parts [3]
+p71159
+sa(dp71160
+g86
+I433
+sg34
+VSubsistence Level
+p71161
+sa(dp71162
+g86
+I419
+sg34
+VThe Impossible Voyage Home
+p71163
+sa(dp71164
+g86
+I419
+sg34
+VThe Impossible Voyage Home [2]
+p71165
+sa(dp71166
+g86
+I419
+sg34
+VThe Impossible Voyage Home [3]
+p71167
+sa(dp71168
+g86
+I454
+sg34
+VInvasion Report
+p71169
+sa(dp71170
+g86
+I452
+sg34
+VThe Departed
+p71171
+sa(dp71172
+g86
+I363
+sg34
+VGladiator at Law (Part 3 of 3)
+p71173
+sa(dp71174
+g86
+I363
+sg34
+VGladiator at Law (Part 3 of 3) [2]
+p71175
+sa(dp71176
+g86
+I363
+sg34
+VGladiator at Law (Part 3 of 3) [3]
+p71177
+sa(dp71178
+g86
+I363
+sg34
+VGladiator at Law (Part 3 of 3) [4]
+p71179
+sa(dp71180
+g86
+I363
+sg34
+VGladiator at Law (Part 3 of 3) [5]
+p71181
+sa(dp71182
+g86
+I305
+sg34
+VSuperwhat?
+p71183
+sa(dp71184
+g86
+I455
+sg34
+VFor Your Information: Mail
+p71185
+sa(dp71186
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1954)
+p71187
+sa(dp71188
+g86
+I326
+sg34
+VForecast (Galaxy, August 1954)
+p71189
+sa(dp71190
+g86
+I98
+sg34
+VParty of the Two Parts
+p71191
+sa(dp71192
+g86
+I393
+sg34
+VThe Impossible Voyage Home
+p71193
+sa(dp71194
+g86
+I434
+sg34
+VInvasion Report
+p71195
+sa(dp71196
+g86
+I40
+sg34
+VGladiator at Law (Part 3 of 3)
+p71197
+sa(dp71198
+g86
+I23
+sg34
+VSubsistence Level
+p71199
+sa(dp71200
+g86
+I443
+sg34
+VThe Departed
+p71201
+sasbag1
+(g2
+g3
+Ntp71202
+Rp71203
+(dp71204
+g49
+(lp71205
+sg30
+(lp71206
+sg86
+I302
+sg82
+(lp71207
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine September 1954
+p71208
+sg11
+Vhttps://ia801300.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v08n06_1954-09/Galaxy_v08n06_1954-09_jp2.zip&file=Galaxy_v08n06_1954-09_jp2/Galaxy_v08n06_1954-09_0000.jp2&scale=0&rotate=0
+p71209
+sg68228
+S'http://www.isfdb.org/wiki/images/c/cb/MLO4371.jpg'
+p71210
+sg14
+g68230
+sg16
+(lp71211
+sg75
+(lp71212
+I402
+aI456
+aI454
+aI433
+aI419
+aI436
+aI305
+aI339
+aI326
+aI340
+aI393
+aI443
+aI56
+aI220
+aI8
+aI23
+aI302
+asg20
+(lp71213
+sg25
+I1020
+sg68234
+(lp71214
+(dp71215
+g86
+I402
+sg34
+VThe Man Who Was Six
+p71216
+sa(dp71217
+g86
+I402
+sg34
+VThe Man Who Was Six [2]
+p71218
+sa(dp71219
+g86
+I402
+sg34
+VThe Man Who Was Six [3]
+p71220
+sa(dp71221
+g86
+I456
+sg34
+VA Start in Life
+p71222
+sa(dp71223
+g86
+I454
+sg34
+VDusty Zebra
+p71224
+sa(dp71225
+g86
+I454
+sg34
+VDusty Zebra [2]
+p71226
+sa(dp71227
+g86
+I454
+sg34
+VDusty Zebra [3]
+p71228
+sa(dp71229
+g86
+I433
+sg34
+VShell Game
+p71230
+sa(dp71231
+g86
+I419
+sg34
+VMilk Run
+p71232
+sa(dp71233
+g86
+I436
+sg34
+VSatan's Shrine
+p71234
+sa(dp71235
+g86
+I436
+sg34
+VSatan's Shrine [2]
+p71236
+sa(dp71237
+g86
+I436
+sg34
+VSatan's Shrine [3]
+p71238
+sa(dp71239
+g86
+I305
+sg34
+VQwertyuiop
+p71240
+sa(dp71241
+g86
+I339
+sg34
+VFor Your Information: The Southern Cross
+p71242
+sa(dp71243
+g86
+I326
+sg34
+VForecast (Galaxy, September 1954)
+p71244
+sa(dp71245
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, September 1954)
+p71246
+sa(dp71247
+g86
+I393
+sg34
+VThe Man Who Was Six
+p71248
+sa(dp71249
+g86
+I443
+sg34
+VA Start in Life
+p71250
+sa(dp71251
+g86
+I56
+sg34
+VDusty Zebra
+p71252
+sa(dp71253
+g86
+I220
+sg34
+VSatan's Shrine
+p71254
+sa(dp71255
+g86
+I8
+sg34
+VShell Game
+p71256
+sa(dp71257
+g86
+I23
+sg34
+VMilk Run
+p71258
+sasbag1
+(g2
+g3
+Ntp71259
+Rp71260
+(dp71261
+g49
+(lp71262
+sg30
+(lp71263
+sg86
+I302
+sg82
+(lp71264
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine October 1954
+p71265
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v09n01_1954-10/Galaxy_v09n01_1954-10_jp2.zip&file=Galaxy_v09n01_1954-10_jp2/Galaxy_v09n01_1954-10_0000.jp2&scale=0&rotate=0
+p71266
+sg68228
+S'http://www.isfdb.org/wiki/images/a/a4/MLO4372.jpg'
+p71267
+sg14
+g68230
+sg16
+(lp71268
+sg75
+(lp71269
+I433
+aI436
+aI363
+aI454
+aI456
+aI305
+aI326
+aI339
+aI340
+aI8
+aI384
+aI23
+aI56
+aI24
+aI220
+aI302
+asg20
+(lp71270
+sg25
+I1021
+sg68234
+(lp71271
+(dp71272
+g86
+I433
+sg34
+VA World of Talent
+p71273
+sa(dp71274
+g86
+I433
+sg34
+VA World of Talent [2]
+p71275
+sa(dp71276
+g86
+I433
+sg34
+VA World of Talent [3]
+p71277
+sa(dp71278
+g86
+I433
+sg34
+VA World of Talent [4]
+p71279
+sa(dp71280
+g86
+I433
+sg34
+VGhost V
+p71281
+sa(dp71282
+g86
+I436
+sg34
+VIdiot's Crusade
+p71283
+sa(dp71284
+g86
+I363
+sg34
+VCartoon: No Caption (Spaceman Hitchhiking On an Asteroid)
+p71285
+sa(dp71286
+g86
+I454
+sg34
+V$1,000 a Plate
+p71287
+sa(dp71288
+g86
+I436
+sg34
+VJebaburba
+p71289
+sa(dp71290
+g86
+I436
+sg34
+VJebaburba [2]
+p71291
+sa(dp71292
+g86
+I456
+sg34
+VSpy
+p71293
+sa(dp71294
+g86
+I456
+sg34
+VSpy [2]
+p71295
+sa(dp71296
+g86
+I456
+sg34
+VSpy [3]
+p71297
+sa(dp71298
+g86
+I456
+sg34
+VSpy [4]
+p71299
+sa(dp71300
+g86
+I456
+sg34
+VSpy [5]
+p71301
+sa(dp71302
+g86
+I305
+sg34
+VTake My Word
+p71303
+sa(dp71304
+g86
+I326
+sg34
+VForecast (Galaxy, October 1954)
+p71305
+sa(dp71306
+g86
+I339
+sg34
+VFor Your Information: The Oldest "Prediction"
+p71307
+sa(dp71308
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1954)
+p71309
+sa(dp71310
+g86
+I8
+sg34
+VA World of Talent
+p71311
+sa(dp71312
+g86
+I384
+sg34
+VSpy
+p71313
+sa(dp71314
+g86
+I23
+sg34
+VGhost V
+p71315
+sa(dp71316
+g86
+I56
+sg34
+VIdiot's Crusade
+p71317
+sa(dp71318
+g86
+I24
+sg34
+V$1,000 a Plate
+p71319
+sa(dp71320
+g86
+I220
+sg34
+VJebaburba
+p71321
+sasbag1
+(g2
+g3
+Ntp71322
+Rp71323
+(dp71324
+g49
+(lp71325
+sg30
+(lp71326
+sg86
+I302
+sg82
+(lp71327
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine November 1954
+p71328
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v09n02_1954-11/Galaxy_v09n02_1954-11_jp2.zip&file=Galaxy_v09n02_1954-11_jp2/Galaxy_v09n02_1954-11_0000.jp2&scale=0&rotate=0
+p71329
+sg68228
+S'http://www.isfdb.org/wiki/images/f/fd/MLO4373.jpg'
+p71330
+sg14
+g68230
+sg16
+(lp71331
+sg75
+(lp71332
+I363
+aI457
+aI458
+aI459
+aI460
+aI461
+aI419
+aI305
+aI339
+aI326
+aI340
+aI56
+aI393
+aI462
+aI23
+aI293
+aI443
+aI302
+asg20
+(lp71333
+sg25
+I1022
+sg68234
+(lp71334
+(dp71335
+g86
+I363
+sg34
+VHow-2
+p71336
+sa(dp71337
+g86
+I363
+sg34
+VHow-2 [2]
+p71338
+sa(dp71339
+g86
+I363
+sg34
+VHow-2 [3]
+p71340
+sa(dp71341
+g86
+I363
+sg34
+VHow-2 [4]
+p71342
+sa(dp71343
+g86
+I457
+sg34
+VThe Nostalgia Gene
+p71344
+sa(dp71345
+g86
+I363
+sg34
+VThe Laxian Key
+p71346
+sa(dp71347
+g86
+I458
+sg34
+VThe Music Master of Ba
+p71348
+sa(dp71349
+g86
+I459
+sg34
+VThe Music Master of Ba
+p71350
+sa(dp71351
+g86
+I460
+sg34
+VThe Music Master of Ba
+p71352
+sa(dp71353
+g86
+I461
+sg34
+VUp for Renewal
+p71354
+sa(dp71355
+g86
+I419
+sg34
+VThe Age of Kindness
+p71356
+sa(dp71357
+g86
+I363
+sg34
+VBig Ancestor
+p71358
+sa(dp71359
+g86
+I363
+sg34
+VBig Ancestor [2]
+p71360
+sa(dp71361
+g86
+I363
+sg34
+VBig Ancestor [3]
+p71362
+sa(dp71363
+g86
+I305
+sg34
+VBetter &Amp; Better?
+p71364
+sa(dp71365
+g86
+I339
+sg34
+VFor Your Information: Asteroid Roundup
+p71366
+sa(dp71367
+g86
+I326
+sg34
+VForecast (Galaxy, November 1954)
+p71368
+sa(dp71369
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, November 1954)
+p71370
+sa(dp71371
+g86
+I56
+sg34
+VHow-2
+p71372
+sa(dp71373
+g86
+I393
+sg34
+VBig Ancestor
+p71374
+sa(dp71375
+g86
+I462
+sg34
+VThe Nostalgia Gene
+p71376
+sa(dp71377
+g86
+I23
+sg34
+VThe Laxian Key
+p71378
+sa(dp71379
+g86
+I293
+sg34
+VUp for Renewal
+p71380
+sa(dp71381
+g86
+I443
+sg34
+VThe Age of Kindness
+p71382
+sasbag1
+(g2
+g3
+Ntp71383
+Rp71384
+(dp71385
+g49
+(lp71386
+sg30
+(lp71387
+sg86
+I302
+sg82
+(lp71388
+I2
+asg13
+I1954
+sg34
+VGalaxy Magazine December 1954
+p71389
+sg11
+Vhttps://ia601303.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/Galaxy_v09n03_1954-12/Galaxy_v09n03_1954-12_jp2.zip&file=Galaxy_v09n03_1954-12_jp2/Galaxy_v09n03_1954-12_0000.jp2&scale=0&rotate=0
+p71390
+sg68228
+S'http://www.isfdb.org/wiki/images/5/5f/MLO4374.jpg'
+p71391
+sg14
+g68230
+sg16
+(lp71392
+sg75
+(lp71393
+I427
+aI463
+aI436
+aI461
+aI419
+aI363
+aI305
+aI326
+aI339
+aI340
+aI23
+aI400
+aI172
+aI384
+aI464
+aI465
+aI302
+asg20
+(lp71394
+sg25
+I1023
+sg68234
+(lp71395
+(dp71396
+g86
+I427
+sg34
+VSkulking Permit
+p71397
+sa(dp71398
+g86
+I427
+sg34
+VSkulking Permit [2]
+p71399
+sa(dp71400
+g86
+I427
+sg34
+VSkulking Permit [3]
+p71401
+sa(dp71402
+g86
+I463
+sg34
+VPlayback
+p71403
+sa(dp71404
+g86
+I436
+sg34
+VUncle Tom's Planet
+p71405
+sa(dp71406
+g86
+I461
+sg34
+VAssignment's End
+p71407
+sa(dp71408
+g86
+I461
+sg34
+VAssignment's End [2]
+p71409
+sa(dp71410
+g86
+I427
+sg34
+VRough Translation
+p71411
+sa(dp71412
+g86
+I419
+sg34
+VJoy Ride
+p71413
+sa(dp71414
+g86
+I363
+sg34
+VCollector's Item
+p71415
+sa(dp71416
+g86
+I363
+sg34
+VCollector's Item [2]
+p71417
+sa(dp71418
+g86
+I363
+sg34
+VCollector's Item [3]
+p71419
+sa(dp71420
+g86
+I305
+sg34
+VAll but the Squeal
+p71421
+sa(dp71422
+g86
+I326
+sg34
+VForecast (Galaxy, December 1954)
+p71423
+sa(dp71424
+g86
+I339
+sg34
+VFor Your Information: The Elements of Khujut Rabu'a and Ctesiphon
+p71425
+sa(dp71426
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, December 1954)
+p71427
+sa(dp71428
+g86
+I23
+sg34
+VSkulking Permit
+p71429
+sa(dp71430
+g86
+I400
+sg34
+VAssignment's End
+p71431
+sa(dp71432
+g86
+I172
+sg34
+VCollector's Item
+p71433
+sa(dp71434
+g86
+I384
+sg34
+VPlayback
+p71435
+sa(dp71436
+g86
+I23
+sg34
+VUncle Tom's Planet
+p71437
+sa(dp71438
+g86
+I464
+sg34
+VRough Translation
+p71439
+sa(dp71440
+g86
+I465
+sg34
+VJoy Ride
+p71441
+sasbag1
+(g2
+g3
+Ntp71442
+Rp71443
+(dp71444
+g49
+(lp71445
+sg30
+(lp71446
+sg86
+I302
+sg82
+(lp71447
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine January 1955
+p71448
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v09n04_1955-01/Galaxy_v09n04_1955-01_jp2.zip&file=Galaxy_v09n04_1955-01_jp2/Galaxy_v09n04_1955-01_0000.jp2&scale=0&rotate=0
+p71449
+sg68228
+S'http://www.isfdb.org/wiki/images/6/66/MLO4375.jpg'
+p71450
+sg14
+g68230
+sg16
+(lp71451
+sg75
+(lp71452
+I363
+aI433
+aI427
+aI336
+aI305
+aI339
+aI340
+aI466
+aI326
+aI40
+aI467
+aI341
+aI23
+aI172
+aI391
+aI302
+asg20
+(lp71453
+sg25
+I1024
+sg68234
+(lp71454
+(dp71455
+g86
+I363
+sg34
+VThe Tunnel Under the World
+p71456
+sa(dp71457
+g86
+I363
+sg34
+VThe Tunnel Under the World [2]
+p71458
+sa(dp71459
+g86
+I363
+sg34
+VThe Tunnel Under the World [3]
+p71460
+sa(dp71461
+g86
+I433
+sg34
+VThe Vilbar Party
+p71462
+sa(dp71463
+g86
+I427
+sg34
+VPerfect Control
+p71464
+sa(dp71465
+g86
+I427
+sg34
+VPerfect Control [2]
+p71466
+sa(dp71467
+g86
+I427
+sg34
+VPerfect Control [3]
+p71468
+sa(dp71469
+g86
+I336
+sg34
+VWhen You're Smiling
+p71470
+sa(dp71471
+g86
+I336
+sg34
+VWhen You're Smiling [2]
+p71472
+sa(dp71473
+g86
+I336
+sg34
+VWhen You're Smiling [3]
+p71474
+sa(dp71475
+g86
+I433
+sg34
+VBrknk's Bounty
+p71476
+sa(dp71477
+g86
+I363
+sg34
+VSquirrel Cage
+p71478
+sa(dp71479
+g86
+I363
+sg34
+VSquirrel Cage [2]
+p71480
+sa(dp71481
+g86
+I363
+sg34
+VSquirrel Cage [3]
+p71482
+sa(dp71483
+g86
+I305
+sg34
+VYours for a Dime!
+p71484
+sa(dp71485
+g86
+I339
+sg34
+VFor Your Information: Calendar Trouble
+p71486
+sa(dp71487
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, January 1955)
+p71488
+sa(dp71489
+g86
+I466
+sg34
+VReview of the Nonfiction Work "Ideas and Opinions"
+p71490
+sa(dp71491
+g86
+I326
+sg34
+VForecast (Galaxy, January 1955)
+p71492
+sa(dp71493
+g86
+I40
+sg34
+VThe Tunnel Under the World
+p71494
+sa(dp71495
+g86
+I467
+sg34
+VPerfect Control
+p71496
+sa(dp71497
+g86
+I341
+sg34
+VWhen You're Smiling
+p71498
+sa(dp71499
+g86
+I23
+sg34
+VSquirrel Cage
+p71500
+sa(dp71501
+g86
+I172
+sg34
+VThe Vilbar Party
+p71502
+sa(dp71503
+g86
+I391
+sg34
+VBrknk's Bounty
+p71504
+sasbag1
+(g2
+g3
+Ntp71505
+Rp71506
+(dp71507
+g49
+(lp71508
+sg30
+(lp71509
+sg86
+I302
+sg82
+(lp71510
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine February 1955
+p71511
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v09n05_1955-02/Galaxy_v09n05_1955-02_jp2.zip&file=Galaxy_v09n05_1955-02_jp2/Galaxy_v09n05_1955-02_0000.jp2&scale=0&rotate=0
+p71512
+sg68228
+S'http://www.isfdb.org/wiki/images/1/13/MLO4376.jpg'
+p71513
+sg14
+g68230
+sg16
+(lp71514
+sg75
+(lp71515
+I363
+aI427
+aI456
+aI433
+aI305
+aI326
+aI339
+aI340
+aI172
+aI468
+aI161
+aI387
+aI384
+aI40
+aI469
+aI302
+asg20
+(lp71516
+sg25
+I1025
+sg68234
+(lp71517
+(dp71518
+g86
+I363
+sg34
+VHelpfully Yours
+p71519
+sa(dp71520
+g86
+I363
+sg34
+VHelpfully Yours [2]
+p71521
+sa(dp71522
+g86
+I363
+sg34
+VHelpfully Yours [3]
+p71523
+sa(dp71524
+g86
+I427
+sg34
+VThe Cave of Night
+p71525
+sa(dp71526
+g86
+I363
+sg34
+VDead Man's Planet
+p71527
+sa(dp71528
+g86
+I456
+sg34
+VOpen House
+p71529
+sa(dp71530
+g86
+I427
+sg34
+VPythias
+p71531
+sa(dp71532
+g86
+I433
+sg34
+VBlind Spot
+p71533
+sa(dp71534
+g86
+I427
+sg34
+VRich Living
+p71535
+sa(dp71536
+g86
+I427
+sg34
+VRich Living [2]
+p71537
+sa(dp71538
+g86
+I427
+sg34
+VRich Living [3]
+p71539
+sa(dp71540
+g86
+I305
+sg34
+VPast Performance
+p71541
+sa(dp71542
+g86
+I326
+sg34
+VForecast (Galaxy, February 1955)
+p71543
+sa(dp71544
+g86
+I339
+sg34
+VFor Your Information: How Much Water?
+p71545
+sa(dp71546
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, February 1955)
+p71547
+sa(dp71548
+g86
+I172
+sg34
+VHelpfully Yours
+p71549
+sa(dp71550
+g86
+I468
+sg34
+VRich Living
+p71551
+sa(dp71552
+g86
+I161
+sg34
+VThe Cave of Night
+p71553
+sa(dp71554
+g86
+I387
+sg34
+VDead Man's Planet
+p71555
+sa(dp71556
+g86
+I384
+sg34
+VOpen House
+p71557
+sa(dp71558
+g86
+I40
+sg34
+VPythias
+p71559
+sa(dp71560
+g86
+I469
+sg34
+VBlind Spot
+p71561
+sasbag1
+(g2
+g3
+Ntp71562
+Rp71563
+(dp71564
+g49
+(lp71565
+sg30
+(lp71566
+sg86
+I302
+sg82
+(lp71567
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine March 1955
+p71568
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v09n06_1955-03/Galaxy_v09n06_1955-03_jp2.zip&file=Galaxy_v09n06_1955-03_jp2/Galaxy_v09n06_1955-03_0000.jp2&scale=0&rotate=0
+p71569
+sg68228
+S'http://www.isfdb.org/wiki/images/5/52/MLO4377.jpg'
+p71570
+sg14
+g68230
+sg16
+(lp71571
+sg75
+(lp71572
+I363
+aI419
+aI427
+aI461
+aI402
+aI433
+aI305
+aI326
+aI339
+aI340
+aI56
+aI204
+aI341
+aI40
+aI470
+aI121
+aI302
+asg20
+(lp71573
+sg25
+I1026
+sg68234
+(lp71574
+(dp71575
+g86
+I363
+sg34
+VProject Mastodon
+p71576
+sa(dp71577
+g86
+I363
+sg34
+VProject Mastodon [2]
+p71578
+sa(dp71579
+g86
+I363
+sg34
+VProject Mastodon [3]
+p71580
+sa(dp71581
+g86
+I419
+sg34
+VThe Candle Lighter
+p71582
+sa(dp71583
+g86
+I427
+sg34
+VDulcie and Decorum
+p71584
+sa(dp71585
+g86
+I427
+sg34
+VDulcie and Decorum [2]
+p71586
+sa(dp71587
+g86
+I427
+sg34
+VDulcie and Decorum [3]
+p71588
+sa(dp71589
+g86
+I461
+sg34
+VOne Way
+p71590
+sa(dp71591
+g86
+I402
+sg34
+VWho?
+p71592
+sa(dp71593
+g86
+I402
+sg34
+VWho? [2]
+p71594
+sa(dp71595
+g86
+I402
+sg34
+VWho? [3]
+p71596
+sa(dp71597
+g86
+I433
+sg34
+VBig Stupe
+p71598
+sa(dp71599
+g86
+I305
+sg34
+VI Read You
+p71600
+sa(dp71601
+g86
+I326
+sg34
+VForecast (Galaxy, March 1955)
+p71602
+sa(dp71603
+g86
+I339
+sg34
+VFor Your Information: Death of the Sun
+p71604
+sa(dp71605
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, March 1955)
+p71606
+sa(dp71607
+g86
+I56
+sg34
+VProject Mastodon
+p71608
+sa(dp71609
+g86
+I204
+sg34
+VDulcie and Decorum
+p71610
+sa(dp71611
+g86
+I341
+sg34
+VWho?
+p71612
+sa(dp71613
+g86
+I40
+sg34
+VThe Candle Lighter
+p71614
+sa(dp71615
+g86
+I470
+sg34
+VOne Way
+p71616
+sa(dp71617
+g86
+I121
+sg34
+VBig Stupe
+p71618
+sasbag1
+(g2
+g3
+Ntp71619
+Rp71620
+(dp71621
+g49
+(lp71622
+sg30
+(lp71623
+sg86
+I302
+sg82
+(lp71624
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine April 1955
+p71625
+sg11
+Vhttps://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/Galaxy_v10n01_1955-04/Galaxy_v10n01_1955-04_jp2.zip&file=Galaxy_v10n01_1955-04_jp2/Galaxy_v10n01_1955-04_0000.jp2&scale=0&rotate=0
+p71626
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d1/MLO4378.jpg'
+p71627
+sg14
+g68230
+sg16
+(lp71628
+sg75
+(lp71629
+I363
+aI402
+aI433
+aI419
+aI336
+aI427
+aI305
+aI339
+aI326
+aI98
+aI341
+aI193
+aI23
+aI40
+aI401
+aI172
+aI302
+asg20
+(lp71630
+sg25
+I1027
+sg68234
+(lp71631
+(dp71632
+g86
+I363
+sg34
+VThe Servant Problem
+p71633
+sa(dp71634
+g86
+I363
+sg34
+VThe Servant Problem [2]
+p71635
+sa(dp71636
+g86
+I363
+sg34
+VThe Servant Problem [3]
+p71637
+sa(dp71638
+g86
+I402
+sg34
+VDon't Shoot
+p71639
+sa(dp71640
+g86
+I433
+sg34
+VThe Lifeboat Mutiny
+p71641
+sa(dp71642
+g86
+I419
+sg34
+VTarget One
+p71643
+sa(dp71644
+g86
+I336
+sg34
+VOrigins of Galactic Advice to the Lovelorn
+p71645
+sa(dp71646
+g86
+I336
+sg34
+VOrigins of Galactic Advice to the Lovelorn [2]
+p71647
+sa(dp71648
+g86
+I336
+sg34
+VOrigins of Galactic Advice to the Lovelorn [3]
+p71649
+sa(dp71650
+g86
+I336
+sg34
+VOrigins of Galactic Advice to the Lovelorn [4]
+p71651
+sa(dp71652
+g86
+I336
+sg34
+VOrigins of Galactic Advice to the Lovelorn [5]
+p71653
+sa(dp71654
+g86
+I336
+sg34
+VOrigins of Galactic Advice to the Lovelorn [6]
+p71655
+sa(dp71656
+g86
+I336
+sg34
+VOrigins of Galactic Advice to the Lovelorn [7]
+p71657
+sa(dp71658
+g86
+I427
+sg34
+VMan's Best Friend
+p71659
+sa(dp71660
+g86
+I402
+sg34
+VHurricane Trio
+p71661
+sa(dp71662
+g86
+I402
+sg34
+VHurricane Trio [2]
+p71663
+sa(dp71664
+g86
+I402
+sg34
+VHurricane Trio [3]
+p71665
+sa(dp71666
+g86
+I305
+sg34
+VSpeaking of Trends
+p71667
+sa(dp71668
+g86
+I339
+sg34
+VFor Your Information: Death of the Sun (Ii)
+p71669
+sa(dp71670
+g86
+I326
+sg34
+VForecast (Galaxy, April 1955)
+p71671
+sa(dp71672
+g86
+I98
+sg34
+VThe Servant Problem
+p71673
+sa(dp71674
+g86
+I341
+sg34
+VHurricane Trio
+p71675
+sa(dp71676
+g86
+I193
+sg34
+VDon't Shoot
+p71677
+sa(dp71678
+g86
+I23
+sg34
+VThe Lifeboat Mutiny
+p71679
+sa(dp71680
+g86
+I40
+sg34
+VTarget One
+p71681
+sa(dp71682
+g86
+I401
+sg34
+VOrigins of Galactic Advice to the Lovelorn
+p71683
+sa(dp71684
+g86
+I172
+sg34
+VMan's Best Friend
+p71685
+sasbag1
+(g2
+g3
+Ntp71686
+Rp71687
+(dp71688
+g49
+(lp71689
+sg30
+(lp71690
+sg86
+I302
+sg82
+(lp71691
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine May 1955
+p71692
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_v10n02_1955-05/Galaxy_v10n02_1955-05_jp2.zip&file=Galaxy_v10n02_1955-05_jp2/Galaxy_v10n02_1955-05_0000.jp2&scale=0&rotate=0
+p71693
+sg68228
+S'http://www.isfdb.org/wiki/images/e/e1/MLO4379.jpg'
+p71694
+sg14
+g68230
+sg16
+(lp71695
+sg75
+(lp71696
+I427
+aI471
+aI472
+aI336
+aI363
+aI305
+aI326
+aI339
+aI340
+aI473
+aI61
+aI236
+aI169
+aI40
+aI421
+aI302
+asg20
+(lp71697
+sg25
+I1028
+sg68234
+(lp71698
+(dp71699
+g86
+I427
+sg34
+VThe Dreaming Wall
+p71700
+sa(dp71701
+g86
+I427
+sg34
+VThe Dreaming Wall [2]
+p71702
+sa(dp71703
+g86
+I427
+sg34
+VThe Dreaming Wall [3]
+p71704
+sa(dp71705
+g86
+I471
+sg34
+VThe Aggravation of Elmer
+p71706
+sa(dp71707
+g86
+I472
+sg34
+VThe Middle of Nowhere
+p71708
+sa(dp71709
+g86
+I472
+sg34
+VThe Middle of Nowhere [2]
+p71710
+sa(dp71711
+g86
+I472
+sg34
+VThe Middle of Nowhere [3]
+p71712
+sa(dp71713
+g86
+I427
+sg34
+VSam, This Is You
+p71714
+sa(dp71715
+g86
+I427
+sg34
+VSam, This Is You [2]
+p71716
+sa(dp71717
+g86
+I427
+sg34
+VSam, This Is You [3]
+p71718
+sa(dp71719
+g86
+I336
+sg34
+VCompetition
+p71720
+sa(dp71721
+g86
+I363
+sg34
+VA Woman's Place
+p71722
+sa(dp71723
+g86
+I363
+sg34
+VA Woman's Place [2]
+p71724
+sa(dp71725
+g86
+I363
+sg34
+VA Woman's Place [3]
+p71726
+sa(dp71727
+g86
+I305
+sg34
+VThat's Two Votes
+p71728
+sa(dp71729
+g86
+I326
+sg34
+VForecast (Galaxy, May 1955)
+p71730
+sa(dp71731
+g86
+I339
+sg34
+VFor Your Information: "Midnight Marvels"
+p71732
+sa(dp71733
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, May 1955)
+p71734
+sa(dp71735
+g86
+I473
+sg34
+VThe Dreaming Wall
+p71736
+sa(dp71737
+g86
+I61
+sg34
+VSam, This Is You
+p71738
+sa(dp71739
+g86
+I236
+sg34
+VA Woman's Place
+p71740
+sa(dp71741
+g86
+I169
+sg34
+VThe Aggravation of Elmer
+p71742
+sa(dp71743
+g86
+I40
+sg34
+VThe Middle of Nowhere
+p71744
+sa(dp71745
+g86
+I421
+sg34
+VCompetition
+p71746
+sasbag1
+(g2
+g3
+Ntp71747
+Rp71748
+(dp71749
+g49
+(lp71750
+sg30
+(lp71751
+sg86
+I302
+sg82
+(lp71752
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine June 1955
+p71753
+sg11
+Vhttps://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v10n03_1955-06/Galaxy_v10n03_1955-06_jp2.zip&file=Galaxy_v10n03_1955-06_jp2/Galaxy_v10n03_1955-06_0000.jp2&scale=0&rotate=0
+p71754
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d6/MLO4380.jpg'
+p71755
+sg14
+g68230
+sg16
+(lp71756
+sg75
+(lp71757
+I433
+aI419
+aI363
+aI402
+aI427
+aI305
+aI339
+aI326
+aI340
+aI172
+aI217
+aI40
+aI23
+aI387
+aI302
+asg20
+(lp71758
+sg25
+I1029
+sg68234
+(lp71759
+(dp71760
+g86
+I433
+sg34
+VPreferred Risk (Part 1 of 4)
+p71761
+sa(dp71762
+g86
+I433
+sg34
+VPreferred Risk (Part 1 of 4) [2]
+p71763
+sa(dp71764
+g86
+I433
+sg34
+VPreferred Risk (Part 1 of 4) [3]
+p71765
+sa(dp71766
+g86
+I433
+sg34
+VPreferred Risk (Part 1 of 4) [4]
+p71767
+sa(dp71768
+g86
+I419
+sg34
+VThe Necessary Thing
+p71769
+sa(dp71770
+g86
+I433
+sg34
+VThe Princess and the Physicist
+p71771
+sa(dp71772
+g86
+I433
+sg34
+VThe Princess and the Physicist [2]
+p71773
+sa(dp71774
+g86
+I433
+sg34
+VThe Princess and the Physicist [3]
+p71775
+sa(dp71776
+g86
+I363
+sg34
+VPicture Bride
+p71777
+sa(dp71778
+g86
+I402
+sg34
+VGrandy Devil
+p71779
+sa(dp71780
+g86
+I427
+sg34
+VInside Story
+p71781
+sa(dp71782
+g86
+I427
+sg34
+VInside Story [2]
+p71783
+sa(dp71784
+g86
+I427
+sg34
+VInside Story [3]
+p71785
+sa(dp71786
+g86
+I305
+sg34
+VMan's Bait
+p71787
+sa(dp71788
+g86
+I339
+sg34
+VFor Your Information: Konstantin Anklitzen Alias Friar Bertholdus
+p71789
+sa(dp71790
+g86
+I326
+sg34
+VForecast (Galaxy, June 1955)
+p71791
+sa(dp71792
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, June 1955)
+p71793
+sa(dp71794
+g86
+I172
+sg34
+VThe Princess and the Physicist
+p71795
+sa(dp71796
+g86
+I217
+sg34
+VInside Story
+p71797
+sa(dp71798
+g86
+I40
+sg34
+VPreferred Risk (Part 1 of 4)
+p71799
+sa(dp71800
+g86
+I23
+sg34
+VThe Necessary Thing
+p71801
+sa(dp71802
+g86
+I387
+sg34
+VPicture Bride
+p71803
+sa(dp71804
+g86
+I40
+sg34
+VGrandy Devil
+p71805
+sasbag1
+(g2
+g3
+Ntp71806
+Rp71807
+(dp71808
+g49
+(lp71809
+sg30
+(lp71810
+sg86
+I302
+sg82
+(lp71811
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine July 1955
+p71812
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/Galaxy_v10n04_1955-07/Galaxy_v10n04_1955-07_jp2.zip&file=Galaxy_v10n04_1955-07_jp2/Galaxy_v10n04_1955-07_0000.jp2&scale=0&rotate=0
+p71813
+sg68228
+S'http://www.isfdb.org/wiki/images/7/7d/MLO4381.jpg'
+p71814
+sg14
+g68230
+sg16
+(lp71815
+sg75
+(lp71816
+I402
+aI363
+aI427
+aI419
+aI474
+aI433
+aI305
+aI326
+aI339
+aI340
+aI40
+aI345
+aI387
+aI23
+aI475
+aI302
+asg20
+(lp71817
+sg25
+I1030
+sg68234
+(lp71818
+(dp71819
+g86
+I402
+sg34
+VThe Mapmakers
+p71820
+sa(dp71821
+g86
+I402
+sg34
+VThe Mapmakers [2]
+p71822
+sa(dp71823
+g86
+I402
+sg34
+VThe Mapmakers [3]
+p71824
+sa(dp71825
+g86
+I363
+sg34
+VSpoken For
+p71826
+sa(dp71827
+g86
+I427
+sg34
+VProperty of Venus
+p71828
+sa(dp71829
+g86
+I427
+sg34
+VProperty of Venus [2]
+p71830
+sa(dp71831
+g86
+I427
+sg34
+VProperty of Venus [3]
+p71832
+sa(dp71833
+g86
+I419
+sg34
+VDeadhead
+p71834
+sa(dp71835
+g86
+I474
+sg34
+VThe Amateurs
+p71836
+sa(dp71837
+g86
+I433
+sg34
+VPreferred Risk (Part 2 of 4)
+p71838
+sa(dp71839
+g86
+I433
+sg34
+VPreferred Risk (Part 2 of 4) [2]
+p71840
+sa(dp71841
+g86
+I433
+sg34
+VPreferred Risk (Part 2 of 4) [3]
+p71842
+sa(dp71843
+g86
+I433
+sg34
+VPreferred Risk (Part 2 of 4) [4]
+p71844
+sa(dp71845
+g86
+I305
+sg34
+VAnd He Sez
+p71846
+sa(dp71847
+g86
+I326
+sg34
+VForecast (Galaxy, July 1955)
+p71848
+sa(dp71849
+g86
+I339
+sg34
+VFor Your Information: The Orbital (Unmanned) Satellite Vehicle
+p71850
+sa(dp71851
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, July 1955)
+p71852
+sa(dp71853
+g86
+I40
+sg34
+VThe Mapmakers
+p71854
+sa(dp71855
+g86
+I345
+sg34
+VProperty of Venus
+p71856
+sa(dp71857
+g86
+I40
+sg34
+VPreferred Risk (Part 2 of 4)
+p71858
+sa(dp71859
+g86
+I387
+sg34
+VSpoken For
+p71860
+sa(dp71861
+g86
+I23
+sg34
+VDeadhead
+p71862
+sa(dp71863
+g86
+I475
+sg34
+VThe Amateurs
+p71864
+sasbag1
+(g2
+g3
+Ntp71865
+Rp71866
+(dp71867
+g49
+(lp71868
+sg30
+(lp71869
+sg86
+I302
+sg82
+(lp71870
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine August 1955
+p71871
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v10n05_1955-08/Galaxy_v10n05_1955-08_jp2.zip&file=Galaxy_v10n05_1955-08_jp2/Galaxy_v10n05_1955-08_0000.jp2&scale=0&rotate=0
+p71872
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f7/MLO4382.jpg'
+p71873
+sg14
+g68230
+sg16
+(lp71874
+sg75
+(lp71875
+I402
+aI474
+aI461
+aI433
+aI305
+aI339
+aI326
+aI98
+aI220
+aI40
+aI110
+aI195
+aI341
+aI302
+asg20
+(lp71876
+sg25
+I1031
+sg68234
+(lp71877
+(dp71878
+g86
+I402
+sg34
+VThe Flat-Eyed Monster
+p71879
+sa(dp71880
+g86
+I402
+sg34
+VThe Flat-Eyed Monster [2]
+p71881
+sa(dp71882
+g86
+I402
+sg34
+VThe Flat-Eyed Monster [3]
+p71883
+sa(dp71884
+g86
+I474
+sg34
+VWhiskabroom
+p71885
+sa(dp71886
+g86
+I461
+sg34
+VCountry Estate
+p71887
+sa(dp71888
+g86
+I461
+sg34
+VCountry Estate [2]
+p71889
+sa(dp71890
+g86
+I461
+sg34
+VCountry Estate [3]
+p71891
+sa(dp71892
+g86
+I433
+sg34
+VA Gift From Earth
+p71893
+sa(dp71894
+g86
+I402
+sg34
+VTwink
+p71895
+sa(dp71896
+g86
+I433
+sg34
+VPreferred Risk (Part 3 of 4)
+p71897
+sa(dp71898
+g86
+I433
+sg34
+VPreferred Risk (Part 3 of 4) [2]
+p71899
+sa(dp71900
+g86
+I433
+sg34
+VPreferred Risk (Part 3 of 4) [3]
+p71901
+sa(dp71902
+g86
+I433
+sg34
+VPreferred Risk (Part 3 of 4) [4]
+p71903
+sa(dp71904
+g86
+I305
+sg34
+VTwo Upper Lips
+p71905
+sa(dp71906
+g86
+I339
+sg34
+VFor Your Information: The Not Quite Perennial Phyllopod
+p71907
+sa(dp71908
+g86
+I326
+sg34
+VForecast (Galaxy, August 1955)
+p71909
+sa(dp71910
+g86
+I98
+sg34
+VThe Flat-Eyed Monster
+p71911
+sa(dp71912
+g86
+I220
+sg34
+VCountry Estate
+p71913
+sa(dp71914
+g86
+I40
+sg34
+VPreferred Risk (Part 3 of 4)
+p71915
+sa(dp71916
+g86
+I110
+sg34
+VWhiskabroom
+p71917
+sa(dp71918
+g86
+I195
+sg34
+VA Gift From Earth
+p71919
+sa(dp71920
+g86
+I341
+sg34
+VTwink
+p71921
+sasbag1
+(g2
+g3
+Ntp71922
+Rp71923
+(dp71924
+g49
+(lp71925
+sg30
+(lp71926
+sg86
+I302
+sg82
+(lp71927
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine September 1955
+p71928
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v10n06_1955-09/Galaxy_v10n06_1955-09_jp2.zip&file=Galaxy_v10n06_1955-09_jp2/Galaxy_v10n06_1955-09_0000.jp2&scale=0&rotate=0
+p71929
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b8/MLO4383.jpg'
+p71930
+sg14
+g68230
+sg16
+(lp71931
+sg75
+(lp71932
+I363
+aI427
+aI419
+aI402
+aI474
+aI433
+aI305
+aI339
+aI326
+aI340
+aI161
+aI122
+aI40
+aI23
+aI193
+aI393
+aI302
+asg20
+(lp71933
+sg25
+I1032
+sg68234
+(lp71934
+(dp71935
+g86
+I363
+sg34
+VLittle Orphan Android
+p71936
+sa(dp71937
+g86
+I363
+sg34
+VLittle Orphan Android [2]
+p71938
+sa(dp71939
+g86
+I363
+sg34
+VLittle Orphan Android [3]
+p71940
+sa(dp71941
+g86
+I427
+sg34
+VHunting Problem
+p71942
+sa(dp71943
+g86
+I419
+sg34
+VOne for the Books
+p71944
+sa(dp71945
+g86
+I402
+sg34
+VThe Freelancer
+p71946
+sa(dp71947
+g86
+I474
+sg34
+VEnd As a World
+p71948
+sa(dp71949
+g86
+I433
+sg34
+VPreferred Risk (Part 4 of 4)
+p71950
+sa(dp71951
+g86
+I433
+sg34
+VPreferred Risk (Part 4 of 4) [2]
+p71952
+sa(dp71953
+g86
+I433
+sg34
+VPreferred Risk (Part 4 of 4) [3]
+p71954
+sa(dp71955
+g86
+I433
+sg34
+VPreferred Risk (Part 4 of 4) [4]
+p71956
+sa(dp71957
+g86
+I305
+sg34
+VFall List
+p71958
+sa(dp71959
+g86
+I339
+sg34
+VFor Your Information: Unveiling the Mystery Planet
+p71960
+sa(dp71961
+g86
+I326
+sg34
+VForecast (Galaxy, September 1955)
+p71962
+sa(dp71963
+g86
+I340
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, September 1955)
+p71964
+sa(dp71965
+g86
+I161
+sg34
+VLittle Orphan Android
+p71966
+sa(dp71967
+g86
+I122
+sg34
+VOne for the Books
+p71968
+sa(dp71969
+g86
+I40
+sg34
+VPreferred Risk (Part 4 of 4)
+p71970
+sa(dp71971
+g86
+I23
+sg34
+VHunting Problem
+p71972
+sa(dp71973
+g86
+I193
+sg34
+VThe Freelancer
+p71974
+sa(dp71975
+g86
+I393
+sg34
+VEnd As a World
+p71976
+sasbag1
+(g2
+g3
+Ntp71977
+Rp71978
+(dp71979
+g49
+(lp71980
+sg30
+(lp71981
+sg86
+I302
+sg82
+(lp71982
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine October 1955
+p71983
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v11n01_1955-10/Galaxy_v11n01_1955-10_jp2.zip&file=Galaxy_v11n01_1955-10_jp2/Galaxy_v11n01_1955-10_0000.jp2&scale=0&rotate=0
+p71984
+sg68228
+S'http://www.isfdb.org/wiki/images/d/db/MLO4384.jpg'
+p71985
+sg14
+g68230
+sg16
+(lp71986
+sg75
+(lp71987
+I471
+aI476
+aI474
+aI477
+aI427
+aI305
+aI326
+aI339
+aI340
+aI23
+aI393
+aI172
+aI98
+aI478
+aI479
+aI302
+asg20
+(lp71988
+sg25
+I1033
+sg68234
+(lp71989
+(dp71990
+g86
+I471
+sg34
+VA Ticket to Tranai
+p71991
+sa(dp71992
+g86
+I471
+sg34
+VA Ticket to Tranai [2]
+p71993
+sa(dp71994
+g86
+I471
+sg34
+VA Ticket to Tranai [3]
+p71995
+sa(dp71996
+g86
+I476
+sg34
+VThe Discovery of Morniel Mathaway
+p71997
+sa(dp71998
+g86
+I474
+sg34
+VBolden's Pets
+p71999
+sa(dp72000
+g86
+I471
+sg34
+VJack of No Trades
+p72001
+sa(dp72002
+g86
+I477
+sg34
+VThe Lights On Precipice Peak
+p72003
+sa(dp72004
+g86
+I427
+sg34
+VThe Game of Rat and Dragon
+p72005
+sa(dp72006
+g86
+I427
+sg34
+VThe Game of Rat and Dragon [2]
+p72007
+sa(dp72008
+g86
+I427
+sg34
+VThe Game of Rat and Dragon [3]
+p72009
+sa(dp72010
+g86
+I305
+sg34
+VHit or Myth?
+p72011
+sa(dp72012
+g86
+I326
+sg34
+VForecast (Galaxy, October 1955)
+p72013
+sa(dp72014
+g86
+I339
+sg34
+VFor Your Information: The How of Space Travel
+p72015
+sa(dp72016
+g86
+I340
+sg34
+VGalaxy's Five Star Shelf (Galaxy, October 1955)
+p72017
+sa(dp72018
+g86
+I23
+sg34
+VA Ticket to Tranai
+p72019
+sa(dp72020
+g86
+I393
+sg34
+VBolden's Pets
+p72021
+sa(dp72022
+g86
+I172
+sg34
+VJack of No Trades
+p72023
+sa(dp72024
+g86
+I98
+sg34
+VThe Discovery of Morniel Mathaway
+p72025
+sa(dp72026
+g86
+I478
+sg34
+VThe Lights On Precipice Peak
+p72027
+sa(dp72028
+g86
+I479
+sg34
+VThe Game of Rat and Dragon
+p72029
+sasbag1
+(g2
+g3
+Ntp72030
+Rp72031
+(dp72032
+g49
+(lp72033
+sg30
+(lp72034
+sg86
+I302
+sg82
+(lp72035
+I2
+asg13
+I1955
+sg34
+VGalaxy Magazine November 1955
+p72036
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/Galaxy_v11n02_1955-11/Galaxy_v11n02_1955-11_jp2.zip&file=Galaxy_v11n02_1955-11_jp2/Galaxy_v11n02_1955-11_0000.jp2&scale=0&rotate=0
+p72037
+sg68228
+S'http://www.isfdb.org/wiki/images/f/fa/GALNOV55.jpg'
+p72038
+sg14
+g68230
+sg16
+(lp72039
+sg75
+(lp72040
+I363
+aI480
+aI481
+aI482
+aI402
+aI305
+aI339
+aI483
+aI326
+aI8
+aI40
+aI136
+aI484
+aI485
+aI23
+aI302
+asg20
+(lp72041
+sg25
+I1034
+sg68234
+(lp72042
+(dp72043
+g86
+I363
+sg34
+VThe Ties of Earth (Part 1 of 2)
+p72044
+sa(dp72045
+g86
+I363
+sg34
+VThe Ties of Earth (Part 1 of 2) [2]
+p72046
+sa(dp72047
+g86
+I363
+sg34
+VThe Ties of Earth (Part 1 of 2) [3]
+p72048
+sa(dp72049
+g86
+I480
+sg34
+VThe Semantic War
+p72050
+sa(dp72051
+g86
+I363
+sg34
+VAutofac
+p72052
+sa(dp72053
+g86
+I363
+sg34
+VAutofac [2]
+p72054
+sa(dp72055
+g86
+I363
+sg34
+VAutofac [3]
+p72056
+sa(dp72057
+g86
+I481
+sg34
+VCause of Death
+p72058
+sa(dp72059
+g86
+I482
+sg34
+VWarrior's Return
+p72060
+sa(dp72061
+g86
+I402
+sg34
+VWith Redfern On Capella Xii
+p72062
+sa(dp72063
+g86
+I402
+sg34
+VWith Redfern On Capella Xii [2]
+p72064
+sa(dp72065
+g86
+I402
+sg34
+VWith Redfern On Capella Xii [3]
+p72066
+sa(dp72067
+g86
+I305
+sg34
+VWho'll Be Around?
+p72068
+sa(dp72069
+g86
+I339
+sg34
+VFor Your Information (Galaxy Science Fiction, November 1955)
+p72070
+sa(dp72071
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, November 1955)
+p72072
+sa(dp72073
+g86
+I326
+sg34
+VForecast (Galaxy, November 1955)
+p72074
+sa(dp72075
+g86
+I8
+sg34
+VAutofac
+p72076
+sa(dp72077
+g86
+I40
+sg34
+VWith Redfern On Capella Xii
+p72078
+sa(dp72079
+g86
+I136
+sg34
+VThe Ties of Earth (Part 1 of 2)
+p72080
+sa(dp72081
+g86
+I484
+sg34
+VThe Semantic War
+p72082
+sa(dp72083
+g86
+I485
+sg34
+VCause of Death
+p72084
+sa(dp72085
+g86
+I23
+sg34
+VWarrior's Return
+p72086
+sasbag1
+(g2
+g3
+Ntp72087
+Rp72088
+(dp72089
+g49
+(lp72090
+sg30
+(lp72091
+sg86
+I302
+sg82
+(lp72092
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine January 1956
+p72093
+sg11
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v11n03_1956-01/Galaxy_v11n03_1956-01_jp2.zip&file=Galaxy_v11n03_1956-01_jp2/Galaxy_v11n03_1956-01_0000.jp2&scale=0&rotate=0
+p72094
+sg68228
+S'http://www.isfdb.org/wiki/images/a/a6/MLO4385.jpg'
+p72095
+sg14
+g68230
+sg16
+(lp72096
+sg75
+(lp72097
+I427
+aI481
+aI486
+aI402
+aI363
+aI305
+aI339
+aI326
+aI483
+aI441
+aI161
+aI136
+aI356
+aI109
+aI23
+aI487
+aI302
+asg20
+(lp72098
+sg25
+I1035
+sg68234
+(lp72099
+(dp72100
+g86
+I427
+sg34
+VBrightside Crossing
+p72101
+sa(dp72102
+g86
+I427
+sg34
+VBrightside Crossing [2]
+p72103
+sa(dp72104
+g86
+I427
+sg34
+VBrightside Crossing [3]
+p72105
+sa(dp72106
+g86
+I481
+sg34
+VThe Dwindling Years
+p72107
+sa(dp72108
+g86
+I486
+sg34
+VJunior
+p72109
+sa(dp72110
+g86
+I402
+sg34
+VThe Gravity Business
+p72111
+sa(dp72112
+g86
+I402
+sg34
+VThe Gravity Business [2]
+p72113
+sa(dp72114
+g86
+I402
+sg34
+VThe Gravity Business [3]
+p72115
+sa(dp72116
+g86
+I486
+sg34
+VThe Body
+p72117
+sa(dp72118
+g86
+I486
+sg34
+VThe Snare
+p72119
+sa(dp72120
+g86
+I363
+sg34
+VThe Ties of Earth (Part 2 of 2)
+p72121
+sa(dp72122
+g86
+I363
+sg34
+VThe Ties of Earth (Part 2 of 2) [2]
+p72123
+sa(dp72124
+g86
+I363
+sg34
+VThe Ties of Earth (Part 2 of 2) [3]
+p72125
+sa(dp72126
+g86
+I305
+sg34
+VHow Now, Gray Cell?
+p72127
+sa(dp72128
+g86
+I339
+sg34
+VFor Your Information: Fyr-Gregeys and Wilde-Fyr
+p72129
+sa(dp72130
+g86
+I326
+sg34
+VForecast (Galaxy, January 1956)
+p72131
+sa(dp72132
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, January 1956)
+p72133
+sa(dp72134
+g86
+I441
+sg34
+VBrightside Crossing
+p72135
+sa(dp72136
+g86
+I161
+sg34
+VThe Gravity Business
+p72137
+sa(dp72138
+g86
+I136
+sg34
+VThe Ties of Earth (Part 2 of 2)
+p72139
+sa(dp72140
+g86
+I356
+sg34
+VThe Dwindling Years
+p72141
+sa(dp72142
+g86
+I109
+sg34
+VJunior
+p72143
+sa(dp72144
+g86
+I23
+sg34
+VThe Body
+p72145
+sa(dp72146
+g86
+I487
+sg34
+VThe Snare
+p72147
+sasbag1
+(g2
+g3
+Ntp72148
+Rp72149
+(dp72150
+g49
+(lp72151
+sg30
+(lp72152
+sg86
+I302
+sg82
+(lp72153
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine February 1956
+p72154
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v11n04_1956-02/Galaxy_v11n04_1956-02_jp2.zip&file=Galaxy_v11n04_1956-02_jp2/Galaxy_v11n04_1956-02_0000.jp2&scale=0&rotate=0
+p72155
+sg68228
+S'http://www.isfdb.org/wiki/images/3/33/MLO4386.jpg'
+p72156
+sg14
+g68230
+sg16
+(lp72157
+sg75
+(lp72158
+I363
+aI481
+aI488
+aI471
+aI305
+aI326
+aI339
+aI483
+aI214
+aI443
+aI45
+aI30
+aI23
+aI302
+asg20
+(lp72159
+sg25
+I1036
+sg68234
+(lp72160
+(dp72161
+g86
+I363
+sg34
+VMan in a Sewing Machine
+p72162
+sa(dp72163
+g86
+I363
+sg34
+VMan in a Sewing Machine [2]
+p72164
+sa(dp72165
+g86
+I363
+sg34
+VMan in a Sewing Machine [3]
+p72166
+sa(dp72167
+g86
+I481
+sg34
+VDead-End Doctor
+p72168
+sa(dp72169
+g86
+I481
+sg34
+VThe Corkscrew of Space
+p72170
+sa(dp72171
+g86
+I363
+sg34
+VThe Category Inventors
+p72172
+sa(dp72173
+g86
+I363
+sg34
+VThe Category Inventors [2]
+p72174
+sa(dp72175
+g86
+I363
+sg34
+VThe Category Inventors [3]
+p72176
+sa(dp72177
+g86
+I488
+sg34
+VTrap
+p72178
+sa(dp72179
+g86
+I471
+sg34
+VBodyguard
+p72180
+sa(dp72181
+g86
+I471
+sg34
+VBodyguard [2]
+p72182
+sa(dp72183
+g86
+I471
+sg34
+VBodyguard [3]
+p72184
+sa(dp72185
+g86
+I305
+sg34
+VSaps Will Rise
+p72186
+sa(dp72187
+g86
+I326
+sg34
+VForecast (Galaxy, February 1956)
+p72188
+sa(dp72189
+g86
+I339
+sg34
+VFor Your Information: The Other Side of the Moon
+p72190
+sa(dp72191
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, February 1956)
+p72192
+sa(dp72193
+g86
+I214
+sg34
+VMan in a Sewing Machine
+p72194
+sa(dp72195
+g86
+I443
+sg34
+VThe Category Inventors
+p72196
+sa(dp72197
+g86
+I305
+sg34
+VBodyguard
+p72198
+sa(dp72199
+g86
+I45
+sg34
+VDead-End Doctor
+p72200
+sa(dp72201
+g86
+I30
+sg34
+VThe Corkscrew of Space
+p72202
+sa(dp72203
+g86
+I23
+sg34
+VTrap
+p72204
+sasbag1
+(g2
+g3
+Ntp72205
+Rp72206
+(dp72207
+g49
+(lp72208
+sg30
+(lp72209
+sg86
+I302
+sg82
+(lp72210
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine March 1956
+p72211
+sg11
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v11n05_1956-03/Galaxy_v11n05_1956-03_jp2.zip&file=Galaxy_v11n05_1956-03_jp2/Galaxy_v11n05_1956-03_0000.jp2&scale=0&rotate=0
+p72212
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f6/MLO4387.jpg'
+p72213
+sg14
+g68230
+sg16
+(lp72214
+sg75
+(lp72215
+I363
+aI486
+aI402
+aI481
+aI305
+aI339
+aI483
+aI326
+aI345
+aI161
+aI40
+aI315
+aI153
+aI302
+asg20
+(lp72216
+sg25
+I1037
+sg68234
+(lp72217
+(dp72218
+g86
+I363
+sg34
+VA Gun for Dinosaur
+p72219
+sa(dp72220
+g86
+I363
+sg34
+VA Gun for Dinosaur [2]
+p72221
+sa(dp72222
+g86
+I363
+sg34
+VA Gun for Dinosaur [3]
+p72223
+sa(dp72224
+g86
+I486
+sg34
+VFlat Tiger
+p72225
+sa(dp72226
+g86
+I402
+sg34
+VTsylana
+p72227
+sa(dp72228
+g86
+I402
+sg34
+VTsylana [2]
+p72229
+sa(dp72230
+g86
+I402
+sg34
+VTsylana [3]
+p72231
+sa(dp72232
+g86
+I481
+sg34
+VLittle Red Schoolhouse
+p72233
+sa(dp72234
+g86
+I363
+sg34
+VSlave Ship (Part 1 of 3)
+p72235
+sa(dp72236
+g86
+I363
+sg34
+VSlave Ship (Part 1 of 3) [2]
+p72237
+sa(dp72238
+g86
+I363
+sg34
+VSlave Ship (Part 1 of 3) [3]
+p72239
+sa(dp72240
+g86
+I363
+sg34
+VSlave Ship (Part 1 of 3) [4]
+p72241
+sa(dp72242
+g86
+I305
+sg34
+VLook Now!
+p72243
+sa(dp72244
+g86
+I339
+sg34
+VFor Your Information: The Hollow Earth
+p72245
+sa(dp72246
+g86
+I483
+sg34
+VGalaxy's Five Star Shelf (Galaxy, March 1956)
+p72247
+sa(dp72248
+g86
+I326
+sg34
+VForecast (Galaxy, March 1956)
+p72249
+sa(dp72250
+g86
+I345
+sg34
+VA Gun for Dinosaur
+p72251
+sa(dp72252
+g86
+I161
+sg34
+VTsylana
+p72253
+sa(dp72254
+g86
+I40
+sg34
+VSlave Ship (Part 1 of 3)
+p72255
+sa(dp72256
+g86
+I315
+sg34
+VFlat Tiger
+p72257
+sa(dp72258
+g86
+I153
+sg34
+VLittle Red Schoolhouse
+p72259
+sasbag1
+(g2
+g3
+Ntp72260
+Rp72261
+(dp72262
+g49
+(lp72263
+sg30
+(lp72264
+sg86
+I302
+sg82
+(lp72265
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine April 1956
+p72266
+sg11
+Vhttps://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v11n06_1956-04/Galaxy_v11n06_1956-04_jp2.zip&file=Galaxy_v11n06_1956-04_jp2/Galaxy_v11n06_1956-04_0000.jp2&scale=0&rotate=0
+p72267
+sg68228
+S'http://www.isfdb.org/wiki/images/7/79/MLO4394.jpg'
+p72268
+sg14
+g68230
+sg16
+(lp72269
+sg75
+(lp72270
+I489
+aI490
+aI486
+aI363
+aI305
+aI326
+aI339
+aI483
+aI491
+aI492
+aI40
+aI23
+aI271
+aI493
+aI302
+asg20
+(lp72271
+sg25
+I1038
+sg68234
+(lp72272
+(dp72273
+g86
+I489
+sg34
+VSwenson, Dispatcher
+p72274
+sa(dp72275
+g86
+I489
+sg34
+VSwenson, Dispatcher [2]
+p72276
+sa(dp72277
+g86
+I489
+sg34
+VSwenson, Dispatcher [3]
+p72278
+sa(dp72279
+g86
+I489
+sg34
+VSwenson, Dispatcher [4]
+p72280
+sa(dp72281
+g86
+I490
+sg34
+VProtection
+p72282
+sa(dp72283
+g86
+I486
+sg34
+VPoint of Departure
+p72284
+sa(dp72285
+g86
+I486
+sg34
+VPoint of Departure [2]
+p72286
+sa(dp72287
+g86
+I490
+sg34
+VGarrity's Annuities
+p72288
+sa(dp72289
+g86
+I490
+sg34
+VTime to Kill
+p72290
+sa(dp72291
+g86
+I363
+sg34
+VSlave Ship (Part 2 of 3)
+p72292
+sa(dp72293
+g86
+I363
+sg34
+VSlave Ship (Part 2 of 3) [2]
+p72294
+sa(dp72295
+g86
+I363
+sg34
+VSlave Ship (Part 2 of 3) [3]
+p72296
+sa(dp72297
+g86
+I363
+sg34
+VSlave Ship (Part 2 of 3) [4]
+p72298
+sa(dp72299
+g86
+I305
+sg34
+VOpen for Business
+p72300
+sa(dp72301
+g86
+I326
+sg34
+VForecast (Galaxy, April 1956)
+p72302
+sa(dp72303
+g86
+I339
+sg34
+VFor Your Information: Let's Build an Extraterrestrial!
+p72304
+sa(dp72305
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, April 1956)
+p72306
+sa(dp72307
+g86
+I491
+sg34
+VSwenson, Dispatcher
+p72308
+sa(dp72309
+g86
+I492
+sg34
+VPoint of Departure
+p72310
+sa(dp72311
+g86
+I40
+sg34
+VSlave Ship (Part 2 of 3)
+p72312
+sa(dp72313
+g86
+I23
+sg34
+VProtection
+p72314
+sa(dp72315
+g86
+I271
+sg34
+VGarrity's Annuities
+p72316
+sa(dp72317
+g86
+I493
+sg34
+VTime to Kill
+p72318
+sasbag1
+(g2
+g3
+Ntp72319
+Rp72320
+(dp72321
+g49
+(lp72322
+sg30
+(lp72323
+sg86
+I302
+sg82
+(lp72324
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine May 1956
+p72325
+sg11
+Vhttps://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v12n01_1956-05/Galaxy_v12n01_1956-05_jp2.zip&file=Galaxy_v12n01_1956-05_jp2/Galaxy_v12n01_1956-05_0000.jp2&scale=0&rotate=0
+p72326
+sg68228
+S'http://www.isfdb.org/wiki/images/6/6b/MLO4395.jpg'
+p72327
+sg14
+g68230
+sg16
+(lp72328
+sg75
+(lp72329
+I419
+aI486
+aI363
+aI494
+aI305
+aI339
+aI483
+aI368
+aI376
+aI40
+aI142
+aI443
+aI302
+asg20
+(lp72330
+sg25
+I1039
+sg68234
+(lp72331
+(dp72332
+g86
+I419
+sg34
+VVolpla
+p72333
+sa(dp72334
+g86
+I419
+sg34
+VVolpla [2]
+p72335
+sa(dp72336
+g86
+I486
+sg34
+VName Your Symptom
+p72337
+sa(dp72338
+g86
+I363
+sg34
+VA Coffin for Jacob
+p72339
+sa(dp72340
+g86
+I363
+sg34
+VA Coffin for Jacob [2]
+p72341
+sa(dp72342
+g86
+I363
+sg34
+VA Coffin for Jacob [3]
+p72343
+sa(dp72344
+g86
+I494
+sg34
+VOne Across
+p72345
+sa(dp72346
+g86
+I363
+sg34
+VSlave Ship (Part 3 of 3)
+p72347
+sa(dp72348
+g86
+I363
+sg34
+VSlave Ship (Part 3 of 3) [2]
+p72349
+sa(dp72350
+g86
+I363
+sg34
+VSlave Ship (Part 3 of 3) [3]
+p72351
+sa(dp72352
+g86
+I363
+sg34
+VSlave Ship (Part 3 of 3) [4]
+p72353
+sa(dp72354
+g86
+I305
+sg34
+VOf Two Minds
+p72355
+sa(dp72356
+g86
+I339
+sg34
+VFor Your Information: Wanted &Mdash; Dead or Alive
+p72357
+sa(dp72358
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, May 1956)
+p72359
+sa(dp72360
+g86
+I368
+sg34
+VVolpla
+p72361
+sa(dp72362
+g86
+I376
+sg34
+VA Coffin for Jacob
+p72363
+sa(dp72364
+g86
+I40
+sg34
+VSlave Ship (Part 3 of 3)
+p72365
+sa(dp72366
+g86
+I142
+sg34
+VName Your Symptom
+p72367
+sa(dp72368
+g86
+I443
+sg34
+VOne Across
+p72369
+sasbag1
+(g2
+g3
+Ntp72370
+Rp72371
+(dp72372
+g49
+(lp72373
+sg30
+(lp72374
+sg86
+I302
+sg82
+(lp72375
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine June 1956
+p72376
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v12n02_1956-06/Galaxy_v12n02_1956-06_jp2.zip&file=Galaxy_v12n02_1956-06_jp2/Galaxy_v12n02_1956-06_0000.jp2&scale=0&rotate=0
+p72377
+sg68228
+S'http://www.isfdb.org/wiki/images/2/2f/MLO4396.jpg'
+p72378
+sg14
+g68230
+sg16
+(lp72379
+sg75
+(lp72380
+I363
+aI486
+aI419
+aI305
+aI326
+aI339
+aI483
+aI393
+aI172
+aI475
+aI23
+aI495
+aI496
+aI302
+asg20
+(lp72381
+sg25
+I1040
+sg68234
+(lp72382
+(dp72383
+g86
+I363
+sg34
+VMezzerow Loves Company
+p72384
+sa(dp72385
+g86
+I363
+sg34
+VMezzerow Loves Company [2]
+p72386
+sa(dp72387
+g86
+I363
+sg34
+VMezzerow Loves Company [3]
+p72388
+sa(dp72389
+g86
+I486
+sg34
+VDeath Wish
+p72390
+sa(dp72391
+g86
+I486
+sg34
+VThe Scapegoat
+p72392
+sa(dp72393
+g86
+I419
+sg34
+VThe Venus Trap
+p72394
+sa(dp72395
+g86
+I419
+sg34
+VThe Venus Trap [2]
+p72396
+sa(dp72397
+g86
+I419
+sg34
+VThe Venus Trap [3]
+p72398
+sa(dp72399
+g86
+I486
+sg34
+VThe Moralist
+p72400
+sa(dp72401
+g86
+I363
+sg34
+VIn the Cards
+p72402
+sa(dp72403
+g86
+I363
+sg34
+VIn the Cards [2]
+p72404
+sa(dp72405
+g86
+I363
+sg34
+VIn the Cards [3]
+p72406
+sa(dp72407
+g86
+I305
+sg34
+VFreedom From Everything
+p72408
+sa(dp72409
+g86
+I326
+sg34
+VForecast (Galaxy, June 1956)
+p72410
+sa(dp72411
+g86
+I339
+sg34
+VFor Your Information: Mutant of the Iron Horse
+p72412
+sa(dp72413
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1956)
+p72414
+sa(dp72415
+g86
+I393
+sg34
+VMezzerow Loves Company
+p72416
+sa(dp72417
+g86
+I172
+sg34
+VThe Venus Trap
+p72418
+sa(dp72419
+g86
+I475
+sg34
+VIn the Cards
+p72420
+sa(dp72421
+g86
+I23
+sg34
+VDeath Wish
+p72422
+sa(dp72423
+g86
+I495
+sg34
+VThe Scapegoat
+p72424
+sa(dp72425
+g86
+I496
+sg34
+VThe Moralist
+p72426
+sasbag1
+(g2
+g3
+Ntp72427
+Rp72428
+(dp72429
+g49
+(lp72430
+sg30
+(lp72431
+sg86
+I302
+sg82
+(lp72432
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine July 1956
+p72433
+sg11
+Vhttps://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/Galaxy_v12n03_1956-07/Galaxy_v12n03_1956-07_jp2.zip&file=Galaxy_v12n03_1956-07_jp2/Galaxy_v12n03_1956-07_0000.jp2&scale=0&rotate=0
+p72434
+sg68228
+S'http://www.isfdb.org/wiki/images/0/05/MLO4427.jpg'
+p72435
+sg14
+g68230
+sg16
+(lp72436
+sg75
+(lp72437
+I363
+aI486
+aI490
+aI471
+aI476
+aI497
+aI305
+aI326
+aI339
+aI483
+aI56
+aI341
+aI498
+aI55
+aI23
+aI423
+aI302
+asg20
+(lp72438
+sg25
+I1041
+sg68234
+(lp72439
+(dp72440
+g86
+I363
+sg34
+VDrop Dead
+p72441
+sa(dp72442
+g86
+I363
+sg34
+VDrop Dead [2]
+p72443
+sa(dp72444
+g86
+I363
+sg34
+VDrop Dead [3]
+p72445
+sa(dp72446
+g86
+I486
+sg34
+VGypped
+p72447
+sa(dp72448
+g86
+I490
+sg34
+VWriting of the Rat
+p72449
+sa(dp72450
+g86
+I471
+sg34
+VBad Medicine
+p72451
+sa(dp72452
+g86
+I471
+sg34
+VBad Medicine [2]
+p72453
+sa(dp72454
+g86
+I471
+sg34
+VBad Medicine [3]
+p72455
+sa(dp72456
+g86
+I476
+sg34
+VAll the Things You Are
+p72457
+sa(dp72458
+g86
+I476
+sg34
+VHorrer Howce
+p72459
+sa(dp72460
+g86
+I497
+sg34
+VThe Skills of Xanadu
+p72461
+sa(dp72462
+g86
+I497
+sg34
+VThe Skills of Xanadu [2]
+p72463
+sa(dp72464
+g86
+I497
+sg34
+VThe Skills of Xanadu [3]
+p72465
+sa(dp72466
+g86
+I305
+sg34
+VNow Look!
+p72467
+sa(dp72468
+g86
+I326
+sg34
+VForecast (Galaxy, July 1956)
+p72469
+sa(dp72470
+g86
+I339
+sg34
+VFor Your Information: Welcome to Reality C-Ti
+p72471
+sa(dp72472
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, July 1956)
+p72473
+sa(dp72474
+g86
+I56
+sg34
+VDrop Dead
+p72475
+sa(dp72476
+g86
+I341
+sg34
+VThe Skills of Xanadu
+p72477
+sa(dp72478
+g86
+I498
+sg34
+VGypped
+p72479
+sa(dp72480
+g86
+I55
+sg34
+VWriting of the Rat
+p72481
+sa(dp72482
+g86
+I23
+sg34
+VBad Medicine
+p72483
+sa(dp72484
+g86
+I23
+sg34
+VAll the Things You Are
+p72485
+sa(dp72486
+g86
+I423
+sg34
+VHorrer Howce
+p72487
+sasbag1
+(g2
+g3
+Ntp72488
+Rp72489
+(dp72490
+g49
+(lp72491
+sg30
+(lp72492
+sg86
+I302
+sg82
+(lp72493
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine August 1956
+p72494
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v12n04_1956-08/Galaxy_v12n04_1956-08_jp2.zip&file=Galaxy_v12n04_1956-08_jp2/Galaxy_v12n04_1956-08_0000.jp2&scale=0&rotate=0
+p72495
+sg68228
+S'http://www.isfdb.org/wiki/images/c/c4/MLO4428.jpg'
+p72496
+sg14
+g68230
+sg16
+(lp72497
+sg75
+(lp72498
+I419
+aI480
+aI363
+aI499
+aI471
+aI326
+aI339
+aI483
+aI98
+aI341
+aI56
+aI204
+aI23
+aI55
+aI302
+asg20
+(lp72499
+sg25
+I1042
+sg68234
+(lp72500
+(dp72501
+g86
+I419
+sg34
+VTime in Advance
+p72502
+sa(dp72503
+g86
+I419
+sg34
+VTime in Advance [2]
+p72504
+sa(dp72505
+g86
+I419
+sg34
+VTime in Advance [3]
+p72506
+sa(dp72507
+g86
+I419
+sg34
+VHonorable Opponent
+p72508
+sa(dp72509
+g86
+I480
+sg34
+VThis Way to the Regress
+p72510
+sa(dp72511
+g86
+I363
+sg34
+VEarly Model
+p72512
+sa(dp72513
+g86
+I363
+sg34
+VEarly Model [2]
+p72514
+sa(dp72515
+g86
+I363
+sg34
+VEarly Model [3]
+p72516
+sa(dp72517
+g86
+I499
+sg34
+VThe Genius Heap
+p72518
+sa(dp72519
+g86
+I471
+sg34
+VThe Claustrophile
+p72520
+sa(dp72521
+g86
+I471
+sg34
+VThe Claustrophile [2]
+p72522
+sa(dp72523
+g86
+I471
+sg34
+VThe Claustrophile [3]
+p72524
+sa(dp72525
+g86
+I326
+sg34
+VForecast (Galaxy, August 1956)
+p72526
+sa(dp72527
+g86
+I339
+sg34
+VFor Your Information: The Demotion of Pluto
+p72528
+sa(dp72529
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1956)
+p72530
+sa(dp72531
+g86
+I98
+sg34
+VTime in Advance
+p72532
+sa(dp72533
+g86
+I341
+sg34
+VThe Claustrophile
+p72534
+sa(dp72535
+g86
+I56
+sg34
+VHonorable Opponent
+p72536
+sa(dp72537
+g86
+I204
+sg34
+VThis Way to the Regress
+p72538
+sa(dp72539
+g86
+I23
+sg34
+VEarly Model
+p72540
+sa(dp72541
+g86
+I55
+sg34
+VThe Genius Heap
+p72542
+sasbag1
+(g2
+g3
+Ntp72543
+Rp72544
+(dp72545
+g49
+(lp72546
+sg30
+(lp72547
+sg86
+I302
+sg82
+(lp72548
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine September 1956
+p72549
+sg11
+Vhttps://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v12n05_1956-09/Galaxy_v12n05_1956-09_jp2.zip&file=Galaxy_v12n05_1956-09_jp2/Galaxy_v12n05_1956-09_0000.jp2&scale=0&rotate=0
+p72550
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b8/MLO4429.jpg'
+p72551
+sg14
+g68230
+sg16
+(lp72552
+sg75
+(lp72553
+I499
+aI494
+aI419
+aI486
+aI500
+aI339
+aI483
+aI501
+aI326
+aI443
+aI341
+aI475
+aI23
+aI220
+aI396
+aI302
+asg20
+(lp72554
+sg25
+I1043
+sg68234
+(lp72555
+(dp72556
+g86
+I499
+sg34
+VThe Other Man
+p72557
+sa(dp72558
+g86
+I499
+sg34
+VThe Other Man [2]
+p72559
+sa(dp72560
+g86
+I499
+sg34
+VThe Other Man [3]
+p72561
+sa(dp72562
+g86
+I494
+sg34
+VNothing but the Best
+p72563
+sa(dp72564
+g86
+I419
+sg34
+VVerbal Agreement
+p72565
+sa(dp72566
+g86
+I419
+sg34
+VVerbal Agreement [2]
+p72567
+sa(dp72568
+g86
+I419
+sg34
+VVerbal Agreement [3]
+p72569
+sa(dp72570
+g86
+I486
+sg34
+VHuman Man's Burden
+p72571
+sa(dp72572
+g86
+I494
+sg34
+VSeeing-Eye Dog
+p72573
+sa(dp72574
+g86
+I500
+sg34
+VChain Reaction
+p72575
+sa(dp72576
+g86
+I500
+sg34
+VChain Reaction [2]
+p72577
+sa(dp72578
+g86
+I500
+sg34
+VChain Reaction [3]
+p72579
+sa(dp72580
+g86
+I339
+sg34
+VFor Your Information: Project Vanguard
+p72581
+sa(dp72582
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, September 1956)
+p72583
+sa(dp72584
+g86
+I501
+sg34
+VReview of the Nonfiction Work "Mysteries of the North Pole"
+p72585
+sa(dp72586
+g86
+I326
+sg34
+VForecast (Galaxy, September 1956)
+p72587
+sa(dp72588
+g86
+I443
+sg34
+VVerbal Agreement
+p72589
+sa(dp72590
+g86
+I341
+sg34
+VThe Other Man
+p72591
+sa(dp72592
+g86
+I475
+sg34
+VNothing but the Best
+p72593
+sa(dp72594
+g86
+I23
+sg34
+VHuman Man's Burden
+p72595
+sa(dp72596
+g86
+I220
+sg34
+VSeeing-Eye Dog
+p72597
+sa(dp72598
+g86
+I396
+sg34
+VChain Reaction
+p72599
+sasbag1
+(g2
+g3
+Ntp72600
+Rp72601
+(dp72602
+g49
+(lp72603
+sg30
+(lp72604
+sg86
+I302
+sg82
+(lp72605
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine October 1956
+p72606
+sg11
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/Galaxy_v12n06_1956-10/Galaxy_v12n06_1956-10_jp2.zip&file=Galaxy_v12n06_1956-10_jp2/Galaxy_v12n06_1956-10_0000.jp2&scale=0&rotate=0
+p72607
+sg68228
+S'http://www.isfdb.org/wiki/images/1/13/MLO4430.jpg'
+p72608
+sg14
+g68230
+sg16
+(lp72609
+sg75
+(lp72610
+I363
+aI419
+aI499
+aI494
+aI497
+aI305
+aI339
+aI483
+aI56
+aI385
+aI243
+aI441
+aI217
+aI302
+asg20
+(lp72611
+sg25
+I1044
+sg68234
+(lp72612
+(dp72613
+g86
+I363
+sg34
+VThe Stars My Destination (Part 1 of 4)
+p72614
+sa(dp72615
+g86
+I363
+sg34
+VThe Stars My Destination (Part 1 of 4) [2]
+p72616
+sa(dp72617
+g86
+I363
+sg34
+VThe Stars My Destination (Part 1 of 4) [3]
+p72618
+sa(dp72619
+g86
+I363
+sg34
+VThe Stars My Destination (Part 1 of 4) [4]
+p72620
+sa(dp72621
+g86
+I419
+sg34
+VMan of Distinction
+p72622
+sa(dp72623
+g86
+I499
+sg34
+VProblem
+p72624
+sa(dp72625
+g86
+I494
+sg34
+VGeorge All the Way
+p72626
+sa(dp72627
+g86
+I497
+sg34
+VJackpot
+p72628
+sa(dp72629
+g86
+I497
+sg34
+VJackpot [2]
+p72630
+sa(dp72631
+g86
+I497
+sg34
+VJackpot [3]
+p72632
+sa(dp72633
+g86
+I305
+sg34
+VWhy, Back Home ...
+p72634
+sa(dp72635
+g86
+I339
+sg34
+VFor Your Information: The Animal in the Footnotes
+p72636
+sa(dp72637
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1956)
+p72638
+sa(dp72639
+g86
+I56
+sg34
+VJackpot
+p72640
+sa(dp72641
+g86
+I385
+sg34
+VThe Stars My Destination (Part 1 of 4)
+p72642
+sa(dp72643
+g86
+I243
+sg34
+VMan of Distinction
+p72644
+sa(dp72645
+g86
+I441
+sg34
+VProblem
+p72646
+sa(dp72647
+g86
+I217
+sg34
+VGeorge All the Way
+p72648
+sasbag1
+(g2
+g3
+Ntp72649
+Rp72650
+(dp72651
+g49
+(lp72652
+sg30
+(lp72653
+sg86
+I302
+sg82
+(lp72654
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine November 1956
+p72655
+sg11
+Vhttps://ia800206.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v13n01_1956-11/Galaxy_v13n01_1956-11_jp2.zip&file=Galaxy_v13n01_1956-11_jp2/Galaxy_v13n01_1956-11_0000.jp2&scale=0&rotate=0
+p72656
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d1/MLO4431.jpg'
+p72657
+sg14
+g68230
+sg16
+(lp72658
+sg75
+(lp72659
+I461
+aI419
+aI497
+aI363
+aI305
+aI339
+aI483
+aI326
+aI40
+aI385
+aI356
+aI493
+aI50
+aI302
+asg20
+(lp72660
+sg25
+I1045
+sg68234
+(lp72661
+(dp72662
+g86
+I461
+sg34
+VThe Man Who Ate the World
+p72663
+sa(dp72664
+g86
+I461
+sg34
+VThe Man Who Ate the World [2]
+p72665
+sa(dp72666
+g86
+I461
+sg34
+VThe Man Who Ate the World [3]
+p72667
+sa(dp72668
+g86
+I419
+sg34
+VDead Ringer
+p72669
+sa(dp72670
+g86
+I497
+sg34
+VVigil
+p72671
+sa(dp72672
+g86
+I419
+sg34
+VDouble Dare
+p72673
+sa(dp72674
+g86
+I363
+sg34
+VThe Stars My Destination (Part 2 of 4)
+p72675
+sa(dp72676
+g86
+I363
+sg34
+VThe Stars My Destination (Part 2 of 4) [2]
+p72677
+sa(dp72678
+g86
+I363
+sg34
+VThe Stars My Destination (Part 2 of 4) [3]
+p72679
+sa(dp72680
+g86
+I363
+sg34
+VThe Stars My Destination (Part 2 of 4) [4]
+p72681
+sa(dp72682
+g86
+I305
+sg34
+VBa+2na
+p72683
+sa(dp72684
+g86
+I339
+sg34
+VFor Your Information: No Longer Imaginary
+p72685
+sa(dp72686
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, November 1956)
+p72687
+sa(dp72688
+g86
+I326
+sg34
+VForecast (Galaxy, November 1956)
+p72689
+sa(dp72690
+g86
+I40
+sg34
+VThe Man Who Ate the World
+p72691
+sa(dp72692
+g86
+I385
+sg34
+VThe Stars My Destination (Part 2 of 4)
+p72693
+sa(dp72694
+g86
+I356
+sg34
+VDead Ringer
+p72695
+sa(dp72696
+g86
+I493
+sg34
+VVigil
+p72697
+sa(dp72698
+g86
+I50
+sg34
+VDouble Dare
+p72699
+sasbag1
+(g2
+g3
+Ntp72700
+Rp72701
+(dp72702
+g49
+(lp72703
+sg30
+(lp72704
+sg86
+I302
+sg82
+(lp72705
+I2
+asg13
+I1956
+sg34
+VGalaxy Magazine December 1956
+p72706
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_v13n02_1956-12/Galaxy_v13n02_1956-12_jp2.zip&file=Galaxy_v13n02_1956-12_jp2/Galaxy_v13n02_1956-12_0000.jp2&scale=0&rotate=0
+p72707
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d7/MLO4432.jpg'
+p72708
+sg14
+g68230
+sg16
+(lp72709
+sg75
+(lp72710
+I497
+aI499
+aI363
+aI305
+aI339
+aI483
+aI326
+aI23
+aI502
+aI385
+aI98
+aI493
+aI302
+asg20
+(lp72711
+sg25
+I1046
+sg68234
+(lp72712
+(dp72713
+g86
+I497
+sg34
+VThe Native Problem
+p72714
+sa(dp72715
+g86
+I497
+sg34
+VThe Native Problem [2]
+p72716
+sa(dp72717
+g86
+I497
+sg34
+VThe Native Problem [3]
+p72718
+sa(dp72719
+g86
+I499
+sg34
+VOf All Possible Worlds
+p72720
+sa(dp72721
+g86
+I497
+sg34
+VRattle Ok
+p72722
+sa(dp72723
+g86
+I497
+sg34
+VRattle Ok [2]
+p72724
+sa(dp72725
+g86
+I497
+sg34
+VRattle Ok [3]
+p72726
+sa(dp72727
+g86
+I499
+sg34
+VYou Go
+p72728
+sa(dp72729
+g86
+I363
+sg34
+VThe Stars My Destination (Part 3 of 4)
+p72730
+sa(dp72731
+g86
+I363
+sg34
+VThe Stars My Destination (Part 3 of 4) [2]
+p72732
+sa(dp72733
+g86
+I363
+sg34
+VThe Stars My Destination (Part 3 of 4) [3]
+p72734
+sa(dp72735
+g86
+I363
+sg34
+VThe Stars My Destination (Part 3 of 4) [4]
+p72736
+sa(dp72737
+g86
+I305
+sg34
+VWax &Amp; Wane
+p72738
+sa(dp72739
+g86
+I339
+sg34
+VFor Your Information: Tracking Down the "Sea Serpent" - Part I
+p72740
+sa(dp72741
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, December 1956)
+p72742
+sa(dp72743
+g86
+I326
+sg34
+VForecast (Galaxy, December 1956)
+p72744
+sa(dp72745
+g86
+I23
+sg34
+VThe Native Problem
+p72746
+sa(dp72747
+g86
+I502
+sg34
+VRattle Ok
+p72748
+sa(dp72749
+g86
+I385
+sg34
+VThe Stars My Destination (Part 3 of 4)
+p72750
+sa(dp72751
+g86
+I98
+sg34
+VOf All Possible Worlds
+p72752
+sa(dp72753
+g86
+I493
+sg34
+VYou Go
+p72754
+sasbag1
+(g2
+g3
+Ntp72755
+Rp72756
+(dp72757
+g49
+(lp72758
+sg30
+(lp72759
+sg86
+I302
+sg82
+(lp72760
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine January 1957
+p72761
+sg11
+Vhttps://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v13n03_1957-01/Galaxy_v13n03_1957-01_jp2.zip&file=Galaxy_v13n03_1957-01_jp2/Galaxy_v13n03_1957-01_0000.jp2&scale=0&rotate=0
+p72762
+sg68228
+S'http://www.isfdb.org/wiki/images/4/45/MLO4433.jpg'
+p72763
+sg14
+g68230
+sg16
+(lp72764
+sg75
+(lp72765
+I419
+aI497
+aI499
+aI363
+aI305
+aI483
+aI326
+aI339
+aI194
+aI503
+aI385
+aI220
+aI40
+aI302
+asg20
+(lp72766
+sg25
+I1047
+sg68234
+(lp72767
+(dp72768
+g86
+I419
+sg34
+VMoral Equivalent
+p72769
+sa(dp72770
+g86
+I419
+sg34
+VMoral Equivalent [2]
+p72771
+sa(dp72772
+g86
+I419
+sg34
+VMoral Equivalent [3]
+p72773
+sa(dp72774
+g86
+I497
+sg34
+VAll Jackson's Children
+p72775
+sa(dp72776
+g86
+I499
+sg34
+VButterfly 9
+p72777
+sa(dp72778
+g86
+I499
+sg34
+VButterfly 9 [2]
+p72779
+sa(dp72780
+g86
+I499
+sg34
+VButterfly 9 [3]
+p72781
+sa(dp72782
+g86
+I499
+sg34
+VThe Haunted Corpse
+p72783
+sa(dp72784
+g86
+I363
+sg34
+VThe Stars My Destination (Part 4 of 4)
+p72785
+sa(dp72786
+g86
+I363
+sg34
+VThe Stars My Destination (Part 4 of 4) [2]
+p72787
+sa(dp72788
+g86
+I363
+sg34
+VThe Stars My Destination (Part 4 of 4) [3]
+p72789
+sa(dp72790
+g86
+I363
+sg34
+VThe Stars My Destination (Part 4 of 4) [4]
+p72791
+sa(dp72792
+g86
+I305
+sg34
+VTreasurer's Report
+p72793
+sa(dp72794
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, January 1957)
+p72795
+sa(dp72796
+g86
+I326
+sg34
+VForecast (Galaxy, January 1957)
+p72797
+sa(dp72798
+g86
+I339
+sg34
+VFor Your Information: Tracking Down the Sea Serpent (Part Ii)
+p72799
+sa(dp72800
+g86
+I194
+sg34
+VMoral Equivalent
+p72801
+sa(dp72802
+g86
+I503
+sg34
+VButterfly 9
+p72803
+sa(dp72804
+g86
+I385
+sg34
+VThe Stars My Destination (Part 4 of 4)
+p72805
+sa(dp72806
+g86
+I220
+sg34
+VAll Jackson's Children
+p72807
+sa(dp72808
+g86
+I40
+sg34
+VThe Haunted Corpse
+p72809
+sasbag1
+(g2
+g3
+Ntp72810
+Rp72811
+(dp72812
+g49
+(lp72813
+sg30
+(lp72814
+sg86
+I302
+sg82
+(lp72815
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine February 1957
+p72816
+sg11
+Vhttps://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_v13n04_1957-02/Galaxy_v13n04_1957-02_jp2.zip&file=Galaxy_v13n04_1957-02_jp2/Galaxy_v13n04_1957-02_0000.jp2&scale=0&rotate=0
+p72817
+sg68228
+S'http://www.isfdb.org/wiki/images/7/77/MLO4434.jpg'
+p72818
+sg14
+g68230
+sg16
+(lp72819
+sg75
+(lp72820
+I499
+aI490
+aI497
+aI504
+aI305
+aI483
+aI326
+aI339
+aI40
+aI81
+aI167
+aI23
+aI505
+aI302
+asg20
+(lp72821
+sg25
+I1048
+sg68234
+(lp72822
+(dp72823
+g86
+I499
+sg34
+VMy Lady Greensleeves
+p72824
+sa(dp72825
+g86
+I499
+sg34
+VMy Lady Greensleeves [2]
+p72826
+sa(dp72827
+g86
+I499
+sg34
+VMy Lady Greensleeves [3]
+p72828
+sa(dp72829
+g86
+I490
+sg34
+VThe Martyr
+p72830
+sa(dp72831
+g86
+I497
+sg34
+VAdvance Agent
+p72832
+sa(dp72833
+g86
+I497
+sg34
+VAdvance Agent [2]
+p72834
+sa(dp72835
+g86
+I497
+sg34
+VAdvance Agent [3]
+p72836
+sa(dp72837
+g86
+I504
+sg34
+VThe Bomb in the Bathtub
+p72838
+sa(dp72839
+g86
+I499
+sg34
+VI Am a Nucleus
+p72840
+sa(dp72841
+g86
+I499
+sg34
+VI Am a Nucleus [2]
+p72842
+sa(dp72843
+g86
+I499
+sg34
+VI Am a Nucleus [3]
+p72844
+sa(dp72845
+g86
+I305
+sg34
+VA Load Off the Mind
+p72846
+sa(dp72847
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, February 1957)
+p72848
+sa(dp72849
+g86
+I326
+sg34
+VForecast (Galaxy, February 1957)
+p72850
+sa(dp72851
+g86
+I339
+sg34
+VFor Your Information: Between Us and Space Travel
+p72852
+sa(dp72853
+g86
+I40
+sg34
+VMy Lady Greensleeves
+p72854
+sa(dp72855
+g86
+I81
+sg34
+VAdvance Agent
+p72856
+sa(dp72857
+g86
+I167
+sg34
+VI Am a Nucleus
+p72858
+sa(dp72859
+g86
+I23
+sg34
+VThe Martyr
+p72860
+sa(dp72861
+g86
+I505
+sg34
+VThe Bomb in the Bathtub
+p72862
+sasbag1
+(g2
+g3
+Ntp72863
+Rp72864
+(dp72865
+g49
+(lp72866
+sg30
+(lp72867
+sg86
+I302
+sg82
+(lp72868
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine March 1957
+p72869
+sg11
+Vhttps://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v13n05_1957-03/Galaxy_v13n05_1957-03_jp2.zip&file=Galaxy_v13n05_1957-03_jp2/Galaxy_v13n05_1957-03_0000.jp2&scale=0&rotate=0
+p72870
+sg68228
+S'http://www.isfdb.org/wiki/images/2/2a/MLO4435.jpg'
+p72871
+sg14
+g68230
+sg16
+(lp72872
+sg75
+(lp72873
+I506
+aI472
+aI499
+aI305
+aI326
+aI339
+aI483
+aI172
+aI507
+aI204
+aI341
+aI508
+aI30
+aI302
+asg20
+(lp72874
+sg25
+I1049
+sg68234
+(lp72875
+(dp72876
+g86
+I506
+sg34
+VThe Ignoble Savages
+p72877
+sa(dp72878
+g86
+I506
+sg34
+VThe Ignoble Savages [2]
+p72879
+sa(dp72880
+g86
+I506
+sg34
+VThe Ignoble Savages [3]
+p72881
+sa(dp72882
+g86
+I506
+sg34
+VThe Other Celia
+p72883
+sa(dp72884
+g86
+I506
+sg34
+VThe Deep One
+p72885
+sa(dp72886
+g86
+I472
+sg34
+VSurvival Type
+p72887
+sa(dp72888
+g86
+I472
+sg34
+VSurvival Type [2]
+p72889
+sa(dp72890
+g86
+I472
+sg34
+VSurvival Type [3]
+p72891
+sa(dp72892
+g86
+I506
+sg34
+VThe Light
+p72893
+sa(dp72894
+g86
+I499
+sg34
+VAn Eye for a What?
+p72895
+sa(dp72896
+g86
+I499
+sg34
+VAn Eye for a What? [2]
+p72897
+sa(dp72898
+g86
+I499
+sg34
+VAn Eye for a What? [3]
+p72899
+sa(dp72900
+g86
+I305
+sg34
+VPersonal Account
+p72901
+sa(dp72902
+g86
+I326
+sg34
+VForecast (Galaxy, March 1957)
+p72903
+sa(dp72904
+g86
+I339
+sg34
+VFor Your Information: The Great Pyramid, the Golden Section and Pi
+p72905
+sa(dp72906
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, March 1957)
+p72907
+sa(dp72908
+g86
+I172
+sg34
+VThe Ignoble Savages
+p72909
+sa(dp72910
+g86
+I507
+sg34
+VSurvival Type
+p72911
+sa(dp72912
+g86
+I204
+sg34
+VAn Eye for a What?
+p72913
+sa(dp72914
+g86
+I341
+sg34
+VThe Other Celia
+p72915
+sa(dp72916
+g86
+I508
+sg34
+VThe Deep One
+p72917
+sa(dp72918
+g86
+I30
+sg34
+VThe Light
+p72919
+sasbag1
+(g2
+g3
+Ntp72920
+Rp72921
+(dp72922
+g49
+(lp72923
+sg30
+(lp72924
+sg86
+I302
+sg82
+(lp72925
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine April 1957
+p72926
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v13n06_1957-04/Galaxy_v13n06_1957-04_jp2.zip&file=Galaxy_v13n06_1957-04_jp2/Galaxy_v13n06_1957-04_0000.jp2&scale=0&rotate=0
+p72927
+sg68228
+S'http://www.isfdb.org/wiki/images/8/8b/MLO4436.jpg'
+p72928
+sg14
+g68230
+sg16
+(lp72929
+sg75
+(lp72930
+I499
+aI402
+aI419
+aI472
+aI506
+aI305
+aI339
+aI326
+aI483
+aI56
+aI172
+aI204
+aI509
+aI23
+aI441
+aI401
+aI302
+asg20
+(lp72931
+sg25
+I1050
+sg68234
+(lp72932
+(dp72933
+g86
+I499
+sg34
+VOperation Stinky
+p72934
+sa(dp72935
+g86
+I499
+sg34
+VOperation Stinky [2]
+p72936
+sa(dp72937
+g86
+I499
+sg34
+VOperation Stinky [3]
+p72938
+sa(dp72939
+g86
+I402
+sg34
+VMan in the Jar
+p72940
+sa(dp72941
+g86
+I499
+sg34
+VThe Ifth of Oofth
+p72942
+sa(dp72943
+g86
+I419
+sg34
+VThe Victim From Space
+p72944
+sa(dp72945
+g86
+I419
+sg34
+VThe Victim From Space [2]
+p72946
+sa(dp72947
+g86
+I419
+sg34
+VThe Victim From Space [3]
+p72948
+sa(dp72949
+g86
+I472
+sg34
+VThe Coffin Cure
+p72950
+sa(dp72951
+g86
+I506
+sg34
+VArmy Without Banners
+p72952
+sa(dp72953
+g86
+I506
+sg34
+VOnce a Greech
+p72954
+sa(dp72955
+g86
+I506
+sg34
+VOnce a Greech [2]
+p72956
+sa(dp72957
+g86
+I506
+sg34
+VOnce a Greech [3]
+p72958
+sa(dp72959
+g86
+I305
+sg34
+VDanger in the Air
+p72960
+sa(dp72961
+g86
+I339
+sg34
+VFor Your Information: The Coming of the Robots
+p72962
+sa(dp72963
+g86
+I326
+sg34
+VForecast (Galaxy, April 1957)
+p72964
+sa(dp72965
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, April 1957)
+p72966
+sa(dp72967
+g86
+I56
+sg34
+VOperation Stinky
+p72968
+sa(dp72969
+g86
+I172
+sg34
+VOnce a Greech
+p72970
+sa(dp72971
+g86
+I204
+sg34
+VMan in the Jar
+p72972
+sa(dp72973
+g86
+I509
+sg34
+VThe Ifth of Oofth
+p72974
+sa(dp72975
+g86
+I23
+sg34
+VThe Victim From Space
+p72976
+sa(dp72977
+g86
+I441
+sg34
+VThe Coffin Cure
+p72978
+sa(dp72979
+g86
+I401
+sg34
+VArmy Without Banners
+p72980
+sasbag1
+(g2
+g3
+Ntp72981
+Rp72982
+(dp72983
+g49
+(lp72984
+sg30
+(lp72985
+sg86
+I302
+sg82
+(lp72986
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine May 1957
+p72987
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/Galaxy_v14n01_1957-05/Galaxy_v14n01_1957-05_jp2.zip&file=Galaxy_v14n01_1957-05_jp2/Galaxy_v14n01_1957-05_0000.jp2&scale=0&rotate=0
+p72988
+sg68228
+S'http://www.isfdb.org/wiki/images/8/8a/MLO4437.jpg'
+p72989
+sg14
+g68230
+sg16
+(lp72990
+sg75
+(lp72991
+I499
+aI506
+aI419
+aI497
+aI305
+aI339
+aI326
+aI483
+aI40
+aI200
+aI32
+aI23
+aI56
+aI446
+aI217
+aI302
+asg20
+(lp72992
+sg25
+I1051
+sg68234
+(lp72993
+(dp72994
+g86
+I499
+sg34
+VSurvival Kit
+p72995
+sa(dp72996
+g86
+I499
+sg34
+VSurvival Kit [2]
+p72997
+sa(dp72998
+g86
+I499
+sg34
+VSurvival Kit [3]
+p72999
+sa(dp73000
+g86
+I499
+sg34
+VThe Language of Love
+p73001
+sa(dp73002
+g86
+I506
+sg34
+VFounding Father
+p73003
+sa(dp73004
+g86
+I419
+sg34
+VA Touch of E Flat
+p73005
+sa(dp73006
+g86
+I419
+sg34
+VA Touch of E Flat [2]
+p73007
+sa(dp73008
+g86
+I419
+sg34
+VA Touch of E Flat [3]
+p73009
+sa(dp73010
+g86
+I497
+sg34
+VDouble Dome
+p73011
+sa(dp73012
+g86
+I499
+sg34
+VQuota for Conquest
+p73013
+sa(dp73014
+g86
+I506
+sg34
+VTime in the Round
+p73015
+sa(dp73016
+g86
+I506
+sg34
+VTime in the Round [2]
+p73017
+sa(dp73018
+g86
+I506
+sg34
+VTime in the Round [3]
+p73019
+sa(dp73020
+g86
+I305
+sg34
+VBehind the Cob
+p73021
+sa(dp73022
+g86
+I339
+sg34
+VFor Your Information: Who'll Own the Planets?
+p73023
+sa(dp73024
+g86
+I326
+sg34
+VForecast (Galaxy, May 1957)
+p73025
+sa(dp73026
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, May 1957)
+p73027
+sa(dp73028
+g86
+I40
+sg34
+VSurvival Kit
+p73029
+sa(dp73030
+g86
+I200
+sg34
+VA Touch of E Flat
+p73031
+sa(dp73032
+g86
+I32
+sg34
+VTime in the Round
+p73033
+sa(dp73034
+g86
+I23
+sg34
+VThe Language of Love
+p73035
+sa(dp73036
+g86
+I56
+sg34
+VFounding Father
+p73037
+sa(dp73038
+g86
+I446
+sg34
+VDouble Dome
+p73039
+sa(dp73040
+g86
+I217
+sg34
+VQuota for Conquest
+p73041
+sasbag1
+(g2
+g3
+Ntp73042
+Rp73043
+(dp73044
+g49
+(lp73045
+sg30
+(lp73046
+sg86
+I302
+sg82
+(lp73047
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine June 1957
+p73048
+sg11
+Vhttps://ia800206.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v14n02_1957-06/Galaxy_v14n02_1957-06_jp2.zip&file=Galaxy_v14n02_1957-06_jp2/Galaxy_v14n02_1957-06_0000.jp2&scale=0&rotate=0
+p73049
+sg68228
+S'http://www.isfdb.org/wiki/images/5/57/MLO4438.jpg'
+p73050
+sg14
+g68230
+sg16
+(lp73051
+sg75
+(lp73052
+I504
+aI510
+aI419
+aI511
+aI512
+aI305
+aI339
+aI483
+aI326
+aI56
+aI172
+aI142
+aI441
+aI498
+aI220
+aI302
+asg20
+(lp73053
+sg25
+I1052
+sg68234
+(lp73054
+(dp73055
+g86
+I504
+sg34
+VLulu
+p73056
+sa(dp73057
+g86
+I504
+sg34
+VLulu [2]
+p73058
+sa(dp73059
+g86
+I504
+sg34
+VLulu [3]
+p73060
+sa(dp73061
+g86
+I510
+sg34
+VPrime Difference
+p73062
+sa(dp73063
+g86
+I419
+sg34
+VThe Hardest Bargain
+p73064
+sa(dp73065
+g86
+I419
+sg34
+VThe Hardest Bargain [2]
+p73066
+sa(dp73067
+g86
+I419
+sg34
+VThe Hardest Bargain [3]
+p73068
+sa(dp73069
+g86
+I511
+sg34
+VLeading Man
+p73070
+sa(dp73071
+g86
+I419
+sg34
+VShock Troop
+p73072
+sa(dp73073
+g86
+I512
+sg34
+VConfidence Game
+p73074
+sa(dp73075
+g86
+I512
+sg34
+VConfidence Game [2]
+p73076
+sa(dp73077
+g86
+I512
+sg34
+VConfidence Game [3]
+p73078
+sa(dp73079
+g86
+I305
+sg34
+VPostscript
+p73080
+sa(dp73081
+g86
+I339
+sg34
+VFor Your Information: Tribes of the Dinosaurs
+p73082
+sa(dp73083
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1957)
+p73084
+sa(dp73085
+g86
+I326
+sg34
+VForecast (Galaxy, June 1957)
+p73086
+sa(dp73087
+g86
+I56
+sg34
+VLulu
+p73088
+sa(dp73089
+g86
+I172
+sg34
+VThe Hardest Bargain
+p73090
+sa(dp73091
+g86
+I142
+sg34
+VConfidence Game
+p73092
+sa(dp73093
+g86
+I441
+sg34
+VPrime Difference
+p73094
+sa(dp73095
+g86
+I498
+sg34
+VLeading Man
+p73096
+sa(dp73097
+g86
+I220
+sg34
+VShock Troop
+p73098
+sasbag1
+(g2
+g3
+Ntp73099
+Rp73100
+(dp73101
+g49
+(lp73102
+sg30
+(lp73103
+sg86
+I302
+sg82
+(lp73104
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine July 1957
+p73105
+sg11
+Vhttps://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/Galaxy_v14n03_1957-07/Galaxy_v14n03_1957-07_jp2.zip&file=Galaxy_v14n03_1957-07_jp2/Galaxy_v14n03_1957-07_0000.jp2&scale=0&rotate=0
+p73106
+sg68228
+S'http://www.isfdb.org/wiki/images/2/26/MLO4439.jpg'
+p73107
+sg14
+g68230
+sg16
+(lp73108
+sg75
+(lp73109
+I513
+aI504
+aI419
+aI305
+aI326
+aI339
+aI483
+aI30
+aI514
+aI23
+aI121
+aI302
+asg20
+(lp73110
+sg25
+I1053
+sg68234
+(lp73111
+(dp73112
+g86
+I513
+sg34
+VA World Called Maanerek
+p73113
+sa(dp73114
+g86
+I513
+sg34
+VA World Called Maanerek [2]
+p73115
+sa(dp73116
+g86
+I513
+sg34
+VA Wind Is Rising
+p73117
+sa(dp73118
+g86
+I504
+sg34
+VHelp! I Am Dr. Morris Goldpepper
+p73119
+sa(dp73120
+g86
+I504
+sg34
+VHelp! I Am Dr. Morris Goldpepper [2]
+p73121
+sa(dp73122
+g86
+I504
+sg34
+VHelp! I Am Dr. Morris Goldpepper [3]
+p73123
+sa(dp73124
+g86
+I513
+sg34
+VGrowing Up On Big Muddy
+p73125
+sa(dp73126
+g86
+I419
+sg34
+VThe Deaths of Ben Baxter
+p73127
+sa(dp73128
+g86
+I419
+sg34
+VThe Deaths of Ben Baxter [2]
+p73129
+sa(dp73130
+g86
+I419
+sg34
+VThe Deaths of Ben Baxter [3]
+p73131
+sa(dp73132
+g86
+I305
+sg34
+VYou Were Saying?
+p73133
+sa(dp73134
+g86
+I326
+sg34
+VForecast (Galaxy, July 1957)
+p73135
+sa(dp73136
+g86
+I339
+sg34
+VFor Your Information: The Moon Contract
+p73137
+sa(dp73138
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, July 1957)
+p73139
+sa(dp73140
+g86
+I30
+sg34
+VA World Called Maanerek
+p73141
+sa(dp73142
+g86
+I514
+sg34
+VHelp! I Am Dr. Morris Goldpepper
+p73143
+sa(dp73144
+g86
+I23
+sg34
+VThe Deaths of Ben Baxter
+p73145
+sa(dp73146
+g86
+I23
+sg34
+VA Wind Is Rising
+p73147
+sa(dp73148
+g86
+I121
+sg34
+VGrowing Up On Big Muddy
+p73149
+sasbag1
+(g2
+g3
+Ntp73150
+Rp73151
+(dp73152
+g49
+(lp73153
+sg30
+(lp73154
+sg86
+I302
+sg82
+(lp73155
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine August 1957
+p73156
+sg11
+Vhttps://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v14n04_1957-08/Galaxy_v14n04_1957-08_jp2.zip&file=Galaxy_v14n04_1957-08_jp2/Galaxy_v14n04_1957-08_0000.jp2&scale=0&rotate=0
+p73157
+sg68228
+S'http://www.isfdb.org/wiki/images/9/94/MLO4440.jpg'
+p73158
+sg14
+g68230
+sg16
+(lp73159
+sg75
+(lp73160
+I497
+aI499
+aI515
+aI506
+aI339
+aI483
+aI516
+aI517
+aI518
+aI220
+aI98
+aI50
+aI159
+aI172
+aI302
+asg20
+(lp73161
+sg25
+I1054
+sg68234
+(lp73162
+(dp73163
+g86
+I497
+sg34
+VTime Waits for Winthrop
+p73164
+sa(dp73165
+g86
+I497
+sg34
+VTime Waits for Winthrop [2]
+p73166
+sa(dp73167
+g86
+I497
+sg34
+VTime Waits for Winthrop [3]
+p73168
+sa(dp73169
+g86
+I499
+sg34
+VBlaze of Glory
+p73170
+sa(dp73171
+g86
+I515
+sg34
+VIf Money
+p73172
+sa(dp73173
+g86
+I515
+sg34
+VIf Money [2]
+p73174
+sa(dp73175
+g86
+I515
+sg34
+VIf Money [3]
+p73176
+sa(dp73177
+g86
+I506
+sg34
+VMake Me an Offer
+p73178
+sa(dp73179
+g86
+I506
+sg34
+VThe Man Outside
+p73180
+sa(dp73181
+g86
+I506
+sg34
+VThe Man Outside [2]
+p73182
+sa(dp73183
+g86
+I506
+sg34
+VThe Man Outside [3]
+p73184
+sa(dp73185
+g86
+I339
+sg34
+VFor Your Information: Our Missle Arsenal (Galaxy, August 1957)
+p73186
+sa(dp73187
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1957)
+p73188
+sa(dp73189
+g86
+I516
+sg34
+VReview of the Nonfiction Work "Atomic Energy"
+p73190
+sa(dp73191
+g86
+I517
+sg34
+VReview of the Nonfiction Work "Growth of Mechanical Power"
+p73192
+sa(dp73193
+g86
+I518
+sg34
+VReview of the Nonfiction Work "Maya Art and Civilization"
+p73194
+sa(dp73195
+g86
+I220
+sg34
+VIf Money
+p73196
+sa(dp73197
+g86
+I98
+sg34
+VTime Waits for Winthrop
+p73198
+sa(dp73199
+g86
+I50
+sg34
+VBlaze of Glory
+p73200
+sa(dp73201
+g86
+I159
+sg34
+VMake Me an Offer
+p73202
+sa(dp73203
+g86
+I172
+sg34
+VThe Man Outside
+p73204
+sasbag1
+(g2
+g3
+Ntp73205
+Rp73206
+(dp73207
+g49
+(lp73208
+sg30
+(lp73209
+sg86
+I302
+sg82
+(lp73210
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine September 1957
+p73211
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v14n05_1957-09/Galaxy_v14n05_1957-09_jp2.zip&file=Galaxy_v14n05_1957-09_jp2/Galaxy_v14n05_1957-09_0000.jp2&scale=0&rotate=0
+p73212
+sg68228
+S'http://www.isfdb.org/wiki/images/8/84/MLO4441.jpg'
+p73213
+sg14
+g68230
+sg16
+(lp73214
+sg75
+(lp73215
+I519
+aI515
+aI504
+aI506
+aI305
+aI339
+aI483
+aI341
+aI387
+aI56
+aI520
+aI98
+aI302
+asg20
+(lp73216
+sg25
+I1055
+sg68234
+(lp73217
+(dp73218
+g86
+I519
+sg34
+VThe Pod in the Barrier
+p73219
+sa(dp73220
+g86
+I519
+sg34
+VThe Pod in the Barrier [2]
+p73221
+sa(dp73222
+g86
+I519
+sg34
+VThe Pod in the Barrier [3]
+p73223
+sa(dp73224
+g86
+I515
+sg34
+VDoat Age
+p73225
+sa(dp73226
+g86
+I504
+sg34
+VThe Sly Bungerhop
+p73227
+sa(dp73228
+g86
+I504
+sg34
+VThe Sly Bungerhop [2]
+p73229
+sa(dp73230
+g86
+I504
+sg34
+VThe Sly Bungerhop [3]
+p73231
+sa(dp73232
+g86
+I506
+sg34
+VThe Dark Star
+p73233
+sa(dp73234
+g86
+I506
+sg34
+VShadow World
+p73235
+sa(dp73236
+g86
+I506
+sg34
+VShadow World [2]
+p73237
+sa(dp73238
+g86
+I506
+sg34
+VShadow World [3]
+p73239
+sa(dp73240
+g86
+I305
+sg34
+VMea Culpa
+p73241
+sa(dp73242
+g86
+I339
+sg34
+VFor Your Information: The Earliest Robot
+p73243
+sa(dp73244
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, September 1957)
+p73245
+sa(dp73246
+g86
+I341
+sg34
+VThe Pod in the Barrier
+p73247
+sa(dp73248
+g86
+I387
+sg34
+VThe Sly Bungerhop
+p73249
+sa(dp73250
+g86
+I56
+sg34
+VShadow World
+p73251
+sa(dp73252
+g86
+I520
+sg34
+VDoat Age
+p73253
+sa(dp73254
+g86
+I98
+sg34
+VThe Dark Star
+p73255
+sasbag1
+(g2
+g3
+Ntp73256
+Rp73257
+(dp73258
+g49
+(lp73259
+sg30
+(lp73260
+sg86
+I302
+sg82
+(lp73261
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine October 1957
+p73262
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_v14n06_1957-10/Galaxy_v14n06_1957-10_jp2.zip&file=Galaxy_v14n06_1957-10_jp2/Galaxy_v14n06_1957-10_0000.jp2&scale=0&rotate=0
+p73263
+sg68228
+S'http://www.isfdb.org/wiki/images/9/9d/MLO4442.jpg'
+p73264
+sg14
+g68230
+sg16
+(lp73265
+sg75
+(lp73266
+I519
+aI506
+aI419
+aI305
+aI326
+aI339
+aI483
+aI521
+aI522
+aI23
+aI3
+aI40
+aI220
+aI315
+aI302
+asg20
+(lp73267
+sg25
+I1056
+sg68234
+(lp73268
+(dp73269
+g86
+I519
+sg34
+VWolfbane (Part 1 of 2)
+p73270
+sa(dp73271
+g86
+I519
+sg34
+VWolfbane (Part 1 of 2) [2]
+p73272
+sa(dp73273
+g86
+I519
+sg34
+VWolfbane (Part 1 of 2) [3]
+p73274
+sa(dp73275
+g86
+I506
+sg34
+VShare Alike
+p73276
+sa(dp73277
+g86
+I506
+sg34
+VDouble Indemnity
+p73278
+sa(dp73279
+g86
+I506
+sg34
+VDouble Indemnity [2]
+p73280
+sa(dp73281
+g86
+I506
+sg34
+VDouble Indemnity [3]
+p73282
+sa(dp73283
+g86
+I419
+sg34
+VRobots Are Nice?
+p73284
+sa(dp73285
+g86
+I419
+sg34
+VIdeas Die Hard
+p73286
+sa(dp73287
+g86
+I419
+sg34
+VIdeas Die Hard [2]
+p73288
+sa(dp73289
+g86
+I305
+sg34
+VThe Richest Planet
+p73290
+sa(dp73291
+g86
+I326
+sg34
+VForecast (Galaxy, October 1957)
+p73292
+sa(dp73293
+g86
+I339
+sg34
+VFor Your Information: Hunting Down the Dodo
+p73294
+sa(dp73295
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1957)
+p73296
+sa(dp73297
+g86
+I521
+sg34
+VReview of the Nonfiction Work "the Underwater World"
+p73298
+sa(dp73299
+g86
+I522
+sg34
+VReview of the Nonfiction Work "the Pocket Guide to the Underwater World"
+p73300
+sa(dp73301
+g86
+I483
+sg34
+VReview of the Nonfiction Work "the Galathea Deep Sea Expedition"
+p73302
+sa(dp73303
+g86
+I23
+sg34
+VDouble Indemnity
+p73304
+sa(dp73305
+g86
+I3
+sg34
+VIdeas Die Hard
+p73306
+sa(dp73307
+g86
+I40
+sg34
+VWolfbane (Part 1 of 2)
+p73308
+sa(dp73309
+g86
+I220
+sg34
+VShare Alike
+p73310
+sa(dp73311
+g86
+I315
+sg34
+VRobots Are Nice?
+p73312
+sasbag1
+(g2
+g3
+Ntp73313
+Rp73314
+(dp73315
+g49
+(lp73316
+sg30
+(lp73317
+sg86
+I302
+sg82
+(lp73318
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine November 1957
+p73319
+sg11
+Vhttps://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v15n01_1957-11/Galaxy_v15n01_1957-11_jp2.zip&file=Galaxy_v15n01_1957-11_jp2/Galaxy_v15n01_1957-11_0000.jp2&scale=0&rotate=0
+p73320
+sg68228
+S'http://www.isfdb.org/wiki/images/8/88/MLO4443.jpg'
+p73321
+sg14
+g68230
+sg16
+(lp73322
+sg75
+(lp73323
+I515
+aI419
+aI519
+aI506
+aI499
+aI305
+aI326
+aI339
+aI483
+aI23
+aI142
+aI40
+aI384
+aI302
+asg20
+(lp73324
+sg25
+I1057
+sg68234
+(lp73325
+(dp73326
+g86
+I515
+sg34
+VMorning After
+p73327
+sa(dp73328
+g86
+I515
+sg34
+VMorning After [2]
+p73329
+sa(dp73330
+g86
+I419
+sg34
+VYou Were Right, Joe
+p73331
+sa(dp73332
+g86
+I519
+sg34
+VWolfbane (Part 2 of 2)
+p73333
+sa(dp73334
+g86
+I519
+sg34
+VWolfbane (Part 2 of 2) [2]
+p73335
+sa(dp73336
+g86
+I519
+sg34
+VWolfbane (Part 2 of 2) [3]
+p73337
+sa(dp73338
+g86
+I519
+sg34
+VWolfbane (Part 2 of 2) [4]
+p73339
+sa(dp73340
+g86
+I506
+sg34
+VGray Flannel Armor
+p73341
+sa(dp73342
+g86
+I499
+sg34
+VBreak a Leg
+p73343
+sa(dp73344
+g86
+I499
+sg34
+VBreak a Leg [2]
+p73345
+sa(dp73346
+g86
+I499
+sg34
+VBreak a Leg [3]
+p73347
+sa(dp73348
+g86
+I305
+sg34
+VCall to Arms
+p73349
+sa(dp73350
+g86
+I326
+sg34
+VForecast (Galaxy, November 1957)
+p73351
+sa(dp73352
+g86
+I339
+sg34
+VFor Your Information: On with the Dodo Hunt!
+p73353
+sa(dp73354
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, November 1957)
+p73355
+sa(dp73356
+g86
+I23
+sg34
+VMorning After
+p73357
+sa(dp73358
+g86
+I142
+sg34
+VBreak a Leg
+p73359
+sa(dp73360
+g86
+I40
+sg34
+VWolfbane (Part 2 of 2)
+p73361
+sa(dp73362
+g86
+I384
+sg34
+VYou Were Right, Joe
+p73363
+sa(dp73364
+g86
+I23
+sg34
+VGray Flannel Armor
+p73365
+sasbag1
+(g2
+g3
+Ntp73366
+Rp73367
+(dp73368
+g49
+(lp73369
+sg30
+(lp73370
+sg86
+I302
+sg82
+(lp73371
+I2
+asg13
+I1957
+sg34
+VGalaxy Magazine December 1957
+p73372
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v15n02_1957-12/Galaxy_v15n02_1957-12_jp2.zip&file=Galaxy_v15n02_1957-12_jp2/Galaxy_v15n02_1957-12_0000.jp2&scale=0&rotate=0
+p73373
+sg68228
+S'http://www.isfdb.org/wiki/images/2/25/MLO4444.jpg'
+p73374
+sg14
+g68230
+sg16
+(lp73375
+sg75
+(lp73376
+I419
+aI523
+aI515
+aI519
+aI524
+aI305
+aI339
+aI483
+aI326
+aI3
+aI446
+aI56
+aI98
+aI32
+aI302
+asg20
+(lp73377
+sg25
+I1058
+sg68234
+(lp73378
+(dp73379
+g86
+I419
+sg34
+VGalley Slave
+p73380
+sa(dp73381
+g86
+I419
+sg34
+VGalley Slave [2]
+p73382
+sa(dp73383
+g86
+I419
+sg34
+VGalley Slave [3]
+p73384
+sa(dp73385
+g86
+I523
+sg34
+VSanctuary
+p73386
+sa(dp73387
+g86
+I515
+sg34
+VWhat's He Doing in There?
+p73388
+sa(dp73389
+g86
+I519
+sg34
+VPayload
+p73390
+sa(dp73391
+g86
+I519
+sg34
+VPayload [2]
+p73392
+sa(dp73393
+g86
+I519
+sg34
+VPayload [3]
+p73394
+sa(dp73395
+g86
+I524
+sg34
+VCarbon Copy
+p73396
+sa(dp73397
+g86
+I524
+sg34
+VCarbon Copy [2]
+p73398
+sa(dp73399
+g86
+I524
+sg34
+VCarbon Copy [3]
+p73400
+sa(dp73401
+g86
+I305
+sg34
+VThe Roundest Trip
+p73402
+sa(dp73403
+g86
+I339
+sg34
+VFor Your Information: The Spaceship in the Basement
+p73404
+sa(dp73405
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, December 1957)
+p73406
+sa(dp73407
+g86
+I326
+sg34
+VForecast (Galaxy, December 1957)
+p73408
+sa(dp73409
+g86
+I3
+sg34
+VGalley Slave
+p73410
+sa(dp73411
+g86
+I446
+sg34
+VPayload
+p73412
+sa(dp73413
+g86
+I56
+sg34
+VCarbon Copy
+p73414
+sa(dp73415
+g86
+I98
+sg34
+VSanctuary
+p73416
+sa(dp73417
+g86
+I32
+sg34
+VWhat's He Doing in There?
+p73418
+sasbag1
+(g2
+g3
+Ntp73419
+Rp73420
+(dp73421
+g49
+(lp73422
+sg30
+(lp73423
+sg86
+I302
+sg82
+(lp73424
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine January 1958
+p73425
+sg11
+Vhttps://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v15n03_1958-01/Galaxy_v15n03_1958-01_jp2.zip&file=Galaxy_v15n03_1958-01_jp2/Galaxy_v15n03_1958-01_0000.jp2&scale=0&rotate=0
+p73426
+sg68228
+S'http://www.isfdb.org/wiki/images/0/02/MLO4445.jpg'
+p73427
+sg14
+g68230
+sg16
+(lp73428
+sg75
+(lp73429
+I504
+aI419
+aI525
+aI499
+aI305
+aI339
+aI326
+aI483
+aI526
+aI527
+aI528
+aI40
+aI315
+aI56
+aI217
+aI302
+asg20
+(lp73430
+sg25
+I1059
+sg68234
+(lp73431
+(dp73432
+g86
+I504
+sg34
+VThe Knights of Arthur
+p73433
+sa(dp73434
+g86
+I504
+sg34
+VThe Knights of Arthur [2]
+p73435
+sa(dp73436
+g86
+I504
+sg34
+VThe Knights of Arthur [3]
+p73437
+sa(dp73438
+g86
+I419
+sg34
+VThe Hated
+p73439
+sa(dp73440
+g86
+I525
+sg34
+VRex and Mr. Rejilla
+p73441
+sa(dp73442
+g86
+I525
+sg34
+VRex and Mr. Rejilla [2]
+p73443
+sa(dp73444
+g86
+I525
+sg34
+VRex and Mr. Rejilla [3]
+p73445
+sa(dp73446
+g86
+I499
+sg34
+VKill Me with Kindness
+p73447
+sa(dp73448
+g86
+I499
+sg34
+VThe World That Couldn't Be
+p73449
+sa(dp73450
+g86
+I499
+sg34
+VThe World That Couldn't Be [2]
+p73451
+sa(dp73452
+g86
+I499
+sg34
+VThe World That Couldn't Be [3]
+p73453
+sa(dp73454
+g86
+I305
+sg34
+VThe Utter Dark
+p73455
+sa(dp73456
+g86
+I339
+sg34
+VFor Your Information: Life Without Gravity
+p73457
+sa(dp73458
+g86
+I326
+sg34
+VForecast (Galaxy, January 1958)
+p73459
+sa(dp73460
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, January 1958)
+p73461
+sa(dp73462
+g86
+I526
+sg34
+VReview of the Nonfiction Work "a Key to the Stars"
+p73463
+sa(dp73464
+g86
+I527
+sg34
+VReview of the Nonfiction Work "Discovery of the Universe"
+p73465
+sa(dp73466
+g86
+I528
+sg34
+VReview of the Nonfiction Work "the Modern Universe"
+p73467
+sa(dp73468
+g86
+I40
+sg34
+VThe Knights of Arthur
+p73469
+sa(dp73470
+g86
+I315
+sg34
+VRex and Mr. Rejilla
+p73471
+sa(dp73472
+g86
+I56
+sg34
+VThe World That Couldn't Be
+p73473
+sa(dp73474
+g86
+I40
+sg34
+VThe Hated
+p73475
+sa(dp73476
+g86
+I217
+sg34
+VKill Me with Kindness
+p73477
+sasbag1
+(g2
+g3
+Ntp73478
+Rp73479
+(dp73480
+g49
+(lp73481
+sg30
+(lp73482
+sg86
+I302
+sg82
+(lp73483
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine February 1958
+p73484
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v15n04_1958-02/Galaxy_v15n04_1958-02_jp2.zip&file=Galaxy_v15n04_1958-02_jp2/Galaxy_v15n04_1958-02_0000.jp2&scale=0&rotate=0
+p73485
+sg68228
+S'http://www.isfdb.org/wiki/images/1/1b/MLO4446.jpg'
+p73486
+sg14
+g68230
+sg16
+(lp73487
+sg75
+(lp73488
+I519
+aI525
+aI529
+aI419
+aI504
+aI506
+aI305
+aI339
+aI483
+aI498
+aI19
+aI509
+aI16
+aI32
+aI172
+aI400
+aI302
+asg20
+(lp73489
+sg25
+I1060
+sg68234
+(lp73490
+(dp73491
+g86
+I519
+sg34
+VThe Rule of the Door
+p73492
+sa(dp73493
+g86
+I519
+sg34
+VThe Rule of the Door [2]
+p73494
+sa(dp73495
+g86
+I519
+sg34
+VThe Rule of the Door [3]
+p73496
+sa(dp73497
+g86
+I525
+sg34
+VThe Big Bounce
+p73498
+sa(dp73499
+g86
+I529
+sg34
+VThe Repairman
+p73500
+sa(dp73501
+g86
+I519
+sg34
+VBread Overhead
+p73502
+sa(dp73503
+g86
+I519
+sg34
+VBread Overhead [2]
+p73504
+sa(dp73505
+g86
+I519
+sg34
+VBread Overhead [3]
+p73506
+sa(dp73507
+g86
+I419
+sg34
+VThe Blue Tower
+p73508
+sa(dp73509
+g86
+I504
+sg34
+VTraders Risk
+p73510
+sa(dp73511
+g86
+I506
+sg34
+VGraveyard of Dreams
+p73512
+sa(dp73513
+g86
+I506
+sg34
+VGraveyard of Dreams [2]
+p73514
+sa(dp73515
+g86
+I506
+sg34
+VGraveyard of Dreams [3]
+p73516
+sa(dp73517
+g86
+I305
+sg34
+VRepeat Performance
+p73518
+sa(dp73519
+g86
+I339
+sg34
+VFor Your Information: A Century of New Animals
+p73520
+sa(dp73521
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, February 1958)
+p73522
+sa(dp73523
+g86
+I498
+sg34
+VThe Rule of the Door
+p73524
+sa(dp73525
+g86
+I19
+sg34
+VGraveyard of Dreams
+p73526
+sa(dp73527
+g86
+I509
+sg34
+VThe Big Bounce
+p73528
+sa(dp73529
+g86
+I16
+sg34
+VThe Repairman
+p73530
+sa(dp73531
+g86
+I32
+sg34
+VBread Overhead
+p73532
+sa(dp73533
+g86
+I172
+sg34
+VThe Blue Tower
+p73534
+sa(dp73535
+g86
+I400
+sg34
+VTraders Risk
+p73536
+sasbag1
+(g2
+g3
+Ntp73537
+Rp73538
+(dp73539
+g49
+(lp73540
+sg30
+(lp73541
+sg86
+I302
+sg82
+(lp73542
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine March 1958
+p73543
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v15n05_1958-03/Galaxy_v15n05_1958-03_jp2.zip&file=Galaxy_v15n05_1958-03_jp2/Galaxy_v15n05_1958-03_0000.jp2&scale=0&rotate=0
+p73544
+sg68228
+S'http://www.isfdb.org/wiki/images/f/fa/MLO4447.jpg'
+p73545
+sg14
+g68230
+sg16
+(lp73546
+sg75
+(lp73547
+I497
+aI506
+aI519
+aI525
+aI305
+aI339
+aI326
+aI483
+aI498
+aI387
+aI32
+aI172
+aI530
+aI302
+asg20
+(lp73548
+sg25
+I1061
+sg68234
+(lp73549
+(dp73550
+g86
+I497
+sg34
+VThe Big Time (Part 1 of 2)
+p73551
+sa(dp73552
+g86
+I497
+sg34
+VThe Big Time (Part 1 of 2) [2]
+p73553
+sa(dp73554
+g86
+I506
+sg34
+VMy Fair Planet
+p73555
+sa(dp73556
+g86
+I519
+sg34
+VSpare the Rod
+p73557
+sa(dp73558
+g86
+I519
+sg34
+VSpare the Rod [2]
+p73559
+sa(dp73560
+g86
+I519
+sg34
+VSpare the Rod [3]
+p73561
+sa(dp73562
+g86
+I525
+sg34
+VThe Ethical Way
+p73563
+sa(dp73564
+g86
+I506
+sg34
+VA Feast of Demons
+p73565
+sa(dp73566
+g86
+I506
+sg34
+VA Feast of Demons [2]
+p73567
+sa(dp73568
+g86
+I506
+sg34
+VA Feast of Demons [3]
+p73569
+sa(dp73570
+g86
+I305
+sg34
+VThey're Back
+p73571
+sa(dp73572
+g86
+I339
+sg34
+VFor Your Information: The Orbit of the Vanguard Satellite
+p73573
+sa(dp73574
+g86
+I326
+sg34
+VForecast (Galaxy, March 1958)
+p73575
+sa(dp73576
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, March 1958)
+p73577
+sa(dp73578
+g86
+I498
+sg34
+VSpare the Rod
+p73579
+sa(dp73580
+g86
+I387
+sg34
+VA Feast of Demons
+p73581
+sa(dp73582
+g86
+I32
+sg34
+VThe Big Time (Part 1 of 2)
+p73583
+sa(dp73584
+g86
+I172
+sg34
+VMy Fair Planet
+p73585
+sa(dp73586
+g86
+I530
+sg34
+VThe Ethical Way
+p73587
+sasbag1
+(g2
+g3
+Ntp73588
+Rp73589
+(dp73590
+g49
+(lp73591
+sg30
+(lp73592
+sg86
+I302
+sg82
+(lp73593
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine April 1958
+p73594
+sg11
+Vhttps://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v15n06_1958-04/Galaxy_v15n06_1958-04_jp2.zip&file=Galaxy_v15n06_1958-04_jp2/Galaxy_v15n06_1958-04_0000.jp2&scale=0&rotate=0
+p73595
+sg68228
+S'http://www.isfdb.org/wiki/images/9/9e/MLO4449.jpg'
+p73596
+sg14
+g68230
+sg16
+(lp73597
+sg75
+(lp73598
+I519
+aI419
+aI506
+aI525
+aI497
+aI305
+aI339
+aI483
+aI531
+aI56
+aI532
+aI32
+aI214
+aI470
+aI63
+aI302
+asg20
+(lp73599
+sg25
+I1062
+sg68234
+(lp73600
+(dp73601
+g86
+I519
+sg34
+VThe Sitters
+p73602
+sa(dp73603
+g86
+I519
+sg34
+VThe Sitters [2]
+p73604
+sa(dp73605
+g86
+I519
+sg34
+VThe Sitters [3]
+p73606
+sa(dp73607
+g86
+I419
+sg34
+VGarth and the Visitor
+p73608
+sa(dp73609
+g86
+I519
+sg34
+VFirst Man
+p73610
+sa(dp73611
+g86
+I519
+sg34
+VFirst Man [2]
+p73612
+sa(dp73613
+g86
+I519
+sg34
+VFirst Man [3]
+p73614
+sa(dp73615
+g86
+I506
+sg34
+VThe Eel
+p73616
+sa(dp73617
+g86
+I525
+sg34
+VOld Rambling House
+p73618
+sa(dp73619
+g86
+I497
+sg34
+VThe Big Time (Part 2 of 2)
+p73620
+sa(dp73621
+g86
+I497
+sg34
+VThe Big Time (Part 2 of 2) [2]
+p73622
+sa(dp73623
+g86
+I497
+sg34
+VThe Big Time (Part 2 of 2) [3]
+p73624
+sa(dp73625
+g86
+I305
+sg34
+VNo Turban, Please
+p73626
+sa(dp73627
+g86
+I339
+sg34
+VFor Your Information: The Island of the Stone Heads
+p73628
+sa(dp73629
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, April 1958)
+p73630
+sa(dp73631
+g86
+I531
+sg34
+VReview of the Nonfiction Work "Radiation"
+p73632
+sa(dp73633
+g86
+I56
+sg34
+VThe Sitters
+p73634
+sa(dp73635
+g86
+I532
+sg34
+VFirst Man
+p73636
+sa(dp73637
+g86
+I32
+sg34
+VThe Big Time (Part 2 of 2)
+p73638
+sa(dp73639
+g86
+I214
+sg34
+VGarth and the Visitor
+p73640
+sa(dp73641
+g86
+I470
+sg34
+VThe Eel
+p73642
+sa(dp73643
+g86
+I63
+sg34
+VOld Rambling House
+p73644
+sasbag1
+(g2
+g3
+Ntp73645
+Rp73646
+(dp73647
+g49
+(lp73648
+sg30
+(lp73649
+sg86
+I302
+sg82
+(lp73650
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine May 1958
+p73651
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v16n01_1958-05/Galaxy_v16n01_1958-05_jp2.zip&file=Galaxy_v16n01_1958-05_jp2/Galaxy_v16n01_1958-05_0000.jp2&scale=0&rotate=0
+p73652
+sg68228
+S'http://www.isfdb.org/wiki/images/6/62/MLO4450.jpg'
+p73653
+sg14
+g68230
+sg16
+(lp73654
+sg75
+(lp73655
+I506
+aI533
+aI419
+aI525
+aI519
+aI305
+aI339
+aI326
+aI483
+aI498
+aI50
+aI514
+aI487
+aI217
+aI302
+asg20
+(lp73656
+sg25
+I1063
+sg68234
+(lp73657
+(dp73658
+g86
+I506
+sg34
+VNever Come Midnight
+p73659
+sa(dp73660
+g86
+I506
+sg34
+VNever Come Midnight [2]
+p73661
+sa(dp73662
+g86
+I506
+sg34
+VNever Come Midnight [3]
+p73663
+sa(dp73664
+g86
+I533
+sg34
+VOr All the Seas with Oysters
+p73665
+sa(dp73666
+g86
+I419
+sg34
+VPick a Crime
+p73667
+sa(dp73668
+g86
+I506
+sg34
+VBridle Shower
+p73669
+sa(dp73670
+g86
+I506
+sg34
+VBridle Shower [2]
+p73671
+sa(dp73672
+g86
+I506
+sg34
+VBridle Shower [3]
+p73673
+sa(dp73674
+g86
+I525
+sg34
+VThe Voice of the Diaphragm
+p73675
+sa(dp73676
+g86
+I519
+sg34
+VThe Iron Chancellor
+p73677
+sa(dp73678
+g86
+I519
+sg34
+VThe Iron Chancellor [2]
+p73679
+sa(dp73680
+g86
+I305
+sg34
+VFun 4 1 &Amp; All
+p73681
+sa(dp73682
+g86
+I339
+sg34
+VFor Your Information: Remnants of the Sarmatian Sea
+p73683
+sa(dp73684
+g86
+I326
+sg34
+VForecast (Galaxy, May 1958)
+p73685
+sa(dp73686
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, May 1958)
+p73687
+sa(dp73688
+g86
+I498
+sg34
+VBridle Shower
+p73689
+sa(dp73690
+g86
+I50
+sg34
+VThe Iron Chancellor
+p73691
+sa(dp73692
+g86
+I305
+sg34
+VNever Come Midnight
+p73693
+sa(dp73694
+g86
+I514
+sg34
+VOr All the Seas with Oysters
+p73695
+sa(dp73696
+g86
+I487
+sg34
+VPick a Crime
+p73697
+sa(dp73698
+g86
+I217
+sg34
+VThe Voice of the Diaphragm
+p73699
+sasbag1
+(g2
+g3
+Ntp73700
+Rp73701
+(dp73702
+g49
+(lp73703
+sg30
+(lp73704
+sg86
+I302
+sg82
+(lp73705
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine June 1958
+p73706
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v16n02_1958-06/Galaxy_v16n02_1958-06_jp2.zip&file=Galaxy_v16n02_1958-06_jp2/Galaxy_v16n02_1958-06_0000.jp2&scale=0&rotate=0
+p73707
+sg68228
+S'http://www.isfdb.org/wiki/images/3/35/MLO4451.jpg'
+p73708
+sg14
+g68230
+sg16
+(lp73709
+sg75
+(lp73710
+I534
+aI535
+aI536
+aI506
+aI519
+aI419
+aI305
+aI326
+aI339
+aI483
+aI40
+aI23
+aI32
+aI214
+aI302
+asg20
+(lp73711
+sg25
+I1064
+sg68234
+(lp73712
+(dp73713
+g86
+I534
+sg34
+VMars
+p73714
+sa(dp73715
+g86
+I535
+sg34
+VMars
+p73716
+sa(dp73717
+g86
+I536
+sg34
+VMars
+p73718
+sa(dp73719
+g86
+I506
+sg34
+VThe Last Letter
+p73720
+sa(dp73721
+g86
+I519
+sg34
+VThe Gentlest Unpeople
+p73722
+sa(dp73723
+g86
+I519
+sg34
+VThe Gentlest Unpeople [2]
+p73724
+sa(dp73725
+g86
+I519
+sg34
+VThe Gentlest Unpeople [3]
+p73726
+sa(dp73727
+g86
+I419
+sg34
+VThe Gun Without a Bang
+p73728
+sa(dp73729
+g86
+I419
+sg34
+VPerfect Answer
+p73730
+sa(dp73731
+g86
+I419
+sg34
+VThe Minimum Man
+p73732
+sa(dp73733
+g86
+I419
+sg34
+VThe Minimum Man [2]
+p73734
+sa(dp73735
+g86
+I419
+sg34
+VThe Minimum Man [3]
+p73736
+sa(dp73737
+g86
+I305
+sg34
+VWorlds to Eat
+p73738
+sa(dp73739
+g86
+I326
+sg34
+VForecast (Galaxy, June 1958)
+p73740
+sa(dp73741
+g86
+I339
+sg34
+VFor Your Information: News of Atlantis
+p73742
+sa(dp73743
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1958)
+p73744
+sa(dp73745
+g86
+I40
+sg34
+VThe Gentlest Unpeople
+p73746
+sa(dp73747
+g86
+I23
+sg34
+VThe Minimum Man
+p73748
+sa(dp73749
+g86
+I32
+sg34
+VThe Last Letter
+p73750
+sa(dp73751
+g86
+I23
+sg34
+VThe Gun Without a Bang
+p73752
+sa(dp73753
+g86
+I214
+sg34
+VPerfect Answer
+p73754
+sasbag1
+(g2
+g3
+Ntp73755
+Rp73756
+(dp73757
+g49
+(lp73758
+sg30
+(lp73759
+sg86
+I302
+sg82
+(lp73760
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine July 1958
+p73761
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v16n03_1958-07_modified/Galaxy_v16n03_1958-07_modified_jp2.zip&file=Galaxy_v16n03_1958-07_modified_jp2/Galaxy_v16n03_1958-07_modified_0000.jp2&scale=0&rotate=0
+p73762
+sg68228
+S'http://www.isfdb.org/wiki/images/d/dd/MLO4452.jpg'
+p73763
+sg14
+g68230
+sg16
+(lp73764
+sg75
+(lp73765
+I506
+aI523
+aI519
+aI305
+aI326
+aI339
+aI483
+aI167
+aI32
+aI30
+aI40
+aI214
+aI443
+aI302
+asg20
+(lp73766
+sg25
+I1065
+sg68234
+(lp73767
+(dp73768
+g86
+I506
+sg34
+VThe Back of Our Heads
+p73769
+sa(dp73770
+g86
+I506
+sg34
+VThe Back of Our Heads [2]
+p73771
+sa(dp73772
+g86
+I506
+sg34
+VThe Back of Our Heads [3]
+p73773
+sa(dp73774
+g86
+I523
+sg34
+VWe Never Mention Aunt Nora
+p73775
+sa(dp73776
+g86
+I523
+sg34
+VMan in a Quandary
+p73777
+sa(dp73778
+g86
+I506
+sg34
+VBullet with His Name
+p73779
+sa(dp73780
+g86
+I506
+sg34
+VBullet with His Name [2]
+p73781
+sa(dp73782
+g86
+I506
+sg34
+VBullet with His Name [3]
+p73783
+sa(dp73784
+g86
+I523
+sg34
+VBlank Form
+p73785
+sa(dp73786
+g86
+I519
+sg34
+VInnocent at Large
+p73787
+sa(dp73788
+g86
+I519
+sg34
+VInnocent at Large [2]
+p73789
+sa(dp73790
+g86
+I519
+sg34
+VInnocent at Large [3]
+p73791
+sa(dp73792
+g86
+I305
+sg34
+VComing Soon
+p73793
+sa(dp73794
+g86
+I326
+sg34
+VForecast (Galaxy, July 1958)
+p73795
+sa(dp73796
+g86
+I339
+sg34
+VFor Your Information: Igy Roundup
+p73797
+sa(dp73798
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, July 1958)
+p73799
+sa(dp73800
+g86
+I167
+sg34
+VThe Back of Our Heads
+p73801
+sa(dp73802
+g86
+I32
+sg34
+VBullet with His Name
+p73803
+sa(dp73804
+g86
+I30
+sg34
+VInnocent at Large
+p73805
+sa(dp73806
+g86
+I40
+sg34
+VWe Never Mention Aunt Nora
+p73807
+sa(dp73808
+g86
+I214
+sg34
+VMan in a Quandary
+p73809
+sa(dp73810
+g86
+I443
+sg34
+VBlank Form
+p73811
+sasbag1
+(g2
+g3
+Ntp73812
+Rp73813
+(dp73814
+g49
+(lp73815
+sg30
+(lp73816
+sg86
+I302
+sg82
+(lp73817
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine August 1958
+p73818
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v16n04_1958-08/Galaxy_v16n04_1958-08_jp2.zip&file=Galaxy_v16n04_1958-08_jp2/Galaxy_v16n04_1958-08_0000.jp2&scale=0&rotate=0
+p73819
+sg68228
+S'http://www.isfdb.org/wiki/images/a/a3/MLO4453.jpg'
+p73820
+sg14
+g68230
+sg16
+(lp73821
+sg75
+(lp73822
+I506
+aI523
+aI519
+aI339
+aI483
+aI326
+aI40
+aI341
+aI537
+aI384
+aI302
+asg20
+(lp73823
+sg25
+I1066
+sg68234
+(lp73824
+(dp73825
+g86
+I506
+sg34
+VTo Marry Medusa
+p73826
+sa(dp73827
+g86
+I506
+sg34
+VTo Marry Medusa [2]
+p73828
+sa(dp73829
+g86
+I506
+sg34
+VTo Marry Medusa [3]
+p73830
+sa(dp73831
+g86
+I523
+sg34
+VThird Offense
+p73832
+sa(dp73833
+g86
+I523
+sg34
+VThe Trouble with Elmo
+p73834
+sa(dp73835
+g86
+I519
+sg34
+VSeven Deadly Virtues
+p73836
+sa(dp73837
+g86
+I519
+sg34
+VSeven Deadly Virtues [2]
+p73838
+sa(dp73839
+g86
+I523
+sg34
+VIn Black and White
+p73840
+sa(dp73841
+g86
+I339
+sg34
+VFor Your Information: How to Get Around On Other Planets
+p73842
+sa(dp73843
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1958)
+p73844
+sa(dp73845
+g86
+I483
+sg34
+VReview of the Nonfiction Work "the Space Encyclopaedia: A Guide to Astronomy and Space Research"
+p73846
+sa(dp73847
+g86
+I326
+sg34
+VForecast (Galaxy, August 1958)
+p73848
+sa(dp73849
+g86
+I40
+sg34
+VSeven Deadly Virtues
+p73850
+sa(dp73851
+g86
+I341
+sg34
+VTo Marry Medusa
+p73852
+sa(dp73853
+g86
+I40
+sg34
+VThird Offense
+p73854
+sa(dp73855
+g86
+I537
+sg34
+VThe Trouble with Elmo
+p73856
+sa(dp73857
+g86
+I384
+sg34
+VIn Black and White
+p73858
+sasbag1
+(g2
+g3
+Ntp73859
+Rp73860
+(dp73861
+g49
+(lp73862
+sg30
+(lp73863
+sg86
+I302
+sg82
+(lp73864
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine September 1958
+p73865
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v16n05_1958-09/Galaxy_v16n05_1958-09_jp2.zip&file=Galaxy_v16n05_1958-09_jp2/Galaxy_v16n05_1958-09_0000.jp2&scale=0&rotate=0
+p73866
+sg68228
+S'http://www.isfdb.org/wiki/images/c/c7/MLO4454.jpg'
+p73867
+sg14
+g68230
+sg16
+(lp73868
+sg75
+(lp73869
+I519
+aI419
+aI506
+aI305
+aI339
+aI483
+aI538
+aI539
+aI540
+aI541
+aI326
+aI3
+aI182
+aI204
+aI498
+aI542
+aI302
+asg20
+(lp73870
+sg25
+I1067
+sg68234
+(lp73871
+(dp73872
+g86
+I519
+sg34
+VLastborn
+p73873
+sa(dp73874
+g86
+I519
+sg34
+VLastborn [2]
+p73875
+sa(dp73876
+g86
+I519
+sg34
+VLastborn [3]
+p73877
+sa(dp73878
+g86
+I419
+sg34
+VOn the Double
+p73879
+sa(dp73880
+g86
+I519
+sg34
+VThe Stroke of the Sun
+p73881
+sa(dp73882
+g86
+I506
+sg34
+VFrom an Unseen Censor
+p73883
+sa(dp73884
+g86
+I506
+sg34
+VFrom an Unseen Censor [2]
+p73885
+sa(dp73886
+g86
+I519
+sg34
+VPersonnel Problem
+p73887
+sa(dp73888
+g86
+I519
+sg34
+VThing of Beauty
+p73889
+sa(dp73890
+g86
+I519
+sg34
+VThing of Beauty [2]
+p73891
+sa(dp73892
+g86
+I305
+sg34
+VBreeches Needed
+p73893
+sa(dp73894
+g86
+I339
+sg34
+VFor Your Information: The Last of the Moas
+p73895
+sa(dp73896
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, September 1958)
+p73897
+sa(dp73898
+g86
+I538
+sg34
+VReview of the Nonfiction Work "the First Book of Archaeology"
+p73899
+sa(dp73900
+g86
+I539
+sg34
+VReview of the Nonfiction Work "the First Book of Mammals"
+p73901
+sa(dp73902
+g86
+I540
+sg34
+VReview of the Nonfiction Work "the First Book of Submarines"
+p73903
+sa(dp73904
+g86
+I541
+sg34
+VReview of the Nonfiction Work "the Wonderful World of Energy"
+p73905
+sa(dp73906
+g86
+I326
+sg34
+VForecast (Galaxy, September 1958)
+p73907
+sa(dp73908
+g86
+I3
+sg34
+VLastborn
+p73909
+sa(dp73910
+g86
+I182
+sg34
+VFrom an Unseen Censor
+p73911
+sa(dp73912
+g86
+I204
+sg34
+VThing of Beauty
+p73913
+sa(dp73914
+g86
+I498
+sg34
+VOn the Double
+p73915
+sa(dp73916
+g86
+I542
+sg34
+VThe Stroke of the Sun
+p73917
+sa(dp73918
+g86
+I305
+sg34
+VPersonnel Problem
+p73919
+sasbag1
+(g2
+g3
+Ntp73920
+Rp73921
+(dp73922
+g49
+(lp73923
+sg30
+(lp73924
+sg86
+I302
+sg82
+(lp73925
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine October 1958
+p73926
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v16n06_1958-10/Galaxy_v16n06_1958-10_jp2.zip&file=Galaxy_v16n06_1958-10_jp2/Galaxy_v16n06_1958-10_0000.jp2&scale=0&rotate=0
+p73927
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b3/GALOCT1958.jpg'
+p73928
+sg14
+g68230
+sg16
+(lp73929
+sg75
+(lp73930
+I519
+aI523
+aI305
+aI339
+aI326
+aI483
+aI40
+aI98
+aI23
+aI514
+aI45
+aI302
+asg20
+(lp73931
+sg25
+I1068
+sg68234
+(lp73932
+(dp73933
+g86
+I519
+sg34
+VTime Killer (Part 1 of 4)
+p73934
+sa(dp73935
+g86
+I519
+sg34
+VTime Killer (Part 1 of 4) [2]
+p73936
+sa(dp73937
+g86
+I519
+sg34
+VTime Killer (Part 1 of 4) [3]
+p73938
+sa(dp73939
+g86
+I523
+sg34
+VParamount Ulj
+p73940
+sa(dp73941
+g86
+I519
+sg34
+VThe Wizards of Pung's Corners
+p73942
+sa(dp73943
+g86
+I519
+sg34
+VThe Wizards of Pung's Corners [2]
+p73944
+sa(dp73945
+g86
+I519
+sg34
+VThe Wizards of Pung's Corners [3]
+p73946
+sa(dp73947
+g86
+I519
+sg34
+VLisbon Cubed
+p73948
+sa(dp73949
+g86
+I519
+sg34
+VLisbon Cubed [2]
+p73950
+sa(dp73951
+g86
+I519
+sg34
+VLisbon Cubed [3]
+p73952
+sa(dp73953
+g86
+I523
+sg34
+VBlock That Metaphor
+p73954
+sa(dp73955
+g86
+I305
+sg34
+VPick One
+p73956
+sa(dp73957
+g86
+I339
+sg34
+VFor Your Information: X-Rays in Space
+p73958
+sa(dp73959
+g86
+I326
+sg34
+VForecast (Galaxy, October 1958)
+p73960
+sa(dp73961
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1958)
+p73962
+sa(dp73963
+g86
+I40
+sg34
+VThe Wizards of Pung's Corners
+p73964
+sa(dp73965
+g86
+I98
+sg34
+VLisbon Cubed
+p73966
+sa(dp73967
+g86
+I23
+sg34
+VTime Killer (Part 1 of 4)
+p73968
+sa(dp73969
+g86
+I514
+sg34
+VParamount Ulj
+p73970
+sa(dp73971
+g86
+I45
+sg34
+VBlock That Metaphor
+p73972
+sasbag1
+(g2
+g3
+Ntp73973
+Rp73974
+(dp73975
+g49
+(lp73976
+sg30
+(lp73977
+sg86
+I302
+sg82
+(lp73978
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine November 1958
+p73979
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v17n01_1958-11/Galaxy_v17n01_1958-11_jp2.zip&file=Galaxy_v17n01_1958-11_jp2/Galaxy_v17n01_1958-11_0000.jp2&scale=0&rotate=0
+p73980
+sg68228
+S'http://www.isfdb.org/wiki/images/c/ca/GALNOV1958.jpg'
+p73981
+sg14
+g68230
+sg16
+(lp73982
+sg75
+(lp73983
+I419
+aI525
+aI519
+aI305
+aI339
+aI483
+aI326
+aI56
+aI50
+aI23
+aI110
+aI142
+aI302
+asg20
+(lp73984
+sg25
+I1069
+sg68234
+(lp73985
+(dp73986
+g86
+I419
+sg34
+VThe Civilization Game
+p73987
+sa(dp73988
+g86
+I419
+sg34
+VThe Civilization Game [2]
+p73989
+sa(dp73990
+g86
+I419
+sg34
+VThe Civilization Game [3]
+p73991
+sa(dp73992
+g86
+I525
+sg34
+VPeople Soup
+p73993
+sa(dp73994
+g86
+I519
+sg34
+VBirds of a Feather
+p73995
+sa(dp73996
+g86
+I519
+sg34
+VBirds of a Feather [2]
+p73997
+sa(dp73998
+g86
+I519
+sg34
+VBirds of a Feather [3]
+p73999
+sa(dp74000
+g86
+I525
+sg34
+VNo Substitutions
+p74001
+sa(dp74002
+g86
+I519
+sg34
+VTime Killer (Part 2 of 4)
+p74003
+sa(dp74004
+g86
+I519
+sg34
+VTime Killer (Part 2 of 4) [2]
+p74005
+sa(dp74006
+g86
+I519
+sg34
+VTime Killer (Part 2 of 4) [3]
+p74007
+sa(dp74008
+g86
+I305
+sg34
+VThe Tin Age
+p74009
+sa(dp74010
+g86
+I339
+sg34
+VFor Your Information: The First Spaceship
+p74011
+sa(dp74012
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, November 1958)
+p74013
+sa(dp74014
+g86
+I326
+sg34
+VForecast (Galaxy, November 1958)
+p74015
+sa(dp74016
+g86
+I56
+sg34
+VThe Civilization Game
+p74017
+sa(dp74018
+g86
+I50
+sg34
+VBirds of a Feather
+p74019
+sa(dp74020
+g86
+I23
+sg34
+VTime Killer (Part 2 of 4)
+p74021
+sa(dp74022
+g86
+I110
+sg34
+VPeople Soup
+p74023
+sa(dp74024
+g86
+I142
+sg34
+VNo Substitutions
+p74025
+sasbag1
+(g2
+g3
+Ntp74026
+Rp74027
+(dp74028
+g49
+(lp74029
+sg30
+(lp74030
+sg86
+I302
+sg82
+(lp74031
+I2
+asg13
+I1958
+sg34
+VGalaxy Magazine December 1958
+p74032
+sg11
+Vhttps://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v17n02_1958-12/Galaxy_v17n02_1958-12_jp2.zip&file=Galaxy_v17n02_1958-12_jp2/Galaxy_v17n02_1958-12_0000.jp2&scale=0&rotate=0
+p74033
+sg68228
+S'http://www.isfdb.org/wiki/images/9/9f/GALDEC1958.jpg'
+p74034
+sg14
+g68230
+sg16
+(lp74035
+sg75
+(lp74036
+I543
+aI419
+aI519
+aI523
+aI305
+aI326
+aI339
+aI483
+aI23
+aI89
+aI40
+aI32
+aI302
+asg20
+(lp74037
+sg25
+I1070
+sg68234
+(lp74038
+(dp74039
+g86
+I543
+sg34
+VJoin Now
+p74040
+sa(dp74041
+g86
+I543
+sg34
+VJoin Now [2]
+p74042
+sa(dp74043
+g86
+I419
+sg34
+VNightmare with Zeppelins
+p74044
+sa(dp74045
+g86
+I519
+sg34
+VUllward's Retreat
+p74046
+sa(dp74047
+g86
+I519
+sg34
+VUllward's Retreat [2]
+p74048
+sa(dp74049
+g86
+I519
+sg34
+VUllward's Retreat [3]
+p74050
+sa(dp74051
+g86
+I523
+sg34
+VThe Number of the Beast
+p74052
+sa(dp74053
+g86
+I519
+sg34
+VTime Killer (Part 3 of 4)
+p74054
+sa(dp74055
+g86
+I519
+sg34
+VTime Killer (Part 3 of 4) [2]
+p74056
+sa(dp74057
+g86
+I519
+sg34
+VTime Killer (Part 3 of 4) [3]
+p74058
+sa(dp74059
+g86
+I305
+sg34
+VIt's All Yours
+p74060
+sa(dp74061
+g86
+I326
+sg34
+VForecast (Galaxy, December 1958)
+p74062
+sa(dp74063
+g86
+I339
+sg34
+VFor Your Information: The Strange Planet Next Door
+p74064
+sa(dp74065
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, December 1958)
+p74066
+sa(dp74067
+g86
+I23
+sg34
+VJoin Now
+p74068
+sa(dp74069
+g86
+I89
+sg34
+VUllward's Retreat
+p74070
+sa(dp74071
+g86
+I23
+sg34
+VTime Killer (Part 3 of 4)
+p74072
+sa(dp74073
+g86
+I40
+sg34
+VNightmare with Zeppelins
+p74074
+sa(dp74075
+g86
+I32
+sg34
+VThe Number of the Beast
+p74076
+sasbag1
+(g2
+g3
+Ntp74077
+Rp74078
+(dp74079
+g49
+(lp74080
+sg30
+(lp74081
+sg86
+I302
+sg82
+(lp74082
+I2
+asg13
+I1959
+sg34
+VGalaxy Magazine February 1959
+p74083
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/Galaxy_v17n03_1959-02/Galaxy_v17n03_1959-02_jp2.zip&file=Galaxy_v17n03_1959-02_jp2/Galaxy_v17n03_1959-02_0000.jp2&scale=0&rotate=0
+p74084
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b0/GALFEB1959.jpg'
+p74085
+sg14
+g68230
+sg16
+(lp74086
+sg75
+(lp74087
+I519
+aI419
+aI305
+aI339
+aI326
+aI483
+aI56
+aI40
+aI507
+aI23
+aI240
+aI302
+asg20
+(lp74088
+sg25
+I1071
+sg68234
+(lp74089
+(dp74090
+g86
+I519
+sg34
+VInstallment Plan
+p74091
+sa(dp74092
+g86
+I519
+sg34
+VInstallment Plan [2]
+p74093
+sa(dp74094
+g86
+I519
+sg34
+VInstallment Plan [3]
+p74095
+sa(dp74096
+g86
+I419
+sg34
+VPastoral Affair
+p74097
+sa(dp74098
+g86
+I519
+sg34
+VI Plinglot - Who You?
+p74099
+sa(dp74100
+g86
+I519
+sg34
+VI Plinglot - Who You? [2]
+p74101
+sa(dp74102
+g86
+I519
+sg34
+VI Plinglot - Who You? [3]
+p74103
+sa(dp74104
+g86
+I519
+sg34
+VInsidekick
+p74105
+sa(dp74106
+g86
+I519
+sg34
+VInsidekick [2]
+p74107
+sa(dp74108
+g86
+I519
+sg34
+VInsidekick [3]
+p74109
+sa(dp74110
+g86
+I419
+sg34
+VForever
+p74111
+sa(dp74112
+g86
+I519
+sg34
+VTime Killer (Part 4 of 4)
+p74113
+sa(dp74114
+g86
+I519
+sg34
+VTime Killer (Part 4 of 4) [2]
+p74115
+sa(dp74116
+g86
+I519
+sg34
+VTime Killer (Part 4 of 4) [3]
+p74117
+sa(dp74118
+g86
+I305
+sg34
+VWhat'll It Be?
+p74119
+sa(dp74120
+g86
+I339
+sg34
+VFor Your Information: Monsters of the Deep
+p74121
+sa(dp74122
+g86
+I326
+sg34
+VForecast (Galaxy, February 1959)
+p74123
+sa(dp74124
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, February 1959)
+p74125
+sa(dp74126
+g86
+I56
+sg34
+VInstallment Plan
+p74127
+sa(dp74128
+g86
+I40
+sg34
+VI Plinglot - Who You?
+p74129
+sa(dp74130
+g86
+I507
+sg34
+VInsidekick
+p74131
+sa(dp74132
+g86
+I23
+sg34
+VTime Killer (Part 4 of 4)
+p74133
+sa(dp74134
+g86
+I240
+sg34
+VPastoral Affair
+p74135
+sa(dp74136
+g86
+I23
+sg34
+VForever
+p74137
+sasbag1
+(g2
+g3
+Ntp74138
+Rp74139
+(dp74140
+g49
+(lp74141
+sg30
+(lp74142
+sg86
+I302
+sg82
+(lp74143
+I2
+asg13
+I1959
+sg34
+VGalaxy Magazine April 1959
+p74144
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_v17n04_1959-04/Galaxy_v17n04_1959-04_jp2.zip&file=Galaxy_v17n04_1959-04_jp2/Galaxy_v17n04_1959-04_0000.jp2&scale=0&rotate=0
+p74145
+sg68228
+S'http://www.isfdb.org/wiki/images/5/56/GALAPR1959.jpg'
+p74146
+sg14
+g68230
+sg16
+(lp74147
+sg75
+(lp74148
+I506
+aI519
+aI525
+aI523
+aI543
+aI544
+aI305
+aI326
+aI339
+aI483
+aI384
+aI315
+aI220
+aI530
+aI40
+aI514
+aI23
+aI479
+aI302
+asg20
+(lp74149
+sg25
+I1072
+sg68234
+(lp74150
+(dp74151
+g86
+I506
+sg34
+VThe City of Force
+p74152
+sa(dp74153
+g86
+I506
+sg34
+VThe City of Force [2]
+p74154
+sa(dp74155
+g86
+I506
+sg34
+VThe City of Force [3]
+p74156
+sa(dp74157
+g86
+I519
+sg34
+VSecurity Plan
+p74158
+sa(dp74159
+g86
+I525
+sg34
+VThe Bitterest Pill
+p74160
+sa(dp74161
+g86
+I519
+sg34
+VKingslayer
+p74162
+sa(dp74163
+g86
+I519
+sg34
+VKingslayer [2]
+p74164
+sa(dp74165
+g86
+I519
+sg34
+VKingslayer [3]
+p74166
+sa(dp74167
+g86
+I523
+sg34
+VLove Called This Thing
+p74168
+sa(dp74169
+g86
+I543
+sg34
+VThe Sweeper of Loray
+p74170
+sa(dp74171
+g86
+I544
+sg34
+VWhen the People Fell
+p74172
+sa(dp74173
+g86
+I519
+sg34
+VThe Man in the Mailbag
+p74174
+sa(dp74175
+g86
+I519
+sg34
+VThe Man in the Mailbag [2]
+p74176
+sa(dp74177
+g86
+I519
+sg34
+VThe Man in the Mailbag [3]
+p74178
+sa(dp74179
+g86
+I305
+sg34
+VSo Far
+p74180
+sa(dp74181
+g86
+I326
+sg34
+VForecast (Galaxy, April 1959)
+p74182
+sa(dp74183
+g86
+I339
+sg34
+VFor Your Information: The Atlantic Missile Range
+p74184
+sa(dp74185
+g86
+I483
+sg34
+VGalaxy's 5 Star Bookshelf (Galaxy, April 1959)
+p74186
+sa(dp74187
+g86
+I384
+sg34
+VKingslayer
+p74188
+sa(dp74189
+g86
+I315
+sg34
+VThe Man in the Mailbag
+p74190
+sa(dp74191
+g86
+I220
+sg34
+VThe City of Force
+p74192
+sa(dp74193
+g86
+I530
+sg34
+VSecurity Plan
+p74194
+sa(dp74195
+g86
+I40
+sg34
+VThe Bitterest Pill
+p74196
+sa(dp74197
+g86
+I514
+sg34
+VLove Called This Thing
+p74198
+sa(dp74199
+g86
+I23
+sg34
+VThe Sweeper of Loray
+p74200
+sa(dp74201
+g86
+I479
+sg34
+VWhen the People Fell
+p74202
+sasbag1
+(g2
+g3
+Ntp74203
+Rp74204
+(dp74205
+g49
+(lp74206
+sg30
+(lp74207
+sg86
+I302
+sg82
+(lp74208
+I2
+asg13
+I1959
+sg34
+VGalaxy Magazine June 1959
+p74209
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v17n05_1959-06/Galaxy_v17n05_1959-06_jp2.zip&file=Galaxy_v17n05_1959-06_jp2/Galaxy_v17n05_1959-06_0000.jp2&scale=0&rotate=0
+p74210
+sg68228
+S'http://www.isfdb.org/wiki/images/5/55/GALJUN1959.jpg'
+p74211
+sg14
+g68230
+sg16
+(lp74212
+sg75
+(lp74213
+I519
+aI506
+aI504
+aI419
+aI305
+aI326
+aI339
+aI483
+aI514
+aI384
+aI40
+aI217
+aI64
+aI220
+aI302
+asg20
+(lp74214
+sg25
+I1073
+sg68234
+(lp74215
+(dp74216
+g86
+I519
+sg34
+VWhatever Counts
+p74217
+sa(dp74218
+g86
+I519
+sg34
+VWhatever Counts [2]
+p74219
+sa(dp74220
+g86
+I519
+sg34
+VWhatever Counts [3]
+p74221
+sa(dp74222
+g86
+I519
+sg34
+VWhatever Counts [4]
+p74223
+sa(dp74224
+g86
+I506
+sg34
+VTake Wooden Indians
+p74225
+sa(dp74226
+g86
+I506
+sg34
+VTake Wooden Indians [2]
+p74227
+sa(dp74228
+g86
+I506
+sg34
+VTake Wooden Indians [3]
+p74229
+sa(dp74230
+g86
+I506
+sg34
+VTraveling Companion Wanted
+p74231
+sa(dp74232
+g86
+I506
+sg34
+VTraveling Companion Wanted [2]
+p74233
+sa(dp74234
+g86
+I506
+sg34
+VTraveling Companion Wanted [3]
+p74235
+sa(dp74236
+g86
+I504
+sg34
+VExtracts From the Galactik Almanack: Music Around the Universe
+p74237
+sa(dp74238
+g86
+I504
+sg34
+VExtracts From the Galactik Almanack: Music Around the Universe [2]
+p74239
+sa(dp74240
+g86
+I504
+sg34
+VExtracts From the Galactik Almanack: Music Around the Universe [3]
+p74241
+sa(dp74242
+g86
+I504
+sg34
+VExtracts From the Galactik Almanack: Music Around the Universe [4]
+p74243
+sa(dp74244
+g86
+I504
+sg34
+VExtracts From the Galactik Almanack: Music Around the Universe [5]
+p74245
+sa(dp74246
+g86
+I504
+sg34
+VExtracts From the Galactik Almanack: Music Around the Universe [6]
+p74247
+sa(dp74248
+g86
+I504
+sg34
+VExtracts From the Galactik Almanack: Music Around the Universe [7]
+p74249
+sa(dp74250
+g86
+I419
+sg34
+VSoft Touch
+p74251
+sa(dp74252
+g86
+I419
+sg34
+VSoft Touch [2]
+p74253
+sa(dp74254
+g86
+I419
+sg34
+VSoft Touch [3]
+p74255
+sa(dp74256
+g86
+I419
+sg34
+VNo Place for Crime
+p74257
+sa(dp74258
+g86
+I419
+sg34
+VNo Place for Crime [2]
+p74259
+sa(dp74260
+g86
+I419
+sg34
+VNo Place for Crime [3]
+p74261
+sa(dp74262
+g86
+I305
+sg34
+VSpecial Delivery
+p74263
+sa(dp74264
+g86
+I326
+sg34
+VForecast (Galaxy, June 1959)
+p74265
+sa(dp74266
+g86
+I339
+sg34
+VFor Your Information: Any Questions?
+p74267
+sa(dp74268
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1959)
+p74269
+sa(dp74270
+g86
+I483
+sg34
+VReview of the Encyclopedia Americana
+p74271
+sa(dp74272
+g86
+I514
+sg34
+VTake Wooden Indians
+p74273
+sa(dp74274
+g86
+I384
+sg34
+VNo Place for Crime
+p74275
+sa(dp74276
+g86
+I40
+sg34
+VWhatever Counts
+p74277
+sa(dp74278
+g86
+I217
+sg34
+VTraveling Companion Wanted
+p74279
+sa(dp74280
+g86
+I64
+sg34
+VExtracts From the Galactik Almanack: Music Around the Universe
+p74281
+sa(dp74282
+g86
+I220
+sg34
+VSoft Touch
+p74283
+sasbag1
+(g2
+g3
+Ntp74284
+Rp74285
+(dp74286
+g49
+(lp74287
+sg30
+(lp74288
+sg86
+I302
+sg82
+(lp74289
+I2
+asg13
+I1959
+sg34
+VGalaxy Magazine August 1959
+p74290
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/Galaxy_v17n06_1959-08/Galaxy_v17n06_1959-08_jp2.zip&file=Galaxy_v17n06_1959-08_jp2/Galaxy_v17n06_1959-08_0000.jp2&scale=0&rotate=0
+p74291
+sg68228
+S'http://www.isfdb.org/wiki/images/8/85/GALAUG1959.jpg'
+p74292
+sg14
+g68230
+sg16
+(lp74293
+sg75
+(lp74294
+I519
+aI419
+aI504
+aI506
+aI305
+aI339
+aI483
+aI326
+aI50
+aI98
+aI40
+aI56
+aI243
+aI142
+aI299
+aI219
+aI302
+asg20
+(lp74295
+sg25
+I1074
+sg68234
+(lp74296
+(dp74297
+g86
+I519
+sg34
+VNo Life of Their Own
+p74298
+sa(dp74299
+g86
+I519
+sg34
+VNo Life of Their Own [2]
+p74300
+sa(dp74301
+g86
+I519
+sg34
+VNo Life of Their Own [3]
+p74302
+sa(dp74303
+g86
+I419
+sg34
+VCitizen Jell
+p74304
+sa(dp74305
+g86
+I419
+sg34
+VThe Spicy Sound of Success
+p74306
+sa(dp74307
+g86
+I504
+sg34
+VMugwump Four
+p74308
+sa(dp74309
+g86
+I504
+sg34
+VMugwump Four [2]
+p74310
+sa(dp74311
+g86
+I504
+sg34
+VMugwump Four [3]
+p74312
+sa(dp74313
+g86
+I519
+sg34
+VLicense to Steal
+p74314
+sa(dp74315
+g86
+I519
+sg34
+VLex
+p74316
+sa(dp74317
+g86
+I519
+sg34
+VLex [2]
+p74318
+sa(dp74319
+g86
+I506
+sg34
+VThe Malted Milk Monster
+p74320
+sa(dp74321
+g86
+I506
+sg34
+VThe Malted Milk Monster [2]
+p74322
+sa(dp74323
+g86
+I506
+sg34
+VThe Malted Milk Monster [3]
+p74324
+sa(dp74325
+g86
+I519
+sg34
+VThe Waging of the Peace
+p74326
+sa(dp74327
+g86
+I519
+sg34
+VThe Waging of the Peace [2]
+p74328
+sa(dp74329
+g86
+I519
+sg34
+VThe Waging of the Peace [3]
+p74330
+sa(dp74331
+g86
+I305
+sg34
+VThought for Food
+p74332
+sa(dp74333
+g86
+I339
+sg34
+VFor Your Information: Orbit Around the Sun
+p74334
+sa(dp74335
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1959)
+p74336
+sa(dp74337
+g86
+I326
+sg34
+VForecast (Galaxy, August 1959)
+p74338
+sa(dp74339
+g86
+I50
+sg34
+VMugwump Four
+p74340
+sa(dp74341
+g86
+I98
+sg34
+VThe Malted Milk Monster
+p74342
+sa(dp74343
+g86
+I40
+sg34
+VThe Waging of the Peace
+p74344
+sa(dp74345
+g86
+I56
+sg34
+VNo Life of Their Own
+p74346
+sa(dp74347
+g86
+I243
+sg34
+VCitizen Jell
+p74348
+sa(dp74349
+g86
+I142
+sg34
+VThe Spicy Sound of Success
+p74350
+sa(dp74351
+g86
+I299
+sg34
+VLicense to Steal
+p74352
+sa(dp74353
+g86
+I219
+sg34
+VLex
+p74354
+sasbag1
+(g2
+g3
+Ntp74355
+Rp74356
+(dp74357
+g49
+(lp74358
+sg30
+(lp74359
+sg86
+I302
+sg82
+(lp74360
+I2
+asg13
+I1959
+sg34
+VGalaxy Magazine October 1959
+p74361
+sg11
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v18n01_1959-10/Galaxy_v18n01_1959-10_jp2.zip&file=Galaxy_v18n01_1959-10_jp2/Galaxy_v18n01_1959-10_0000.jp2&scale=0&rotate=0
+p74362
+sg68228
+S'http://www.isfdb.org/wiki/images/1/11/GALOCT1959.jpg'
+p74363
+sg14
+g68230
+sg16
+(lp74364
+sg75
+(lp74365
+I419
+aI525
+aI545
+aI506
+aI305
+aI339
+aI326
+aI483
+aI546
+aI40
+aI493
+aI56
+aI547
+aI548
+aI302
+asg20
+(lp74366
+sg25
+I1075
+sg68234
+(lp74367
+(dp74368
+g86
+I419
+sg34
+VSomeone to Watch Over Me
+p74369
+sa(dp74370
+g86
+I419
+sg34
+VSomeone to Watch Over Me [2]
+p74371
+sa(dp74372
+g86
+I419
+sg34
+VSomeone to Watch Over Me [3]
+p74373
+sa(dp74374
+g86
+I525
+sg34
+VLast of the Morticians
+p74375
+sa(dp74376
+g86
+I419
+sg34
+VA Death in the House
+p74377
+sa(dp74378
+g86
+I419
+sg34
+VA Death in the House [2]
+p74379
+sa(dp74380
+g86
+I419
+sg34
+VA Death in the House [3]
+p74381
+sa(dp74382
+g86
+I419
+sg34
+VKing of the Planet
+p74383
+sa(dp74384
+g86
+I545
+sg34
+VSilence
+p74385
+sa(dp74386
+g86
+I545
+sg34
+VSilence [2]
+p74387
+sa(dp74388
+g86
+I545
+sg34
+VSilence [3]
+p74389
+sa(dp74390
+g86
+I419
+sg34
+VTrue Self
+p74391
+sa(dp74392
+g86
+I506
+sg34
+VWay Up Yonder
+p74393
+sa(dp74394
+g86
+I506
+sg34
+VWay Up Yonder [2]
+p74395
+sa(dp74396
+g86
+I506
+sg34
+VWay Up Yonder [3]
+p74397
+sa(dp74398
+g86
+I305
+sg34
+VOther People's Mail
+p74399
+sa(dp74400
+g86
+I339
+sg34
+VFor Your Information: The Accident That Didn't Happen
+p74401
+sa(dp74402
+g86
+I326
+sg34
+VForecast (Galaxy, October 1959)
+p74403
+sa(dp74404
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1969)
+p74405
+sa(dp74406
+g86
+I483
+sg34
+VReview of "Van Nostrand's Scientific Encyclopedia"
+p74407
+sa(dp74408
+g86
+I546
+sg34
+VSilence
+p74409
+sa(dp74410
+g86
+I40
+sg34
+VWay Up Yonder
+p74411
+sa(dp74412
+g86
+I305
+sg34
+VSomeone to Watch Over Me
+p74413
+sa(dp74414
+g86
+I493
+sg34
+VLast of the Morticians
+p74415
+sa(dp74416
+g86
+I56
+sg34
+VA Death in the House
+p74417
+sa(dp74418
+g86
+I547
+sg34
+VKing of the Planet
+p74419
+sa(dp74420
+g86
+I548
+sg34
+VTrue Self
+p74421
+sasbag1
+(g2
+g3
+Ntp74422
+Rp74423
+(dp74424
+g49
+(lp74425
+sg30
+(lp74426
+sg86
+I302
+sg82
+(lp74427
+I2
+asg13
+I1959
+sg34
+VGalaxy Magazine December 1959
+p74428
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v18n02_1959-12/Galaxy_v18n02_1959-12_jp2.zip&file=Galaxy_v18n02_1959-12_jp2/Galaxy_v18n02_1959-12_0000.jp2&scale=0&rotate=0
+p74429
+sg68228
+S'http://www.isfdb.org/wiki/images/f/fb/GALDEC1959.jpg'
+p74430
+sg14
+g68230
+sg16
+(lp74431
+sg75
+(lp74432
+I506
+aI545
+aI497
+aI519
+aI419
+aI305
+aI339
+aI326
+aI483
+aI23
+aI95
+aI142
+aI549
+aI182
+aI159
+aI8
+aI40
+aI45
+aI302
+asg20
+(lp74433
+sg25
+I1076
+sg68234
+(lp74434
+(dp74435
+g86
+I506
+sg34
+VProspector's Special
+p74436
+sa(dp74437
+g86
+I506
+sg34
+VProspector's Special [2]
+p74438
+sa(dp74439
+g86
+I506
+sg34
+VProspector's Special [3]
+p74440
+sa(dp74441
+g86
+I506
+sg34
+VFlower Arrangement
+p74442
+sa(dp74443
+g86
+I545
+sg34
+VSales Talk
+p74444
+sa(dp74445
+g86
+I497
+sg34
+VThe Undetected
+p74446
+sa(dp74447
+g86
+I497
+sg34
+VThe Undetected [2]
+p74448
+sa(dp74449
+g86
+I497
+sg34
+VThe Undetected [3]
+p74450
+sa(dp74451
+g86
+I519
+sg34
+VWar Game
+p74452
+sa(dp74453
+g86
+I419
+sg34
+VCharity Case
+p74454
+sa(dp74455
+g86
+I419
+sg34
+VCharity Case [2]
+p74456
+sa(dp74457
+g86
+I419
+sg34
+VCharity Case [3]
+p74458
+sa(dp74459
+g86
+I519
+sg34
+VThe Snowmen
+p74460
+sa(dp74461
+g86
+I497
+sg34
+VSabbatical
+p74462
+sa(dp74463
+g86
+I519
+sg34
+VBlacksword
+p74464
+sa(dp74465
+g86
+I519
+sg34
+VBlacksword [2]
+p74466
+sa(dp74467
+g86
+I519
+sg34
+VBlacksword [3]
+p74468
+sa(dp74469
+g86
+I305
+sg34
+VOf All Things
+p74470
+sa(dp74471
+g86
+I339
+sg34
+VFor Your Information: Dead or Alive?
+p74472
+sa(dp74473
+g86
+I326
+sg34
+VForecast (Galaxy, December 1959)
+p74474
+sa(dp74475
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, December 1959)
+p74476
+sa(dp74477
+g86
+I23
+sg34
+VProspector's Special
+p74478
+sa(dp74479
+g86
+I95
+sg34
+VThe Undetected
+p74480
+sa(dp74481
+g86
+I142
+sg34
+VCharity Case
+p74482
+sa(dp74483
+g86
+I549
+sg34
+VBlacksword
+p74484
+sa(dp74485
+g86
+I182
+sg34
+VFlower Arrangement
+p74486
+sa(dp74487
+g86
+I159
+sg34
+VSales Talk
+p74488
+sa(dp74489
+g86
+I8
+sg34
+VWar Game
+p74490
+sa(dp74491
+g86
+I40
+sg34
+VThe Snowmen
+p74492
+sa(dp74493
+g86
+I45
+sg34
+VSabbatical
+p74494
+sasbag1
+(g2
+g3
+Ntp74495
+Rp74496
+(dp74497
+g49
+(lp74498
+sg30
+(lp74499
+sg86
+I302
+sg82
+(lp74500
+I2
+asg13
+I1960
+sg34
+VGalaxy Magazine February 1960
+p74501
+sg11
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v18n03_1960-02/Galaxy_v18n03_1960-02_jp2.zip&file=Galaxy_v18n03_1960-02_jp2/Galaxy_v18n03_1960-02_0000.jp2&scale=0&rotate=0
+p74502
+sg68228
+S'http://www.isfdb.org/wiki/images/1/18/GALFEB1960.jpg'
+p74503
+sg14
+g68230
+sg16
+(lp74504
+sg75
+(lp74505
+I419
+aI519
+aI506
+aI305
+aI326
+aI339
+aI483
+aI23
+aI40
+aI56
+aI280
+aI423
+aI211
+aI550
+aI206
+aI302
+asg20
+(lp74506
+sg25
+I1077
+sg68234
+(lp74507
+(dp74508
+g86
+I419
+sg34
+VMeeting of the Minds
+p74509
+sa(dp74510
+g86
+I419
+sg34
+VMeeting of the Minds [2]
+p74511
+sa(dp74512
+g86
+I419
+sg34
+VMeeting of the Minds [3]
+p74513
+sa(dp74514
+g86
+I519
+sg34
+VThe Nuse Man
+p74515
+sa(dp74516
+g86
+I506
+sg34
+VDumbwaiter
+p74517
+sa(dp74518
+g86
+I506
+sg34
+VThe Day the Icicle Works Closed
+p74519
+sa(dp74520
+g86
+I506
+sg34
+VThe Day the Icicle Works Closed [2]
+p74521
+sa(dp74522
+g86
+I506
+sg34
+VThe Day the Icicle Works Closed [3]
+p74523
+sa(dp74524
+g86
+I506
+sg34
+VSomething Bright
+p74525
+sa(dp74526
+g86
+I519
+sg34
+VCrying Jag
+p74527
+sa(dp74528
+g86
+I519
+sg34
+VCrying Jag [2]
+p74529
+sa(dp74530
+g86
+I519
+sg34
+VCrying Jag [3]
+p74531
+sa(dp74532
+g86
+I419
+sg34
+VEast in the Morning
+p74533
+sa(dp74534
+g86
+I419
+sg34
+VDeath's Wisher
+p74535
+sa(dp74536
+g86
+I419
+sg34
+VDeath's Wisher [2]
+p74537
+sa(dp74538
+g86
+I419
+sg34
+VDeath's Wisher [3]
+p74539
+sa(dp74540
+g86
+I305
+sg34
+VWhat Kind of Fiction?
+p74541
+sa(dp74542
+g86
+I326
+sg34
+VForecast (Galaxy, February 1960)
+p74543
+sa(dp74544
+g86
+I339
+sg34
+VFor Your Information: One Planet, One Language
+p74545
+sa(dp74546
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, February 1960)
+p74547
+sa(dp74548
+g86
+I23
+sg34
+VMeeting of the Minds
+p74549
+sa(dp74550
+g86
+I40
+sg34
+VThe Day the Icicle Works Closed
+p74551
+sa(dp74552
+g86
+I56
+sg34
+VCrying Jag
+p74553
+sa(dp74554
+g86
+I280
+sg34
+VDeath's Wisher
+p74555
+sa(dp74556
+g86
+I423
+sg34
+VThe Nuse Man
+p74557
+sa(dp74558
+g86
+I211
+sg34
+VDumbwaiter
+p74559
+sa(dp74560
+g86
+I550
+sg34
+VSomething Bright
+p74561
+sa(dp74562
+g86
+I206
+sg34
+VEast in the Morning
+p74563
+sasbag1
+(g2
+g3
+Ntp74564
+Rp74565
+(dp74566
+g49
+(lp74567
+sg30
+(lp74568
+sg86
+I302
+sg82
+(lp74569
+I2
+asg13
+I1960
+sg34
+VGalaxy Magazine April 1960
+p74570
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v18n04_1960-04/Galaxy_v18n04_1960-04_jp2.zip&file=Galaxy_v18n04_1960-04_jp2/Galaxy_v18n04_1960-04_0000.jp2&scale=0&rotate=0
+p74571
+sg68228
+S'http://www.isfdb.org/wiki/images/a/ad/GALAPR1960.jpg'
+p74572
+sg14
+g68230
+sg16
+(lp74573
+sg75
+(lp74574
+I519
+aI551
+aI506
+aI552
+aI419
+aI305
+aI326
+aI339
+aI483
+aI198
+aI479
+aI258
+aI95
+aI56
+aI423
+aI211
+aI58
+aI302
+asg20
+(lp74575
+sg25
+I1078
+sg68234
+(lp74576
+(dp74577
+g86
+I519
+sg34
+VSuccess Story
+p74578
+sa(dp74579
+g86
+I519
+sg34
+VSuccess Story [2]
+p74580
+sa(dp74581
+g86
+I519
+sg34
+VSuccess Story [3]
+p74582
+sa(dp74583
+g86
+I551
+sg34
+VCondition of Employment
+p74584
+sa(dp74585
+g86
+I519
+sg34
+VThe Airy Servitor
+p74586
+sa(dp74587
+g86
+I506
+sg34
+VThe Lady Who Sailed the Soul
+p74588
+sa(dp74589
+g86
+I506
+sg34
+VThe Lady Who Sailed the Soul [2]
+p74590
+sa(dp74591
+g86
+I506
+sg34
+VThe Lady Who Sailed the Soul [3]
+p74592
+sa(dp74593
+g86
+I552
+sg34
+VSolid Solution
+p74594
+sa(dp74595
+g86
+I552
+sg34
+VSolid Solution [2]
+p74596
+sa(dp74597
+g86
+I519
+sg34
+VDon't Look Now
+p74598
+sa(dp74599
+g86
+I519
+sg34
+VDon't Look Now [2]
+p74600
+sa(dp74601
+g86
+I519
+sg34
+VDon't Look Now [3]
+p74602
+sa(dp74603
+g86
+I419
+sg34
+VThe Troublemakers
+p74604
+sa(dp74605
+g86
+I419
+sg34
+VThe Troublemakers [2]
+p74606
+sa(dp74607
+g86
+I419
+sg34
+VThe Troublemakers [3]
+p74608
+sa(dp74609
+g86
+I305
+sg34
+VThe World of Tomorrow
+p74610
+sa(dp74611
+g86
+I326
+sg34
+VForecast (Galaxy, April 1960)
+p74612
+sa(dp74613
+g86
+I339
+sg34
+VFor Your Information: What's Only Money?
+p74614
+sa(dp74615
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, April 1960)
+p74616
+sa(dp74617
+g86
+I198
+sg34
+VSuccess Story
+p74618
+sa(dp74619
+g86
+I479
+sg34
+VThe Lady Who Sailed the Soul
+p74620
+sa(dp74621
+g86
+I258
+sg34
+VDon't Look Now
+p74622
+sa(dp74623
+g86
+I95
+sg34
+VThe Troublemakers
+p74624
+sa(dp74625
+g86
+I56
+sg34
+VCondition of Employment
+p74626
+sa(dp74627
+g86
+I423
+sg34
+VThe Airy Servitor
+p74628
+sa(dp74629
+g86
+I211
+sg34
+VSolid Solution
+p74630
+sa(dp74631
+g86
+I58
+sg34
+VThe Power
+p74632
+sasbag1
+(g2
+g3
+Ntp74633
+Rp74634
+(dp74635
+g49
+(lp74636
+sg30
+(lp74637
+sg86
+I302
+sg82
+(lp74638
+I2
+asg13
+I1960
+sg34
+VGalaxy Magazine June 1960
+p74639
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v18n05_1960-06/Galaxy_v18n05_1960-06_jp2.zip&file=Galaxy_v18n05_1960-06_jp2/Galaxy_v18n05_1960-06_0000.jp2&scale=0&rotate=0
+p74640
+sg68228
+S'http://www.isfdb.org/wiki/images/a/af/GALJUN1960.jpg'
+p74641
+sg14
+g68230
+sg16
+(lp74642
+sg75
+(lp74643
+I363
+aI506
+aI519
+aI419
+aI553
+aI305
+aI326
+aI339
+aI483
+aI446
+aI554
+aI40
+aI214
+aI132
+aI205
+aI121
+aI58
+aI555
+aI302
+asg20
+(lp74644
+sg25
+I1079
+sg68234
+(lp74645
+(dp74646
+g86
+I363
+sg34
+VDrunkard's Walk (Part 1 of 2)
+p74647
+sa(dp74648
+g86
+I363
+sg34
+VDrunkard's Walk (Part 1 of 2) [2]
+p74649
+sa(dp74650
+g86
+I363
+sg34
+VDrunkard's Walk (Part 1 of 2) [3]
+p74651
+sa(dp74652
+g86
+I506
+sg34
+VUpstarts
+p74653
+sa(dp74654
+g86
+I519
+sg34
+VThe Good Neighbors
+p74655
+sa(dp74656
+g86
+I519
+sg34
+VThe Dope On Mars
+p74657
+sa(dp74658
+g86
+I419
+sg34
+VTransstar
+p74659
+sa(dp74660
+g86
+I419
+sg34
+VTransstar [2]
+p74661
+sa(dp74662
+g86
+I419
+sg34
+VTransstar [3]
+p74663
+sa(dp74664
+g86
+I419
+sg34
+VTransstar [4]
+p74665
+sa(dp74666
+g86
+I506
+sg34
+VMonkey On His Back
+p74667
+sa(dp74668
+g86
+I553
+sg34
+VEarthmen Bearing Gifts
+p74669
+sa(dp74670
+g86
+I506
+sg34
+VIdea Man
+p74671
+sa(dp74672
+g86
+I506
+sg34
+VInside John Barth
+p74673
+sa(dp74674
+g86
+I506
+sg34
+VInside John Barth [2]
+p74675
+sa(dp74676
+g86
+I506
+sg34
+VInside John Barth [3]
+p74677
+sa(dp74678
+g86
+I305
+sg34
+VWhat Are Aliens Made Of?
+p74679
+sa(dp74680
+g86
+I326
+sg34
+VForecast (Galaxy, June 1960)
+p74681
+sa(dp74682
+g86
+I339
+sg34
+VFor Your Information: Fuels Galore
+p74683
+sa(dp74684
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1960)
+p74685
+sa(dp74686
+g86
+I446
+sg34
+VTransstar
+p74687
+sa(dp74688
+g86
+I554
+sg34
+VInside John Barth
+p74689
+sa(dp74690
+g86
+I40
+sg34
+VDrunkard's Walk (Part 1 of 2)
+p74691
+sa(dp74692
+g86
+I214
+sg34
+VUpstarts
+p74693
+sa(dp74694
+g86
+I132
+sg34
+VThe Good Neighbors
+p74695
+sa(dp74696
+g86
+I205
+sg34
+VThe Dope On Mars
+p74697
+sa(dp74698
+g86
+I121
+sg34
+VMonkey On His Back
+p74699
+sa(dp74700
+g86
+I58
+sg34
+VEarthmen Bearing Gifts
+p74701
+sa(dp74702
+g86
+I555
+sg34
+VIdea Man
+p74703
+sasbag1
+(g2
+g3
+Ntp74704
+Rp74705
+(dp74706
+g49
+(lp74707
+sg30
+(lp74708
+sg86
+I302
+sg82
+(lp74709
+I2
+asg13
+I1960
+sg34
+VGalaxy Magazine August 1960
+p74710
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v18n06_1960-08/Galaxy_v18n06_1960-08_jp2.zip&file=Galaxy_v18n06_1960-08_jp2/Galaxy_v18n06_1960-08_0000.jp2&scale=0&rotate=0
+p74711
+sg68228
+S'http://www.isfdb.org/wiki/images/1/17/GALAUG1960.jpg'
+p74712
+sg14
+g68230
+sg16
+(lp74713
+sg75
+(lp74714
+I553
+aI556
+aI557
+aI519
+aI419
+aI363
+aI305
+aI339
+aI326
+aI483
+aI81
+aI248
+aI40
+aI554
+aI205
+aI558
+aI214
+aI302
+asg20
+(lp74715
+sg25
+I1080
+sg68234
+(lp74716
+(dp74717
+g86
+I553
+sg34
+VMind Partner
+p74718
+sa(dp74719
+g86
+I553
+sg34
+VMind Partner [2]
+p74720
+sa(dp74721
+g86
+I553
+sg34
+VMind Partner [3]
+p74722
+sa(dp74723
+g86
+I556
+sg34
+VA Husband for My Wife
+p74724
+sa(dp74725
+g86
+I556
+sg34
+VA Husband for My Wife [2]
+p74726
+sa(dp74727
+g86
+I557
+sg34
+VThe Business, As Usual
+p74728
+sa(dp74729
+g86
+I557
+sg34
+VThe Business, As Usual [2]
+p74730
+sa(dp74731
+g86
+I519
+sg34
+VSordman the Protector
+p74732
+sa(dp74733
+g86
+I519
+sg34
+VSordman the Protector [2]
+p74734
+sa(dp74735
+g86
+I519
+sg34
+VSordman the Protector [3]
+p74736
+sa(dp74737
+g86
+I419
+sg34
+VTo Tell the Truth
+p74738
+sa(dp74739
+g86
+I419
+sg34
+VAn Elephant for the Prinkip
+p74740
+sa(dp74741
+g86
+I363
+sg34
+VDrunkard's Walk (Part 2 of 2)
+p74742
+sa(dp74743
+g86
+I363
+sg34
+VDrunkard's Walk (Part 2 of 2) [2]
+p74744
+sa(dp74745
+g86
+I363
+sg34
+VDrunkard's Walk (Part 2 of 2) [3]
+p74746
+sa(dp74747
+g86
+I363
+sg34
+VDrunkard's Walk (Part 2 of 2) [4]
+p74748
+sa(dp74749
+g86
+I305
+sg34
+VReaders On Aliens
+p74750
+sa(dp74751
+g86
+I339
+sg34
+VFor Your Information: How to Slay Dragons
+p74752
+sa(dp74753
+g86
+I326
+sg34
+VForecast (Galaxy, August 1960)
+p74754
+sa(dp74755
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1960)
+p74756
+sa(dp74757
+g86
+I81
+sg34
+VMind Partner
+p74758
+sa(dp74759
+g86
+I248
+sg34
+VSordman the Protector
+p74760
+sa(dp74761
+g86
+I40
+sg34
+VDrunkard's Walk (Part 2 of 2)
+p74762
+sa(dp74763
+g86
+I554
+sg34
+VA Husband for My Wife
+p74764
+sa(dp74765
+g86
+I205
+sg34
+VThe Business, As Usual
+p74766
+sa(dp74767
+g86
+I558
+sg34
+VTo Tell the Truth
+p74768
+sa(dp74769
+g86
+I214
+sg34
+VAn Elephant for the Prinkip
+p74770
+sasbag1
+(g2
+g3
+Ntp74771
+Rp74772
+(dp74773
+g49
+(lp74774
+sg30
+(lp74775
+sg86
+I302
+sg82
+(lp74776
+I2
+asg13
+I1960
+sg34
+VGalaxy Magazine October 1960
+p74777
+sg11
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v19n01_1960-10/Galaxy_v19n01_1960-10_jp2.zip&file=Galaxy_v19n01_1960-10_jp2/Galaxy_v19n01_1960-10_0000.jp2&scale=0&rotate=0
+p74778
+sg68228
+S'http://www.isfdb.org/wiki/images/6/6b/GALOCT1960.jpg'
+p74779
+sg14
+g68230
+sg16
+(lp74780
+sg75
+(lp74781
+I419
+aI506
+aI519
+aI553
+aI556
+aI305
+aI339
+aI483
+aI326
+aI179
+aI558
+aI105
+aI166
+aI284
+aI211
+aI278
+aI251
+aI401
+aI315
+aI302
+asg20
+(lp74782
+sg25
+I1081
+sg68234
+(lp74783
+(dp74784
+g86
+I419
+sg34
+VWorld in a Bottle
+p74785
+sa(dp74786
+g86
+I419
+sg34
+VWorld in a Bottle [2]
+p74787
+sa(dp74788
+g86
+I419
+sg34
+VWorld in a Bottle [3]
+p74789
+sa(dp74790
+g86
+I506
+sg34
+VThe Hills of Home
+p74791
+sa(dp74792
+g86
+I506
+sg34
+VThe Hills of Home [2]
+p74793
+sa(dp74794
+g86
+I519
+sg34
+VBeach Scene
+p74795
+sa(dp74796
+g86
+I553
+sg34
+VThe Imitation of Earth
+p74797
+sa(dp74798
+g86
+I419
+sg34
+VCry Snooker
+p74799
+sa(dp74800
+g86
+I519
+sg34
+VThe Stentorii Luggage
+p74801
+sa(dp74802
+g86
+I519
+sg34
+VThe Stentorii Luggage [2]
+p74803
+sa(dp74804
+g86
+I519
+sg34
+VThe Stentorii Luggage [3]
+p74805
+sa(dp74806
+g86
+I506
+sg34
+VA Fall of Glass
+p74807
+sa(dp74808
+g86
+I556
+sg34
+VThe Hours Are Good
+p74809
+sa(dp74810
+g86
+I419
+sg34
+VThe Immortals
+p74811
+sa(dp74812
+g86
+I419
+sg34
+VThe Immortals [2]
+p74813
+sa(dp74814
+g86
+I419
+sg34
+VThe Immortals [3]
+p74815
+sa(dp74816
+g86
+I305
+sg34
+VNotes
+p74817
+sa(dp74818
+g86
+I339
+sg34
+VFor Your Information: The Air On the Moon
+p74819
+sa(dp74820
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1960)
+p74821
+sa(dp74822
+g86
+I326
+sg34
+VForecast (Galaxy, October 1960)
+p74823
+sa(dp74824
+g86
+I179
+sg34
+VWorld in a Bottle
+p74825
+sa(dp74826
+g86
+I558
+sg34
+VThe Stentorii Luggage
+p74827
+sa(dp74828
+g86
+I105
+sg34
+VThe Immortals
+p74829
+sa(dp74830
+g86
+I166
+sg34
+VThe Hills of Home
+p74831
+sa(dp74832
+g86
+I284
+sg34
+VBeach Scene
+p74833
+sa(dp74834
+g86
+I211
+sg34
+VThe Imitation of Earth
+p74835
+sa(dp74836
+g86
+I278
+sg34
+VCry Snooker
+p74837
+sa(dp74838
+g86
+I251
+sg34
+VA Fall of Glass
+p74839
+sa(dp74840
+g86
+I401
+sg34
+VOrigins of the Galactic Short-Snorter
+p74841
+sa(dp74842
+g86
+I315
+sg34
+VThe Hours Are Good
+p74843
+sasbag1
+(g2
+g3
+Ntp74844
+Rp74845
+(dp74846
+g49
+(lp74847
+sg30
+(lp74848
+sg86
+I302
+sg82
+(lp74849
+I2
+asg13
+I1960
+sg34
+VGalaxy Magazine December 1960
+p74850
+sg11
+Vhttps://ia600305.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/Galaxy_v19n02_1960-12/Galaxy_v19n02_1960-12_jp2.zip&file=Galaxy_v19n02_1960-12_jp2/Galaxy_v19n02_1960-12_0000.jp2&scale=0&rotate=0
+p74851
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b1/GALDEC1960.jpg'
+p74852
+sg14
+g68230
+sg16
+(lp74853
+sg75
+(lp74854
+I497
+aI552
+aI326
+aI395
+aI559
+aI519
+aI504
+aI419
+aI305
+aI339
+aI483
+aI384
+aI74
+aI94
+aI220
+aI192
+aI121
+aI225
+aI142
+aI260
+aI302
+asg20
+(lp74855
+sg25
+I1082
+sg68234
+(lp74856
+(dp74857
+g86
+I497
+sg34
+VThe Wrong World
+p74858
+sa(dp74859
+g86
+I497
+sg34
+VThe Wrong World [2]
+p74860
+sa(dp74861
+g86
+I497
+sg34
+VThe Wrong World [3]
+p74862
+sa(dp74863
+g86
+I552
+sg34
+VJamieson
+p74864
+sa(dp74865
+g86
+I326
+sg34
+VMetamorphosis
+p74866
+sa(dp74867
+g86
+I326
+sg34
+VMetamorphosis [2]
+p74868
+sa(dp74869
+g86
+I395
+sg34
+VSnuffles
+p74870
+sa(dp74871
+g86
+I395
+sg34
+VSnuffles [2]
+p74872
+sa(dp74873
+g86
+I559
+sg34
+VSubject to Change
+p74874
+sa(dp74875
+g86
+I559
+sg34
+VSubject to Change [2]
+p74876
+sa(dp74877
+g86
+I519
+sg34
+VRound-and-Round Trip
+p74878
+sa(dp74879
+g86
+I519
+sg34
+VBlueblood
+p74880
+sa(dp74881
+g86
+I519
+sg34
+VBlueblood [2]
+p74882
+sa(dp74883
+g86
+I504
+sg34
+VBad Memory
+p74884
+sa(dp74885
+g86
+I419
+sg34
+VFighting Spirit
+p74886
+sa(dp74887
+g86
+I419
+sg34
+VFighting Spirit [2]
+p74888
+sa(dp74889
+g86
+I305
+sg34
+VReactions
+p74890
+sa(dp74891
+g86
+I339
+sg34
+VFor Your Information: The Moon Worm
+p74892
+sa(dp74893
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, December 1960)
+p74894
+sa(dp74895
+g86
+I326
+sg34
+VForecast (Galaxy, December 1960)
+p74896
+sa(dp74897
+g86
+I384
+sg34
+VThe Wrong World
+p74898
+sa(dp74899
+g86
+I74
+sg34
+VSnuffles
+p74900
+sa(dp74901
+g86
+I94
+sg34
+VRound-and-Round Trip
+p74902
+sa(dp74903
+g86
+I220
+sg34
+VFighting Spirit
+p74904
+sa(dp74905
+g86
+I192
+sg34
+VJamieson
+p74906
+sa(dp74907
+g86
+I121
+sg34
+VMetamorphosis
+p74908
+sa(dp74909
+g86
+I225
+sg34
+VSubject to Change
+p74910
+sa(dp74911
+g86
+I142
+sg34
+VBlueblood
+p74912
+sa(dp74913
+g86
+I260
+sg34
+VBad Memory
+p74914
+sasbag1
+(g2
+g3
+Ntp74915
+Rp74916
+(dp74917
+g49
+(lp74918
+sg30
+(lp74919
+sg86
+I302
+sg82
+(lp74920
+I2
+asg13
+I1961
+sg34
+VGalaxy Magazine February 1961
+p74921
+sg11
+Vhttps://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v19n03_1961-02/Galaxy_v19n03_1961-02_jp2.zip&file=Galaxy_v19n03_1961-02_jp2/Galaxy_v19n03_1961-02_0000.jp2&scale=0&rotate=0
+p74922
+sg68228
+S'http://www.isfdb.org/wiki/images/4/4e/GALFEB1961.jpg'
+p74923
+sg14
+g68230
+sg16
+(lp74924
+sg75
+(lp74925
+I560
+aI557
+aI523
+aI499
+aI395
+aI497
+aI305
+aI326
+aI339
+aI483
+aI315
+aI61
+aI172
+aI67
+aI561
+aI111
+aI220
+aI204
+aI302
+asg20
+(lp74926
+sg25
+I1083
+sg68234
+(lp74927
+(dp74928
+g86
+I560
+sg34
+VSentry of the Sky
+p74929
+sa(dp74930
+g86
+I560
+sg34
+VSentry of the Sky [2]
+p74931
+sa(dp74932
+g86
+I560
+sg34
+VSentry of the Sky [3]
+p74933
+sa(dp74934
+g86
+I560
+sg34
+VSentry of the Sky [4]
+p74935
+sa(dp74936
+g86
+I560
+sg34
+VSentry of the Sky [5]
+p74937
+sa(dp74938
+g86
+I560
+sg34
+VDoorstep
+p74939
+sa(dp74940
+g86
+I557
+sg34
+VVolume Paa-Pyx
+p74941
+sa(dp74942
+g86
+I557
+sg34
+VVolume Paa-Pyx [2]
+p74943
+sa(dp74944
+g86
+I523
+sg34
+VThe Drug
+p74945
+sa(dp74946
+g86
+I499
+sg34
+VAn Honorable Death
+p74947
+sa(dp74948
+g86
+I499
+sg34
+VAn Honorable Death [2]
+p74949
+sa(dp74950
+g86
+I499
+sg34
+VAn Honorable Death [3]
+p74951
+sa(dp74952
+g86
+I395
+sg34
+VThe Chasers
+p74953
+sa(dp74954
+g86
+I395
+sg34
+VThe Chasers [2]
+p74955
+sa(dp74956
+g86
+I560
+sg34
+VAuto-Da-Fe
+p74957
+sa(dp74958
+g86
+I497
+sg34
+VDoctor
+p74959
+sa(dp74960
+g86
+I497
+sg34
+VDoctor [2]
+p74961
+sa(dp74962
+g86
+I305
+sg34
+VTrunk to Tail
+p74963
+sa(dp74964
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, February 1961) (Circulation: 91,000)
+p74965
+sa(dp74966
+g86
+I339
+sg34
+VFor Your Information: Let's Do Something About the Weather
+p74967
+sa(dp74968
+g86
+I326
+sg34
+VForecast (Galaxy, February 1961)
+p74969
+sa(dp74970
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, February 1961)
+p74971
+sa(dp74972
+g86
+I315
+sg34
+VAn Honorable Death
+p74973
+sa(dp74974
+g86
+I61
+sg34
+VDoctor
+p74975
+sa(dp74976
+g86
+I172
+sg34
+VSentry of the Sky
+p74977
+sa(dp74978
+g86
+I67
+sg34
+VDoorstep
+p74979
+sa(dp74980
+g86
+I561
+sg34
+VVolume Paa-Pyx
+p74981
+sa(dp74982
+g86
+I111
+sg34
+VThe Drug
+p74983
+sa(dp74984
+g86
+I220
+sg34
+VThe Chasers
+p74985
+sa(dp74986
+g86
+I204
+sg34
+VAuto-Da-Fe
+p74987
+sasbag1
+(g2
+g3
+Ntp74988
+Rp74989
+(dp74990
+g49
+(lp74991
+sg30
+(lp74992
+sg86
+I302
+sg82
+(lp74993
+I2
+asg13
+I1961
+sg34
+VGalaxy Magazine April 1961
+p74994
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v19n04_1961-04/Galaxy_v19n04_1961-04_jp2.zip&file=Galaxy_v19n04_1961-04_jp2/Galaxy_v19n04_1961-04_0000.jp2&scale=0&rotate=0
+p74995
+sg68228
+S'http://www.isfdb.org/wiki/images/8/83/GALAPR1961.jpg'
+p74996
+sg14
+g68230
+sg16
+(lp74997
+sg75
+(lp74998
+I497
+aI419
+aI559
+aI499
+aI562
+aI305
+aI339
+aI483
+aI326
+aI561
+aI384
+aI341
+aI32
+aI211
+aI220
+aI74
+aI400
+aI302
+asg20
+(lp74999
+sg25
+I1084
+sg68234
+(lp75000
+(dp75001
+g86
+I497
+sg34
+VPlaneteer
+p75002
+sa(dp75003
+g86
+I497
+sg34
+VPlaneteer [2]
+p75004
+sa(dp75005
+g86
+I497
+sg34
+VPlaneteer [3]
+p75006
+sa(dp75007
+g86
+I419
+sg34
+VKreativity for Kats
+p75008
+sa(dp75009
+g86
+I419
+sg34
+VScent Makes a Difference
+p75010
+sa(dp75011
+g86
+I419
+sg34
+VScent Makes a Difference [2]
+p75012
+sa(dp75013
+g86
+I419
+sg34
+VI Can Do Anything
+p75014
+sa(dp75015
+g86
+I419
+sg34
+VI Can Do Anything [2]
+p75016
+sa(dp75017
+g86
+I419
+sg34
+VI Can Do Anything [3]
+p75018
+sa(dp75019
+g86
+I559
+sg34
+VHomey Atmosphere
+p75020
+sa(dp75021
+g86
+I559
+sg34
+VHomey Atmosphere [2]
+p75022
+sa(dp75023
+g86
+I499
+sg34
+VAll the People
+p75024
+sa(dp75025
+g86
+I499
+sg34
+VThe Feeling
+p75026
+sa(dp75027
+g86
+I562
+sg34
+VTandy's Story
+p75028
+sa(dp75029
+g86
+I562
+sg34
+VTandy's Story [2]
+p75030
+sa(dp75031
+g86
+I305
+sg34
+VPuzzles for Plotters
+p75032
+sa(dp75033
+g86
+I339
+sg34
+VFor Your Information: The Puzzle Called Gegenschein
+p75034
+sa(dp75035
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, April 1961)
+p75036
+sa(dp75037
+g86
+I326
+sg34
+VForecast (Galaxy, April 1961)
+p75038
+sa(dp75039
+g86
+I561
+sg34
+VPlaneteer
+p75040
+sa(dp75041
+g86
+I384
+sg34
+VI Can Do Anything
+p75042
+sa(dp75043
+g86
+I341
+sg34
+VTandy's Story
+p75044
+sa(dp75045
+g86
+I32
+sg34
+VKreativity for Kats
+p75046
+sa(dp75047
+g86
+I211
+sg34
+VScent Makes a Difference
+p75048
+sa(dp75049
+g86
+I220
+sg34
+VHomey Atmosphere
+p75050
+sa(dp75051
+g86
+I74
+sg34
+VAll the People
+p75052
+sa(dp75053
+g86
+I400
+sg34
+VThe Feeling
+p75054
+sasbag1
+(g2
+g3
+Ntp75055
+Rp75056
+(dp75057
+g49
+(lp75058
+sg30
+(lp75059
+sg86
+I302
+sg82
+(lp75060
+I2
+asg13
+I1961
+sg34
+VGalaxy Magazine June 1961
+p75061
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v19n05_1961-06_modified/Galaxy_v19n05_1961-06_modified_jp2.zip&file=Galaxy_v19n05_1961-06_modified_jp2/Galaxy_v19n05_1961-06_modified_0000.jp2&scale=0&rotate=0
+p75062
+sg68228
+S'http://www.isfdb.org/wiki/images/f/fa/GALJUN1961.jpg'
+p75063
+sg14
+g68230
+sg16
+(lp75064
+sg75
+(lp75065
+I560
+aI504
+aI519
+aI497
+aI563
+aI499
+aI419
+aI564
+aI565
+aI339
+aI326
+aI483
+aI69
+aI479
+aI63
+aI558
+aI40
+aI74
+aI234
+aI30
+aI561
+aI302
+asg20
+(lp75066
+sg25
+I1085
+sg68234
+(lp75067
+(dp75068
+g86
+I560
+sg34
+VFarmer
+p75069
+sa(dp75070
+g86
+I560
+sg34
+VFarmer [2]
+p75071
+sa(dp75072
+g86
+I504
+sg34
+VThe Graybes of Wrath
+p75073
+sa(dp75074
+g86
+I560
+sg34
+VA Gentle Dying
+p75075
+sa(dp75076
+g86
+I519
+sg34
+VThe Weirdest World
+p75077
+sa(dp75078
+g86
+I519
+sg34
+VThe Weirdest World [2]
+p75079
+sa(dp75080
+g86
+I519
+sg34
+VThe Weirdest World [3]
+p75081
+sa(dp75082
+g86
+I497
+sg34
+VMother Hitton's Littul Kittons
+p75083
+sa(dp75084
+g86
+I497
+sg34
+VMother Hitton's Littul Kittons [2]
+p75085
+sa(dp75086
+g86
+I563
+sg34
+VBreakdown
+p75087
+sa(dp75088
+g86
+I563
+sg34
+VBreakdown [2]
+p75089
+sa(dp75090
+g86
+I499
+sg34
+VA-W-F Unlimited
+p75091
+sa(dp75092
+g86
+I499
+sg34
+VA-W-F Unlimited [2]
+p75093
+sa(dp75094
+g86
+I419
+sg34
+VMy Object All Sublime
+p75095
+sa(dp75096
+g86
+I419
+sg34
+VMy Object All Sublime [2]
+p75097
+sa(dp75098
+g86
+I564
+sg34
+VThe Long Way Home
+p75099
+sa(dp75100
+g86
+I564
+sg34
+VThe Long Way Home [2]
+p75101
+sa(dp75102
+g86
+I565
+sg34
+VA Life in the Day of an Editor
+p75103
+sa(dp75104
+g86
+I339
+sg34
+VFor Your Information: The Strait Named After Vitus Bering
+p75105
+sa(dp75106
+g86
+I326
+sg34
+VForecast (Galaxy, June 1961)
+p75107
+sa(dp75108
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1961)
+p75109
+sa(dp75110
+g86
+I69
+sg34
+VFarmer
+p75111
+sa(dp75112
+g86
+I479
+sg34
+VMother Hitton's Littul Kittons
+p75113
+sa(dp75114
+g86
+I63
+sg34
+VA-W-F Unlimited
+p75115
+sa(dp75116
+g86
+I558
+sg34
+VThe Graybes of Wrath
+p75117
+sa(dp75118
+g86
+I40
+sg34
+VA Gentle Dying
+p75119
+sa(dp75120
+g86
+I74
+sg34
+VThe Weirdest World
+p75121
+sa(dp75122
+g86
+I234
+sg34
+VBreakdown
+p75123
+sa(dp75124
+g86
+I30
+sg34
+VMy Object All Sublime
+p75125
+sa(dp75126
+g86
+I561
+sg34
+VThe Long Way Home
+p75127
+sasbag1
+(g2
+g3
+Ntp75128
+Rp75129
+(dp75130
+g49
+(lp75131
+sg30
+(lp75132
+sg86
+I302
+sg82
+(lp75133
+I2
+asg13
+I1961
+sg34
+VGalaxy Magazine August 1961
+p75134
+sg11
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v19n06_1961-08/Galaxy_v19n06_1961-08_jp2.zip&file=Galaxy_v19n06_1961-08_jp2/Galaxy_v19n06_1961-08_0000.jp2&scale=0&rotate=0
+p75135
+sg68228
+S'http://www.isfdb.org/wiki/images/2/2c/GALAUG1961.jpg'
+p75136
+sg14
+g68230
+sg16
+(lp75137
+sg75
+(lp75138
+I488
+aI504
+aI564
+aI562
+aI560
+aI497
+aI363
+aI419
+aI565
+aI326
+aI339
+aI483
+aI384
+aI67
+aI89
+aI566
+aI423
+aI192
+aI74
+aI142
+aI59
+aI356
+aI567
+aI302
+asg20
+(lp75139
+sg25
+I1086
+sg68234
+(lp75140
+(dp75141
+g86
+I488
+sg34
+VThe Gatekeepers
+p75142
+sa(dp75143
+g86
+I488
+sg34
+VThe Gatekeepers [2]
+p75144
+sa(dp75145
+g86
+I504
+sg34
+VLochinvar
+p75146
+sa(dp75147
+g86
+I564
+sg34
+VThe God Next Door
+p75148
+sa(dp75149
+g86
+I564
+sg34
+VThe God Next Door [2]
+p75150
+sa(dp75151
+g86
+I562
+sg34
+VAloys
+p75152
+sa(dp75153
+g86
+I562
+sg34
+VAloys [2]
+p75154
+sa(dp75155
+g86
+I562
+sg34
+VThe Air of Castor Oil
+p75156
+sa(dp75157
+g86
+I562
+sg34
+VThe Air of Castor Oil [2]
+p75158
+sa(dp75159
+g86
+I560
+sg34
+VThe Stuff
+p75160
+sa(dp75161
+g86
+I497
+sg34
+VThe King of the City
+p75162
+sa(dp75163
+g86
+I497
+sg34
+VThe King of the City [2]
+p75164
+sa(dp75165
+g86
+I363
+sg34
+VThe Deep Down Dragon
+p75166
+sa(dp75167
+g86
+I419
+sg34
+VThe Moon Moth
+p75168
+sa(dp75169
+g86
+I419
+sg34
+VThe Moon Moth [2]
+p75170
+sa(dp75171
+g86
+I419
+sg34
+VThe Moon Moth [3]
+p75172
+sa(dp75173
+g86
+I565
+sg34
+VNotes From an Editor's Pad
+p75174
+sa(dp75175
+g86
+I326
+sg34
+VForecast (Galaxy, August 1961)
+p75176
+sa(dp75177
+g86
+I339
+sg34
+VFor Your Information: The Man I Didn't Meet
+p75178
+sa(dp75179
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1961)
+p75180
+sa(dp75181
+g86
+I384
+sg34
+VThe Gatekeepers
+p75182
+sa(dp75183
+g86
+I67
+sg34
+VThe King of the City
+p75184
+sa(dp75185
+g86
+I89
+sg34
+VThe Moon Moth
+p75186
+sa(dp75187
+g86
+I566
+sg34
+VExtraterrestrial Trilogue On Terran Self-Destruction
+p75188
+sa(dp75189
+g86
+I423
+sg34
+VLochinvar
+p75190
+sa(dp75191
+g86
+I192
+sg34
+VThe God Next Door
+p75192
+sa(dp75193
+g86
+I74
+sg34
+VAloys
+p75194
+sa(dp75195
+g86
+I142
+sg34
+VThe Air of Castor Oil
+p75196
+sa(dp75197
+g86
+I59
+sg34
+VThe Stuff
+p75198
+sa(dp75199
+g86
+I356
+sg34
+VReturn Engagement
+p75200
+sa(dp75201
+g86
+I567
+sg34
+VThe Deep Down Dragon
+p75202
+sasbag1
+(g2
+g3
+Ntp75203
+Rp75204
+(dp75205
+g49
+(lp75206
+sg30
+(lp75207
+sg86
+I302
+sg82
+(lp75208
+I2
+asg13
+I1961
+sg34
+VGalaxy Magazine October 1961
+p75209
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v20n01_1961-10/Galaxy_v20n01_1961-10_jp2.zip&file=Galaxy_v20n01_1961-10_jp2/Galaxy_v20n01_1961-10_0000.jp2&scale=0&rotate=0
+p75210
+sg68228
+S'http://www.isfdb.org/wiki/images/8/88/GALOCT1961.jpg'
+p75211
+sg14
+g68230
+sg16
+(lp75212
+sg75
+(lp75213
+I497
+aI556
+aI419
+aI568
+aI488
+aI565
+aI339
+aI326
+aI483
+aI479
+aI40
+aI205
+aI168
+aI45
+aI95
+aI63
+aI32
+aI302
+asg20
+(lp75214
+sg25
+I1087
+sg68234
+(lp75215
+(dp75216
+g86
+I497
+sg34
+VA Planet Named Shayol
+p75217
+sa(dp75218
+g86
+I497
+sg34
+VA Planet Named Shayol [2]
+p75219
+sa(dp75220
+g86
+I556
+sg34
+VCrime Machine
+p75221
+sa(dp75222
+g86
+I556
+sg34
+VCrime Machine [2]
+p75223
+sa(dp75224
+g86
+I419
+sg34
+VThe Abominable Earthman
+p75225
+sa(dp75226
+g86
+I419
+sg34
+VMating Call
+p75227
+sa(dp75228
+g86
+I568
+sg34
+VArcturus Times Three
+p75229
+sa(dp75230
+g86
+I568
+sg34
+VArcturus Times Three [2]
+p75231
+sa(dp75232
+g86
+I419
+sg34
+VThe Beat Cluster
+p75233
+sa(dp75234
+g86
+I488
+sg34
+VThe Spy in the Elevator
+p75235
+sa(dp75236
+g86
+I488
+sg34
+VThe Spy in the Elevator [2]
+p75237
+sa(dp75238
+g86
+I565
+sg34
+VHow Much Is Enough?
+p75239
+sa(dp75240
+g86
+I339
+sg34
+VFor Your Information: The Home-Made Land
+p75241
+sa(dp75242
+g86
+I326
+sg34
+VForecast (Galaxy, October 1961)
+p75243
+sa(dp75244
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1961)
+p75245
+sa(dp75246
+g86
+I479
+sg34
+VA Planet Named Shayol
+p75247
+sa(dp75248
+g86
+I40
+sg34
+VThe Abominable Earthman
+p75249
+sa(dp75250
+g86
+I205
+sg34
+VArcturus Times Three
+p75251
+sa(dp75252
+g86
+I168
+sg34
+VThe Spy in the Elevator
+p75253
+sa(dp75254
+g86
+I45
+sg34
+VCrime Machine
+p75255
+sa(dp75256
+g86
+I95
+sg34
+VAmateur in Chancery
+p75257
+sa(dp75258
+g86
+I63
+sg34
+VMating Call
+p75259
+sa(dp75260
+g86
+I32
+sg34
+VThe Beat Cluster
+p75261
+sasbag1
+(g2
+g3
+Ntp75262
+Rp75263
+(dp75264
+g49
+(lp75265
+sg30
+(lp75266
+sg86
+I302
+sg82
+(lp75267
+I2
+asg13
+I1961
+sg34
+VGalaxy Magazine December 1961
+p75268
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v20n02_1961-12_modified/Galaxy_v20n02_1961-12_modified_jp2.zip&file=Galaxy_v20n02_1961-12_modified_jp2/Galaxy_v20n02_1961-12_modified_0000.jp2&scale=0&rotate=0
+p75269
+sg68228
+S'http://www.isfdb.org/wiki/images/0/07/GALDEC1961.jpg'
+p75270
+sg14
+g68230
+sg16
+(lp75271
+sg75
+(lp75272
+I497
+aI519
+aI499
+aI419
+aI562
+aI556
+aI565
+aI339
+aI483
+aI569
+aI326
+aI91
+aI423
+aI30
+aI470
+aI257
+aI74
+aI554
+aI302
+asg20
+(lp75273
+sg25
+I1088
+sg68234
+(lp75274
+(dp75275
+g86
+I497
+sg34
+VThe Day After Doomsday (Part 1 of 2)
+p75276
+sa(dp75277
+g86
+I497
+sg34
+VThe Day After Doomsday (Part 1 of 2) [2]
+p75278
+sa(dp75279
+g86
+I497
+sg34
+VThe Day After Doomsday (Part 1 of 2) [3]
+p75280
+sa(dp75281
+g86
+I519
+sg34
+VOh, Rats!
+p75282
+sa(dp75283
+g86
+I519
+sg34
+VOh, Rats! [2]
+p75284
+sa(dp75285
+g86
+I499
+sg34
+VSatisfaction Guaranteed
+p75286
+sa(dp75287
+g86
+I419
+sg34
+VWall of Crystal, Eye of Night
+p75288
+sa(dp75289
+g86
+I419
+sg34
+VWall of Crystal, Eye of Night [2]
+p75290
+sa(dp75291
+g86
+I562
+sg34
+VRainbird
+p75292
+sa(dp75293
+g86
+I497
+sg34
+VAn Old Fashioned Bird Christmas
+p75294
+sa(dp75295
+g86
+I556
+sg34
+VThe Watery Wonders of Captain Nemo
+p75296
+sa(dp75297
+g86
+I562
+sg34
+VThe Little Man Who Wasn't Quite
+p75298
+sa(dp75299
+g86
+I565
+sg34
+VWay Out There
+p75300
+sa(dp75301
+g86
+I339
+sg34
+VFor Your Information: Dragons and Hot-Air Balloons
+p75302
+sa(dp75303
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, December 1961)
+p75304
+sa(dp75305
+g86
+I569
+sg34
+VThe Watery Wonders of Captain Nemo
+p75306
+sa(dp75307
+g86
+I326
+sg34
+VForecast (Galaxy, December 1961)
+p75308
+sa(dp75309
+g86
+I91
+sg34
+VWall of Crystal, Eye of Night
+p75310
+sa(dp75311
+g86
+I423
+sg34
+VAn Old Fashioned Bird Christmas
+p75312
+sa(dp75313
+g86
+I30
+sg34
+VThe Day After Doomsday (Part 1 of 2)
+p75314
+sa(dp75315
+g86
+I470
+sg34
+VOh, Rats!
+p75316
+sa(dp75317
+g86
+I257
+sg34
+VSatisfaction Guaranteed
+p75318
+sa(dp75319
+g86
+I74
+sg34
+VRainbird
+p75320
+sa(dp75321
+g86
+I554
+sg34
+VThe Little Man Who Wasn't Quite
+p75322
+sasbag1
+(g2
+g3
+Ntp75323
+Rp75324
+(dp75325
+g49
+(lp75326
+sg30
+(lp75327
+sg86
+I302
+sg82
+(lp75328
+I2
+asg13
+I1962
+sg34
+VGalaxy Magazine April 1962
+p75329
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v20n04_1962-04/Galaxy_v20n04_1962-04_jp2.zip&file=Galaxy_v20n04_1962-04_jp2/Galaxy_v20n04_1962-04_0000.jp2&scale=0&rotate=0
+p75330
+sg68228
+S'http://www.isfdb.org/wiki/images/5/51/GALAPR1962.jpg'
+p75331
+sg14
+g68230
+sg16
+(lp75332
+sg75
+(lp75333
+I497
+aI419
+aI560
+aI570
+aI571
+aI565
+aI339
+aI326
+aI86
+aI507
+aI514
+aI554
+aI572
+aI179
+aI542
+aI302
+asg20
+(lp75334
+sg25
+I1089
+sg68234
+(lp75335
+(dp75336
+g86
+I497
+sg34
+VA Planet for Plundering
+p75337
+sa(dp75338
+g86
+I497
+sg34
+VA Planet for Plundering [2]
+p75339
+sa(dp75340
+g86
+I419
+sg34
+VThe Tail-Tied Kings
+p75341
+sa(dp75342
+g86
+I560
+sg34
+VStar-Crossed Lover
+p75343
+sa(dp75344
+g86
+I570
+sg34
+VBig Ba
+p75345
+sa(dp75346
+g86
+I571
+sg34
+VBig Ba
+p75347
+sa(dp75348
+g86
+I560
+sg34
+VFounding Father
+p75349
+sa(dp75350
+g86
+I560
+sg34
+VFounding Father [2]
+p75351
+sa(dp75352
+g86
+I560
+sg34
+VFounding Father [3]
+p75353
+sa(dp75354
+g86
+I419
+sg34
+VMoon Dog
+p75355
+sa(dp75356
+g86
+I565
+sg34
+VFootnotes Up Front
+p75357
+sa(dp75358
+g86
+I339
+sg34
+VFor Your Information: The Shape of Shells to Come
+p75359
+sa(dp75360
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, April 1962) (Circulation: 91,000)
+p75361
+sa(dp75362
+g86
+I326
+sg34
+VForecast (Galaxy, April 1962)
+p75363
+sa(dp75364
+g86
+I86
+sg34
+VA Planet for Plundering
+p75365
+sa(dp75366
+g86
+I507
+sg34
+VFounding Father
+p75367
+sa(dp75368
+g86
+I514
+sg34
+VThe Tail-Tied Kings
+p75369
+sa(dp75370
+g86
+I554
+sg34
+VStar-Crossed Lover
+p75371
+sa(dp75372
+g86
+I572
+sg34
+VThe Long, Silvery Day
+p75373
+sa(dp75374
+g86
+I179
+sg34
+VGourmet
+p75375
+sa(dp75376
+g86
+I542
+sg34
+VMoon Dog
+p75377
+sasbag1
+(g2
+g3
+Ntp75378
+Rp75379
+(dp75380
+g49
+(lp75381
+sg30
+(lp75382
+sg86
+I302
+sg82
+(lp75383
+I2
+asg13
+I1962
+sg34
+VGalaxy Magazine June 1962
+p75384
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v20n05_1962-06/Galaxy_v20n05_1962-06_jp2.zip&file=Galaxy_v20n05_1962-06_jp2/Galaxy_v20n05_1962-06_0000.jp2&scale=0&rotate=0
+p75385
+sg68228
+S'http://www.isfdb.org/wiki/images/a/af/GALJUN1962.jpg'
+p75386
+sg14
+g68230
+sg16
+(lp75387
+sg75
+(lp75388
+I488
+aI419
+aI573
+aI574
+aI564
+aI499
+aI551
+aI40
+aI339
+aI326
+aI483
+aI91
+aI55
+aI50
+aI196
+aI158
+aI401
+aI74
+aI302
+asg20
+(lp75389
+sg25
+I1090
+sg68234
+(lp75390
+(dp75391
+g86
+I488
+sg34
+VFor Love
+p75392
+sa(dp75393
+g86
+I419
+sg34
+VThe Lamps of the Angels
+p75394
+sa(dp75395
+g86
+I573
+sg34
+VOn the Wall of the Lodge
+p75396
+sa(dp75397
+g86
+I573
+sg34
+VOn the Wall of the Lodge [2]
+p75398
+sa(dp75399
+g86
+I574
+sg34
+VDawningsburgh
+p75400
+sa(dp75401
+g86
+I564
+sg34
+VOrigins of Galactic Philosophy
+p75402
+sa(dp75403
+g86
+I564
+sg34
+VOrigins of Galactic Philosophy [2]
+p75404
+sa(dp75405
+g86
+I499
+sg34
+VDreamworld
+p75406
+sa(dp75407
+g86
+I551
+sg34
+VThe Seed of Earth
+p75408
+sa(dp75409
+g86
+I551
+sg34
+VThe Seed of Earth [2]
+p75410
+sa(dp75411
+g86
+I551
+sg34
+VThe Seed of Earth [3]
+p75412
+sa(dp75413
+g86
+I40
+sg34
+VThe Deadly Mission of Phineas Snodgrass
+p75414
+sa(dp75415
+g86
+I339
+sg34
+VFor Your Information: Names in the Sky
+p75416
+sa(dp75417
+g86
+I326
+sg34
+VForecast (Galaxy, June 1962)
+p75418
+sa(dp75419
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1962)
+p75420
+sa(dp75421
+g86
+I91
+sg34
+VFor Love
+p75422
+sa(dp75423
+g86
+I55
+sg34
+VOn the Wall of the Lodge
+p75424
+sa(dp75425
+g86
+I50
+sg34
+VThe Seed of Earth
+p75426
+sa(dp75427
+g86
+I196
+sg34
+VThe Lamps of the Angels
+p75428
+sa(dp75429
+g86
+I158
+sg34
+VDawningsburgh
+p75430
+sa(dp75431
+g86
+I401
+sg34
+VOrigins of Galactic Philosophy
+p75432
+sa(dp75433
+g86
+I74
+sg34
+VDreamworld
+p75434
+sasbag1
+(g2
+g3
+Ntp75435
+Rp75436
+(dp75437
+g49
+(lp75438
+sg30
+(lp75439
+sg86
+I302
+sg82
+(lp75440
+I2
+asg13
+I1962
+sg34
+VGalaxy Magazine August 1962
+p75441
+sg11
+Vhttps://ia601003.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v20n06_1962-08/Galaxy_v20n06_1962-08_jp2.zip&file=Galaxy_v20n06_1962-08_jp2/Galaxy_v20n06_1962-08_0000.jp2&scale=0&rotate=0
+p75442
+sg68228
+S'http://www.isfdb.org/wiki/images/a/a1/GALAUG1962.jpg'
+p75443
+sg14
+g68230
+sg16
+(lp75444
+sg75
+(lp75445
+I499
+aI568
+aI560
+aI40
+aI326
+aI339
+aI95
+aI483
+aI575
+aI89
+aI229
+aI205
+aI142
+aI302
+asg20
+(lp75446
+sg25
+I1091
+sg68234
+(lp75447
+(dp75448
+g86
+I499
+sg34
+VThe Dragon Masters
+p75449
+sa(dp75450
+g86
+I499
+sg34
+VThe Dragon Masters [2]
+p75451
+sa(dp75452
+g86
+I499
+sg34
+VThe Dragon Masters [3]
+p75453
+sa(dp75454
+g86
+I499
+sg34
+VThe Dragon Masters [4]
+p75455
+sa(dp75456
+g86
+I499
+sg34
+VThe Dragon Masters [5]
+p75457
+sa(dp75458
+g86
+I499
+sg34
+VThe Dragon Masters [6]
+p75459
+sa(dp75460
+g86
+I499
+sg34
+VThe Dragon Masters [7]
+p75461
+sa(dp75462
+g86
+I499
+sg34
+VThe Dragon Masters [8]
+p75463
+sa(dp75464
+g86
+I499
+sg34
+VThe Dragon Masters [9]
+p75465
+sa(dp75466
+g86
+I499
+sg34
+VThe Dragon Masters [10]
+p75467
+sa(dp75468
+g86
+I568
+sg34
+VA Matter of Protocol
+p75469
+sa(dp75470
+g86
+I560
+sg34
+VAlways a Qurono
+p75471
+sa(dp75472
+g86
+I560
+sg34
+VOne Race Show
+p75473
+sa(dp75474
+g86
+I560
+sg34
+VOne Race Show [2]
+p75475
+sa(dp75476
+g86
+I40
+sg34
+VWhich Way Is Progress?
+p75477
+sa(dp75478
+g86
+I326
+sg34
+VForecast (Galaxy, August 1962)
+p75479
+sa(dp75480
+g86
+I339
+sg34
+VFor Your Information: Rotating Luminous Wheels in the Sea
+p75481
+sa(dp75482
+g86
+I95
+sg34
+VThe Luck of Magnitudes
+p75483
+sa(dp75484
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, August 1962)
+p75485
+sa(dp75486
+g86
+I575
+sg34
+VOne Race Show
+p75487
+sa(dp75488
+g86
+I89
+sg34
+VThe Dragon Masters
+p75489
+sa(dp75490
+g86
+I229
+sg34
+VHandyman
+p75491
+sa(dp75492
+g86
+I205
+sg34
+VA Matter of Protocol
+p75493
+sa(dp75494
+g86
+I40
+sg34
+VThree Portraits and a Prayer
+p75495
+sa(dp75496
+g86
+I142
+sg34
+VAlways a Qurono
+p75497
+sasbag1
+(g2
+g3
+Ntp75498
+Rp75499
+(dp75500
+g49
+(lp75501
+sg30
+(lp75502
+sg86
+I302
+sg82
+(lp75503
+I2
+asg13
+I1962
+sg34
+VGalaxy Magazine October 1962
+p75504
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v21n01_1962-10/Galaxy_v21n01_1962-10_jp2.zip&file=Galaxy_v21n01_1962-10_jp2/Galaxy_v21n01_1962-10_0000.jp2&scale=0&rotate=0
+p75505
+sg68228
+S'http://www.isfdb.org/wiki/images/9/97/GALOCT1962.jpg'
+p75506
+sg14
+g68230
+sg16
+(lp75507
+sg75
+(lp75508
+I497
+aI576
+aI488
+aI560
+aI568
+aI40
+aI339
+aI326
+aI483
+aI479
+aI168
+aI18
+aI192
+aI142
+aI423
+aI577
+aI315
+aI302
+asg20
+(lp75509
+sg25
+I1092
+sg68234
+(lp75510
+(dp75511
+g86
+I497
+sg34
+VThe Ballad of Lost C'mell
+p75512
+sa(dp75513
+g86
+I497
+sg34
+VThe Ballad of Lost C'mell [2]
+p75514
+sa(dp75515
+g86
+I576
+sg34
+VThe Earthman's Burden
+p75516
+sa(dp75517
+g86
+I576
+sg34
+VThe Earthman's Burden [2]
+p75518
+sa(dp75519
+g86
+I488
+sg34
+VA City Near Centaurus
+p75520
+sa(dp75521
+g86
+I488
+sg34
+VHow to Make Friends
+p75522
+sa(dp75523
+g86
+I488
+sg34
+VHow to Make Friends [2]
+p75524
+sa(dp75525
+g86
+I560
+sg34
+VPlague of Pythons (Part 1 of 2)
+p75526
+sa(dp75527
+g86
+I560
+sg34
+VPlague of Pythons (Part 1 of 2) [2]
+p75528
+sa(dp75529
+g86
+I560
+sg34
+VPlague of Pythons (Part 1 of 2) [3]
+p75530
+sa(dp75531
+g86
+I560
+sg34
+VRoberta
+p75532
+sa(dp75533
+g86
+I568
+sg34
+VWho Dares a Bulbur Eat?
+p75534
+sa(dp75535
+g86
+I568
+sg34
+VWho Dares a Bulbur Eat? [2]
+p75536
+sa(dp75537
+g86
+I40
+sg34
+VThe Business of Being Bad
+p75538
+sa(dp75539
+g86
+I339
+sg34
+VFor Your Information: The End of the Jet Age
+p75540
+sa(dp75541
+g86
+I326
+sg34
+VForecast (Galaxy, October 1962)
+p75542
+sa(dp75543
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1962)
+p75544
+sa(dp75545
+g86
+I479
+sg34
+VThe Ballad of Lost C'mell
+p75546
+sa(dp75547
+g86
+I168
+sg34
+VThe Earthman's Burden
+p75548
+sa(dp75549
+g86
+I40
+sg34
+VPlague of Pythons (Part 1 of 2)
+p75550
+sa(dp75551
+g86
+I18
+sg34
+VCome Into My Cellar
+p75552
+sa(dp75553
+g86
+I192
+sg34
+VA City Near Centaurus
+p75554
+sa(dp75555
+g86
+I142
+sg34
+VHow to Make Friends
+p75556
+sa(dp75557
+g86
+I423
+sg34
+VRoberta
+p75558
+sa(dp75559
+g86
+I577
+sg34
+VBimmie Says
+p75560
+sa(dp75561
+g86
+I315
+sg34
+VWho Dares a Bulbur Eat?
+p75562
+sasbag1
+(g2
+g3
+Ntp75563
+Rp75564
+(dp75565
+g49
+(lp75566
+sg30
+(lp75567
+sg86
+I302
+sg82
+(lp75568
+I2
+asg13
+I1962
+sg34
+VGalaxy Magazine December 1962
+p75569
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v21n02_1962.12/Galaxy_v21n02_1962.12_jp2.zip&file=Galaxy_v21n02_1962.12_jp2/Galaxy_v21n02_1962.12_0000.jp2&scale=0&rotate=0
+p75570
+sg68228
+S'http://www.isfdb.org/wiki/images/e/e4/GALDEC1962.jpg'
+p75571
+sg14
+g68230
+sg16
+(lp75572
+sg75
+(lp75573
+I519
+aI499
+aI578
+aI560
+aI40
+aI326
+aI579
+aI339
+aI483
+aI32
+aI194
+aI514
+aI229
+aI74
+aI215
+aI302
+asg20
+(lp75574
+sg25
+I1093
+sg68234
+(lp75575
+(dp75576
+g86
+I519
+sg34
+VThe Creature From Cleveland Depths
+p75577
+sa(dp75578
+g86
+I519
+sg34
+VThe Creature From Cleveland Depths [2]
+p75579
+sa(dp75580
+g86
+I519
+sg34
+VThe Creature From Cleveland Depths [3]
+p75581
+sa(dp75582
+g86
+I499
+sg34
+VDr. Morris Goldpepper Returns
+p75583
+sa(dp75584
+g86
+I578
+sg34
+VGeneral Max Shorter
+p75585
+sa(dp75586
+g86
+I560
+sg34
+VSodom and Gomorrah, Texas
+p75587
+sa(dp75588
+g86
+I560
+sg34
+VPlague of Pythons (Part 2 of 2)
+p75589
+sa(dp75590
+g86
+I560
+sg34
+VPlague of Pythons (Part 2 of 2) [2]
+p75591
+sa(dp75592
+g86
+I560
+sg34
+VPlague of Pythons (Part 2 of 2) [3]
+p75593
+sa(dp75594
+g86
+I560
+sg34
+VPlague of Pythons (Part 2 of 2) [4]
+p75595
+sa(dp75596
+g86
+I40
+sg34
+VOpportunity Knocked - but No One Was Home
+p75597
+sa(dp75598
+g86
+I326
+sg34
+VForecast (Galaxy, December 1962)
+p75599
+sa(dp75600
+g86
+I579
+sg34
+VPluto, Doorway to the Stars
+p75601
+sa(dp75602
+g86
+I339
+sg34
+VFor Your Information: Are We Going to Build a Space Station?
+p75603
+sa(dp75604
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, December 1962)
+p75605
+sa(dp75606
+g86
+I32
+sg34
+VThe Creature From Cleveland Depths
+p75607
+sa(dp75608
+g86
+I194
+sg34
+VGeneral Max Shorter
+p75609
+sa(dp75610
+g86
+I40
+sg34
+VPlague of Pythons (Part 2 of 2)
+p75611
+sa(dp75612
+g86
+I514
+sg34
+VDr. Morris Goldpepper Returns
+p75613
+sa(dp75614
+g86
+I229
+sg34
+VDroozle
+p75615
+sa(dp75616
+g86
+I74
+sg34
+VSodom and Gomorrah, Texas
+p75617
+sa(dp75618
+g86
+I215
+sg34
+VThe Glory of Ippling
+p75619
+sasbag1
+(g2
+g3
+Ntp75620
+Rp75621
+(dp75622
+g49
+(lp75623
+sg30
+(lp75624
+sg86
+I302
+sg82
+(lp75625
+I2
+asg13
+I1963
+sg34
+VGalaxy Magazine April 1963
+p75626
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v21n04_1963-04/Galaxy_v21n04_1963-04_jp2.zip&file=Galaxy_v21n04_1963-04_jp2/Galaxy_v21n04_1963-04_0000.jp2&scale=0&rotate=0
+p75627
+sg68228
+S'http://www.isfdb.org/wiki/images/7/74/GALAPR1963.jpg'
+p75628
+sg14
+g68230
+sg16
+(lp75629
+sg75
+(lp75630
+I363
+aI580
+aI497
+aI551
+aI40
+aI339
+aI326
+aI483
+aI569
+aI194
+aI204
+aI572
+aI507
+aI302
+asg20
+(lp75631
+sg25
+I1094
+sg68234
+(lp75632
+(dp75633
+g86
+I363
+sg34
+VThe Visitor at the Zoo
+p75634
+sa(dp75635
+g86
+I363
+sg34
+VThe Visitor at the Zoo [2]
+p75636
+sa(dp75637
+g86
+I363
+sg34
+VThe Visitor at the Zoo [3]
+p75638
+sa(dp75639
+g86
+I363
+sg34
+VThe Visitor at the Zoo [4]
+p75640
+sa(dp75641
+g86
+I363
+sg34
+VThe Visitor at the Zoo [5]
+p75642
+sa(dp75643
+g86
+I363
+sg34
+VThe Visitor at the Zoo [6]
+p75644
+sa(dp75645
+g86
+I363
+sg34
+VThe Visitor at the Zoo [7]
+p75646
+sa(dp75647
+g86
+I363
+sg34
+VThe Visitor at the Zoo [8]
+p75648
+sa(dp75649
+g86
+I363
+sg34
+VThe Visitor at the Zoo [9]
+p75650
+sa(dp75651
+g86
+I580
+sg34
+VThe Lonely Man
+p75652
+sa(dp75653
+g86
+I497
+sg34
+VOn the Fourth Planet
+p75654
+sa(dp75655
+g86
+I551
+sg34
+VVoyage to Far N'jurd
+p75656
+sa(dp75657
+g86
+I40
+sg34
+VDramatis Personae
+p75658
+sa(dp75659
+g86
+I339
+sg34
+VFor Your Information: Too Much Imagination
+p75660
+sa(dp75661
+g86
+I326
+sg34
+VForecast (Galaxy, April 1963)
+p75662
+sa(dp75663
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, April 1963)
+p75664
+sa(dp75665
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, April 1963) (Circulation: 92,000)
+p75666
+sa(dp75667
+g86
+I569
+sg34
+VThe Lonely Man
+p75668
+sa(dp75669
+g86
+I194
+sg34
+VVoyage to Far N'jurd
+p75670
+sa(dp75671
+g86
+I204
+sg34
+VThe Visitor at the Zoo
+p75672
+sa(dp75673
+g86
+I572
+sg34
+VMy Lady Selene
+p75674
+sa(dp75675
+g86
+I507
+sg34
+VOn the Fourth Planet
+p75676
+sasbag1
+(g2
+g3
+Ntp75677
+Rp75678
+(dp75679
+g49
+(lp75680
+sg30
+(lp75681
+sg86
+I302
+sg82
+(lp75682
+I2
+asg13
+I1963
+sg34
+VGalaxy Magazine June 1963
+p75683
+sg11
+Vhttps://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v21n05_1963-06/Galaxy_v21n05_1963-06_jp2.zip&file=Galaxy_v21n05_1963-06_jp2/Galaxy_v21n05_1963-06_0000.jp2&scale=0&rotate=0
+p75684
+sg68228
+S'http://www.isfdb.org/wiki/images/2/2c/GALJUN1963.jpg'
+p75685
+sg14
+g68230
+sg16
+(lp75686
+sg75
+(lp75687
+I519
+aI581
+aI568
+aI497
+aI582
+aI40
+aI339
+aI483
+aI326
+aI67
+aI575
+aI56
+aI278
+aI315
+aI302
+asg20
+(lp75688
+sg25
+I1095
+sg68234
+(lp75689
+(dp75690
+g86
+I519
+sg34
+VHere Gather the Stars (Part 1 of 2)
+p75691
+sa(dp75692
+g86
+I519
+sg34
+VHere Gather the Stars (Part 1 of 2) [2]
+p75693
+sa(dp75694
+g86
+I519
+sg34
+VHere Gather the Stars (Part 1 of 2) [3]
+p75695
+sa(dp75696
+g86
+I519
+sg34
+VHere Gather the Stars (Part 1 of 2) [4]
+p75697
+sa(dp75698
+g86
+I519
+sg34
+VHere Gather the Stars (Part 1 of 2) [5]
+p75699
+sa(dp75700
+g86
+I581
+sg34
+VThe Cool War
+p75701
+sa(dp75702
+g86
+I568
+sg34
+VEnd As a Hero
+p75703
+sa(dp75704
+g86
+I568
+sg34
+VEnd As a Hero [2]
+p75705
+sa(dp75706
+g86
+I497
+sg34
+VThe Faithful Wilf
+p75707
+sa(dp75708
+g86
+I497
+sg34
+VThe Faithful Wilf [2]
+p75709
+sa(dp75710
+g86
+I497
+sg34
+VThe Faithful Wilf [3]
+p75711
+sa(dp75712
+g86
+I497
+sg34
+VThe Faithful Wilf [4]
+p75713
+sa(dp75714
+g86
+I497
+sg34
+VThe Faithful Wilf [5]
+p75715
+sa(dp75716
+g86
+I497
+sg34
+VThe Faithful Wilf [6]
+p75717
+sa(dp75718
+g86
+I582
+sg34
+VThe Sellers of the Dream
+p75719
+sa(dp75720
+g86
+I582
+sg34
+VThe Sellers of the Dream [2]
+p75721
+sa(dp75722
+g86
+I40
+sg34
+VOf Worms and Men
+p75723
+sa(dp75724
+g86
+I339
+sg34
+VFor Your Information: Sounding Rockets and Geoprobes
+p75725
+sa(dp75726
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, June 1963)
+p75727
+sa(dp75728
+g86
+I326
+sg34
+VForecast (Galaxy, June 1963)
+p75729
+sa(dp75730
+g86
+I67
+sg34
+VEnd As a Hero
+p75731
+sa(dp75732
+g86
+I575
+sg34
+VThe Sellers of the Dream
+p75733
+sa(dp75734
+g86
+I56
+sg34
+VHere Gather the Stars (Part 1 of 2)
+p75735
+sa(dp75736
+g86
+I278
+sg34
+VThe Cool War
+p75737
+sa(dp75738
+g86
+I315
+sg34
+VThe Faithful Wilf
+p75739
+sasbag1
+(g2
+g3
+Ntp75740
+Rp75741
+(dp75742
+g49
+(lp75743
+sg30
+(lp75744
+sg86
+I302
+sg82
+(lp75745
+I2
+asg13
+I1963
+sg34
+VGalaxy Magazine August 1963
+p75746
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v21n06_1963-08/Galaxy_v21n06_1963-08_jp2.zip&file=Galaxy_v21n06_1963-08_jp2/Galaxy_v21n06_1963-08_0000.jp2&scale=0&rotate=0
+p75747
+sg68228
+S'http://www.isfdb.org/wiki/images/3/34/GALAUG1963.jpg'
+p75748
+sg14
+g68230
+sg16
+(lp75749
+sg75
+(lp75750
+I497
+aI519
+aI551
+aI581
+aI556
+aI40
+aI339
+aI326
+aI341
+aI583
+aI56
+aI70
+aI143
+aI356
+aI50
+aI192
+aI302
+asg20
+(lp75751
+sg25
+I1096
+sg68234
+(lp75752
+(dp75753
+g86
+I497
+sg34
+VHot Planet
+p75754
+sa(dp75755
+g86
+I497
+sg34
+VHot Planet [2]
+p75756
+sa(dp75757
+g86
+I497
+sg34
+VHot Planet [3]
+p75758
+sa(dp75759
+g86
+I497
+sg34
+VHot Planet [4]
+p75760
+sa(dp75761
+g86
+I519
+sg34
+VThe Great Nebraska Sea
+p75762
+sa(dp75763
+g86
+I519
+sg34
+VThe Great Nebraska Sea [2]
+p75764
+sa(dp75765
+g86
+I519
+sg34
+VThe Great Nebraska Sea [3]
+p75766
+sa(dp75767
+g86
+I519
+sg34
+VThe Great Nebraska Sea [4]
+p75768
+sa(dp75769
+g86
+I551
+sg34
+VThe Problem Makers
+p75770
+sa(dp75771
+g86
+I551
+sg34
+VThe Problem Makers [2]
+p75772
+sa(dp75773
+g86
+I581
+sg34
+VThe Pain Peddlers
+p75774
+sa(dp75775
+g86
+I519
+sg34
+VHere Gather the Stars (Part 2 of 2)
+p75776
+sa(dp75777
+g86
+I519
+sg34
+VHere Gather the Stars (Part 2 of 2) [2]
+p75778
+sa(dp75779
+g86
+I519
+sg34
+VHere Gather the Stars (Part 2 of 2) [3]
+p75780
+sa(dp75781
+g86
+I519
+sg34
+VHere Gather the Stars (Part 2 of 2) [4]
+p75782
+sa(dp75783
+g86
+I556
+sg34
+VThe Birds of Lorrane
+p75784
+sa(dp75785
+g86
+I556
+sg34
+VThe Birds of Lorrane [2]
+p75786
+sa(dp75787
+g86
+I40
+sg34
+VSpacewar, 1963
+p75788
+sa(dp75789
+g86
+I339
+sg34
+VFor Your Information (Galaxy, August 1963)
+p75790
+sa(dp75791
+g86
+I326
+sg34
+VForecast (Galaxy, August 1963)
+p75792
+sa(dp75793
+g86
+I341
+sg34
+VGalaxy's 5 Star Shelf: The Immense and the Outrageous
+p75794
+sa(dp75795
+g86
+I583
+sg34
+VThe Problem Makers
+p75796
+sa(dp75797
+g86
+I56
+sg34
+VHere Gather the Stars (Part 2 of 2)
+p75798
+sa(dp75799
+g86
+I70
+sg34
+VHot Planet
+p75800
+sa(dp75801
+g86
+I143
+sg34
+VThe Great Nebraska Sea
+p75802
+sa(dp75803
+g86
+I356
+sg34
+VEarthbound
+p75804
+sa(dp75805
+g86
+I50
+sg34
+VThe Pain Peddlers
+p75806
+sa(dp75807
+g86
+I192
+sg34
+VThe Birds of Lorrane
+p75808
+sasbag1
+(g2
+g3
+Ntp75809
+Rp75810
+(dp75811
+g49
+(lp75812
+sg30
+(lp75813
+sg86
+I302
+sg82
+(lp75814
+I2
+asg13
+I1963
+sg34
+VGalaxy Magazine October 1963
+p75815
+sg11
+Vhttps://ia601306.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v22n01_1963-10/Galaxy_v22n01_1963-10_jp2.zip&file=Galaxy_v22n01_1963-10_jp2/Galaxy_v22n01_1963-10_0000.jp2&scale=0&rotate=0
+p75816
+sg68228
+S'http://www.isfdb.org/wiki/images/1/1a/GALOCT1963.jpg'
+p75817
+sg14
+g68230
+sg16
+(lp75818
+sg75
+(lp75819
+I497
+aI519
+aI584
+aI581
+aI363
+aI40
+aI326
+aI339
+aI483
+aI479
+aI442
+aI61
+aI98
+aI153
+aI302
+asg20
+(lp75820
+sg25
+I1097
+sg68234
+(lp75821
+(dp75822
+g86
+I497
+sg34
+VThe Men in the Walls
+p75823
+sa(dp75824
+g86
+I497
+sg34
+VThe Men in the Walls [2]
+p75825
+sa(dp75826
+g86
+I497
+sg34
+VThe Men in the Walls [3]
+p75827
+sa(dp75828
+g86
+I497
+sg34
+VThe Men in the Walls [4]
+p75829
+sa(dp75830
+g86
+I519
+sg34
+VOn the Gem Planet
+p75831
+sa(dp75832
+g86
+I584
+sg34
+VA Day On Death Highway
+p75833
+sa(dp75834
+g86
+I584
+sg34
+VA Day On Death Highway [2]
+p75835
+sa(dp75836
+g86
+I581
+sg34
+VSweet Tooth
+p75837
+sa(dp75838
+g86
+I363
+sg34
+VMed Ship Man
+p75839
+sa(dp75840
+g86
+I363
+sg34
+VMed Ship Man [2]
+p75841
+sa(dp75842
+g86
+I363
+sg34
+VMed Ship Man [3]
+p75843
+sa(dp75844
+g86
+I40
+sg34
+VWhat's the Score?
+p75845
+sa(dp75846
+g86
+I326
+sg34
+VForecast (Galaxy, October 1963)
+p75847
+sa(dp75848
+g86
+I339
+sg34
+VFor Your Information: King of the Rats
+p75849
+sa(dp75850
+g86
+I483
+sg34
+VGalaxy's 5 Star Shelf (Galaxy, October 1963)
+p75851
+sa(dp75852
+g86
+I479
+sg34
+VOn the Gem Planet
+p75853
+sa(dp75854
+g86
+I442
+sg34
+VA Day On Death Highway
+p75855
+sa(dp75856
+g86
+I61
+sg34
+VMed Ship Man
+p75857
+sa(dp75858
+g86
+I98
+sg34
+VThe Men in the Walls
+p75859
+sa(dp75860
+g86
+I153
+sg34
+VSweet Tooth
+p75861
+sasbag1
+(g2
+g3
+Ntp75862
+Rp75863
+(dp75864
+g49
+(lp75865
+sg30
+(lp75866
+sg86
+I302
+sg82
+(lp75867
+I2
+asg13
+I1963
+sg34
+VGalaxy Magazine December 1963
+p75868
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/Galaxy_v22n02_1963-12/Galaxy_v22n02_1963-12_jp2.zip&file=Galaxy_v22n02_1963-12_jp2/Galaxy_v22n02_1963-12_0000.jp2&scale=0&rotate=0
+p75869
+sg68228
+S'http://www.isfdb.org/wiki/images/6/69/GALDEC1963.jpg'
+p75870
+sg14
+g68230
+sg16
+(lp75871
+sg75
+(lp75872
+I363
+aI585
+aI584
+aI499
+aI578
+aI581
+aI40
+aI339
+aI341
+aI326
+aI8
+aI586
+aI32
+aI587
+aI89
+aI204
+aI111
+aI302
+asg20
+(lp75873
+sg25
+I1098
+sg68234
+(lp75874
+(dp75875
+g86
+I363
+sg34
+VThe Star King (Part 1 of 2)
+p75876
+sa(dp75877
+g86
+I363
+sg34
+VThe Star King (Part 1 of 2) [2]
+p75878
+sa(dp75879
+g86
+I363
+sg34
+VThe Star King (Part 1 of 2) [3]
+p75880
+sa(dp75881
+g86
+I585
+sg34
+VThe Big Pat Boom
+p75882
+sa(dp75883
+g86
+I584
+sg34
+VIf There Were No Benny Cemoli
+p75884
+sa(dp75885
+g86
+I499
+sg34
+VAnd All the Earth a Grave
+p75886
+sa(dp75887
+g86
+I578
+sg34
+VIn the Control Tower
+p75888
+sa(dp75889
+g86
+I581
+sg34
+VNo Great Magic
+p75890
+sa(dp75891
+g86
+I581
+sg34
+VNo Great Magic [2]
+p75892
+sa(dp75893
+g86
+I581
+sg34
+VNo Great Magic [3]
+p75894
+sa(dp75895
+g86
+I40
+sg34
+VScience-- Sacred &Amp; Profane
+p75896
+sa(dp75897
+g86
+I339
+sg34
+VFor Your Information: The Names of the Constellations
+p75898
+sa(dp75899
+g86
+I341
+sg34
+VGalaxy's 5 Star Shelf: The Infinite Moskowitz
+p75900
+sa(dp75901
+g86
+I326
+sg34
+VForecast (Galaxy, December 1963)
+p75902
+sa(dp75903
+g86
+I8
+sg34
+VIf There Were No Benny Cemoli
+p75904
+sa(dp75905
+g86
+I586
+sg34
+VIn the Control Tower
+p75906
+sa(dp75907
+g86
+I32
+sg34
+VNo Great Magic
+p75908
+sa(dp75909
+g86
+I587
+sg34
+VLulla
+p75910
+sa(dp75911
+g86
+I89
+sg34
+VThe Star King (Part 1 of 2)
+p75912
+sa(dp75913
+g86
+I204
+sg34
+VThe Big Pat Boom
+p75914
+sa(dp75915
+g86
+I111
+sg34
+VAnd All the Earth a Grave
+p75916
+sasbag1
+(g2
+g3
+Ntp75917
+Rp75918
+(dp75919
+g49
+(lp75920
+sg30
+(lp75921
+sg86
+I302
+sg82
+(lp75922
+I2
+asg13
+I1964
+sg34
+VGalaxy Magazine February 1964
+p75923
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v22n03_1964-02/Galaxy_v22n03_1964-02_jp2.zip&file=Galaxy_v22n03_1964-02_jp2/Galaxy_v22n03_1964-02_0000.jp2&scale=0&rotate=0
+p75924
+sg68228
+S'http://www.isfdb.org/wiki/images/8/82/GALFEB1964.jpg'
+p75925
+sg14
+g68230
+sg16
+(lp75926
+sg75
+(lp75927
+I497
+aI578
+aI545
+aI363
+aI40
+aI339
+aI326
+aI384
+aI194
+aI8
+aI89
+aI67
+aI205
+aI302
+asg20
+(lp75928
+sg25
+I1099
+sg68234
+(lp75929
+(dp75930
+g86
+I497
+sg34
+VGrandmother Earth
+p75931
+sa(dp75932
+g86
+I497
+sg34
+VGrandmother Earth [2]
+p75933
+sa(dp75934
+g86
+I578
+sg34
+VShamar's War
+p75935
+sa(dp75936
+g86
+I578
+sg34
+VShamar's War [2]
+p75937
+sa(dp75938
+g86
+I545
+sg34
+VOh, to Be a Blobel!
+p75939
+sa(dp75940
+g86
+I363
+sg34
+VThe Star King (Part 2 of 2)
+p75941
+sa(dp75942
+g86
+I363
+sg34
+VThe Star King (Part 2 of 2) [2]
+p75943
+sa(dp75944
+g86
+I363
+sg34
+VThe Star King (Part 2 of 2) [3]
+p75945
+sa(dp75946
+g86
+I40
+sg34
+VThe Paper Tiger
+p75947
+sa(dp75948
+g86
+I339
+sg34
+VFor Your Information: The Early Days of the Metric System
+p75949
+sa(dp75950
+g86
+I326
+sg34
+VForecast (Galaxy, February 1964)
+p75951
+sa(dp75952
+g86
+I384
+sg34
+VGrandmother Earth
+p75953
+sa(dp75954
+g86
+I194
+sg34
+VShamar's War
+p75955
+sa(dp75956
+g86
+I8
+sg34
+VOh, to Be a Blobel!
+p75957
+sa(dp75958
+g86
+I89
+sg34
+VThe Star King (Part 2 of 2)
+p75959
+sa(dp75960
+g86
+I67
+sg34
+VA Bad Day for Vermin
+p75961
+sa(dp75962
+g86
+I205
+sg34
+VThe Awakening
+p75963
+sasbag1
+(g2
+g3
+Ntp75964
+Rp75965
+(dp75966
+g49
+(lp75967
+sg30
+(lp75968
+sg86
+I302
+sg82
+(lp75969
+I2
+asg13
+I1964
+sg34
+VGalaxy Magazine April 1964
+p75970
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v22n04_1964-04/Galaxy_v22n04_1964-04_jp2.zip&file=Galaxy_v22n04_1964-04_jp2/Galaxy_v22n04_1964-04_0000.jp2&scale=0&rotate=0
+p75971
+sg68228
+S'http://www.isfdb.org/wiki/images/1/14/GALAPR1964.jpg'
+p75972
+sg14
+g68230
+sg16
+(lp75973
+sg75
+(lp75974
+I545
+aI499
+aI581
+aI578
+aI40
+aI339
+aI326
+aI16
+aI588
+aI479
+aI589
+aI577
+aI205
+aI302
+asg20
+(lp75975
+sg25
+I1100
+sg68234
+(lp75976
+(dp75977
+g86
+I545
+sg34
+VThe Boy Who Bought Old Earth
+p75978
+sa(dp75979
+g86
+I545
+sg34
+VThe Boy Who Bought Old Earth [2]
+p75980
+sa(dp75981
+g86
+I545
+sg34
+VThe Boy Who Bought Old Earth [3]
+p75982
+sa(dp75983
+g86
+I545
+sg34
+VThe Boy Who Bought Old Earth [4]
+p75984
+sa(dp75985
+g86
+I499
+sg34
+VEarth Eighteen
+p75986
+sa(dp75987
+g86
+I499
+sg34
+VEarth Eighteen [2]
+p75988
+sa(dp75989
+g86
+I499
+sg34
+VEarth Eighteen [3]
+p75990
+sa(dp75991
+g86
+I499
+sg34
+VEarth Eighteen [4]
+p75992
+sa(dp75993
+g86
+I499
+sg34
+VEarth Eighteen [5]
+p75994
+sa(dp75995
+g86
+I499
+sg34
+VEarth Eighteen [6]
+p75996
+sa(dp75997
+g86
+I499
+sg34
+VEarth Eighteen [7]
+p75998
+sa(dp75999
+g86
+I499
+sg34
+VEarth Eighteen [8]
+p76000
+sa(dp76001
+g86
+I499
+sg34
+VEarth Eighteen [9]
+p76002
+sa(dp76003
+g86
+I499
+sg34
+VEarth Eighteen [10]
+p76004
+sa(dp76005
+g86
+I499
+sg34
+VEarth Eighteen [11]
+p76006
+sa(dp76007
+g86
+I499
+sg34
+VEarth Eighteen [12]
+p76008
+sa(dp76009
+g86
+I581
+sg34
+VFinal Encounter
+p76010
+sa(dp76011
+g86
+I578
+sg34
+VThe Blasphemers
+p76012
+sa(dp76013
+g86
+I578
+sg34
+VThe Blasphemers [2]
+p76014
+sa(dp76015
+g86
+I40
+sg34
+VHow to Talk Science
+p76016
+sa(dp76017
+g86
+I339
+sg34
+VFor Your Information: Galton's Random Machine, the Bean Curve and Military Purchases
+p76018
+sa(dp76019
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, April 1964) (Circulation: 77,677)
+p76020
+sa(dp76021
+g86
+I326
+sg34
+VForecast (Galaxy, April 1964)
+p76022
+sa(dp76023
+g86
+I16
+sg34
+VFinal Encounter
+p76024
+sa(dp76025
+g86
+I588
+sg34
+VThe Blasphemers
+p76026
+sa(dp76027
+g86
+I479
+sg34
+VThe Boy Who Bought Old Earth
+p76028
+sa(dp76029
+g86
+I589
+sg34
+VThe End of the Race
+p76030
+sa(dp76031
+g86
+I577
+sg34
+VSoft and Soupy Whispers
+p76032
+sa(dp76033
+g86
+I40
+sg34
+VEarth Eighteen
+p76034
+sa(dp76035
+g86
+I205
+sg34
+VAt the Feelies
+p76036
+sasbag1
+(g2
+g3
+Ntp76037
+Rp76038
+(dp76039
+g49
+(lp76040
+sg30
+(lp76041
+sg86
+I302
+sg82
+(lp76042
+I2
+asg13
+I1964
+sg34
+VGalaxy Magazine June 1964
+p76043
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v22n05_1964-06_modified/Galaxy_v22n05_1964-06_modified_jp2.zip&file=Galaxy_v22n05_1964-06_modified_jp2/Galaxy_v22n05_1964-06_modified_0000.jp2&scale=0&rotate=0
+p76044
+sg68228
+S'http://www.isfdb.org/wiki/images/a/aa/GALJUN1964.jpg'
+p76045
+sg14
+g68230
+sg16
+(lp76046
+sg75
+(lp76047
+I545
+aI578
+aI499
+aI581
+aI563
+aI40
+aI339
+aI326
+aI443
+aI204
+aI590
+aI30
+aI588
+aI315
+aI591
+aI16
+aI47
+aI302
+asg20
+(lp76048
+sg25
+I1101
+sg68234
+(lp76049
+(dp76050
+g86
+I545
+sg34
+VTo Build a World
+p76051
+sa(dp76052
+g86
+I545
+sg34
+VTo Build a World [2]
+p76053
+sa(dp76054
+g86
+I545
+sg34
+VTo Build a World [3]
+p76055
+sa(dp76056
+g86
+I545
+sg34
+VTo Build a World [4]
+p76057
+sa(dp76058
+g86
+I578
+sg34
+VThe Man From Earth
+p76059
+sa(dp76060
+g86
+I499
+sg34
+VThe Well-Trained Heroes
+p76061
+sa(dp76062
+g86
+I499
+sg34
+VThe Well-Trained Heroes [2]
+p76063
+sa(dp76064
+g86
+I581
+sg34
+VThe Many Dooms
+p76065
+sa(dp76066
+g86
+I578
+sg34
+VAn Ancient Madness
+p76067
+sa(dp76068
+g86
+I578
+sg34
+VAn Ancient Madness [2]
+p76069
+sa(dp76070
+g86
+I563
+sg34
+VThe Sincerest Form
+p76071
+sa(dp76072
+g86
+I40
+sg34
+VAll We Unemployed
+p76073
+sa(dp76074
+g86
+I339
+sg34
+VFor Your Information: Anyone Else for Space?
+p76075
+sa(dp76076
+g86
+I326
+sg34
+VForecast (Galaxy, June 1964)
+p76077
+sa(dp76078
+g86
+I443
+sg34
+VThe Well-Trained Heroes
+p76079
+sa(dp76080
+g86
+I204
+sg34
+VAn Ancient Madness
+p76081
+sa(dp76082
+g86
+I590
+sg34
+VThe Sincerest Form
+p76083
+sa(dp76084
+g86
+I30
+sg34
+VTo Build a World
+p76085
+sa(dp76086
+g86
+I588
+sg34
+VThe King of the Beasts
+p76087
+sa(dp76088
+g86
+I315
+sg34
+VThe Man From Earth
+p76089
+sa(dp76090
+g86
+I591
+sg34
+VCollector's Fever
+p76091
+sa(dp76092
+g86
+I16
+sg34
+VThe Many Dooms
+p76093
+sa(dp76094
+g86
+I47
+sg34
+VMen of Good Will
+p76095
+sasbag1
+(g2
+g3
+Ntp76096
+Rp76097
+(dp76098
+g49
+(lp76099
+sg30
+(lp76100
+sg86
+I302
+sg82
+(lp76101
+I2
+asg13
+I1964
+sg34
+VGalaxy Magazine August 1964
+p76102
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v22n06_1964-08/Galaxy_v22n06_1964-08_jp2.zip&file=Galaxy_v22n06_1964-08_jp2/Galaxy_v22n06_1964-08_0000.jp2&scale=0&rotate=0
+p76103
+sg68228
+S'http://www.isfdb.org/wiki/images/1/15/GALAUG1964.jpg'
+p76104
+sg14
+g68230
+sg16
+(lp76105
+sg75
+(lp76106
+I545
+aI499
+aI581
+aI497
+aI40
+aI339
+aI326
+aI592
+aI217
+aI368
+aI479
+aI50
+aI302
+asg20
+(lp76107
+sg25
+I1102
+sg68234
+(lp76108
+(dp76109
+g86
+I545
+sg34
+VThe Dead Lady of Clown Town
+p76110
+sa(dp76111
+g86
+I545
+sg34
+VThe Dead Lady of Clown Town [2]
+p76112
+sa(dp76113
+g86
+I545
+sg34
+VThe Dead Lady of Clown Town [3]
+p76114
+sa(dp76115
+g86
+I545
+sg34
+VThe Dead Lady of Clown Town [4]
+p76116
+sa(dp76117
+g86
+I499
+sg34
+VJungle Substitute
+p76118
+sa(dp76119
+g86
+I499
+sg34
+VJungle Substitute [2]
+p76120
+sa(dp76121
+g86
+I499
+sg34
+VThe Watchers in the Glade
+p76122
+sa(dp76123
+g86
+I499
+sg34
+VThe Watchers in the Glade [2]
+p76124
+sa(dp76125
+g86
+I581
+sg34
+VNeighbor
+p76126
+sa(dp76127
+g86
+I497
+sg34
+VThe Delegate From Guapanga
+p76128
+sa(dp76129
+g86
+I497
+sg34
+VThe Delegate From Guapanga [2]
+p76130
+sa(dp76131
+g86
+I40
+sg34
+VPolitics -- 21st Century Style
+p76132
+sa(dp76133
+g86
+I339
+sg34
+VFor Your Information: A Century of Fossil Man
+p76134
+sa(dp76135
+g86
+I326
+sg34
+VForecast (Galaxy, August 1964)
+p76136
+sa(dp76137
+g86
+I592
+sg34
+VJungle Substitute
+p76138
+sa(dp76139
+g86
+I217
+sg34
+VThe Watchers in the Glade
+p76140
+sa(dp76141
+g86
+I368
+sg34
+VThe Delegate From Guapanga
+p76142
+sa(dp76143
+g86
+I479
+sg34
+VThe Dead Lady of Clown Town
+p76144
+sa(dp76145
+g86
+I50
+sg34
+VNeighbor
+p76146
+sasbag1
+(g2
+g3
+Ntp76147
+Rp76148
+(dp76149
+g49
+(lp76150
+sg30
+(lp76151
+sg86
+I302
+sg82
+(lp76152
+I2
+asg13
+I1964
+sg34
+VGalaxy Magazine October 1964
+p76153
+sg11
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v23n01_1964-10/Galaxy_v23n01_1964-10_jp2.zip&file=Galaxy_v23n01_1964-10_jp2/Galaxy_v23n01_1964-10_0000.jp2&scale=0&rotate=0
+p76154
+sg68228
+S'http://www.isfdb.org/wiki/images/f/ff/GALOCT1964.jpg'
+p76155
+sg14
+g68230
+sg16
+(lp76156
+sg75
+(lp76157
+I545
+aI593
+aI499
+aI497
+aI40
+aI339
+aI326
+aI63
+aI315
+aI594
+aI32
+aI16
+aI470
+aI74
+aI132
+aI8
+aI302
+asg20
+(lp76158
+sg25
+I1103
+sg68234
+(lp76159
+(dp76160
+g86
+I545
+sg34
+VSoldier, Ask Not
+p76161
+sa(dp76162
+g86
+I545
+sg34
+VSoldier, Ask Not [2]
+p76163
+sa(dp76164
+g86
+I545
+sg34
+VSoldier, Ask Not [3]
+p76165
+sa(dp76166
+g86
+I545
+sg34
+VSoldier, Ask Not [4]
+p76167
+sa(dp76168
+g86
+I593
+sg34
+VThe 1980 President
+p76169
+sa(dp76170
+g86
+I499
+sg34
+VThe Tactful Saboteur
+p76171
+sa(dp76172
+g86
+I499
+sg34
+VThe Tactful Saboteur [2]
+p76173
+sa(dp76174
+g86
+I499
+sg34
+VThe Tactful Saboteur [3]
+p76175
+sa(dp76176
+g86
+I497
+sg34
+VThe Children of Night
+p76177
+sa(dp76178
+g86
+I497
+sg34
+VThe Children of Night [2]
+p76179
+sa(dp76180
+g86
+I40
+sg34
+VSeeing Stars
+p76181
+sa(dp76182
+g86
+I339
+sg34
+VFor Your Information: The Area of "Accessible Space"
+p76183
+sa(dp76184
+g86
+I326
+sg34
+VForecast (Galaxy, October 1964)
+p76185
+sa(dp76186
+g86
+I63
+sg34
+VThe Tactful Saboteur
+p76187
+sa(dp76188
+g86
+I40
+sg34
+VThe Children of Night
+p76189
+sa(dp76190
+g86
+I315
+sg34
+VSoldier, Ask Not
+p76191
+sa(dp76192
+g86
+I315
+sg34
+VBattle Hymn of the Friendly Soldiers
+p76193
+sa(dp76194
+g86
+I594
+sg34
+VMartian Play Song
+p76195
+sa(dp76196
+g86
+I32
+sg34
+VBe of Good Cheer
+p76197
+sa(dp76198
+g86
+I16
+sg34
+VHow the Old World Died
+p76199
+sa(dp76200
+g86
+I470
+sg34
+VThe 1980 President
+p76201
+sa(dp76202
+g86
+I74
+sg34
+VWhat's the Name of That Town?
+p76203
+sa(dp76204
+g86
+I132
+sg34
+VMaxwell's Monkey
+p76205
+sa(dp76206
+g86
+I8
+sg34
+VPrecious Artifact
+p76207
+sasbag1
+(g2
+g3
+Ntp76208
+Rp76209
+(dp76210
+g49
+(lp76211
+sg30
+(lp76212
+sg86
+I302
+sg82
+(lp76213
+I2
+asg13
+I1964
+sg34
+VGalaxy Magazine December 1964
+p76214
+sg11
+Vhttps://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v23n02_1964-12/Galaxy_v23n02_1964-12_jp2.zip&file=Galaxy_v23n02_1964-12_jp2/Galaxy_v23n02_1964-12_0000.jp2&scale=0&rotate=0
+p76215
+sg68228
+S'http://www.isfdb.org/wiki/images/6/62/GALDEC1964.jpg'
+p76216
+sg14
+g68230
+sg16
+(lp76217
+sg75
+(lp76218
+I578
+aI497
+aI545
+aI40
+aI339
+aI326
+aI368
+aI356
+aI16
+aI566
+aI595
+aI591
+aI596
+aI302
+asg20
+(lp76219
+sg25
+I1104
+sg68234
+(lp76220
+(dp76221
+g86
+I578
+sg34
+VThe Starsloggers
+p76222
+sa(dp76223
+g86
+I578
+sg34
+VThe Starsloggers [2]
+p76224
+sa(dp76225
+g86
+I578
+sg34
+VThe Starsloggers [3]
+p76226
+sa(dp76227
+g86
+I578
+sg34
+VThe Starsloggers [4]
+p76228
+sa(dp76229
+g86
+I497
+sg34
+VA Man of the Renaissance
+p76230
+sa(dp76231
+g86
+I497
+sg34
+VA Man of the Renaissance [2]
+p76232
+sa(dp76233
+g86
+I497
+sg34
+VA Man of the Renaissance [3]
+p76234
+sa(dp76235
+g86
+I497
+sg34
+VA Man of the Renaissance [4]
+p76236
+sa(dp76237
+g86
+I497
+sg34
+VA Man of the Renaissance [5]
+p76238
+sa(dp76239
+g86
+I545
+sg34
+VTo Avenge Man
+p76240
+sa(dp76241
+g86
+I545
+sg34
+VTo Avenge Man [2]
+p76242
+sa(dp76243
+g86
+I40
+sg34
+VSpacemen &Amp; Lawmen
+p76244
+sa(dp76245
+g86
+I339
+sg34
+VFor Your Information: The Rarest Animals
+p76246
+sa(dp76247
+g86
+I326
+sg34
+VForecast (Galaxy, December 1964)
+p76248
+sa(dp76249
+g86
+I368
+sg34
+VA Man of the Renaissance
+p76250
+sa(dp76251
+g86
+I356
+sg34
+VTo Avenge Man
+p76252
+sa(dp76253
+g86
+I16
+sg34
+VThe Starsloggers
+p76254
+sa(dp76255
+g86
+I566
+sg34
+VBallad of the Interstellar Merchants
+p76256
+sa(dp76257
+g86
+I595
+sg34
+VThe Rules of the Road
+p76258
+sa(dp76259
+g86
+I591
+sg34
+VThe Monster and the Maiden
+p76260
+sa(dp76261
+g86
+I596
+sg34
+VLet Me Call Her Sweetcore
+p76262
+sasbag1
+(g2
+g3
+Ntp76263
+Rp76264
+(dp76265
+g49
+(lp76266
+sg30
+(lp76267
+sg86
+I302
+sg82
+(lp76268
+I2
+asg13
+I1965
+sg34
+VGalaxy Magazine February 1965
+p76269
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v23n03_1965-02/Galaxy_v23n03_1965-02_jp2.zip&file=Galaxy_v23n03_1965-02_jp2/Galaxy_v23n03_1965-02_0000.jp2&scale=0&rotate=0
+p76270
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f5/GALFEB65.jpg'
+p76271
+sg14
+g68230
+sg16
+(lp76272
+sg75
+(lp76273
+I497
+aI545
+aI326
+aI499
+aI40
+aI339
+aI91
+aI384
+aI136
+aI479
+aI111
+aI50
+aI217
+aI597
+aI302
+asg20
+(lp76274
+sg25
+I1105
+sg68234
+(lp76275
+(dp76276
+g86
+I497
+sg34
+VOn the Storm Planet
+p76277
+sa(dp76278
+g86
+I497
+sg34
+VOn the Storm Planet [2]
+p76279
+sa(dp76280
+g86
+I497
+sg34
+VOn the Storm Planet [3]
+p76281
+sa(dp76282
+g86
+I497
+sg34
+VOn the Storm Planet [4]
+p76283
+sa(dp76284
+g86
+I545
+sg34
+VThe Man Who Killed Immortals
+p76285
+sa(dp76286
+g86
+I545
+sg34
+VThe Man Who Killed Immortals [2]
+p76287
+sa(dp76288
+g86
+I545
+sg34
+VThe Man Who Killed Immortals [3]
+p76289
+sa(dp76290
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, February 1965) (Circulation:73,536)
+p76291
+sa(dp76292
+g86
+I499
+sg34
+VPlanet of Forgetting
+p76293
+sa(dp76294
+g86
+I499
+sg34
+VPlanet of Forgetting [2]
+p76295
+sa(dp76296
+g86
+I499
+sg34
+VPlanet of Forgetting [3]
+p76297
+sa(dp76298
+g86
+I499
+sg34
+VPlanet of Forgetting [4]
+p76299
+sa(dp76300
+g86
+I40
+sg34
+VFred Hoyle Revisited
+p76301
+sa(dp76302
+g86
+I339
+sg34
+VFor Your Information: Forerunners of the Planetarium
+p76303
+sa(dp76304
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, February 1965)
+p76305
+sa(dp76306
+g86
+I326
+sg34
+VForecast (Galaxy, February 1965)
+p76307
+sa(dp76308
+g86
+I384
+sg34
+VThe Man Who Killed Immortals
+p76309
+sa(dp76310
+g86
+I136
+sg34
+VPlanet of Forgetting
+p76311
+sa(dp76312
+g86
+I479
+sg34
+VOn the Storm Planet
+p76313
+sa(dp76314
+g86
+I111
+sg34
+VA Flask of Fine Arcturan
+p76315
+sa(dp76316
+g86
+I50
+sg34
+VThe Sixth Palace
+p76317
+sa(dp76318
+g86
+I217
+sg34
+VHarry Protagonist, Brain-Drainer
+p76319
+sa(dp76320
+g86
+I597
+sg34
+VFin's Funeral
+p76321
+sasbag1
+(g2
+g3
+Ntp76322
+Rp76323
+(dp76324
+g49
+(lp76325
+sg30
+(lp76326
+sg86
+I302
+sg82
+(lp76327
+I2
+asg13
+I1965
+sg34
+VGalaxy Magazine April 1965
+p76328
+sg11
+Vhttps://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v23n04_1965-04/Galaxy_v23n04_1965-04_jp2.zip&file=Galaxy_v23n04_1965-04_jp2/Galaxy_v23n04_1965-04_0000.jp2&scale=0&rotate=0
+p76329
+sg68228
+S'http://www.isfdb.org/wiki/images/b/bd/GALAPR65.jpg'
+p76330
+sg14
+g68230
+sg16
+(lp76331
+sg75
+(lp76332
+I581
+aI499
+aI545
+aI40
+aI339
+aI326
+aI91
+aI598
+aI599
+aI600
+aI601
+aI602
+aI315
+aI603
+aI67
+aI63
+aI604
+aI546
+aI74
+aI111
+aI302
+asg20
+(lp76333
+sg25
+I1106
+sg68234
+(lp76334
+(dp76335
+g86
+I581
+sg34
+VCommittee of the Whole
+p76336
+sa(dp76337
+g86
+I581
+sg34
+VCommittee of the Whole [2]
+p76338
+sa(dp76339
+g86
+I499
+sg34
+VDeath and Birth of the Angakok
+p76340
+sa(dp76341
+g86
+I499
+sg34
+VDeath and Birth of the Angakok [2]
+p76342
+sa(dp76343
+g86
+I499
+sg34
+VDeath and Birth of the Angakok [3]
+p76344
+sa(dp76345
+g86
+I545
+sg34
+VA Wobble in Wockii Futures
+p76346
+sa(dp76347
+g86
+I545
+sg34
+VA Wobble in Wockii Futures [2]
+p76348
+sa(dp76349
+g86
+I545
+sg34
+VA Wobble in Wockii Futures [3]
+p76350
+sa(dp76351
+g86
+I499
+sg34
+VThe Decision Makers
+p76352
+sa(dp76353
+g86
+I499
+sg34
+VThe Decision Makers [2]
+p76354
+sa(dp76355
+g86
+I545
+sg34
+VWar Against the Yukks
+p76356
+sa(dp76357
+g86
+I545
+sg34
+VWar Against the Yukks [2]
+p76358
+sa(dp76359
+g86
+I545
+sg34
+VWar Against the Yukks [3]
+p76360
+sa(dp76361
+g86
+I545
+sg34
+VWar Against the Yukks [4]
+p76362
+sa(dp76363
+g86
+I545
+sg34
+VWar Against the Yukks [5]
+p76364
+sa(dp76365
+g86
+I40
+sg34
+VHere Are the Stars
+p76366
+sa(dp76367
+g86
+I339
+sg34
+VFor Your Information: Symbolically Speaking
+p76368
+sa(dp76369
+g86
+I326
+sg34
+VForecast (Galaxy, April 1965)
+p76370
+sa(dp76371
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, April 1965)
+p76372
+sa(dp76373
+g86
+I598
+sg34
+VReview of the Nonfiction Work "Alone Through the Dark Sea"
+p76374
+sa(dp76375
+g86
+I599
+sg34
+VReview of the Nonfiction Work "Star Names: Their Lore and Meaning"
+p76376
+sa(dp76377
+g86
+I600
+sg34
+VReview of the Nonfiction Work "the Binary Stars"
+p76378
+sa(dp76379
+g86
+I601
+sg34
+VReview of the Nonfiction Work "the Friendly Stars"
+p76380
+sa(dp76381
+g86
+I602
+sg34
+VDeath and Birth of the Angakok
+p76382
+sa(dp76383
+g86
+I315
+sg34
+VA Wobble in Wockii Futures
+p76384
+sa(dp76385
+g86
+I603
+sg34
+VThe Decision Makers
+p76386
+sa(dp76387
+g86
+I67
+sg34
+VWar Against the Yukks
+p76388
+sa(dp76389
+g86
+I63
+sg34
+VCommittee of the Whole
+p76390
+sa(dp76391
+g86
+I604
+sg34
+VWrong-Way Street
+p76392
+sa(dp76393
+g86
+I546
+sg34
+VWasted On the Young
+p76394
+sa(dp76395
+g86
+I74
+sg34
+VSlow Tuesday Night
+p76396
+sa(dp76397
+g86
+I111
+sg34
+VSculptor
+p76398
+sasbag1
+(g2
+g3
+Ntp76399
+Rp76400
+(dp76401
+g49
+(lp76402
+sg30
+(lp76403
+sg86
+I302
+sg82
+(lp76404
+I2
+asg13
+I1965
+sg34
+VGalaxy Magazine June 1965
+p76405
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v23n05_1965-06/Galaxy_v23n05_1965-06_jp2.zip&file=Galaxy_v23n05_1965-06_jp2/Galaxy_v23n05_1965-06_0000.jp2&scale=0&rotate=0
+p76406
+sg68228
+S'http://www.isfdb.org/wiki/images/6/67/GALJUN65.jpg'
+p76407
+sg14
+g68230
+sg16
+(lp76408
+sg75
+(lp76409
+I545
+aI499
+aI581
+aI40
+aI326
+aI339
+aI597
+aI605
+aI91
+aI50
+aI604
+aI23
+aI34
+aI606
+aI591
+aI302
+asg20
+(lp76410
+sg25
+I1107
+sg68234
+(lp76411
+(dp76412
+g86
+I545
+sg34
+VMindswap
+p76413
+sa(dp76414
+g86
+I545
+sg34
+VMindswap [2]
+p76415
+sa(dp76416
+g86
+I545
+sg34
+VMindswap [3]
+p76417
+sa(dp76418
+g86
+I545
+sg34
+VMindswap [4]
+p76419
+sa(dp76420
+g86
+I545
+sg34
+VMindswap [5]
+p76421
+sa(dp76422
+g86
+I499
+sg34
+VBlue Fire
+p76423
+sa(dp76424
+g86
+I499
+sg34
+VBlue Fire [2]
+p76425
+sa(dp76426
+g86
+I499
+sg34
+VBlue Fire [3]
+p76427
+sa(dp76428
+g86
+I581
+sg34
+VOne Face
+p76429
+sa(dp76430
+g86
+I581
+sg34
+VOne Face [2]
+p76431
+sa(dp76432
+g86
+I40
+sg34
+VWhichness and Whereness
+p76433
+sa(dp76434
+g86
+I326
+sg34
+VForecast (Galaxy, June 1965)
+p76435
+sa(dp76436
+g86
+I339
+sg34
+VFor Your Information: The Observatory On the Moon
+p76437
+sa(dp76438
+g86
+I597
+sg34
+VObservatory On the Moon
+p76439
+sa(dp76440
+g86
+I605
+sg34
+VAn Eye for Selene
+p76441
+sa(dp76442
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, June 1965)
+p76443
+sa(dp76444
+g86
+I50
+sg34
+VBlue Fire
+p76445
+sa(dp76446
+g86
+I604
+sg34
+VOne Face
+p76447
+sa(dp76448
+g86
+I23
+sg34
+VMindswap
+p76449
+sa(dp76450
+g86
+I34
+sg34
+VThink of a Man
+p76451
+sa(dp76452
+g86
+I606
+sg34
+VServant Problem
+p76453
+sa(dp76454
+g86
+I591
+sg34
+VDevil Car
+p76455
+sasbag1
+(g2
+g3
+Ntp76456
+Rp76457
+(dp76458
+g49
+(lp76459
+sg30
+(lp76460
+sg86
+I302
+sg82
+(lp76461
+I2
+asg13
+I1965
+sg34
+VGalaxy Magazine August 1965
+p76462
+sg11
+Vhttps://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/Galaxy_v23n06_1965-08/Galaxy_v23n06_1965-08_jp2.zip&file=Galaxy_v23n06_1965-08_jp2/Galaxy_v23n06_1965-08_0000.jp2&scale=0&rotate=0
+p76463
+sg68228
+S'http://www.isfdb.org/wiki/images/9/9a/GALAUG65.jpg'
+p76464
+sg14
+g68230
+sg16
+(lp76465
+sg75
+(lp76466
+I578
+aI545
+aI40
+aI339
+aI326
+aI91
+aI55
+aI63
+aI153
+aI607
+aI302
+asg20
+(lp76467
+sg25
+I1108
+sg68234
+(lp76468
+(dp76469
+g86
+I578
+sg34
+VDo I Wake or Dream? (Complete Novel)
+p76470
+sa(dp76471
+g86
+I578
+sg34
+VDo I Wake or Dream? (Complete Novel) [2]
+p76472
+sa(dp76473
+g86
+I578
+sg34
+VDo I Wake or Dream? (Complete Novel) [3]
+p76474
+sa(dp76475
+g86
+I578
+sg34
+VDo I Wake or Dream? (Complete Novel) [4]
+p76476
+sa(dp76477
+g86
+I578
+sg34
+VDo I Wake or Dream? (Complete Novel) [5]
+p76478
+sa(dp76479
+g86
+I578
+sg34
+VDo I Wake or Dream? (Complete Novel) [6]
+p76480
+sa(dp76481
+g86
+I545
+sg34
+VThe Shipwrecked Hotel
+p76482
+sa(dp76483
+g86
+I545
+sg34
+VThe Shipwrecked Hotel [2]
+p76484
+sa(dp76485
+g86
+I40
+sg34
+VOld Home Month
+p76486
+sa(dp76487
+g86
+I339
+sg34
+VFor Your Information: The Galactic Giants
+p76488
+sa(dp76489
+g86
+I326
+sg34
+VForecast (Galaxy, August 1965)
+p76490
+sa(dp76491
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, August 1965)
+p76492
+sa(dp76493
+g86
+I55
+sg34
+VThe Shipwrecked Hotel
+p76494
+sa(dp76495
+g86
+I63
+sg34
+VDo I Wake or Dream? (Complete Novel)
+p76496
+sa(dp76497
+g86
+I153
+sg34
+VPeeping Tommy
+p76498
+sa(dp76499
+g86
+I607
+sg34
+VPlease State My Business
+p76500
+sasbag1
+(g2
+g3
+Ntp76501
+Rp76502
+(dp76503
+g49
+(lp76504
+sg30
+(lp76505
+sg86
+I302
+sg82
+(lp76506
+I2
+asg13
+I1965
+sg34
+VGalaxy Magazine October 1965
+p76507
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v24n01_1965-10/Galaxy_v24n01_1965-10_jp2.zip&file=Galaxy_v24n01_1965-10_jp2/Galaxy_v24n01_1965-10_0000.jp2&scale=0&rotate=0
+p76508
+sg68228
+S'http://www.isfdb.org/wiki/images/6/69/GALOCT65.jpg'
+p76509
+sg14
+g68230
+sg16
+(lp76510
+sg75
+(lp76511
+I519
+aI545
+aI499
+aI40
+aI339
+aI91
+aI326
+aI479
+aI23
+aI18
+aI305
+aI132
+aI56
+aI32
+aI3
+aI302
+asg20
+(lp76512
+sg25
+I1109
+sg68234
+(lp76513
+(dp76514
+g86
+I519
+sg34
+VThe Age of the Pussyfoot (Part 1 of 3)
+p76515
+sa(dp76516
+g86
+I519
+sg34
+VThe Age of the Pussyfoot (Part 1 of 3) [2]
+p76517
+sa(dp76518
+g86
+I519
+sg34
+VThe Age of the Pussyfoot (Part 1 of 3) [3]
+p76519
+sa(dp76520
+g86
+I545
+sg34
+VThree to a Given Star
+p76521
+sa(dp76522
+g86
+I545
+sg34
+VThree to a Given Star [2]
+p76523
+sa(dp76524
+g86
+I545
+sg34
+VThree to a Given Star [3]
+p76525
+sa(dp76526
+g86
+I499
+sg34
+VShall We Have a Little Talk?
+p76527
+sa(dp76528
+g86
+I499
+sg34
+VShall We Have a Little Talk? [2]
+p76529
+sa(dp76530
+g86
+I40
+sg34
+VThe Day After Tomorrow
+p76531
+sa(dp76532
+g86
+I339
+sg34
+VFor Your Information: Fifteen Years of Galaxy -- Thirteen Years of F.Y.I.
+p76533
+sa(dp76534
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, October 1965)
+p76535
+sa(dp76536
+g86
+I326
+sg34
+VForecast (Galaxy, October 1965)
+p76537
+sa(dp76538
+g86
+I479
+sg34
+VThree to a Given Star
+p76539
+sa(dp76540
+g86
+I23
+sg34
+VShall We Have a Little Talk?
+p76541
+sa(dp76542
+g86
+I18
+sg34
+VThe Machines, Beyond Shylock
+p76543
+sa(dp76544
+g86
+I40
+sg34
+VThe Age of the Pussyfoot (Part 1 of 3)
+p76545
+sa(dp76546
+g86
+I305
+sg34
+VInside Man
+p76547
+sa(dp76548
+g86
+I132
+sg34
+VA Better Mousehole
+p76549
+sa(dp76550
+g86
+I56
+sg34
+VSmall Deer
+p76551
+sa(dp76552
+g86
+I32
+sg34
+VThe Good New Days
+p76553
+sa(dp76554
+g86
+I3
+sg34
+VFounding Father
+p76555
+sasbag1
+(g2
+g3
+Ntp76556
+Rp76557
+(dp76558
+g49
+(lp76559
+sg30
+(lp76560
+sg86
+I302
+sg82
+(lp76561
+I2
+asg13
+I1966
+sg34
+VGalaxy Magazine February 1966
+p76562
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v24n03_1966-02/Galaxy_v24n03_1966-02_jp2.zip&file=Galaxy_v24n03_1966-02_jp2/Galaxy_v24n03_1966-02_0000.jp2&scale=0&rotate=0
+p76563
+sg68228
+S'http://www.isfdb.org/wiki/images/6/63/GALFEB66.jpg'
+p76564
+sg14
+g68230
+sg16
+(lp76565
+sg75
+(lp76566
+I497
+aI499
+aI519
+aI40
+aI326
+aI339
+aI91
+aI479
+aI50
+aI248
+aI608
+aI604
+aI609
+aI179
+aI302
+asg20
+(lp76567
+sg25
+I1110
+sg68234
+(lp76568
+(dp76569
+g86
+I497
+sg34
+VUnder Old Earth
+p76570
+sa(dp76571
+g86
+I497
+sg34
+VUnder Old Earth [2]
+p76572
+sa(dp76573
+g86
+I497
+sg34
+VUnder Old Earth [3]
+p76574
+sa(dp76575
+g86
+I499
+sg34
+VWhere the Changed Ones Go
+p76576
+sa(dp76577
+g86
+I499
+sg34
+VWhere the Changed Ones Go [2]
+p76578
+sa(dp76579
+g86
+I499
+sg34
+VWhere the Changed Ones Go [3]
+p76580
+sa(dp76581
+g86
+I499
+sg34
+VWhere the Changed Ones Go [4]
+p76582
+sa(dp76583
+g86
+I519
+sg34
+VThe Age of the Pussyfoot (Part 3 of 3)
+p76584
+sa(dp76585
+g86
+I519
+sg34
+VThe Age of the Pussyfoot (Part 3 of 3) [2]
+p76586
+sa(dp76587
+g86
+I40
+sg34
+VThe Business of Science
+p76588
+sa(dp76589
+g86
+I326
+sg34
+VForecast (Galaxy, February 1966)
+p76590
+sa(dp76591
+g86
+I339
+sg34
+VFor Your Information: The Wreck of La Lutine
+p76592
+sa(dp76593
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, February 1966)
+p76594
+sa(dp76595
+g86
+I479
+sg34
+VUnder Old Earth
+p76596
+sa(dp76597
+g86
+I50
+sg34
+VWhere the Changed Ones Go
+p76598
+sa(dp76599
+g86
+I40
+sg34
+VThe Age of the Pussyfoot (Part 3 of 3)
+p76600
+sa(dp76601
+g86
+I248
+sg34
+VCourting Time
+p76602
+sa(dp76603
+g86
+I608
+sg34
+VThe Echo of Wrath
+p76604
+sa(dp76605
+g86
+I604
+sg34
+VEye of an Octopus
+p76606
+sa(dp76607
+g86
+I609
+sg34
+VIn the Imagicon
+p76608
+sa(dp76609
+g86
+I179
+sg34
+VMulligan, Come Home!
+p76610
+sasbag1
+(g2
+g3
+Ntp76611
+Rp76612
+(dp76613
+g49
+(lp76614
+sg30
+(lp76615
+sg86
+I302
+sg82
+(lp76616
+I2
+asg13
+I1966
+sg34
+VGalaxy Magazine April 1966
+p76617
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v24n04_1966-04/Galaxy_v24n04_1966-04_jp2.zip&file=Galaxy_v24n04_1966-04_jp2/Galaxy_v24n04_1966-04_0000.jp2&scale=0&rotate=0
+p76618
+sg68228
+S'http://www.isfdb.org/wiki/images/5/51/GALAPR66.jpg'
+p76619
+sg14
+g68230
+sg16
+(lp76620
+sg75
+(lp76621
+I499
+aI545
+aI519
+aI40
+aI91
+aI326
+aI339
+aI50
+aI63
+aI89
+aI32
+aI609
+aI142
+aI81
+aI610
+aI302
+asg20
+(lp76622
+sg25
+I1111
+sg68234
+(lp76623
+(dp76624
+g86
+I499
+sg34
+VThe Last Castle
+p76625
+sa(dp76626
+g86
+I499
+sg34
+VThe Last Castle [2]
+p76627
+sa(dp76628
+g86
+I499
+sg34
+VThe Last Castle [3]
+p76629
+sa(dp76630
+g86
+I499
+sg34
+VThe Last Castle [4]
+p76631
+sa(dp76632
+g86
+I499
+sg34
+VThe Last Castle [5]
+p76633
+sa(dp76634
+g86
+I545
+sg34
+VLazarus Come Forth!
+p76635
+sa(dp76636
+g86
+I545
+sg34
+VLazarus Come Forth! [2]
+p76637
+sa(dp76638
+g86
+I545
+sg34
+VLazarus Come Forth! [3]
+p76639
+sa(dp76640
+g86
+I545
+sg34
+VLazarus Come Forth! [4]
+p76641
+sa(dp76642
+g86
+I519
+sg34
+VThe Primitives
+p76643
+sa(dp76644
+g86
+I519
+sg34
+VThe Primitives [2]
+p76645
+sa(dp76646
+g86
+I519
+sg34
+VThe Primitives [3]
+p76647
+sa(dp76648
+g86
+I499
+sg34
+VTwenty-Seven Inches of Moonshine
+p76649
+sa(dp76650
+g86
+I499
+sg34
+VTwenty-Seven Inches of Moonshine [2]
+p76651
+sa(dp76652
+g86
+I499
+sg34
+VTwenty-Seven Inches of Moonshine [3]
+p76653
+sa(dp76654
+g86
+I499
+sg34
+VTwenty-Seven Inches of Moonshine [4]
+p76655
+sa(dp76656
+g86
+I499
+sg34
+VTwenty-Seven Inches of Moonshine [5]
+p76657
+sa(dp76658
+g86
+I40
+sg34
+VWhere the Jobs Go
+p76659
+sa(dp76660
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, April 1966)
+p76661
+sa(dp76662
+g86
+I326
+sg34
+VForecast (Galaxy, April 1966)
+p76663
+sa(dp76664
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, April 1966) (Circulation:73,610)
+p76665
+sa(dp76666
+g86
+I339
+sg34
+VFor Your Information: The Re-Designed Solar System
+p76667
+sa(dp76668
+g86
+I50
+sg34
+VLazarus Come Forth!
+p76669
+sa(dp76670
+g86
+I63
+sg34
+VThe Primitives
+p76671
+sa(dp76672
+g86
+I89
+sg34
+VThe Last Castle
+p76673
+sa(dp76674
+g86
+I32
+sg34
+VThe Crystal Prison
+p76675
+sa(dp76676
+g86
+I609
+sg34
+VThe Night Before
+p76677
+sa(dp76678
+g86
+I142
+sg34
+VBig Business
+p76679
+sa(dp76680
+g86
+I81
+sg34
+VDevise and Conquer
+p76681
+sa(dp76682
+g86
+I610
+sg34
+VTwenty-Seven Inches of Moonshine
+p76683
+sasbag1
+(g2
+g3
+Ntp76684
+Rp76685
+(dp76686
+g49
+(lp76687
+sg30
+(lp76688
+sg86
+I302
+sg82
+(lp76689
+I2
+asg13
+I1966
+sg34
+VGalaxy Magazine June 1966
+p76690
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v24n05_1966-06/Galaxy_v24n05_1966-06_jp2.zip&file=Galaxy_v24n05_1966-06_jp2/Galaxy_v24n05_1966-06_0000.jp2&scale=0&rotate=0
+p76691
+sg68228
+S'http://www.isfdb.org/wiki/images/8/83/GALJUN66.jpg'
+p76692
+sg14
+g68230
+sg16
+(lp76693
+sg75
+(lp76694
+I611
+aI499
+aI545
+aI40
+aI339
+aI91
+aI326
+aI602
+aI50
+aI63
+aI262
+aI546
+aI112
+aI302
+asg20
+(lp76695
+sg25
+I1112
+sg68234
+(lp76696
+(dp76697
+g86
+I611
+sg34
+VHeisenberg's Eyes (Part 1 of 2)
+p76698
+sa(dp76699
+g86
+I611
+sg34
+VHeisenberg's Eyes (Part 1 of 2) [2]
+p76700
+sa(dp76701
+g86
+I611
+sg34
+VHeisenberg's Eyes (Part 1 of 2) [3]
+p76702
+sa(dp76703
+g86
+I611
+sg34
+VHeisenberg's Eyes (Part 1 of 2) [4]
+p76704
+sa(dp76705
+g86
+I611
+sg34
+VHeisenberg's Eyes (Part 1 of 2) [5]
+p76706
+sa(dp76707
+g86
+I499
+sg34
+VThe Eskimo Invasion
+p76708
+sa(dp76709
+g86
+I499
+sg34
+VThe Eskimo Invasion [2]
+p76710
+sa(dp76711
+g86
+I545
+sg34
+VOpen the Sky
+p76712
+sa(dp76713
+g86
+I545
+sg34
+VOpen the Sky [2]
+p76714
+sa(dp76715
+g86
+I545
+sg34
+VOpen the Sky [3]
+p76716
+sa(dp76717
+g86
+I40
+sg34
+VLooking Ahead to 1965
+p76718
+sa(dp76719
+g86
+I339
+sg34
+VFor Your Information: Brownian Motion, Loschmidt's Number and the Laws of Utter Chaos
+p76720
+sa(dp76721
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, June 1966)
+p76722
+sa(dp76723
+g86
+I326
+sg34
+VForecast (Galaxy, June 1966)
+p76724
+sa(dp76725
+g86
+I602
+sg34
+VThe Eskimo Invasion
+p76726
+sa(dp76727
+g86
+I50
+sg34
+VOpen the Sky
+p76728
+sa(dp76729
+g86
+I63
+sg34
+VHeisenberg's Eyes (Part 1 of 2)
+p76730
+sa(dp76731
+g86
+I262
+sg34
+VPriceless Possession
+p76732
+sa(dp76733
+g86
+I546
+sg34
+VGalactic Consumer Report No. 2: Automatic Twin-Tube Wishing Machines
+p76734
+sa(dp76735
+g86
+I112
+sg34
+VWhen I Was Miss Dow
+p76736
+sasbag1
+(g2
+g3
+Ntp76737
+Rp76738
+(dp76739
+g49
+(lp76740
+sg30
+(lp76741
+sg86
+I302
+sg82
+(lp76742
+I2
+asg13
+I1966
+sg34
+VGalaxy Magazine August 1966
+p76743
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v24n06_1966-08/Galaxy_v24n06_1966-08_jp2.zip&file=Galaxy_v24n06_1966-08_jp2/Galaxy_v24n06_1966-08_0000.jp2&scale=0&rotate=0
+p76744
+sg68228
+S'http://www.isfdb.org/wiki/images/f/ff/GALAUG66.jpg'
+p76745
+sg14
+g68230
+sg16
+(lp76746
+sg75
+(lp76747
+I581
+aI545
+aI611
+aI499
+aI40
+aI339
+aI326
+aI91
+aI67
+aI55
+aI602
+aI63
+aI592
+aI74
+aI609
+aI302
+asg20
+(lp76748
+sg25
+I1113
+sg68234
+(lp76749
+(dp76750
+g86
+I581
+sg34
+VThe Body Builders
+p76751
+sa(dp76752
+g86
+I581
+sg34
+VThe Body Builders [2]
+p76753
+sa(dp76754
+g86
+I581
+sg34
+VThe Body Builders [3]
+p76755
+sa(dp76756
+g86
+I581
+sg34
+VThe Body Builders [4]
+p76757
+sa(dp76758
+g86
+I581
+sg34
+VThe Body Builders [5]
+p76759
+sa(dp76760
+g86
+I545
+sg34
+VThe Piper of Dis
+p76761
+sa(dp76762
+g86
+I545
+sg34
+VThe Piper of Dis [2]
+p76763
+sa(dp76764
+g86
+I545
+sg34
+VThe Piper of Dis [3]
+p76765
+sa(dp76766
+g86
+I611
+sg34
+VHeisenberg's Eyes (Part 2 of 2)
+p76767
+sa(dp76768
+g86
+I611
+sg34
+VHeisenberg's Eyes (Part 2 of 2) [2]
+p76769
+sa(dp76770
+g86
+I611
+sg34
+VHeisenberg's Eyes (Part 2 of 2) [3]
+p76771
+sa(dp76772
+g86
+I611
+sg34
+VHeisenberg's Eyes (Part 2 of 2) [4]
+p76773
+sa(dp76774
+g86
+I499
+sg34
+VWho Is Human?
+p76775
+sa(dp76776
+g86
+I40
+sg34
+VThe Game
+p76777
+sa(dp76778
+g86
+I339
+sg34
+VFor Your Information: Scheherazade's Island
+p76779
+sa(dp76780
+g86
+I326
+sg34
+VForecast (Galaxy, August 1966)
+p76781
+sa(dp76782
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, August 1966)
+p76783
+sa(dp76784
+g86
+I67
+sg34
+VThe Body Builders
+p76785
+sa(dp76786
+g86
+I55
+sg34
+VThe Piper of Dis
+p76787
+sa(dp76788
+g86
+I602
+sg34
+VWho Is Human?
+p76789
+sa(dp76790
+g86
+I63
+sg34
+VHeisenberg's Eyes (Part 2 of 2)
+p76791
+sa(dp76792
+g86
+I592
+sg34
+VHeresies of the Huge God
+p76793
+sa(dp76794
+g86
+I74
+sg34
+VAmong the Hairy Earthmen
+p76795
+sa(dp76796
+g86
+I609
+sg34
+VThe Look
+p76797
+sasbag1
+(g2
+g3
+Ntp76798
+Rp76799
+(dp76800
+g49
+(lp76801
+sg30
+(lp76802
+sg86
+I302
+sg82
+(lp76803
+I2
+asg13
+I1966
+sg34
+VGalaxy Magazine October 1966
+p76804
+sg11
+Vhttps://ia800206.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v25n01_1966-10/Galaxy_v25n01_1966-10_jp2.zip&file=Galaxy_v25n01_1966-10_jp2/Galaxy_v25n01_1966-10_0000.jp2&scale=0&rotate=0
+p76805
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f5/GALOCT66.jpg'
+p76806
+sg14
+g68230
+sg16
+(lp76807
+sg75
+(lp76808
+I545
+aI497
+aI499
+aI581
+aI612
+aI40
+aI339
+aI326
+aI91
+aI604
+aI613
+aI602
+aI384
+aI89
+aI542
+aI302
+asg20
+(lp76809
+sg25
+I1114
+sg68234
+(lp76810
+(dp76811
+g86
+I545
+sg34
+VThe Palace of Love (Part 1 of 3)
+p76812
+sa(dp76813
+g86
+I545
+sg34
+VThe Palace of Love (Part 1 of 3) [2]
+p76814
+sa(dp76815
+g86
+I497
+sg34
+VHow the Heroes Die
+p76816
+sa(dp76817
+g86
+I497
+sg34
+VHow the Heroes Die [2]
+p76818
+sa(dp76819
+g86
+I499
+sg34
+VA Recursion in Metastories
+p76820
+sa(dp76821
+g86
+I581
+sg34
+VThe Ship Who Killed
+p76822
+sa(dp76823
+g86
+I581
+sg34
+VThe Ship Who Killed [2]
+p76824
+sa(dp76825
+g86
+I499
+sg34
+VToo Many Esks
+p76826
+sa(dp76827
+g86
+I499
+sg34
+VToo Many Esks [2]
+p76828
+sa(dp76829
+g86
+I499
+sg34
+VToo Many Esks [3]
+p76830
+sa(dp76831
+g86
+I612
+sg34
+VPlanet of Fakers
+p76832
+sa(dp76833
+g86
+I40
+sg34
+VCauses
+p76834
+sa(dp76835
+g86
+I339
+sg34
+VFor Your Information: The Delayed Discovery
+p76836
+sa(dp76837
+g86
+I326
+sg34
+VForecast (Galaxy, October 1966)
+p76838
+sa(dp76839
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, October 1966)
+p76840
+sa(dp76841
+g86
+I604
+sg34
+VHow the Heroes Die
+p76842
+sa(dp76843
+g86
+I613
+sg34
+VThe Ship Who Killed
+p76844
+sa(dp76845
+g86
+I602
+sg34
+VToo Many Esks
+p76846
+sa(dp76847
+g86
+I384
+sg34
+VPlanet of Fakers
+p76848
+sa(dp76849
+g86
+I89
+sg34
+VThe Palace of Love (Part 1 of 3)
+p76850
+sa(dp76851
+g86
+I542
+sg34
+VA Recursion in Metastories
+p76852
+sasbag1
+(g2
+g3
+Ntp76853
+Rp76854
+(dp76855
+g49
+(lp76856
+sg30
+(lp76857
+sg86
+I302
+sg82
+(lp76858
+I2
+asg13
+I1966
+sg34
+VGalaxy Magazine December 1966
+p76859
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v25n02_1966-12_modified/Galaxy_v25n02_1966-12_modified_jp2.zip&file=Galaxy_v25n02_1966-12_modified_jp2/Galaxy_v25n02_1966-12_modified_0000.jp2&scale=0&rotate=0
+p76860
+sg68228
+S'http://www.isfdb.org/wiki/images/1/18/GALDEC66.jpg'
+p76861
+sg14
+g68230
+sg16
+(lp76862
+sg75
+(lp76863
+I497
+aI499
+aI593
+aI545
+aI40
+aI339
+aI326
+aI91
+aI30
+aI602
+aI604
+aI89
+aI546
+aI614
+aI74
+aI302
+asg20
+(lp76864
+sg25
+I1115
+sg68234
+(lp76865
+(dp76866
+g86
+I497
+sg34
+VDoor to Anywhere
+p76867
+sa(dp76868
+g86
+I497
+sg34
+VDoor to Anywhere [2]
+p76869
+sa(dp76870
+g86
+I497
+sg34
+VDoor to Anywhere [3]
+p76871
+sa(dp76872
+g86
+I497
+sg34
+VDoor to Anywhere [4]
+p76873
+sa(dp76874
+g86
+I499
+sg34
+VThe Modern Penitentiary
+p76875
+sa(dp76876
+g86
+I499
+sg34
+VThe Modern Penitentiary [2]
+p76877
+sa(dp76878
+g86
+I593
+sg34
+VAt the Bottom of a Hole
+p76879
+sa(dp76880
+g86
+I593
+sg34
+VAt the Bottom of a Hole [2]
+p76881
+sa(dp76882
+g86
+I545
+sg34
+VThe Palace of Love (Part 2 of 3)
+p76883
+sa(dp76884
+g86
+I545
+sg34
+VThe Palace of Love (Part 2 of 3) [2]
+p76885
+sa(dp76886
+g86
+I545
+sg34
+VThe Palace of Love (Part 2 of 3) [3]
+p76887
+sa(dp76888
+g86
+I40
+sg34
+VCordwainer Smith (Obituary)
+p76889
+sa(dp76890
+g86
+I339
+sg34
+VFor Your Information: The Sound of the Meteors
+p76891
+sa(dp76892
+g86
+I326
+sg34
+VForecast (Galaxy, December 1966)
+p76893
+sa(dp76894
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, December 1966)
+p76895
+sa(dp76896
+g86
+I30
+sg34
+VDoor to Anywhere
+p76897
+sa(dp76898
+g86
+I602
+sg34
+VThe Modern Penitentiary
+p76899
+sa(dp76900
+g86
+I604
+sg34
+VAt the Bottom of a Hole
+p76901
+sa(dp76902
+g86
+I89
+sg34
+VThe Palace of Love (Part 2 of 3)
+p76903
+sa(dp76904
+g86
+I546
+sg34
+VChildren in Hiding
+p76905
+sa(dp76906
+g86
+I614
+sg34
+VDecoy System
+p76907
+sa(dp76908
+g86
+I74
+sg34
+VPrimary Education of the Camiroi
+p76909
+sasbag1
+(g2
+g3
+Ntp76910
+Rp76911
+(dp76912
+g49
+(lp76913
+sg30
+(lp76914
+sg86
+I302
+sg82
+(lp76915
+I2
+asg13
+I1967
+sg34
+VGalaxy Magazine February 1967
+p76916
+sg11
+Vhttps://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v25n03_1967-02/Galaxy_v25n03_1967-02_jp2.zip&file=Galaxy_v25n03_1967-02_jp2/Galaxy_v25n03_1967-02_0000.jp2&scale=0&rotate=0
+p76917
+sg68228
+S'http://www.isfdb.org/wiki/images/7/7b/GALFEB67.jpg'
+p76918
+sg14
+g68230
+sg16
+(lp76919
+sg75
+(lp76920
+I499
+aI615
+aI545
+aI40
+aI339
+aI326
+aI91
+aI217
+aI602
+aI89
+aI8
+aI158
+aI81
+aI74
+aI608
+aI302
+asg20
+(lp76921
+sg25
+I1116
+sg68234
+(lp76922
+(dp76923
+g86
+I499
+sg34
+VOur Man in Peking
+p76924
+sa(dp76925
+g86
+I499
+sg34
+VOur Man in Peking [2]
+p76926
+sa(dp76927
+g86
+I499
+sg34
+VOur Man in Peking [3]
+p76928
+sa(dp76929
+g86
+I499
+sg34
+VOur Man in Peking [4]
+p76930
+sa(dp76931
+g86
+I615
+sg34
+VThey Hilariated When I Hyperspaced for Earth
+p76932
+sa(dp76933
+g86
+I615
+sg34
+VThey Hilariated When I Hyperspaced for Earth [2]
+p76934
+sa(dp76935
+g86
+I615
+sg34
+VThey Hilariated When I Hyperspaced for Earth [3]
+p76936
+sa(dp76937
+g86
+I615
+sg34
+VThey Hilariated When I Hyperspaced for Earth [4]
+p76938
+sa(dp76939
+g86
+I545
+sg34
+VThe Palace of Love (Part 3 of 3)
+p76940
+sa(dp76941
+g86
+I545
+sg34
+VThe Palace of Love (Part 3 of 3) [2]
+p76942
+sa(dp76943
+g86
+I40
+sg34
+VMore About Being Bad
+p76944
+sa(dp76945
+g86
+I339
+sg34
+VFor Your Information: Who Invented the Crossbow?
+p76946
+sa(dp76947
+g86
+I326
+sg34
+VForecast (Galaxy, February 1967)
+p76948
+sa(dp76949
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, February 1967)
+p76950
+sa(dp76951
+g86
+I217
+sg34
+VThey Hilariated When I Hyperspaced for Earth
+p76952
+sa(dp76953
+g86
+I602
+sg34
+VOur Man in Peking
+p76954
+sa(dp76955
+g86
+I89
+sg34
+VThe Palace of Love (Part 3 of 3)
+p76956
+sa(dp76957
+g86
+I8
+sg34
+VReturn Match
+p76958
+sa(dp76959
+g86
+I158
+sg34
+VThe Last Filibuster
+p76960
+sa(dp76961
+g86
+I81
+sg34
+VThe Trojan Bombardment
+p76962
+sa(dp76963
+g86
+I74
+sg34
+VThus We Frustrate Charlemagne
+p76964
+sa(dp76965
+g86
+I608
+sg34
+VThe Discovery of the Nullitron
+p76966
+sasbag1
+(g2
+g3
+Ntp76967
+Rp76968
+(dp76969
+g49
+(lp76970
+sg30
+(lp76971
+sg86
+I302
+sg82
+(lp76972
+I2
+asg13
+I1967
+sg34
+VGalaxy Magazine April 1967
+p76973
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v25n04_1967-04/Galaxy_v25n04_1967-04_jp2.zip&file=Galaxy_v25n04_1967-04_jp2/Galaxy_v25n04_1967-04_0000.jp2&scale=0&rotate=0
+p76974
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d9/GALAPR67.jpg'
+p76975
+sg14
+g68230
+sg16
+(lp76976
+sg75
+(lp76977
+I545
+aI499
+aI40
+aI339
+aI326
+aI91
+aI67
+aI602
+aI614
+aI81
+aI616
+aI617
+aI194
+aI16
+aI302
+asg20
+(lp76978
+sg25
+I1117
+sg68234
+(lp76979
+(dp76980
+g86
+I545
+sg34
+VThunderhead
+p76981
+sa(dp76982
+g86
+I545
+sg34
+VThunderhead [2]
+p76983
+sa(dp76984
+g86
+I545
+sg34
+VThunderhead [3]
+p76985
+sa(dp76986
+g86
+I499
+sg34
+VThe Purpose of Life
+p76987
+sa(dp76988
+g86
+I499
+sg34
+VThe Purpose of Life [2]
+p76989
+sa(dp76990
+g86
+I499
+sg34
+VThe Purpose of Life [3]
+p76991
+sa(dp76992
+g86
+I40
+sg34
+VMaking Models
+p76993
+sa(dp76994
+g86
+I339
+sg34
+VFor Your Information: The Orbits of the Comets
+p76995
+sa(dp76996
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, April 1967) ((Circulation: 73,450)
+p76997
+sa(dp76998
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, April 1967)
+p76999
+sa(dp77000
+g86
+I326
+sg34
+VForecast (Galaxy, April 1967)
+p77001
+sa(dp77002
+g86
+I67
+sg34
+VThunderhead
+p77003
+sa(dp77004
+g86
+I602
+sg34
+VThe Purpose of Life
+p77005
+sa(dp77006
+g86
+I614
+sg34
+VFair Test
+p77007
+sa(dp77008
+g86
+I81
+sg34
+VThe New Member
+p77009
+sa(dp77010
+g86
+I616
+sg34
+VThe Young Priests of Adytum 199
+p77011
+sa(dp77012
+g86
+I617
+sg34
+VWithin the Cloud
+p77013
+sa(dp77014
+g86
+I194
+sg34
+VBallenger's People
+p77015
+sa(dp77016
+g86
+I16
+sg34
+VYou Men of Violence
+p77017
+sasbag1
+(g2
+g3
+Ntp77018
+Rp77019
+(dp77020
+g49
+(lp77021
+sg30
+(lp77022
+sg86
+I302
+sg82
+(lp77023
+I2
+asg13
+I1967
+sg34
+VGalaxy Magazine June 1967
+p77024
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v25n05_1967-06_modified/Galaxy_v25n05_1967-06_modified_jp2.zip&file=Galaxy_v25n05_1967-06_modified_jp2/Galaxy_v25n05_1967-06_modified_0000.jp2&scale=0&rotate=0
+p77025
+sg68228
+S'http://www.isfdb.org/wiki/images/e/e2/GALJUN67.jpg'
+p77026
+sg14
+g68230
+sg16
+(lp77027
+sg75
+(lp77028
+I499
+aI476
+aI497
+aI40
+aI339
+aI326
+aI91
+aI111
+aI604
+aI30
+aI618
+aI74
+aI591
+aI142
+aI121
+aI302
+asg20
+(lp77029
+sg25
+I1118
+sg68234
+(lp77030
+(dp77031
+g86
+I499
+sg34
+VTo Outlive Eternity (Part 1 of 2)
+p77032
+sa(dp77033
+g86
+I499
+sg34
+VTo Outlive Eternity (Part 1 of 2) [2]
+p77034
+sa(dp77035
+g86
+I499
+sg34
+VTo Outlive Eternity (Part 1 of 2) [3]
+p77036
+sa(dp77037
+g86
+I476
+sg34
+VSpare That Tree
+p77038
+sa(dp77039
+g86
+I476
+sg34
+VSpare That Tree [2]
+p77040
+sa(dp77041
+g86
+I497
+sg34
+VThe Adults
+p77042
+sa(dp77043
+g86
+I497
+sg34
+VThe Adults [2]
+p77044
+sa(dp77045
+g86
+I497
+sg34
+VThe Adults [3]
+p77046
+sa(dp77047
+g86
+I497
+sg34
+VThe Adults [4]
+p77048
+sa(dp77049
+g86
+I40
+sg34
+VThe Dismal Science
+p77050
+sa(dp77051
+g86
+I339
+sg34
+VFor Your Information: Another Look at Atlantis
+p77052
+sa(dp77053
+g86
+I326
+sg34
+VForecast (Galaxy, June 1967)
+p77054
+sa(dp77055
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, June 1967)
+p77056
+sa(dp77057
+g86
+I111
+sg34
+VSpare That Tree
+p77058
+sa(dp77059
+g86
+I604
+sg34
+VThe Adults
+p77060
+sa(dp77061
+g86
+I30
+sg34
+VTo Outlive Eternity (Part 1 of 2)
+p77062
+sa(dp77063
+g86
+I618
+sg34
+VMirror of Ice
+p77064
+sa(dp77065
+g86
+I74
+sg34
+VPolity and Custom of the Camiroi
+p77066
+sa(dp77067
+g86
+I591
+sg34
+VThe Man Who Loved the Faioli
+p77068
+sa(dp77069
+g86
+I142
+sg34
+VHowling Day
+p77070
+sa(dp77071
+g86
+I121
+sg34
+VAlien's Bequest
+p77072
+sasbag1
+(g2
+g3
+Ntp77073
+Rp77074
+(dp77075
+g49
+(lp77076
+sg30
+(lp77077
+sg86
+I302
+sg82
+(lp77078
+I2
+asg13
+I1967
+sg34
+VGalaxy Magazine October 1967
+p77079
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v26n01_1967-10_modified/Galaxy_v26n01_1967-10_modified_jp2.zip&file=Galaxy_v26n01_1967-10_modified_jp2/Galaxy_v26n01_1967-10_modified_0000.jp2&scale=0&rotate=0
+p77080
+sg68228
+S'http://www.isfdb.org/wiki/images/2/29/GALOCT67.jpg'
+p77081
+sg14
+g68230
+sg16
+(lp77082
+sg75
+(lp77083
+I499
+aI497
+aI545
+aI619
+aI620
+aI40
+aI326
+aI339
+aI91
+aI305
+aI95
+aI591
+aI30
+aI302
+asg20
+(lp77084
+sg25
+I1119
+sg68234
+(lp77085
+(dp77086
+g86
+I499
+sg34
+VDamnation Alley
+p77087
+sa(dp77088
+g86
+I499
+sg34
+VDamnation Alley [2]
+p77089
+sa(dp77090
+g86
+I499
+sg34
+VDamnation Alley [3]
+p77091
+sa(dp77092
+g86
+I499
+sg34
+VDamnation Alley [4]
+p77093
+sa(dp77094
+g86
+I497
+sg34
+VPoulfinch's Mythology
+p77095
+sa(dp77096
+g86
+I497
+sg34
+VPoulfinch's Mythology [2]
+p77097
+sa(dp77098
+g86
+I497
+sg34
+VPoulfinch's Mythology [3]
+p77099
+sa(dp77100
+g86
+I497
+sg34
+VPoulfinch's Mythology [4]
+p77101
+sa(dp77102
+g86
+I497
+sg34
+VPoulfinch's Mythology [5]
+p77103
+sa(dp77104
+g86
+I497
+sg34
+VPoulfinch's Mythology [6]
+p77105
+sa(dp77106
+g86
+I497
+sg34
+VPoulfinch's Mythology [7]
+p77107
+sa(dp77108
+g86
+I497
+sg34
+VPoulfinch's Mythology [8]
+p77109
+sa(dp77110
+g86
+I497
+sg34
+VPoulfinch's Mythology [9]
+p77111
+sa(dp77112
+g86
+I497
+sg34
+VPoulfinch's Mythology [10]
+p77113
+sa(dp77114
+g86
+I497
+sg34
+VPoulfinch's Mythology [11]
+p77115
+sa(dp77116
+g86
+I497
+sg34
+VPoulfinch's Mythology [12]
+p77117
+sa(dp77118
+g86
+I545
+sg34
+VThe Transmogrification of Wamba's Revenge
+p77119
+sa(dp77120
+g86
+I545
+sg34
+VThe Transmogrification of Wamba's Revenge [2]
+p77121
+sa(dp77122
+g86
+I545
+sg34
+VThe Transmogrification of Wamba's Revenge [3]
+p77123
+sa(dp77124
+g86
+I619
+sg34
+VUnderstanding
+p77125
+sa(dp77126
+g86
+I619
+sg34
+VUnderstanding [2]
+p77127
+sa(dp77128
+g86
+I619
+sg34
+VUnderstanding [3]
+p77129
+sa(dp77130
+g86
+I619
+sg34
+VUnderstanding [4]
+p77131
+sa(dp77132
+g86
+I620
+sg34
+VA Galaxy of Fashion
+p77133
+sa(dp77134
+g86
+I620
+sg34
+VA Galaxy of Fashion [2]
+p77135
+sa(dp77136
+g86
+I620
+sg34
+VA Galaxy of Fashion [3]
+p77137
+sa(dp77138
+g86
+I620
+sg34
+VA Galaxy of Fashion [4]
+p77139
+sa(dp77140
+g86
+I620
+sg34
+VA Galaxy of Fashion [5]
+p77141
+sa(dp77142
+g86
+I40
+sg34
+VThirty Long Years
+p77143
+sa(dp77144
+g86
+I326
+sg34
+VForecast (Galaxy, October 1967)
+p77145
+sa(dp77146
+g86
+I339
+sg34
+VFor Your Information: The Worst of All Comets
+p77147
+sa(dp77148
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, October 1967)
+p77149
+sa(dp77150
+g86
+I305
+sg34
+VThe Transmogrification of Wamba's Revenge
+p77151
+sa(dp77152
+g86
+I95
+sg34
+VUnderstanding
+p77153
+sa(dp77154
+g86
+I591
+sg34
+VDamnation Alley
+p77155
+sa(dp77156
+g86
+I40
+sg34
+VA Galaxy of Fashion
+p77157
+sa(dp77158
+g86
+I30
+sg34
+VPoulfinch's Mythology
+p77159
+sasbag1
+(g2
+g3
+Ntp77160
+Rp77161
+(dp77162
+g49
+(lp77163
+sg30
+(lp77164
+sg86
+I302
+sg82
+(lp77165
+I2
+asg13
+I1967
+sg34
+VGalaxy Magazine December 1967
+p77166
+sg11
+Vhttps://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/Galaxy_v26n02_1967-12_modified/Galaxy_v26n02_1967-12_modified_jp2.zip&file=Galaxy_v26n02_1967-12_modified_jp2/Galaxy_v26n02_1967-12_modified_0000.jp2&scale=0&rotate=0
+p77167
+sg68228
+S'http://www.isfdb.org/wiki/images/e/eb/GALDEC67.jpg'
+p77168
+sg14
+g68230
+sg16
+(lp77169
+sg75
+(lp77170
+I545
+aI499
+aI326
+aI40
+aI339
+aI91
+aI604
+aI30
+aI217
+aI50
+aI32
+aI605
+aI546
+aI16
+aI302
+asg20
+(lp77171
+sg25
+I1120
+sg68234
+(lp77172
+(dp77173
+g86
+I545
+sg34
+VOutpost of Empire
+p77174
+sa(dp77175
+g86
+I545
+sg34
+VOutpost of Empire [2]
+p77176
+sa(dp77177
+g86
+I545
+sg34
+VOutpost of Empire [3]
+p77178
+sa(dp77179
+g86
+I545
+sg34
+VOutpost of Empire [4]
+p77180
+sa(dp77181
+g86
+I499
+sg34
+VThe South Waterford Rumple Club
+p77182
+sa(dp77183
+g86
+I326
+sg34
+VBlack Corridor
+p77184
+sa(dp77185
+g86
+I499
+sg34
+VGalactic Consumer Report No. 3: A Survey of the Membership
+p77186
+sa(dp77187
+g86
+I499
+sg34
+VHandicap
+p77188
+sa(dp77189
+g86
+I499
+sg34
+VHandicap [2]
+p77190
+sa(dp77191
+g86
+I499
+sg34
+VHandicap [3]
+p77192
+sa(dp77193
+g86
+I499
+sg34
+VHandicap [4]
+p77194
+sa(dp77195
+g86
+I499
+sg34
+VThe Fairly Civil Service
+p77196
+sa(dp77197
+g86
+I40
+sg34
+VOn Hugos
+p77198
+sa(dp77199
+g86
+I326
+sg34
+VForecast (Galaxy, December 1967)
+p77200
+sa(dp77201
+g86
+I339
+sg34
+VFor Your Information: Astronautics International
+p77202
+sa(dp77203
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, December 1967)
+p77204
+sa(dp77205
+g86
+I604
+sg34
+VHandicap
+p77206
+sa(dp77207
+g86
+I30
+sg34
+VOutpost of Empire
+p77208
+sa(dp77209
+g86
+I217
+sg34
+VThe South Waterford Rumple Club
+p77210
+sa(dp77211
+g86
+I50
+sg34
+VKing of the Golden World
+p77212
+sa(dp77213
+g86
+I32
+sg34
+VBlack Corridor
+p77214
+sa(dp77215
+g86
+I605
+sg34
+VThe Red Euphoric Bands
+p77216
+sa(dp77217
+g86
+I546
+sg34
+VGalactic Consumer Report No. 3: A Survey of the Membership
+p77218
+sa(dp77219
+g86
+I16
+sg34
+VThe Fairly Civil Service
+p77220
+sasbag1
+(g2
+g3
+Ntp77221
+Rp77222
+(dp77223
+g49
+(lp77224
+sg30
+(lp77225
+sg86
+I302
+sg82
+(lp77226
+I2
+asg13
+I1968
+sg34
+VGalaxy Magazine February 1968
+p77227
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/Galaxy_v26n03_1968-02_modified/Galaxy_v26n03_1968-02_modified_jp2.zip&file=Galaxy_v26n03_1968-02_modified_jp2/Galaxy_v26n03_1968-02_modified_0000.jp2&scale=0&rotate=0
+p77228
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f9/GALFEB68.jpg'
+p77229
+sg14
+g68230
+sg16
+(lp77230
+sg75
+(lp77231
+I545
+aI326
+aI499
+aI615
+aI519
+aI40
+aI339
+aI91
+aI23
+aI592
+aI67
+aI30
+aI621
+aI32
+aI45
+aI74
+aI302
+asg20
+(lp77232
+sg25
+I1121
+sg68234
+(lp77233
+(dp77234
+g86
+I545
+sg34
+VA Tragedy of Errors
+p77235
+sa(dp77236
+g86
+I545
+sg34
+VA Tragedy of Errors [2]
+p77237
+sa(dp77238
+g86
+I545
+sg34
+VA Tragedy of Errors [3]
+p77239
+sa(dp77240
+g86
+I545
+sg34
+VA Tragedy of Errors [4]
+p77241
+sa(dp77242
+g86
+I326
+sg34
+VThe Planet Slummers
+p77243
+sa(dp77244
+g86
+I499
+sg34
+VCrazy Annaoj
+p77245
+sa(dp77246
+g86
+I615
+sg34
+VStreet of Dreams, Feet of Clay
+p77247
+sa(dp77248
+g86
+I615
+sg34
+VStreet of Dreams, Feet of Clay [2]
+p77249
+sa(dp77250
+g86
+I615
+sg34
+VStreet of Dreams, Feet of Clay [3]
+p77251
+sa(dp77252
+g86
+I499
+sg34
+VSales of a Deathman
+p77253
+sa(dp77254
+g86
+I499
+sg34
+VTotal Environment
+p77255
+sa(dp77256
+g86
+I499
+sg34
+VTotal Environment [2]
+p77257
+sa(dp77258
+g86
+I499
+sg34
+VTotal Environment [3]
+p77259
+sa(dp77260
+g86
+I499
+sg34
+VTotal Environment [4]
+p77261
+sa(dp77262
+g86
+I499
+sg34
+VTotal Environment [5]
+p77263
+sa(dp77264
+g86
+I499
+sg34
+VGalaxy Bookshelf (Galaxy Magazine, February 1968)
+p77265
+sa(dp77266
+g86
+I545
+sg34
+VHow They Gave It Back
+p77267
+sa(dp77268
+g86
+I519
+sg34
+VThe Big Show
+p77269
+sa(dp77270
+g86
+I519
+sg34
+VThe Big Show [2]
+p77271
+sa(dp77272
+g86
+I40
+sg34
+VPlaying Games
+p77273
+sa(dp77274
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, February 1968) (Circulation:74,700)
+p77275
+sa(dp77276
+g86
+I339
+sg34
+VFor Your Information: Epitaph for a Lonely Olm
+p77277
+sa(dp77278
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, February 1968)
+p77279
+sa(dp77280
+g86
+I91
+sg34
+VReview of the Nonfiction Work "This New Ocean"
+p77281
+sa(dp77282
+g86
+I326
+sg34
+VForecast (Galaxy, February 1968)
+p77283
+sa(dp77284
+g86
+I23
+sg34
+VStreet of Dreams, Feet of Clay
+p77285
+sa(dp77286
+g86
+I592
+sg34
+VTotal Environment
+p77287
+sa(dp77288
+g86
+I67
+sg34
+VThe Big Show
+p77289
+sa(dp77290
+g86
+I30
+sg34
+VA Tragedy of Errors
+p77291
+sa(dp77292
+g86
+I621
+sg34
+VThe Planet Slummers
+p77293
+sa(dp77294
+g86
+I32
+sg34
+VCrazy Annaoj
+p77295
+sa(dp77296
+g86
+I45
+sg34
+VSales of a Deathman
+p77297
+sa(dp77298
+g86
+I74
+sg34
+VHow They Gave It Back
+p77299
+sasbag1
+(g2
+g3
+Ntp77300
+Rp77301
+(dp77302
+g49
+(lp77303
+sg30
+(lp77304
+sg86
+I302
+sg82
+(lp77305
+I2
+asg13
+I1968
+sg34
+VGalaxy Magazine April 1968
+p77306
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v26n04_1968-04/Galaxy_v26n04_1968-04_jp2.zip&file=Galaxy_v26n04_1968-04_jp2/Galaxy_v26n04_1968-04_0000.jp2&scale=0&rotate=0
+p77307
+sg68228
+S'http://www.isfdb.org/wiki/images/2/28/GALAPR68.jpg'
+p77308
+sg14
+g68230
+sg16
+(lp77309
+sg75
+(lp77310
+I545
+aI611
+aI326
+aI499
+aI40
+aI339
+aI91
+aI622
+aI350
+aI204
+aI56
+aI305
+aI623
+aI604
+aI302
+asg20
+(lp77311
+sg25
+I1122
+sg68234
+(lp77312
+(dp77313
+g86
+I545
+sg34
+VGoblin Reservation (Part 1 of 2)
+p77314
+sa(dp77315
+g86
+I545
+sg34
+VGoblin Reservation (Part 1 of 2) [2]
+p77316
+sa(dp77317
+g86
+I545
+sg34
+VGoblin Reservation (Part 1 of 2) [4]
+p77318
+sa(dp77319
+g86
+I545
+sg34
+VGoblin Reservation (Part 1 of 2) [3]
+p77320
+sa(dp77321
+g86
+I545
+sg34
+VGoblin Reservation (Part 1 of 2) [5]
+p77322
+sa(dp77323
+g86
+I545
+sg34
+VGoblin Reservation (Part 1 of 2) [6]
+p77324
+sa(dp77325
+g86
+I611
+sg34
+VBrain Drain
+p77326
+sa(dp77327
+g86
+I326
+sg34
+VSword Game
+p77328
+sa(dp77329
+g86
+I611
+sg34
+VTouch of the Moon
+p77330
+sa(dp77331
+g86
+I611
+sg34
+VTouch of the Moon [2]
+p77332
+sa(dp77333
+g86
+I499
+sg34
+VThe Deceivers
+p77334
+sa(dp77335
+g86
+I499
+sg34
+VThe World and Thorinn
+p77336
+sa(dp77337
+g86
+I499
+sg34
+VThe World and Thorinn [2]
+p77338
+sa(dp77339
+g86
+I499
+sg34
+VThe World and Thorinn [3]
+p77340
+sa(dp77341
+g86
+I499
+sg34
+VThe World and Thorinn [4]
+p77342
+sa(dp77343
+g86
+I40
+sg34
+VYet Still It Moves
+p77344
+sa(dp77345
+g86
+I339
+sg34
+VFor Your Information: The Devil's Apples
+p77346
+sa(dp77347
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, April 1968)
+p77348
+sa(dp77349
+g86
+I326
+sg34
+VForecast (Galaxy, April 1968)
+p77350
+sa(dp77351
+g86
+I622
+sg34
+VBrain Drain
+p77352
+sa(dp77353
+g86
+I350
+sg34
+VTouch of the Moon
+p77354
+sa(dp77355
+g86
+I204
+sg34
+VThe World and Thorinn
+p77356
+sa(dp77357
+g86
+I56
+sg34
+VGoblin Reservation (Part 1 of 2)
+p77358
+sa(dp77359
+g86
+I305
+sg34
+VThe Riches of Embarrassment
+p77360
+sa(dp77361
+g86
+I623
+sg34
+VSword Game
+p77362
+sa(dp77363
+g86
+I604
+sg34
+VThe Deceivers
+p77364
+sasbag1
+(g2
+g3
+Ntp77365
+Rp77366
+(dp77367
+g49
+(lp77368
+sg30
+(lp77369
+sg86
+I302
+sg82
+(lp77370
+I2
+asg13
+I1968
+sg34
+VGalaxy Magazine July 1968
+p77371
+sg11
+Vhttps://ia601006.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v26n06_1968-07/Galaxy_v26n06_1968-07_jp2.zip&file=Galaxy_v26n06_1968-07_jp2/Galaxy_v26n06_1968-07_0000.jp2&scale=0&rotate=0
+p77372
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d8/GALJUL68.jpg'
+p77373
+sg14
+g68230
+sg16
+(lp77374
+sg75
+(lp77375
+I499
+aI624
+aI625
+aI626
+aI326
+aI627
+aI628
+aI40
+aI339
+aI91
+aI356
+aI604
+aI546
+aI32
+aI74
+aI629
+aI592
+aI614
+aI630
+aI302
+asg20
+(lp77376
+sg25
+I1123
+sg68234
+(lp77377
+(dp77378
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 1 of 3)
+p77379
+sa(dp77380
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 1 of 3) [2]
+p77381
+sa(dp77382
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 1 of 3) [3]
+p77383
+sa(dp77384
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 1 of 3) [4]
+p77385
+sa(dp77386
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 1 of 3) [5]
+p77387
+sa(dp77388
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 1 of 3) [6]
+p77389
+sa(dp77390
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 1 of 3) [7]
+p77391
+sa(dp77392
+g86
+I624
+sg34
+VMcgruder's Marvels
+p77393
+sa(dp77394
+g86
+I624
+sg34
+VMcgruder's Marvels [2]
+p77395
+sa(dp77396
+g86
+I625
+sg34
+VThere Is a Tide
+p77397
+sa(dp77398
+g86
+I625
+sg34
+VThere Is a Tide [2]
+p77399
+sa(dp77400
+g86
+I625
+sg34
+VThere Is a Tide [3]
+p77401
+sa(dp77402
+g86
+I625
+sg34
+VThere Is a Tide [4]
+p77403
+sa(dp77404
+g86
+I626
+sg34
+VBailey's Ark
+p77405
+sa(dp77406
+g86
+I626
+sg34
+VBailey's Ark [2]
+p77407
+sa(dp77408
+g86
+I326
+sg34
+VDreamer, Schemer
+p77409
+sa(dp77410
+g86
+I499
+sg34
+VFactsheet Six
+p77411
+sa(dp77412
+g86
+I499
+sg34
+VFactsheet Six [2]
+p77413
+sa(dp77414
+g86
+I627
+sg34
+VSeconds' Chance
+p77415
+sa(dp77416
+g86
+I627
+sg34
+VSeconds' Chance [2]
+p77417
+sa(dp77418
+g86
+I627
+sg34
+VSeconds' Chance [3]
+p77419
+sa(dp77420
+g86
+I628
+sg34
+VWhen I Was in the Zoo
+p77421
+sa(dp77422
+g86
+I40
+sg34
+VThe Week That Was
+p77423
+sa(dp77424
+g86
+I326
+sg34
+VWhat Would You Do About Vietnam?
+p77425
+sa(dp77426
+g86
+I339
+sg34
+VFor Your Information: Interplanetary Communications
+p77427
+sa(dp77428
+g86
+I326
+sg34
+VForecast (Galaxy, July 1968)
+p77429
+sa(dp77430
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, July 1968)
+p77431
+sa(dp77432
+g86
+I356
+sg34
+V2001: A Space Odyssey (Movie Review)
+p77433
+sa(dp77434
+g86
+I604
+sg34
+VThere Is a Tide
+p77435
+sa(dp77436
+g86
+I546
+sg34
+VFactsheet Six
+p77437
+sa(dp77438
+g86
+I32
+sg34
+VA Specter Is Haunting Texas (Part 1 of 3)
+p77439
+sa(dp77440
+g86
+I74
+sg34
+VMcgruder's Marvels
+p77441
+sa(dp77442
+g86
+I629
+sg34
+VBailey's Ark
+p77443
+sa(dp77444
+g86
+I592
+sg34
+VDreamer, Schemer
+p77445
+sa(dp77446
+g86
+I614
+sg34
+VSeconds' Chance
+p77447
+sa(dp77448
+g86
+I630
+sg34
+VWhen I Was in the Zoo
+p77449
+sasbag1
+(g2
+g3
+Ntp77450
+Rp77451
+(dp77452
+g49
+(lp77453
+sg30
+(lp77454
+sg86
+I302
+sg82
+(lp77455
+I2
+asg13
+I1968
+sg34
+VGalaxy Magazine August 1968
+p77456
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v27n01_1968-08/Galaxy_v27n01_1968-08_jp2.zip&file=Galaxy_v27n01_1968-08_jp2/Galaxy_v27n01_1968-08_0000.jp2&scale=0&rotate=0
+p77457
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d8/GALAUG68.jpg'
+p77458
+sg14
+g68230
+sg16
+(lp77459
+sg75
+(lp77460
+I615
+aI626
+aI499
+aI611
+aI624
+aI40
+aI339
+aI91
+aI326
+aI69
+aI204
+aI32
+aI50
+aI629
+aI631
+aI302
+asg20
+(lp77461
+sg25
+I1124
+sg68234
+(lp77462
+(dp77463
+g86
+I615
+sg34
+VAmong the Bad Baboons
+p77464
+sa(dp77465
+g86
+I615
+sg34
+VAmong the Bad Baboons [2]
+p77466
+sa(dp77467
+g86
+I615
+sg34
+VAmong the Bad Baboons [3]
+p77468
+sa(dp77469
+g86
+I615
+sg34
+VAmong the Bad Baboons [4]
+p77470
+sa(dp77471
+g86
+I626
+sg34
+VGoing Down Smooth
+p77472
+sa(dp77473
+g86
+I626
+sg34
+VGoing Down Smooth [2]
+p77474
+sa(dp77475
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 2 of 3)
+p77476
+sa(dp77477
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 2 of 3) [2]
+p77478
+sa(dp77479
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 2 of 3) [3]
+p77480
+sa(dp77481
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 2 of 3) [4]
+p77482
+sa(dp77483
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 2 of 3) [5]
+p77484
+sa(dp77485
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 2 of 3) [6]
+p77486
+sa(dp77487
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 2 of 3) [7]
+p77488
+sa(dp77489
+g86
+I611
+sg34
+VThe Time Trawlers
+p77490
+sa(dp77491
+g86
+I611
+sg34
+VThe Time Trawlers [2]
+p77492
+sa(dp77493
+g86
+I611
+sg34
+VThe Time Trawlers [3]
+p77494
+sa(dp77495
+g86
+I499
+sg34
+VThe Star Below
+p77496
+sa(dp77497
+g86
+I499
+sg34
+VThe Star Below [2]
+p77498
+sa(dp77499
+g86
+I624
+sg34
+VHemeac
+p77500
+sa(dp77501
+g86
+I40
+sg34
+VTony Boucher
+p77502
+sa(dp77503
+g86
+I339
+sg34
+VFor Your Information: In Australia, the Rain ...
+p77504
+sa(dp77505
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, August 1968)
+p77506
+sa(dp77507
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, August 1968)
+p77508
+sa(dp77509
+g86
+I326
+sg34
+VForecast (Galaxy, August 1968)
+p77510
+sa(dp77511
+g86
+I69
+sg34
+VAmong the Bad Baboons
+p77512
+sa(dp77513
+g86
+I204
+sg34
+VThe Star Below
+p77514
+sa(dp77515
+g86
+I32
+sg34
+VA Specter Is Haunting Texas (Part 2 of 3)
+p77516
+sa(dp77517
+g86
+I50
+sg34
+VGoing Down Smooth
+p77518
+sa(dp77519
+g86
+I629
+sg34
+VThe Time Trawlers
+p77520
+sa(dp77521
+g86
+I631
+sg34
+VHemeac
+p77522
+sasbag1
+(g2
+g3
+Ntp77523
+Rp77524
+(dp77525
+g49
+(lp77526
+sg30
+(lp77527
+sg86
+I302
+sg82
+(lp77528
+I2
+asg13
+I1968
+sg34
+VGalaxy Magazine September 1968
+p77529
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v27n02_1968-09/Galaxy_v27n02_1968-09_jp2.zip&file=Galaxy_v27n02_1968-09_jp2/Galaxy_v27n02_1968-09_0000.jp2&scale=0&rotate=0
+p77530
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d2/GALSEP68.jpg'
+p77531
+sg14
+g68230
+sg16
+(lp77532
+sg75
+(lp77533
+I499
+aI326
+aI611
+aI626
+aI40
+aI339
+aI91
+aI161
+aI50
+aI32
+aI592
+aI350
+aI632
+aI302
+asg20
+(lp77534
+sg25
+I1125
+sg68234
+(lp77535
+(dp77536
+g86
+I499
+sg34
+VNightwings
+p77537
+sa(dp77538
+g86
+I499
+sg34
+VNightwings [2]
+p77539
+sa(dp77540
+g86
+I499
+sg34
+VNightwings [3]
+p77541
+sa(dp77542
+g86
+I326
+sg34
+VWhen I Was Very Jung
+p77543
+sa(dp77544
+g86
+I326
+sg34
+VFind the Face
+p77545
+sa(dp77546
+g86
+I611
+sg34
+VThe Listeners
+p77547
+sa(dp77548
+g86
+I611
+sg34
+VThe Listeners [2]
+p77549
+sa(dp77550
+g86
+I626
+sg34
+VThe Wonders We Owe Degaulle
+p77551
+sa(dp77552
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 3 of 3)
+p77553
+sa(dp77554
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 3 of 3) [2]
+p77555
+sa(dp77556
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 3 of 3) [3]
+p77557
+sa(dp77558
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 3 of 3) [4]
+p77559
+sa(dp77560
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 3 of 3) [5]
+p77561
+sa(dp77562
+g86
+I499
+sg34
+VA Specter Is Haunting Texas (Part 3 of 3) [6]
+p77563
+sa(dp77564
+g86
+I40
+sg34
+VFilm Festival (Ii)
+p77565
+sa(dp77566
+g86
+I339
+sg34
+VFor Your Information: Mission to a Comet
+p77567
+sa(dp77568
+g86
+I326
+sg34
+VForecast (Galaxy, September 1968)
+p77569
+sa(dp77570
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, September 1968)
+p77571
+sa(dp77572
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, September 1968)
+p77573
+sa(dp77574
+g86
+I161
+sg34
+VThe Listeners
+p77575
+sa(dp77576
+g86
+I50
+sg34
+VNightwings
+p77577
+sa(dp77578
+g86
+I32
+sg34
+VA Specter Is Haunting Texas (Part 3 of 3)
+p77579
+sa(dp77580
+g86
+I592
+sg34
+VWhen I Was Very Jung
+p77581
+sa(dp77582
+g86
+I350
+sg34
+VFind the Face
+p77583
+sa(dp77584
+g86
+I632
+sg34
+VThe Wonders We Owe Degaulle
+p77585
+sasbag1
+(g2
+g3
+Ntp77586
+Rp77587
+(dp77588
+g49
+(lp77589
+sg30
+(lp77590
+sg86
+I302
+sg82
+(lp77591
+I2
+asg13
+I1968
+sg34
+VGalaxy Magazine October 1968
+p77592
+sg11
+Vhttps://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v27n03_1968-10/Galaxy_v27n03_1968-10_jp2.zip&file=Galaxy_v27n03_1968-10_jp2/Galaxy_v27n03_1968-10_0000.jp2&scale=0&rotate=0
+p77593
+sg68228
+S'http://www.isfdb.org/wiki/images/a/ab/GALOCT68.jpg'
+p77594
+sg14
+g68230
+sg16
+(lp77595
+sg75
+(lp77596
+I499
+aI624
+aI611
+aI627
+aI497
+aI633
+aI634
+aI40
+aI326
+aI339
+aI91
+aI305
+aI194
+aI69
+aI635
+aI81
+aI604
+aI636
+aI577
+aI637
+aI302
+asg20
+(lp77597
+sg25
+I1126
+sg68234
+(lp77598
+(dp77599
+g86
+I499
+sg34
+VThe Villains From Vega Iv
+p77600
+sa(dp77601
+g86
+I499
+sg34
+VThe Villains From Vega Iv [2]
+p77602
+sa(dp77603
+g86
+I499
+sg34
+VThe Villains From Vega Iv [3]
+p77604
+sa(dp77605
+g86
+I624
+sg34
+VAll the Myriad Ways
+p77606
+sa(dp77607
+g86
+I611
+sg34
+VThyre Planet
+p77608
+sa(dp77609
+g86
+I611
+sg34
+VThyre Planet [2]
+p77610
+sa(dp77611
+g86
+I611
+sg34
+VThyre Planet [3]
+p77612
+sa(dp77613
+g86
+I624
+sg34
+VHomespinner
+p77614
+sa(dp77615
+g86
+I627
+sg34
+VCriminal in Utopia
+p77616
+sa(dp77617
+g86
+I627
+sg34
+VCriminal in Utopia [2]
+p77618
+sa(dp77619
+g86
+I627
+sg34
+VCriminal in Utopia [3]
+p77620
+sa(dp77621
+g86
+I627
+sg34
+VCriminal in Utopia [4]
+p77622
+sa(dp77623
+g86
+I627
+sg34
+VCriminal in Utopia [5]
+p77624
+sa(dp77625
+g86
+I497
+sg34
+VI Bring You Hands
+p77626
+sa(dp77627
+g86
+I497
+sg34
+VI Bring You Hands [2]
+p77628
+sa(dp77629
+g86
+I497
+sg34
+VI Bring You Hands [3]
+p77630
+sa(dp77631
+g86
+I499
+sg34
+VA Visit to Cleveland General
+p77632
+sa(dp77633
+g86
+I499
+sg34
+VA Visit to Cleveland General [2]
+p77634
+sa(dp77635
+g86
+I633
+sg34
+VThe Warbots
+p77636
+sa(dp77637
+g86
+I633
+sg34
+VThe Warbots [2]
+p77638
+sa(dp77639
+g86
+I633
+sg34
+VThe Warbots [3]
+p77640
+sa(dp77641
+g86
+I633
+sg34
+VThe Warbots [4]
+p77642
+sa(dp77643
+g86
+I633
+sg34
+VThe Warbots [5]
+p77644
+sa(dp77645
+g86
+I633
+sg34
+VThe Warbots [6]
+p77646
+sa(dp77647
+g86
+I633
+sg34
+VThe Warbots [7]
+p77648
+sa(dp77649
+g86
+I633
+sg34
+VThe Warbots [8]
+p77650
+sa(dp77651
+g86
+I634
+sg34
+VBehind the Sandrat Hoax
+p77652
+sa(dp77653
+g86
+I40
+sg34
+VMajority Rule
+p77654
+sa(dp77655
+g86
+I326
+sg34
+VForecast (Galaxy, October 1968)
+p77656
+sa(dp77657
+g86
+I339
+sg34
+VFor Your Information: The Orbit of Explorer-1
+p77658
+sa(dp77659
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, October 1968)
+p77660
+sa(dp77661
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, October 1968)
+p77662
+sa(dp77663
+g86
+I305
+sg34
+VThe Villains From Vega Iv
+p77664
+sa(dp77665
+g86
+I194
+sg34
+VThyre Planet
+p77666
+sa(dp77667
+g86
+I69
+sg34
+VCriminal in Utopia
+p77668
+sa(dp77669
+g86
+I635
+sg34
+VI Bring You Hands
+p77670
+sa(dp77671
+g86
+I81
+sg34
+VBehind the Sandrat Hoax
+p77672
+sa(dp77673
+g86
+I604
+sg34
+VAll the Myriad Ways
+p77674
+sa(dp77675
+g86
+I636
+sg34
+VHomespinner
+p77676
+sa(dp77677
+g86
+I577
+sg34
+VA Visit to Cleveland General
+p77678
+sa(dp77679
+g86
+I637
+sg34
+VThe Warbots
+p77680
+sasbag1
+(g2
+g3
+Ntp77681
+Rp77682
+(dp77683
+g49
+(lp77684
+sg30
+(lp77685
+sg86
+I302
+sg82
+(lp77686
+I2
+asg13
+I1968
+sg34
+VGalaxy Magazine November 1968
+p77687
+sg11
+Vhttps://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v27n04_1968-11/Galaxy_v27n04_1968-11_jp2.zip&file=Galaxy_v27n04_1968-11_jp2/Galaxy_v27n04_1968-11_0000.jp2&scale=0&rotate=0
+p77688
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b5/GALNOV68.jpg'
+p77689
+sg14
+g68230
+sg16
+(lp77690
+sg75
+(lp77691
+I499
+aI545
+aI626
+aI611
+aI40
+aI339
+aI326
+aI91
+aI50
+aI315
+aI623
+aI470
+aI638
+aI639
+aI592
+aI302
+asg20
+(lp77692
+sg25
+I1127
+sg68234
+(lp77693
+(dp77694
+g86
+I499
+sg34
+VPerris Way
+p77695
+sa(dp77696
+g86
+I499
+sg34
+VPerris Way [2]
+p77697
+sa(dp77698
+g86
+I499
+sg34
+VPerris Way [3]
+p77699
+sa(dp77700
+g86
+I545
+sg34
+VBuilding On the Line
+p77701
+sa(dp77702
+g86
+I545
+sg34
+VBuilding On the Line [2]
+p77703
+sa(dp77704
+g86
+I626
+sg34
+VLocust Years
+p77705
+sa(dp77706
+g86
+I626
+sg34
+VLocust Years [2]
+p77707
+sa(dp77708
+g86
+I611
+sg34
+VEeeetz Ch
+p77709
+sa(dp77710
+g86
+I611
+sg34
+VEeeetz Ch [2]
+p77711
+sa(dp77712
+g86
+I611
+sg34
+VEeeetz Ch [3]
+p77713
+sa(dp77714
+g86
+I40
+sg34
+VVietnam Revisited
+p77715
+sa(dp77716
+g86
+I339
+sg34
+VFor Your Information: My Friend, the Nautilus
+p77717
+sa(dp77718
+g86
+I326
+sg34
+VForecast (Galaxy, November 1968)
+p77719
+sa(dp77720
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, November 1968)
+p77721
+sa(dp77722
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, November 1968)
+p77723
+sa(dp77724
+g86
+I50
+sg34
+VPerris Way
+p77725
+sa(dp77726
+g86
+I315
+sg34
+VBuilding On the Line
+p77727
+sa(dp77728
+g86
+I623
+sg34
+VEeeetz Ch
+p77729
+sa(dp77730
+g86
+I470
+sg34
+VKeep Moving
+p77731
+sa(dp77732
+g86
+I638
+sg34
+VThe Market in Aliens
+p77733
+sa(dp77734
+g86
+I639
+sg34
+VLocust Years
+p77735
+sa(dp77736
+g86
+I592
+sg34
+VThe Tell-Tale Heart-Machine
+p77737
+sasbag1
+(g2
+g3
+Ntp77738
+Rp77739
+(dp77740
+g49
+(lp77741
+sg30
+(lp77742
+sg86
+I302
+sg82
+(lp77743
+I2
+asg13
+I1968
+sg34
+VGalaxy Magazine December 1968
+p77744
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v27n05_1968-12_modified/Galaxy_v27n05_1968-12_modified_jp2.zip&file=Galaxy_v27n05_1968-12_modified_jp2/Galaxy_v27n05_1968-12_modified_0000.jp2&scale=0&rotate=0
+p77745
+sg68228
+S'http://www.isfdb.org/wiki/images/7/7a/GALDEC68.jpg'
+p77746
+sg14
+g68230
+sg16
+(lp77747
+sg75
+(lp77748
+I640
+aI641
+aI499
+aI545
+aI642
+aI40
+aI339
+aI326
+aI91
+aI30
+aI129
+aI383
+aI69
+aI32
+aI643
+aI603
+aI302
+asg20
+(lp77749
+sg25
+I1128
+sg68234
+(lp77750
+(dp77751
+g86
+I640
+sg34
+VThe Sharing of Flesh
+p77752
+sa(dp77753
+g86
+I640
+sg34
+VThe Sharing of Flesh [2]
+p77754
+sa(dp77755
+g86
+I640
+sg34
+VThe Sharing of Flesh [3]
+p77756
+sa(dp77757
+g86
+I640
+sg34
+VThe Sharing of Flesh [4]
+p77758
+sa(dp77759
+g86
+I641
+sg34
+VOne Station of the Way
+p77760
+sa(dp77761
+g86
+I499
+sg34
+VSubway to the Stars
+p77762
+sa(dp77763
+g86
+I499
+sg34
+VSubway to the Stars [2]
+p77764
+sa(dp77765
+g86
+I499
+sg34
+VSubway to the Stars [3]
+p77766
+sa(dp77767
+g86
+I545
+sg34
+VA Life Postponed
+p77768
+sa(dp77769
+g86
+I545
+sg34
+VA Life Postponed [2]
+p77770
+sa(dp77771
+g86
+I642
+sg34
+VSpying Season
+p77772
+sa(dp77773
+g86
+I642
+sg34
+VSpying Season [2]
+p77774
+sa(dp77775
+g86
+I642
+sg34
+VSpying Season [3]
+p77776
+sa(dp77777
+g86
+I642
+sg34
+VSpying Season [4]
+p77778
+sa(dp77779
+g86
+I40
+sg34
+VThe Great Inventions
+p77780
+sa(dp77781
+g86
+I339
+sg34
+VFor Your Information: The Discovery of the Solar System
+p77782
+sa(dp77783
+g86
+I326
+sg34
+VForecast (Galaxy, December 1968)
+p77784
+sa(dp77785
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, December 1968)
+p77786
+sa(dp77787
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, December 1968)
+p77788
+sa(dp77789
+g86
+I30
+sg34
+VThe Sharing of Flesh
+p77790
+sa(dp77791
+g86
+I129
+sg34
+VSubway to the Stars
+p77792
+sa(dp77793
+g86
+I383
+sg34
+VA Life Postponed
+p77794
+sa(dp77795
+g86
+I69
+sg34
+VSpying Season
+p77796
+sa(dp77797
+g86
+I32
+sg34
+VOne Station of the Way
+p77798
+sa(dp77799
+g86
+I643
+sg34
+VSweet Dreams, Melissa
+p77800
+sa(dp77801
+g86
+I603
+sg34
+VJinn
+p77802
+sasbag1
+(g2
+g3
+Ntp77803
+Rp77804
+(dp77805
+g49
+(lp77806
+sg30
+(lp77807
+sg86
+I302
+sg82
+(lp77808
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine January 1969
+p77809
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v27n06_1969-01/Galaxy_v27n06_1969-01_jp2.zip&file=Galaxy_v27n06_1969-01_jp2/Galaxy_v27n06_1969-01_0000.jp2&scale=0&rotate=0
+p77810
+sg68228
+S'http://www.isfdb.org/wiki/images/e/e8/GALJAN69.jpg'
+p77811
+sg14
+g68230
+sg16
+(lp77812
+sg75
+(lp77813
+I640
+aI644
+aI499
+aI40
+aI326
+aI339
+aI91
+aI47
+aI645
+aI604
+aI67
+aI569
+aI546
+aI302
+asg20
+(lp77814
+sg25
+I1129
+sg68234
+(lp77815
+(dp77816
+g86
+I640
+sg34
+VFoeman, Where Do You Flee?
+p77817
+sa(dp77818
+g86
+I640
+sg34
+VFoeman, Where Do You Flee? [2]
+p77819
+sa(dp77820
+g86
+I640
+sg34
+VFoeman, Where Do You Flee? [3]
+p77821
+sa(dp77822
+g86
+I640
+sg34
+VFoeman, Where Do You Flee? [4]
+p77823
+sa(dp77824
+g86
+I640
+sg34
+VFoeman, Where Do You Flee? [5]
+p77825
+sa(dp77826
+g86
+I640
+sg34
+VFoeman, Where Do You Flee? [6]
+p77827
+sa(dp77828
+g86
+I644
+sg34
+VParimutuel Planet
+p77829
+sa(dp77830
+g86
+I644
+sg34
+VParimutuel Planet [2]
+p77831
+sa(dp77832
+g86
+I499
+sg34
+VDunderbird
+p77833
+sa(dp77834
+g86
+I499
+sg34
+VDunderbird [2]
+p77835
+sa(dp77836
+g86
+I499
+sg34
+VDunderbird [3]
+p77837
+sa(dp77838
+g86
+I499
+sg34
+VThe Organleggers
+p77839
+sa(dp77840
+g86
+I499
+sg34
+VThe Organleggers [2]
+p77841
+sa(dp77842
+g86
+I499
+sg34
+VThe Organleggers [3]
+p77843
+sa(dp77844
+g86
+I40
+sg34
+VTricks and Treats
+p77845
+sa(dp77846
+g86
+I326
+sg34
+VForecast (Galaxy, January 1969)
+p77847
+sa(dp77848
+g86
+I339
+sg34
+VFor Your Information: The Written Word
+p77849
+sa(dp77850
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, January 1969) (Circulation:75,300)
+p77851
+sa(dp77852
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, January 1969)
+p77853
+sa(dp77854
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, January 1969)
+p77855
+sa(dp77856
+g86
+I47
+sg34
+VFoeman, Where Do You Flee?
+p77857
+sa(dp77858
+g86
+I645
+sg34
+VParimutuel Planet
+p77859
+sa(dp77860
+g86
+I604
+sg34
+VThe Organleggers
+p77861
+sa(dp77862
+g86
+I67
+sg34
+VDunderbird
+p77863
+sa(dp77864
+g86
+I569
+sg34
+VWelcome Centaurians
+p77865
+sa(dp77866
+g86
+I546
+sg34
+VThe Thing-of-the-Month Clubs
+p77867
+sasbag1
+(g2
+g3
+Ntp77868
+Rp77869
+(dp77870
+g49
+(lp77871
+sg30
+(lp77872
+sg86
+I302
+sg82
+(lp77873
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine February 1969
+p77874
+sg11
+Vhttps://ia801309.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v28n01_1969-02/Galaxy_v28n01_1969-02_jp2.zip&file=Galaxy_v28n01_1969-02_jp2/Galaxy_v28n01_1969-02_0000.jp2&scale=0&rotate=0
+p77875
+sg68228
+S'http://www.isfdb.org/wiki/images/1/14/GALFEB69.jpg'
+p77876
+sg14
+g68230
+sg16
+(lp77877
+sg75
+(lp77878
+I499
+aI646
+aI626
+aI640
+aI40
+aI339
+aI91
+aI326
+aI50
+aI647
+aI602
+aI8
+aI55
+aI302
+asg20
+(lp77879
+sg25
+I1130
+sg68234
+(lp77880
+(dp77881
+g86
+I499
+sg34
+VTo Jorslem
+p77882
+sa(dp77883
+g86
+I499
+sg34
+VTo Jorslem [2]
+p77884
+sa(dp77885
+g86
+I499
+sg34
+VTo Jorslem [3]
+p77886
+sa(dp77887
+g86
+I646
+sg34
+VThe War with the Fnools
+p77888
+sa(dp77889
+g86
+I646
+sg34
+VThe War with the Fnools [2]
+p77890
+sa(dp77891
+g86
+I499
+sg34
+VGolden Quicksand
+p77892
+sa(dp77893
+g86
+I499
+sg34
+VGolden Quicksand [2]
+p77894
+sa(dp77895
+g86
+I499
+sg34
+VGolden Quicksand [3]
+p77896
+sa(dp77897
+g86
+I499
+sg34
+VGolden Quicksand [4]
+p77898
+sa(dp77899
+g86
+I499
+sg34
+VGolden Quicksand [5]
+p77900
+sa(dp77901
+g86
+I499
+sg34
+VGolden Quicksand [6]
+p77902
+sa(dp77903
+g86
+I499
+sg34
+VGolden Quicksand [7]
+p77904
+sa(dp77905
+g86
+I499
+sg34
+VGolden Quicksand [8]
+p77906
+sa(dp77907
+g86
+I499
+sg34
+VGolden Quicksand [9]
+p77908
+sa(dp77909
+g86
+I499
+sg34
+VGolden Quicksand [10]
+p77910
+sa(dp77911
+g86
+I499
+sg34
+VGolden Quicksand [11]
+p77912
+sa(dp77913
+g86
+I499
+sg34
+VGolden Quicksand [12]
+p77914
+sa(dp77915
+g86
+I626
+sg34
+VOur Binary Brothers
+p77916
+sa(dp77917
+g86
+I640
+sg34
+VKendy's World
+p77918
+sa(dp77919
+g86
+I640
+sg34
+VKendy's World [2]
+p77920
+sa(dp77921
+g86
+I640
+sg34
+VKendy's World [3]
+p77922
+sa(dp77923
+g86
+I640
+sg34
+VKendy's World [4]
+p77924
+sa(dp77925
+g86
+I40
+sg34
+VTraps or Truths
+p77926
+sa(dp77927
+g86
+I339
+sg34
+VFor Your Information: The Island of Brazil
+p77928
+sa(dp77929
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, February 1969)
+p77930
+sa(dp77931
+g86
+I326
+sg34
+VForecast (Galaxy, February 1969)
+p77932
+sa(dp77933
+g86
+I40
+sg34
+VGalaxy's Stars (Galaxy, February 1969)
+p77934
+sa(dp77935
+g86
+I50
+sg34
+VTo Jorslem
+p77936
+sa(dp77937
+g86
+I647
+sg34
+VGolden Quicksand
+p77938
+sa(dp77939
+g86
+I602
+sg34
+VKendy's World
+p77940
+sa(dp77941
+g86
+I91
+sg34
+VNow Hear the Word of the Lord
+p77942
+sa(dp77943
+g86
+I8
+sg34
+VThe War with the Fnools
+p77944
+sa(dp77945
+g86
+I55
+sg34
+VOur Binary Brothers
+p77946
+sasbag1
+(g2
+g3
+Ntp77947
+Rp77948
+(dp77949
+g49
+(lp77950
+sg30
+(lp77951
+sg86
+I302
+sg82
+(lp77952
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine March 1969
+p77953
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v28n02_1969-03/Galaxy_v28n02_1969-03_jp2.zip&file=Galaxy_v28n02_1969-03_jp2/Galaxy_v28n02_1969-03_0000.jp2&scale=0&rotate=0
+p77954
+sg68228
+S'http://www.isfdb.org/wiki/images/3/38/GALMAR69.jpg'
+p77955
+sg14
+g68230
+sg16
+(lp77956
+sg75
+(lp77957
+I499
+aI640
+aI40
+aI326
+aI339
+aI604
+aI91
+aI613
+aI648
+aI67
+aI446
+aI632
+aI645
+aI592
+aI302
+asg20
+(lp77958
+sg25
+I1131
+sg68234
+(lp77959
+(dp77960
+g86
+I499
+sg34
+VAnd Now They Wake (Part 1 of 3)
+p77961
+sa(dp77962
+g86
+I499
+sg34
+VAnd Now They Wake (Part 1 of 3) [2]
+p77963
+sa(dp77964
+g86
+I499
+sg34
+VAnd Now They Wake (Part 1 of 3) [3]
+p77965
+sa(dp77966
+g86
+I640
+sg34
+VThe Weather On Welladay
+p77967
+sa(dp77968
+g86
+I640
+sg34
+VThe Weather On Welladay [2]
+p77969
+sa(dp77970
+g86
+I640
+sg34
+VThe Weather On Welladay [3]
+p77971
+sa(dp77972
+g86
+I640
+sg34
+VThe Weather On Welladay [4]
+p77973
+sa(dp77974
+g86
+I499
+sg34
+VGodel Numbers
+p77975
+sa(dp77976
+g86
+I499
+sg34
+VGodel Numbers [2]
+p77977
+sa(dp77978
+g86
+I499
+sg34
+VGodel Numbers [3]
+p77979
+sa(dp77980
+g86
+I40
+sg34
+VThe Election Everybody Won
+p77981
+sa(dp77982
+g86
+I326
+sg34
+VForecast (Galaxy, March 1969)
+p77983
+sa(dp77984
+g86
+I339
+sg34
+VFor Your Information: Collision Course
+p77985
+sa(dp77986
+g86
+I604
+sg34
+VThe Theory and Practice of Teleportation
+p77987
+sa(dp77988
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, March 1969)
+p77989
+sa(dp77990
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, March 1969)
+p77991
+sa(dp77992
+g86
+I613
+sg34
+VThe Weather On Welladay
+p77993
+sa(dp77994
+g86
+I648
+sg34
+VGodel Numbers
+p77995
+sa(dp77996
+g86
+I67
+sg34
+VAnd Now They Wake (Part 1 of 3)
+p77997
+sa(dp77998
+g86
+I446
+sg34
+VThe City That Loves You
+p77999
+sa(dp78000
+g86
+I632
+sg34
+VLeviathan
+p78001
+sa(dp78002
+g86
+I645
+sg34
+VThe Last Flight of Dr. Ain
+p78003
+sa(dp78004
+g86
+I592
+sg34
+VGreeks Bringing Knee-High Gifts
+p78005
+sasbag1
+(g2
+g3
+Ntp78006
+Rp78007
+(dp78008
+g49
+(lp78009
+sg30
+(lp78010
+sg86
+I302
+sg82
+(lp78011
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine April 1969
+p78012
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/Galaxy_v28n03_1969-04/Galaxy_v28n03_1969-04_jp2.zip&file=Galaxy_v28n03_1969-04_jp2/Galaxy_v28n03_1969-04_0000.jp2&scale=0&rotate=0
+p78013
+sg68228
+S'http://www.isfdb.org/wiki/images/1/15/GALAPR69.jpg'
+p78014
+sg14
+g68230
+sg16
+(lp78015
+sg75
+(lp78016
+I611
+aI640
+aI649
+aI499
+aI40
+aI91
+aI326
+aI339
+aI56
+aI161
+aI67
+aI645
+aI45
+aI254
+aI302
+asg20
+(lp78017
+sg25
+I1132
+sg68234
+(lp78018
+(dp78019
+g86
+I611
+sg34
+VWitch Hunt
+p78020
+sa(dp78021
+g86
+I611
+sg34
+VWitch Hunt [2]
+p78022
+sa(dp78023
+g86
+I611
+sg34
+VWitch Hunt [3]
+p78024
+sa(dp78025
+g86
+I640
+sg34
+VHow Like a God
+p78026
+sa(dp78027
+g86
+I640
+sg34
+VHow Like a God [2]
+p78028
+sa(dp78029
+g86
+I640
+sg34
+VHow Like a God [3]
+p78030
+sa(dp78031
+g86
+I649
+sg34
+VBuckets of Diamonds
+p78032
+sa(dp78033
+g86
+I649
+sg34
+VBuckets of Diamonds [2]
+p78034
+sa(dp78035
+g86
+I649
+sg34
+VBuckets of Diamonds [3]
+p78036
+sa(dp78037
+g86
+I499
+sg34
+VAnd Now They Wake (Part 2 of 3)
+p78038
+sa(dp78039
+g86
+I499
+sg34
+VAnd Now They Wake (Part 2 of 3) [2]
+p78040
+sa(dp78041
+g86
+I499
+sg34
+VAnd Now They Wake (Part 2 of 3) [3]
+p78042
+sa(dp78043
+g86
+I499
+sg34
+VAnd Now They Wake (Part 2 of 3) [4]
+p78044
+sa(dp78045
+g86
+I40
+sg34
+VThe Prometheus Project
+p78046
+sa(dp78047
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, April 1969)
+p78048
+sa(dp78049
+g86
+I326
+sg34
+VForecast (Galaxy, April 1969)
+p78050
+sa(dp78051
+g86
+I339
+sg34
+VFor Your Information: The Drowned Civilization
+p78052
+sa(dp78053
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, April 1969)
+p78054
+sa(dp78055
+g86
+I56
+sg34
+VBuckets of Diamonds
+p78056
+sa(dp78057
+g86
+I161
+sg34
+VWitch Hunt
+p78058
+sa(dp78059
+g86
+I67
+sg34
+VAnd Now They Wake (Part 2 of 3)
+p78060
+sa(dp78061
+g86
+I645
+sg34
+VBeam Us Home
+p78062
+sa(dp78063
+g86
+I45
+sg34
+VHow Like a God
+p78064
+sa(dp78065
+g86
+I254
+sg34
+VSlave to Man
+p78066
+sasbag1
+(g2
+g3
+Ntp78067
+Rp78068
+(dp78069
+g49
+(lp78070
+sg30
+(lp78071
+sg86
+I302
+sg82
+(lp78072
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine May 1969
+p78073
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v28n04_1969-05/Galaxy_v28n04_1969-05_jp2.zip&file=Galaxy_v28n04_1969-05_jp2/Galaxy_v28n04_1969-05_0000.jp2&scale=0&rotate=0
+p78074
+sg68228
+S'http://www.isfdb.org/wiki/images/f/fd/GALMAY69.jpg'
+p78075
+sg14
+g68230
+sg16
+(lp78076
+sg75
+(lp78077
+I640
+aI650
+aI499
+aI40
+aI339
+aI326
+aI91
+aI217
+aI577
+aI67
+aI651
+aI621
+aI652
+aI653
+aI654
+aI302
+asg20
+(lp78078
+sg25
+I1133
+sg68234
+(lp78079
+(dp78080
+g86
+I640
+sg34
+VLittle Blue Hawk
+p78081
+sa(dp78082
+g86
+I640
+sg34
+VLittle Blue Hawk [2]
+p78083
+sa(dp78084
+g86
+I640
+sg34
+VLittle Blue Hawk [3]
+p78085
+sa(dp78086
+g86
+I650
+sg34
+VA Man Spekith
+p78087
+sa(dp78088
+g86
+I650
+sg34
+VA Man Spekith [2]
+p78089
+sa(dp78090
+g86
+I499
+sg34
+VAnd Now They Wake (Part 3 of 3)
+p78091
+sa(dp78092
+g86
+I499
+sg34
+VAnd Now They Wake (Part 3 of 3) [2]
+p78093
+sa(dp78094
+g86
+I499
+sg34
+VAnd Now They Wake (Part 3 of 3) [3]
+p78095
+sa(dp78096
+g86
+I40
+sg34
+VThe Littleness of Earth and the Bigness of Man
+p78097
+sa(dp78098
+g86
+I339
+sg34
+VFor Your Information: Max Valier and the Rocket-Propelled Airplane
+p78099
+sa(dp78100
+g86
+I326
+sg34
+VForecast (Galaxy, May 1969)
+p78101
+sa(dp78102
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, May 1969)
+p78103
+sa(dp78104
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, May 1969)
+p78105
+sa(dp78106
+g86
+I217
+sg34
+VA Man Spekith
+p78107
+sa(dp78108
+g86
+I577
+sg34
+VLittle Blue Hawk
+p78109
+sa(dp78110
+g86
+I67
+sg34
+VAnd Now They Wake (Part 3 of 3)
+p78111
+sa(dp78112
+g86
+I651
+sg34
+VThe Open Secrets
+p78113
+sa(dp78114
+g86
+I621
+sg34
+VStar Dream
+p78115
+sa(dp78116
+g86
+I652
+sg34
+VColoured Element
+p78117
+sa(dp78118
+g86
+I653
+sg34
+VKillerbot!
+p78119
+sa(dp78120
+g86
+I654
+sg34
+VThe Man Inside
+p78121
+sasbag1
+(g2
+g3
+Ntp78122
+Rp78123
+(dp78124
+g49
+(lp78125
+sg30
+(lp78126
+sg86
+I302
+sg82
+(lp78127
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine July 1969
+p78128
+sg11
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v28n05_1969-07/Galaxy_v28n05_1969-07_jp2.zip&file=Galaxy_v28n05_1969-07_jp2/Galaxy_v28n05_1969-07_0000.jp2&scale=0&rotate=0
+p78129
+sg68228
+S'http://www.isfdb.org/wiki/images/8/8e/GALJUL69.jpg'
+p78130
+sg14
+g68230
+sg16
+(lp78131
+sg75
+(lp78132
+I499
+aI611
+aI640
+aI40
+aI339
+aI91
+aI326
+aI55
+aI630
+aI63
+aI655
+aI656
+aI302
+asg20
+(lp78133
+sg25
+I1134
+sg68234
+(lp78134
+(dp78135
+g86
+I499
+sg34
+VDune Messiah (Part 1 of 5)
+p78136
+sa(dp78137
+g86
+I499
+sg34
+VDune Messiah (Part 1 of 5) [2]
+p78138
+sa(dp78139
+g86
+I499
+sg34
+VDune Messiah (Part 1 of 5) [3]
+p78140
+sa(dp78141
+g86
+I611
+sg34
+VThe City That Was the World
+p78142
+sa(dp78143
+g86
+I611
+sg34
+VThe City That Was the World [2]
+p78144
+sa(dp78145
+g86
+I611
+sg34
+VThe City That Was the World [3]
+p78146
+sa(dp78147
+g86
+I640
+sg34
+VThe Kinsolving's Planet Irregulars
+p78148
+sa(dp78149
+g86
+I640
+sg34
+VThe Kinsolving's Planet Irregulars [2]
+p78150
+sa(dp78151
+g86
+I640
+sg34
+VThe Kinsolving's Planet Irregulars [3]
+p78152
+sa(dp78153
+g86
+I640
+sg34
+VThe Kinsolving's Planet Irregulars [4]
+p78154
+sa(dp78155
+g86
+I40
+sg34
+VSf in the Sun
+p78156
+sa(dp78157
+g86
+I339
+sg34
+VFor Your Information: Eugen Sanger and the Rocket-Propelled Airplane
+p78158
+sa(dp78159
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, July 1969)
+p78160
+sa(dp78161
+g86
+I326
+sg34
+VForecast (Galaxy, July 1969)
+p78162
+sa(dp78163
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, July 1969)
+p78164
+sa(dp78165
+g86
+I55
+sg34
+VThe City That Was the World
+p78166
+sa(dp78167
+g86
+I630
+sg34
+VThe Kinsolving's Planet Irregulars
+p78168
+sa(dp78169
+g86
+I63
+sg34
+VDune Messiah (Part 1 of 5)
+p78170
+sa(dp78171
+g86
+I655
+sg34
+VFull Commitment
+p78172
+sa(dp78173
+g86
+I656
+sg34
+VA Brief History of the Revolution
+p78174
+sasbag1
+(g2
+g3
+Ntp78175
+Rp78176
+(dp78177
+g49
+(lp78178
+sg30
+(lp78179
+sg86
+I302
+sg82
+(lp78180
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine August 1969
+p78181
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v28n06_1969-08_modified/Galaxy_v28n06_1969-08_modified_jp2.zip&file=Galaxy_v28n06_1969-08_modified_jp2/Galaxy_v28n06_1969-08_modified_0000.jp2&scale=0&rotate=0
+p78182
+sg68228
+S'http://www.isfdb.org/wiki/images/1/12/GALAUG69.jpg'
+p78183
+sg14
+g68230
+sg16
+(lp78184
+sg75
+(lp78185
+I499
+aI326
+aI91
+aI339
+aI30
+aI636
+aI630
+aI63
+aI32
+aI654
+aI56
+aI356
+aI302
+asg20
+(lp78186
+sg25
+I1135
+sg68234
+(lp78187
+(dp78188
+g86
+I499
+sg34
+VThe White King's War
+p78189
+sa(dp78190
+g86
+I326
+sg34
+VStarhunger
+p78191
+sa(dp78192
+g86
+I499
+sg34
+VThe Minus Effect
+p78193
+sa(dp78194
+g86
+I499
+sg34
+VWhen They Openly Walk
+p78195
+sa(dp78196
+g86
+I499
+sg34
+VLife Matter
+p78197
+sa(dp78198
+g86
+I326
+sg34
+VI Am Crying All Inside
+p78199
+sa(dp78200
+g86
+I326
+sg34
+VDune Messiah (Part 2 of 5)
+p78201
+sa(dp78202
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, August 1969)
+p78203
+sa(dp78204
+g86
+I326
+sg34
+VForecast (Galaxy, August 1969)
+p78205
+sa(dp78206
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy Magazine, August 1969)
+p78207
+sa(dp78208
+g86
+I339
+sg34
+VFor Your Information (Galaxy Magazine, August 1969)
+p78209
+sa(dp78210
+g86
+I30
+sg34
+VThe White King's War
+p78211
+sa(dp78212
+g86
+I636
+sg34
+VStarhunger
+p78213
+sa(dp78214
+g86
+I630
+sg34
+VThe Minus Effect
+p78215
+sa(dp78216
+g86
+I63
+sg34
+VDune Messiah (Part 2 of 5)
+p78217
+sa(dp78218
+g86
+I32
+sg34
+VWhen They Openly Walk
+p78219
+sa(dp78220
+g86
+I654
+sg34
+VLife Matter
+p78221
+sa(dp78222
+g86
+I56
+sg34
+VI Am Crying All Inside
+p78223
+sa(dp78224
+g86
+I356
+sg34
+VRescue Team
+p78225
+sasbag1
+(g2
+g3
+Ntp78226
+Rp78227
+(dp78228
+g49
+(lp78229
+sg30
+(lp78230
+sg86
+I302
+sg82
+(lp78231
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine September 1969
+p78232
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v29n01_1969-09/Galaxy_v29n01_1969-09_jp2.zip&file=Galaxy_v29n01_1969-09_jp2/Galaxy_v29n01_1969-09_0000.jp2&scale=0&rotate=0
+p78233
+sg68228
+S'http://www.isfdb.org/wiki/images/c/ce/GALSEP69.jpg'
+p78234
+sg14
+g68230
+sg16
+(lp78235
+sg75
+(lp78236
+I499
+aI570
+aI326
+aI657
+aI40
+aI597
+aI91
+aI339
+aI356
+aI658
+aI659
+aI63
+aI660
+aI661
+aI662
+aI302
+asg20
+(lp78237
+sg25
+I1136
+sg68234
+(lp78238
+(dp78239
+g86
+I499
+sg34
+VHumans, Go Home!
+p78240
+sa(dp78241
+g86
+I499
+sg34
+VHumans, Go Home! [2]
+p78242
+sa(dp78243
+g86
+I499
+sg34
+VHumans, Go Home! [3]
+p78244
+sa(dp78245
+g86
+I499
+sg34
+VHumans, Go Home! [4]
+p78246
+sa(dp78247
+g86
+I499
+sg34
+VHumans, Go Home! [5]
+p78248
+sa(dp78249
+g86
+I499
+sg34
+VHumans, Go Home! [6]
+p78250
+sa(dp78251
+g86
+I499
+sg34
+VOut of Phase
+p78252
+sa(dp78253
+g86
+I499
+sg34
+VOut of Phase [2]
+p78254
+sa(dp78255
+g86
+I570
+sg34
+VPasser
+p78256
+sa(dp78257
+g86
+I326
+sg34
+VCitadel
+p78258
+sa(dp78259
+g86
+I657
+sg34
+VRevival Meeting
+p78260
+sa(dp78261
+g86
+I326
+sg34
+VDune Messiah (Part 3 of 5)
+p78262
+sa(dp78263
+g86
+I499
+sg34
+VCredo: Willy Ley: The First Citizen of the Moon
+p78264
+sa(dp78265
+g86
+I40
+sg34
+VUnnatural Selection
+p78266
+sa(dp78267
+g86
+I597
+sg34
+VMartians and Venusians
+p78268
+sa(dp78269
+g86
+I326
+sg34
+VForecast (Galaxy, September 1969)
+p78270
+sa(dp78271
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, September 1969)
+p78272
+sa(dp78273
+g86
+I91
+sg34
+VGalaxy Book Shelf (Galaxy, September 1969)
+p78274
+sa(dp78275
+g86
+I339
+sg34
+VFor Your Information (Galaxy, September 1969)
+p78276
+sa(dp78277
+g86
+I356
+sg34
+VCredo: Willy Ley: The First Citizen of the Moon (Obituary)
+p78278
+sa(dp78279
+g86
+I658
+sg34
+VHumans, Go Home!
+p78280
+sa(dp78281
+g86
+I659
+sg34
+VThe Martian Surface
+p78282
+sa(dp78283
+g86
+I63
+sg34
+VDune Messiah (Part 3 of 5)
+p78284
+sa(dp78285
+g86
+I660
+sg34
+VOut of Phase
+p78286
+sa(dp78287
+g86
+I661
+sg34
+VCitadel
+p78288
+sa(dp78289
+g86
+I662
+sg34
+VRevival Meeting
+p78290
+sasbag1
+(g2
+g3
+Ntp78291
+Rp78292
+(dp78293
+g49
+(lp78294
+sg30
+(lp78295
+sg86
+I302
+sg82
+(lp78296
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine October 1969
+p78297
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v29n02_1969-10/Galaxy_v29n02_1969-10_jp2.zip&file=Galaxy_v29n02_1969-10_jp2/Galaxy_v29n02_1969-10_0000.jp2&scale=0&rotate=0
+p78298
+sg68228
+S'http://www.isfdb.org/wiki/images/2/23/GALOCT69.jpg'
+p78299
+sg14
+g68230
+sg16
+(lp78300
+sg75
+(lp78301
+I499
+aI326
+aI40
+aI339
+aI91
+aI602
+aI663
+aI63
+aI204
+aI664
+aI665
+aI630
+aI666
+aI662
+aI302
+asg20
+(lp78302
+sg25
+I1137
+sg68234
+(lp78303
+(dp78304
+g86
+I499
+sg34
+VTomorrow Cum Laude
+p78305
+sa(dp78306
+g86
+I499
+sg34
+VTomorrow Cum Laude [2]
+p78307
+sa(dp78308
+g86
+I499
+sg34
+VTomorrow Cum Laude [3]
+p78309
+sa(dp78310
+g86
+I499
+sg34
+VTomorrow Cum Laude [4]
+p78311
+sa(dp78312
+g86
+I326
+sg34
+VThe God of Cool
+p78313
+sa(dp78314
+g86
+I326
+sg34
+VElement of Chance
+p78315
+sa(dp78316
+g86
+I499
+sg34
+VThe Soul Machine
+p78317
+sa(dp78318
+g86
+I499
+sg34
+VErsalz's Rule
+p78319
+sa(dp78320
+g86
+I326
+sg34
+VTake the B Train
+p78321
+sa(dp78322
+g86
+I499
+sg34
+VTake the B Train [2]
+p78323
+sa(dp78324
+g86
+I326
+sg34
+VStella
+p78325
+sa(dp78326
+g86
+I326
+sg34
+VDune Messiah (Part 4 of 5)
+p78327
+sa(dp78328
+g86
+I40
+sg34
+VWhat Happened On 18 December 1955
+p78329
+sa(dp78330
+g86
+I339
+sg34
+VFor Your Information (Galaxy Magazine, October 1969)
+p78331
+sa(dp78332
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, October 1969)
+p78333
+sa(dp78334
+g86
+I602
+sg34
+VTomorrow Cum Laude
+p78335
+sa(dp78336
+g86
+I663
+sg34
+VTake the B Train
+p78337
+sa(dp78338
+g86
+I63
+sg34
+VDune Messiah (Part 4 of 5)
+p78339
+sa(dp78340
+g86
+I204
+sg34
+VTruly Human
+p78341
+sa(dp78342
+g86
+I664
+sg34
+VThe God of Cool
+p78343
+sa(dp78344
+g86
+I665
+sg34
+VElement of Chance
+p78345
+sa(dp78346
+g86
+I630
+sg34
+VThe Soul Machine
+p78347
+sa(dp78348
+g86
+I666
+sg34
+VErsalz's Rule
+p78349
+sa(dp78350
+g86
+I662
+sg34
+VStella
+p78351
+sasbag1
+(g2
+g3
+Ntp78352
+Rp78353
+(dp78354
+g49
+(lp78355
+sg30
+(lp78356
+sg86
+I302
+sg82
+(lp78357
+I2
+asg13
+I1969
+sg34
+VGalaxy Magazine December 1969
+p78358
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v29n04_1969-12/Galaxy_v29n04_1969-12_jp2.zip&file=Galaxy_v29n04_1969-12_jp2/Galaxy_v29n04_1969-12_0000.jp2&scale=0&rotate=0
+p78359
+sg68228
+S'http://www.isfdb.org/wiki/images/c/c5/GALDEC69.jpg'
+p78360
+sg14
+g68230
+sg16
+(lp78361
+sg75
+(lp78362
+I615
+aI326
+aI499
+aI667
+aI91
+aI668
+aI669
+aI50
+aI86
+aI670
+aI591
+aI671
+aI302
+asg20
+(lp78363
+sg25
+I1138
+sg68234
+(lp78364
+(dp78365
+g86
+I615
+sg34
+VEditorial: Sunpot
+p78366
+sa(dp78367
+g86
+I326
+sg34
+VJamboree
+p78368
+sa(dp78369
+g86
+I326
+sg34
+VHalf Past Human
+p78370
+sa(dp78371
+g86
+I326
+sg34
+VHalf Past Human [2]
+p78372
+sa(dp78373
+g86
+I326
+sg34
+VHalf Past Human [3]
+p78374
+sa(dp78375
+g86
+I326
+sg34
+VHalf Past Human [4]
+p78376
+sa(dp78377
+g86
+I326
+sg34
+VEternity Calling
+p78378
+sa(dp78379
+g86
+I499
+sg34
+VThe Year of the Good Seed
+p78380
+sa(dp78381
+g86
+I499
+sg34
+VDownward to the Earth (Part 2 of 4)
+p78382
+sa(dp78383
+g86
+I499
+sg34
+VDownward to the Earth (Part 2 of 4) [2]
+p78384
+sa(dp78385
+g86
+I499
+sg34
+VOracle for a White Rabbit
+p78386
+sa(dp78387
+g86
+I326
+sg34
+VHorn of Plenty
+p78388
+sa(dp78389
+g86
+I667
+sg34
+VSunpot
+p78390
+sa(dp78391
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, December 1969)
+p78392
+sa(dp78393
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, December 1969) (Circulation: 51,479)
+p78394
+sa(dp78395
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, December 1969)
+p78396
+sa(dp78397
+g86
+I668
+sg34
+VOracle for a White Rabbit
+p78398
+sa(dp78399
+g86
+I669
+sg34
+VHalf Past Human
+p78400
+sa(dp78401
+g86
+I50
+sg34
+VDownward to the Earth (Part 2 of 4)
+p78402
+sa(dp78403
+g86
+I86
+sg34
+VJamboree
+p78404
+sa(dp78405
+g86
+I670
+sg34
+VEternity Calling
+p78406
+sa(dp78407
+g86
+I591
+sg34
+VThe Year of the Good Seed
+p78408
+sa(dp78409
+g86
+I671
+sg34
+VHorn of Plenty
+p78410
+sasbag1
+(g2
+g3
+Ntp78411
+Rp78412
+(dp78413
+g49
+(lp78414
+sg30
+(lp78415
+sg86
+I302
+sg82
+(lp78416
+I2
+asg13
+I1970
+sg34
+VGalaxy Magazine February 1970
+p78417
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v29n05_1970-02/Galaxy_v29n05_1970-02_jp2.zip&file=Galaxy_v29n05_1970-02_jp2/Galaxy_v29n05_1970-02_0000.jp2&scale=0&rotate=0
+p78418
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f6/GALFEB70.jpg'
+p78419
+sg14
+g68230
+sg16
+(lp78420
+sg75
+(lp78421
+I499
+aI326
+aI672
+aI615
+aI91
+aI673
+aI341
+aI630
+aI50
+aI662
+aI674
+aI302
+asg20
+(lp78422
+sg25
+I1139
+sg68234
+(lp78423
+(dp78424
+g86
+I499
+sg34
+VThe Shaker Revival
+p78425
+sa(dp78426
+g86
+I326
+sg34
+VThe Shaker Revival [2]
+p78427
+sa(dp78428
+g86
+I326
+sg34
+VThe Shaker Revival [3]
+p78429
+sa(dp78430
+g86
+I326
+sg34
+VThe Shaker Revival [4]
+p78431
+sa(dp78432
+g86
+I326
+sg34
+VThe Shaker Revival [5]
+p78433
+sa(dp78434
+g86
+I672
+sg34
+VSlow Sculpture
+p78435
+sa(dp78436
+g86
+I499
+sg34
+VSleeping Beauty
+p78437
+sa(dp78438
+g86
+I499
+sg34
+VThe Last Night of the Festival
+p78439
+sa(dp78440
+g86
+I499
+sg34
+VThe Last Night of the Festival [2]
+p78441
+sa(dp78442
+g86
+I499
+sg34
+VDownward to the Earth (Part 3 of 4)
+p78443
+sa(dp78444
+g86
+I499
+sg34
+VDownward to the Earth (Part 3 of 4) [2]
+p78445
+sa(dp78446
+g86
+I326
+sg34
+VAfter They Took the Panama Canal
+p78447
+sa(dp78448
+g86
+I615
+sg34
+VSunpot (Part 1 of 4) [2]
+p78449
+sa(dp78450
+g86
+I91
+sg34
+VGalaxy Book Shelf (Galaxy, February 1970)
+p78451
+sa(dp78452
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, February 1970)
+p78453
+sa(dp78454
+g86
+I673
+sg34
+VThe Shaker Revival
+p78455
+sa(dp78456
+g86
+I341
+sg34
+VSlow Sculpture
+p78457
+sa(dp78458
+g86
+I630
+sg34
+VSleeping Beauty
+p78459
+sa(dp78460
+g86
+I50
+sg34
+VDownward to the Earth (Part 3 of 4)
+p78461
+sa(dp78462
+g86
+I615
+sg34
+VSunpot (Part 1 of 4)
+p78463
+sa(dp78464
+g86
+I662
+sg34
+VThe Last Night of the Festival
+p78465
+sa(dp78466
+g86
+I674
+sg34
+VAfter They Took the Panama Canal
+p78467
+sasbag1
+(g2
+g3
+Ntp78468
+Rp78469
+(dp78470
+g49
+(lp78471
+sg30
+(lp78472
+sg86
+I302
+sg82
+(lp78473
+I2
+asg13
+I1970
+sg34
+VGalaxy Magazine April 1970
+p78474
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/Galaxy_v30n01_1970-04/Galaxy_v30n01_1970-04_jp2.zip&file=Galaxy_v30n01_1970-04_jp2/Galaxy_v30n01_1970-04_0000.jp2&scale=0&rotate=0
+p78475
+sg68228
+S'http://www.isfdb.org/wiki/images/4/4a/GALAPR70.jpg'
+p78476
+sg14
+g68230
+sg16
+(lp78477
+sg75
+(lp78478
+I499
+aI326
+aI615
+aI667
+aI91
+aI478
+aI675
+aI630
+aI18
+aI50
+aI676
+aI161
+aI302
+asg20
+(lp78479
+sg25
+I1140
+sg68234
+(lp78480
+(dp78481
+g86
+I499
+sg34
+VAllison, Carmichael and Tattersall
+p78482
+sa(dp78483
+g86
+I499
+sg34
+VAllison, Carmichael and Tattersall [2]
+p78484
+sa(dp78485
+g86
+I499
+sg34
+VAllison, Carmichael and Tattersall [3]
+p78486
+sa(dp78487
+g86
+I499
+sg34
+VDiscover a Latent Moses
+p78488
+sa(dp78489
+g86
+I499
+sg34
+VDiscover a Latent Moses [2]
+p78490
+sa(dp78491
+g86
+I499
+sg34
+VThe Tower of Glass (Part 1 of 3)
+p78492
+sa(dp78493
+g86
+I499
+sg34
+VThe Tower of Glass (Part 1 of 3) [2]
+p78494
+sa(dp78495
+g86
+I326
+sg34
+VDarwin, in the Fields
+p78496
+sa(dp78497
+g86
+I499
+sg34
+VThe Rub
+p78498
+sa(dp78499
+g86
+I615
+sg34
+VSunpot (Part 3 of 4)
+p78500
+sa(dp78501
+g86
+I499
+sg34
+VNo Planet Like Home
+p78502
+sa(dp78503
+g86
+I499
+sg34
+VKindergarten
+p78504
+sa(dp78505
+g86
+I499
+sg34
+VKindergarten [2]
+p78506
+sa(dp78507
+g86
+I667
+sg34
+VOn Genetics and Consensus
+p78508
+sa(dp78509
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, April 1970)
+p78510
+sa(dp78511
+g86
+I478
+sg34
+VAllison, Carmichael and Tattersall
+p78512
+sa(dp78513
+g86
+I675
+sg34
+VDiscover a Latent Moses
+p78514
+sa(dp78515
+g86
+I630
+sg34
+VThe Rub
+p78516
+sa(dp78517
+g86
+I18
+sg34
+VDarwin, the Curious
+p78518
+sa(dp78519
+g86
+I18
+sg34
+VDarwin, in the Fields
+p78520
+sa(dp78521
+g86
+I18
+sg34
+VDarwin, Wandering Home at Dawn
+p78522
+sa(dp78523
+g86
+I50
+sg34
+VThe Tower of Glass (Part 1 of 3)
+p78524
+sa(dp78525
+g86
+I676
+sg34
+VNo Planet Like Home
+p78526
+sa(dp78527
+g86
+I161
+sg34
+VKindergarten
+p78528
+sasbag1
+(g2
+g3
+Ntp78529
+Rp78530
+(dp78531
+g49
+(lp78532
+sg30
+(lp78533
+sg86
+I302
+sg82
+(lp78534
+I2
+asg13
+I1970
+sg34
+VGalaxy Magazine May 1970
+p78535
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v30n02_1970-05/Galaxy_v30n02_1970-05_jp2.zip&file=Galaxy_v30n02_1970-05_jp2/Galaxy_v30n02_1970-05_0000.jp2&scale=0&rotate=0
+p78536
+sg68228
+S'http://www.isfdb.org/wiki/images/5/57/GALMAY70.jpg'
+p78537
+sg14
+g68230
+sg16
+(lp78538
+sg75
+(lp78539
+I499
+aI326
+aI626
+aI615
+aI667
+aI91
+aI40
+aI55
+aI668
+aI675
+aI50
+aI542
+aI514
+aI302
+asg20
+(lp78540
+sg25
+I1141
+sg68234
+(lp78541
+(dp78542
+g86
+I499
+sg34
+VA Style in Treason
+p78543
+sa(dp78544
+g86
+I499
+sg34
+VA Style in Treason [2]
+p78545
+sa(dp78546
+g86
+I326
+sg34
+VA Style in Treason [3]
+p78547
+sa(dp78548
+g86
+I626
+sg34
+VA Style in Treason [4]
+p78549
+sa(dp78550
+g86
+I626
+sg34
+VA Style in Treason [5]
+p78551
+sa(dp78552
+g86
+I326
+sg34
+VThe God Machine
+p78553
+sa(dp78554
+g86
+I499
+sg34
+VNeutron Tide
+p78555
+sa(dp78556
+g86
+I499
+sg34
+VThe Tower of Glass (Part 2 of 3)
+p78557
+sa(dp78558
+g86
+I499
+sg34
+VThe Tower of Glass (Part 2 of 3) [2]
+p78559
+sa(dp78560
+g86
+I499
+sg34
+VTimeserver
+p78561
+sa(dp78562
+g86
+I499
+sg34
+VWhatever Became of the Mcgowans?
+p78563
+sa(dp78564
+g86
+I615
+sg34
+VSunpot (Part 4 of 4)
+p78565
+sa(dp78566
+g86
+I499
+sg34
+VThe Tower of Glass (Part 2 of 3) [3]
+p78567
+sa(dp78568
+g86
+I667
+sg34
+VThe Ddts
+p78569
+sa(dp78570
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, May 1970)
+p78571
+sa(dp78572
+g86
+I40
+sg34
+VThe Editorial View: Overkill
+p78573
+sa(dp78574
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, May 1970)
+p78575
+sa(dp78576
+g86
+I55
+sg34
+VA Style in Treason
+p78577
+sa(dp78578
+g86
+I668
+sg34
+VThe God Machine
+p78579
+sa(dp78580
+g86
+I675
+sg34
+VWhatever Became of the Mcgowans?
+p78581
+sa(dp78582
+g86
+I50
+sg34
+VThe Tower of Glass (Part 2 of 3)
+p78583
+sa(dp78584
+g86
+I542
+sg34
+VNeutron Tide
+p78585
+sa(dp78586
+g86
+I514
+sg34
+VTimeserver
+p78587
+sasbag1
+(g2
+g3
+Ntp78588
+Rp78589
+(dp78590
+g49
+(lp78591
+sg30
+(lp78592
+sg86
+I302
+sg82
+(lp78593
+I2
+asg13
+I1970
+sg34
+VGalaxy Magazine June 1970
+p78594
+sg11
+Vhttps://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v30n03_1970-06/Galaxy_v30n03_1970-06_jp2.zip&file=Galaxy_v30n03_1970-06_jp2/Galaxy_v30n03_1970-06_0000.jp2&scale=0&rotate=0
+p78595
+sg68228
+S'http://www.isfdb.org/wiki/images/5/54/GALJUN70.jpg'
+p78596
+sg14
+g68230
+sg16
+(lp78597
+sg75
+(lp78598
+I499
+aI326
+aI677
+aI667
+aI91
+aI50
+aI678
+aI546
+aI602
+aI679
+aI680
+aI302
+asg20
+(lp78599
+sg25
+I1142
+sg68234
+(lp78600
+(dp78601
+g86
+I499
+sg34
+VThe Player at Yellow Silence
+p78602
+sa(dp78603
+g86
+I499
+sg34
+VThe Player at Yellow Silence [2]
+p78604
+sa(dp78605
+g86
+I326
+sg34
+VOut of Mindshot
+p78606
+sa(dp78607
+g86
+I499
+sg34
+VShip Me Tomorrow
+p78608
+sa(dp78609
+g86
+I326
+sg34
+VOil-Mad Bug-Eyed Monsters
+p78610
+sa(dp78611
+g86
+I326
+sg34
+VThe Moon of Thin Reality
+p78612
+sa(dp78613
+g86
+I499
+sg34
+VThe Tower of Glass (Part 3 of 3)
+p78614
+sa(dp78615
+g86
+I326
+sg34
+VChildren's Crusade
+p78616
+sa(dp78617
+g86
+I499
+sg34
+VThe Tower of Glass (Part 3 of 3) [2]
+p78618
+sa(dp78619
+g86
+I499
+sg34
+VThe Tower of Glass (Part 3 of 3) [3]
+p78620
+sa(dp78621
+g86
+I499
+sg34
+VThe Tower of Glass (Part 3 of 3) [4]
+p78622
+sa(dp78623
+g86
+I499
+sg34
+VThe Tower of Glass (Part 3 of 3) [5]
+p78624
+sa(dp78625
+g86
+I677
+sg34
+VGalaxy Stars (Galaxy, June 1970)
+p78626
+sa(dp78627
+g86
+I667
+sg34
+VI Will Fear No Evil
+p78628
+sa(dp78629
+g86
+I91
+sg34
+VGalaxy Book Shelf (Galaxy, June 1970)
+p78630
+sa(dp78631
+g86
+I50
+sg34
+VThe Tower of Glass (Part 3 of 3)
+p78632
+sa(dp78633
+g86
+I678
+sg34
+VThe Player at Yellow Silence
+p78634
+sa(dp78635
+g86
+I546
+sg34
+VOut of Mindshot
+p78636
+sa(dp78637
+g86
+I677
+sg34
+VShip Me Tomorrow
+p78638
+sa(dp78639
+g86
+I602
+sg34
+VOil-Mad Bug-Eyed Monsters
+p78640
+sa(dp78641
+g86
+I679
+sg34
+VThe Moon of Thin Reality
+p78642
+sa(dp78643
+g86
+I680
+sg34
+VChildren's Crusade
+p78644
+sasbag1
+(g2
+g3
+Ntp78645
+Rp78646
+(dp78647
+g49
+(lp78648
+sg30
+(lp78649
+sg86
+I302
+sg82
+(lp78650
+I2
+asg13
+I1970
+sg34
+VGalaxy Magazine July 1970
+p78651
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v30n04_1970-07/Galaxy_v30n04_1970-07_jp2.zip&file=Galaxy_v30n04_1970-07_jp2/Galaxy_v30n04_1970-07_0000.jp2&scale=0&rotate=0
+p78652
+sg68228
+S'http://www.isfdb.org/wiki/images/3/3f/GALJUL70.jpg'
+p78653
+sg14
+g68230
+sg16
+(lp78654
+sg75
+(lp78655
+I326
+aI681
+aI499
+aI667
+aI682
+aI613
+aI91
+aI50
+aI74
+aI371
+aI662
+aI549
+aI302
+asg20
+(lp78656
+sg25
+I1143
+sg68234
+(lp78657
+(dp78658
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 1 of 4)
+p78659
+sa(dp78660
+g86
+I326
+sg34
+VThe Throwbacks
+p78661
+sa(dp78662
+g86
+I326
+sg34
+VThe Throwbacks [2]
+p78663
+sa(dp78664
+g86
+I326
+sg34
+VThe Throwbacks [3]
+p78665
+sa(dp78666
+g86
+I681
+sg34
+VGood
+p78667
+sa(dp78668
+g86
+I326
+sg34
+VThe All-at-Once Man
+p78669
+sa(dp78670
+g86
+I326
+sg34
+VThe Hookup
+p78671
+sa(dp78672
+g86
+I326
+sg34
+VAsk a Silly Question
+p78673
+sa(dp78674
+g86
+I499
+sg34
+VSittik
+p78675
+sa(dp78676
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 1 of 4) [2]
+p78677
+sa(dp78678
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 1 of 4) [3]
+p78679
+sa(dp78680
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 1 of 4) [4]
+p78681
+sa(dp78682
+g86
+I667
+sg34
+VAsbestos, Too
+p78683
+sa(dp78684
+g86
+I682
+sg34
+VContainers for the Condition of Man
+p78685
+sa(dp78686
+g86
+I613
+sg34
+VGalaxy Stars (Galaxy, July 1970)
+p78687
+sa(dp78688
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, July 1970)
+p78689
+sa(dp78690
+g86
+I50
+sg34
+VThe Throwbacks
+p78691
+sa(dp78692
+g86
+I74
+sg34
+VThe All-at-Once Man
+p78693
+sa(dp78694
+g86
+I371
+sg34
+VI Will Fear No Evil (Part 1 of 4)
+p78695
+sa(dp78696
+g86
+I662
+sg34
+VThe Hookup
+p78697
+sa(dp78698
+g86
+I549
+sg34
+VAsk a Silly Question
+p78699
+sa(dp78700
+g86
+I613
+sg34
+VSittik
+p78701
+sasbag1
+(g2
+g3
+Ntp78702
+Rp78703
+(dp78704
+g49
+(lp78705
+sg30
+(lp78706
+sg86
+I302
+sg82
+(lp78707
+I2
+asg13
+I1970
+sg34
+VGalaxy Magazine August 1970
+p78708
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/Galaxy_v30n05_1970-08-09/Galaxy_v30n05_1970-08-09_jp2.zip&file=Galaxy_v30n05_1970-08-09_jp2/Galaxy_v30n05_1970-08-09_0000.jp2&scale=0&rotate=0
+p78709
+sg68228
+S'http://www.isfdb.org/wiki/images/8/89/GALAUGSEP70.jpg'
+p78710
+sg14
+g68230
+sg16
+(lp78711
+sg75
+(lp78712
+I326
+aI499
+aI667
+aI91
+aI112
+aI55
+aI371
+aI74
+aI662
+aI663
+aI302
+asg20
+(lp78713
+sg25
+I1144
+sg68234
+(lp78714
+(dp78715
+g86
+I326
+sg34
+VThe Day After Judgment
+p78716
+sa(dp78717
+g86
+I326
+sg34
+VThe Day After Judgment [2]
+p78718
+sa(dp78719
+g86
+I326
+sg34
+VThe Day After Judgment [3]
+p78720
+sa(dp78721
+g86
+I326
+sg34
+VAbout a Secret Crocodile
+p78722
+sa(dp78723
+g86
+I499
+sg34
+VPower Play
+p78724
+sa(dp78725
+g86
+I326
+sg34
+VMoon Heat
+p78726
+sa(dp78727
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 2 of 4)
+p78728
+sa(dp78729
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 2 of 4) [2]
+p78730
+sa(dp78731
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 2 of 4) [3]
+p78732
+sa(dp78733
+g86
+I667
+sg34
+VThe Raries
+p78734
+sa(dp78735
+g86
+I91
+sg34
+VGalaxy Book Shelf (Galaxy, August-September 1970)
+p78736
+sa(dp78737
+g86
+I112
+sg34
+VCoordinates
+p78738
+sa(dp78739
+g86
+I55
+sg34
+VThe Day After Judgment (Complete Novel)
+p78740
+sa(dp78741
+g86
+I371
+sg34
+VI Will Fear No Evil (Part 2 of 4)
+p78742
+sa(dp78743
+g86
+I74
+sg34
+VAbout a Secret Crocodile
+p78744
+sa(dp78745
+g86
+I662
+sg34
+VPower Play
+p78746
+sa(dp78747
+g86
+I663
+sg34
+VMoon Heat
+p78748
+sasbag1
+(g2
+g3
+Ntp78749
+Rp78750
+(dp78751
+g49
+(lp78752
+sg30
+(lp78753
+sg86
+I302
+sg82
+(lp78754
+I2
+asg13
+I1970
+sg34
+VGalaxy Magazine October 1970
+p78755
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v30n06_1970-10-11/Galaxy_v30n06_1970-10-11_jp2.zip&file=Galaxy_v30n06_1970-10-11_jp2/Galaxy_v30n06_1970-10-11_0000.jp2&scale=0&rotate=0
+p78756
+sg68228
+S'http://www.isfdb.org/wiki/images/3/3a/GALOCTNOV70.jpg'
+p78757
+sg14
+g68230
+sg16
+(lp78758
+sg75
+(lp78759
+I326
+aI667
+aI50
+aI371
+aI683
+aI684
+aI685
+aI686
+aI302
+asg20
+(lp78760
+sg25
+I1145
+sg68234
+(lp78761
+(dp78762
+g86
+I326
+sg34
+VThe World Outside
+p78763
+sa(dp78764
+g86
+I326
+sg34
+VThe World Outside [2]
+p78765
+sa(dp78766
+g86
+I326
+sg34
+VThe World Outside [3]
+p78767
+sa(dp78768
+g86
+I326
+sg34
+VThe World Outside [4]
+p78769
+sa(dp78770
+g86
+I326
+sg34
+VA New Life
+p78771
+sa(dp78772
+g86
+I326
+sg34
+VReadout Time
+p78773
+sa(dp78774
+g86
+I326
+sg34
+VTraffic Problem
+p78775
+sa(dp78776
+g86
+I326
+sg34
+VPi—On Fall
+p78777
+sa(dp78778
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 3 of 4)
+p78779
+sa(dp78780
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 3 of 4) [2]
+p78781
+sa(dp78782
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 3 of 4) [3]
+p78783
+sa(dp78784
+g86
+I667
+sg34
+VLetters
+p78785
+sa(dp78786
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, October-November 1970)
+p78787
+sa(dp78788
+g86
+I50
+sg34
+VThe World Outside
+p78789
+sa(dp78790
+g86
+I371
+sg34
+VI Will Fear No Evil (Part 3 of 4)
+p78791
+sa(dp78792
+g86
+I683
+sg34
+VA New Life
+p78793
+sa(dp78794
+g86
+I684
+sg34
+VReadout Time
+p78795
+sa(dp78796
+g86
+I685
+sg34
+VTraffic Problem
+p78797
+sa(dp78798
+g86
+I686
+sg34
+VPi—On Fall
+p78799
+sasbag1
+(g2
+g3
+Ntp78800
+Rp78801
+(dp78802
+g49
+(lp78803
+sg30
+(lp78804
+sg86
+I302
+sg82
+(lp78805
+I2
+asg13
+I1970
+sg34
+VGalaxy Magazine December 1970
+p78806
+sg11
+Vhttps://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v31n01_1970-12/Galaxy_v31n01_1970-12_jp2.zip&file=Galaxy_v31n01_1970-12_jp2/Galaxy_v31n01_1970-12_0000.jp2&scale=0&rotate=0
+p78807
+sg68228
+S'http://www.isfdb.org/wiki/images/9/95/GALDEC70.jpg'
+p78808
+sg14
+g68230
+sg16
+(lp78809
+sg75
+(lp78810
+I326
+aI667
+aI91
+aI67
+aI55
+aI50
+aI371
+aI687
+aI688
+aI478
+aI302
+asg20
+(lp78811
+sg25
+I1146
+sg68234
+(lp78812
+(dp78813
+g86
+I326
+sg34
+VDarkside Crossing
+p78814
+sa(dp78815
+g86
+I326
+sg34
+VThe Stenth Dimension
+p78816
+sa(dp78817
+g86
+I326
+sg34
+VWe Are Well Organized
+p78818
+sa(dp78819
+g86
+I326
+sg34
+VWe Are Well Organized [2]
+p78820
+sa(dp78821
+g86
+I326
+sg34
+VTwo Thousand One Hours Solo
+p78822
+sa(dp78823
+g86
+I326
+sg34
+VThe Mad Scientist and the Fbi
+p78824
+sa(dp78825
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 4 of 4)
+p78826
+sa(dp78827
+g86
+I326
+sg34
+VI Will Fear No Evil (Part 4 of 4) [2]
+p78828
+sa(dp78829
+g86
+I667
+sg34
+V43&Deg; N, 154&Deg; E
+p78830
+sa(dp78831
+g86
+I91
+sg34
+VGalaxy Book Shelf (Galaxy, December 1970)
+p78832
+sa(dp78833
+g86
+I67
+sg34
+VThe Limiting Velocity of Orthodoxy
+p78834
+sa(dp78835
+g86
+I55
+sg34
+VDarkside Crossing
+p78836
+sa(dp78837
+g86
+I50
+sg34
+VWe Are Well Organized
+p78838
+sa(dp78839
+g86
+I371
+sg34
+VI Will Fear No Evil (Part 4 of 4)
+p78840
+sa(dp78841
+g86
+I687
+sg34
+VThe Stenth Dimension
+p78842
+sa(dp78843
+g86
+I688
+sg34
+VTwo Thousand One Hours Solo
+p78844
+sa(dp78845
+g86
+I478
+sg34
+VThe Mad Scientist and the Fbi
+p78846
+sasbag1
+(g2
+g3
+Ntp78847
+Rp78848
+(dp78849
+g49
+(lp78850
+sg30
+(lp78851
+sg86
+I302
+sg82
+(lp78852
+I2
+asg13
+I1971
+sg34
+VGalaxy Magazine January 1971
+p78853
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v31n02_1971-01/Galaxy_v31n02_1971-01_jp2.zip&file=Galaxy_v31n02_1971-01_jp2/Galaxy_v31n02_1971-01_0000.jp2&scale=0&rotate=0
+p78854
+sg68228
+S'http://www.isfdb.org/wiki/images/0/0f/GALJAN71.jpg'
+p78855
+sg14
+g68230
+sg16
+(lp78856
+sg75
+(lp78857
+I326
+aI499
+aI667
+aI91
+aI597
+aI623
+aI675
+aI630
+aI47
+aI663
+aI651
+aI689
+aI690
+aI505
+aI302
+asg20
+(lp78858
+sg25
+I1147
+sg68234
+(lp78859
+(dp78860
+g86
+I326
+sg34
+VToo Many People
+p78861
+sa(dp78862
+g86
+I326
+sg34
+VSnow Princess
+p78863
+sa(dp78864
+g86
+I326
+sg34
+VIntersect Green
+p78865
+sa(dp78866
+g86
+I326
+sg34
+VThe Teacher
+p78867
+sa(dp78868
+g86
+I499
+sg34
+VWhat You Know
+p78869
+sa(dp78870
+g86
+I326
+sg34
+VSchnoppsday
+p78871
+sa(dp78872
+g86
+I326
+sg34
+VLot 22a
+p78873
+sa(dp78874
+g86
+I326
+sg34
+VWhen You Hear the Tone
+p78875
+sa(dp78876
+g86
+I499
+sg34
+VExiled From Earth (Part 1 of 2)
+p78877
+sa(dp78878
+g86
+I667
+sg34
+VWealth
+p78879
+sa(dp78880
+g86
+I326
+sg34
+VGalaxy's Stars (Galaxy, January 1971)
+p78881
+sa(dp78882
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, January 1971)
+p78883
+sa(dp78884
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, January 1971) (Circulation: 46,091)
+p78885
+sa(dp78886
+g86
+I597
+sg34
+VWho's Who On the Moon
+p78887
+sa(dp78888
+g86
+I623
+sg34
+VToo Many People
+p78889
+sa(dp78890
+g86
+I675
+sg34
+VSnow Princess
+p78891
+sa(dp78892
+g86
+I630
+sg34
+VWhat You Know
+p78893
+sa(dp78894
+g86
+I47
+sg34
+VExiled From Earth (Part 1 of 2)
+p78895
+sa(dp78896
+g86
+I663
+sg34
+VIntersect Green
+p78897
+sa(dp78898
+g86
+I651
+sg34
+VThe Teacher
+p78899
+sa(dp78900
+g86
+I689
+sg34
+VSchnoppsday
+p78901
+sa(dp78902
+g86
+I690
+sg34
+VLot 22a
+p78903
+sa(dp78904
+g86
+I505
+sg34
+VWhen You Hear the Tone
+p78905
+sasbag1
+(g2
+g3
+Ntp78906
+Rp78907
+(dp78908
+g49
+(lp78909
+sg30
+(lp78910
+sg86
+I302
+sg82
+(lp78911
+I2
+asg13
+I1971
+sg34
+VGalaxy Magazine February 1971
+p78912
+sg11
+Vhttps://ia800203.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v31n03_1971-02/Galaxy_v31n03_1971-02_jp2.zip&file=Galaxy_v31n03_1971-02_jp2/Galaxy_v31n03_1971-02_0000.jp2&scale=0&rotate=0
+p78913
+sg68228
+S'http://www.isfdb.org/wiki/images/7/74/GALFEB71.jpg'
+p78914
+sg14
+g68230
+sg16
+(lp78915
+sg75
+(lp78916
+I499
+aI326
+aI91
+aI478
+aI658
+aI47
+aI23
+aI639
+aI675
+aI691
+aI692
+aI302
+asg20
+(lp78917
+sg25
+I1148
+sg68234
+(lp78918
+(dp78919
+g86
+I499
+sg34
+VThis Is My Country
+p78920
+sa(dp78921
+g86
+I499
+sg34
+VThe Reflected Men
+p78922
+sa(dp78923
+g86
+I499
+sg34
+VSecond Run at the Data
+p78924
+sa(dp78925
+g86
+I499
+sg34
+VThe Sharks of Pentreath
+p78926
+sa(dp78927
+g86
+I499
+sg34
+VThe Hero
+p78928
+sa(dp78929
+g86
+I499
+sg34
+VScramble
+p78930
+sa(dp78931
+g86
+I326
+sg34
+VExiled From Earth (Part 2 of 2)
+p78932
+sa(dp78933
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, February 1971)
+p78934
+sa(dp78935
+g86
+I478
+sg34
+VThis Is My Country
+p78936
+sa(dp78937
+g86
+I658
+sg34
+VThe Reflected Men
+p78938
+sa(dp78939
+g86
+I47
+sg34
+VExiled From Earth (Part 2 of 2)
+p78940
+sa(dp78941
+g86
+I23
+sg34
+VDown the Digestive Tract
+p78942
+sa(dp78943
+g86
+I639
+sg34
+VSecond Run at the Data
+p78944
+sa(dp78945
+g86
+I675
+sg34
+VThe Sharks of Pentreath
+p78946
+sa(dp78947
+g86
+I691
+sg34
+VThe Hero
+p78948
+sa(dp78949
+g86
+I692
+sg34
+VScramble
+p78950
+sasbag1
+(g2
+g3
+Ntp78951
+Rp78952
+(dp78953
+g49
+(lp78954
+sg30
+(lp78955
+sg86
+I302
+sg82
+(lp78956
+I2
+asg13
+I1971
+sg34
+VGalaxy Magazine March 1971
+p78957
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v31n04_1971-03/Galaxy_v31n04_1971-03_jp2.zip&file=Galaxy_v31n04_1971-03_jp2/Galaxy_v31n04_1971-03_0000.jp2&scale=0&rotate=0
+p78958
+sg68228
+S'http://www.isfdb.org/wiki/images/1/12/GALMAR71.jpg'
+p78959
+sg14
+g68230
+sg16
+(lp78960
+sg75
+(lp78961
+I499
+aI326
+aI341
+aI91
+aI630
+aI693
+aI645
+aI50
+aI663
+aI694
+aI695
+aI679
+aI638
+aI302
+asg20
+(lp78962
+sg25
+I1149
+sg68234
+(lp78963
+(dp78964
+g86
+I499
+sg34
+VA Time of Changes (Part 1 of 3)
+p78965
+sa(dp78966
+g86
+I499
+sg34
+VA Time of Changes (Part 1 of 3) [2]
+p78967
+sa(dp78968
+g86
+I499
+sg34
+VPegasus Two
+p78969
+sa(dp78970
+g86
+I499
+sg34
+VPegasus Two [2]
+p78971
+sa(dp78972
+g86
+I326
+sg34
+VThe Mountain Movers
+p78973
+sa(dp78974
+g86
+I326
+sg34
+VChoice
+p78975
+sa(dp78976
+g86
+I326
+sg34
+VBut the Secret Sits
+p78977
+sa(dp78978
+g86
+I326
+sg34
+VMother in the Sky with Diamonds
+p78979
+sa(dp78980
+g86
+I326
+sg34
+VHere Comes the Sun
+p78981
+sa(dp78982
+g86
+I499
+sg34
+VGehenna
+p78983
+sa(dp78984
+g86
+I341
+sg34
+VAfter Sex - What?
+p78985
+sa(dp78986
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, March 1971)
+p78987
+sa(dp78988
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, March 1971)
+p78989
+sa(dp78990
+g86
+I630
+sg34
+VThe Mountain Movers
+p78991
+sa(dp78992
+g86
+I693
+sg34
+VBut the Secret Sits
+p78993
+sa(dp78994
+g86
+I645
+sg34
+VMother in the Sky with Diamonds
+p78995
+sa(dp78996
+g86
+I50
+sg34
+VA Time of Changes (Part 1 of 3)
+p78997
+sa(dp78998
+g86
+I663
+sg34
+VPegasus Two
+p78999
+sa(dp79000
+g86
+I694
+sg34
+VChoice
+p79001
+sa(dp79002
+g86
+I695
+sg34
+VFrog Pond
+p79003
+sa(dp79004
+g86
+I679
+sg34
+VHere Comes the Sun
+p79005
+sa(dp79006
+g86
+I638
+sg34
+VGehenna
+p79007
+sasbag1
+(g2
+g3
+Ntp79008
+Rp79009
+(dp79010
+g49
+(lp79011
+sg30
+(lp79012
+sg86
+I302
+sg82
+(lp79013
+I2
+asg13
+I1971
+sg34
+VGalaxy Magazine April 1971
+p79014
+sg11
+Vhttps://ia800206.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/Galaxy_v31n05_1971-04/Galaxy_v31n05_1971-04_jp2.zip&file=Galaxy_v31n05_1971-04_jp2/Galaxy_v31n05_1971-04_0000.jp2&scale=0&rotate=0
+p79015
+sg68228
+S'http://www.isfdb.org/wiki/images/7/75/GALAPR71.jpg'
+p79016
+sg14
+g68230
+sg16
+(lp79017
+sg75
+(lp79018
+I499
+aI326
+aI667
+aI91
+aI660
+aI679
+aI696
+aI50
+aI341
+aI663
+aI694
+aI302
+asg20
+(lp79019
+sg25
+I1150
+sg68234
+(lp79020
+(dp79021
+g86
+I499
+sg34
+VTo Fit the Crime
+p79022
+sa(dp79023
+g86
+I326
+sg34
+VNecessary and Sufficient
+p79024
+sa(dp79025
+g86
+I326
+sg34
+VTakeover
+p79026
+sa(dp79027
+g86
+I326
+sg34
+VThe Exorcism
+p79028
+sa(dp79029
+g86
+I326
+sg34
+VLiaison Assignment
+p79030
+sa(dp79031
+g86
+I499
+sg34
+VDefender of Death
+p79032
+sa(dp79033
+g86
+I326
+sg34
+VA Time of Changes (Part 2 of 3)
+p79034
+sa(dp79035
+g86
+I667
+sg34
+VLetters 2
+p79036
+sa(dp79037
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, April 1971)
+p79038
+sa(dp79039
+g86
+I91
+sg34
+VGalaxy Book Shelf (Galaxy, April 1971)
+p79040
+sa(dp79041
+g86
+I660
+sg34
+VTo Fit the Crime
+p79042
+sa(dp79043
+g86
+I679
+sg34
+VLiaison Assignment
+p79044
+sa(dp79045
+g86
+I696
+sg34
+VDefender of Death
+p79046
+sa(dp79047
+g86
+I50
+sg34
+VA Time of Changes (Part 2 of 3)
+p79048
+sa(dp79049
+g86
+I341
+sg34
+VNecessary and Sufficient
+p79050
+sa(dp79051
+g86
+I663
+sg34
+VTakeover
+p79052
+sa(dp79053
+g86
+I694
+sg34
+VThe Exorcism
+p79054
+sasbag1
+(g2
+g3
+Ntp79055
+Rp79056
+(dp79057
+g49
+(lp79058
+sg30
+(lp79059
+sg86
+I302
+sg82
+(lp79060
+I2
+asg13
+I1971
+sg34
+VGalaxy Magazine May 1971
+p79061
+sg11
+Vhttps://ia800209.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v31n06_1971-05-06/Galaxy_v31n06_1971-05-06_jp2.zip&file=Galaxy_v31n06_1971-05-06_jp2/Galaxy_v31n06_1971-05-06_0000.jp2&scale=0&rotate=0
+p79062
+sg68228
+S'http://www.isfdb.org/wiki/images/e/e7/GALMAYJUN71.jpg'
+p79063
+sg14
+g68230
+sg16
+(lp79064
+sg75
+(lp79065
+I326
+aI499
+aI667
+aI91
+aI687
+aI161
+aI50
+aI386
+aI341
+aI679
+aI205
+aI651
+aI596
+aI302
+asg20
+(lp79066
+sg25
+I1151
+sg68234
+(lp79067
+(dp79068
+g86
+I326
+sg34
+VTip of the Iceberg
+p79069
+sa(dp79070
+g86
+I326
+sg34
+VFalling Through the World
+p79071
+sa(dp79072
+g86
+I326
+sg34
+VThe Message
+p79073
+sa(dp79074
+g86
+I326
+sg34
+VRate of Exchange
+p79075
+sa(dp79076
+g86
+I499
+sg34
+VA Time of Changes (Part 3 of 3)
+p79077
+sa(dp79078
+g86
+I326
+sg34
+VThe Buyer
+p79079
+sa(dp79080
+g86
+I326
+sg34
+VPrice of Leisure
+p79081
+sa(dp79082
+g86
+I667
+sg34
+VLetters 3
+p79083
+sa(dp79084
+g86
+I91
+sg34
+VGalaxy Book Shelf (Galaxy, May-June 1971)
+p79085
+sa(dp79086
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, May-June 1971)
+p79087
+sa(dp79088
+g86
+I687
+sg34
+VTip of the Iceberg
+p79089
+sa(dp79090
+g86
+I161
+sg34
+VThe Message
+p79091
+sa(dp79092
+g86
+I50
+sg34
+VA Time of Changes (Part 3 of 3)
+p79093
+sa(dp79094
+g86
+I386
+sg34
+VThe No-Wind Spotted Tiger Planet
+p79095
+sa(dp79096
+g86
+I341
+sg34
+VThe Verity File
+p79097
+sa(dp79098
+g86
+I679
+sg34
+VFalling Through the World
+p79099
+sa(dp79100
+g86
+I205
+sg34
+VRate of Exchange
+p79101
+sa(dp79102
+g86
+I651
+sg34
+VThe Buyer
+p79103
+sa(dp79104
+g86
+I596
+sg34
+VPrice of Leisure
+p79105
+sasbag1
+(g2
+g3
+Ntp79106
+Rp79107
+(dp79108
+g49
+(lp79109
+sg30
+(lp79110
+sg86
+I302
+sg82
+(lp79111
+I2
+asg13
+I1971
+sg34
+VGalaxy Magazine July 1971
+p79112
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v32n01_1971-07/Galaxy_v32n01_1971-07_jp2.zip&file=Galaxy_v32n01_1971-07_jp2/Galaxy_v32n01_1971-07_0000.jp2&scale=0&rotate=0
+p79113
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f0/GALJULAUG71.jpg'
+p79114
+sg14
+g68230
+sg16
+(lp79115
+sg75
+(lp79116
+I499
+aI667
+aI326
+aI91
+aI50
+aI684
+aI86
+aI74
+aI687
+aI697
+aI651
+aI302
+asg20
+(lp79117
+sg25
+I1152
+sg68234
+(lp79118
+(dp79119
+g86
+I499
+sg34
+VA Congregation of Vapors
+p79120
+sa(dp79121
+g86
+I499
+sg34
+VThe Moon Children (Part 1 of 3)
+p79122
+sa(dp79123
+g86
+I499
+sg34
+VThe Moon Children (Part 1 of 3) [2]
+p79124
+sa(dp79125
+g86
+I499
+sg34
+VAll but the Words
+p79126
+sa(dp79127
+g86
+I499
+sg34
+VThe Phylogenetic Factor
+p79128
+sa(dp79129
+g86
+I499
+sg34
+VThe S.B. Notations
+p79130
+sa(dp79131
+g86
+I499
+sg34
+VAll the Way Up, All the Way Down
+p79132
+sa(dp79133
+g86
+I499
+sg34
+VDuckworth and the Sound Probe
+p79134
+sa(dp79135
+g86
+I667
+sg34
+VUnless We Fear Some Evil
+p79136
+sa(dp79137
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, July-August 1971)
+p79138
+sa(dp79139
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, July-August 1971)
+p79140
+sa(dp79141
+g86
+I50
+sg34
+VAll the Way Up, All the Way Down
+p79142
+sa(dp79143
+g86
+I684
+sg34
+VA Congregation of Vapors
+p79144
+sa(dp79145
+g86
+I86
+sg34
+VThe Moon Children (Part 1 of 3)
+p79146
+sa(dp79147
+g86
+I74
+sg34
+VAll but the Words
+p79148
+sa(dp79149
+g86
+I687
+sg34
+VThe Phylogenetic Factor
+p79150
+sa(dp79151
+g86
+I697
+sg34
+VThe S.B. Notations
+p79152
+sa(dp79153
+g86
+I651
+sg34
+VDuckworth and the Sound Probe
+p79154
+sasbag1
+(g2
+g3
+Ntp79155
+Rp79156
+(dp79157
+g49
+(lp79158
+sg30
+(lp79159
+sg86
+I302
+sg82
+(lp79160
+I2
+asg13
+I1971
+sg34
+VGalaxy Magazine September 1971
+p79161
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v32n02_1971-09/Galaxy_v32n02_1971-09_jp2.zip&file=Galaxy_v32n02_1971-09_jp2/Galaxy_v32n02_1971-09_0000.jp2&scale=0&rotate=0
+p79162
+sg68228
+S'http://www.isfdb.org/wiki/images/5/5b/GALSEPOCT71.jpg'
+p79163
+sg14
+g68230
+sg16
+(lp79164
+sg75
+(lp79165
+I326
+aI499
+aI91
+aI696
+aI341
+aI630
+aI679
+aI86
+aI698
+aI302
+asg20
+(lp79166
+sg25
+I1153
+sg68234
+(lp79167
+(dp79168
+g86
+I326
+sg34
+VThe Edge and the Mist
+p79169
+sa(dp79170
+g86
+I326
+sg34
+VWhy Johnny Can't Speed
+p79171
+sa(dp79172
+g86
+I499
+sg34
+VThe Moon Children (Part 2 of 3)
+p79173
+sa(dp79174
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, September-October 1971)
+p79175
+sa(dp79176
+g86
+I91
+sg34
+VGalaxy Bookshelf (Galaxy, September-October 1971)
+p79177
+sa(dp79178
+g86
+I696
+sg34
+VThe Edge and the Mist
+p79179
+sa(dp79180
+g86
+I341
+sg34
+VDazed
+p79181
+sa(dp79182
+g86
+I630
+sg34
+VSister Ships
+p79183
+sa(dp79184
+g86
+I679
+sg34
+VGalilean Problem
+p79185
+sa(dp79186
+g86
+I86
+sg34
+VThe Moon Children (Part 2 of 3)
+p79187
+sa(dp79188
+g86
+I698
+sg34
+VWhy Johnny Can't Speed
+p79189
+sasbag1
+(g2
+g3
+Ntp79190
+Rp79191
+(dp79192
+g49
+(lp79193
+sg30
+(lp79194
+sg86
+I302
+sg82
+(lp79195
+I2
+asg13
+I1971
+sg34
+VGalaxy Magazine November 1971
+p79196
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v32n03_1971-11/Galaxy_v32n03_1971-11_jp2.zip&file=Galaxy_v32n03_1971-11_jp2/Galaxy_v32n03_1971-11_0000.jp2&scale=0&rotate=0
+p79197
+sg68228
+S'http://www.isfdb.org/wiki/images/2/27/GALNOVDEC71.jpg'
+p79198
+sg14
+g68230
+sg16
+(lp79199
+sg75
+(lp79200
+I499
+aI326
+aI699
+aI91
+aI478
+aI604
+aI700
+aI86
+aI701
+aI702
+aI74
+aI302
+asg20
+(lp79201
+sg25
+I1154
+sg68234
+(lp79202
+(dp79203
+g86
+I499
+sg34
+VBirds Fly South in Winter
+p79204
+sa(dp79205
+g86
+I499
+sg34
+VAutumntime
+p79206
+sa(dp79207
+g86
+I326
+sg34
+VRammer
+p79208
+sa(dp79209
+g86
+I326
+sg34
+VI'll Be Judge, I'll Be Jury
+p79210
+sa(dp79211
+g86
+I699
+sg34
+VStarcult
+p79212
+sa(dp79213
+g86
+I699
+sg34
+VStarcult [2]
+p79214
+sa(dp79215
+g86
+I499
+sg34
+VBubbles When They Burst
+p79216
+sa(dp79217
+g86
+I499
+sg34
+VThe Moon Children (Part 3 of 3)
+p79218
+sa(dp79219
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, November-December 1971)
+p79220
+sa(dp79221
+g86
+I91
+sg34
+VGalaxy Book Shelf (Galaxy, November-December 1971)
+p79222
+sa(dp79223
+g86
+I326
+sg34
+VJohn W. Campbell: June 8, 1910-July11, 1971 (Obituary)
+p79224
+sa(dp79225
+g86
+I478
+sg34
+VBirds Fly South in Winter
+p79226
+sa(dp79227
+g86
+I604
+sg34
+VRammer
+p79228
+sa(dp79229
+g86
+I700
+sg34
+VStarcult
+p79230
+sa(dp79231
+g86
+I86
+sg34
+VThe Moon Children (Part 3 of 3)
+p79232
+sa(dp79233
+g86
+I701
+sg34
+VAutumntime
+p79234
+sa(dp79235
+g86
+I702
+sg34
+VI'll Be Judge, I'll Be Jury
+p79236
+sa(dp79237
+g86
+I74
+sg34
+VBubbles When They Burst
+p79238
+sasbag1
+(g2
+g3
+Ntp79239
+Rp79240
+(dp79241
+g49
+(lp79242
+sg30
+(lp79243
+sg86
+I302
+sg82
+(lp79244
+I2
+asg13
+I1972
+sg34
+VGalaxy Magazine January 1972
+p79245
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v32n04_1972-01/Galaxy_v32n04_1972-01_jp2.zip&file=Galaxy_v32n04_1972-01_jp2/Galaxy_v32n04_1972-01_0000.jp2&scale=0&rotate=0
+p79246
+sg68228
+S'http://www.isfdb.org/wiki/images/2/29/GALJANFEB72.jpg'
+p79247
+sg14
+g68230
+sg16
+(lp79248
+sg75
+(lp79249
+I499
+aI326
+aI703
+aI667
+aI675
+aI341
+aI605
+aI669
+aI161
+aI704
+aI665
+aI705
+aI706
+aI302
+asg20
+(lp79250
+sg25
+I1155
+sg68234
+(lp79251
+(dp79252
+g86
+I499
+sg34
+VDark Inferno (Part 1 of 2)
+p79253
+sa(dp79254
+g86
+I499
+sg34
+VRorqual Maru
+p79255
+sa(dp79256
+g86
+I499
+sg34
+VEsmeralda
+p79257
+sa(dp79258
+g86
+I326
+sg34
+VThe Answer
+p79259
+sa(dp79260
+g86
+I703
+sg34
+VThe Answer [2]
+p79261
+sa(dp79262
+g86
+I703
+sg34
+VThe Answer [3]
+p79263
+sa(dp79264
+g86
+I499
+sg34
+VGambler
+p79265
+sa(dp79266
+g86
+I326
+sg34
+VJoey
+p79267
+sa(dp79268
+g86
+I667
+sg34
+VEditor's Page (Galaxy Magazine, January-February 1972)
+p79269
+sa(dp79270
+g86
+I675
+sg34
+VGalaxy Stars (Galaxy, January-February 1972)
+p79271
+sa(dp79272
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, January-February 1972)
+p79273
+sa(dp79274
+g86
+I326
+sg34
+VDirections (Galaxy Magazine, January-February 1972)
+p79275
+sa(dp79276
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, January-February 1972) (Circulation: 45,598)
+p79277
+sa(dp79278
+g86
+I605
+sg34
+VWant to Bet ... (Galaxy Magazine, January-February 1972)
+p79279
+sa(dp79280
+g86
+I669
+sg34
+VRorqual Maru
+p79281
+sa(dp79282
+g86
+I161
+sg34
+VThe Answer
+p79283
+sa(dp79284
+g86
+I704
+sg34
+VDark Inferno (Part 1 of 2)
+p79285
+sa(dp79286
+g86
+I675
+sg34
+VEsmeralda
+p79287
+sa(dp79288
+g86
+I665
+sg34
+VStormseeker
+p79289
+sa(dp79290
+g86
+I705
+sg34
+VGambler
+p79291
+sa(dp79292
+g86
+I706
+sg34
+VJoey
+p79293
+sasbag1
+(g2
+g3
+Ntp79294
+Rp79295
+(dp79296
+g49
+(lp79297
+sg30
+(lp79298
+sg86
+I302
+sg82
+(lp79299
+I2
+asg13
+I1972
+sg34
+VGalaxy Magazine March 1972
+p79300
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v32n05_1972-03/Galaxy_v32n05_1972-03_jp2.zip&file=Galaxy_v32n05_1972-03_jp2/Galaxy_v32n05_1972-03_0000.jp2&scale=0&rotate=0
+p79301
+sg68228
+S'http://www.isfdb.org/wiki/images/9/9a/GALMARAPR72.jpg'
+p79302
+sg14
+g68230
+sg16
+(lp79303
+sg75
+(lp79304
+I326
+aI499
+aI667
+aI605
+aI341
+aI3
+aI704
+aI386
+aI707
+aI153
+aI302
+asg20
+(lp79305
+sg25
+I1156
+sg68234
+(lp79306
+(dp79307
+g86
+I326
+sg34
+VThe Gods Themselves (Part 1 of 3)
+p79308
+sa(dp79309
+g86
+I499
+sg34
+V220 - Advanced Field Exploration
+p79310
+sa(dp79311
+g86
+I499
+sg34
+VGetting Together
+p79312
+sa(dp79313
+g86
+I326
+sg34
+VThe Hand
+p79314
+sa(dp79315
+g86
+I499
+sg34
+VDark Inferno (Part 2 of 2)
+p79316
+sa(dp79317
+g86
+I667
+sg34
+VEditor's Page (Galaxy, March-April 1972)
+p79318
+sa(dp79319
+g86
+I326
+sg34
+VDirections (Galaxy, March-April 1972)
+p79320
+sa(dp79321
+g86
+I605
+sg34
+VWant to Bet ... (Galaxy, March-April 1972)
+p79322
+sa(dp79323
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, March-April 1972)
+p79324
+sa(dp79325
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, March-April 1972)
+p79326
+sa(dp79327
+g86
+I3
+sg34
+VThe Gods Themselves (Part 1 of 3)
+p79328
+sa(dp79329
+g86
+I704
+sg34
+VDark Inferno (Part 2 of 2)
+p79330
+sa(dp79331
+g86
+I386
+sg34
+V220 - Advanced Field Exploration
+p79332
+sa(dp79333
+g86
+I707
+sg34
+VGetting Together
+p79334
+sa(dp79335
+g86
+I153
+sg34
+VThe Hand
+p79336
+sasbag1
+(g2
+g3
+Ntp79337
+Rp79338
+(dp79339
+g49
+(lp79340
+sg30
+(lp79341
+sg86
+I302
+sg82
+(lp79342
+I2
+asg13
+I1972
+sg34
+VGalaxy Magazine May 1972
+p79343
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v32n06_1972-05/Galaxy_v32n06_1972-05_jp2.zip&file=Galaxy_v32n06_1972-05_jp2/Galaxy_v32n06_1972-05_0000.jp2&scale=0&rotate=0
+p79344
+sg68228
+S'http://www.isfdb.org/wiki/images/3/3f/GALMAYJUN72.jpg'
+p79345
+sg14
+g68230
+sg16
+(lp79346
+sg75
+(lp79347
+I499
+aI326
+aI341
+aI605
+aI3
+aI161
+aI668
+aI386
+aI708
+aI651
+aI709
+aI302
+asg20
+(lp79348
+sg25
+I1157
+sg68234
+(lp79349
+(dp79350
+g86
+I499
+sg34
+VThe Gods Themselves (Part 3 of 3)
+p79351
+sa(dp79352
+g86
+I499
+sg34
+VRobbie and David and Little Dahl
+p79353
+sa(dp79354
+g86
+I326
+sg34
+VThe Reply
+p79355
+sa(dp79356
+g86
+I326
+sg34
+VGone Fishing
+p79357
+sa(dp79358
+g86
+I499
+sg34
+VThe Grand Illusions
+p79359
+sa(dp79360
+g86
+I499
+sg34
+VTrouble with G.O.D.
+p79361
+sa(dp79362
+g86
+I326
+sg34
+VThe Langley Circuit
+p79363
+sa(dp79364
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, May-June 1972)
+p79365
+sa(dp79366
+g86
+I605
+sg34
+VWant to Bet? (Galaxy Magazine, May-June 1972)
+p79367
+sa(dp79368
+g86
+I3
+sg34
+VGalaxy Stars (Galaxy, May-June 1972)
+p79369
+sa(dp79370
+g86
+I161
+sg34
+VThe Reply
+p79371
+sa(dp79372
+g86
+I668
+sg34
+VTrouble with G.O.D.
+p79373
+sa(dp79374
+g86
+I3
+sg34
+VThe Gods Themselves (Part 3 of 3)
+p79375
+sa(dp79376
+g86
+I386
+sg34
+VRobbie and David and Little Dahl
+p79377
+sa(dp79378
+g86
+I708
+sg34
+VGone Fishing
+p79379
+sa(dp79380
+g86
+I651
+sg34
+VThe Grand Illusions
+p79381
+sa(dp79382
+g86
+I709
+sg34
+VThe Langley Circuit
+p79383
+sasbag1
+(g2
+g3
+Ntp79384
+Rp79385
+(dp79386
+g49
+(lp79387
+sg30
+(lp79388
+sg86
+I302
+sg82
+(lp79389
+I2
+asg13
+I1972
+sg34
+VGalaxy Magazine July 1972
+p79390
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v33n01_1972-07/Galaxy_v33n01_1972-07_jp2.zip&file=Galaxy_v33n01_1972-07_jp2/Galaxy_v33n01_1972-07_0000.jp2&scale=0&rotate=0
+p79391
+sg68228
+S'http://www.isfdb.org/wiki/images/0/05/GALJULAUG72.jpg'
+p79392
+sg14
+g68230
+sg16
+(lp79393
+sg75
+(lp79394
+I499
+aI326
+aI667
+aI341
+aI668
+aI588
+aI50
+aI709
+aI505
+aI302
+asg20
+(lp79395
+sg25
+I1158
+sg68234
+(lp79396
+(dp79397
+g86
+I499
+sg34
+VDying Inside (Part 1 of 2)
+p79398
+sa(dp79399
+g86
+I326
+sg34
+VFarewell to the Artifacts
+p79400
+sa(dp79401
+g86
+I499
+sg34
+VSeventy Years of Decpop
+p79402
+sa(dp79403
+g86
+I326
+sg34
+VWoman's Rib
+p79404
+sa(dp79405
+g86
+I326
+sg34
+VFor G.O.D.'S Sake
+p79406
+sa(dp79407
+g86
+I667
+sg34
+VEditor's Page (Galaxy, July-August 1972)
+p79408
+sa(dp79409
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, July-August 1972)
+p79410
+sa(dp79411
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, July-August 1972)
+p79412
+sa(dp79413
+g86
+I326
+sg34
+VDirections (Galaxy, July-August 1972)
+p79414
+sa(dp79415
+g86
+I668
+sg34
+VFor G.O.D.'S Sake
+p79416
+sa(dp79417
+g86
+I588
+sg34
+VSeventy Years of Decpop
+p79418
+sa(dp79419
+g86
+I50
+sg34
+VDying Inside (Part 1 of 2)
+p79420
+sa(dp79421
+g86
+I709
+sg34
+VFarewell to the Artifacts
+p79422
+sa(dp79423
+g86
+I505
+sg34
+VWoman's Rib
+p79424
+sasbag1
+(g2
+g3
+Ntp79425
+Rp79426
+(dp79427
+g49
+(lp79428
+sg30
+(lp79429
+sg86
+I302
+sg82
+(lp79430
+I2
+asg13
+I1972
+sg34
+VGalaxy Magazine September 1972
+p79431
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v33n02_1972-09/Galaxy_v33n02_1972-09_jp2.zip&file=Galaxy_v33n02_1972-09_jp2/Galaxy_v33n02_1972-09_0000.jp2&scale=0&rotate=0
+p79432
+sg68228
+S'http://www.isfdb.org/wiki/images/5/52/GALSEPOCT72.jpg'
+p79433
+sg14
+g68230
+sg16
+(lp79434
+sg75
+(lp79435
+I499
+aI326
+aI341
+aI660
+aI50
+aI386
+aI663
+aI153
+aI651
+aI194
+aI302
+asg20
+(lp79436
+sg25
+I1159
+sg68234
+(lp79437
+(dp79438
+g86
+I499
+sg34
+VPower Complex
+p79439
+sa(dp79440
+g86
+I499
+sg34
+VChanging Woman
+p79441
+sa(dp79442
+g86
+I499
+sg34
+VTrue School of Modesty
+p79443
+sa(dp79444
+g86
+I499
+sg34
+VThe Years
+p79445
+sa(dp79446
+g86
+I326
+sg34
+VThe Soul Music of Duckworth's Dibs
+p79447
+sa(dp79448
+g86
+I326
+sg34
+VMedical Practices Among the Immortals
+p79449
+sa(dp79450
+g86
+I499
+sg34
+VDying Inside (Part 2 of 2)
+p79451
+sa(dp79452
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, September-October 1972)
+p79453
+sa(dp79454
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, September-October 1972)
+p79455
+sa(dp79456
+g86
+I326
+sg34
+VDirections (Galaxy, September-October 1972)
+p79457
+sa(dp79458
+g86
+I660
+sg34
+VPower Complex
+p79459
+sa(dp79460
+g86
+I50
+sg34
+VDying Inside (Part 2 of 2)
+p79461
+sa(dp79462
+g86
+I386
+sg34
+VChanging Woman
+p79463
+sa(dp79464
+g86
+I663
+sg34
+VTrue School of Modesty
+p79465
+sa(dp79466
+g86
+I153
+sg34
+VThe Years
+p79467
+sa(dp79468
+g86
+I651
+sg34
+VThe Soul Music of Duckworth's Dibs
+p79469
+sa(dp79470
+g86
+I194
+sg34
+VMedical Practices Among the Immortals
+p79471
+sasbag1
+(g2
+g3
+Ntp79472
+Rp79473
+(dp79474
+g49
+(lp79475
+sg30
+(lp79476
+sg86
+I302
+sg82
+(lp79477
+I2
+asg13
+I1972
+sg34
+VGalaxy Magazine November 1972
+p79478
+sg11
+Vhttps://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v33n03_1972-11/Galaxy_v33n03_1972-11_jp2.zip&file=Galaxy_v33n03_1972-11_jp2/Galaxy_v33n03_1972-11_0000.jp2&scale=0&rotate=0
+p79479
+sg68228
+S'http://www.isfdb.org/wiki/images/2/23/GALNOVDEC72.jpg'
+p79480
+sg14
+g68230
+sg16
+(lp79481
+sg75
+(lp79482
+I326
+aI499
+aI667
+aI341
+aI577
+aI630
+aI663
+aI63
+aI660
+aI112
+aI302
+asg20
+(lp79483
+sg25
+I1160
+sg68234
+(lp79484
+(dp79485
+g86
+I326
+sg34
+VProject 40 (Part 1 of 3)
+p79486
+sa(dp79487
+g86
+I499
+sg34
+V26 Days On Earth
+p79488
+sa(dp79489
+g86
+I499
+sg34
+VNoepti-Noe
+p79490
+sa(dp79491
+g86
+I326
+sg34
+VThe Dutchman
+p79492
+sa(dp79493
+g86
+I499
+sg34
+VMayflower I
+p79494
+sa(dp79495
+g86
+I499
+sg34
+VJourney
+p79496
+sa(dp79497
+g86
+I326
+sg34
+VDirections (Galaxy, November-December 1972)
+p79498
+sa(dp79499
+g86
+I667
+sg34
+VEditor's Column: The Naked Dream
+p79500
+sa(dp79501
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, November-December 1972)
+p79502
+sa(dp79503
+g86
+I577
+sg34
+VNoepti-Noe
+p79504
+sa(dp79505
+g86
+I630
+sg34
+VThe Dutchman
+p79506
+sa(dp79507
+g86
+I663
+sg34
+VMayflower I
+p79508
+sa(dp79509
+g86
+I63
+sg34
+VProject 40 (Part 1 of 3)
+p79510
+sa(dp79511
+g86
+I660
+sg34
+V26 Days On Earth
+p79512
+sa(dp79513
+g86
+I112
+sg34
+VJourney
+p79514
+sasbag1
+(g2
+g3
+Ntp79515
+Rp79516
+(dp79517
+g49
+(lp79518
+sg30
+(lp79519
+sg86
+I302
+sg82
+(lp79520
+I2
+asg13
+I1973
+sg34
+VGalaxy Magazine January 1973
+p79521
+sg11
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v33n04_1973-01/Galaxy_v33n04_1973-01_jp2.zip&file=Galaxy_v33n04_1973-01_jp2/Galaxy_v33n04_1973-01_0000.jp2&scale=0&rotate=0
+p79522
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d1/GALJANFEB73.jpg'
+p79523
+sg14
+g68230
+sg16
+(lp79524
+sg75
+(lp79525
+I326
+aI499
+aI605
+aI710
+aI341
+aI663
+aI63
+aI711
+aI712
+aI302
+asg20
+(lp79526
+sg25
+I1161
+sg68234
+(lp79527
+(dp79528
+g86
+I326
+sg34
+VCase and the Dreamer
+p79529
+sa(dp79530
+g86
+I499
+sg34
+VMayflower Three
+p79531
+sa(dp79532
+g86
+I499
+sg34
+VLa Befana
+p79533
+sa(dp79534
+g86
+I326
+sg34
+VProject 40 (Part 2 of 3)
+p79535
+sa(dp79536
+g86
+I326
+sg34
+VReflex
+p79537
+sa(dp79538
+g86
+I326
+sg34
+VDirections (Galaxy Magazine, January-February 1973)
+p79539
+sa(dp79540
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, January-February 1973) (Circulation: 51,602)
+p79541
+sa(dp79542
+g86
+I605
+sg34
+VIs the Star of Bethlehem Observable Today?
+p79543
+sa(dp79544
+g86
+I710
+sg34
+VIs the Star of Bethlehem Observable Today? A Comment.
+p79545
+sa(dp79546
+g86
+I605
+sg34
+VGalaxy Stars (Galaxy Magazine, January-February 1973)
+p79547
+sa(dp79548
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, January-February 1973)
+p79549
+sa(dp79550
+g86
+I663
+sg34
+VMayflower Three
+p79551
+sa(dp79552
+g86
+I341
+sg34
+VCase and the Dreamer
+p79553
+sa(dp79554
+g86
+I63
+sg34
+VProject 40 (Part 2 of 3)
+p79555
+sa(dp79556
+g86
+I711
+sg34
+VLa Befana
+p79557
+sa(dp79558
+g86
+I712
+sg34
+VReflex
+p79559
+sasbag1
+(g2
+g3
+Ntp79560
+Rp79561
+(dp79562
+g49
+(lp79563
+sg30
+(lp79564
+sg86
+I302
+sg82
+(lp79565
+I2
+asg13
+I1973
+sg34
+VGalaxy Magazine March 1973
+p79566
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v33n05_1973-04/Galaxy_v33n05_1973-04_jp2.zip&file=Galaxy_v33n05_1973-04_jp2/Galaxy_v33n05_1973-04_0000.jp2&scale=0&rotate=0
+p79567
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f2/GALMARAPR73.jpg'
+p79568
+sg14
+g68230
+sg16
+(lp79569
+sg75
+(lp79570
+I326
+aI499
+aI713
+aI341
+aI63
+aI714
+aI635
+aI630
+aI715
+aI302
+asg20
+(lp79571
+sg25
+I1162
+sg68234
+(lp79572
+(dp79573
+g86
+I326
+sg34
+VProject 40 (Part 3 of 3)
+p79574
+sa(dp79575
+g86
+I499
+sg34
+VThe Girl and the Dolphin
+p79576
+sa(dp79577
+g86
+I326
+sg34
+VInterference
+p79578
+sa(dp79579
+g86
+I326
+sg34
+VCrimescan
+p79580
+sa(dp79581
+g86
+I499
+sg34
+VThe Last Hunt
+p79582
+sa(dp79583
+g86
+I499
+sg34
+VSix Men From Alpha
+p79584
+sa(dp79585
+g86
+I326
+sg34
+VDirections (Galaxy Magazine, March-April 1973)
+p79586
+sa(dp79587
+g86
+I713
+sg34
+VGalaxy Stars (Galaxy, March-April 1973)
+p79588
+sa(dp79589
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, March-April 1973)
+p79590
+sa(dp79591
+g86
+I63
+sg34
+VProject 40 (Part 3 of 3)
+p79592
+sa(dp79593
+g86
+I713
+sg34
+VThe Girl and the Dolphin
+p79594
+sa(dp79595
+g86
+I714
+sg34
+VInterference
+p79596
+sa(dp79597
+g86
+I635
+sg34
+VCrimescan
+p79598
+sa(dp79599
+g86
+I630
+sg34
+VThe Last Hunt
+p79600
+sa(dp79601
+g86
+I715
+sg34
+VSix Men From Alpha
+p79602
+sasbag1
+(g2
+g3
+Ntp79603
+Rp79604
+(dp79605
+g49
+(lp79606
+sg30
+(lp79607
+sg86
+I302
+sg82
+(lp79608
+I2
+asg13
+I1973
+sg34
+VGalaxy Magazine May 1973
+p79609
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v33n06_1973-05/Galaxy_v33n06_1973-05_jp2.zip&file=Galaxy_v33n06_1973-05_jp2/Galaxy_v33n06_1973-05_0000.jp2&scale=0&rotate=0
+p79610
+sg68228
+S'http://www.isfdb.org/wiki/images/f/ff/GALMAYJUN73.jpg'
+p79611
+sg14
+g68230
+sg16
+(lp79612
+sg75
+(lp79613
+I499
+aI326
+aI341
+aI630
+aI153
+aI713
+aI74
+aI716
+aI605
+aI302
+asg20
+(lp79614
+sg25
+I1163
+sg68234
+(lp79615
+(dp79616
+g86
+I499
+sg34
+VThe Doomsday Gene (Part 1 of 2)
+p79617
+sa(dp79618
+g86
+I499
+sg34
+VParthen
+p79619
+sa(dp79620
+g86
+I499
+sg34
+VOn the Account
+p79621
+sa(dp79622
+g86
+I326
+sg34
+VIn This Dark Sky
+p79623
+sa(dp79624
+g86
+I499
+sg34
+VGirl Saturday
+p79625
+sa(dp79626
+g86
+I499
+sg34
+VFuture Forbidden
+p79627
+sa(dp79628
+g86
+I326
+sg34
+VDirections (Galaxy, May-June 1973)
+p79629
+sa(dp79630
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, May-June 1973)
+p79631
+sa(dp79632
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, May-June 1973)
+p79633
+sa(dp79634
+g86
+I630
+sg34
+VOn the Account
+p79635
+sa(dp79636
+g86
+I153
+sg34
+VGirl Saturday
+p79637
+sa(dp79638
+g86
+I713
+sg34
+VThe Doomsday Gene (Part 1 of 2)
+p79639
+sa(dp79640
+g86
+I74
+sg34
+VParthen
+p79641
+sa(dp79642
+g86
+I716
+sg34
+VIn This Dark Sky
+p79643
+sa(dp79644
+g86
+I605
+sg34
+VFuture Forbidden
+p79645
+sasbag1
+(g2
+g3
+Ntp79646
+Rp79647
+(dp79648
+g49
+(lp79649
+sg30
+(lp79650
+sg86
+I302
+sg82
+(lp79651
+I2
+asg13
+I1973
+sg34
+VGalaxy Magazine July 1973
+p79652
+sg11
+Vhttps://ia601303.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v33n07_1973-07/Galaxy_v33n07_1973-07_jp2.zip&file=Galaxy_v33n07_1973-07_jp2/Galaxy_v33n07_1973-07_0000.jp2&scale=0&rotate=0
+p79653
+sg68228
+S'http://www.isfdb.org/wiki/images/8/89/GALJULAUG73.jpg'
+p79654
+sg14
+g68230
+sg16
+(lp79655
+sg75
+(lp79656
+I499
+aI326
+aI150
+aI341
+aI663
+aI713
+aI717
+aI718
+aI302
+asg20
+(lp79657
+sg25
+I1164
+sg68234
+(lp79658
+(dp79659
+g86
+I499
+sg34
+VThe Doomsday Gene (Part 2 of 2)
+p79660
+sa(dp79661
+g86
+I326
+sg34
+VFrank Merriwell in the White House
+p79662
+sa(dp79663
+g86
+I499
+sg34
+VJust a Matter of Time
+p79664
+sa(dp79665
+g86
+I326
+sg34
+VA Voice and Bitter Weeping
+p79666
+sa(dp79667
+g86
+I499
+sg34
+VLuna One
+p79668
+sa(dp79669
+g86
+I150
+sg34
+VGalaxy Stars (Galaxy, July-August 1973)
+p79670
+sa(dp79671
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, July-August 1973)
+p79672
+sa(dp79673
+g86
+I150
+sg34
+VFrank Merriwell in the White House
+p79674
+sa(dp79675
+g86
+I663
+sg34
+VLuna One
+p79676
+sa(dp79677
+g86
+I713
+sg34
+VThe Doomsday Gene (Part 2 of 2)
+p79678
+sa(dp79679
+g86
+I717
+sg34
+VJust a Matter of Time
+p79680
+sa(dp79681
+g86
+I718
+sg34
+VA Voice and Bitter Weeping
+p79682
+sasbag1
+(g2
+g3
+Ntp79683
+Rp79684
+(dp79685
+g49
+(lp79686
+sg30
+(lp79687
+sg86
+I302
+sg82
+(lp79688
+I2
+asg13
+I1973
+sg34
+VGalaxy Magazine September 1973
+p79689
+sg11
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/Galaxy_v33n08_1973-09/Galaxy_v33n08_1973-09_jp2.zip&file=Galaxy_v33n08_1973-09_jp2/Galaxy_v33n08_1973-09_0000.jp2&scale=0&rotate=0
+p79690
+sg68228
+S'http://www.isfdb.org/wiki/images/1/1e/GALSEP73.jpg'
+p79691
+sg14
+g68230
+sg16
+(lp79692
+sg75
+(lp79693
+I326
+aI499
+aI719
+aI341
+aI720
+aI667
+aI386
+aI635
+aI542
+aI721
+aI722
+aI723
+aI302
+asg20
+(lp79694
+sg25
+I1165
+sg68234
+(lp79695
+(dp79696
+g86
+I326
+sg34
+VRendezvous with Rama (Part 1 of 2)
+p79697
+sa(dp79698
+g86
+I499
+sg34
+VTriggerman
+p79699
+sa(dp79700
+g86
+I499
+sg34
+VQuickening
+p79701
+sa(dp79702
+g86
+I326
+sg34
+VQuarantine
+p79703
+sa(dp79704
+g86
+I326
+sg34
+VCircle of Flies
+p79705
+sa(dp79706
+g86
+I719
+sg34
+VAnd Ba
+p79707
+sa(dp79708
+g86
+I499
+sg34
+VThe Old King's Answers
+p79709
+sa(dp79710
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, September 1973)
+p79711
+sa(dp79712
+g86
+I720
+sg34
+VReview of the Nonfiction Work "Crash Go the Chariots"
+p79713
+sa(dp79714
+g86
+I667
+sg34
+VRe: October, 1973
+p79715
+sa(dp79716
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, September 1973)
+p79717
+sa(dp79718
+g86
+I386
+sg34
+VQuickening
+p79719
+sa(dp79720
+g86
+I635
+sg34
+VThe Old King's Answers
+p79721
+sa(dp79722
+g86
+I542
+sg34
+VRendezvous with Rama (Part 1 of 2)
+p79723
+sa(dp79724
+g86
+I721
+sg34
+VTriggerman
+p79725
+sa(dp79726
+g86
+I722
+sg34
+VQuarantine
+p79727
+sa(dp79728
+g86
+I723
+sg34
+VCircle of Flies
+p79729
+sasbag1
+(g2
+g3
+Ntp79730
+Rp79731
+(dp79732
+g49
+(lp79733
+sg30
+(lp79734
+sg86
+I302
+sg82
+(lp79735
+I2
+asg13
+I1973
+sg34
+VGalaxy Magazine November 1973
+p79736
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v34n02_1973-11/Galaxy_v34n02_1973-11_jp2.zip&file=Galaxy_v34n02_1973-11_jp2/Galaxy_v34n02_1973-11_0000.jp2&scale=0&rotate=0
+p79737
+sg68228
+S'http://www.isfdb.org/wiki/images/5/59/GALNOV73.jpg'
+p79738
+sg14
+g68230
+sg16
+(lp79739
+sg75
+(lp79740
+I326
+aI499
+aI341
+aI663
+aI607
+aI23
+aI704
+aI724
+aI40
+aI74
+aI302
+asg20
+(lp79741
+sg25
+I1166
+sg68234
+(lp79742
+(dp79743
+g86
+I326
+sg34
+VThink Only This of Me
+p79744
+sa(dp79745
+g86
+I499
+sg34
+VAnd No Birds Sing
+p79746
+sa(dp79747
+g86
+I499
+sg34
+VA Suppliant in Space
+p79748
+sa(dp79749
+g86
+I499
+sg34
+VMayflower Ii
+p79750
+sa(dp79751
+g86
+I499
+sg34
+VSome Joys Under the Star
+p79752
+sa(dp79753
+g86
+I499
+sg34
+VThe Dream Millennium (Part 2 of 3)
+p79754
+sa(dp79755
+g86
+I499
+sg34
+VBy the Seashore
+p79756
+sa(dp79757
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, November 1973)
+p79758
+sa(dp79759
+g86
+I663
+sg34
+VEclipse Expedition Into the Sahara
+p79760
+sa(dp79761
+g86
+I663
+sg34
+VGalaxy Stars (Galaxy, November 1973)
+p79762
+sa(dp79763
+g86
+I607
+sg34
+VThink Only This of Me
+p79764
+sa(dp79765
+g86
+I23
+sg34
+VA Suppliant in Space
+p79766
+sa(dp79767
+g86
+I663
+sg34
+VMayflower Ii
+p79768
+sa(dp79769
+g86
+I704
+sg34
+VThe Dream Millennium (Part 2 of 3)
+p79770
+sa(dp79771
+g86
+I724
+sg34
+VAnd No Birds Sing
+p79772
+sa(dp79773
+g86
+I40
+sg34
+VSome Joys Under the Star
+p79774
+sa(dp79775
+g86
+I74
+sg34
+VBy the Seashore
+p79776
+sasbag1
+(g2
+g3
+Ntp79777
+Rp79778
+(dp79779
+g49
+(lp79780
+sg30
+(lp79781
+sg86
+I302
+sg82
+(lp79782
+I2
+asg13
+I1973
+sg34
+VGalaxy Magazine December 1973
+p79783
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v34n03_1973-12/Galaxy_v34n03_1973-12_jp2.zip&file=Galaxy_v34n03_1973-12_jp2/Galaxy_v34n03_1973-12_0000.jp2&scale=0&rotate=0
+p79784
+sg68228
+S'http://www.isfdb.org/wiki/images/e/ec/GALDEC73.jpg'
+p79785
+sg14
+g68230
+sg16
+(lp79786
+sg75
+(lp79787
+I499
+aI326
+aI341
+aI577
+aI725
+aI704
+aI722
+aI726
+aI727
+aI302
+asg20
+(lp79788
+sg25
+I1167
+sg68234
+(lp79789
+(dp79790
+g86
+I499
+sg34
+VInverted World (Part 1 of 4)
+p79791
+sa(dp79792
+g86
+I326
+sg34
+VUnbiased God
+p79793
+sa(dp79794
+g86
+I499
+sg34
+VSweet Sister, Green Brother
+p79795
+sa(dp79796
+g86
+I499
+sg34
+VHer Fine and Private Planet
+p79797
+sa(dp79798
+g86
+I499
+sg34
+VA Better Rat-Trap
+p79799
+sa(dp79800
+g86
+I499
+sg34
+VThe Dream Millennium (Part 3 of 3)
+p79801
+sa(dp79802
+g86
+I326
+sg34
+VDirections (Galaxy, December 1973)
+p79803
+sa(dp79804
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, December 1973)
+p79805
+sa(dp79806
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, December 1973) (Circulation: 54,524)
+p79807
+sa(dp79808
+g86
+I577
+sg34
+VSweet Sister, Green Brother
+p79809
+sa(dp79810
+g86
+I725
+sg34
+VInverted World (Part 1 of 4)
+p79811
+sa(dp79812
+g86
+I704
+sg34
+VThe Dream Millennium (Part 3 of 3)
+p79813
+sa(dp79814
+g86
+I722
+sg34
+VUnbiased God
+p79815
+sa(dp79816
+g86
+I726
+sg34
+VHer Fine and Private Planet
+p79817
+sa(dp79818
+g86
+I727
+sg34
+VA Better Rat-Trap
+p79819
+sasbag1
+(g2
+g3
+Ntp79820
+Rp79821
+(dp79822
+g49
+(lp79823
+sg30
+(lp79824
+sg86
+I302
+sg82
+(lp79825
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine January 1974
+p79826
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v34n05_1974-01/Galaxy_v34n05_1974-01_jp2.zip&file=Galaxy_v34n05_1974-01_jp2/Galaxy_v34n05_1974-01_0000.jp2&scale=0&rotate=0
+p79827
+sg68228
+S'http://www.isfdb.org/wiki/images/c/cb/GALJAN74.jpg'
+p79828
+sg14
+g68230
+sg16
+(lp79829
+sg75
+(lp79830
+I499
+aI326
+aI341
+aI675
+aI660
+aI725
+aI728
+aI558
+aI704
+aI561
+aI729
+aI302
+asg20
+(lp79831
+sg25
+I1168
+sg68234
+(lp79832
+(dp79833
+g86
+I499
+sg34
+VThe Only War We've Got
+p79834
+sa(dp79835
+g86
+I499
+sg34
+VPassages
+p79836
+sa(dp79837
+g86
+I326
+sg34
+VSurvival Course
+p79838
+sa(dp79839
+g86
+I499
+sg34
+VAnswer Came There None
+p79840
+sa(dp79841
+g86
+I499
+sg34
+VThe Girl with a Symphony in Her Fingers
+p79842
+sa(dp79843
+g86
+I499
+sg34
+VCalendars
+p79844
+sa(dp79845
+g86
+I499
+sg34
+VWaves
+p79846
+sa(dp79847
+g86
+I499
+sg34
+VInverted World (Part 2 of 4)
+p79848
+sa(dp79849
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, January 1974)
+p79850
+sa(dp79851
+g86
+I675
+sg34
+VThe Girl with a Symphony in Her Fingers
+p79852
+sa(dp79853
+g86
+I660
+sg34
+VThe Only War We've Got
+p79854
+sa(dp79855
+g86
+I725
+sg34
+VInverted World (Part 2 of 4)
+p79856
+sa(dp79857
+g86
+I728
+sg34
+VPassages
+p79858
+sa(dp79859
+g86
+I558
+sg34
+VSurvival Course
+p79860
+sa(dp79861
+g86
+I704
+sg34
+VAnswer Came There None
+p79862
+sa(dp79863
+g86
+I561
+sg34
+VCalendars
+p79864
+sa(dp79865
+g86
+I729
+sg34
+VWaves
+p79866
+sasbag1
+(g2
+g3
+Ntp79867
+Rp79868
+(dp79869
+g49
+(lp79870
+sg30
+(lp79871
+sg86
+I302
+sg82
+(lp79872
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine February 1974
+p79873
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v34n05_1974-02/Galaxy_v34n05_1974-02_jp2.zip&file=Galaxy_v34n05_1974-02_jp2/Galaxy_v34n05_1974-02_0000.jp2&scale=0&rotate=0
+p79874
+sg68228
+S'http://www.isfdb.org/wiki/images/9/9d/GALFEB74.jpg'
+p79875
+sg14
+g68230
+sg16
+(lp79876
+sg75
+(lp79877
+I499
+aI341
+aI326
+aI74
+aI730
+aI577
+aI725
+aI731
+aI302
+asg20
+(lp79878
+sg25
+I1169
+sg68234
+(lp79879
+(dp79880
+g86
+I499
+sg34
+VCreated Equal
+p79881
+sa(dp79882
+g86
+I499
+sg34
+VDeathsong
+p79883
+sa(dp79884
+g86
+I499
+sg34
+VRivers of Damascus
+p79885
+sa(dp79886
+g86
+I499
+sg34
+VProtest
+p79887
+sa(dp79888
+g86
+I499
+sg34
+VInverted World (Part 3 of 4)
+p79889
+sa(dp79890
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, February 1974)
+p79891
+sa(dp79892
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, February 1974)
+p79893
+sa(dp79894
+g86
+I74
+sg34
+VRivers of Damascus
+p79895
+sa(dp79896
+g86
+I730
+sg34
+VCreated Equal
+p79897
+sa(dp79898
+g86
+I577
+sg34
+VDeathsong
+p79899
+sa(dp79900
+g86
+I725
+sg34
+VInverted World (Part 3 of 4)
+p79901
+sa(dp79902
+g86
+I731
+sg34
+VProtest
+p79903
+sasbag1
+(g2
+g3
+Ntp79904
+Rp79905
+(dp79906
+g49
+(lp79907
+sg30
+(lp79908
+sg86
+I302
+sg82
+(lp79909
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine March 1974
+p79910
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v34n06_1974-03/Galaxy_v34n06_1974-03_jp2.zip&file=Galaxy_v34n06_1974-03_jp2/Galaxy_v34n06_1974-03_0000.jp2&scale=0&rotate=0
+p79911
+sg68228
+S'http://www.isfdb.org/wiki/images/9/9e/GALMAR74.jpg'
+p79912
+sg14
+g68230
+sg16
+(lp79913
+sg75
+(lp79914
+I326
+aI499
+aI570
+aI341
+aI675
+aI732
+aI546
+aI725
+aI722
+aI733
+aI302
+asg20
+(lp79915
+sg25
+I1170
+sg68234
+(lp79916
+(dp79917
+g86
+I326
+sg34
+VWeb of Everywhere (Part 1 of 2)
+p79918
+sa(dp79919
+g86
+I499
+sg34
+VThe Hook, the Eye and the Whip
+p79920
+sa(dp79921
+g86
+I326
+sg34
+VA Typical Day
+p79922
+sa(dp79923
+g86
+I499
+sg34
+VInfidel of Five Temples
+p79924
+sa(dp79925
+g86
+I499
+sg34
+VThe Durable Man
+p79926
+sa(dp79927
+g86
+I570
+sg34
+VThe Ba
+p79928
+sa(dp79929
+g86
+I499
+sg34
+VInverted World (Part 4 of 4)
+p79930
+sa(dp79931
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, March 1974)
+p79932
+sa(dp79933
+g86
+I675
+sg34
+VThe Hook, the Eye and the Whip
+p79934
+sa(dp79935
+g86
+I732
+sg34
+VInfidel of Five Temples
+p79936
+sa(dp79937
+g86
+I546
+sg34
+VWeb of Everywhere (Part 1 of 2)
+p79938
+sa(dp79939
+g86
+I725
+sg34
+VInverted World (Part 4 of 4)
+p79940
+sa(dp79941
+g86
+I722
+sg34
+VA Typical Day
+p79942
+sa(dp79943
+g86
+I733
+sg34
+VThe Durable Man
+p79944
+sasbag1
+(g2
+g3
+Ntp79945
+Rp79946
+(dp79947
+g49
+(lp79948
+sg30
+(lp79949
+sg86
+I302
+sg82
+(lp79950
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine April 1974
+p79951
+sg11
+Vhttps://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v34n07_1974-04/Galaxy_v34n07_1974-04_jp2.zip&file=Galaxy_v34n07_1974-04_jp2/Galaxy_v34n07_1974-04_0000.jp2&scale=0&rotate=0
+p79952
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b6/GALAPR74.jpg'
+p79953
+sg14
+g68230
+sg16
+(lp79954
+sg75
+(lp79955
+I326
+aI40
+aI734
+aI341
+aI735
+aI577
+aI86
+aI546
+aI736
+aI721
+aI302
+asg20
+(lp79956
+sg25
+I1171
+sg68234
+(lp79957
+(dp79958
+g86
+I326
+sg34
+VThe Org's Egg (Part 1 of 3)
+p79959
+sa(dp79960
+g86
+I326
+sg34
+VMindhunt
+p79961
+sa(dp79962
+g86
+I326
+sg34
+VSkyveil
+p79963
+sa(dp79964
+g86
+I326
+sg34
+VThe Discovery of Earth
+p79965
+sa(dp79966
+g86
+I326
+sg34
+VOutfielder
+p79967
+sa(dp79968
+g86
+I326
+sg34
+VWeb of Everywhere (Part 2 of 2)
+p79969
+sa(dp79970
+g86
+I40
+sg34
+VGalaxy Stars (Galaxy, April 1974)
+p79971
+sa(dp79972
+g86
+I734
+sg34
+VHalfway to Anywhere
+p79973
+sa(dp79974
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, April 1974)
+p79975
+sa(dp79976
+g86
+I735
+sg34
+VMindhunt
+p79977
+sa(dp79978
+g86
+I577
+sg34
+VSkyveil
+p79979
+sa(dp79980
+g86
+I86
+sg34
+VThe Org's Egg (Part 1 of 3)
+p79981
+sa(dp79982
+g86
+I546
+sg34
+VWeb of Everywhere (Part 2 of 2)
+p79983
+sa(dp79984
+g86
+I736
+sg34
+VThe Discovery of Earth
+p79985
+sa(dp79986
+g86
+I721
+sg34
+VOutfielder
+p79987
+sasbag1
+(g2
+g3
+Ntp79988
+Rp79989
+(dp79990
+g49
+(lp79991
+sg30
+(lp79992
+sg86
+I302
+sg82
+(lp79993
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine May 1974
+p79994
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/Galaxy_v35n05_1974-05/Galaxy_v35n05_1974-05_jp2.zip&file=Galaxy_v35n05_1974-05_jp2/Galaxy_v35n05_1974-05_0000.jp2&scale=0&rotate=0
+p79995
+sg68228
+S'http://www.isfdb.org/wiki/images/e/e3/GALMAY74.jpg'
+p79996
+sg14
+g68230
+sg16
+(lp79997
+sg75
+(lp79998
+I326
+aI499
+aI734
+aI341
+aI737
+aI635
+aI86
+aI23
+aI153
+aI74
+aI651
+aI722
+aI112
+aI302
+asg20
+(lp79999
+sg25
+I1172
+sg68234
+(lp80000
+(dp80001
+g86
+I326
+sg34
+VEnd City
+p80002
+sa(dp80003
+g86
+I499
+sg34
+VTinkerboy
+p80004
+sa(dp80005
+g86
+I326
+sg34
+VEndangered Species
+p80006
+sa(dp80007
+g86
+I499
+sg34
+VCox's Quality
+p80008
+sa(dp80009
+g86
+I499
+sg34
+VThe Org's Egg (Part 2 of 3)
+p80010
+sa(dp80011
+g86
+I499
+sg34
+VTime and Duckworth
+p80012
+sa(dp80013
+g86
+I326
+sg34
+VSubstance and Shadow
+p80014
+sa(dp80015
+g86
+I499
+sg34
+VWar of the Wastelife
+p80016
+sa(dp80017
+g86
+I499
+sg34
+VCool Affection
+p80018
+sa(dp80019
+g86
+I734
+sg34
+VThose Pesky Belters and Their Torchships
+p80020
+sa(dp80021
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, May 1974)
+p80022
+sa(dp80023
+g86
+I737
+sg34
+VCox's Quality
+p80024
+sa(dp80025
+g86
+I635
+sg34
+VWar of the Wastelife
+p80026
+sa(dp80027
+g86
+I86
+sg34
+VThe Org's Egg (Part 2 of 3)
+p80028
+sa(dp80029
+g86
+I23
+sg34
+VEnd City
+p80030
+sa(dp80031
+g86
+I153
+sg34
+VTinkerboy
+p80032
+sa(dp80033
+g86
+I74
+sg34
+VEndangered Species
+p80034
+sa(dp80035
+g86
+I651
+sg34
+VTime and Duckworth
+p80036
+sa(dp80037
+g86
+I722
+sg34
+VSubstance and Shadow
+p80038
+sa(dp80039
+g86
+I112
+sg34
+VCool Affection
+p80040
+sasbag1
+(g2
+g3
+Ntp80041
+Rp80042
+(dp80043
+g49
+(lp80044
+sg30
+(lp80045
+sg86
+I302
+sg82
+(lp80046
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine June 1974
+p80047
+sg11
+Vhttps://ia800205.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v35n06_1974-06/Galaxy_v35n06_1974-06_jp2.zip&file=Galaxy_v35n06_1974-06_jp2/Galaxy_v35n06_1974-06_0000.jp2&scale=0&rotate=0
+p80048
+sg68228
+S'http://www.isfdb.org/wiki/images/d/da/GALJUN74.jpg'
+p80049
+sg14
+g68230
+sg16
+(lp80050
+sg75
+(lp80051
+I326
+aI499
+aI738
+aI341
+aI734
+aI55
+aI418
+aI665
+aI86
+aI651
+aI660
+aI302
+asg20
+(lp80052
+sg25
+I1173
+sg68234
+(lp80053
+(dp80054
+g86
+I326
+sg34
+VOrbitsville (Part 1 of 3)
+p80055
+sa(dp80056
+g86
+I326
+sg34
+VWhere There's Smoke
+p80057
+sa(dp80058
+g86
+I326
+sg34
+VThe Private War of Pvt. Jacob
+p80059
+sa(dp80060
+g86
+I326
+sg34
+VThe Glitch
+p80061
+sa(dp80062
+g86
+I499
+sg34
+VThe Org's Egg (Part 3 of 3)
+p80063
+sa(dp80064
+g86
+I499
+sg34
+VLittle Game
+p80065
+sa(dp80066
+g86
+I738
+sg34
+VForum: Farewell to Yesterday's Tomorrow
+p80067
+sa(dp80068
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, June 1974)
+p80069
+sa(dp80070
+g86
+I734
+sg34
+VHow Long to Doomsday
+p80071
+sa(dp80072
+g86
+I55
+sg34
+VThe Glitch
+p80073
+sa(dp80074
+g86
+I418
+sg34
+VLittle Game
+p80075
+sa(dp80076
+g86
+I665
+sg34
+VOrbitsville (Part 1 of 3)
+p80077
+sa(dp80078
+g86
+I86
+sg34
+VThe Org's Egg (Part 3 of 3)
+p80079
+sa(dp80080
+g86
+I651
+sg34
+VWhere There's Smoke
+p80081
+sa(dp80082
+g86
+I660
+sg34
+VThe Private War of Pvt. Jacob
+p80083
+sasbag1
+(g2
+g3
+Ntp80084
+Rp80085
+(dp80086
+g49
+(lp80087
+sg30
+(lp80088
+sg86
+I302
+sg82
+(lp80089
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine July 1974
+p80090
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v35n07_1974-07/Galaxy_v35n07_1974-07_jp2.zip&file=Galaxy_v35n07_1974-07_jp2/Galaxy_v35n07_1974-07_0000.jp2&scale=0&rotate=0
+p80091
+sg68228
+S'http://www.isfdb.org/wiki/images/c/c1/GALJUL74.jpg'
+p80092
+sg14
+g68230
+sg16
+(lp80093
+sg75
+(lp80094
+I326
+aI499
+aI739
+aI3
+aI734
+aI665
+aI740
+aI418
+aI561
+aI741
+aI302
+asg20
+(lp80095
+sg25
+I1174
+sg68234
+(lp80096
+(dp80097
+g86
+I326
+sg34
+VThe Frontliners
+p80098
+sa(dp80099
+g86
+I499
+sg34
+VA Full Member of the Club
+p80100
+sa(dp80101
+g86
+I326
+sg34
+VOpening Problem
+p80102
+sa(dp80103
+g86
+I499
+sg34
+VLife Force
+p80104
+sa(dp80105
+g86
+I739
+sg34
+VShowcase (Galaxy, July 1974)
+p80106
+sa(dp80107
+g86
+I326
+sg34
+VAct of Mercy
+p80108
+sa(dp80109
+g86
+I326
+sg34
+VOrbitsville (Part 2 of 3)
+p80110
+sa(dp80111
+g86
+I3
+sg34
+VForum: Is There Hope for the Future?
+p80112
+sa(dp80113
+g86
+I734
+sg34
+VThis Generation of Wonder
+p80114
+sa(dp80115
+g86
+I326
+sg34
+VDirections (Galaxy, July 1974)
+p80116
+sa(dp80117
+g86
+I665
+sg34
+VA Full Member of the Club
+p80118
+sa(dp80119
+g86
+I740
+sg34
+VOpening Problem
+p80120
+sa(dp80121
+g86
+I418
+sg34
+VThe Frontliners
+p80122
+sa(dp80123
+g86
+I665
+sg34
+VOrbitsville (Part 2 of 3)
+p80124
+sa(dp80125
+g86
+I561
+sg34
+VLife Force
+p80126
+sa(dp80127
+g86
+I741
+sg34
+VAct of Mercy
+p80128
+sasbag1
+(g2
+g3
+Ntp80129
+Rp80130
+(dp80131
+g49
+(lp80132
+sg30
+(lp80133
+sg86
+I302
+sg82
+(lp80134
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine August 1974
+p80135
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v35n08_1974-08_modified/Galaxy_v35n08_1974-08_modified_jp2.zip&file=Galaxy_v35n08_1974-08_modified_jp2/Galaxy_v35n08_1974-08_modified_0000.jp2&scale=0&rotate=0
+p80136
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b3/GALAUG74.jpg'
+p80137
+sg14
+g68230
+sg16
+(lp80138
+sg75
+(lp80139
+I499
+aI742
+aI326
+aI30
+aI341
+aI734
+aI51
+aI132
+aI665
+aI743
+aI741
+aI302
+asg20
+(lp80140
+sg25
+I1175
+sg68234
+(lp80141
+(dp80142
+g86
+I499
+sg34
+VThe Day Before the Revolution
+p80143
+sa(dp80144
+g86
+I742
+sg34
+VShowcase (Galaxy, August 1974)
+p80145
+sa(dp80146
+g86
+I326
+sg34
+VThe Company of Glory (Part 1 of 3)
+p80147
+sa(dp80148
+g86
+I326
+sg34
+VThe Gift of Garigolli
+p80149
+sa(dp80150
+g86
+I326
+sg34
+VBig Black Whole
+p80151
+sa(dp80152
+g86
+I499
+sg34
+VOrbitsville (Part 3 of 3)
+p80153
+sa(dp80154
+g86
+I30
+sg34
+VForum: A Cyclical Theory of Science Fiction
+p80155
+sa(dp80156
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, August 1974)
+p80157
+sa(dp80158
+g86
+I734
+sg34
+VOur Friends the Arabs
+p80159
+sa(dp80160
+g86
+I326
+sg34
+VDirections (Galaxy, August 1974)
+p80161
+sa(dp80162
+g86
+I51
+sg34
+VThe Gift of Garigolli
+p80163
+sa(dp80164
+g86
+I132
+sg34
+VThe Company of Glory (Part 1 of 3)
+p80165
+sa(dp80166
+g86
+I665
+sg34
+VOrbitsville (Part 3 of 3)
+p80167
+sa(dp80168
+g86
+I743
+sg34
+VThe Day Before the Revolution
+p80169
+sa(dp80170
+g86
+I741
+sg34
+VBig Black Whole
+p80171
+sasbag1
+(g2
+g3
+Ntp80172
+Rp80173
+(dp80174
+g49
+(lp80175
+sg30
+(lp80176
+sg86
+I302
+sg82
+(lp80177
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine September 1974
+p80178
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v35n09_1974-09/Galaxy_v35n09_1974-09_jp2.zip&file=Galaxy_v35n09_1974-09_jp2/Galaxy_v35n09_1974-09_0000.jp2&scale=0&rotate=0
+p80179
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f6/GALSEP74.jpg'
+p80180
+sg14
+g68230
+sg16
+(lp80181
+sg75
+(lp80182
+I742
+aI744
+aI499
+aI745
+aI746
+aI341
+aI326
+aI747
+aI734
+aI748
+aI740
+aI132
+aI722
+aI749
+aI750
+aI751
+aI302
+asg20
+(lp80183
+sg25
+I1176
+sg68234
+(lp80184
+(dp80185
+g86
+I742
+sg34
+VThe Splendid Freedom
+p80186
+sa(dp80187
+g86
+I744
+sg34
+VNature's Children
+p80188
+sa(dp80189
+g86
+I744
+sg34
+VIncident
+p80190
+sa(dp80191
+g86
+I499
+sg34
+VTarget of Opportunity
+p80192
+sa(dp80193
+g86
+I745
+sg34
+VThe Company of Glory (Part 2 of 3)
+p80194
+sa(dp80195
+g86
+I499
+sg34
+VFamily Program
+p80196
+sa(dp80197
+g86
+I499
+sg34
+VThe August Revolution
+p80198
+sa(dp80199
+g86
+I746
+sg34
+VShowcase (Galaxy, September 1974)
+p80200
+sa(dp80201
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, September 1974)
+p80202
+sa(dp80203
+g86
+I326
+sg34
+VGalaxy Stars (Galaxy, September 1974)
+p80204
+sa(dp80205
+g86
+I747
+sg34
+VForum: Television: Never-Never Land and Clarke's Third Law
+p80206
+sa(dp80207
+g86
+I734
+sg34
+VTechnology and Brainpower: Two Revolutions
+p80208
+sa(dp80209
+g86
+I326
+sg34
+VDirections (Galaxy, September 1974)
+p80210
+sa(dp80211
+g86
+I748
+sg34
+VThe Splendid Freedom
+p80212
+sa(dp80213
+g86
+I740
+sg34
+VFamily Program
+p80214
+sa(dp80215
+g86
+I132
+sg34
+VThe Company of Glory (Part 2 of 3)
+p80216
+sa(dp80217
+g86
+I722
+sg34
+VNature's Children
+p80218
+sa(dp80219
+g86
+I749
+sg34
+VIncident
+p80220
+sa(dp80221
+g86
+I750
+sg34
+VTarget of Opportunity
+p80222
+sa(dp80223
+g86
+I751
+sg34
+VThe August Revolution
+p80224
+sasbag1
+(g2
+g3
+Ntp80225
+Rp80226
+(dp80227
+g49
+(lp80228
+sg30
+(lp80229
+sg86
+I302
+sg82
+(lp80230
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine October 1974
+p80231
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/Galaxy_v35n10_1974-10/Galaxy_v35n10_1974-10_jp2.zip&file=Galaxy_v35n10_1974-10_jp2/Galaxy_v35n10_1974-10_0000.jp2&scale=0&rotate=0
+p80232
+sg68228
+S'http://www.isfdb.org/wiki/images/5/5b/GALOCT74.jpg'
+p80233
+sg14
+g68230
+sg16
+(lp80234
+sg75
+(lp80235
+I742
+aI499
+aI744
+aI752
+aI753
+aI341
+aI734
+aI754
+aI748
+aI132
+aI755
+aI756
+aI757
+aI359
+aI758
+aI302
+asg20
+(lp80236
+sg25
+I1177
+sg68234
+(lp80237
+(dp80238
+g86
+I742
+sg34
+VThe Eastcoast Confinement
+p80239
+sa(dp80240
+g86
+I499
+sg34
+VUnder the Hammer
+p80241
+sa(dp80242
+g86
+I499
+sg34
+VWitch Children
+p80243
+sa(dp80244
+g86
+I744
+sg34
+VEasy Rider
+p80245
+sa(dp80246
+g86
+I752
+sg34
+VThe Last Destination of Master G
+p80247
+sa(dp80248
+g86
+I499
+sg34
+VThe Long Night
+p80249
+sa(dp80250
+g86
+I753
+sg34
+VThe Company of Glory (Part 3 of 3)
+p80251
+sa(dp80252
+g86
+I499
+sg34
+VThe Twist
+p80253
+sa(dp80254
+g86
+I499
+sg34
+VShowcase (Galaxy, October 1974)
+p80255
+sa(dp80256
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, October 1974)
+p80257
+sa(dp80258
+g86
+I734
+sg34
+VShips for Manned Spaceflight
+p80259
+sa(dp80260
+g86
+I754
+sg34
+VWitch Children
+p80261
+sa(dp80262
+g86
+I748
+sg34
+VThe Eastcoast Confinement
+p80263
+sa(dp80264
+g86
+I132
+sg34
+VThe Company of Glory (Part 3 of 3)
+p80265
+sa(dp80266
+g86
+I755
+sg34
+VUnder the Hammer
+p80267
+sa(dp80268
+g86
+I756
+sg34
+VEasy Rider
+p80269
+sa(dp80270
+g86
+I757
+sg34
+VThe Last Destination of Master G
+p80271
+sa(dp80272
+g86
+I359
+sg34
+VThe Long Night
+p80273
+sa(dp80274
+g86
+I758
+sg34
+VThe Twist
+p80275
+sasbag1
+(g2
+g3
+Ntp80276
+Rp80277
+(dp80278
+g49
+(lp80279
+sg30
+(lp80280
+sg86
+I302
+sg82
+(lp80281
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine November 1974
+p80282
+sg11
+Vhttps://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v35n11_1974-11/Galaxy_v35n11_1974-11_jp2.zip&file=Galaxy_v35n11_1974-11_jp2/Galaxy_v35n11_1974-11_0000.jp2&scale=0&rotate=0
+p80283
+sg68228
+S'http://www.isfdb.org/wiki/images/1/11/GALNOV74.jpg'
+p80284
+sg14
+g68230
+sg16
+(lp80285
+sg75
+(lp80286
+I742
+aI499
+aI744
+aI326
+aI40
+aI734
+aI341
+aI740
+aI755
+aI759
+aI561
+aI760
+aI302
+asg20
+(lp80287
+sg25
+I1178
+sg68234
+(lp80288
+(dp80289
+g86
+I742
+sg34
+VLove Conquers All (Part 1 of 3)
+p80290
+sa(dp80291
+g86
+I499
+sg34
+VThe Persistence of Memory
+p80292
+sa(dp80293
+g86
+I744
+sg34
+VThe Butcher's Bill
+p80294
+sa(dp80295
+g86
+I326
+sg34
+VOf a Death On Dante
+p80296
+sa(dp80297
+g86
+I499
+sg34
+VThe Aerial Machine
+p80298
+sa(dp80299
+g86
+I40
+sg34
+VForum: Sf East: An Sf Safari to Redland
+p80300
+sa(dp80301
+g86
+I734
+sg34
+VHere Come the Brains
+p80302
+sa(dp80303
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, November 1974)
+p80304
+sa(dp80305
+g86
+I326
+sg34
+VDirections (Galaxy, November 1974)
+p80306
+sa(dp80307
+g86
+I740
+sg34
+VThe Persistence of Memory
+p80308
+sa(dp80309
+g86
+I755
+sg34
+VThe Butcher's Bill
+p80310
+sa(dp80311
+g86
+I759
+sg34
+VThe Aerial Machine
+p80312
+sa(dp80313
+g86
+I561
+sg34
+VLove Conquers All (Part 1 of 3)
+p80314
+sa(dp80315
+g86
+I760
+sg34
+VOf a Death On Dante
+p80316
+sasbag1
+(g2
+g3
+Ntp80317
+Rp80318
+(dp80319
+g49
+(lp80320
+sg30
+(lp80321
+sg86
+I302
+sg82
+(lp80322
+I2
+asg13
+I1974
+sg34
+VGalaxy Magazine December 1974
+p80323
+sg11
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v35n12_1974-12/Galaxy_v35n12_1974-12_jp2.zip&file=Galaxy_v35n12_1974-12_jp2/Galaxy_v35n12_1974-12_0000.jp2&scale=0&rotate=0
+p80324
+sg68228
+S'http://www.isfdb.org/wiki/images/4/4c/GALDEC74.jpg'
+p80325
+sg14
+g68230
+sg16
+(lp80326
+sg75
+(lp80327
+I499
+aI326
+aI742
+aI743
+aI734
+aI341
+aI69
+aI761
+aI762
+aI561
+aI741
+aI50
+aI302
+asg20
+(lp80328
+sg25
+I1179
+sg68234
+(lp80329
+(dp80330
+g86
+I499
+sg34
+VCry Wolf!
+p80331
+sa(dp80332
+g86
+I499
+sg34
+VEmber Eyes
+p80333
+sa(dp80334
+g86
+I326
+sg34
+VLove Conquers All (Part 2 of 3)
+p80335
+sa(dp80336
+g86
+I326
+sg34
+VThe Eggs of Eden
+p80337
+sa(dp80338
+g86
+I742
+sg34
+VThe Man Who Came Back
+p80339
+sa(dp80340
+g86
+I326
+sg34
+VThe Bleeding Man
+p80341
+sa(dp80342
+g86
+I326
+sg34
+VThe Bleeding Man [2]
+p80343
+sa(dp80344
+g86
+I743
+sg34
+VForum: Escape Routes
+p80345
+sa(dp80346
+g86
+I734
+sg34
+VBlack Holes and Cosmic Censorship
+p80347
+sa(dp80348
+g86
+I341
+sg34
+VGalaxy Bookshelf (Galaxy, December 1974)
+p80349
+sa(dp80350
+g86
+I326
+sg34
+VDirections (Galaxy, December 1974)
+p80351
+sa(dp80352
+g86
+I69
+sg34
+VCry Wolf!
+p80353
+sa(dp80354
+g86
+I761
+sg34
+VThe Eggs of Eden
+p80355
+sa(dp80356
+g86
+I762
+sg34
+VThe Bleeding Man
+p80357
+sa(dp80358
+g86
+I561
+sg34
+VLove Conquers All (Part 2 of 3)
+p80359
+sa(dp80360
+g86
+I741
+sg34
+VEmber Eyes
+p80361
+sa(dp80362
+g86
+I50
+sg34
+VThe Man Who Came Back
+p80363
+sasbag1
+(g2
+g3
+Ntp80364
+Rp80365
+(dp80366
+g49
+(lp80367
+sg30
+(lp80368
+sg86
+I302
+sg82
+(lp80369
+I2
+asg13
+I1975
+sg34
+VGalaxy Magazine January 1975
+p80370
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v36n01_1975-01/Galaxy_v36n01_1975-01_jp2.zip&file=Galaxy_v36n01_1975-01_jp2/Galaxy_v36n01_1975-01_0000.jp2&scale=0&rotate=0
+p80371
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d6/GALJAN75.jpg'
+p80372
+sg14
+g68230
+sg16
+(lp80373
+sg75
+(lp80374
+I745
+aI326
+aI763
+aI499
+aI742
+aI744
+aI764
+aI591
+aI734
+aI561
+aI711
+aI765
+aI762
+aI766
+aI761
+aI302
+asg20
+(lp80375
+sg25
+I1180
+sg68234
+(lp80376
+(dp80377
+g86
+I745
+sg34
+VStraw
+p80378
+sa(dp80379
+g86
+I326
+sg34
+VSign of the Unicorn (Part 1 of 3)
+p80380
+sa(dp80381
+g86
+I763
+sg34
+VShowcase (Galaxy, January 1975)
+p80382
+sa(dp80383
+g86
+I499
+sg34
+VPow Wow
+p80384
+sa(dp80385
+g86
+I326
+sg34
+VA Horse of a Different Technicolor
+p80386
+sa(dp80387
+g86
+I499
+sg34
+VThe Schwarzkind Singularity
+p80388
+sa(dp80389
+g86
+I742
+sg34
+VLove Conquers All (Part 3 of 3)
+p80390
+sa(dp80391
+g86
+I744
+sg34
+VBe Ye Perfect
+p80392
+sa(dp80393
+g86
+I764
+sg34
+VFusion
+p80394
+sa(dp80395
+g86
+I591
+sg34
+VAn Essay in Amber
+p80396
+sa(dp80397
+g86
+I734
+sg34
+VFuzzy Black Holes Have No Hair
+p80398
+sa(dp80399
+g86
+I326
+sg34
+VDirections (Galaxy, January 1975)
+p80400
+sa(dp80401
+g86
+I591
+sg34
+VSign of the Unicorn (Part 1 of 3)
+p80402
+sa(dp80403
+g86
+I561
+sg34
+VLove Conquers All (Part 3 of 3)
+p80404
+sa(dp80405
+g86
+I711
+sg34
+VStraw
+p80406
+sa(dp80407
+g86
+I765
+sg34
+VPow Wow
+p80408
+sa(dp80409
+g86
+I762
+sg34
+VA Horse of a Different Technicolor
+p80410
+sa(dp80411
+g86
+I766
+sg34
+VThe Schwarzkind Singularity
+p80412
+sa(dp80413
+g86
+I761
+sg34
+VBe Ye Perfect
+p80414
+sasbag1
+(g2
+g3
+Ntp80415
+Rp80416
+(dp80417
+g49
+(lp80418
+sg30
+(lp80419
+sg86
+I302
+sg82
+(lp80420
+I2
+asg13
+I1975
+sg34
+VGalaxy Magazine February 1975
+p80421
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v36n02_1975-02/Galaxy_v36n02_1975-02_jp2.zip&file=Galaxy_v36n02_1975-02_jp2/Galaxy_v36n02_1975-02_0000.jp2&scale=0&rotate=0
+p80422
+sg68228
+S'http://www.isfdb.org/wiki/images/2/22/GALFEB75.jpg'
+p80423
+sg14
+g68230
+sg16
+(lp80424
+sg75
+(lp80425
+I499
+aI753
+aI742
+aI744
+aI734
+aI767
+aI326
+aI768
+aI686
+aI591
+aI561
+aI765
+aI769
+aI302
+asg20
+(lp80426
+sg25
+I1181
+sg68234
+(lp80427
+(dp80428
+g86
+I499
+sg34
+VThe Annihilation of Angkor Apeiron
+p80429
+sa(dp80430
+g86
+I753
+sg34
+VAllegiances
+p80431
+sa(dp80432
+g86
+I499
+sg34
+VMarsman Meets the Almighty
+p80433
+sa(dp80434
+g86
+I499
+sg34
+VMarsman Meets the Almighty [2]
+p80435
+sa(dp80436
+g86
+I499
+sg34
+VMarsman Meets the Almighty [3]
+p80437
+sa(dp80438
+g86
+I742
+sg34
+VThe Linguist
+p80439
+sa(dp80440
+g86
+I742
+sg34
+VSign of the Unicorn (Part 2 of 3)
+p80441
+sa(dp80442
+g86
+I744
+sg34
+VThe Walden Window
+p80443
+sa(dp80444
+g86
+I744
+sg34
+VShowcase (Galaxy, February 1975)
+p80445
+sa(dp80446
+g86
+I734
+sg34
+VThe Velikovsky Affair
+p80447
+sa(dp80448
+g86
+I767
+sg34
+VThe Alien Viewpoint: Galaxy/If Dialogue #4
+p80449
+sa(dp80450
+g86
+I326
+sg34
+VDirections (Galaxy, February 1975)
+p80451
+sa(dp80452
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, February 1975) (Circulation: 47,789)
+p80453
+sa(dp80454
+g86
+I326
+sg34
+VStatement of Ownership: If (Galaxy, February 1975) (Circulation: 50,355)
+p80455
+sa(dp80456
+g86
+I768
+sg34
+VMarsman Meets the Almighty
+p80457
+sa(dp80458
+g86
+I686
+sg34
+VAllegiances
+p80459
+sa(dp80460
+g86
+I591
+sg34
+VSign of the Unicorn (Part 2 of 3)
+p80461
+sa(dp80462
+g86
+I561
+sg34
+VThe Annihilation of Angkor Apeiron
+p80463
+sa(dp80464
+g86
+I765
+sg34
+VThe Linguist
+p80465
+sa(dp80466
+g86
+I769
+sg34
+VThe Walden Window
+p80467
+sasbag1
+(g2
+g3
+Ntp80468
+Rp80469
+(dp80470
+g49
+(lp80471
+sg30
+(lp80472
+sg86
+I302
+sg82
+(lp80473
+I2
+asg13
+I1975
+sg34
+VGalaxy Magazine March 1975
+p80474
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v36n03_1975-03/Galaxy_v36n03_1975-03_jp2.zip&file=Galaxy_v36n03_1975-03_jp2/Galaxy_v36n03_1975-03_0000.jp2&scale=0&rotate=0
+p80475
+sg68228
+S'http://www.isfdb.org/wiki/images/9/99/GALMAR75.jpg'
+p80476
+sg14
+g68230
+sg16
+(lp80477
+sg75
+(lp80478
+I744
+aI499
+aI742
+aI764
+aI734
+aI356
+aI341
+aI326
+aI748
+aI770
+aI591
+aI771
+aI772
+aI773
+aI302
+asg20
+(lp80479
+sg25
+I1182
+sg68234
+(lp80480
+(dp80481
+g86
+I744
+sg34
+VIn This Month's Issue
+p80482
+sa(dp80483
+g86
+I499
+sg34
+VThe Politics of Ratticide
+p80484
+sa(dp80485
+g86
+I499
+sg34
+VChangelings
+p80486
+sa(dp80487
+g86
+I744
+sg34
+VSign of the Unicorn (Part 3 of 3)
+p80488
+sa(dp80489
+g86
+I744
+sg34
+VSign of the Unicorn (Part 3 of 3) [2]
+p80490
+sa(dp80491
+g86
+I499
+sg34
+VNobody Likes to Be Lonely
+p80492
+sa(dp80493
+g86
+I744
+sg34
+VTree of Life
+p80494
+sa(dp80495
+g86
+I742
+sg34
+VShowcase (Galaxy, March 1975)
+p80496
+sa(dp80497
+g86
+I764
+sg34
+VIf This Goes On (and On and On ... )
+p80498
+sa(dp80499
+g86
+I734
+sg34
+VAbm, Missile-Eating Lasers and a Bi-Polar World
+p80500
+sa(dp80501
+g86
+I356
+sg34
+VForum: The Siren Song of Academe
+p80502
+sa(dp80503
+g86
+I341
+sg34
+VBookshelf (Galaxy, March 1975)
+p80504
+sa(dp80505
+g86
+I326
+sg34
+VDirections (Galaxy, March 1975)
+p80506
+sa(dp80507
+g86
+I748
+sg34
+VThe Politics of Ratticide
+p80508
+sa(dp80509
+g86
+I770
+sg34
+VNobody Likes to Be Lonely
+p80510
+sa(dp80511
+g86
+I591
+sg34
+VSign of the Unicorn (Part 3 of 3)
+p80512
+sa(dp80513
+g86
+I771
+sg34
+VIn This Month's Issue
+p80514
+sa(dp80515
+g86
+I772
+sg34
+VChangelings
+p80516
+sa(dp80517
+g86
+I773
+sg34
+VTree of Life
+p80518
+sasbag1
+(g2
+g3
+Ntp80519
+Rp80520
+(dp80521
+g49
+(lp80522
+sg30
+(lp80523
+sg86
+I302
+sg82
+(lp80524
+I2
+asg13
+I1975
+sg34
+VGalaxy Magazine April 1975
+p80525
+sg11
+Vhttps://ia601001.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v36n04_1975-04/Galaxy_v36n04_1975-04_jp2.zip&file=Galaxy_v36n04_1975-04_jp2/Galaxy_v36n04_1975-04_0000.jp2&scale=0&rotate=0
+p80526
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d9/GALAPR75.jpg'
+p80527
+sg14
+g68230
+sg16
+(lp80528
+sg75
+(lp80529
+I326
+aI499
+aI753
+aI742
+aI40
+aI734
+aI767
+aI741
+aI748
+aI591
+aI774
+aI762
+aI757
+aI775
+aI776
+aI777
+aI302
+asg20
+(lp80530
+sg25
+I1183
+sg68234
+(lp80531
+(dp80532
+g86
+I326
+sg34
+VThe Game of Blood and Dust
+p80533
+sa(dp80534
+g86
+I499
+sg34
+VHelium (Part 1 of 3)
+p80535
+sa(dp80536
+g86
+I753
+sg34
+VEfficiency
+p80537
+sa(dp80538
+g86
+I326
+sg34
+VTo See the City Sitting On Its Buildings
+p80539
+sa(dp80540
+g86
+I742
+sg34
+VInvaders
+p80541
+sa(dp80542
+g86
+I326
+sg34
+VThe Day of the Gringo
+p80543
+sa(dp80544
+g86
+I499
+sg34
+VDea Ex Machina
+p80545
+sa(dp80546
+g86
+I753
+sg34
+VCheap Thrills
+p80547
+sa(dp80548
+g86
+I499
+sg34
+VElmo's Box
+p80549
+sa(dp80550
+g86
+I40
+sg34
+VForum: A Short Term Solution
+p80551
+sa(dp80552
+g86
+I734
+sg34
+VTechnological Expertise: A Diminishing Resource?
+p80553
+sa(dp80554
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, April 1975)
+p80555
+sa(dp80556
+g86
+I326
+sg34
+VDirections (Galaxy, April 1975)
+p80557
+sa(dp80558
+g86
+I741
+sg34
+VInvaders
+p80559
+sa(dp80560
+g86
+I748
+sg34
+VHelium (Part 1 of 3)
+p80561
+sa(dp80562
+g86
+I591
+sg34
+VThe Game of Blood and Dust
+p80563
+sa(dp80564
+g86
+I774
+sg34
+VEfficiency
+p80565
+sa(dp80566
+g86
+I762
+sg34
+VTo See the City Sitting On Its Buildings
+p80567
+sa(dp80568
+g86
+I757
+sg34
+VThe Day of the Gringo
+p80569
+sa(dp80570
+g86
+I775
+sg34
+VDea Ex Machina
+p80571
+sa(dp80572
+g86
+I776
+sg34
+VCheap Thrills
+p80573
+sa(dp80574
+g86
+I777
+sg34
+VElmo's Box
+p80575
+sasbag1
+(g2
+g3
+Ntp80576
+Rp80577
+(dp80578
+g49
+(lp80579
+sg30
+(lp80580
+sg86
+I302
+sg82
+(lp80581
+I2
+asg13
+I1975
+sg34
+VGalaxy Magazine June 1975
+p80582
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v36n05_1975-06/Galaxy_v36n05_1975-06_jp2.zip&file=Galaxy_v36n05_1975-06_jp2/Galaxy_v36n05_1975-06_0000.jp2&scale=0&rotate=0
+p80583
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b1/GALJUN75.jpg'
+p80584
+sg14
+g68230
+sg16
+(lp80585
+sg75
+(lp80586
+I753
+aI499
+aI744
+aI770
+aI734
+aI326
+aI86
+aI778
+aI748
+aI779
+aI774
+aI759
+aI302
+asg20
+(lp80587
+sg25
+I1184
+sg68234
+(lp80588
+(dp80589
+g86
+I753
+sg34
+VThe Eternity Engine
+p80590
+sa(dp80591
+g86
+I499
+sg34
+VElephant with Wooden Leg
+p80592
+sa(dp80593
+g86
+I499
+sg34
+VHelium (Part 2 of 3)
+p80594
+sa(dp80595
+g86
+I499
+sg34
+VHelium (Part 2 of 3) [2]
+p80596
+sa(dp80597
+g86
+I744
+sg34
+VThe Venging
+p80598
+sa(dp80599
+g86
+I499
+sg34
+VLet Darkness Fall
+p80600
+sa(dp80601
+g86
+I744
+sg34
+VThe Yidam
+p80602
+sa(dp80603
+g86
+I744
+sg34
+VCartoon: "Phalaxy?"
+p80604
+sa(dp80605
+g86
+I753
+sg34
+VShowcase (Galaxy, June 1975)
+p80606
+sa(dp80607
+g86
+I770
+sg34
+VBookshelf (Galaxy, June 1975)
+p80608
+sa(dp80609
+g86
+I734
+sg34
+VThe New Faces of Big Science
+p80610
+sa(dp80611
+g86
+I326
+sg34
+VDirections (Galaxy, June 1975)
+p80612
+sa(dp80613
+g86
+I86
+sg34
+VThe Eternity Engine
+p80614
+sa(dp80615
+g86
+I778
+sg34
+VThe Venging
+p80616
+sa(dp80617
+g86
+I748
+sg34
+VHelium (Part 2 of 3)
+p80618
+sa(dp80619
+g86
+I779
+sg34
+VElephant with Wooden Leg
+p80620
+sa(dp80621
+g86
+I774
+sg34
+VLet Darkness Fall
+p80622
+sa(dp80623
+g86
+I759
+sg34
+VThe Yidam
+p80624
+sasbag1
+(g2
+g3
+Ntp80625
+Rp80626
+(dp80627
+g49
+(lp80628
+sg30
+(lp80629
+sg86
+I302
+sg82
+(lp80630
+I2
+asg13
+I1975
+sg34
+VGalaxy Magazine July 1975
+p80631
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v36n06_1975-07/Galaxy_v36n06_1975-07_jp2.zip&file=Galaxy_v36n06_1975-07_jp2/Galaxy_v36n06_1975-07_0000.jp2&scale=0&rotate=0
+p80632
+sg68228
+S'http://www.isfdb.org/wiki/images/1/16/GALJUL75.jpg'
+p80633
+sg14
+g68230
+sg16
+(lp80634
+sg75
+(lp80635
+I499
+aI780
+aI742
+aI744
+aI326
+aI591
+aI734
+aI604
+aI781
+aI748
+aI23
+aI782
+aI783
+aI302
+asg20
+(lp80636
+sg25
+I1185
+sg68234
+(lp80637
+(dp80638
+g86
+I499
+sg34
+VSyncope and Fugue
+p80639
+sa(dp80640
+g86
+I499
+sg34
+VSyncope and Fugue [2]
+p80641
+sa(dp80642
+g86
+I499
+sg34
+VEyes I Dare Not Meet in Dreams
+p80643
+sa(dp80644
+g86
+I780
+sg34
+VTinker
+p80645
+sa(dp80646
+g86
+I742
+sg34
+VThe Thinker of Thryllmynrein
+p80647
+sa(dp80648
+g86
+I499
+sg34
+VHelium (Part 3 of 3)
+p80649
+sa(dp80650
+g86
+I499
+sg34
+VHelium (Part 3 of 3) [2]
+p80651
+sa(dp80652
+g86
+I499
+sg34
+VHelium (Part 3 of 3) [3]
+p80653
+sa(dp80654
+g86
+I744
+sg34
+VMagma Wave
+p80655
+sa(dp80656
+g86
+I499
+sg34
+VShowcase: Merlin and the Dragon
+p80657
+sa(dp80658
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, July 1975)
+p80659
+sa(dp80660
+g86
+I591
+sg34
+VForum: Some Science Fiction Parameters: A Biased View
+p80661
+sa(dp80662
+g86
+I734
+sg34
+VLife Among the Asteroids
+p80663
+sa(dp80664
+g86
+I604
+sg34
+VGalaxy Stars: J. E. Pournelle
+p80665
+sa(dp80666
+g86
+I326
+sg34
+VDirections (Galaxy, July 1975)
+p80667
+sa(dp80668
+g86
+I734
+sg34
+VTinker
+p80669
+sa(dp80670
+g86
+I781
+sg34
+VThe Thinker of Thryllmynrein
+p80671
+sa(dp80672
+g86
+I748
+sg34
+VHelium (Part 3 of 3)
+p80673
+sa(dp80674
+g86
+I23
+sg34
+VSyncope and Fugue
+p80675
+sa(dp80676
+g86
+I782
+sg34
+VEyes I Dare Not Meet in Dreams
+p80677
+sa(dp80678
+g86
+I783
+sg34
+VMagma Wave
+p80679
+sasbag1
+(g2
+g3
+Ntp80680
+Rp80681
+(dp80682
+g49
+(lp80683
+sg30
+(lp80684
+sg86
+I302
+sg82
+(lp80685
+I2
+asg13
+I1975
+sg34
+VGalaxy Magazine August 1975
+p80686
+sg11
+Vhttps://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/Galaxy_v36n07_1975-08/Galaxy_v36n07_1975-08_jp2.zip&file=Galaxy_v36n07_1975-08_jp2/Galaxy_v36n07_1975-08_0000.jp2&scale=0&rotate=0
+p80687
+sg68228
+S'http://www.isfdb.org/wiki/images/7/73/GALAUG1975.jpg'
+p80688
+sg14
+g68230
+sg16
+(lp80689
+sg75
+(lp80690
+I784
+aI763
+aI753
+aI744
+aI499
+aI764
+aI734
+aI767
+aI770
+aI326
+aI785
+aI630
+aI604
+aI755
+aI786
+aI302
+asg20
+(lp80691
+sg25
+I1186
+sg68234
+(lp80692
+(dp80693
+g86
+I784
+sg34
+VShowcase (Galaxy, August 1975)
+p80694
+sa(dp80695
+g86
+I763
+sg34
+VInferno (Part 1 of 3)
+p80696
+sa(dp80697
+g86
+I763
+sg34
+VInferno (Part 1 of 3) [2]
+p80698
+sa(dp80699
+g86
+I763
+sg34
+VInferno (Part 1 of 3) [3]
+p80700
+sa(dp80701
+g86
+I753
+sg34
+VRanks of Bronze
+p80702
+sa(dp80703
+g86
+I744
+sg34
+VHigh Yield Bondage
+p80704
+sa(dp80705
+g86
+I499
+sg34
+VRim Change
+p80706
+sa(dp80707
+g86
+I499
+sg34
+VRim Change [2]
+p80708
+sa(dp80709
+g86
+I499
+sg34
+VRim Change [3]
+p80710
+sa(dp80711
+g86
+I753
+sg34
+VNobody Here but Us Shadows
+p80712
+sa(dp80713
+g86
+I764
+sg34
+VThe Myth of the Light-Barrier
+p80714
+sa(dp80715
+g86
+I734
+sg34
+VA Step Farther Out: Ufo's and Big Science
+p80716
+sa(dp80717
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, August 1975)
+p80718
+sa(dp80719
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, August 1975)
+p80720
+sa(dp80721
+g86
+I326
+sg34
+VDirections (Galaxy, August 1975)
+p80722
+sa(dp80723
+g86
+I785
+sg34
+VHigh Yield Bondage
+p80724
+sa(dp80725
+g86
+I630
+sg34
+VRim Change
+p80726
+sa(dp80727
+g86
+I604
+sg34
+VInferno (Part 1 of 3)
+p80728
+sa(dp80729
+g86
+I755
+sg34
+VRanks of Bronze
+p80730
+sa(dp80731
+g86
+I786
+sg34
+VNobody Here but Us Shadows
+p80732
+sasbag1
+(g2
+g3
+Ntp80733
+Rp80734
+(dp80735
+g49
+(lp80736
+sg30
+(lp80737
+sg86
+I302
+sg82
+(lp80738
+I2
+asg13
+I1975
+sg34
+VGalaxy Magazine September 1975
+p80739
+sg11
+Vhttps://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v36n08_1975-09/Galaxy_v36n08_1975-09_jp2.zip&file=Galaxy_v36n08_1975-09_jp2/Galaxy_v36n08_1975-09_0000.jp2&scale=0&rotate=0
+p80740
+sg68228
+S'http://www.isfdb.org/wiki/images/5/50/GALSEP75.jpg'
+p80741
+sg14
+g68230
+sg16
+(lp80742
+sg75
+(lp80743
+I753
+aI744
+aI742
+aI763
+aI30
+aI734
+aI770
+aI326
+aI787
+aI788
+aI604
+aI789
+aI790
+aI741
+aI302
+asg20
+(lp80744
+sg25
+I1187
+sg68234
+(lp80745
+(dp80746
+g86
+I753
+sg34
+VEvening Song, Night Dancer
+p80747
+sa(dp80748
+g86
+I744
+sg34
+VAlien Persuasion
+p80749
+sa(dp80750
+g86
+I744
+sg34
+VAlien Persuasion [2]
+p80751
+sa(dp80752
+g86
+I742
+sg34
+VMoonball
+p80753
+sa(dp80754
+g86
+I753
+sg34
+VA Nice Girl Like Me
+p80755
+sa(dp80756
+g86
+I742
+sg34
+VForum: Our Many Roads to the Stars
+p80757
+sa(dp80758
+g86
+I763
+sg34
+VInferno (Part 2 of 3)
+p80759
+sa(dp80760
+g86
+I763
+sg34
+VInferno (Part 2 of 3) [2]
+p80761
+sa(dp80762
+g86
+I744
+sg34
+VOverdose
+p80763
+sa(dp80764
+g86
+I742
+sg34
+VThe Other Half
+p80765
+sa(dp80766
+g86
+I30
+sg34
+VGalaxy, September 1975
+p80767
+sa(dp80768
+g86
+I734
+sg34
+VAn Open Letter
+p80769
+sa(dp80770
+g86
+I734
+sg34
+VThe Big Rain
+p80771
+sa(dp80772
+g86
+I30
+sg34
+VForum: Our Many Roads to the Stars
+p80773
+sa(dp80774
+g86
+I770
+sg34
+VBookshelf (Galaxy, September 1975)
+p80775
+sa(dp80776
+g86
+I326
+sg34
+VDirections (Galaxy, September 1975)
+p80777
+sa(dp80778
+g86
+I787
+sg34
+VAlien Persuasion
+p80779
+sa(dp80780
+g86
+I788
+sg34
+VMoonball
+p80781
+sa(dp80782
+g86
+I604
+sg34
+VInferno (Part 2 of 3)
+p80783
+sa(dp80784
+g86
+I789
+sg34
+VEvening Song, Night Dancer
+p80785
+sa(dp80786
+g86
+I790
+sg34
+VA Nice Girl Like Me
+p80787
+sa(dp80788
+g86
+I770
+sg34
+VOverdose
+p80789
+sa(dp80790
+g86
+I741
+sg34
+VThe Other Half
+p80791
+sasbag1
+(g2
+g3
+Ntp80792
+Rp80793
+(dp80794
+g49
+(lp80795
+sg30
+(lp80796
+sg86
+I302
+sg82
+(lp80797
+I2
+asg13
+I1975
+sg34
+VGalaxy Magazine October 1975
+p80798
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/Galaxy_v36n09_1975-10/Galaxy_v36n09_1975-10_jp2.zip&file=Galaxy_v36n09_1975-10_jp2/Galaxy_v36n09_1975-10_0000.jp2&scale=0&rotate=0
+p80799
+sg68228
+S'http://www.isfdb.org/wiki/images/b/be/GALOCT75.jpg'
+p80800
+sg14
+g68230
+sg16
+(lp80801
+sg75
+(lp80802
+I744
+aI763
+aI753
+aI326
+aI764
+aI305
+aI734
+aI767
+aI770
+aI728
+aI755
+aI765
+aI604
+aI766
+aI791
+aI792
+aI302
+asg20
+(lp80803
+sg25
+I1188
+sg68234
+(lp80804
+(dp80805
+g86
+I744
+sg34
+VThe Experimenter
+p80806
+sa(dp80807
+g86
+I744
+sg34
+VThe Experimenter [2]
+p80808
+sa(dp80809
+g86
+I744
+sg34
+VThe End Result
+p80810
+sa(dp80811
+g86
+I744
+sg34
+VBut Loyal to His Own
+p80812
+sa(dp80813
+g86
+I744
+sg34
+VBut Loyal to His Own [2]
+p80814
+sa(dp80815
+g86
+I763
+sg34
+VInferno (Part 3 of 3)
+p80816
+sa(dp80817
+g86
+I763
+sg34
+VInferno (Part 3 of 3) [2]
+p80818
+sa(dp80819
+g86
+I763
+sg34
+VInferno (Part 3 of 3) [3]
+p80820
+sa(dp80821
+g86
+I763
+sg34
+VInferno (Part 3 of 3) [4]
+p80822
+sa(dp80823
+g86
+I753
+sg34
+VHelbent 4
+p80824
+sa(dp80825
+g86
+I326
+sg34
+VNo Mother Near
+p80826
+sa(dp80827
+g86
+I753
+sg34
+VCrusade
+p80828
+sa(dp80829
+g86
+I744
+sg34
+VShowcase: Harlequin Nova
+p80830
+sa(dp80831
+g86
+I764
+sg34
+VAd Astra Per ...
+p80832
+sa(dp80833
+g86
+I305
+sg34
+VForum: Looking Aft
+p80834
+sa(dp80835
+g86
+I734
+sg34
+VIn the Beginning
+p80836
+sa(dp80837
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, October 1975)
+p80838
+sa(dp80839
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, October 1975)
+p80840
+sa(dp80841
+g86
+I770
+sg34
+VBookshelf (Galaxy, October 1975)
+p80842
+sa(dp80843
+g86
+I326
+sg34
+VDirections (Galaxy, October 1975)
+p80844
+sa(dp80845
+g86
+I728
+sg34
+VThe Experimenter
+p80846
+sa(dp80847
+g86
+I755
+sg34
+VBut Loyal to His Own
+p80848
+sa(dp80849
+g86
+I765
+sg34
+VHelbent 4
+p80850
+sa(dp80851
+g86
+I604
+sg34
+VInferno (Part 3 of 3)
+p80852
+sa(dp80853
+g86
+I766
+sg34
+VThe End Result
+p80854
+sa(dp80855
+g86
+I791
+sg34
+VNo Mother Near
+p80856
+sa(dp80857
+g86
+I792
+sg34
+VCrusade
+p80858
+sasbag1
+(g2
+g3
+Ntp80859
+Rp80860
+(dp80861
+g49
+(lp80862
+sg30
+(lp80863
+sg86
+I302
+sg82
+(lp80864
+I2
+asg13
+I1976
+sg34
+VGalaxy Magazine January 1976
+p80865
+sg11
+Vhttps://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/Galaxy_v37n01_1976-01/Galaxy_v37n01_1976-01_jp2.zip&file=Galaxy_v37n01_1976-01_jp2/Galaxy_v37n01_1976-01_0000.jp2&scale=0&rotate=0
+p80866
+sg68228
+S'http://www.isfdb.org/wiki/images/7/72/GALJAN1976.jpg'
+p80867
+sg14
+g68230
+sg16
+(lp80868
+sg75
+(lp80869
+I742
+aI744
+aI793
+aI763
+aI326
+aI753
+aI748
+aI604
+aI770
+aI794
+aI795
+aI728
+aI741
+aI302
+asg20
+(lp80870
+sg25
+I1189
+sg68234
+(lp80871
+(dp80872
+g86
+I742
+sg34
+VShowcase (Galaxy, January 1976)
+p80873
+sa(dp80874
+g86
+I744
+sg34
+VForum: Through Innocent Eyes
+p80875
+sa(dp80876
+g86
+I744
+sg34
+VWe Who Are About to ... (Part 1 of 2)
+p80877
+sa(dp80878
+g86
+I744
+sg34
+VWe Who Are About to ... (Part 1 of 2) [2]
+p80879
+sa(dp80880
+g86
+I793
+sg34
+VIt's a Sunny Day
+p80881
+sa(dp80882
+g86
+I744
+sg34
+VShattered Hopes, Broken Dreams
+p80883
+sa(dp80884
+g86
+I744
+sg34
+VShattered Hopes, Broken Dreams [2]
+p80885
+sa(dp80886
+g86
+I744
+sg34
+VShattered Hopes, Broken Dreams [3]
+p80887
+sa(dp80888
+g86
+I763
+sg34
+VA Step Farther Out: Building the Mote in God's Eye
+p80889
+sa(dp80890
+g86
+I742
+sg34
+VAngel of Destruction
+p80891
+sa(dp80892
+g86
+I326
+sg34
+VAmbiguous Oracle
+p80893
+sa(dp80894
+g86
+I753
+sg34
+VGetting Away
+p80895
+sa(dp80896
+g86
+I748
+sg34
+VForum: Through Innocent Eyes
+p80897
+sa(dp80898
+g86
+I604
+sg34
+VBuilding the Mote in God's Eye
+p80899
+sa(dp80900
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, January 1976)
+p80901
+sa(dp80902
+g86
+I326
+sg34
+VDirections (Galaxy, January 1976)
+p80903
+sa(dp80904
+g86
+I794
+sg34
+VShattered Hopes, Broken Dreams
+p80905
+sa(dp80906
+g86
+I795
+sg34
+VAngel of Destruction
+p80907
+sa(dp80908
+g86
+I728
+sg34
+VWe Who Are About to ... (Part 1 of 2)
+p80909
+sa(dp80910
+g86
+I770
+sg34
+VIt's a Sunny Day
+p80911
+sa(dp80912
+g86
+I770
+sg34
+VAmbiguous Oracle
+p80913
+sa(dp80914
+g86
+I741
+sg34
+VGetting Away
+p80915
+sasbag1
+(g2
+g3
+Ntp80916
+Rp80917
+(dp80918
+g49
+(lp80919
+sg30
+(lp80920
+sg86
+I302
+sg82
+(lp80921
+I2
+asg13
+I1976
+sg34
+VGalaxy Magazine February 1976
+p80922
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v37n02_1976-02/Galaxy_v37n02_1976-02_jp2.zip&file=Galaxy_v37n02_1976-02_jp2/Galaxy_v37n02_1976-02_0000.jp2&scale=0&rotate=0
+p80923
+sg68228
+S'http://www.isfdb.org/wiki/images/4/44/GALFEB1976.jpg'
+p80924
+sg14
+g68230
+sg16
+(lp80925
+sg75
+(lp80926
+I763
+aI744
+aI742
+aI796
+aI753
+aI326
+aI734
+aI770
+aI767
+aI604
+aI797
+aI728
+aI798
+aI799
+aI800
+aI302
+asg20
+(lp80927
+sg25
+I1190
+sg68234
+(lp80928
+(dp80929
+g86
+I763
+sg34
+VDown and Out
+p80930
+sa(dp80931
+g86
+I763
+sg34
+VDown and Out [2]
+p80932
+sa(dp80933
+g86
+I744
+sg34
+VOnly Outlaws and Women
+p80934
+sa(dp80935
+g86
+I742
+sg34
+VThe Phantom of Kansas
+p80936
+sa(dp80937
+g86
+I742
+sg34
+VThe Phantom of Kansas [2]
+p80938
+sa(dp80939
+g86
+I796
+sg34
+VA Better Time
+p80940
+sa(dp80941
+g86
+I744
+sg34
+VWe Who Are About To... (Part 2 of 2)
+p80942
+sa(dp80943
+g86
+I744
+sg34
+VWe Who Are About To... (Part 2 of 2) [2]
+p80944
+sa(dp80945
+g86
+I742
+sg34
+VStorymaker
+p80946
+sa(dp80947
+g86
+I742
+sg34
+VStorymaker [2]
+p80948
+sa(dp80949
+g86
+I753
+sg34
+VShowcase (Galaxy, February 1976)
+p80950
+sa(dp80951
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, February 1976)
+p80952
+sa(dp80953
+g86
+I734
+sg34
+VOn Cultures Beyond the Earth
+p80954
+sa(dp80955
+g86
+I770
+sg34
+VBookshelf (Galaxy, February 1976)
+p80956
+sa(dp80957
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, February 1976)
+p80958
+sa(dp80959
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, February 1976) (Circulation: 56,361)
+p80960
+sa(dp80961
+g86
+I326
+sg34
+VDirections (Galaxy, February 1976)
+p80962
+sa(dp80963
+g86
+I604
+sg34
+VDown and Out
+p80964
+sa(dp80965
+g86
+I797
+sg34
+VThe Phantom of Kansas
+p80966
+sa(dp80967
+g86
+I728
+sg34
+VWe Who Are About to ... (Part 2 of 2)
+p80968
+sa(dp80969
+g86
+I798
+sg34
+VOnly Outlaws and Women
+p80970
+sa(dp80971
+g86
+I799
+sg34
+VA Better Time
+p80972
+sa(dp80973
+g86
+I800
+sg34
+VStorymaker
+p80974
+sasbag1
+(g2
+g3
+Ntp80975
+Rp80976
+(dp80977
+g49
+(lp80978
+sg30
+(lp80979
+sg86
+I302
+sg82
+(lp80980
+I2
+asg13
+I1976
+sg34
+VGalaxy Magazine March 1976
+p80981
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v37n03_1976-03_modified/Galaxy_v37n03_1976-03_modified_jp2.zip&file=Galaxy_v37n03_1976-03_modified_jp2/Galaxy_v37n03_1976-03_modified_0000.jp2&scale=0&rotate=0
+p80982
+sg68228
+S'http://www.isfdb.org/wiki/images/2/2a/GALMAR1976.jpg'
+p80983
+sg14
+g68230
+sg16
+(lp80984
+sg75
+(lp80985
+I742
+aI744
+aI801
+aI793
+aI764
+aI734
+aI767
+aI770
+aI326
+aI794
+aI748
+aI561
+aI802
+aI302
+asg20
+(lp80986
+sg25
+I1191
+sg68234
+(lp80987
+(dp80988
+g86
+I742
+sg34
+VPlutonium
+p80989
+sa(dp80990
+g86
+I742
+sg34
+VPlutonium [2]
+p80991
+sa(dp80992
+g86
+I742
+sg34
+VPlutonium [3]
+p80993
+sa(dp80994
+g86
+I744
+sg34
+VThe Second Soul
+p80995
+sa(dp80996
+g86
+I744
+sg34
+VBirthdays
+p80997
+sa(dp80998
+g86
+I744
+sg34
+VBirthdays [2]
+p80999
+sa(dp81000
+g86
+I744
+sg34
+VBirthdays [3]
+p81001
+sa(dp81002
+g86
+I801
+sg34
+VShowcase: Space: 1492
+p81003
+sa(dp81004
+g86
+I793
+sg34
+VHunger On the Homestretch
+p81005
+sa(dp81006
+g86
+I793
+sg34
+VHunger On the Homestretch [2]
+p81007
+sa(dp81008
+g86
+I793
+sg34
+VHunger On the Homestretch [3]
+p81009
+sa(dp81010
+g86
+I764
+sg34
+VOur Under-Achieving Universe
+p81011
+sa(dp81012
+g86
+I734
+sg34
+VSurvival with Style
+p81013
+sa(dp81014
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, March 1976)
+p81015
+sa(dp81016
+g86
+I770
+sg34
+VBookshelf (Galaxy, March 1976)
+p81017
+sa(dp81018
+g86
+I326
+sg34
+VDirections (Galaxy, March 1976)
+p81019
+sa(dp81020
+g86
+I794
+sg34
+VHunger On the Homestretch
+p81021
+sa(dp81022
+g86
+I748
+sg34
+VPlutonium
+p81023
+sa(dp81024
+g86
+I561
+sg34
+VBirthdays
+p81025
+sa(dp81026
+g86
+I802
+sg34
+VThe Second Soul
+p81027
+sasbag1
+(g2
+g3
+Ntp81028
+Rp81029
+(dp81030
+g49
+(lp81031
+sg30
+(lp81032
+sg86
+I302
+sg82
+(lp81033
+I2
+asg13
+I1976
+sg34
+VGalaxy Magazine May 1976
+p81034
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/Galaxy_v37n04_1976-05/Galaxy_v37n04_1976-05_jp2.zip&file=Galaxy_v37n04_1976-05_jp2/Galaxy_v37n04_1976-05_0000.jp2&scale=0&rotate=0
+p81035
+sg68228
+S'http://www.isfdb.org/wiki/images/a/a8/GALMAY76.jpg'
+p81036
+sg14
+g68230
+sg16
+(lp81037
+sg75
+(lp81038
+I784
+aI742
+aI499
+aI326
+aI780
+aI734
+aI770
+aI767
+aI797
+aI591
+aI645
+aI803
+aI741
+aI638
+aI302
+asg20
+(lp81039
+sg25
+I1192
+sg68234
+(lp81040
+(dp81041
+g86
+I784
+sg34
+VShowcase (Galaxy, May 1976)
+p81042
+sa(dp81043
+g86
+I742
+sg34
+VThe Hand of Oberon (Part 1 of 3)
+p81044
+sa(dp81045
+g86
+I742
+sg34
+VThe Hand of Oberon (Part 1 of 3) [2]
+p81046
+sa(dp81047
+g86
+I742
+sg34
+VThe Hand of Oberon (Part 1 of 3) [3]
+p81048
+sa(dp81049
+g86
+I742
+sg34
+VThe Hand of Oberon (Part 1 of 3) [4]
+p81050
+sa(dp81051
+g86
+I499
+sg34
+VBeaver Tears
+p81052
+sa(dp81053
+g86
+I499
+sg34
+VBeaver Tears [2]
+p81054
+sa(dp81055
+g86
+I499
+sg34
+VBeaver Tears [3]
+p81056
+sa(dp81057
+g86
+I326
+sg34
+VBlueprint for Survival
+p81058
+sa(dp81059
+g86
+I784
+sg34
+VHexapedia
+p81060
+sa(dp81061
+g86
+I742
+sg34
+VOverdrawn at the Memory Bank
+p81062
+sa(dp81063
+g86
+I742
+sg34
+VOverdrawn at the Memory Bank [2]
+p81064
+sa(dp81065
+g86
+I742
+sg34
+VOverdrawn at the Memory Bank [3]
+p81066
+sa(dp81067
+g86
+I499
+sg34
+VOpening Night
+p81068
+sa(dp81069
+g86
+I499
+sg34
+VOpening Night [2]
+p81070
+sa(dp81071
+g86
+I326
+sg34
+VWant Ad
+p81072
+sa(dp81073
+g86
+I326
+sg34
+VWant Ad [2]
+p81074
+sa(dp81075
+g86
+I780
+sg34
+VDeviation From a Theme
+p81076
+sa(dp81077
+g86
+I742
+sg34
+VI'm Going Through the Door
+p81078
+sa(dp81079
+g86
+I742
+sg34
+VI'm Going Through the Door [2]
+p81080
+sa(dp81081
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, May 1976)
+p81082
+sa(dp81083
+g86
+I734
+sg34
+VBlueprint for Survival
+p81084
+sa(dp81085
+g86
+I770
+sg34
+VBookshelf (Galaxy, May 1976)
+p81086
+sa(dp81087
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, May 1976)
+p81088
+sa(dp81089
+g86
+I326
+sg34
+VDirections (Galaxy, May 1976)
+p81090
+sa(dp81091
+g86
+I797
+sg34
+VOverdrawn at the Memory Bank
+p81092
+sa(dp81093
+g86
+I591
+sg34
+VThe Hand of Oberon (Part 1 of 3)
+p81094
+sa(dp81095
+g86
+I645
+sg34
+VBeaver Tears
+p81096
+sa(dp81097
+g86
+I803
+sg34
+VOpening Night
+p81098
+sa(dp81099
+g86
+I770
+sg34
+VWant Ad
+p81100
+sa(dp81101
+g86
+I741
+sg34
+VDeviation From a Theme
+p81102
+sa(dp81103
+g86
+I638
+sg34
+VI'm Going Through the Door
+p81104
+sasbag1
+(g2
+g3
+Ntp81105
+Rp81106
+(dp81107
+g49
+(lp81108
+sg30
+(lp81109
+sg86
+I302
+sg82
+(lp81110
+I2
+asg13
+I1976
+sg34
+VGalaxy Magazine July 1976
+p81111
+sg11
+Vhttps://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v37n05_1976-07/Galaxy_v37n05_1976-07_jp2.zip&file=Galaxy_v37n05_1976-07_jp2/Galaxy_v37n05_1976-07_0000.jp2&scale=0&rotate=0
+p81112
+sg68228
+S'http://www.isfdb.org/wiki/images/a/a9/GALJUL76.jpg'
+p81113
+sg14
+g68230
+sg16
+(lp81114
+sg75
+(lp81115
+I742
+aI763
+aI744
+aI499
+aI326
+aI734
+aI770
+aI797
+aI804
+aI591
+aI741
+aI805
+aI302
+asg20
+(lp81116
+sg25
+I1193
+sg68234
+(lp81117
+(dp81118
+g86
+I742
+sg34
+VGotta Sing, Gotta Dance
+p81119
+sa(dp81120
+g86
+I742
+sg34
+VGotta Sing, Gotta Dance [2]
+p81121
+sa(dp81122
+g86
+I763
+sg34
+VLarval Stage
+p81123
+sa(dp81124
+g86
+I744
+sg34
+VThe Hand of Oberon (Part 2 of 3)
+p81125
+sa(dp81126
+g86
+I744
+sg34
+VThe Hand of Oberon (Part 2 of 3) [2]
+p81127
+sa(dp81128
+g86
+I744
+sg34
+VThe Hand of Oberon (Part 2 of 3) [3]
+p81129
+sa(dp81130
+g86
+I499
+sg34
+VWind Music
+p81131
+sa(dp81132
+g86
+I499
+sg34
+VWind Music [2]
+p81133
+sa(dp81134
+g86
+I326
+sg34
+VToward the Fullness of Fate
+p81135
+sa(dp81136
+g86
+I326
+sg34
+VToward the Fullness of Fate [2]
+p81137
+sa(dp81138
+g86
+I326
+sg34
+VToward the Fullness of Fate [3]
+p81139
+sa(dp81140
+g86
+I499
+sg34
+VShowcase (Galaxy, July 1976)
+p81141
+sa(dp81142
+g86
+I734
+sg34
+VLasers, Grasers and Marxists
+p81143
+sa(dp81144
+g86
+I770
+sg34
+VBookshelf (Galaxy, July 1976)
+p81145
+sa(dp81146
+g86
+I326
+sg34
+VDirections (Galaxy, July 1976)
+p81147
+sa(dp81148
+g86
+I797
+sg34
+VGotta Sing, Gotta Dance
+p81149
+sa(dp81150
+g86
+I804
+sg34
+VToward the Fullness of Fate
+p81151
+sa(dp81152
+g86
+I591
+sg34
+VThe Hand of Oberon (Part 2 of 3)
+p81153
+sa(dp81154
+g86
+I741
+sg34
+VLarval Stage
+p81155
+sa(dp81156
+g86
+I805
+sg34
+VWind Music
+p81157
+sasbag1
+(g2
+g3
+Ntp81158
+Rp81159
+(dp81160
+g49
+(lp81161
+sg30
+(lp81162
+sg86
+I302
+sg82
+(lp81163
+I2
+asg13
+I1976
+sg34
+VGalaxy Magazine September 1976
+p81164
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/Galaxy_v37n06_1976-09/Galaxy_v37n06_1976-09_jp2.zip&file=Galaxy_v37n06_1976-09_jp2/Galaxy_v37n06_1976-09_0000.jp2&scale=0&rotate=0
+p81165
+sg68228
+S'http://www.isfdb.org/wiki/images/1/13/GALSEP76.jpg'
+p81166
+sg14
+g68230
+sg16
+(lp81167
+sg75
+(lp81168
+I806
+aI742
+aI326
+aI807
+aI744
+aI763
+aI734
+aI770
+aI767
+aI808
+aI604
+aI591
+aI663
+aI762
+aI790
+aI302
+asg20
+(lp81169
+sg25
+I1194
+sg68234
+(lp81170
+(dp81171
+g86
+I806
+sg34
+VShowcase (Galaxy, September 1976)
+p81172
+sa(dp81173
+g86
+I742
+sg34
+VThe Children of the State (Part 1 of 3)
+p81174
+sa(dp81175
+g86
+I742
+sg34
+VThe Children of the State (Part 1 of 3) [2]
+p81176
+sa(dp81177
+g86
+I742
+sg34
+VThe Children of the State (Part 1 of 3) [3]
+p81178
+sa(dp81179
+g86
+I742
+sg34
+VThe Children of the State (Part 1 of 3) [4]
+p81180
+sa(dp81181
+g86
+I326
+sg34
+VJupiter One
+p81182
+sa(dp81183
+g86
+I742
+sg34
+VThe Dirty Old Man, or, Nocka, Nocka, Who Goes There?
+p81184
+sa(dp81185
+g86
+I742
+sg34
+VThe Dirty Old Man, or, Nocka, Nocka, Who Goes There? [2]
+p81186
+sa(dp81187
+g86
+I742
+sg34
+VThe Dirty Old Man, or, Nocka, Nocka, Who Goes There? [3]
+p81188
+sa(dp81189
+g86
+I807
+sg34
+VA Little Bit of Recycled Time
+p81190
+sa(dp81191
+g86
+I807
+sg34
+VA Little Bit of Recycled Time [2]
+p81192
+sa(dp81193
+g86
+I744
+sg34
+VThe Hand of Oberon (Part 3 of 3)
+p81194
+sa(dp81195
+g86
+I744
+sg34
+VThe Hand of Oberon (Part 3 of 3) [2]
+p81196
+sa(dp81197
+g86
+I744
+sg34
+VThe Hand of Oberon (Part 3 of 3) [3]
+p81198
+sa(dp81199
+g86
+I744
+sg34
+VThe Hand of Oberon (Part 3 of 3) [4]
+p81200
+sa(dp81201
+g86
+I763
+sg34
+VAbandon All Heat, Ye Who Enter Here
+p81202
+sa(dp81203
+g86
+I763
+sg34
+VAbandon All Heat, Ye Who Enter Here [2]
+p81204
+sa(dp81205
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, September 1976)
+p81206
+sa(dp81207
+g86
+I734
+sg34
+VScience and Man's Future: Prognosis Magnificent!
+p81208
+sa(dp81209
+g86
+I770
+sg34
+VBookshelf (Galaxy, September 1976)
+p81210
+sa(dp81211
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, September 1976)
+p81212
+sa(dp81213
+g86
+I326
+sg34
+VDirections (Galaxy, September 1976)
+p81214
+sa(dp81215
+g86
+I808
+sg34
+VAbandon All Heat, Ye Who Enter Here
+p81216
+sa(dp81217
+g86
+I604
+sg34
+VThe Children of the State (Part 1 of 3)
+p81218
+sa(dp81219
+g86
+I591
+sg34
+VThe Hand of Oberon (Part 3 of 3)
+p81220
+sa(dp81221
+g86
+I663
+sg34
+VJupiter One
+p81222
+sa(dp81223
+g86
+I762
+sg34
+VThe Dirty Old Man, or, Nocka, Nocka, Who Goes There?
+p81224
+sa(dp81225
+g86
+I790
+sg34
+VA Little Bit of Recycled Time
+p81226
+sasbag1
+(g2
+g3
+Ntp81227
+Rp81228
+(dp81229
+g49
+(lp81230
+sg30
+(lp81231
+sg86
+I302
+sg82
+(lp81232
+I2
+asg13
+I1976
+sg34
+VGalaxy Magazine October 1976
+p81233
+sg11
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/Galaxy_v37n07_1976-10/Galaxy_v37n07_1976-10_jp2.zip&file=Galaxy_v37n07_1976-10_jp2/Galaxy_v37n07_1976-10_0000.jp2&scale=0&rotate=0
+p81234
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b1/GALOCT76.jpg'
+p81235
+sg14
+g68230
+sg16
+(lp81236
+sg75
+(lp81237
+I742
+aI806
+aI499
+aI807
+aI734
+aI770
+aI767
+aI326
+aI797
+aI809
+aI604
+aI810
+aI741
+aI811
+aI302
+asg20
+(lp81238
+sg25
+I1195
+sg68234
+(lp81239
+(dp81240
+g86
+I742
+sg34
+VShowcase (Galaxy, October 1976)
+p81241
+sa(dp81242
+g86
+I806
+sg34
+VBagatelle
+p81243
+sa(dp81244
+g86
+I806
+sg34
+VBagatelle [2]
+p81245
+sa(dp81246
+g86
+I806
+sg34
+VYou'll Be a Real Sensation!
+p81247
+sa(dp81248
+g86
+I742
+sg34
+VThe Children of the State (Part 2 of 3)
+p81249
+sa(dp81250
+g86
+I742
+sg34
+VThe Children of the State (Part 2 of 3) [2]
+p81251
+sa(dp81252
+g86
+I742
+sg34
+VThe Children of the State (Part 2 of 3) [3]
+p81253
+sa(dp81254
+g86
+I499
+sg34
+VSeeker of the Way
+p81255
+sa(dp81256
+g86
+I807
+sg34
+VThe Man at the Bottom of the Sea
+p81257
+sa(dp81258
+g86
+I807
+sg34
+VThe Man at the Bottom of the Sea [2]
+p81259
+sa(dp81260
+g86
+I742
+sg34
+VAct of Faith
+p81261
+sa(dp81262
+g86
+I734
+sg34
+VFusion Without Exlax
+p81263
+sa(dp81264
+g86
+I770
+sg34
+VBookshelf (Galaxy, October 1976)
+p81265
+sa(dp81266
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, October 1976)
+p81267
+sa(dp81268
+g86
+I326
+sg34
+VDirections (Galaxy, October 1976)
+p81269
+sa(dp81270
+g86
+I797
+sg34
+VBagatelle
+p81271
+sa(dp81272
+g86
+I809
+sg34
+VSeeker of the Way
+p81273
+sa(dp81274
+g86
+I604
+sg34
+VThe Children of the State (Part 2 of 3)
+p81275
+sa(dp81276
+g86
+I810
+sg34
+VYou'll Be a Real Sensation!
+p81277
+sa(dp81278
+g86
+I741
+sg34
+VThe Man at the Bottom of the Sea
+p81279
+sa(dp81280
+g86
+I811
+sg34
+VAct of Faith
+p81281
+sasbag1
+(g2
+g3
+Ntp81282
+Rp81283
+(dp81284
+g49
+(lp81285
+sg30
+(lp81286
+sg86
+I302
+sg82
+(lp81287
+I2
+asg13
+I1976
+sg34
+VGalaxy Magazine November 1976
+p81288
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/Galaxy_v37n08_1976-11/Galaxy_v37n08_1976-11_jp2.zip&file=Galaxy_v37n08_1976-11_jp2/Galaxy_v37n08_1976-11_0000.jp2&scale=0&rotate=0
+p81289
+sg68228
+S'http://www.isfdb.org/wiki/images/3/35/GALNOV76.jpg'
+p81290
+sg14
+g68230
+sg16
+(lp81291
+sg75
+(lp81292
+I812
+aI806
+aI326
+aI780
+aI742
+aI499
+aI734
+aI86
+aI770
+aI40
+aI604
+aI794
+aI762
+aI750
+aI638
+aI302
+asg20
+(lp81293
+sg25
+I1196
+sg68234
+(lp81294
+(dp81295
+g86
+I812
+sg34
+VShowcase (Galaxy, November 1976)
+p81296
+sa(dp81297
+g86
+I806
+sg34
+VGateway (Part 1 of 3)
+p81298
+sa(dp81299
+g86
+I806
+sg34
+VGateway (Part 1 of 3) [2]
+p81300
+sa(dp81301
+g86
+I806
+sg34
+VGateway (Part 1 of 3) [3]
+p81302
+sa(dp81303
+g86
+I326
+sg34
+VIn Xanadu
+p81304
+sa(dp81305
+g86
+I780
+sg34
+VDesigning a Dyson Sphere
+p81306
+sa(dp81307
+g86
+I742
+sg34
+VLovelife of the Leglorn
+p81308
+sa(dp81309
+g86
+I499
+sg34
+VGuardians at the Gate of Morpheus
+p81310
+sa(dp81311
+g86
+I742
+sg34
+VThe Children of the State (Part 3 of 3)
+p81312
+sa(dp81313
+g86
+I742
+sg34
+VThe Children of the State (Part 3 of 3) [2]
+p81314
+sa(dp81315
+g86
+I499
+sg34
+VInaugural
+p81316
+sa(dp81317
+g86
+I499
+sg34
+VInaugural [2]
+p81318
+sa(dp81319
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, November 1976)
+p81320
+sa(dp81321
+g86
+I734
+sg34
+VCrashing Neutron Stars, Mini Black Holes and Spacedrives
+p81322
+sa(dp81323
+g86
+I86
+sg34
+VDesigning a Dyson Sphere
+p81324
+sa(dp81325
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, November 1976)
+p81326
+sa(dp81327
+g86
+I326
+sg34
+VDirections (Galaxy, November 1976)
+p81328
+sa(dp81329
+g86
+I40
+sg34
+VGateway (Part 1 of 3)
+p81330
+sa(dp81331
+g86
+I604
+sg34
+VThe Children of the State (Part 3 of 3)
+p81332
+sa(dp81333
+g86
+I794
+sg34
+VIn Xanadu
+p81334
+sa(dp81335
+g86
+I762
+sg34
+VLovelife of the Leglorn
+p81336
+sa(dp81337
+g86
+I750
+sg34
+VGuardians at the Gate of Morpheus
+p81338
+sa(dp81339
+g86
+I638
+sg34
+VInaugural
+p81340
+sasbag1
+(g2
+g3
+Ntp81341
+Rp81342
+(dp81343
+g49
+(lp81344
+sg30
+(lp81345
+sg86
+I302
+sg82
+(lp81346
+I2
+asg13
+I1976
+sg34
+VGalaxy Magazine December 1976
+p81347
+sg11
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v37n09_1976-12/Galaxy_v37n09_1976-12_jp2.zip&file=Galaxy_v37n09_1976-12_jp2/Galaxy_v37n09_1976-12_0000.jp2&scale=0&rotate=0
+p81348
+sg68228
+S'http://www.isfdb.org/wiki/images/2/24/GALDEC76.jpg'
+p81349
+sg14
+g68230
+sg16
+(lp81350
+sg75
+(lp81351
+I742
+aI806
+aI499
+aI764
+aI734
+aI770
+aI813
+aI478
+aI40
+aI814
+aI815
+aI302
+asg20
+(lp81352
+sg25
+I1197
+sg68234
+(lp81353
+(dp81354
+g86
+I742
+sg34
+VChance Meeting Near Ararat
+p81355
+sa(dp81356
+g86
+I806
+sg34
+VThe Earth Dwellers
+p81357
+sa(dp81358
+g86
+I742
+sg34
+VCages
+p81359
+sa(dp81360
+g86
+I742
+sg34
+VCages [2]
+p81361
+sa(dp81362
+g86
+I806
+sg34
+VGateway (Part 2 of 3)
+p81363
+sa(dp81364
+g86
+I806
+sg34
+VGateway (Part 2 of 3) [2]
+p81365
+sa(dp81366
+g86
+I806
+sg34
+VGateway (Part 2 of 3) [3]
+p81367
+sa(dp81368
+g86
+I806
+sg34
+VGateway (Part 2 of 3) [4]
+p81369
+sa(dp81370
+g86
+I499
+sg34
+VThe Rock and the Pool
+p81371
+sa(dp81372
+g86
+I499
+sg34
+VThe Rock and the Pool [2]
+p81373
+sa(dp81374
+g86
+I764
+sg34
+VEpistle to the Christians
+p81375
+sa(dp81376
+g86
+I734
+sg34
+VThat Buck Rogers Stuff
+p81377
+sa(dp81378
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, December 1976)
+p81379
+sa(dp81380
+g86
+I813
+sg34
+VCages
+p81381
+sa(dp81382
+g86
+I478
+sg34
+VThe Rock and the Pool
+p81383
+sa(dp81384
+g86
+I40
+sg34
+VGateway (Part 2 of 3)
+p81385
+sa(dp81386
+g86
+I814
+sg34
+VChance Meeting Near Ararat
+p81387
+sa(dp81388
+g86
+I815
+sg34
+VThe Earth Dwellers
+p81389
+sasbag1
+(g2
+g3
+Ntp81390
+Rp81391
+(dp81392
+g49
+(lp81393
+sg30
+(lp81394
+sg86
+I302
+sg82
+(lp81395
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine March 1977
+p81396
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v38n01_1977-03/Galaxy_v38n01_1977-03_jp2.zip&file=Galaxy_v38n01_1977-03_jp2/Galaxy_v38n01_1977-03_0000.jp2&scale=0&rotate=0
+p81397
+sg68228
+S'http://www.isfdb.org/wiki/images/a/ab/GALMAR77.jpg'
+p81398
+sg14
+g68230
+sg16
+(lp81399
+sg75
+(lp81400
+I780
+aI326
+aI499
+aI806
+aI742
+aI579
+aI734
+aI767
+aI789
+aI761
+aI40
+aI696
+aI770
+aI302
+asg20
+(lp81401
+sg25
+I1198
+sg68234
+(lp81402
+(dp81403
+g86
+I780
+sg34
+VShowcase (Galaxy, March 1977)
+p81404
+sa(dp81405
+g86
+I326
+sg34
+VThey Who Go Down to the Sea
+p81406
+sa(dp81407
+g86
+I326
+sg34
+VThey Who Go Down to the Sea [2]
+p81408
+sa(dp81409
+g86
+I326
+sg34
+VInterstellar Probes and Starships
+p81410
+sa(dp81411
+g86
+I499
+sg34
+VThe Tides of Time
+p81412
+sa(dp81413
+g86
+I499
+sg34
+VThe Tides of Time [2]
+p81414
+sa(dp81415
+g86
+I806
+sg34
+VGateway (Part 3 of 3)
+p81416
+sa(dp81417
+g86
+I806
+sg34
+VGateway (Part 3 of 3) [2]
+p81418
+sa(dp81419
+g86
+I806
+sg34
+VGateway (Part 3 of 3) [3]
+p81420
+sa(dp81421
+g86
+I742
+sg34
+VThe Wallad Blonde
+p81422
+sa(dp81423
+g86
+I742
+sg34
+VThe Wallad Blonde [2]
+p81424
+sa(dp81425
+g86
+I742
+sg34
+VNo Renewal
+p81426
+sa(dp81427
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, March 1977)
+p81428
+sa(dp81429
+g86
+I579
+sg34
+VInterstellar Probes and Starships
+p81430
+sa(dp81431
+g86
+I734
+sg34
+VPromises and a Potpourri
+p81432
+sa(dp81433
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, March 1977)
+p81434
+sa(dp81435
+g86
+I326
+sg34
+VDirections (Galaxy, March 1977)
+p81436
+sa(dp81437
+g86
+I789
+sg34
+VThey Who Go Down to the Sea
+p81438
+sa(dp81439
+g86
+I761
+sg34
+VThe Wallad Blonde
+p81440
+sa(dp81441
+g86
+I40
+sg34
+VGateway (Part 3 of 3)
+p81442
+sa(dp81443
+g86
+I696
+sg34
+VThe Tides of Time
+p81444
+sa(dp81445
+g86
+I770
+sg34
+VNo Renewal
+p81446
+sasbag1
+(g2
+g3
+Ntp81447
+Rp81448
+(dp81449
+g49
+(lp81450
+sg30
+(lp81451
+sg86
+I302
+sg82
+(lp81452
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine April 1977
+p81453
+sg11
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v38n02_1977-04/Galaxy_v38n02_1977-04_jp2.zip&file=Galaxy_v38n02_1977-04_jp2/Galaxy_v38n02_1977-04_0000.jp2&scale=0&rotate=0
+p81454
+sg68228
+S'http://www.isfdb.org/wiki/images/d/d1/GALAPR77.jpg'
+p81455
+sg14
+g68230
+sg16
+(lp81456
+sg75
+(lp81457
+I778
+aI499
+aI742
+aI806
+aI734
+aI326
+aI770
+aI772
+aI741
+aI816
+aI817
+aI302
+asg20
+(lp81458
+sg25
+I1199
+sg68234
+(lp81459
+(dp81460
+g86
+I778
+sg34
+VSun-Planet
+p81461
+sa(dp81462
+g86
+I778
+sg34
+VSun-Planet [2]
+p81463
+sa(dp81464
+g86
+I778
+sg34
+VSun-Planet [3]
+p81465
+sa(dp81466
+g86
+I778
+sg34
+VSun-Planet [4]
+p81467
+sa(dp81468
+g86
+I499
+sg34
+VKin to Kaspar Hauser
+p81469
+sa(dp81470
+g86
+I499
+sg34
+VKin to Kaspar Hauser [2]
+p81471
+sa(dp81472
+g86
+I742
+sg34
+VPassport for a Phoenix
+p81473
+sa(dp81474
+g86
+I742
+sg34
+VPassport for a Phoenix [2]
+p81475
+sa(dp81476
+g86
+I742
+sg34
+VNight Runners
+p81477
+sa(dp81478
+g86
+I742
+sg34
+VNight Runners [2]
+p81479
+sa(dp81480
+g86
+I742
+sg34
+VNight Runners [3]
+p81481
+sa(dp81482
+g86
+I806
+sg34
+VWhat Song the Sirens Sang
+p81483
+sa(dp81484
+g86
+I806
+sg34
+VWhat Song the Sirens Sang [2]
+p81485
+sa(dp81486
+g86
+I742
+sg34
+VShowcase (Galaxy, April 1977)
+p81487
+sa(dp81488
+g86
+I734
+sg34
+VThat Beautiful Gooney Bird
+p81489
+sa(dp81490
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, April 1977) (Circulation: 52,831)
+p81491
+sa(dp81492
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, April 1977)
+p81493
+sa(dp81494
+g86
+I326
+sg34
+VDirections (Galaxy, April 1977)
+p81495
+sa(dp81496
+g86
+I772
+sg34
+VKin to Kaspar Hauser
+p81497
+sa(dp81498
+g86
+I741
+sg34
+VPassport for a Phoenix
+p81499
+sa(dp81500
+g86
+I816
+sg34
+VNight Runners
+p81501
+sa(dp81502
+g86
+I817
+sg34
+VWhat Song the Sirens Sang
+p81503
+sasbag1
+(g2
+g3
+Ntp81504
+Rp81505
+(dp81506
+g49
+(lp81507
+sg30
+(lp81508
+sg86
+I302
+sg82
+(lp81509
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine May 1977
+p81510
+sg11
+Vhttps://ia600504.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v38n03_1977-05/Galaxy_v38n03_1977-05_jp2.zip&file=Galaxy_v38n03_1977-05_jp2/Galaxy_v38n03_1977-05_0000.jp2&scale=0&rotate=0
+p81511
+sg68228
+S'http://www.isfdb.org/wiki/images/f/fb/GALMAY77.jpg'
+p81512
+sg14
+g68230
+sg16
+(lp81513
+sg75
+(lp81514
+I744
+aI784
+aI326
+aI742
+aI63
+aI818
+aI734
+aI767
+aI770
+aI809
+aI760
+aI817
+aI248
+aI302
+asg20
+(lp81515
+sg25
+I1200
+sg68234
+(lp81516
+(dp81517
+g86
+I744
+sg34
+VShowcase (Galaxy, May 1977)
+p81518
+sa(dp81519
+g86
+I784
+sg34
+VThe Consentiency - and How It Got That Way
+p81520
+sa(dp81521
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 1 of 4)
+p81522
+sa(dp81523
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 1 of 4) [2]
+p81524
+sa(dp81525
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 1 of 4) [3]
+p81526
+sa(dp81527
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 1 of 4) [4]
+p81528
+sa(dp81529
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 1 of 4) [5]
+p81530
+sa(dp81531
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 1 of 4) [6]
+p81532
+sa(dp81533
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 1 of 4) [7]
+p81534
+sa(dp81535
+g86
+I326
+sg34
+VThe Way of the Sword
+p81536
+sa(dp81537
+g86
+I326
+sg34
+VThe Way of the Sword [2]
+p81538
+sa(dp81539
+g86
+I326
+sg34
+VThe Way of the Sword [3]
+p81540
+sa(dp81541
+g86
+I742
+sg34
+VCrash Site
+p81542
+sa(dp81543
+g86
+I742
+sg34
+VMarconi, Mattin, Maxwell
+p81544
+sa(dp81545
+g86
+I742
+sg34
+VMarconi, Mattin, Maxwell [2]
+p81546
+sa(dp81547
+g86
+I742
+sg34
+VThe Chains of Freedom
+p81548
+sa(dp81549
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, May 1977)
+p81550
+sa(dp81551
+g86
+I63
+sg34
+VThe Consentiency - and How It Got That Way
+p81552
+sa(dp81553
+g86
+I818
+sg34
+VForum: Ray Gun Evaporates Mainstream
+p81554
+sa(dp81555
+g86
+I734
+sg34
+VWhat It's Like Out There
+p81556
+sa(dp81557
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, May 1977)
+p81558
+sa(dp81559
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, May 1977)
+p81560
+sa(dp81561
+g86
+I326
+sg34
+VDirections (Galaxy, May 1977)
+p81562
+sa(dp81563
+g86
+I809
+sg34
+VThe Way of the Sword
+p81564
+sa(dp81565
+g86
+I63
+sg34
+VThe Dosadi Experiment (Part 1 of 4)
+p81566
+sa(dp81567
+g86
+I760
+sg34
+VCrash Site
+p81568
+sa(dp81569
+g86
+I817
+sg34
+VMarconi, Mattin, Maxwell
+p81570
+sa(dp81571
+g86
+I248
+sg34
+VThe Chains of Freedom
+p81572
+sasbag1
+(g2
+g3
+Ntp81573
+Rp81574
+(dp81575
+g49
+(lp81576
+sg30
+(lp81577
+sg86
+I302
+sg82
+(lp81578
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine June 1977
+p81579
+sg11
+Vhttps://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v38n04_1977-06/Galaxy_v38n04_1977-06_jp2.zip&file=Galaxy_v38n04_1977-06_jp2/Galaxy_v38n04_1977-06_0000.jp2&scale=0&rotate=0
+p81580
+sg68228
+S'http://www.isfdb.org/wiki/images/6/68/GALJUN77.jpg'
+p81581
+sg14
+g68230
+sg16
+(lp81582
+sg75
+(lp81583
+I742
+aI784
+aI819
+aI734
+aI770
+aI326
+aI817
+aI794
+aI63
+aI820
+aI821
+aI302
+asg20
+(lp81584
+sg25
+I1201
+sg68234
+(lp81585
+(dp81586
+g86
+I742
+sg34
+VLegacy
+p81587
+sa(dp81588
+g86
+I742
+sg34
+VLegacy [2]
+p81589
+sa(dp81590
+g86
+I742
+sg34
+VLegacy [3]
+p81591
+sa(dp81592
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 2 of 4)
+p81593
+sa(dp81594
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 2 of 4) [2]
+p81595
+sa(dp81596
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 2 of 4) [3]
+p81597
+sa(dp81598
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 2 of 4) [4]
+p81599
+sa(dp81600
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 2 of 4) [5]
+p81601
+sa(dp81602
+g86
+I742
+sg34
+VA Meeting of Minds
+p81603
+sa(dp81604
+g86
+I742
+sg34
+VA Meeting of Minds [2]
+p81605
+sa(dp81606
+g86
+I742
+sg34
+VA Meeting of Minds [3]
+p81607
+sa(dp81608
+g86
+I742
+sg34
+VHelp Not Wanted
+p81609
+sa(dp81610
+g86
+I819
+sg34
+VWho Murders, Who Dreams
+p81611
+sa(dp81612
+g86
+I819
+sg34
+VWho Murders, Who Dreams [2]
+p81613
+sa(dp81614
+g86
+I819
+sg34
+VWho Murders, Who Dreams [3]
+p81615
+sa(dp81616
+g86
+I734
+sg34
+VWe Interrupt This Program
+p81617
+sa(dp81618
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, June 1977)
+p81619
+sa(dp81620
+g86
+I326
+sg34
+VDirections (Galaxy, June 1977)
+p81621
+sa(dp81622
+g86
+I817
+sg34
+VLegacy
+p81623
+sa(dp81624
+g86
+I794
+sg34
+VA Meeting of Minds
+p81625
+sa(dp81626
+g86
+I63
+sg34
+VThe Dosadi Experiment (Part 2 of 4)
+p81627
+sa(dp81628
+g86
+I820
+sg34
+VHelp Not Wanted
+p81629
+sa(dp81630
+g86
+I821
+sg34
+VWho Murders, Who Dreams
+p81631
+sasbag1
+(g2
+g3
+Ntp81632
+Rp81633
+(dp81634
+g49
+(lp81635
+sg30
+(lp81636
+sg86
+I302
+sg82
+(lp81637
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine July 1977
+p81638
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v38n05_1977-07/Galaxy_v38n05_1977-07_jp2.zip&file=Galaxy_v38n05_1977-07_jp2/Galaxy_v38n05_1977-07_0000.jp2&scale=0&rotate=0
+p81639
+sg68228
+S'http://www.isfdb.org/wiki/images/b/bb/GALJUL77.jpg'
+p81640
+sg14
+g68230
+sg16
+(lp81641
+sg75
+(lp81642
+I819
+aI742
+aI784
+aI326
+aI770
+aI734
+aI822
+aI63
+aI823
+aI685
+aI817
+aI824
+aI825
+aI302
+asg20
+(lp81643
+sg25
+I1202
+sg68234
+(lp81644
+(dp81645
+g86
+I819
+sg34
+VVariations in the Visible Spectra of Certain Cepheid Stars
+p81646
+sa(dp81647
+g86
+I819
+sg34
+VVariations in the Visible Spectra of Certain Cepheid Stars [2]
+p81648
+sa(dp81649
+g86
+I819
+sg34
+VVariations in the Visible Spectra of Certain Cepheid Stars [3]
+p81650
+sa(dp81651
+g86
+I742
+sg34
+VTake My Mate, Please!
+p81652
+sa(dp81653
+g86
+I742
+sg34
+VTake My Mate, Please! [2]
+p81654
+sa(dp81655
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 3 of 4)
+p81656
+sa(dp81657
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 3 of 4) [2]
+p81658
+sa(dp81659
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 3 of 4) [3]
+p81660
+sa(dp81661
+g86
+I784
+sg34
+VThe Dosadi Experiment (Part 3 of 4) [4]
+p81662
+sa(dp81663
+g86
+I742
+sg34
+VSkitch and the Kids
+p81664
+sa(dp81665
+g86
+I742
+sg34
+VSkitch and the Kids [2]
+p81666
+sa(dp81667
+g86
+I742
+sg34
+VDinsdale Dissents
+p81668
+sa(dp81669
+g86
+I742
+sg34
+VDinsdale Dissents [2]
+p81670
+sa(dp81671
+g86
+I326
+sg34
+VBrother John's Day Out
+p81672
+sa(dp81673
+g86
+I819
+sg34
+VA Perfect Twilight
+p81674
+sa(dp81675
+g86
+I819
+sg34
+VA Perfect Twilight [2]
+p81676
+sa(dp81677
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, July 1977)
+p81678
+sa(dp81679
+g86
+I734
+sg34
+VCan Trash Save Us?
+p81680
+sa(dp81681
+g86
+I326
+sg34
+VDirections (Galaxy, July 1977)
+p81682
+sa(dp81683
+g86
+I822
+sg34
+VVariations in the Visible Spectra of Certain Cepheid Stars
+p81684
+sa(dp81685
+g86
+I63
+sg34
+VThe Dosadi Experiment (Part 3 of 4)
+p81686
+sa(dp81687
+g86
+I823
+sg34
+VTake My Mate, Please!
+p81688
+sa(dp81689
+g86
+I685
+sg34
+VSkitch and the Kids
+p81690
+sa(dp81691
+g86
+I817
+sg34
+VDinsdale Dissents
+p81692
+sa(dp81693
+g86
+I824
+sg34
+VBrother John's Day Out
+p81694
+sa(dp81695
+g86
+I825
+sg34
+VA Perfect Twilight
+p81696
+sasbag1
+(g2
+g3
+Ntp81697
+Rp81698
+(dp81699
+g49
+(lp81700
+sg30
+(lp81701
+sg86
+I302
+sg82
+(lp81702
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine August 1977
+p81703
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v38n06_1977-08/Galaxy_v38n06_1977-08_jp2.zip&file=Galaxy_v38n06_1977-08_jp2/Galaxy_v38n06_1977-08_0000.jp2&scale=0&rotate=0
+p81704
+sg68228
+S'http://www.isfdb.org/wiki/images/7/71/GALAUG77.jpg'
+p81705
+sg14
+g68230
+sg16
+(lp81706
+sg75
+(lp81707
+I826
+aI742
+aI326
+aI827
+aI764
+aI40
+aI734
+aI767
+aI770
+aI822
+aI748
+aI63
+aI817
+aI828
+aI302
+asg20
+(lp81708
+sg25
+I1203
+sg68234
+(lp81709
+(dp81710
+g86
+I826
+sg34
+VShowcase (Galaxy, August 1977)
+p81711
+sa(dp81712
+g86
+I742
+sg34
+V... And Earth so Far Away
+p81713
+sa(dp81714
+g86
+I742
+sg34
+V... And Earth so Far Away [2]
+p81715
+sa(dp81716
+g86
+I742
+sg34
+V... And Earth so Far Away [3]
+p81717
+sa(dp81718
+g86
+I326
+sg34
+VPerfectly Safe, Nothing to Worry About
+p81719
+sa(dp81720
+g86
+I326
+sg34
+VPerfectly Safe, Nothing to Worry About [2]
+p81721
+sa(dp81722
+g86
+I827
+sg34
+VThe Dosadi Experiment (Part 4 of 4)
+p81723
+sa(dp81724
+g86
+I827
+sg34
+VThe Dosadi Experiment (Part 4 of 4) [2]
+p81725
+sa(dp81726
+g86
+I827
+sg34
+VThe Dosadi Experiment (Part 4 of 4) [3]
+p81727
+sa(dp81728
+g86
+I326
+sg34
+VThe Pheromonal Fountain
+p81729
+sa(dp81730
+g86
+I742
+sg34
+VThe All-Soul Is Calling Quinlan
+p81731
+sa(dp81732
+g86
+I742
+sg34
+VThe All-Soul Is Calling Quinlan [2]
+p81733
+sa(dp81734
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, August 1977)
+p81735
+sa(dp81736
+g86
+I764
+sg34
+VGalaxy and the Galaxy
+p81737
+sa(dp81738
+g86
+I40
+sg34
+VPostscript to Gateway
+p81739
+sa(dp81740
+g86
+I734
+sg34
+VA Time for Decisions
+p81741
+sa(dp81742
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, August 1977)
+p81743
+sa(dp81744
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, August 1977)
+p81745
+sa(dp81746
+g86
+I326
+sg34
+VDirections (Galaxy, August 1977)
+p81747
+sa(dp81748
+g86
+I822
+sg34
+V... And Earth so Far Away
+p81749
+sa(dp81750
+g86
+I748
+sg34
+VThe Pheromonal Fountain
+p81751
+sa(dp81752
+g86
+I63
+sg34
+VThe Dosadi Experiment (Part 4 of 4)
+p81753
+sa(dp81754
+g86
+I817
+sg34
+VPerfectly Safe, Nothing to Worry About
+p81755
+sa(dp81756
+g86
+I828
+sg34
+VThe All-Soul Is Calling Quinlan
+p81757
+sasbag1
+(g2
+g3
+Ntp81758
+Rp81759
+(dp81760
+g49
+(lp81761
+sg30
+(lp81762
+sg86
+I302
+sg82
+(lp81763
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine September 1977
+p81764
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v38n07_1977-09/Galaxy_v38n07_1977-09_jp2.zip&file=Galaxy_v38n07_1977-09_jp2/Galaxy_v38n07_1977-09_0000.jp2&scale=0&rotate=0
+p81765
+sg68228
+S'http://www.isfdb.org/wiki/images/9/91/GALSEP77.jpg'
+p81766
+sg14
+g68230
+sg16
+(lp81767
+sg75
+(lp81768
+I742
+aI734
+aI770
+aI829
+aI830
+aI831
+aI750
+aI832
+aI833
+aI302
+asg20
+(lp81769
+sg25
+I1204
+sg68234
+(lp81770
+(dp81771
+g86
+I742
+sg34
+VShowcase (Galaxy, September 1977)
+p81772
+sa(dp81773
+g86
+I742
+sg34
+VExiles to Glory (Part 1 of 2)
+p81774
+sa(dp81775
+g86
+I742
+sg34
+VExiles to Glory (Part 1 of 2) [2]
+p81776
+sa(dp81777
+g86
+I742
+sg34
+VExiles to Glory (Part 1 of 2) [3]
+p81778
+sa(dp81779
+g86
+I742
+sg34
+VGently Rapping
+p81780
+sa(dp81781
+g86
+I742
+sg34
+VGently Rapping [2]
+p81782
+sa(dp81783
+g86
+I742
+sg34
+VCame the Revolution
+p81784
+sa(dp81785
+g86
+I742
+sg34
+VCame the Revolution [2]
+p81786
+sa(dp81787
+g86
+I742
+sg34
+VCame the Revolution [3]
+p81788
+sa(dp81789
+g86
+I742
+sg34
+VGet Happy
+p81790
+sa(dp81791
+g86
+I742
+sg34
+VComing Home
+p81792
+sa(dp81793
+g86
+I742
+sg34
+VComing Home [2]
+p81794
+sa(dp81795
+g86
+I734
+sg34
+VSome Futures
+p81796
+sa(dp81797
+g86
+I770
+sg34
+VGalaxy Bookshelf (Galaxy, September 1977)
+p81798
+sa(dp81799
+g86
+I829
+sg34
+VReview of an Audio Dramatization of Brian W. Aldiss' "Frankenstein Unbound", Adapted
+p81800
+sa(dp81801
+g86
+I770
+sg34
+VReview of the Audio Recording "Joanna Russ Interpreting Her Stories"
+p81802
+sa(dp81803
+g86
+I830
+sg34
+VReview of an Audio Dramatization of Isaac Asimov's "Nightfall" Adapted
+p81804
+sa(dp81805
+g86
+I831
+sg34
+VCame the Revolution
+p81806
+sa(dp81807
+g86
+I750
+sg34
+VGet Happy
+p81808
+sa(dp81809
+g86
+I734
+sg34
+VExiles to Glory (Part 1 of 2)
+p81810
+sa(dp81811
+g86
+I832
+sg34
+VGently Rapping
+p81812
+sa(dp81813
+g86
+I833
+sg34
+VComing Home
+p81814
+sasbag1
+(g2
+g3
+Ntp81815
+Rp81816
+(dp81817
+g49
+(lp81818
+sg30
+(lp81819
+sg86
+I302
+sg82
+(lp81820
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine October 1977
+p81821
+sg11
+Vhttps://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v38n08_1977-10/Galaxy_v38n08_1977-10_jp2.zip&file=Galaxy_v38n08_1977-10_jp2/Galaxy_v38n08_1977-10_0000.jp2&scale=0&rotate=0
+p81822
+sg68228
+S'http://www.isfdb.org/wiki/images/f/f1/GALOCT77.jpg'
+p81823
+sg14
+g68230
+sg16
+(lp81824
+sg75
+(lp81825
+I742
+aI719
+aI834
+aI835
+aI836
+aI837
+aI838
+aI764
+aI734
+aI326
+aI839
+aI817
+aI840
+aI302
+asg20
+(lp81826
+sg25
+I1205
+sg68234
+(lp81827
+(dp81828
+g86
+I742
+sg34
+VA Certain Place in History
+p81829
+sa(dp81830
+g86
+I742
+sg34
+VA Certain Place in History [2]
+p81831
+sa(dp81832
+g86
+I742
+sg34
+VA Certain Place in History [3]
+p81833
+sa(dp81834
+g86
+I742
+sg34
+VThe Prologue to Light
+p81835
+sa(dp81836
+g86
+I742
+sg34
+VThe Prologue to Light [2]
+p81837
+sa(dp81838
+g86
+I742
+sg34
+VThe Prologue to Light [3]
+p81839
+sa(dp81840
+g86
+I742
+sg34
+VThe Prologue to Light [4]
+p81841
+sa(dp81842
+g86
+I742
+sg34
+VThe Prologue to Light [5]
+p81843
+sa(dp81844
+g86
+I742
+sg34
+VLast Contact
+p81845
+sa(dp81846
+g86
+I742
+sg34
+VLast Contact [2]
+p81847
+sa(dp81848
+g86
+I742
+sg34
+VExiles to Glory (Part 2 of 2)
+p81849
+sa(dp81850
+g86
+I742
+sg34
+VExiles to Glory (Part 2 of 2) [2]
+p81851
+sa(dp81852
+g86
+I742
+sg34
+VExiles to Glory (Part 2 of 2) [3]
+p81853
+sa(dp81854
+g86
+I742
+sg34
+VExiles to Glory (Part 2 of 2) [4]
+p81855
+sa(dp81856
+g86
+I742
+sg34
+VExiles to Glory (Part 2 of 2) [5]
+p81857
+sa(dp81858
+g86
+I719
+sg34
+VAnd Ba
+p81859
+sa(dp81860
+g86
+I834
+sg34
+VAnd Ba
+p81861
+sa(dp81862
+g86
+I835
+sg34
+VAnd Ba
+p81863
+sa(dp81864
+g86
+I836
+sg34
+VA Message From the Publisher: The Best to Jim
+p81865
+sa(dp81866
+g86
+I837
+sg34
+VStar Wars - Pro
+p81867
+sa(dp81868
+g86
+I838
+sg34
+VStar Wars - Con
+p81869
+sa(dp81870
+g86
+I764
+sg34
+VIons and Microwaves
+p81871
+sa(dp81872
+g86
+I734
+sg34
+VJim Baen and His Electric Spaceships
+p81873
+sa(dp81874
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, October 1977)
+p81875
+sa(dp81876
+g86
+I326
+sg34
+VDirections (Galaxy, October 1977)
+p81877
+sa(dp81878
+g86
+I839
+sg34
+VThe Prologue to Light
+p81879
+sa(dp81880
+g86
+I734
+sg34
+VExiles to Glory (Part 2 of 2)
+p81881
+sa(dp81882
+g86
+I817
+sg34
+VA Certain Place in History
+p81883
+sa(dp81884
+g86
+I840
+sg34
+VLast Contact
+p81885
+sasbag1
+(g2
+g3
+Ntp81886
+Rp81887
+(dp81888
+g49
+(lp81889
+sg30
+(lp81890
+sg86
+I302
+sg82
+(lp81891
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine November 1977
+p81892
+sg11
+Vhttps://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v38n09_1977-11/Galaxy_v38n09_1977-11_jp2.zip&file=Galaxy_v38n09_1977-11_jp2/Galaxy_v38n09_1977-11_0000.jp2&scale=0&rotate=0
+p81893
+sg68228
+S'http://www.isfdb.org/wiki/images/c/c1/GALNOV77.jpg'
+p81894
+sg14
+g68230
+sg16
+(lp81895
+sg75
+(lp81896
+I841
+aI326
+aI842
+aI734
+aI836
+aI843
+aI844
+aI817
+aI845
+aI846
+aI591
+aI750
+aI847
+aI302
+asg20
+(lp81897
+sg25
+I1206
+sg68234
+(lp81898
+(dp81899
+g86
+I841
+sg34
+VShowcase (Galaxy, November 1977)
+p81900
+sa(dp81901
+g86
+I326
+sg34
+VThe Courts of Chaos (Part 1 of 3)
+p81902
+sa(dp81903
+g86
+I326
+sg34
+VThe Courts of Chaos (Part 1 of 3) [2]
+p81904
+sa(dp81905
+g86
+I326
+sg34
+VThe Courts of Chaos (Part 1 of 3) [3]
+p81906
+sa(dp81907
+g86
+I326
+sg34
+VThe Courts of Chaos (Part 1 of 3) [4]
+p81908
+sa(dp81909
+g86
+I326
+sg34
+VThe Courts of Chaos (Part 1 of 3) [5]
+p81910
+sa(dp81911
+g86
+I842
+sg34
+VJogging Up Main Street
+p81912
+sa(dp81913
+g86
+I842
+sg34
+VJogging Up Main Street [2]
+p81914
+sa(dp81915
+g86
+I842
+sg34
+VThe Holy Temple
+p81916
+sa(dp81917
+g86
+I842
+sg34
+VThe Holy Temple [2]
+p81918
+sa(dp81919
+g86
+I842
+sg34
+VThe Holy Temple [3]
+p81920
+sa(dp81921
+g86
+I842
+sg34
+VThe Holy Temple [4]
+p81922
+sa(dp81923
+g86
+I842
+sg34
+VThe Long Chance
+p81924
+sa(dp81925
+g86
+I842
+sg34
+VThe Long Chance [2]
+p81926
+sa(dp81927
+g86
+I842
+sg34
+VThe Long Chance [3]
+p81928
+sa(dp81929
+g86
+I326
+sg34
+VThe Timeless Spy
+p81930
+sa(dp81931
+g86
+I842
+sg34
+VMy Friend's Last Show
+p81932
+sa(dp81933
+g86
+I734
+sg34
+VLucifer's Hammer
+p81934
+sa(dp81935
+g86
+I326
+sg34
+VForecast (Galaxy, November 1977)
+p81936
+sa(dp81937
+g86
+I836
+sg34
+VA Message From the Publisher: A New Editor
+p81938
+sa(dp81939
+g86
+I843
+sg34
+VGalaxy Bookshelf (Galaxy, November 1977)
+p81940
+sa(dp81941
+g86
+I844
+sg34
+VThe Golden Age
+p81942
+sa(dp81943
+g86
+I817
+sg34
+VThe Long Chance
+p81944
+sa(dp81945
+g86
+I845
+sg34
+VThe Timeless Spy
+p81946
+sa(dp81947
+g86
+I846
+sg34
+VThe Holy Temple
+p81948
+sa(dp81949
+g86
+I591
+sg34
+VThe Courts of Chaos (Part 1 of 3)
+p81950
+sa(dp81951
+g86
+I750
+sg34
+VJogging Up Main Street
+p81952
+sa(dp81953
+g86
+I847
+sg34
+VMy Friend's Last Show
+p81954
+sasbag1
+(g2
+g3
+Ntp81955
+Rp81956
+(dp81957
+g49
+(lp81958
+sg30
+(lp81959
+sg86
+I302
+sg82
+(lp81960
+I2
+asg13
+I1977
+sg34
+VGalaxy Magazine December 1977
+p81961
+sg11
+Vhttps://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Galaxy_v39n01_1978-01/Galaxy_v39n01_1978-01_jp2.zip&file=Galaxy_v39n01_1978-01_jp2/Galaxy_v39n01_1978-01_0000.jp2&scale=0&rotate=0
+p81962
+sg68228
+S'http://www.isfdb.org/wiki/images/c/c4/GALDECJAN77.jpg'
+p81963
+sg14
+g68230
+sg16
+(lp81964
+sg75
+(lp81965
+I848
+aI849
+aI842
+aI850
+aI326
+aI734
+aI843
+aI767
+aI844
+aI714
+aI591
+aI851
+aI852
+aI853
+aI854
+aI302
+asg20
+(lp81966
+sg25
+I1207
+sg68234
+(lp81967
+(dp81968
+g86
+I848
+sg34
+VShowcase (Galaxy, December 1977-January 1978)
+p81969
+sa(dp81970
+g86
+I849
+sg34
+VMemo to the Leader
+p81971
+sa(dp81972
+g86
+I849
+sg34
+VMemo to the Leader [2]
+p81973
+sa(dp81974
+g86
+I849
+sg34
+VMemo to the Leader [3]
+p81975
+sa(dp81976
+g86
+I849
+sg34
+VMemo to the Leader [4]
+p81977
+sa(dp81978
+g86
+I849
+sg34
+VMemo to the Leader [5]
+p81979
+sa(dp81980
+g86
+I849
+sg34
+VThe Road to God
+p81981
+sa(dp81982
+g86
+I849
+sg34
+VThe Road to God [2]
+p81983
+sa(dp81984
+g86
+I842
+sg34
+VCome Again
+p81985
+sa(dp81986
+g86
+I850
+sg34
+VThe Courts of Chaos (Part 2 of 3)
+p81987
+sa(dp81988
+g86
+I850
+sg34
+VThe Courts of Chaos (Part 2 of 3) [2]
+p81989
+sa(dp81990
+g86
+I850
+sg34
+VThe Courts of Chaos (Part 2 of 3) [3]
+p81991
+sa(dp81992
+g86
+I850
+sg34
+VThe Courts of Chaos (Part 2 of 3) [4]
+p81993
+sa(dp81994
+g86
+I850
+sg34
+VThe Courts of Chaos (Part 2 of 3) [5]
+p81995
+sa(dp81996
+g86
+I326
+sg34
+VJohn Henry and the Ultra-Media Experience Machine
+p81997
+sa(dp81998
+g86
+I842
+sg34
+VWith Clean Hands
+p81999
+sa(dp82000
+g86
+I842
+sg34
+VWith Clean Hands [2]
+p82001
+sa(dp82002
+g86
+I734
+sg34
+VE. F. Schumacher, Rip
+p82003
+sa(dp82004
+g86
+I843
+sg34
+VGalaxy Bookshelf (Galaxy, December 1977-January 1978)
+p82005
+sa(dp82006
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, December 1977-January 1978)
+p82007
+sa(dp82008
+g86
+I844
+sg34
+VDirections (Galaxy, December 1977-January 1978)
+p82009
+sa(dp82010
+g86
+I326
+sg34
+VStatement of Ownership (Galaxy, December 1977-January 1978) (Circulation: 81,035)
+p82011
+sa(dp82012
+g86
+I714
+sg34
+VMemo to the Leader
+p82013
+sa(dp82014
+g86
+I591
+sg34
+VThe Courts of Chaos (Part 2 of 3)
+p82015
+sa(dp82016
+g86
+I851
+sg34
+VThe Road to God
+p82017
+sa(dp82018
+g86
+I852
+sg34
+VCome Again
+p82019
+sa(dp82020
+g86
+I853
+sg34
+VJohn Henry and the Ultra-Media Experience Machine
+p82021
+sa(dp82022
+g86
+I854
+sg34
+VWith Clean Hands
+p82023
+sasbag1
+(g2
+g3
+Ntp82024
+Rp82025
+(dp82026
+g49
+(lp82027
+sg30
+(lp82028
+sg86
+I302
+sg82
+(lp82029
+I2
+asg13
+I1978
+sg34
+VGalaxy Magazine February 1978
+p82030
+sg11
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v39n02_1978-02/Galaxy_v39n02_1978-02_jp2.zip&file=Galaxy_v39n02_1978-02_jp2/Galaxy_v39n02_1978-02_0000.jp2&scale=0&rotate=0
+p82031
+sg68228
+S'http://www.isfdb.org/wiki/images/b/b8/GALFEB78.jpg'
+p82032
+sg14
+g68230
+sg16
+(lp82033
+sg75
+(lp82034
+I842
+aI849
+aI855
+aI844
+aI734
+aI843
+aI856
+aI857
+aI591
+aI858
+aI859
+aI302
+asg20
+(lp82035
+sg25
+I1208
+sg68234
+(lp82036
+(dp82037
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 1 of 4)
+p82038
+sa(dp82039
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 1 of 4) [2]
+p82040
+sa(dp82041
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 1 of 4) [3]
+p82042
+sa(dp82043
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 1 of 4) [4]
+p82044
+sa(dp82045
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 1 of 4) [5]
+p82046
+sa(dp82047
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 1 of 4) [6]
+p82048
+sa(dp82049
+g86
+I849
+sg34
+VThe Nothing Spot
+p82050
+sa(dp82051
+g86
+I849
+sg34
+VWriter's Block
+p82052
+sa(dp82053
+g86
+I849
+sg34
+VWriter's Block [2]
+p82054
+sa(dp82055
+g86
+I855
+sg34
+VThe Courts of Chaos (Part 3 of 3)
+p82056
+sa(dp82057
+g86
+I855
+sg34
+VThe Courts of Chaos (Part 3 of 3) [2]
+p82058
+sa(dp82059
+g86
+I855
+sg34
+VThe Courts of Chaos (Part 3 of 3) [3]
+p82060
+sa(dp82061
+g86
+I855
+sg34
+VThe Courts of Chaos (Part 3 of 3) [4]
+p82062
+sa(dp82063
+g86
+I855
+sg34
+VThe Courts of Chaos (Part 3 of 3) [5]
+p82064
+sa(dp82065
+g86
+I849
+sg34
+VDeath's Dimensions
+p82066
+sa(dp82067
+g86
+I849
+sg34
+VDeath's Dimensions [2]
+p82068
+sa(dp82069
+g86
+I842
+sg34
+VShowcase (Galaxy, February 1978)
+p82070
+sa(dp82071
+g86
+I844
+sg34
+VImagination and Evolution
+p82072
+sa(dp82073
+g86
+I734
+sg34
+VRapping Out the Space Industries
+p82074
+sa(dp82075
+g86
+I843
+sg34
+VGalaxy Bookshelf (Galaxy, February 1978)
+p82076
+sa(dp82077
+g86
+I844
+sg34
+VDirections (Galaxy, February 1978)
+p82078
+sa(dp82079
+g86
+I856
+sg34
+VWriter's Block
+p82080
+sa(dp82081
+g86
+I857
+sg34
+VThe Faded Sun: Kesrith (Part 1 of 4)
+p82082
+sa(dp82083
+g86
+I591
+sg34
+VThe Courts of Chaos (Part 3 of 3)
+p82084
+sa(dp82085
+g86
+I858
+sg34
+VThe Nothing Spot
+p82086
+sa(dp82087
+g86
+I859
+sg34
+VDeath's Dimensions
+p82088
+sasbag1
+(g2
+g3
+Ntp82089
+Rp82090
+(dp82091
+g49
+(lp82092
+sg30
+(lp82093
+sg86
+I302
+sg82
+(lp82094
+I2
+asg13
+I1978
+sg34
+VGalaxy Magazine March 1978
+p82095
+sg11
+Vhttps://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/Galaxy_v39n03_1978-03/Galaxy_v39n03_1978-03_jp2.zip&file=Galaxy_v39n03_1978-03_jp2/Galaxy_v39n03_1978-03_0000.jp2&scale=0&rotate=0
+p82096
+sg68228
+S'http://www.isfdb.org/wiki/images/4/42/GALMAR78.jpg'
+p82097
+sg14
+g68230
+sg16
+(lp82098
+sg75
+(lp82099
+I860
+aI848
+aI849
+aI842
+aI326
+aI734
+aI843
+aI767
+aI844
+aI861
+aI857
+aI862
+aI714
+aI817
+aI302
+asg20
+(lp82100
+sg25
+I1209
+sg68234
+(lp82101
+(dp82102
+g86
+I860
+sg34
+VShowcase (Galaxy, March 1978)
+p82103
+sa(dp82104
+g86
+I848
+sg34
+VMoonless Night
+p82105
+sa(dp82106
+g86
+I848
+sg34
+VMoonless Night [2]
+p82107
+sa(dp82108
+g86
+I849
+sg34
+VBugs
+p82109
+sa(dp82110
+g86
+I849
+sg34
+VBugs [2]
+p82111
+sa(dp82112
+g86
+I842
+sg34
+VThe Exchange
+p82113
+sa(dp82114
+g86
+I842
+sg34
+VThe Exchange [2]
+p82115
+sa(dp82116
+g86
+I842
+sg34
+VThe Exchange [3]
+p82117
+sa(dp82118
+g86
+I849
+sg34
+VThe Norns' Loom
+p82119
+sa(dp82120
+g86
+I849
+sg34
+VThe Norns' Loom [2]
+p82121
+sa(dp82122
+g86
+I849
+sg34
+VKilling Vector
+p82123
+sa(dp82124
+g86
+I849
+sg34
+VKilling Vector [2]
+p82125
+sa(dp82126
+g86
+I849
+sg34
+VKilling Vector [3]
+p82127
+sa(dp82128
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 2 of 4)
+p82129
+sa(dp82130
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 2 of 4) [2]
+p82131
+sa(dp82132
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 2 of 4) [3]
+p82133
+sa(dp82134
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 2 of 4) [4]
+p82135
+sa(dp82136
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 2 of 4) [5]
+p82137
+sa(dp82138
+g86
+I326
+sg34
+VForecast (Galaxy, March 1978)
+p82139
+sa(dp82140
+g86
+I734
+sg34
+VThe Moral Equivalent of War
+p82141
+sa(dp82142
+g86
+I843
+sg34
+VGalaxy Bookshelf (Galaxy, March 1978)
+p82143
+sa(dp82144
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, March 1978)
+p82145
+sa(dp82146
+g86
+I844
+sg34
+VWho's Minding the Store?
+p82147
+sa(dp82148
+g86
+I844
+sg34
+VDirections (Galaxy, March 1978)
+p82149
+sa(dp82150
+g86
+I861
+sg34
+VThe Exchange
+p82151
+sa(dp82152
+g86
+I857
+sg34
+VThe Faded Sun: Kesrith (Part 2 of 4)
+p82153
+sa(dp82154
+g86
+I862
+sg34
+VMoonless Night
+p82155
+sa(dp82156
+g86
+I843
+sg34
+VBugs
+p82157
+sa(dp82158
+g86
+I714
+sg34
+VThe Norns' Loom
+p82159
+sa(dp82160
+g86
+I817
+sg34
+VKilling Vector
+p82161
+sasbag1
+(g2
+g3
+Ntp82162
+Rp82163
+(dp82164
+g49
+(lp82165
+sg30
+(lp82166
+sg86
+I302
+sg82
+(lp82167
+I2
+asg13
+I1978
+sg34
+VGalaxy Magazine April 1978
+p82168
+sg11
+Vhttps://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v39n04_1978-04/Galaxy_v39n04_1978-04_jp2.zip&file=Galaxy_v39n04_1978-04_jp2/Galaxy_v39n04_1978-04_0000.jp2&scale=0&rotate=0
+p82169
+sg68228
+S'http://www.isfdb.org/wiki/images/a/a3/GALAPR78.jpg'
+p82170
+sg14
+g68230
+sg16
+(lp82171
+sg75
+(lp82172
+I863
+aI850
+aI842
+aI857
+aI734
+aI843
+aI479
+aI864
+aI768
+aI865
+aI302
+asg20
+(lp82173
+sg25
+I1210
+sg68234
+(lp82174
+(dp82175
+g86
+I863
+sg34
+VThe Queen of the Afternoon
+p82176
+sa(dp82177
+g86
+I863
+sg34
+VThe Queen of the Afternoon [2]
+p82178
+sa(dp82179
+g86
+I863
+sg34
+VThe Queen of the Afternoon [3]
+p82180
+sa(dp82181
+g86
+I863
+sg34
+VThe Queen of the Afternoon [4]
+p82182
+sa(dp82183
+g86
+I850
+sg34
+VThe Defector
+p82184
+sa(dp82185
+g86
+I850
+sg34
+VThe Defector [2]
+p82186
+sa(dp82187
+g86
+I850
+sg34
+VThe Devil and All Her Works
+p82188
+sa(dp82189
+g86
+I850
+sg34
+VThe Devil and All Her Works [2]
+p82190
+sa(dp82191
+g86
+I850
+sg34
+VThe Devil and All Her Works [3]
+p82192
+sa(dp82193
+g86
+I842
+sg34
+VThe Faded Sun: Kesrith (Part 3 of 4)
+p82194
+sa(dp82195
+g86
+I857
+sg34
+VThe Faded Sun: Kesrith (Part 3 of 4) [2]
+p82196
+sa(dp82197
+g86
+I857
+sg34
+VThe Faded Sun: Kesrith (Part 3 of 4) [3]
+p82198
+sa(dp82199
+g86
+I857
+sg34
+VThe Faded Sun: Kesrith (Part 3 of 4) [4]
+p82200
+sa(dp82201
+g86
+I857
+sg34
+VThe Faded Sun: Kesrith (Part 3 of 4) [5]
+p82202
+sa(dp82203
+g86
+I863
+sg34
+VThe Purblind People
+p82204
+sa(dp82205
+g86
+I863
+sg34
+VThe Purblind People [2]
+p82206
+sa(dp82207
+g86
+I863
+sg34
+VThe Purblind People [3]
+p82208
+sa(dp82209
+g86
+I863
+sg34
+VThe Purblind People [4]
+p82210
+sa(dp82211
+g86
+I734
+sg34
+VMan and the Weather Machine
+p82212
+sa(dp82213
+g86
+I843
+sg34
+VGalaxy Bookshelf (Galaxy, April 1978)
+p82214
+sa(dp82215
+g86
+I479
+sg34
+VThe Queen of the Afternoon
+p82216
+sa(dp82217
+g86
+I864
+sg34
+VThe Devil and All Her Works
+p82218
+sa(dp82219
+g86
+I768
+sg34
+VThe Purblind People
+p82220
+sa(dp82221
+g86
+I857
+sg34
+VThe Faded Sun: Kesrith (Part 3 of 4)
+p82222
+sa(dp82223
+g86
+I865
+sg34
+VThe Defector
+p82224
+sasbag1
+(g2
+g3
+Ntp82225
+Rp82226
+(dp82227
+g49
+(lp82228
+sg30
+(lp82229
+sg86
+I302
+sg82
+(lp82230
+I2
+asg13
+I1978
+sg34
+VGalaxy Magazine June 1978
+p82231
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/Galaxy_v39n06_1978-06/Galaxy_v39n06_1978-06_jp2.zip&file=Galaxy_v39n06_1978-06_jp2/Galaxy_v39n06_1978-06_0000.jp2&scale=0&rotate=0
+p82232
+sg68228
+S'http://www.isfdb.org/wiki/images/d/dd/GALJUN78.jpg'
+p82233
+sg14
+g68230
+sg16
+(lp82234
+sg75
+(lp82235
+I849
+aI866
+aI863
+aI742
+aI867
+aI326
+aI734
+aI843
+aI767
+aI844
+aI868
+aI693
+aI869
+aI870
+aI302
+asg20
+(lp82236
+sg25
+I1211
+sg68234
+(lp82237
+(dp82238
+g86
+I849
+sg34
+VHung Jury
+p82239
+sa(dp82240
+g86
+I866
+sg34
+VTo Go Not Gently
+p82241
+sa(dp82242
+g86
+I866
+sg34
+VTo Go Not Gently [2]
+p82243
+sa(dp82244
+g86
+I866
+sg34
+VTo Go Not Gently [3]
+p82245
+sa(dp82246
+g86
+I866
+sg34
+VTo Go Not Gently [4]
+p82247
+sa(dp82248
+g86
+I863
+sg34
+VStar Warring
+p82249
+sa(dp82250
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 2 of 3)
+p82251
+sa(dp82252
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 2 of 3) [2]
+p82253
+sa(dp82254
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 2 of 3) [3]
+p82255
+sa(dp82256
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 2 of 3) [4]
+p82257
+sa(dp82258
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 2 of 3) [5]
+p82259
+sa(dp82260
+g86
+I867
+sg34
+VHenry the Spaceship
+p82261
+sa(dp82262
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, June 1978)
+p82263
+sa(dp82264
+g86
+I734
+sg34
+VThe Tools of the Trade
+p82265
+sa(dp82266
+g86
+I843
+sg34
+VGalaxy Bookshelf (Galaxy, June 1978)
+p82267
+sa(dp82268
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, June 1978)
+p82269
+sa(dp82270
+g86
+I844
+sg34
+VDirections (Galaxy, June 1978)
+p82271
+sa(dp82272
+g86
+I868
+sg34
+VTo Go Not Gently
+p82273
+sa(dp82274
+g86
+I693
+sg34
+VThe Stars in Shroud (Part 2 of 3)
+p82275
+sa(dp82276
+g86
+I869
+sg34
+VHung Jury
+p82277
+sa(dp82278
+g86
+I870
+sg34
+VStar Warring
+p82279
+sa(dp82280
+g86
+I843
+sg34
+VHenry the Spaceship
+p82281
+sasbag1
+(g2
+g3
+Ntp82282
+Rp82283
+(dp82284
+g49
+(lp82285
+sg30
+(lp82286
+sg86
+I302
+sg82
+(lp82287
+I2
+asg13
+I1978
+sg34
+VGalaxy Magazine September 1978
+p82288
+sg11
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v39n07_1978-09/Galaxy_v39n07_1978-09_jp2.zip&file=Galaxy_v39n07_1978-09_jp2/Galaxy_v39n07_1978-09_0000.jp2&scale=0&rotate=0
+p82289
+sg68228
+S'http://www.isfdb.org/wiki/images/b/bb/GALSEP78.jpg'
+p82290
+sg14
+g68230
+sg16
+(lp82291
+sg75
+(lp82292
+I863
+aI326
+aI871
+aI742
+aI734
+aI844
+aI843
+aI767
+aI872
+aI693
+aI851
+aI873
+aI817
+aI302
+asg20
+(lp82293
+sg25
+I1212
+sg68234
+(lp82294
+(dp82295
+g86
+I863
+sg34
+VShowcase (Galaxy, September 1978)
+p82296
+sa(dp82297
+g86
+I326
+sg34
+VRescue Room
+p82298
+sa(dp82299
+g86
+I326
+sg34
+VThe Breath of the Lily
+p82300
+sa(dp82301
+g86
+I326
+sg34
+VThe Breath of the Lily [2]
+p82302
+sa(dp82303
+g86
+I871
+sg34
+VFearn
+p82304
+sa(dp82305
+g86
+I871
+sg34
+VFearn [2]
+p82306
+sa(dp82307
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 3 of 3)
+p82308
+sa(dp82309
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 3 of 3) [2]
+p82310
+sa(dp82311
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 3 of 3) [3]
+p82312
+sa(dp82313
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 3 of 3) [4]
+p82314
+sa(dp82315
+g86
+I742
+sg34
+VThe Stars in Shroud (Part 3 of 3) [5]
+p82316
+sa(dp82317
+g86
+I863
+sg34
+VThe Dalmatian of Faust
+p82318
+sa(dp82319
+g86
+I863
+sg34
+VThe Dalmatian of Faust [2]
+p82320
+sa(dp82321
+g86
+I326
+sg34
+VS. F. Calendar (Galaxy, September 1978)
+p82322
+sa(dp82323
+g86
+I734
+sg34
+VWill There Be Stars in Our Crown?
+p82324
+sa(dp82325
+g86
+I844
+sg34
+VEditorial Matters (Galaxy, September 1978)
+p82326
+sa(dp82327
+g86
+I843
+sg34
+VGalaxy Bookshelf (Galaxy, September 1978)
+p82328
+sa(dp82329
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, September 1978)
+p82330
+sa(dp82331
+g86
+I872
+sg34
+VRescue Room
+p82332
+sa(dp82333
+g86
+I693
+sg34
+VThe Stars in Shroud (Part 3 of 3)
+p82334
+sa(dp82335
+g86
+I851
+sg34
+VThe Breath of the Lily
+p82336
+sa(dp82337
+g86
+I873
+sg34
+VFearn
+p82338
+sa(dp82339
+g86
+I817
+sg34
+VThe Dalmatian of Faust
+p82340
+sasbag1
+(g2
+g3
+Ntp82341
+Rp82342
+(dp82343
+g49
+(lp82344
+sg30
+(lp82345
+sg86
+I302
+sg82
+(lp82346
+I2
+asg13
+I1978
+sg34
+VGalaxy Magazine November 1978
+p82347
+sg11
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v39n08_1978-12/Galaxy_v39n08_1978-12_jp2.zip&file=Galaxy_v39n08_1978-12_jp2/Galaxy_v39n08_1978-12_0000.jp2&scale=0&rotate=0
+p82348
+sg68228
+S'http://www.isfdb.org/wiki/images/6/62/GALNOVDEC78.jpg'
+p82349
+sg14
+g68230
+sg16
+(lp82350
+sg75
+(lp82351
+I874
+aI875
+aI860
+aI849
+aI876
+aI863
+aI877
+aI734
+aI843
+aI844
+aI856
+aI864
+aI878
+aI879
+aI880
+aI40
+aI302
+asg20
+(lp82352
+sg25
+I1213
+sg68234
+(lp82353
+(dp82354
+g86
+I874
+sg34
+VJem (Part 1 of 5)
+p82355
+sa(dp82356
+g86
+I874
+sg34
+VJem (Part 1 of 5) [2]
+p82357
+sa(dp82358
+g86
+I874
+sg34
+VJem (Part 1 of 5) [3]
+p82359
+sa(dp82360
+g86
+I874
+sg34
+VJem (Part 1 of 5) [4]
+p82361
+sa(dp82362
+g86
+I874
+sg34
+VJem (Part 1 of 5) [5]
+p82363
+sa(dp82364
+g86
+I875
+sg34
+VThe Surrogate Mouth
+p82365
+sa(dp82366
+g86
+I875
+sg34
+VThe Surrogate Mouth [2]
+p82367
+sa(dp82368
+g86
+I875
+sg34
+VThe Surrogate Mouth [3]
+p82369
+sa(dp82370
+g86
+I860
+sg34
+VUnemployment Problem
+p82371
+sa(dp82372
+g86
+I860
+sg34
+VUnemployment Problem [2]
+p82373
+sa(dp82374
+g86
+I849
+sg34
+VClick
+p82375
+sa(dp82376
+g86
+I876
+sg34
+VThe Population Explosion at Lake Stover
+p82377
+sa(dp82378
+g86
+I876
+sg34
+VThe Population Explosion at Lake Stover [2]
+p82379
+sa(dp82380
+g86
+I863
+sg34
+VTwo of a Kind
+p82381
+sa(dp82382
+g86
+I877
+sg34
+VThe Wind-Down Toy
+p82383
+sa(dp82384
+g86
+I734
+sg34
+VThe Inevitable Revolution
+p82385
+sa(dp82386
+g86
+I843
+sg34
+VGalaxy Bookshelf (Galaxy, November-December 1978)
+p82387
+sa(dp82388
+g86
+I844
+sg34
+VDirections (Galaxy, November-December 1978)
+p82389
+sa(dp82390
+g86
+I856
+sg34
+VThe Surrogate Mouth
+p82391
+sa(dp82392
+g86
+I864
+sg34
+VUnemployment Problem
+p82393
+sa(dp82394
+g86
+I843
+sg34
+VClick
+p82395
+sa(dp82396
+g86
+I878
+sg34
+VThe Population Explosion at Lake Stover
+p82397
+sa(dp82398
+g86
+I879
+sg34
+VTwo of a Kind
+p82399
+sa(dp82400
+g86
+I880
+sg34
+VThe Wind-Down Toy
+p82401
+sa(dp82402
+g86
+I40
+sg34
+VJem (Part 1 of 5)
+p82403
+sasbag1
+(g2
+g3
+Ntp82404
+Rp82405
+(dp82406
+g49
+(lp82407
+sg30
+(lp82408
+sg86
+I302
+sg82
+(lp82409
+I2
+asg13
+I1979
+sg34
+VGalaxy Magazine March 1979
+p82410
+sg11
+Vhttps://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/Galaxy_v39n09_1979-03/Galaxy_v39n09_1979-03_jp2.zip&file=Galaxy_v39n09_1979-03_jp2/Galaxy_v39n09_1979-03_0000.jp2&scale=0&rotate=0
+p82411
+sg68228
+S'http://www.isfdb.org/wiki/images/c/c5/GALMARAPR79.jpg'
+p82412
+sg14
+g68230
+sg16
+(lp82413
+sg75
+(lp82414
+I881
+aI744
+aI882
+aI883
+aI884
+aI885
+aI843
+aI767
+aI844
+aI326
+aI886
+aI384
+aI40
+aI887
+aI888
+aI889
+aI302
+asg20
+(lp82415
+sg25
+I1214
+sg68234
+(lp82416
+(dp82417
+g86
+I881
+sg34
+VParasite
+p82418
+sa(dp82419
+g86
+I881
+sg34
+VParasite [2]
+p82420
+sa(dp82421
+g86
+I881
+sg34
+VParasite [3]
+p82422
+sa(dp82423
+g86
+I744
+sg34
+VDuet
+p82424
+sa(dp82425
+g86
+I881
+sg34
+VDuet [2]
+p82426
+sa(dp82427
+g86
+I882
+sg34
+VJem (Part 2 of 5)
+p82428
+sa(dp82429
+g86
+I883
+sg34
+VThe World of God
+p82430
+sa(dp82431
+g86
+I883
+sg34
+VThe World of God [2]
+p82432
+sa(dp82433
+g86
+I884
+sg34
+VA Scientific Fact
+p82434
+sa(dp82435
+g86
+I885
+sg34
+VSomeone to Talk To
+p82436
+sa(dp82437
+g86
+I885
+sg34
+VSomeone to Talk to [2]
+p82438
+sa(dp82439
+g86
+I843
+sg34
+VGalaxy Bookshelf (Galaxy, March-April 1979)
+p82440
+sa(dp82441
+g86
+I767
+sg34
+VThe Alien Viewpoint (Galaxy, March-April 1979)
+p82442
+sa(dp82443
+g86
+I844
+sg34
+VDirections (Galaxy, March-April 1979)
+p82444
+sa(dp82445
+g86
+I326
+sg34
+VThings to Come (Galaxy, March-April 1979)
+p82446
+sa(dp82447
+g86
+I886
+sg34
+VParasite
+p82448
+sa(dp82449
+g86
+I384
+sg34
+VThe World of God
+p82450
+sa(dp82451
+g86
+I40
+sg34
+VJem (Part 2 of 5)
+p82452
+sa(dp82453
+g86
+I887
+sg34
+VDuet
+p82454
+sa(dp82455
+g86
+I888
+sg34
+VA Scientific Fact
+p82456
+sa(dp82457
+g86
+I889
+sg34
+VSomeone to Talk To
+p82458
+sasbag1
+(g2
+g3
+Ntp82459
+Rp82460
+(dp82461
+g49
+(lp82462
+sg30
+(lp82463
+sg86
+I302
+sg82
+(lp82464
+I2
+asg13
+I1979
+sg34
+VGalaxy Magazine June 1979
+p82465
+sg11
+Vhttps://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v39n10_1979-07/Galaxy_v39n10_1979-07_jp2.zip&file=Galaxy_v39n10_1979-07_jp2/Galaxy_v39n10_1979-07_0000.jp2&scale=0&rotate=0
+p82466
+sg68228
+S'http://www.isfdb.org/wiki/images/6/61/GALJUNJUL79.jpg'
+p82467
+sg14
+g68230
+sg16
+(lp82468
+sg75
+(lp82469
+I890
+aI891
+aI892
+aI326
+aI312
+aI893
+aI767
+aI894
+aI895
+aI896
+aI854
+aI40
+aI897
+aI658
+aI376
+aI596
+aI302
+asg20
+(lp82470
+sg25
+I1215
+sg68234
+(lp82471
+(dp82472
+g86
+I890
+sg34
+VStar Warriors (Part 1 of 2)
+p82473
+sa(dp82474
+g86
+I890
+sg34
+VStar Warriors (Part 1 of 2) [2]
+p82475
+sa(dp82476
+g86
+I890
+sg34
+VStar Warriors (Part 1 of 2) [3]
+p82477
+sa(dp82478
+g86
+I890
+sg34
+VStar Warriors (Part 1 of 2) [4]
+p82479
+sa(dp82480
+g86
+I891
+sg34
+VThe Psychic
+p82481
+sa(dp82482
+g86
+I892
+sg34
+VJem (Part 3 of 5)
+p82483
+sa(dp82484
+g86
+I892
+sg34
+VJem (Part 3 of 5) [2]
+p82485
+sa(dp82486
+g86
+I326
+sg34
+VWhen the Metal Eaters Came
+p82487
+sa(dp82488
+g86
+I326
+sg34
+VBeneath the Bermuda Triangle
+p82489
+sa(dp82490
+g86
+I326
+sg34
+VShowcase (Galaxy, June-July 1979)
+p82491
+sa(dp82492
+g86
+I326
+sg34
+VAbout Our Contributors (Galaxy, June-July 1979)
+p82493
+sa(dp82494
+g86
+I312
+sg34
+VEditorial (Galaxy, June-July 1979)
+p82495
+sa(dp82496
+g86
+I326
+sg34
+VGalaxy Forecast (Galaxy, June-July 1979)
+p82497
+sa(dp82498
+g86
+I893
+sg34
+VScience Fiction Hotline (Galaxy, June-July 1979)
+p82499
+sa(dp82500
+g86
+I767
+sg34
+VGalaxy Bookshelf (Galaxy, June-July 1979)
+p82501
+sa(dp82502
+g86
+I326
+sg34
+VLetters (Galaxy, June-July 1979)
+p82503
+sa(dp82504
+g86
+I894
+sg34
+VStatement of Policy (Galaxy, June-July 1979)
+p82505
+sa(dp82506
+g86
+I895
+sg34
+VThe Psychic
+p82507
+sa(dp82508
+g86
+I896
+sg34
+VBeneath the Bermuda Triangle
+p82509
+sa(dp82510
+g86
+I854
+sg34
+VStar Warriors (Part 1 of 2)
+p82511
+sa(dp82512
+g86
+I40
+sg34
+VJem (Part 3 of 5)
+p82513
+sa(dp82514
+g86
+I897
+sg34
+VThe-Super-Duper-Make-Your-Own-Ba
+p82515
+sa(dp82516
+g86
+I658
+sg34
+VFemworld
+p82517
+sa(dp82518
+g86
+I376
+sg34
+VAn End to Crime
+p82519
+sa(dp82520
+g86
+I596
+sg34
+VWhen the Metal Eaters Came
+p82521
+sasbag1
+(g2
+g3
+Ntp82522
+Rp82523
+(dp82524
+g49
+(lp82525
+sg30
+(lp82526
+sg86
+I302
+sg82
+(lp82527
+I2
+asg13
+I1979
+sg34
+VGalaxy Magazine September 1979
+p82528
+sg11
+Vhttps://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v39n11_1979-10/Galaxy_v39n11_1979-10_jp2.zip&file=Galaxy_v39n11_1979-10_jp2/Galaxy_v39n11_1979-10_0000.jp2&scale=0&rotate=0
+p82529
+sg68228
+S'http://www.isfdb.org/wiki/images/1/1e/GALSEPOCT79.jpg'
+p82530
+sg14
+g68230
+sg16
+(lp82531
+sg75
+(lp82532
+I898
+aI890
+aI899
+aI326
+aI312
+aI893
+aI900
+aI691
+aI901
+aI854
+aI40
+aI902
+aI596
+aI302
+asg20
+(lp82533
+sg25
+I1216
+sg68234
+(lp82534
+(dp82535
+g86
+I898
+sg34
+VThe Invasion of America
+p82536
+sa(dp82537
+g86
+I890
+sg34
+VStar Warriors (Part 2 of 2)
+p82538
+sa(dp82539
+g86
+I890
+sg34
+VStar Warriors (Part 2 of 2) [2]
+p82540
+sa(dp82541
+g86
+I890
+sg34
+VStar Warriors (Part 2 of 2) [3]
+p82542
+sa(dp82543
+g86
+I899
+sg34
+VA Beast for Norn
+p82544
+sa(dp82545
+g86
+I899
+sg34
+VA Beast for Norn [2]
+p82546
+sa(dp82547
+g86
+I899
+sg34
+VA Beast for Norn [3]
+p82548
+sa(dp82549
+g86
+I326
+sg34
+VJem (Part 4 of 5)
+p82550
+sa(dp82551
+g86
+I326
+sg34
+VJem (Part 4 of 5) [2]
+p82552
+sa(dp82553
+g86
+I326
+sg34
+VJem (Part 4 of 5) [3]
+p82554
+sa(dp82555
+g86
+I326
+sg34
+VJem (Part 4 of 5) [4]
+p82556
+sa(dp82557
+g86
+I312
+sg34
+VEditorial (Galaxy, September-October 1979)
+p82558
+sa(dp82559
+g86
+I893
+sg34
+VScience Fiction Hotline (Galaxy, September-October 1979)
+p82560
+sa(dp82561
+g86
+I900
+sg34
+VInterface/Interspace
+p82562
+sa(dp82563
+g86
+I691
+sg34
+VA Beast for Norn
+p82564
+sa(dp82565
+g86
+I901
+sg34
+VThe Invasion of America
+p82566
+sa(dp82567
+g86
+I854
+sg34
+VStar Warriors (Part 2 of 2)
+p82568
+sa(dp82569
+g86
+I40
+sg34
+VJem (Part 4 of 5)
+p82570
+sa(dp82571
+g86
+I902
+sg34
+VThe Depression of 1980
+p82572
+sa(dp82573
+g86
+I596
+sg34
+VA Little Girl's Spring Day in Moderan
+p82574
+sasbag1
+(g2
+g3
+Ntp82575
+Rp82576
+(dp82577
+g49
+(lp82578
+sg30
+(lp82579
+sg86
+I302
+sg82
+(lp82580
+I2
+asg13
+I1980
+sg34
+VGalaxy Magazine July 1980
+p82581
+sg11
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v40n01_1980-07/Galaxy_v40n01_1980-07_jp2.zip&file=Galaxy_v40n01_1980-07_jp2/Galaxy_v40n01_1980-07_0000.jp2&scale=0&rotate=0
+p82582
+sg68228
+S'http://www.philsp.com/data/images/g/galaxy_198007.jpg'
+p82583
+sg14
+g68230
+sg16
+(lp82584
+sg75
+(lp82585
+I903
+aI904
+aI905
+aI906
+aI907
+aI908
+aI909
+aI326
+aI910
+aI911
+aI912
+aI913
+aI914
+aI915
+aI916
+aI40
+aI741
+aI917
+aI889
+aI302
+asg20
+(lp82586
+sg25
+I1217
+sg68234
+(lp82587
+(dp82588
+g86
+I903
+sg34
+VFamous Events of the Future: The Jovian Sky Party
+p82589
+sa(dp82590
+g86
+I904
+sg34
+VIn the Shubbi Arms
+p82591
+sa(dp82592
+g86
+I905
+sg34
+VThe Colony
+p82593
+sa(dp82594
+g86
+I904
+sg34
+VThe Night Machine
+p82595
+sa(dp82596
+g86
+I906
+sg34
+VIn the Days of the Steam Wars
+p82597
+sa(dp82598
+g86
+I906
+sg34
+VIn the Days of the Steam Wars [2]
+p82599
+sa(dp82600
+g86
+I906
+sg34
+VIn the Days of the Steam Wars [3]
+p82601
+sa(dp82602
+g86
+I906
+sg34
+VIn the Days of the Steam Wars [4]
+p82603
+sa(dp82604
+g86
+I906
+sg34
+VIn the Days of the Steam Wars [5]
+p82605
+sa(dp82606
+g86
+I905
+sg34
+VJem
+p82607
+sa(dp82608
+g86
+I907
+sg34
+VJem
+p82609
+sa(dp82610
+g86
+I905
+sg34
+VMapping the Island in Images
+p82611
+sa(dp82612
+g86
+I908
+sg34
+VPages From the Sketchbook of Michael Kaluta
+p82613
+sa(dp82614
+g86
+I908
+sg34
+VPages From the Sketchbook of Michael Kaluta [2]
+p82615
+sa(dp82616
+g86
+I908
+sg34
+VPages From the Sketchbook of Michael Kaluta [3]
+p82617
+sa(dp82618
+g86
+I908
+sg34
+VPages From the Sketchbook of Michael Kaluta [4]
+p82619
+sa(dp82620
+g86
+I908
+sg34
+VPages From the Sketchbook of Michael Kaluta [5]
+p82621
+sa(dp82622
+g86
+I904
+sg34
+V"Who Knows What Evil Lurks in the Hearts of Men?"
+p82623
+sa(dp82624
+g86
+I909
+sg34
+VEditorial: Oh, No! They've Changed It!
+p82625
+sa(dp82626
+g86
+I326
+sg34
+VYou'll Never Find It in Galaxy
+p82627
+sa(dp82628
+g86
+I910
+sg34
+VSon of Calculator and the Electronic Lifestyle
+p82629
+sa(dp82630
+g86
+I911
+sg34
+VMovers and Shakers
+p82631
+sa(dp82632
+g86
+I911
+sg34
+VYour Car and Its Computer
+p82633
+sa(dp82634
+g86
+I326
+sg34
+VWords
+p82635
+sa(dp82636
+g86
+I912
+sg34
+VIf You Don't Talk to Your Stereo, I Will
+p82637
+sa(dp82638
+g86
+I911
+sg34
+VDefending the Empire: Intelligent Games
+p82639
+sa(dp82640
+g86
+I911
+sg34
+VCareers
+p82641
+sa(dp82642
+g86
+I913
+sg34
+VReviews (Galaxy, July 1980)
+p82643
+sa(dp82644
+g86
+I909
+sg34
+VMichael Kaluta: Storytelling Fantasy Artist
+p82645
+sa(dp82646
+g86
+I914
+sg34
+VPotter On Books
+p82647
+sa(dp82648
+g86
+I915
+sg34
+VProjections
+p82649
+sa(dp82650
+g86
+I916
+sg34
+VMapping the Island in Images
+p82651
+sa(dp82652
+g86
+I40
+sg34
+VJem (Part 5 of 5)
+p82653
+sa(dp82654
+g86
+I741
+sg34
+VIn the Shubbi Arms
+p82655
+sa(dp82656
+g86
+I917
+sg34
+VThe Colony
+p82657
+sa(dp82658
+g86
+I889
+sg34
+VThe Night Machine
+p82659
+sa(dp82660
+g86
+I914
+sg34
+VIn the Days of the Steam Wars
+p82661
+sa(dp82662
+g86
+I326
+sg34
+VFamous Events of the Future: The Jovian Sky Party
+p82663
+sasba.

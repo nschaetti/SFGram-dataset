@@ -56,6 +56,12 @@ sS'books'
 p27
 (lp28
 I128
+aI1036
+aI1068
+aI1076
+aI1087
+aI1121
+aI1132
 asS'id'
 p29
 I45

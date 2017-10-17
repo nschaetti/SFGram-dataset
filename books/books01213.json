@@ -1,0 +1,137 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1978", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v39n08_1978-12/Galaxy_v39n08_1978-12_jp2.zip&file=Galaxy_v39n08_1978-12_jp2/Galaxy_v39n08_1978-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/62/GALNOVDEC78.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        874, 
+        875, 
+        860, 
+        849, 
+        876, 
+        863, 
+        877, 
+        734, 
+        843, 
+        844, 
+        856, 
+        864, 
+        878, 
+        879, 
+        880, 
+        40, 
+        302
+    ], 
+    "year": 1978, 
+    "images": [], 
+    "id": 1213, 
+    "contents": [
+        {
+            "author": 874, 
+            "title": "Jem (Part 1 of 5)"
+        }, 
+        {
+            "author": 874, 
+            "title": "Jem (Part 1 of 5) [2]"
+        }, 
+        {
+            "author": 874, 
+            "title": "Jem (Part 1 of 5) [3]"
+        }, 
+        {
+            "author": 874, 
+            "title": "Jem (Part 1 of 5) [4]"
+        }, 
+        {
+            "author": 874, 
+            "title": "Jem (Part 1 of 5) [5]"
+        }, 
+        {
+            "author": 875, 
+            "title": "The Surrogate Mouth"
+        }, 
+        {
+            "author": 875, 
+            "title": "The Surrogate Mouth [2]"
+        }, 
+        {
+            "author": 875, 
+            "title": "The Surrogate Mouth [3]"
+        }, 
+        {
+            "author": 860, 
+            "title": "Unemployment Problem"
+        }, 
+        {
+            "author": 860, 
+            "title": "Unemployment Problem [2]"
+        }, 
+        {
+            "author": 849, 
+            "title": "Click"
+        }, 
+        {
+            "author": 876, 
+            "title": "The Population Explosion at Lake Stover"
+        }, 
+        {
+            "author": 876, 
+            "title": "The Population Explosion at Lake Stover [2]"
+        }, 
+        {
+            "author": 863, 
+            "title": "Two of a Kind"
+        }, 
+        {
+            "author": 877, 
+            "title": "The Wind-Down Toy"
+        }, 
+        {
+            "author": 734, 
+            "title": "The Inevitable Revolution"
+        }, 
+        {
+            "author": 843, 
+            "title": "Galaxy Bookshelf (Galaxy, November-December 1978)"
+        }, 
+        {
+            "author": 844, 
+            "title": "Directions (Galaxy, November-December 1978)"
+        }, 
+        {
+            "author": 856, 
+            "title": "The Surrogate Mouth"
+        }, 
+        {
+            "author": 864, 
+            "title": "Unemployment Problem"
+        }, 
+        {
+            "author": 843, 
+            "title": "Click"
+        }, 
+        {
+            "author": 878, 
+            "title": "The Population Explosion at Lake Stover"
+        }, 
+        {
+            "author": 879, 
+            "title": "Two of a Kind"
+        }, 
+        {
+            "author": 880, 
+            "title": "The Wind-Down Toy"
+        }, 
+        {
+            "author": 40, 
+            "title": "Jem (Part 1 of 5)"
+        }
+    ]
+}

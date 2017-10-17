@@ -1,0 +1,106 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1956", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/Galaxy_v12n06_1956-10/Galaxy_v12n06_1956-10_jp2.zip&file=Galaxy_v12n06_1956-10_jp2/Galaxy_v12n06_1956-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/13/MLO4430.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        419, 
+        499, 
+        494, 
+        497, 
+        305, 
+        339, 
+        483, 
+        56, 
+        385, 
+        243, 
+        441, 
+        217, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1044, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 1 of 4)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 1 of 4) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 1 of 4) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 1 of 4) [4]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Man of Distinction"
+        }, 
+        {
+            "author": 499, 
+            "title": "Problem"
+        }, 
+        {
+            "author": 494, 
+            "title": "George All the Way"
+        }, 
+        {
+            "author": 497, 
+            "title": "Jackpot"
+        }, 
+        {
+            "author": 497, 
+            "title": "Jackpot [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Jackpot [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Why, Back Home ..."
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Animal in the Footnotes"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, October 1956)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Jackpot"
+        }, 
+        {
+            "author": 385, 
+            "title": "The Stars My Destination (Part 1 of 4)"
+        }, 
+        {
+            "author": 243, 
+            "title": "Man of Distinction"
+        }, 
+        {
+            "author": 441, 
+            "title": "Problem"
+        }, 
+        {
+            "author": 217, 
+            "title": "George All the Way"
+        }
+    ]
+}

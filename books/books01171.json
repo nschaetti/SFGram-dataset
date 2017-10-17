@@ -1,0 +1,91 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1974", 
+    "cover": "https://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v34n07_1974-04/Galaxy_v34n07_1974-04_jp2.zip&file=Galaxy_v34n07_1974-04_jp2/Galaxy_v34n07_1974-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b6/GALAPR74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        40, 
+        734, 
+        341, 
+        735, 
+        577, 
+        86, 
+        546, 
+        736, 
+        721, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1171, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Org's Egg (Part 1 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Mindhunt"
+        }, 
+        {
+            "author": 326, 
+            "title": "Skyveil"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Discovery of Earth"
+        }, 
+        {
+            "author": 326, 
+            "title": "Outfielder"
+        }, 
+        {
+            "author": 326, 
+            "title": "Web of Everywhere (Part 2 of 2)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Galaxy Stars (Galaxy, April 1974)"
+        }, 
+        {
+            "author": 734, 
+            "title": "Halfway to Anywhere"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, April 1974)"
+        }, 
+        {
+            "author": 735, 
+            "title": "Mindhunt"
+        }, 
+        {
+            "author": 577, 
+            "title": "Skyveil"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Org's Egg (Part 1 of 3)"
+        }, 
+        {
+            "author": 546, 
+            "title": "Web of Everywhere (Part 2 of 2)"
+        }, 
+        {
+            "author": 736, 
+            "title": "The Discovery of Earth"
+        }, 
+        {
+            "author": 721, 
+            "title": "Outfielder"
+        }
+    ]
+}

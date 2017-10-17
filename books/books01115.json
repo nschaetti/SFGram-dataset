@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1966", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v25n02_1966-12_modified/Galaxy_v25n02_1966-12_modified_jp2.zip&file=Galaxy_v25n02_1966-12_modified_jp2/Galaxy_v25n02_1966-12_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/18/GALDEC66.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        499, 
+        593, 
+        545, 
+        40, 
+        339, 
+        326, 
+        91, 
+        30, 
+        602, 
+        604, 
+        89, 
+        546, 
+        614, 
+        74, 
+        302
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1115, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "Door to Anywhere"
+        }, 
+        {
+            "author": 497, 
+            "title": "Door to Anywhere [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Door to Anywhere [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Door to Anywhere [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Modern Penitentiary"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Modern Penitentiary [2]"
+        }, 
+        {
+            "author": 593, 
+            "title": "At the Bottom of a Hole"
+        }, 
+        {
+            "author": 593, 
+            "title": "At the Bottom of a Hole [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Palace of Love (Part 2 of 3)"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Palace of Love (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Palace of Love (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Cordwainer Smith (Obituary)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Sound of the Meteors"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1966)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, December 1966)"
+        }, 
+        {
+            "author": 30, 
+            "title": "Door to Anywhere"
+        }, 
+        {
+            "author": 602, 
+            "title": "The Modern Penitentiary"
+        }, 
+        {
+            "author": 604, 
+            "title": "At the Bottom of a Hole"
+        }, 
+        {
+            "author": 89, 
+            "title": "The Palace of Love (Part 2 of 3)"
+        }, 
+        {
+            "author": 546, 
+            "title": "Children in Hiding"
+        }, 
+        {
+            "author": 614, 
+            "title": "Decoy System"
+        }, 
+        {
+            "author": 74, 
+            "title": "Primary Education of the Camiroi"
+        }
+    ]
+}

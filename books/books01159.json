@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1972", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v33n02_1972-09/Galaxy_v33n02_1972-09_jp2.zip&file=Galaxy_v33n02_1972-09_jp2/Galaxy_v33n02_1972-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/52/GALSEPOCT72.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        341, 
+        660, 
+        50, 
+        386, 
+        663, 
+        153, 
+        651, 
+        194, 
+        302
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1159, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Power Complex"
+        }, 
+        {
+            "author": 499, 
+            "title": "Changing Woman"
+        }, 
+        {
+            "author": 499, 
+            "title": "True School of Modesty"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Years"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Soul Music of Duckworth's Dibs"
+        }, 
+        {
+            "author": 326, 
+            "title": "Medical Practices Among the Immortals"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dying Inside (Part 2 of 2)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, September-October 1972)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, September-October 1972)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, September-October 1972)"
+        }, 
+        {
+            "author": 660, 
+            "title": "Power Complex"
+        }, 
+        {
+            "author": 50, 
+            "title": "Dying Inside (Part 2 of 2)"
+        }, 
+        {
+            "author": 386, 
+            "title": "Changing Woman"
+        }, 
+        {
+            "author": 663, 
+            "title": "True School of Modesty"
+        }, 
+        {
+            "author": 153, 
+            "title": "The Years"
+        }, 
+        {
+            "author": 651, 
+            "title": "The Soul Music of Duckworth's Dibs"
+        }, 
+        {
+            "author": 194, 
+            "title": "Medical Practices Among the Immortals"
+        }
+    ]
+}

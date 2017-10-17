@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1958", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v16n02_1958-06/Galaxy_v16n02_1958-06_jp2.zip&file=Galaxy_v16n02_1958-06_jp2/Galaxy_v16n02_1958-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/35/MLO4451.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        534, 
+        535, 
+        536, 
+        506, 
+        519, 
+        419, 
+        305, 
+        326, 
+        339, 
+        483, 
+        40, 
+        23, 
+        32, 
+        214, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1064, 
+    "contents": [
+        {
+            "author": 534, 
+            "title": "Mars"
+        }, 
+        {
+            "author": 535, 
+            "title": "Mars"
+        }, 
+        {
+            "author": 536, 
+            "title": "Mars"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Last Letter"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Gentlest Unpeople"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Gentlest Unpeople [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Gentlest Unpeople [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Gun Without a Bang"
+        }, 
+        {
+            "author": 419, 
+            "title": "Perfect Answer"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Minimum Man"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Minimum Man [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Minimum Man [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Worlds to Eat"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1958)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: News of Atlantis"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1958)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Gentlest Unpeople"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Minimum Man"
+        }, 
+        {
+            "author": 32, 
+            "title": "The Last Letter"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Gun Without a Bang"
+        }, 
+        {
+            "author": 214, 
+            "title": "Perfect Answer"
+        }
+    ]
+}

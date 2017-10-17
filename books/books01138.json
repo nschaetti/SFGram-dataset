@@ -1,0 +1,125 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1969", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v29n04_1969-12/Galaxy_v29n04_1969-12_jp2.zip&file=Galaxy_v29n04_1969-12_jp2/Galaxy_v29n04_1969-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c5/GALDEC69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        615, 
+        326, 
+        499, 
+        667, 
+        91, 
+        668, 
+        669, 
+        50, 
+        86, 
+        670, 
+        591, 
+        671, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1138, 
+    "contents": [
+        {
+            "author": 615, 
+            "title": "Editorial: Sunpot"
+        }, 
+        {
+            "author": 326, 
+            "title": "Jamboree"
+        }, 
+        {
+            "author": 326, 
+            "title": "Half Past Human"
+        }, 
+        {
+            "author": 326, 
+            "title": "Half Past Human [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Half Past Human [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Half Past Human [4]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Eternity Calling"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Year of the Good Seed"
+        }, 
+        {
+            "author": 499, 
+            "title": "Downward to the Earth (Part 2 of 4)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Downward to the Earth (Part 2 of 4) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Oracle for a White Rabbit"
+        }, 
+        {
+            "author": 326, 
+            "title": "Horn of Plenty"
+        }, 
+        {
+            "author": 667, 
+            "title": "Sunpot"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, December 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, December 1969) (Circulation: 51,479)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, December 1969)"
+        }, 
+        {
+            "author": 668, 
+            "title": "Oracle for a White Rabbit"
+        }, 
+        {
+            "author": 669, 
+            "title": "Half Past Human"
+        }, 
+        {
+            "author": 50, 
+            "title": "Downward to the Earth (Part 2 of 4)"
+        }, 
+        {
+            "author": 86, 
+            "title": "Jamboree"
+        }, 
+        {
+            "author": 670, 
+            "title": "Eternity Calling"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Year of the Good Seed"
+        }, 
+        {
+            "author": 671, 
+            "title": "Horn of Plenty"
+        }
+    ]
+}

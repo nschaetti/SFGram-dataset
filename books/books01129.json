@@ -1,0 +1,138 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1969", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v27n06_1969-01/Galaxy_v27n06_1969-01_jp2.zip&file=Galaxy_v27n06_1969-01_jp2/Galaxy_v27n06_1969-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e8/GALJAN69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        640, 
+        644, 
+        499, 
+        40, 
+        326, 
+        339, 
+        91, 
+        47, 
+        645, 
+        604, 
+        67, 
+        569, 
+        546, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1129, 
+    "contents": [
+        {
+            "author": 640, 
+            "title": "Foeman, Where Do You Flee?"
+        }, 
+        {
+            "author": 640, 
+            "title": "Foeman, Where Do You Flee? [2]"
+        }, 
+        {
+            "author": 640, 
+            "title": "Foeman, Where Do You Flee? [3]"
+        }, 
+        {
+            "author": 640, 
+            "title": "Foeman, Where Do You Flee? [4]"
+        }, 
+        {
+            "author": 640, 
+            "title": "Foeman, Where Do You Flee? [5]"
+        }, 
+        {
+            "author": 640, 
+            "title": "Foeman, Where Do You Flee? [6]"
+        }, 
+        {
+            "author": 644, 
+            "title": "Parimutuel Planet"
+        }, 
+        {
+            "author": 644, 
+            "title": "Parimutuel Planet [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dunderbird"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dunderbird [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dunderbird [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Organleggers"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Organleggers [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Organleggers [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Tricks and Treats"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, January 1969)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Written Word"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, January 1969) (Circulation:75,300)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, January 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, January 1969)"
+        }, 
+        {
+            "author": 47, 
+            "title": "Foeman, Where Do You Flee?"
+        }, 
+        {
+            "author": 645, 
+            "title": "Parimutuel Planet"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Organleggers"
+        }, 
+        {
+            "author": 67, 
+            "title": "Dunderbird"
+        }, 
+        {
+            "author": 569, 
+            "title": "Welcome Centaurians"
+        }, 
+        {
+            "author": 546, 
+            "title": "The Thing-of-the-Month Clubs"
+        }
+    ]
+}

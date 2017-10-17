@@ -1,0 +1,109 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1969", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v28n06_1969-08_modified/Galaxy_v28n06_1969-08_modified_jp2.zip&file=Galaxy_v28n06_1969-08_modified_jp2/Galaxy_v28n06_1969-08_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/12/GALAUG69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        91, 
+        339, 
+        30, 
+        636, 
+        630, 
+        63, 
+        32, 
+        654, 
+        56, 
+        356, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1135, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The White King's War"
+        }, 
+        {
+            "author": 326, 
+            "title": "Starhunger"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Minus Effect"
+        }, 
+        {
+            "author": 499, 
+            "title": "When They Openly Walk"
+        }, 
+        {
+            "author": 499, 
+            "title": "Life Matter"
+        }, 
+        {
+            "author": 326, 
+            "title": "I Am Crying All Inside"
+        }, 
+        {
+            "author": 326, 
+            "title": "Dune Messiah (Part 2 of 5)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, August 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy Magazine, August 1969)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information (Galaxy Magazine, August 1969)"
+        }, 
+        {
+            "author": 30, 
+            "title": "The White King's War"
+        }, 
+        {
+            "author": 636, 
+            "title": "Starhunger"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Minus Effect"
+        }, 
+        {
+            "author": 63, 
+            "title": "Dune Messiah (Part 2 of 5)"
+        }, 
+        {
+            "author": 32, 
+            "title": "When They Openly Walk"
+        }, 
+        {
+            "author": 654, 
+            "title": "Life Matter"
+        }, 
+        {
+            "author": 56, 
+            "title": "I Am Crying All Inside"
+        }, 
+        {
+            "author": 356, 
+            "title": "Rescue Team"
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I302
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1962
+sS'title'
+p14
+VGalaxy Magazine June 1962
+p15
+sS'cover'
+p16
+Vhttps://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/Galaxy_v20n05_1962-06/Galaxy_v20n05_1962-06_jp2.zip&file=Galaxy_v20n05_1962-06_jp2/Galaxy_v20n05_1962-06_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/a/af/GALJUN1962.jpg'
+p19
+sS'author_name'
+p20
+VGalaxy Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I488
+aI419
+aI573
+aI574
+aI564
+aI499
+aI551
+aI40
+aI339
+aI326
+aI483
+aI91
+aI55
+aI50
+aI196
+aI158
+aI401
+aI74
+aI302
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1090
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I488
+sg14
+VFor Love
+p32
+sa(dp33
+g10
+I419
+sg14
+VThe Lamps of the Angels
+p34
+sa(dp35
+g10
+I573
+sg14
+VOn the Wall of the Lodge
+p36
+sa(dp37
+g10
+I573
+sg14
+VOn the Wall of the Lodge [2]
+p38
+sa(dp39
+g10
+I574
+sg14
+VDawningsburgh
+p40
+sa(dp41
+g10
+I564
+sg14
+VOrigins of Galactic Philosophy
+p42
+sa(dp43
+g10
+I564
+sg14
+VOrigins of Galactic Philosophy [2]
+p44
+sa(dp45
+g10
+I499
+sg14
+VDreamworld
+p46
+sa(dp47
+g10
+I551
+sg14
+VThe Seed of Earth
+p48
+sa(dp49
+g10
+I551
+sg14
+VThe Seed of Earth [2]
+p50
+sa(dp51
+g10
+I551
+sg14
+VThe Seed of Earth [3]
+p52
+sa(dp53
+g10
+I40
+sg14
+VThe Deadly Mission of Phineas Snodgrass
+p54
+sa(dp55
+g10
+I339
+sg14
+VFor Your Information: Names in the Sky
+p56
+sa(dp57
+g10
+I326
+sg14
+VForecast (Galaxy, June 1962)
+p58
+sa(dp59
+g10
+I483
+sg14
+VGalaxy's 5 Star Shelf (Galaxy, June 1962)
+p60
+sa(dp61
+g10
+I91
+sg14
+VFor Love
+p62
+sa(dp63
+g10
+I55
+sg14
+VOn the Wall of the Lodge
+p64
+sa(dp65
+g10
+I50
+sg14
+VThe Seed of Earth
+p66
+sa(dp67
+g10
+I196
+sg14
+VThe Lamps of the Angels
+p68
+sa(dp69
+g10
+I158
+sg14
+VDawningsburgh
+p70
+sa(dp71
+g10
+I401
+sg14
+VOrigins of Galactic Philosophy
+p72
+sa(dp73
+g10
+I74
+sg14
+VDreamworld
+p74
+sasb.

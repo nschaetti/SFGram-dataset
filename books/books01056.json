@@ -1,0 +1,123 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1957", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_v14n06_1957-10/Galaxy_v14n06_1957-10_jp2.zip&file=Galaxy_v14n06_1957-10_jp2/Galaxy_v14n06_1957-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9d/MLO4442.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        506, 
+        419, 
+        305, 
+        326, 
+        339, 
+        483, 
+        521, 
+        522, 
+        23, 
+        3, 
+        40, 
+        220, 
+        315, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1056, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "Wolfbane (Part 1 of 2)"
+        }, 
+        {
+            "author": 519, 
+            "title": "Wolfbane (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Wolfbane (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Share Alike"
+        }, 
+        {
+            "author": 506, 
+            "title": "Double Indemnity"
+        }, 
+        {
+            "author": 506, 
+            "title": "Double Indemnity [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Double Indemnity [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Robots Are Nice?"
+        }, 
+        {
+            "author": 419, 
+            "title": "Ideas Die Hard"
+        }, 
+        {
+            "author": 419, 
+            "title": "Ideas Die Hard [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Richest Planet"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1957)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Hunting Down the Dodo"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, October 1957)"
+        }, 
+        {
+            "author": 521, 
+            "title": "Review of the Nonfiction Work \"the Underwater World\""
+        }, 
+        {
+            "author": 522, 
+            "title": "Review of the Nonfiction Work \"the Pocket Guide to the Underwater World\""
+        }, 
+        {
+            "author": 483, 
+            "title": "Review of the Nonfiction Work \"the Galathea Deep Sea Expedition\""
+        }, 
+        {
+            "author": 23, 
+            "title": "Double Indemnity"
+        }, 
+        {
+            "author": 3, 
+            "title": "Ideas Die Hard"
+        }, 
+        {
+            "author": 40, 
+            "title": "Wolfbane (Part 1 of 2)"
+        }, 
+        {
+            "author": 220, 
+            "title": "Share Alike"
+        }, 
+        {
+            "author": 315, 
+            "title": "Robots Are Nice?"
+        }
+    ]
+}

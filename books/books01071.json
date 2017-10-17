@@ -1,0 +1,128 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1959", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/Galaxy_v17n03_1959-02/Galaxy_v17n03_1959-02_jp2.zip&file=Galaxy_v17n03_1959-02_jp2/Galaxy_v17n03_1959-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b0/GALFEB1959.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        419, 
+        305, 
+        339, 
+        326, 
+        483, 
+        56, 
+        40, 
+        507, 
+        23, 
+        240, 
+        302
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 1071, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "Installment Plan"
+        }, 
+        {
+            "author": 519, 
+            "title": "Installment Plan [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Installment Plan [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Pastoral Affair"
+        }, 
+        {
+            "author": 519, 
+            "title": "I Plinglot - Who You?"
+        }, 
+        {
+            "author": 519, 
+            "title": "I Plinglot - Who You? [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "I Plinglot - Who You? [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Insidekick"
+        }, 
+        {
+            "author": 519, 
+            "title": "Insidekick [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Insidekick [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Forever"
+        }, 
+        {
+            "author": 519, 
+            "title": "Time Killer (Part 4 of 4)"
+        }, 
+        {
+            "author": 519, 
+            "title": "Time Killer (Part 4 of 4) [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Time Killer (Part 4 of 4) [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "What'll It Be?"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Monsters of the Deep"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1959)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, February 1959)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Installment Plan"
+        }, 
+        {
+            "author": 40, 
+            "title": "I Plinglot - Who You?"
+        }, 
+        {
+            "author": 507, 
+            "title": "Insidekick"
+        }, 
+        {
+            "author": 23, 
+            "title": "Time Killer (Part 4 of 4)"
+        }, 
+        {
+            "author": 240, 
+            "title": "Pastoral Affair"
+        }, 
+        {
+            "author": 23, 
+            "title": "Forever"
+        }
+    ]
+}

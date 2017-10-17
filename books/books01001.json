@@ -1,0 +1,127 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1953", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/Galaxy_v05n05_1953-02/Galaxy_v05n05_1953-02_jp2.zip&file=Galaxy_v05n05_1953-02_jp2/Galaxy_v05n05_1953-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b6/GALFEB53.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        402, 
+        363, 
+        424, 
+        342, 
+        305, 
+        326, 
+        339, 
+        340, 
+        204, 
+        23, 
+        56, 
+        91, 
+        341, 
+        425, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1001, 
+    "contents": [
+        {
+            "author": 402, 
+            "title": "Four in One"
+        }, 
+        {
+            "author": 402, 
+            "title": "Four in One [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Four in One [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Protective Mimicry"
+        }, 
+        {
+            "author": 424, 
+            "title": "Saucer of Loneliness"
+        }, 
+        {
+            "author": 363, 
+            "title": "Watchbird"
+        }, 
+        {
+            "author": 363, 
+            "title": "Watchbird [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Watchbird [3]"
+        }, 
+        {
+            "author": 424, 
+            "title": "Know Thy Neighbor"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 3 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Buy Me That!"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1953)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Ice Age (Iii)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, February 1953)"
+        }, 
+        {
+            "author": 204, 
+            "title": "Four in One"
+        }, 
+        {
+            "author": 23, 
+            "title": "Watchbird"
+        }, 
+        {
+            "author": 56, 
+            "title": "Ring Around the Sun (Part 3 of 3)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Protective Mimicry"
+        }, 
+        {
+            "author": 341, 
+            "title": "Saucer of Loneliness"
+        }, 
+        {
+            "author": 425, 
+            "title": "Know Thy Neighbor"
+        }
+    ]
+}

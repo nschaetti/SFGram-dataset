@@ -1,0 +1,128 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1976", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/Galaxy_v37n02_1976-02/Galaxy_v37n02_1976-02_jp2.zip&file=Galaxy_v37n02_1976-02_jp2/Galaxy_v37n02_1976-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/44/GALFEB1976.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        763, 
+        744, 
+        742, 
+        796, 
+        753, 
+        326, 
+        734, 
+        770, 
+        767, 
+        604, 
+        797, 
+        728, 
+        798, 
+        799, 
+        800, 
+        302
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 1190, 
+    "contents": [
+        {
+            "author": 763, 
+            "title": "Down and Out"
+        }, 
+        {
+            "author": 763, 
+            "title": "Down and Out [2]"
+        }, 
+        {
+            "author": 744, 
+            "title": "Only Outlaws and Women"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Phantom of Kansas"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Phantom of Kansas [2]"
+        }, 
+        {
+            "author": 796, 
+            "title": "A Better Time"
+        }, 
+        {
+            "author": 744, 
+            "title": "We Who Are About To... (Part 2 of 2)"
+        }, 
+        {
+            "author": 744, 
+            "title": "We Who Are About To... (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Storymaker"
+        }, 
+        {
+            "author": 742, 
+            "title": "Storymaker [2]"
+        }, 
+        {
+            "author": 753, 
+            "title": "Showcase (Galaxy, February 1976)"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, February 1976)"
+        }, 
+        {
+            "author": 734, 
+            "title": "On Cultures Beyond the Earth"
+        }, 
+        {
+            "author": 770, 
+            "title": "Bookshelf (Galaxy, February 1976)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, February 1976)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, February 1976) (Circulation: 56,361)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, February 1976)"
+        }, 
+        {
+            "author": 604, 
+            "title": "Down and Out"
+        }, 
+        {
+            "author": 797, 
+            "title": "The Phantom of Kansas"
+        }, 
+        {
+            "author": 728, 
+            "title": "We Who Are About to ... (Part 2 of 2)"
+        }, 
+        {
+            "author": 798, 
+            "title": "Only Outlaws and Women"
+        }, 
+        {
+            "author": 799, 
+            "title": "A Better Time"
+        }, 
+        {
+            "author": 800, 
+            "title": "Storymaker"
+        }
+    ]
+}

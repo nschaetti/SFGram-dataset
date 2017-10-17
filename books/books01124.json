@@ -1,0 +1,156 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1968", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/Galaxy_v27n01_1968-08/Galaxy_v27n01_1968-08_jp2.zip&file=Galaxy_v27n01_1968-08_jp2/Galaxy_v27n01_1968-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d8/GALAUG68.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        615, 
+        626, 
+        499, 
+        611, 
+        624, 
+        40, 
+        339, 
+        91, 
+        326, 
+        69, 
+        204, 
+        32, 
+        50, 
+        629, 
+        631, 
+        302
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1124, 
+    "contents": [
+        {
+            "author": 615, 
+            "title": "Among the Bad Baboons"
+        }, 
+        {
+            "author": 615, 
+            "title": "Among the Bad Baboons [2]"
+        }, 
+        {
+            "author": 615, 
+            "title": "Among the Bad Baboons [3]"
+        }, 
+        {
+            "author": 615, 
+            "title": "Among the Bad Baboons [4]"
+        }, 
+        {
+            "author": 626, 
+            "title": "Going Down Smooth"
+        }, 
+        {
+            "author": 626, 
+            "title": "Going Down Smooth [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 2 of 3) [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 2 of 3) [6]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Specter Is Haunting Texas (Part 2 of 3) [7]"
+        }, 
+        {
+            "author": 611, 
+            "title": "The Time Trawlers"
+        }, 
+        {
+            "author": 611, 
+            "title": "The Time Trawlers [2]"
+        }, 
+        {
+            "author": 611, 
+            "title": "The Time Trawlers [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Star Below"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Star Below [2]"
+        }, 
+        {
+            "author": 624, 
+            "title": "Hemeac"
+        }, 
+        {
+            "author": 40, 
+            "title": "Tony Boucher"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: In Australia, the Rain ..."
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, August 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, August 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1968)"
+        }, 
+        {
+            "author": 69, 
+            "title": "Among the Bad Baboons"
+        }, 
+        {
+            "author": 204, 
+            "title": "The Star Below"
+        }, 
+        {
+            "author": 32, 
+            "title": "A Specter Is Haunting Texas (Part 2 of 3)"
+        }, 
+        {
+            "author": 50, 
+            "title": "Going Down Smooth"
+        }, 
+        {
+            "author": 629, 
+            "title": "The Time Trawlers"
+        }, 
+        {
+            "author": 631, 
+            "title": "Hemeac"
+        }
+    ]
+}

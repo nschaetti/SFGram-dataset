@@ -1,0 +1,205 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1968", 
+    "cover": "https://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v27n03_1968-10/Galaxy_v27n03_1968-10_jp2.zip&file=Galaxy_v27n03_1968-10_jp2/Galaxy_v27n03_1968-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/ab/GALOCT68.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        624, 
+        611, 
+        627, 
+        497, 
+        633, 
+        634, 
+        40, 
+        326, 
+        339, 
+        91, 
+        305, 
+        194, 
+        69, 
+        635, 
+        81, 
+        604, 
+        636, 
+        577, 
+        637, 
+        302
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1126, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Villains From Vega Iv"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Villains From Vega Iv [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Villains From Vega Iv [3]"
+        }, 
+        {
+            "author": 624, 
+            "title": "All the Myriad Ways"
+        }, 
+        {
+            "author": 611, 
+            "title": "Thyre Planet"
+        }, 
+        {
+            "author": 611, 
+            "title": "Thyre Planet [2]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Thyre Planet [3]"
+        }, 
+        {
+            "author": 624, 
+            "title": "Homespinner"
+        }, 
+        {
+            "author": 627, 
+            "title": "Criminal in Utopia"
+        }, 
+        {
+            "author": 627, 
+            "title": "Criminal in Utopia [2]"
+        }, 
+        {
+            "author": 627, 
+            "title": "Criminal in Utopia [3]"
+        }, 
+        {
+            "author": 627, 
+            "title": "Criminal in Utopia [4]"
+        }, 
+        {
+            "author": 627, 
+            "title": "Criminal in Utopia [5]"
+        }, 
+        {
+            "author": 497, 
+            "title": "I Bring You Hands"
+        }, 
+        {
+            "author": 497, 
+            "title": "I Bring You Hands [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "I Bring You Hands [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Visit to Cleveland General"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Visit to Cleveland General [2]"
+        }, 
+        {
+            "author": 633, 
+            "title": "The Warbots"
+        }, 
+        {
+            "author": 633, 
+            "title": "The Warbots [2]"
+        }, 
+        {
+            "author": 633, 
+            "title": "The Warbots [3]"
+        }, 
+        {
+            "author": 633, 
+            "title": "The Warbots [4]"
+        }, 
+        {
+            "author": 633, 
+            "title": "The Warbots [5]"
+        }, 
+        {
+            "author": 633, 
+            "title": "The Warbots [6]"
+        }, 
+        {
+            "author": 633, 
+            "title": "The Warbots [7]"
+        }, 
+        {
+            "author": 633, 
+            "title": "The Warbots [8]"
+        }, 
+        {
+            "author": 634, 
+            "title": "Behind the Sandrat Hoax"
+        }, 
+        {
+            "author": 40, 
+            "title": "Majority Rule"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1968)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Orbit of Explorer-1"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, October 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, October 1968)"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Villains From Vega Iv"
+        }, 
+        {
+            "author": 194, 
+            "title": "Thyre Planet"
+        }, 
+        {
+            "author": 69, 
+            "title": "Criminal in Utopia"
+        }, 
+        {
+            "author": 635, 
+            "title": "I Bring You Hands"
+        }, 
+        {
+            "author": 81, 
+            "title": "Behind the Sandrat Hoax"
+        }, 
+        {
+            "author": 604, 
+            "title": "All the Myriad Ways"
+        }, 
+        {
+            "author": 636, 
+            "title": "Homespinner"
+        }, 
+        {
+            "author": 577, 
+            "title": "A Visit to Cleveland General"
+        }, 
+        {
+            "author": 637, 
+            "title": "The Warbots"
+        }
+    ]
+}

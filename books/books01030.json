@@ -1,0 +1,128 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1955", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/Galaxy_v10n04_1955-07/Galaxy_v10n04_1955-07_jp2.zip&file=Galaxy_v10n04_1955-07_jp2/Galaxy_v10n04_1955-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/7d/MLO4381.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        402, 
+        363, 
+        427, 
+        419, 
+        474, 
+        433, 
+        305, 
+        326, 
+        339, 
+        340, 
+        40, 
+        345, 
+        387, 
+        23, 
+        475, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1030, 
+    "contents": [
+        {
+            "author": 402, 
+            "title": "The Mapmakers"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Mapmakers [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Mapmakers [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Spoken For"
+        }, 
+        {
+            "author": 427, 
+            "title": "Property of Venus"
+        }, 
+        {
+            "author": 427, 
+            "title": "Property of Venus [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Property of Venus [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Deadhead"
+        }, 
+        {
+            "author": 474, 
+            "title": "The Amateurs"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 2 of 4)"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 2 of 4) [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 2 of 4) [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Preferred Risk (Part 2 of 4) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "And He Sez"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, July 1955)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Orbital (Unmanned) Satellite Vehicle"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, July 1955)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Mapmakers"
+        }, 
+        {
+            "author": 345, 
+            "title": "Property of Venus"
+        }, 
+        {
+            "author": 40, 
+            "title": "Preferred Risk (Part 2 of 4)"
+        }, 
+        {
+            "author": 387, 
+            "title": "Spoken For"
+        }, 
+        {
+            "author": 23, 
+            "title": "Deadhead"
+        }, 
+        {
+            "author": 475, 
+            "title": "The Amateurs"
+        }
+    ]
+}

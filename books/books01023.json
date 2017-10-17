@@ -1,0 +1,129 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1954", 
+    "cover": "https://ia601303.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/Galaxy_v09n03_1954-12/Galaxy_v09n03_1954-12_jp2.zip&file=Galaxy_v09n03_1954-12_jp2/Galaxy_v09n03_1954-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/5f/MLO4374.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        427, 
+        463, 
+        436, 
+        461, 
+        419, 
+        363, 
+        305, 
+        326, 
+        339, 
+        340, 
+        23, 
+        400, 
+        172, 
+        384, 
+        464, 
+        465, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1023, 
+    "contents": [
+        {
+            "author": 427, 
+            "title": "Skulking Permit"
+        }, 
+        {
+            "author": 427, 
+            "title": "Skulking Permit [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Skulking Permit [3]"
+        }, 
+        {
+            "author": 463, 
+            "title": "Playback"
+        }, 
+        {
+            "author": 436, 
+            "title": "Uncle Tom's Planet"
+        }, 
+        {
+            "author": 461, 
+            "title": "Assignment's End"
+        }, 
+        {
+            "author": 461, 
+            "title": "Assignment's End [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Rough Translation"
+        }, 
+        {
+            "author": 419, 
+            "title": "Joy Ride"
+        }, 
+        {
+            "author": 363, 
+            "title": "Collector's Item"
+        }, 
+        {
+            "author": 363, 
+            "title": "Collector's Item [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Collector's Item [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "All but the Squeal"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1954)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Elements of Khujut Rabu'a and Ctesiphon"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, December 1954)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Skulking Permit"
+        }, 
+        {
+            "author": 400, 
+            "title": "Assignment's End"
+        }, 
+        {
+            "author": 172, 
+            "title": "Collector's Item"
+        }, 
+        {
+            "author": 384, 
+            "title": "Playback"
+        }, 
+        {
+            "author": 23, 
+            "title": "Uncle Tom's Planet"
+        }, 
+        {
+            "author": 464, 
+            "title": "Rough Translation"
+        }, 
+        {
+            "author": 465, 
+            "title": "Joy Ride"
+        }
+    ]
+}

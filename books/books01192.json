@@ -1,0 +1,163 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1976", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/Galaxy_v37n04_1976-05/Galaxy_v37n04_1976-05_jp2.zip&file=Galaxy_v37n04_1976-05_jp2/Galaxy_v37n04_1976-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a8/GALMAY76.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        784, 
+        742, 
+        499, 
+        326, 
+        780, 
+        734, 
+        770, 
+        767, 
+        797, 
+        591, 
+        645, 
+        803, 
+        741, 
+        638, 
+        302
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 1192, 
+    "contents": [
+        {
+            "author": 784, 
+            "title": "Showcase (Galaxy, May 1976)"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Hand of Oberon (Part 1 of 3)"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Hand of Oberon (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Hand of Oberon (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Hand of Oberon (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Beaver Tears"
+        }, 
+        {
+            "author": 499, 
+            "title": "Beaver Tears [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Beaver Tears [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Blueprint for Survival"
+        }, 
+        {
+            "author": 784, 
+            "title": "Hexapedia"
+        }, 
+        {
+            "author": 742, 
+            "title": "Overdrawn at the Memory Bank"
+        }, 
+        {
+            "author": 742, 
+            "title": "Overdrawn at the Memory Bank [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Overdrawn at the Memory Bank [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Opening Night"
+        }, 
+        {
+            "author": 499, 
+            "title": "Opening Night [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Want Ad"
+        }, 
+        {
+            "author": 326, 
+            "title": "Want Ad [2]"
+        }, 
+        {
+            "author": 780, 
+            "title": "Deviation From a Theme"
+        }, 
+        {
+            "author": 742, 
+            "title": "I'm Going Through the Door"
+        }, 
+        {
+            "author": 742, 
+            "title": "I'm Going Through the Door [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, May 1976)"
+        }, 
+        {
+            "author": 734, 
+            "title": "Blueprint for Survival"
+        }, 
+        {
+            "author": 770, 
+            "title": "Bookshelf (Galaxy, May 1976)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, May 1976)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, May 1976)"
+        }, 
+        {
+            "author": 797, 
+            "title": "Overdrawn at the Memory Bank"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Hand of Oberon (Part 1 of 3)"
+        }, 
+        {
+            "author": 645, 
+            "title": "Beaver Tears"
+        }, 
+        {
+            "author": 803, 
+            "title": "Opening Night"
+        }, 
+        {
+            "author": 770, 
+            "title": "Want Ad"
+        }, 
+        {
+            "author": 741, 
+            "title": "Deviation From a Theme"
+        }, 
+        {
+            "author": 638, 
+            "title": "I'm Going Through the Door"
+        }
+    ]
+}

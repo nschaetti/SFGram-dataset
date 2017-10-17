@@ -1,0 +1,140 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1969", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v29n01_1969-09/Galaxy_v29n01_1969-09_jp2.zip&file=Galaxy_v29n01_1969-09_jp2/Galaxy_v29n01_1969-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/ce/GALSEP69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        570, 
+        326, 
+        657, 
+        40, 
+        597, 
+        91, 
+        339, 
+        356, 
+        658, 
+        659, 
+        63, 
+        660, 
+        661, 
+        662, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1136, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Humans, Go Home!"
+        }, 
+        {
+            "author": 499, 
+            "title": "Humans, Go Home! [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Humans, Go Home! [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Humans, Go Home! [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Humans, Go Home! [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Humans, Go Home! [6]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Out of Phase"
+        }, 
+        {
+            "author": 499, 
+            "title": "Out of Phase [2]"
+        }, 
+        {
+            "author": 570, 
+            "title": "Passer"
+        }, 
+        {
+            "author": 326, 
+            "title": "Citadel"
+        }, 
+        {
+            "author": 657, 
+            "title": "Revival Meeting"
+        }, 
+        {
+            "author": 326, 
+            "title": "Dune Messiah (Part 3 of 5)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Credo: Willy Ley: The First Citizen of the Moon"
+        }, 
+        {
+            "author": 40, 
+            "title": "Unnatural Selection"
+        }, 
+        {
+            "author": 597, 
+            "title": "Martians and Venusians"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, September 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, September 1969)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Book Shelf (Galaxy, September 1969)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information (Galaxy, September 1969)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Credo: Willy Ley: The First Citizen of the Moon (Obituary)"
+        }, 
+        {
+            "author": 658, 
+            "title": "Humans, Go Home!"
+        }, 
+        {
+            "author": 659, 
+            "title": "The Martian Surface"
+        }, 
+        {
+            "author": 63, 
+            "title": "Dune Messiah (Part 3 of 5)"
+        }, 
+        {
+            "author": 660, 
+            "title": "Out of Phase"
+        }, 
+        {
+            "author": 661, 
+            "title": "Citadel"
+        }, 
+        {
+            "author": 662, 
+            "title": "Revival Meeting"
+        }
+    ]
+}

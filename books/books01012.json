@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1954", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v07n04_1954-01/Galaxy_v07n04_1954-01_jp2.zip&file=Galaxy_v07n04_1954-01_jp2/Galaxy_v07n04_1954-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f7/MLO4328.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        433, 
+        419, 
+        342, 
+        305, 
+        326, 
+        339, 
+        340, 
+        315, 
+        228, 
+        204, 
+        428, 
+        414, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1012, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Natural State"
+        }, 
+        {
+            "author": 363, 
+            "title": "Natural State [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Natural State [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Natural State [4]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Lulungomeena"
+        }, 
+        {
+            "author": 433, 
+            "title": "Lulungomeena [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "The Big Trip Up Yonder"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Holes Around Mars"
+        }, 
+        {
+            "author": 342, 
+            "title": "Backlash"
+        }, 
+        {
+            "author": 342, 
+            "title": "Backlash [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Backlash [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Moving Day"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, January 1954)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Small Bodies Near Heavy Planets"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, January 1954)"
+        }, 
+        {
+            "author": 315, 
+            "title": "Lulungomeena"
+        }, 
+        {
+            "author": 228, 
+            "title": "Backlash"
+        }, 
+        {
+            "author": 204, 
+            "title": "Natural State"
+        }, 
+        {
+            "author": 428, 
+            "title": "The Big Trip Up Yonder"
+        }, 
+        {
+            "author": 414, 
+            "title": "The Holes Around Mars"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1970", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v29n05_1970-02/Galaxy_v29n05_1970-02_jp2.zip&file=Galaxy_v29n05_1970-02_jp2/Galaxy_v29n05_1970-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f6/GALFEB70.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        672, 
+        615, 
+        91, 
+        673, 
+        341, 
+        630, 
+        50, 
+        662, 
+        674, 
+        302
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1139, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Shaker Revival"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Shaker Revival [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Shaker Revival [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Shaker Revival [4]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Shaker Revival [5]"
+        }, 
+        {
+            "author": 672, 
+            "title": "Slow Sculpture"
+        }, 
+        {
+            "author": 499, 
+            "title": "Sleeping Beauty"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Last Night of the Festival"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Last Night of the Festival [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Downward to the Earth (Part 3 of 4)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Downward to the Earth (Part 3 of 4) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "After They Took the Panama Canal"
+        }, 
+        {
+            "author": 615, 
+            "title": "Sunpot (Part 1 of 4) [2]"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Book Shelf (Galaxy, February 1970)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, February 1970)"
+        }, 
+        {
+            "author": 673, 
+            "title": "The Shaker Revival"
+        }, 
+        {
+            "author": 341, 
+            "title": "Slow Sculpture"
+        }, 
+        {
+            "author": 630, 
+            "title": "Sleeping Beauty"
+        }, 
+        {
+            "author": 50, 
+            "title": "Downward to the Earth (Part 3 of 4)"
+        }, 
+        {
+            "author": 615, 
+            "title": "Sunpot (Part 1 of 4)"
+        }, 
+        {
+            "author": 662, 
+            "title": "The Last Night of the Festival"
+        }, 
+        {
+            "author": 674, 
+            "title": "After They Took the Panama Canal"
+        }
+    ]
+}

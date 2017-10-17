@@ -1,0 +1,192 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1980", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v40n01_1980-07/Galaxy_v40n01_1980-07_jp2.zip&file=Galaxy_v40n01_1980-07_jp2/Galaxy_v40n01_1980-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/data/images/g/galaxy_198007.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        903, 
+        904, 
+        905, 
+        906, 
+        907, 
+        908, 
+        909, 
+        326, 
+        910, 
+        911, 
+        912, 
+        913, 
+        914, 
+        915, 
+        916, 
+        40, 
+        741, 
+        917, 
+        889, 
+        302
+    ], 
+    "year": 1980, 
+    "images": [], 
+    "id": 1217, 
+    "contents": [
+        {
+            "author": 903, 
+            "title": "Famous Events of the Future: The Jovian Sky Party"
+        }, 
+        {
+            "author": 904, 
+            "title": "In the Shubbi Arms"
+        }, 
+        {
+            "author": 905, 
+            "title": "The Colony"
+        }, 
+        {
+            "author": 904, 
+            "title": "The Night Machine"
+        }, 
+        {
+            "author": 906, 
+            "title": "In the Days of the Steam Wars"
+        }, 
+        {
+            "author": 906, 
+            "title": "In the Days of the Steam Wars [2]"
+        }, 
+        {
+            "author": 906, 
+            "title": "In the Days of the Steam Wars [3]"
+        }, 
+        {
+            "author": 906, 
+            "title": "In the Days of the Steam Wars [4]"
+        }, 
+        {
+            "author": 906, 
+            "title": "In the Days of the Steam Wars [5]"
+        }, 
+        {
+            "author": 905, 
+            "title": "Jem"
+        }, 
+        {
+            "author": 907, 
+            "title": "Jem"
+        }, 
+        {
+            "author": 905, 
+            "title": "Mapping the Island in Images"
+        }, 
+        {
+            "author": 908, 
+            "title": "Pages From the Sketchbook of Michael Kaluta"
+        }, 
+        {
+            "author": 908, 
+            "title": "Pages From the Sketchbook of Michael Kaluta [2]"
+        }, 
+        {
+            "author": 908, 
+            "title": "Pages From the Sketchbook of Michael Kaluta [3]"
+        }, 
+        {
+            "author": 908, 
+            "title": "Pages From the Sketchbook of Michael Kaluta [4]"
+        }, 
+        {
+            "author": 908, 
+            "title": "Pages From the Sketchbook of Michael Kaluta [5]"
+        }, 
+        {
+            "author": 904, 
+            "title": "\"Who Knows What Evil Lurks in the Hearts of Men?\""
+        }, 
+        {
+            "author": 909, 
+            "title": "Editorial: Oh, No! They've Changed It!"
+        }, 
+        {
+            "author": 326, 
+            "title": "You'll Never Find It in Galaxy"
+        }, 
+        {
+            "author": 910, 
+            "title": "Son of Calculator and the Electronic Lifestyle"
+        }, 
+        {
+            "author": 911, 
+            "title": "Movers and Shakers"
+        }, 
+        {
+            "author": 911, 
+            "title": "Your Car and Its Computer"
+        }, 
+        {
+            "author": 326, 
+            "title": "Words"
+        }, 
+        {
+            "author": 912, 
+            "title": "If You Don't Talk to Your Stereo, I Will"
+        }, 
+        {
+            "author": 911, 
+            "title": "Defending the Empire: Intelligent Games"
+        }, 
+        {
+            "author": 911, 
+            "title": "Careers"
+        }, 
+        {
+            "author": 913, 
+            "title": "Reviews (Galaxy, July 1980)"
+        }, 
+        {
+            "author": 909, 
+            "title": "Michael Kaluta: Storytelling Fantasy Artist"
+        }, 
+        {
+            "author": 914, 
+            "title": "Potter On Books"
+        }, 
+        {
+            "author": 915, 
+            "title": "Projections"
+        }, 
+        {
+            "author": 916, 
+            "title": "Mapping the Island in Images"
+        }, 
+        {
+            "author": 40, 
+            "title": "Jem (Part 5 of 5)"
+        }, 
+        {
+            "author": 741, 
+            "title": "In the Shubbi Arms"
+        }, 
+        {
+            "author": 917, 
+            "title": "The Colony"
+        }, 
+        {
+            "author": 889, 
+            "title": "The Night Machine"
+        }, 
+        {
+            "author": 914, 
+            "title": "In the Days of the Steam Wars"
+        }, 
+        {
+            "author": 326, 
+            "title": "Famous Events of the Future: The Jovian Sky Party"
+        }
+    ]
+}

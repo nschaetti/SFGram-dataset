@@ -1,0 +1,171 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1959", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/Galaxy_v17n05_1959-06/Galaxy_v17n05_1959-06_jp2.zip&file=Galaxy_v17n05_1959-06_jp2/Galaxy_v17n05_1959-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/55/GALJUN1959.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        506, 
+        504, 
+        419, 
+        305, 
+        326, 
+        339, 
+        483, 
+        514, 
+        384, 
+        40, 
+        217, 
+        64, 
+        220, 
+        302
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 1073, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "Whatever Counts"
+        }, 
+        {
+            "author": 519, 
+            "title": "Whatever Counts [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Whatever Counts [3]"
+        }, 
+        {
+            "author": 519, 
+            "title": "Whatever Counts [4]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Take Wooden Indians"
+        }, 
+        {
+            "author": 506, 
+            "title": "Take Wooden Indians [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Take Wooden Indians [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Traveling Companion Wanted"
+        }, 
+        {
+            "author": 506, 
+            "title": "Traveling Companion Wanted [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Traveling Companion Wanted [3]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Extracts From the Galactik Almanack: Music Around the Universe"
+        }, 
+        {
+            "author": 504, 
+            "title": "Extracts From the Galactik Almanack: Music Around the Universe [2]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Extracts From the Galactik Almanack: Music Around the Universe [3]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Extracts From the Galactik Almanack: Music Around the Universe [4]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Extracts From the Galactik Almanack: Music Around the Universe [5]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Extracts From the Galactik Almanack: Music Around the Universe [6]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Extracts From the Galactik Almanack: Music Around the Universe [7]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Soft Touch"
+        }, 
+        {
+            "author": 419, 
+            "title": "Soft Touch [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Soft Touch [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "No Place for Crime"
+        }, 
+        {
+            "author": 419, 
+            "title": "No Place for Crime [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "No Place for Crime [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Special Delivery"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1959)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Any Questions?"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1959)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Review of the Encyclopedia Americana"
+        }, 
+        {
+            "author": 514, 
+            "title": "Take Wooden Indians"
+        }, 
+        {
+            "author": 384, 
+            "title": "No Place for Crime"
+        }, 
+        {
+            "author": 40, 
+            "title": "Whatever Counts"
+        }, 
+        {
+            "author": 217, 
+            "title": "Traveling Companion Wanted"
+        }, 
+        {
+            "author": 64, 
+            "title": "Extracts From the Galactik Almanack: Music Around the Universe"
+        }, 
+        {
+            "author": 220, 
+            "title": "Soft Touch"
+        }
+    ]
+}

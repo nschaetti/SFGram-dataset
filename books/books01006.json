@@ -1,0 +1,141 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1953", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v06n04_1953-07/Galaxy_v06n04_1953-07_jp2.zip&file=Galaxy_v06n04_1953-07_jp2/Galaxy_v06n04_1953-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d4/MLO4313.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        363, 
+        402, 
+        431, 
+        419, 
+        305, 
+        339, 
+        326, 
+        340, 
+        56, 
+        387, 
+        243, 
+        136, 
+        123, 
+        32, 
+        432, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1006, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "Kindergarten"
+        }, 
+        {
+            "author": 342, 
+            "title": "Kindergarten [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Kindergarten [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Kindergarten [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Caretaker"
+        }, 
+        {
+            "author": 402, 
+            "title": "Home Is the Hunter"
+        }, 
+        {
+            "author": 431, 
+            "title": "The Weather On Mercury"
+        }, 
+        {
+            "author": 431, 
+            "title": "The Weather On Mercury [2]"
+        }, 
+        {
+            "author": 431, 
+            "title": "The Weather On Mercury [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Bad Day for Sales"
+        }, 
+        {
+            "author": 419, 
+            "title": "Green Grew the Lasses"
+        }, 
+        {
+            "author": 363, 
+            "title": "Soldier Boy"
+        }, 
+        {
+            "author": 363, 
+            "title": "Soldier Boy [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Soldier Boy [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Soldier Boy [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Old Laws - New Uses"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Second Trip to Venus"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, July 1953)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, July 1953)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Kindergarten"
+        }, 
+        {
+            "author": 387, 
+            "title": "The Weather On Mercury"
+        }, 
+        {
+            "author": 243, 
+            "title": "Soldier Boy"
+        }, 
+        {
+            "author": 136, 
+            "title": "Caretaker"
+        }, 
+        {
+            "author": 123, 
+            "title": "Home Is the Hunter"
+        }, 
+        {
+            "author": 32, 
+            "title": "A Bad Day for Sales"
+        }, 
+        {
+            "author": 432, 
+            "title": "Green Grew the Lasses"
+        }
+    ]
+}

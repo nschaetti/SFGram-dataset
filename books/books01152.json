@@ -1,0 +1,104 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1971", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v32n01_1971-07/Galaxy_v32n01_1971-07_jp2.zip&file=Galaxy_v32n01_1971-07_jp2/Galaxy_v32n01_1971-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f0/GALJULAUG71.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        667, 
+        326, 
+        91, 
+        50, 
+        684, 
+        86, 
+        74, 
+        687, 
+        697, 
+        651, 
+        302
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1152, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "A Congregation of Vapors"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Moon Children (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Moon Children (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "All but the Words"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Phylogenetic Factor"
+        }, 
+        {
+            "author": 499, 
+            "title": "The S.B. Notations"
+        }, 
+        {
+            "author": 499, 
+            "title": "All the Way Up, All the Way Down"
+        }, 
+        {
+            "author": 499, 
+            "title": "Duckworth and the Sound Probe"
+        }, 
+        {
+            "author": 667, 
+            "title": "Unless We Fear Some Evil"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, July-August 1971)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, July-August 1971)"
+        }, 
+        {
+            "author": 50, 
+            "title": "All the Way Up, All the Way Down"
+        }, 
+        {
+            "author": 684, 
+            "title": "A Congregation of Vapors"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Moon Children (Part 1 of 3)"
+        }, 
+        {
+            "author": 74, 
+            "title": "All but the Words"
+        }, 
+        {
+            "author": 687, 
+            "title": "The Phylogenetic Factor"
+        }, 
+        {
+            "author": 697, 
+            "title": "The S.B. Notations"
+        }, 
+        {
+            "author": 651, 
+            "title": "Duckworth and the Sound Probe"
+        }
+    ]
+}

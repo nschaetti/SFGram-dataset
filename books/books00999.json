@@ -1,0 +1,126 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1952", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v05n03_1952-12/Galaxy_v05n03_1952-12_jp2.zip&file=Galaxy_v05n03_1952-12_jp2/Galaxy_v05n03_1952-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/06/GALDEC1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        363, 
+        417, 
+        402, 
+        305, 
+        339, 
+        326, 
+        340, 
+        3, 
+        56, 
+        203, 
+        418, 
+        23, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 999, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 1 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Ring Around the Sun (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Homesick"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Reluctant Weapon"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Reluctant Weapon [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Reluctant Weapon [3]"
+        }, 
+        {
+            "author": 417, 
+            "title": "The Leech"
+        }, 
+        {
+            "author": 363, 
+            "title": "Cost of Living"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Deep"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Deep [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Deep [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "What's New?"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Cause of the Ice Age"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1952)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, December 1952)"
+        }, 
+        {
+            "author": 3, 
+            "title": "The Deep"
+        }, 
+        {
+            "author": 56, 
+            "title": "Ring Around the Sun (Part 1 of 3)"
+        }, 
+        {
+            "author": 203, 
+            "title": "Homesick"
+        }, 
+        {
+            "author": 418, 
+            "title": "The Reluctant Weapon"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Leech"
+        }, 
+        {
+            "author": 23, 
+            "title": "Cost of Living"
+        }
+    ]
+}

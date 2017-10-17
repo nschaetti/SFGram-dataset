@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1956", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v11n05_1956-03/Galaxy_v11n05_1956-03_jp2.zip&file=Galaxy_v11n05_1956-03_jp2/Galaxy_v11n05_1956-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f6/MLO4387.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        486, 
+        402, 
+        481, 
+        305, 
+        339, 
+        483, 
+        326, 
+        345, 
+        161, 
+        40, 
+        315, 
+        153, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1037, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "A Gun for Dinosaur"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Gun for Dinosaur [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Gun for Dinosaur [3]"
+        }, 
+        {
+            "author": 486, 
+            "title": "Flat Tiger"
+        }, 
+        {
+            "author": 402, 
+            "title": "Tsylana"
+        }, 
+        {
+            "author": 402, 
+            "title": "Tsylana [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Tsylana [3]"
+        }, 
+        {
+            "author": 481, 
+            "title": "Little Red Schoolhouse"
+        }, 
+        {
+            "author": 363, 
+            "title": "Slave Ship (Part 1 of 3)"
+        }, 
+        {
+            "author": 363, 
+            "title": "Slave Ship (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Slave Ship (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Slave Ship (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Look Now!"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Hollow Earth"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, March 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, March 1956)"
+        }, 
+        {
+            "author": 345, 
+            "title": "A Gun for Dinosaur"
+        }, 
+        {
+            "author": 161, 
+            "title": "Tsylana"
+        }, 
+        {
+            "author": 40, 
+            "title": "Slave Ship (Part 1 of 3)"
+        }, 
+        {
+            "author": 315, 
+            "title": "Flat Tiger"
+        }, 
+        {
+            "author": 153, 
+            "title": "Little Red Schoolhouse"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1976", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v37n03_1976-03_modified/Galaxy_v37n03_1976-03_modified_jp2.zip&file=Galaxy_v37n03_1976-03_modified_jp2/Galaxy_v37n03_1976-03_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/2a/GALMAR1976.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        744, 
+        801, 
+        793, 
+        764, 
+        734, 
+        767, 
+        770, 
+        326, 
+        794, 
+        748, 
+        561, 
+        802, 
+        302
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 1191, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "Plutonium"
+        }, 
+        {
+            "author": 742, 
+            "title": "Plutonium [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Plutonium [3]"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Second Soul"
+        }, 
+        {
+            "author": 744, 
+            "title": "Birthdays"
+        }, 
+        {
+            "author": 744, 
+            "title": "Birthdays [2]"
+        }, 
+        {
+            "author": 744, 
+            "title": "Birthdays [3]"
+        }, 
+        {
+            "author": 801, 
+            "title": "Showcase: Space: 1492"
+        }, 
+        {
+            "author": 793, 
+            "title": "Hunger On the Homestretch"
+        }, 
+        {
+            "author": 793, 
+            "title": "Hunger On the Homestretch [2]"
+        }, 
+        {
+            "author": 793, 
+            "title": "Hunger On the Homestretch [3]"
+        }, 
+        {
+            "author": 764, 
+            "title": "Our Under-Achieving Universe"
+        }, 
+        {
+            "author": 734, 
+            "title": "Survival with Style"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, March 1976)"
+        }, 
+        {
+            "author": 770, 
+            "title": "Bookshelf (Galaxy, March 1976)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, March 1976)"
+        }, 
+        {
+            "author": 794, 
+            "title": "Hunger On the Homestretch"
+        }, 
+        {
+            "author": 748, 
+            "title": "Plutonium"
+        }, 
+        {
+            "author": 561, 
+            "title": "Birthdays"
+        }, 
+        {
+            "author": 802, 
+            "title": "The Second Soul"
+        }
+    ]
+}

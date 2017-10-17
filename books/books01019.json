@@ -1,0 +1,133 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1954", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v08n05_1954-08/Galaxy_v08n05_1954-08_jp2.zip&file=Galaxy_v08n05_1954-08_jp2/Galaxy_v08n05_1954-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/7d/MLO4335.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        402, 
+        433, 
+        419, 
+        454, 
+        452, 
+        363, 
+        305, 
+        455, 
+        340, 
+        326, 
+        98, 
+        393, 
+        434, 
+        40, 
+        23, 
+        443, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1019, 
+    "contents": [
+        {
+            "author": 402, 
+            "title": "Party of the Two Parts"
+        }, 
+        {
+            "author": 402, 
+            "title": "Party of the Two Parts [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Party of the Two Parts [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Subsistence Level"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Impossible Voyage Home"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Impossible Voyage Home [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Impossible Voyage Home [3]"
+        }, 
+        {
+            "author": 454, 
+            "title": "Invasion Report"
+        }, 
+        {
+            "author": 452, 
+            "title": "The Departed"
+        }, 
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 3 of 3)"
+        }, 
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 3 of 3) [5]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Superwhat?"
+        }, 
+        {
+            "author": 455, 
+            "title": "For Your Information: Mail"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1954)"
+        }, 
+        {
+            "author": 98, 
+            "title": "Party of the Two Parts"
+        }, 
+        {
+            "author": 393, 
+            "title": "The Impossible Voyage Home"
+        }, 
+        {
+            "author": 434, 
+            "title": "Invasion Report"
+        }, 
+        {
+            "author": 40, 
+            "title": "Gladiator at Law (Part 3 of 3)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Subsistence Level"
+        }, 
+        {
+            "author": 443, 
+            "title": "The Departed"
+        }
+    ]
+}

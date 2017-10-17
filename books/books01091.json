@@ -1,0 +1,134 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1962", 
+    "cover": "https://ia601003.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v20n06_1962-08/Galaxy_v20n06_1962-08_jp2.zip&file=Galaxy_v20n06_1962-08_jp2/Galaxy_v20n06_1962-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a1/GALAUG1962.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        568, 
+        560, 
+        40, 
+        326, 
+        339, 
+        95, 
+        483, 
+        575, 
+        89, 
+        229, 
+        205, 
+        142, 
+        302
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1091, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Dragon Masters"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dragon Masters [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dragon Masters [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dragon Masters [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dragon Masters [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dragon Masters [6]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dragon Masters [7]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dragon Masters [8]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dragon Masters [9]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dragon Masters [10]"
+        }, 
+        {
+            "author": 568, 
+            "title": "A Matter of Protocol"
+        }, 
+        {
+            "author": 560, 
+            "title": "Always a Qurono"
+        }, 
+        {
+            "author": 560, 
+            "title": "One Race Show"
+        }, 
+        {
+            "author": 560, 
+            "title": "One Race Show [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Which Way Is Progress?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1962)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Rotating Luminous Wheels in the Sea"
+        }, 
+        {
+            "author": 95, 
+            "title": "The Luck of Magnitudes"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1962)"
+        }, 
+        {
+            "author": 575, 
+            "title": "One Race Show"
+        }, 
+        {
+            "author": 89, 
+            "title": "The Dragon Masters"
+        }, 
+        {
+            "author": 229, 
+            "title": "Handyman"
+        }, 
+        {
+            "author": 205, 
+            "title": "A Matter of Protocol"
+        }, 
+        {
+            "author": 40, 
+            "title": "Three Portraits and a Prayer"
+        }, 
+        {
+            "author": 142, 
+            "title": "Always a Qurono"
+        }
+    ]
+}

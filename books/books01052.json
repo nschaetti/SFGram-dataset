@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1957", 
+    "cover": "https://ia800206.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/Galaxy_v14n02_1957-06/Galaxy_v14n02_1957-06_jp2.zip&file=Galaxy_v14n02_1957-06_jp2/Galaxy_v14n02_1957-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/57/MLO4438.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        504, 
+        510, 
+        419, 
+        511, 
+        512, 
+        305, 
+        339, 
+        483, 
+        326, 
+        56, 
+        172, 
+        142, 
+        441, 
+        498, 
+        220, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1052, 
+    "contents": [
+        {
+            "author": 504, 
+            "title": "Lulu"
+        }, 
+        {
+            "author": 504, 
+            "title": "Lulu [2]"
+        }, 
+        {
+            "author": 504, 
+            "title": "Lulu [3]"
+        }, 
+        {
+            "author": 510, 
+            "title": "Prime Difference"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Hardest Bargain"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Hardest Bargain [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Hardest Bargain [3]"
+        }, 
+        {
+            "author": 511, 
+            "title": "Leading Man"
+        }, 
+        {
+            "author": 419, 
+            "title": "Shock Troop"
+        }, 
+        {
+            "author": 512, 
+            "title": "Confidence Game"
+        }, 
+        {
+            "author": 512, 
+            "title": "Confidence Game [2]"
+        }, 
+        {
+            "author": 512, 
+            "title": "Confidence Game [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Postscript"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Tribes of the Dinosaurs"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1957)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Lulu"
+        }, 
+        {
+            "author": 172, 
+            "title": "The Hardest Bargain"
+        }, 
+        {
+            "author": 142, 
+            "title": "Confidence Game"
+        }, 
+        {
+            "author": 441, 
+            "title": "Prime Difference"
+        }, 
+        {
+            "author": 498, 
+            "title": "Leading Man"
+        }, 
+        {
+            "author": 220, 
+            "title": "Shock Troop"
+        }
+    ]
+}

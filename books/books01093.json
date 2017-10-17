@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1962", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v21n02_1962.12/Galaxy_v21n02_1962.12_jp2.zip&file=Galaxy_v21n02_1962.12_jp2/Galaxy_v21n02_1962.12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e4/GALDEC1962.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        499, 
+        578, 
+        560, 
+        40, 
+        326, 
+        579, 
+        339, 
+        483, 
+        32, 
+        194, 
+        514, 
+        229, 
+        74, 
+        215, 
+        302
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1093, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "The Creature From Cleveland Depths"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Creature From Cleveland Depths [2]"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Creature From Cleveland Depths [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dr. Morris Goldpepper Returns"
+        }, 
+        {
+            "author": 578, 
+            "title": "General Max Shorter"
+        }, 
+        {
+            "author": 560, 
+            "title": "Sodom and Gomorrah, Texas"
+        }, 
+        {
+            "author": 560, 
+            "title": "Plague of Pythons (Part 2 of 2)"
+        }, 
+        {
+            "author": 560, 
+            "title": "Plague of Pythons (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Plague of Pythons (Part 2 of 2) [3]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Plague of Pythons (Part 2 of 2) [4]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Opportunity Knocked - but No One Was Home"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1962)"
+        }, 
+        {
+            "author": 579, 
+            "title": "Pluto, Doorway to the Stars"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Are We Going to Build a Space Station?"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, December 1962)"
+        }, 
+        {
+            "author": 32, 
+            "title": "The Creature From Cleveland Depths"
+        }, 
+        {
+            "author": 194, 
+            "title": "General Max Shorter"
+        }, 
+        {
+            "author": 40, 
+            "title": "Plague of Pythons (Part 2 of 2)"
+        }, 
+        {
+            "author": 514, 
+            "title": "Dr. Morris Goldpepper Returns"
+        }, 
+        {
+            "author": 229, 
+            "title": "Droozle"
+        }, 
+        {
+            "author": 74, 
+            "title": "Sodom and Gomorrah, Texas"
+        }, 
+        {
+            "author": 215, 
+            "title": "The Glory of Ippling"
+        }
+    ]
+}

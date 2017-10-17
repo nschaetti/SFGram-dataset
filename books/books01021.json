@@ -1,0 +1,136 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1954", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v09n01_1954-10/Galaxy_v09n01_1954-10_jp2.zip&file=Galaxy_v09n01_1954-10_jp2/Galaxy_v09n01_1954-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a4/MLO4372.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        433, 
+        436, 
+        363, 
+        454, 
+        456, 
+        305, 
+        326, 
+        339, 
+        340, 
+        8, 
+        384, 
+        23, 
+        56, 
+        24, 
+        220, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1021, 
+    "contents": [
+        {
+            "author": 433, 
+            "title": "A World of Talent"
+        }, 
+        {
+            "author": 433, 
+            "title": "A World of Talent [2]"
+        }, 
+        {
+            "author": 433, 
+            "title": "A World of Talent [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "A World of Talent [4]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Ghost V"
+        }, 
+        {
+            "author": 436, 
+            "title": "Idiot's Crusade"
+        }, 
+        {
+            "author": 363, 
+            "title": "Cartoon: No Caption (Spaceman Hitchhiking On an Asteroid)"
+        }, 
+        {
+            "author": 454, 
+            "title": "$1,000 a Plate"
+        }, 
+        {
+            "author": 436, 
+            "title": "Jebaburba"
+        }, 
+        {
+            "author": 436, 
+            "title": "Jebaburba [2]"
+        }, 
+        {
+            "author": 456, 
+            "title": "Spy"
+        }, 
+        {
+            "author": 456, 
+            "title": "Spy [2]"
+        }, 
+        {
+            "author": 456, 
+            "title": "Spy [3]"
+        }, 
+        {
+            "author": 456, 
+            "title": "Spy [4]"
+        }, 
+        {
+            "author": 456, 
+            "title": "Spy [5]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Take My Word"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1954)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Oldest \"Prediction\""
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, October 1954)"
+        }, 
+        {
+            "author": 8, 
+            "title": "A World of Talent"
+        }, 
+        {
+            "author": 384, 
+            "title": "Spy"
+        }, 
+        {
+            "author": 23, 
+            "title": "Ghost V"
+        }, 
+        {
+            "author": 56, 
+            "title": "Idiot's Crusade"
+        }, 
+        {
+            "author": 24, 
+            "title": "$1,000 a Plate"
+        }, 
+        {
+            "author": 220, 
+            "title": "Jebaburba"
+        }
+    ]
+}

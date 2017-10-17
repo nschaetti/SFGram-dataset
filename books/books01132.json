@@ -1,0 +1,131 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1969", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/Galaxy_v28n03_1969-04/Galaxy_v28n03_1969-04_jp2.zip&file=Galaxy_v28n03_1969-04_jp2/Galaxy_v28n03_1969-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/15/GALAPR69.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        611, 
+        640, 
+        649, 
+        499, 
+        40, 
+        91, 
+        326, 
+        339, 
+        56, 
+        161, 
+        67, 
+        645, 
+        45, 
+        254, 
+        302
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1132, 
+    "contents": [
+        {
+            "author": 611, 
+            "title": "Witch Hunt"
+        }, 
+        {
+            "author": 611, 
+            "title": "Witch Hunt [2]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Witch Hunt [3]"
+        }, 
+        {
+            "author": 640, 
+            "title": "How Like a God"
+        }, 
+        {
+            "author": 640, 
+            "title": "How Like a God [2]"
+        }, 
+        {
+            "author": 640, 
+            "title": "How Like a God [3]"
+        }, 
+        {
+            "author": 649, 
+            "title": "Buckets of Diamonds"
+        }, 
+        {
+            "author": 649, 
+            "title": "Buckets of Diamonds [2]"
+        }, 
+        {
+            "author": 649, 
+            "title": "Buckets of Diamonds [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "And Now They Wake (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Prometheus Project"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, April 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1969)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Drowned Civilization"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, April 1969)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Buckets of Diamonds"
+        }, 
+        {
+            "author": 161, 
+            "title": "Witch Hunt"
+        }, 
+        {
+            "author": 67, 
+            "title": "And Now They Wake (Part 2 of 3)"
+        }, 
+        {
+            "author": 645, 
+            "title": "Beam Us Home"
+        }, 
+        {
+            "author": 45, 
+            "title": "How Like a God"
+        }, 
+        {
+            "author": 254, 
+            "title": "Slave to Man"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1952", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v05n01_1952-10/Galaxy_v05n01_1952-10_jp2.zip&file=Galaxy_v05n01_1952-10_jp2/Galaxy_v05n01_1952-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/46/GALOCT1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        405, 
+        406, 
+        407, 
+        408, 
+        409, 
+        410, 
+        402, 
+        342, 
+        363, 
+        411, 
+        336, 
+        412, 
+        305, 
+        339, 
+        340, 
+        70, 
+        413, 
+        414, 
+        24, 
+        289, 
+        137, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 997, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Galaxy's Birthday Party"
+        }, 
+        {
+            "author": 405, 
+            "title": "Ba"
+        }, 
+        {
+            "author": 406, 
+            "title": "Ba"
+        }, 
+        {
+            "author": 407, 
+            "title": "Ba"
+        }, 
+        {
+            "author": 408, 
+            "title": "Ba"
+        }, 
+        {
+            "author": 409, 
+            "title": "Ba"
+        }, 
+        {
+            "author": 410, 
+            "title": "Ba"
+        }, 
+        {
+            "author": 402, 
+            "title": "Zen"
+        }, 
+        {
+            "author": 342, 
+            "title": "Wait for Weight"
+        }, 
+        {
+            "author": 363, 
+            "title": "Halo"
+        }, 
+        {
+            "author": 363, 
+            "title": "Halo [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Halo [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Halo [4]"
+        }, 
+        {
+            "author": 411, 
+            "title": "Tree, Spare That Woodman"
+        }, 
+        {
+            "author": 336, 
+            "title": "Game for Blondes"
+        }, 
+        {
+            "author": 412, 
+            "title": "A Little Oil ..."
+        }, 
+        {
+            "author": 412, 
+            "title": "A Little Oil ... [2]"
+        }, 
+        {
+            "author": 412, 
+            "title": "A Little Oil ... [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Annual Report to Our Readers"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The World of 2052"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, October 1952)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1952)"
+        }, 
+        {
+            "author": 70, 
+            "title": "Halo"
+        }, 
+        {
+            "author": 413, 
+            "title": "A Little Oil ..."
+        }, 
+        {
+            "author": 414, 
+            "title": "Zen"
+        }, 
+        {
+            "author": 24, 
+            "title": "Wait for Weight"
+        }, 
+        {
+            "author": 289, 
+            "title": "Tree, Spare That Woodman"
+        }, 
+        {
+            "author": 137, 
+            "title": "Game for Blondes"
+        }
+    ]
+}

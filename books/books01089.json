@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1962", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/Galaxy_v20n04_1962-04/Galaxy_v20n04_1962-04_jp2.zip&file=Galaxy_v20n04_1962-04_jp2/Galaxy_v20n04_1962-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/51/GALAPR1962.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        419, 
+        560, 
+        570, 
+        571, 
+        565, 
+        339, 
+        326, 
+        86, 
+        507, 
+        514, 
+        554, 
+        572, 
+        179, 
+        542, 
+        302
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1089, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "A Planet for Plundering"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Planet for Plundering [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Tail-Tied Kings"
+        }, 
+        {
+            "author": 560, 
+            "title": "Star-Crossed Lover"
+        }, 
+        {
+            "author": 570, 
+            "title": "Big Ba"
+        }, 
+        {
+            "author": 571, 
+            "title": "Big Ba"
+        }, 
+        {
+            "author": 560, 
+            "title": "Founding Father"
+        }, 
+        {
+            "author": 560, 
+            "title": "Founding Father [2]"
+        }, 
+        {
+            "author": 560, 
+            "title": "Founding Father [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Moon Dog"
+        }, 
+        {
+            "author": 565, 
+            "title": "Footnotes Up Front"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The Shape of Shells to Come"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, April 1962) (Circulation: 91,000)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1962)"
+        }, 
+        {
+            "author": 86, 
+            "title": "A Planet for Plundering"
+        }, 
+        {
+            "author": 507, 
+            "title": "Founding Father"
+        }, 
+        {
+            "author": 514, 
+            "title": "The Tail-Tied Kings"
+        }, 
+        {
+            "author": 554, 
+            "title": "Star-Crossed Lover"
+        }, 
+        {
+            "author": 572, 
+            "title": "The Long, Silvery Day"
+        }, 
+        {
+            "author": 179, 
+            "title": "Gourmet"
+        }, 
+        {
+            "author": 542, 
+            "title": "Moon Dog"
+        }
+    ]
+}

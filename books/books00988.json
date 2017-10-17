@@ -1,0 +1,133 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1952", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/Galaxy_v03n04_1952-01/Galaxy_v03n04_1952-01_jp2.zip&file=Galaxy_v03n04_1952-01_jp2/Galaxy_v03n04_1952-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/18/GALJAN1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        336, 
+        363, 
+        367, 
+        305, 
+        340, 
+        354, 
+        384, 
+        385, 
+        386, 
+        237, 
+        387, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 988, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "The Demolished Man (Part 1 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Demolished Man (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Demolished Man (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Demolished Man (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Demolished Man (Part 1 of 3) [5]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Dead End"
+        }, 
+        {
+            "author": 336, 
+            "title": "Dead End [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Girls From Earth"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Girls From Earth [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Girls From Earth [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Girls From Earth [4]"
+        }, 
+        {
+            "author": 367, 
+            "title": "The Furious Rose"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Addicts"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Addicts [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Hallucination Orbit"
+        }, 
+        {
+            "author": 342, 
+            "title": "Hallucination Orbit [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Hallucination Orbit [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Gloom &Amp; Doom"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, January 1952)"
+        }, 
+        {
+            "author": 354, 
+            "title": "The Girls From Earth"
+        }, 
+        {
+            "author": 384, 
+            "title": "Hallucination Orbit"
+        }, 
+        {
+            "author": 385, 
+            "title": "The Demolished Man (Part 1 of 3)"
+        }, 
+        {
+            "author": 386, 
+            "title": "Dead End"
+        }, 
+        {
+            "author": 237, 
+            "title": "The Furious Rose"
+        }, 
+        {
+            "author": 387, 
+            "title": "The Addicts"
+        }
+    ]
+}

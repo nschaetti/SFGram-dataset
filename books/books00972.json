@@ -1,0 +1,111 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1995", 
+    "cover": "https://ia801309.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/Galaxy_2nd_Series_v02n01_1995-01/Galaxy_2nd_Series_v02n01_1995-01_jp2.zip&file=Galaxy_2nd_Series_v02n01_1995-01_jp2/Galaxy_2nd_Series_v02n01_1995-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/data/images/g/galaxy_199501-02.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        303, 
+        313, 
+        314, 
+        23, 
+        50, 
+        315, 
+        316, 
+        317, 
+        318, 
+        319, 
+        320, 
+        63, 
+        321, 
+        322, 
+        323, 
+        324, 
+        325, 
+        312, 
+        302
+    ], 
+    "year": 1995, 
+    "images": [], 
+    "id": 972, 
+    "contents": [
+        {
+            "author": 303, 
+            "title": "Editorial (Galaxy, #7)"
+        }, 
+        {
+            "author": 313, 
+            "title": "My Life Among the Stars: Balance of Terror (Galaxy, #7)"
+        }, 
+        {
+            "author": 314, 
+            "title": "For Your Information (Galaxy, #7)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Seven Soup Rivers"
+        }, 
+        {
+            "author": 50, 
+            "title": "Mugwump Four"
+        }, 
+        {
+            "author": 315, 
+            "title": "Lulungomeena"
+        }, 
+        {
+            "author": 316, 
+            "title": "Support Unlimited"
+        }, 
+        {
+            "author": 317, 
+            "title": "Midnight Pearls Blue"
+        }, 
+        {
+            "author": 318, 
+            "title": "Thoroughly Modern Magic"
+        }, 
+        {
+            "author": 319, 
+            "title": "This Space for Rent"
+        }, 
+        {
+            "author": 320, 
+            "title": "The Temptation of Harringay"
+        }, 
+        {
+            "author": 63, 
+            "title": "Old Rambling House"
+        }, 
+        {
+            "author": 321, 
+            "title": "Songs of the Soul"
+        }, 
+        {
+            "author": 322, 
+            "title": "The Client From Hell"
+        }, 
+        {
+            "author": 323, 
+            "title": "Just Rubberface and Me"
+        }, 
+        {
+            "author": 324, 
+            "title": "The Greatest Loss"
+        }, 
+        {
+            "author": 325, 
+            "title": "Coke Bottle Lenses"
+        }, 
+        {
+            "author": 312, 
+            "title": "The Dead-End"
+        }
+    ]
+}

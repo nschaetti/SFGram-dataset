@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1979", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/Galaxy_v39n11_1979-10/Galaxy_v39n11_1979-10_jp2.zip&file=Galaxy_v39n11_1979-10_jp2/Galaxy_v39n11_1979-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/1e/GALSEPOCT79.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        898, 
+        890, 
+        899, 
+        326, 
+        312, 
+        893, 
+        900, 
+        691, 
+        901, 
+        854, 
+        40, 
+        902, 
+        596, 
+        302
+    ], 
+    "year": 1979, 
+    "images": [], 
+    "id": 1216, 
+    "contents": [
+        {
+            "author": 898, 
+            "title": "The Invasion of America"
+        }, 
+        {
+            "author": 890, 
+            "title": "Star Warriors (Part 2 of 2)"
+        }, 
+        {
+            "author": 890, 
+            "title": "Star Warriors (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 890, 
+            "title": "Star Warriors (Part 2 of 2) [3]"
+        }, 
+        {
+            "author": 899, 
+            "title": "A Beast for Norn"
+        }, 
+        {
+            "author": 899, 
+            "title": "A Beast for Norn [2]"
+        }, 
+        {
+            "author": 899, 
+            "title": "A Beast for Norn [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Jem (Part 4 of 5)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Jem (Part 4 of 5) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Jem (Part 4 of 5) [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Jem (Part 4 of 5) [4]"
+        }, 
+        {
+            "author": 312, 
+            "title": "Editorial (Galaxy, September-October 1979)"
+        }, 
+        {
+            "author": 893, 
+            "title": "Science Fiction Hotline (Galaxy, September-October 1979)"
+        }, 
+        {
+            "author": 900, 
+            "title": "Interface/Interspace"
+        }, 
+        {
+            "author": 691, 
+            "title": "A Beast for Norn"
+        }, 
+        {
+            "author": 901, 
+            "title": "The Invasion of America"
+        }, 
+        {
+            "author": 854, 
+            "title": "Star Warriors (Part 2 of 2)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Jem (Part 4 of 5)"
+        }, 
+        {
+            "author": 902, 
+            "title": "The Depression of 1980"
+        }, 
+        {
+            "author": 596, 
+            "title": "A Little Girl's Spring Day in Moderan"
+        }
+    ]
+}

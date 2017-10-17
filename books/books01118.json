@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1967", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v25n05_1967-06_modified/Galaxy_v25n05_1967-06_modified_jp2.zip&file=Galaxy_v25n05_1967-06_modified_jp2/Galaxy_v25n05_1967-06_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e2/GALJUN67.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        476, 
+        497, 
+        40, 
+        339, 
+        326, 
+        91, 
+        111, 
+        604, 
+        30, 
+        618, 
+        74, 
+        591, 
+        142, 
+        121, 
+        302
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1118, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "To Outlive Eternity (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "To Outlive Eternity (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "To Outlive Eternity (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 476, 
+            "title": "Spare That Tree"
+        }, 
+        {
+            "author": 476, 
+            "title": "Spare That Tree [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Adults"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Adults [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Adults [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Adults [4]"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Dismal Science"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Another Look at Atlantis"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1967)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, June 1967)"
+        }, 
+        {
+            "author": 111, 
+            "title": "Spare That Tree"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Adults"
+        }, 
+        {
+            "author": 30, 
+            "title": "To Outlive Eternity (Part 1 of 2)"
+        }, 
+        {
+            "author": 618, 
+            "title": "Mirror of Ice"
+        }, 
+        {
+            "author": 74, 
+            "title": "Polity and Custom of the Camiroi"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Man Who Loved the Faioli"
+        }, 
+        {
+            "author": 142, 
+            "title": "Howling Day"
+        }, 
+        {
+            "author": 121, 
+            "title": "Alien's Bequest"
+        }
+    ]
+}

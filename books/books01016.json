@@ -1,0 +1,130 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1954", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/Galaxy_v08n02_1954-05/Galaxy_v08n02_1954-05_jp2.zip&file=Galaxy_v08n02_1954-05_jp2/Galaxy_v08n02_1954-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/dc/MLO4332.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        448, 
+        431, 
+        402, 
+        305, 
+        339, 
+        340, 
+        326, 
+        228, 
+        161, 
+        387, 
+        341, 
+        217, 
+        440, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1016, 
+    "contents": [
+        {
+            "author": 448, 
+            "title": "Granny Won't Knit"
+        }, 
+        {
+            "author": 448, 
+            "title": "Granny Won't Knit [2]"
+        }, 
+        {
+            "author": 448, 
+            "title": "Granny Won't Knit [3]"
+        }, 
+        {
+            "author": 448, 
+            "title": "Granny Won't Knit [4]"
+        }, 
+        {
+            "author": 431, 
+            "title": "Back to Julie"
+        }, 
+        {
+            "author": 402, 
+            "title": "Mate in Two Moves"
+        }, 
+        {
+            "author": 402, 
+            "title": "Mate in Two Moves [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Mate in Two Moves [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Open Warfare"
+        }, 
+        {
+            "author": 402, 
+            "title": "Open Warfare [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Open Warfare [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Chain of Command"
+        }, 
+        {
+            "author": 431, 
+            "title": "Bedside Manner"
+        }, 
+        {
+            "author": 431, 
+            "title": "Bedside Manner [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Ready, Aim - Extrapolate!"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Top of the World"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, May 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, May 1954)"
+        }, 
+        {
+            "author": 228, 
+            "title": "Mate in Two Moves"
+        }, 
+        {
+            "author": 161, 
+            "title": "Open Warfare"
+        }, 
+        {
+            "author": 387, 
+            "title": "Bedside Manner"
+        }, 
+        {
+            "author": 341, 
+            "title": "Granny Won't Knit"
+        }, 
+        {
+            "author": 217, 
+            "title": "Back to Julie"
+        }, 
+        {
+            "author": 440, 
+            "title": "Chain of Command"
+        }
+    ]
+}

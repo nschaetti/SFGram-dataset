@@ -1,0 +1,155 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1960", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/Galaxy_v18n05_1960-06/Galaxy_v18n05_1960-06_jp2.zip&file=Galaxy_v18n05_1960-06_jp2/Galaxy_v18n05_1960-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/af/GALJUN1960.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        506, 
+        519, 
+        419, 
+        553, 
+        305, 
+        326, 
+        339, 
+        483, 
+        446, 
+        554, 
+        40, 
+        214, 
+        132, 
+        205, 
+        121, 
+        58, 
+        555, 
+        302
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1079, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Drunkard's Walk (Part 1 of 2)"
+        }, 
+        {
+            "author": 363, 
+            "title": "Drunkard's Walk (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Drunkard's Walk (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Upstarts"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Good Neighbors"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Dope On Mars"
+        }, 
+        {
+            "author": 419, 
+            "title": "Transstar"
+        }, 
+        {
+            "author": 419, 
+            "title": "Transstar [2]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Transstar [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Transstar [4]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Monkey On His Back"
+        }, 
+        {
+            "author": 553, 
+            "title": "Earthmen Bearing Gifts"
+        }, 
+        {
+            "author": 506, 
+            "title": "Idea Man"
+        }, 
+        {
+            "author": 506, 
+            "title": "Inside John Barth"
+        }, 
+        {
+            "author": 506, 
+            "title": "Inside John Barth [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Inside John Barth [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "What Are Aliens Made Of?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1960)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Fuels Galore"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1960)"
+        }, 
+        {
+            "author": 446, 
+            "title": "Transstar"
+        }, 
+        {
+            "author": 554, 
+            "title": "Inside John Barth"
+        }, 
+        {
+            "author": 40, 
+            "title": "Drunkard's Walk (Part 1 of 2)"
+        }, 
+        {
+            "author": 214, 
+            "title": "Upstarts"
+        }, 
+        {
+            "author": 132, 
+            "title": "The Good Neighbors"
+        }, 
+        {
+            "author": 205, 
+            "title": "The Dope On Mars"
+        }, 
+        {
+            "author": 121, 
+            "title": "Monkey On His Back"
+        }, 
+        {
+            "author": 58, 
+            "title": "Earthmen Bearing Gifts"
+        }, 
+        {
+            "author": 555, 
+            "title": "Idea Man"
+        }
+    ]
+}

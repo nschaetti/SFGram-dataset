@@ -1,0 +1,138 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1953", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/Galaxy_v06n06_1953-09/Galaxy_v06n06_1953-09_jp2.zip&file=Galaxy_v06n06_1953-09_jp2/Galaxy_v06n06_1953-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/1c/MLO4315.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        435, 
+        419, 
+        342, 
+        430, 
+        436, 
+        305, 
+        339, 
+        326, 
+        340, 
+        437, 
+        121, 
+        341, 
+        56, 
+        400, 
+        289, 
+        268, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1008, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Touch of Your Hand"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Touch of Your Hand [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Touch of Your Hand [3]"
+        }, 
+        {
+            "author": 435, 
+            "title": "Worrywart"
+        }, 
+        {
+            "author": 419, 
+            "title": "Problem On Balak"
+        }, 
+        {
+            "author": 342, 
+            "title": "Far From the Warming Sun"
+        }, 
+        {
+            "author": 342, 
+            "title": "Far From the Warming Sun [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Far From the Warming Sun [3]"
+        }, 
+        {
+            "author": 430, 
+            "title": "New Hire"
+        }, 
+        {
+            "author": 436, 
+            "title": "Half Past Alligator"
+        }, 
+        {
+            "author": 436, 
+            "title": "Half Past Alligator [2]"
+        }, 
+        {
+            "author": 436, 
+            "title": "Half Past Alligator [3]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Delayed Action"
+        }, 
+        {
+            "author": 419, 
+            "title": "Delayed Action [2]"
+        }, 
+        {
+            "author": 305, 
+            "title": "What's the Good Word?"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The \"Martian Space Stations\""
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, September 1953)"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, September 1953)"
+        }, 
+        {
+            "author": 437, 
+            "title": "Far From the Warming Sun"
+        }, 
+        {
+            "author": 121, 
+            "title": "Delayed Action"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Touch of Your Hand"
+        }, 
+        {
+            "author": 56, 
+            "title": "Worrywart"
+        }, 
+        {
+            "author": 400, 
+            "title": "Problem On Balak"
+        }, 
+        {
+            "author": 289, 
+            "title": "New Hire"
+        }, 
+        {
+            "author": 268, 
+            "title": "Half Past Alligator"
+        }
+    ]
+}

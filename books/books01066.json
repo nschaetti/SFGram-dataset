@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1958", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/Galaxy_v16n04_1958-08/Galaxy_v16n04_1958-08_jp2.zip&file=Galaxy_v16n04_1958-08_jp2/Galaxy_v16n04_1958-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a3/MLO4453.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        506, 
+        523, 
+        519, 
+        339, 
+        483, 
+        326, 
+        40, 
+        341, 
+        537, 
+        384, 
+        302
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1066, 
+    "contents": [
+        {
+            "author": 506, 
+            "title": "To Marry Medusa"
+        }, 
+        {
+            "author": 506, 
+            "title": "To Marry Medusa [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "To Marry Medusa [3]"
+        }, 
+        {
+            "author": 523, 
+            "title": "Third Offense"
+        }, 
+        {
+            "author": 523, 
+            "title": "The Trouble with Elmo"
+        }, 
+        {
+            "author": 519, 
+            "title": "Seven Deadly Virtues"
+        }, 
+        {
+            "author": 519, 
+            "title": "Seven Deadly Virtues [2]"
+        }, 
+        {
+            "author": 523, 
+            "title": "In Black and White"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: How to Get Around On Other Planets"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1958)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Review of the Nonfiction Work \"the Space Encyclopaedia: A Guide to Astronomy and Space Research\""
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1958)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Seven Deadly Virtues"
+        }, 
+        {
+            "author": 341, 
+            "title": "To Marry Medusa"
+        }, 
+        {
+            "author": 40, 
+            "title": "Third Offense"
+        }, 
+        {
+            "author": 537, 
+            "title": "The Trouble with Elmo"
+        }, 
+        {
+            "author": 384, 
+            "title": "In Black and White"
+        }
+    ]
+}

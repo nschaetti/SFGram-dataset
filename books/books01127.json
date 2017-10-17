@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine November 1968", 
+    "cover": "https://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v27n04_1968-11/Galaxy_v27n04_1968-11_jp2.zip&file=Galaxy_v27n04_1968-11_jp2/Galaxy_v27n04_1968-11_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b5/GALNOV68.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        545, 
+        626, 
+        611, 
+        40, 
+        339, 
+        326, 
+        91, 
+        50, 
+        315, 
+        623, 
+        470, 
+        638, 
+        639, 
+        592, 
+        302
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1127, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Perris Way"
+        }, 
+        {
+            "author": 499, 
+            "title": "Perris Way [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Perris Way [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Building On the Line"
+        }, 
+        {
+            "author": 545, 
+            "title": "Building On the Line [2]"
+        }, 
+        {
+            "author": 626, 
+            "title": "Locust Years"
+        }, 
+        {
+            "author": 626, 
+            "title": "Locust Years [2]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Eeeetz Ch"
+        }, 
+        {
+            "author": 611, 
+            "title": "Eeeetz Ch [2]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Eeeetz Ch [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Vietnam Revisited"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: My Friend, the Nautilus"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, November 1968)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, November 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy's Stars (Galaxy, November 1968)"
+        }, 
+        {
+            "author": 50, 
+            "title": "Perris Way"
+        }, 
+        {
+            "author": 315, 
+            "title": "Building On the Line"
+        }, 
+        {
+            "author": 623, 
+            "title": "Eeeetz Ch"
+        }, 
+        {
+            "author": 470, 
+            "title": "Keep Moving"
+        }, 
+        {
+            "author": 638, 
+            "title": "The Market in Aliens"
+        }, 
+        {
+            "author": 639, 
+            "title": "Locust Years"
+        }, 
+        {
+            "author": 592, 
+            "title": "The Tell-Tale Heart-Machine"
+        }
+    ]
+}

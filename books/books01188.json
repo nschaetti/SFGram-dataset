@@ -1,0 +1,145 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1975", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/Galaxy_v36n09_1975-10/Galaxy_v36n09_1975-10_jp2.zip&file=Galaxy_v36n09_1975-10_jp2/Galaxy_v36n09_1975-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/be/GALOCT75.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        744, 
+        763, 
+        753, 
+        326, 
+        764, 
+        305, 
+        734, 
+        767, 
+        770, 
+        728, 
+        755, 
+        765, 
+        604, 
+        766, 
+        791, 
+        792, 
+        302
+    ], 
+    "year": 1975, 
+    "images": [], 
+    "id": 1188, 
+    "contents": [
+        {
+            "author": 744, 
+            "title": "The Experimenter"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Experimenter [2]"
+        }, 
+        {
+            "author": 744, 
+            "title": "The End Result"
+        }, 
+        {
+            "author": 744, 
+            "title": "But Loyal to His Own"
+        }, 
+        {
+            "author": 744, 
+            "title": "But Loyal to His Own [2]"
+        }, 
+        {
+            "author": 763, 
+            "title": "Inferno (Part 3 of 3)"
+        }, 
+        {
+            "author": 763, 
+            "title": "Inferno (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 763, 
+            "title": "Inferno (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 763, 
+            "title": "Inferno (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 753, 
+            "title": "Helbent 4"
+        }, 
+        {
+            "author": 326, 
+            "title": "No Mother Near"
+        }, 
+        {
+            "author": 753, 
+            "title": "Crusade"
+        }, 
+        {
+            "author": 744, 
+            "title": "Showcase: Harlequin Nova"
+        }, 
+        {
+            "author": 764, 
+            "title": "Ad Astra Per ..."
+        }, 
+        {
+            "author": 305, 
+            "title": "Forum: Looking Aft"
+        }, 
+        {
+            "author": 734, 
+            "title": "In the Beginning"
+        }, 
+        {
+            "author": 326, 
+            "title": "S. F. Calendar (Galaxy, October 1975)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, October 1975)"
+        }, 
+        {
+            "author": 770, 
+            "title": "Bookshelf (Galaxy, October 1975)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, October 1975)"
+        }, 
+        {
+            "author": 728, 
+            "title": "The Experimenter"
+        }, 
+        {
+            "author": 755, 
+            "title": "But Loyal to His Own"
+        }, 
+        {
+            "author": 765, 
+            "title": "Helbent 4"
+        }, 
+        {
+            "author": 604, 
+            "title": "Inferno (Part 3 of 3)"
+        }, 
+        {
+            "author": 766, 
+            "title": "The End Result"
+        }, 
+        {
+            "author": 791, 
+            "title": "No Mother Near"
+        }, 
+        {
+            "author": 792, 
+            "title": "Crusade"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1971", 
+    "cover": "https://ia800203.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/Galaxy_v31n03_1971-02/Galaxy_v31n03_1971-02_jp2.zip&file=Galaxy_v31n03_1971-02_jp2/Galaxy_v31n03_1971-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/74/GALFEB71.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        91, 
+        478, 
+        658, 
+        47, 
+        23, 
+        639, 
+        675, 
+        691, 
+        692, 
+        302
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1148, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "This Is My Country"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Reflected Men"
+        }, 
+        {
+            "author": 499, 
+            "title": "Second Run at the Data"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Sharks of Pentreath"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Hero"
+        }, 
+        {
+            "author": 499, 
+            "title": "Scramble"
+        }, 
+        {
+            "author": 326, 
+            "title": "Exiled From Earth (Part 2 of 2)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, February 1971)"
+        }, 
+        {
+            "author": 478, 
+            "title": "This Is My Country"
+        }, 
+        {
+            "author": 658, 
+            "title": "The Reflected Men"
+        }, 
+        {
+            "author": 47, 
+            "title": "Exiled From Earth (Part 2 of 2)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Down the Digestive Tract"
+        }, 
+        {
+            "author": 639, 
+            "title": "Second Run at the Data"
+        }, 
+        {
+            "author": 675, 
+            "title": "The Sharks of Pentreath"
+        }, 
+        {
+            "author": 691, 
+            "title": "The Hero"
+        }, 
+        {
+            "author": 692, 
+            "title": "Scramble"
+        }
+    ]
+}

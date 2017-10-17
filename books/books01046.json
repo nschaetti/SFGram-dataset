@@ -1,0 +1,117 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine December 1956", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/Galaxy_v13n02_1956-12/Galaxy_v13n02_1956-12_jp2.zip&file=Galaxy_v13n02_1956-12_jp2/Galaxy_v13n02_1956-12_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d7/MLO4432.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        499, 
+        363, 
+        305, 
+        339, 
+        483, 
+        326, 
+        23, 
+        502, 
+        385, 
+        98, 
+        493, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1046, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Native Problem"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Native Problem [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Native Problem [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Of All Possible Worlds"
+        }, 
+        {
+            "author": 497, 
+            "title": "Rattle Ok"
+        }, 
+        {
+            "author": 497, 
+            "title": "Rattle Ok [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Rattle Ok [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "You Go"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 3 of 4)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 3 of 4) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 3 of 4) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Stars My Destination (Part 3 of 4) [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Wax &Amp; Wane"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Tracking Down the \"Sea Serpent\" - Part I"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, December 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, December 1956)"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Native Problem"
+        }, 
+        {
+            "author": 502, 
+            "title": "Rattle Ok"
+        }, 
+        {
+            "author": 385, 
+            "title": "The Stars My Destination (Part 3 of 4)"
+        }, 
+        {
+            "author": 98, 
+            "title": "Of All Possible Worlds"
+        }, 
+        {
+            "author": 493, 
+            "title": "You Go"
+        }
+    ]
+}

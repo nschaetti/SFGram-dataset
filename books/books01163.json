@@ -1,0 +1,90 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1973", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/Galaxy_v33n06_1973-05/Galaxy_v33n06_1973-05_jp2.zip&file=Galaxy_v33n06_1973-05_jp2/Galaxy_v33n06_1973-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/ff/GALMAYJUN73.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        341, 
+        630, 
+        153, 
+        713, 
+        74, 
+        716, 
+        605, 
+        302
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1163, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Doomsday Gene (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Parthen"
+        }, 
+        {
+            "author": 499, 
+            "title": "On the Account"
+        }, 
+        {
+            "author": 326, 
+            "title": "In This Dark Sky"
+        }, 
+        {
+            "author": 499, 
+            "title": "Girl Saturday"
+        }, 
+        {
+            "author": 499, 
+            "title": "Future Forbidden"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, May-June 1973)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, May-June 1973)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, May-June 1973)"
+        }, 
+        {
+            "author": 630, 
+            "title": "On the Account"
+        }, 
+        {
+            "author": 153, 
+            "title": "Girl Saturday"
+        }, 
+        {
+            "author": 713, 
+            "title": "The Doomsday Gene (Part 1 of 2)"
+        }, 
+        {
+            "author": 74, 
+            "title": "Parthen"
+        }, 
+        {
+            "author": 716, 
+            "title": "In This Dark Sky"
+        }, 
+        {
+            "author": 605, 
+            "title": "Future Forbidden"
+        }
+    ]
+}

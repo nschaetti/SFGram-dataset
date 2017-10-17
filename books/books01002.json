@@ -1,0 +1,152 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1953", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v05n06_1953-03/Galaxy_v05n06_1953-03_jp2.zip&file=Galaxy_v05n06_1953-03_jp2/Galaxy_v05n06_1953-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/42/GALMAR53.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        402, 
+        363, 
+        326, 
+        305, 
+        339, 
+        340, 
+        393, 
+        30, 
+        36, 
+        125, 
+        359, 
+        302
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1002, 
+    "contents": [
+        {
+            "author": 402, 
+            "title": "The Old Die Rich"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Old Die Rich [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Old Die Rich [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Old Die Rich [4]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Old Die Rich [5]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Old Die Rich [6]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Games"
+        }, 
+        {
+            "author": 402, 
+            "title": "Student Body"
+        }, 
+        {
+            "author": 402, 
+            "title": "Student Body [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Student Body [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Student Body [4]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Student Body [5]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Student Body [6]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Secret of the House"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Drop"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Drop [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Drop [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Horse Trader"
+        }, 
+        {
+            "author": 326, 
+            "title": "Horse Trader [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Horse Trader [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "For Writers Mostly"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Ancestor of the Dinosaurs"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, March 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, March 1953)"
+        }, 
+        {
+            "author": 393, 
+            "title": "Student Body"
+        }, 
+        {
+            "author": 30, 
+            "title": "Horse Trader"
+        }, 
+        {
+            "author": 305, 
+            "title": "The Old Die Rich"
+        }, 
+        {
+            "author": 36, 
+            "title": "Games"
+        }, 
+        {
+            "author": 125, 
+            "title": "Secret of the House"
+        }, 
+        {
+            "author": 359, 
+            "title": "The Drop"
+        }
+    ]
+}

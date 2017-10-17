@@ -1,0 +1,133 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1956", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v11n03_1956-01/Galaxy_v11n03_1956-01_jp2.zip&file=Galaxy_v11n03_1956-01_jp2/Galaxy_v11n03_1956-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a6/MLO4385.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        427, 
+        481, 
+        486, 
+        402, 
+        363, 
+        305, 
+        339, 
+        326, 
+        483, 
+        441, 
+        161, 
+        136, 
+        356, 
+        109, 
+        23, 
+        487, 
+        302
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1035, 
+    "contents": [
+        {
+            "author": 427, 
+            "title": "Brightside Crossing"
+        }, 
+        {
+            "author": 427, 
+            "title": "Brightside Crossing [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Brightside Crossing [3]"
+        }, 
+        {
+            "author": 481, 
+            "title": "The Dwindling Years"
+        }, 
+        {
+            "author": 486, 
+            "title": "Junior"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Gravity Business"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Gravity Business [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "The Gravity Business [3]"
+        }, 
+        {
+            "author": 486, 
+            "title": "The Body"
+        }, 
+        {
+            "author": 486, 
+            "title": "The Snare"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Ties of Earth (Part 2 of 2)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Ties of Earth (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Ties of Earth (Part 2 of 2) [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "How Now, Gray Cell?"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Fyr-Gregeys and Wilde-Fyr"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, January 1956)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, January 1956)"
+        }, 
+        {
+            "author": 441, 
+            "title": "Brightside Crossing"
+        }, 
+        {
+            "author": 161, 
+            "title": "The Gravity Business"
+        }, 
+        {
+            "author": 136, 
+            "title": "The Ties of Earth (Part 2 of 2)"
+        }, 
+        {
+            "author": 356, 
+            "title": "The Dwindling Years"
+        }, 
+        {
+            "author": 109, 
+            "title": "Junior"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Body"
+        }, 
+        {
+            "author": 487, 
+            "title": "The Snare"
+        }
+    ]
+}

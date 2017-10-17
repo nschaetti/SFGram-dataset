@@ -1,0 +1,163 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine July 1952", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v04n04_1952-07/Galaxy_v04n04_1952-07_jp2.zip&file=Galaxy_v04n04_1952-07_jp2/Galaxy_v04n04_1952-07_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d7/GALJUL1952.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        336, 
+        363, 
+        399, 
+        342, 
+        305, 
+        326, 
+        339, 
+        340, 
+        236, 
+        383, 
+        40, 
+        400, 
+        401, 
+        122, 
+        302
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 994, 
+    "contents": [
+        {
+            "author": 336, 
+            "title": "Star, Bright"
+        }, 
+        {
+            "author": 336, 
+            "title": "Star, Bright [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Star, Bright [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Star, Bright [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Wailing Wall"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Slang"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Slang [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Slang [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Slang [4]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Slang [5]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Slang [6]"
+        }, 
+        {
+            "author": 336, 
+            "title": "Origins of Galactic Slang [7]"
+        }, 
+        {
+            "author": 399, 
+            "title": "Dumb Martian"
+        }, 
+        {
+            "author": 399, 
+            "title": "Dumb Martian [2]"
+        }, 
+        {
+            "author": 399, 
+            "title": "Dumb Martian [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Shipshape Home"
+        }, 
+        {
+            "author": 363, 
+            "title": "Shipshape Home [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 2 of 3)"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 2 of 3) [4]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Gravy Planet (Part 2 of 3) [5]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Wonderment"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, July 1952)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: When Will Worlds Collide?"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, July 1952)"
+        }, 
+        {
+            "author": 236, 
+            "title": "Star, Bright"
+        }, 
+        {
+            "author": 383, 
+            "title": "Dumb Martian"
+        }, 
+        {
+            "author": 40, 
+            "title": "Gravy Planet (Part 2 of 3)"
+        }, 
+        {
+            "author": 400, 
+            "title": "Wailing Wall"
+        }, 
+        {
+            "author": 401, 
+            "title": "Origins of Galactic Slang"
+        }, 
+        {
+            "author": 122, 
+            "title": "Shipshape Home"
+        }
+    ]
+}

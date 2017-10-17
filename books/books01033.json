@@ -1,0 +1,116 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1955", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v11n01_1955-10/Galaxy_v11n01_1955-10_jp2.zip&file=Galaxy_v11n01_1955-10_jp2/Galaxy_v11n01_1955-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/db/MLO4384.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        471, 
+        476, 
+        474, 
+        477, 
+        427, 
+        305, 
+        326, 
+        339, 
+        340, 
+        23, 
+        393, 
+        172, 
+        98, 
+        478, 
+        479, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1033, 
+    "contents": [
+        {
+            "author": 471, 
+            "title": "A Ticket to Tranai"
+        }, 
+        {
+            "author": 471, 
+            "title": "A Ticket to Tranai [2]"
+        }, 
+        {
+            "author": 471, 
+            "title": "A Ticket to Tranai [3]"
+        }, 
+        {
+            "author": 476, 
+            "title": "The Discovery of Morniel Mathaway"
+        }, 
+        {
+            "author": 474, 
+            "title": "Bolden's Pets"
+        }, 
+        {
+            "author": 471, 
+            "title": "Jack of No Trades"
+        }, 
+        {
+            "author": 477, 
+            "title": "The Lights On Precipice Peak"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Game of Rat and Dragon"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Game of Rat and Dragon [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Game of Rat and Dragon [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Hit or Myth?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, October 1955)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: The How of Space Travel"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, October 1955)"
+        }, 
+        {
+            "author": 23, 
+            "title": "A Ticket to Tranai"
+        }, 
+        {
+            "author": 393, 
+            "title": "Bolden's Pets"
+        }, 
+        {
+            "author": 172, 
+            "title": "Jack of No Trades"
+        }, 
+        {
+            "author": 98, 
+            "title": "The Discovery of Morniel Mathaway"
+        }, 
+        {
+            "author": 478, 
+            "title": "The Lights On Precipice Peak"
+        }, 
+        {
+            "author": 479, 
+            "title": "The Game of Rat and Dragon"
+        }
+    ]
+}

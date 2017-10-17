@@ -1,0 +1,135 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1954", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v08n03_1954-06/Galaxy_v08n03_1954-06_jp2.zip&file=Galaxy_v08n03_1954-06_jp2/Galaxy_v08n03_1954-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/51/MLO4333.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        419, 
+        433, 
+        402, 
+        305, 
+        326, 
+        339, 
+        340, 
+        98, 
+        393, 
+        40, 
+        23, 
+        449, 
+        450, 
+        302
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1017, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 1 of 3)"
+        }, 
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 1 of 3) [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Gladiator at Law (Part 1 of 3) [5]"
+        }, 
+        {
+            "author": 419, 
+            "title": "Something for Nothing"
+        }, 
+        {
+            "author": 433, 
+            "title": "High Man"
+        }, 
+        {
+            "author": 402, 
+            "title": "Down Among the Dead Men"
+        }, 
+        {
+            "author": 402, 
+            "title": "Down Among the Dead Men [2]"
+        }, 
+        {
+            "author": 402, 
+            "title": "Down Among the Dead Men [3]"
+        }, 
+        {
+            "author": 402, 
+            "title": "See?"
+        }, 
+        {
+            "author": 363, 
+            "title": "Forget Me Nearly"
+        }, 
+        {
+            "author": 363, 
+            "title": "Forget Me Nearly [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Forget Me Nearly [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Forget Me Nearly [4]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Breakthrough"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1954)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Largest of Their Kind"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, June 1954)"
+        }, 
+        {
+            "author": 98, 
+            "title": "Down Among the Dead Men"
+        }, 
+        {
+            "author": 393, 
+            "title": "Forget Me Nearly"
+        }, 
+        {
+            "author": 40, 
+            "title": "Gladiator at Law (Part 1 of 3)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Something for Nothing"
+        }, 
+        {
+            "author": 449, 
+            "title": "High Man"
+        }, 
+        {
+            "author": 450, 
+            "title": "See?"
+        }
+    ]
+}

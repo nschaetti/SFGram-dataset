@@ -1,0 +1,100 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine May 1972", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v32n06_1972-05/Galaxy_v32n06_1972-05_jp2.zip&file=Galaxy_v32n06_1972-05_jp2/Galaxy_v32n06_1972-05_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/3f/GALMAYJUN72.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        341, 
+        605, 
+        3, 
+        161, 
+        668, 
+        386, 
+        708, 
+        651, 
+        709, 
+        302
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1157, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Gods Themselves (Part 3 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Robbie and David and Little Dahl"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Reply"
+        }, 
+        {
+            "author": 326, 
+            "title": "Gone Fishing"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Grand Illusions"
+        }, 
+        {
+            "author": 499, 
+            "title": "Trouble with G.O.D."
+        }, 
+        {
+            "author": 326, 
+            "title": "The Langley Circuit"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, May-June 1972)"
+        }, 
+        {
+            "author": 605, 
+            "title": "Want to Bet? (Galaxy Magazine, May-June 1972)"
+        }, 
+        {
+            "author": 3, 
+            "title": "Galaxy Stars (Galaxy, May-June 1972)"
+        }, 
+        {
+            "author": 161, 
+            "title": "The Reply"
+        }, 
+        {
+            "author": 668, 
+            "title": "Trouble with G.O.D."
+        }, 
+        {
+            "author": 3, 
+            "title": "The Gods Themselves (Part 3 of 3)"
+        }, 
+        {
+            "author": 386, 
+            "title": "Robbie and David and Little Dahl"
+        }, 
+        {
+            "author": 708, 
+            "title": "Gone Fishing"
+        }, 
+        {
+            "author": 651, 
+            "title": "The Grand Illusions"
+        }, 
+        {
+            "author": 709, 
+            "title": "The Langley Circuit"
+        }
+    ]
+}

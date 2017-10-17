@@ -1,0 +1,101 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine September 1973", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/Galaxy_v33n08_1973-09/Galaxy_v33n08_1973-09_jp2.zip&file=Galaxy_v33n08_1973-09_jp2/Galaxy_v33n08_1973-09_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/1e/GALSEP73.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        719, 
+        341, 
+        720, 
+        667, 
+        386, 
+        635, 
+        542, 
+        721, 
+        722, 
+        723, 
+        302
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1165, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Rendezvous with Rama (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Triggerman"
+        }, 
+        {
+            "author": 499, 
+            "title": "Quickening"
+        }, 
+        {
+            "author": 326, 
+            "title": "Quarantine"
+        }, 
+        {
+            "author": 326, 
+            "title": "Circle of Flies"
+        }, 
+        {
+            "author": 719, 
+            "title": "And Ba"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Old King's Answers"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, September 1973)"
+        }, 
+        {
+            "author": 720, 
+            "title": "Review of the Nonfiction Work \"Crash Go the Chariots\""
+        }, 
+        {
+            "author": 667, 
+            "title": "Re: October, 1973"
+        }, 
+        {
+            "author": 326, 
+            "title": "Galaxy Stars (Galaxy, September 1973)"
+        }, 
+        {
+            "author": 386, 
+            "title": "Quickening"
+        }, 
+        {
+            "author": 635, 
+            "title": "The Old King's Answers"
+        }, 
+        {
+            "author": 542, 
+            "title": "Rendezvous with Rama (Part 1 of 2)"
+        }, 
+        {
+            "author": 721, 
+            "title": "Triggerman"
+        }, 
+        {
+            "author": 722, 
+            "title": "Quarantine"
+        }, 
+        {
+            "author": 723, 
+            "title": "Circle of Flies"
+        }
+    ]
+}

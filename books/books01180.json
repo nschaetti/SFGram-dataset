@@ -1,0 +1,112 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1975", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v36n01_1975-01/Galaxy_v36n01_1975-01_jp2.zip&file=Galaxy_v36n01_1975-01_jp2/Galaxy_v36n01_1975-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d6/GALJAN75.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        745, 
+        326, 
+        763, 
+        499, 
+        742, 
+        744, 
+        764, 
+        591, 
+        734, 
+        561, 
+        711, 
+        765, 
+        762, 
+        766, 
+        761, 
+        302
+    ], 
+    "year": 1975, 
+    "images": [], 
+    "id": 1180, 
+    "contents": [
+        {
+            "author": 745, 
+            "title": "Straw"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sign of the Unicorn (Part 1 of 3)"
+        }, 
+        {
+            "author": 763, 
+            "title": "Showcase (Galaxy, January 1975)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Pow Wow"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Horse of a Different Technicolor"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Schwarzkind Singularity"
+        }, 
+        {
+            "author": 742, 
+            "title": "Love Conquers All (Part 3 of 3)"
+        }, 
+        {
+            "author": 744, 
+            "title": "Be Ye Perfect"
+        }, 
+        {
+            "author": 764, 
+            "title": "Fusion"
+        }, 
+        {
+            "author": 591, 
+            "title": "An Essay in Amber"
+        }, 
+        {
+            "author": 734, 
+            "title": "Fuzzy Black Holes Have No Hair"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, January 1975)"
+        }, 
+        {
+            "author": 591, 
+            "title": "Sign of the Unicorn (Part 1 of 3)"
+        }, 
+        {
+            "author": 561, 
+            "title": "Love Conquers All (Part 3 of 3)"
+        }, 
+        {
+            "author": 711, 
+            "title": "Straw"
+        }, 
+        {
+            "author": 765, 
+            "title": "Pow Wow"
+        }, 
+        {
+            "author": 762, 
+            "title": "A Horse of a Different Technicolor"
+        }, 
+        {
+            "author": 766, 
+            "title": "The Schwarzkind Singularity"
+        }, 
+        {
+            "author": 761, 
+            "title": "Be Ye Perfect"
+        }
+    ]
+}

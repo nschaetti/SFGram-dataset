@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1967", 
+    "cover": "https://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Galaxy_v25n03_1967-02/Galaxy_v25n03_1967-02_jp2.zip&file=Galaxy_v25n03_1967-02_jp2/Galaxy_v25n03_1967-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/7b/GALFEB67.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        615, 
+        545, 
+        40, 
+        339, 
+        326, 
+        91, 
+        217, 
+        602, 
+        89, 
+        8, 
+        158, 
+        81, 
+        74, 
+        608, 
+        302
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1116, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Our Man in Peking"
+        }, 
+        {
+            "author": 499, 
+            "title": "Our Man in Peking [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Our Man in Peking [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Our Man in Peking [4]"
+        }, 
+        {
+            "author": 615, 
+            "title": "They Hilariated When I Hyperspaced for Earth"
+        }, 
+        {
+            "author": 615, 
+            "title": "They Hilariated When I Hyperspaced for Earth [2]"
+        }, 
+        {
+            "author": 615, 
+            "title": "They Hilariated When I Hyperspaced for Earth [3]"
+        }, 
+        {
+            "author": 615, 
+            "title": "They Hilariated When I Hyperspaced for Earth [4]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Palace of Love (Part 3 of 3)"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Palace of Love (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "More About Being Bad"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Who Invented the Crossbow?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1967)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, February 1967)"
+        }, 
+        {
+            "author": 217, 
+            "title": "They Hilariated When I Hyperspaced for Earth"
+        }, 
+        {
+            "author": 602, 
+            "title": "Our Man in Peking"
+        }, 
+        {
+            "author": 89, 
+            "title": "The Palace of Love (Part 3 of 3)"
+        }, 
+        {
+            "author": 8, 
+            "title": "Return Match"
+        }, 
+        {
+            "author": 158, 
+            "title": "The Last Filibuster"
+        }, 
+        {
+            "author": 81, 
+            "title": "The Trojan Bombardment"
+        }, 
+        {
+            "author": 74, 
+            "title": "Thus We Frustrate Charlemagne"
+        }, 
+        {
+            "author": 608, 
+            "title": "The Discovery of the Nullitron"
+        }
+    ]
+}

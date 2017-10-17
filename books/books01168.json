@@ -1,0 +1,100 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1974", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v34n05_1974-01/Galaxy_v34n05_1974-01_jp2.zip&file=Galaxy_v34n05_1974-01_jp2/Galaxy_v34n05_1974-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/cb/GALJAN74.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        341, 
+        675, 
+        660, 
+        725, 
+        728, 
+        558, 
+        704, 
+        561, 
+        729, 
+        302
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1168, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Only War We've Got"
+        }, 
+        {
+            "author": 499, 
+            "title": "Passages"
+        }, 
+        {
+            "author": 326, 
+            "title": "Survival Course"
+        }, 
+        {
+            "author": 499, 
+            "title": "Answer Came There None"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Girl with a Symphony in Her Fingers"
+        }, 
+        {
+            "author": 499, 
+            "title": "Calendars"
+        }, 
+        {
+            "author": 499, 
+            "title": "Waves"
+        }, 
+        {
+            "author": 499, 
+            "title": "Inverted World (Part 2 of 4)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, January 1974)"
+        }, 
+        {
+            "author": 675, 
+            "title": "The Girl with a Symphony in Her Fingers"
+        }, 
+        {
+            "author": 660, 
+            "title": "The Only War We've Got"
+        }, 
+        {
+            "author": 725, 
+            "title": "Inverted World (Part 2 of 4)"
+        }, 
+        {
+            "author": 728, 
+            "title": "Passages"
+        }, 
+        {
+            "author": 558, 
+            "title": "Survival Course"
+        }, 
+        {
+            "author": 704, 
+            "title": "Answer Came There None"
+        }, 
+        {
+            "author": 561, 
+            "title": "Calendars"
+        }, 
+        {
+            "author": 729, 
+            "title": "Waves"
+        }
+    ]
+}

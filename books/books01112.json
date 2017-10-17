@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine June 1966", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/Galaxy_v24n05_1966-06/Galaxy_v24n05_1966-06_jp2.zip&file=Galaxy_v24n05_1966-06_jp2/Galaxy_v24n05_1966-06_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/83/GALJUN66.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        611, 
+        499, 
+        545, 
+        40, 
+        339, 
+        91, 
+        326, 
+        602, 
+        50, 
+        63, 
+        262, 
+        546, 
+        112, 
+        302
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1112, 
+    "contents": [
+        {
+            "author": 611, 
+            "title": "Heisenberg's Eyes (Part 1 of 2)"
+        }, 
+        {
+            "author": 611, 
+            "title": "Heisenberg's Eyes (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Heisenberg's Eyes (Part 1 of 2) [3]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Heisenberg's Eyes (Part 1 of 2) [4]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Heisenberg's Eyes (Part 1 of 2) [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Eskimo Invasion"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Eskimo Invasion [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Open the Sky"
+        }, 
+        {
+            "author": 545, 
+            "title": "Open the Sky [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Open the Sky [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Looking Ahead to 1965"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Brownian Motion, Loschmidt's Number and the Laws of Utter Chaos"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, June 1966)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, June 1966)"
+        }, 
+        {
+            "author": 602, 
+            "title": "The Eskimo Invasion"
+        }, 
+        {
+            "author": 50, 
+            "title": "Open the Sky"
+        }, 
+        {
+            "author": 63, 
+            "title": "Heisenberg's Eyes (Part 1 of 2)"
+        }, 
+        {
+            "author": 262, 
+            "title": "Priceless Possession"
+        }, 
+        {
+            "author": 546, 
+            "title": "Galactic Consumer Report No. 2: Automatic Twin-Tube Wishing Machines"
+        }, 
+        {
+            "author": 112, 
+            "title": "When I Was Miss Dow"
+        }
+    ]
+}

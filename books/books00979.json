@@ -1,0 +1,121 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1951", 
+    "cover": "https://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v01n06_1951-03/Galaxy_v01n06_1951-03_jp2.zip&file=Galaxy_v01n06_1951-03_jp2/Galaxy_v01n06_1951-03_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/af/GALMAR1951.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        342, 
+        357, 
+        358, 
+        348, 
+        305, 
+        339, 
+        326, 
+        356, 
+        56, 
+        3, 
+        61, 
+        359, 
+        302
+    ], 
+    "year": 1951, 
+    "images": [], 
+    "id": 979, 
+    "contents": [
+        {
+            "author": 342, 
+            "title": "The Wind Between the Worlds"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Wind Between the Worlds [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "The Wind Between the Worlds [3]"
+        }, 
+        {
+            "author": 357, 
+            "title": "The Other Now"
+        }, 
+        {
+            "author": 342, 
+            "title": "Good Night, Mr. James"
+        }, 
+        {
+            "author": 342, 
+            "title": "Good Night, Mr. James [2]"
+        }, 
+        {
+            "author": 342, 
+            "title": "Good Night, Mr. James [3]"
+        }, 
+        {
+            "author": 358, 
+            "title": "Socrates"
+        }, 
+        {
+            "author": 358, 
+            "title": "Socrates [2]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 3 of 3)"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 3 of 3) [4]"
+        }, 
+        {
+            "author": 348, 
+            "title": "Tyrann (Part 3 of 3) [5]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Consensus"
+        }, 
+        {
+            "author": 339, 
+            "title": "Missiles Over the Sea"
+        }, 
+        {
+            "author": 326, 
+            "title": "Next Month's Contents Page (Galaxy, March 1951)"
+        }, 
+        {
+            "author": 356, 
+            "title": "The Wind Between the Worlds"
+        }, 
+        {
+            "author": 56, 
+            "title": "Good Night, Mr. James"
+        }, 
+        {
+            "author": 3, 
+            "title": "Tyrann (Part 3 of 3)"
+        }, 
+        {
+            "author": 61, 
+            "title": "The Other Now"
+        }, 
+        {
+            "author": 359, 
+            "title": "Socrates"
+        }
+    ]
+}

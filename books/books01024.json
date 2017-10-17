@@ -1,0 +1,136 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine January 1955", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/Galaxy_v09n04_1955-01/Galaxy_v09n04_1955-01_jp2.zip&file=Galaxy_v09n04_1955-01_jp2/Galaxy_v09n04_1955-01_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/66/MLO4375.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        433, 
+        427, 
+        336, 
+        305, 
+        339, 
+        340, 
+        466, 
+        326, 
+        40, 
+        467, 
+        341, 
+        23, 
+        172, 
+        391, 
+        302
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1024, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Tunnel Under the World"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Tunnel Under the World [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Tunnel Under the World [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "The Vilbar Party"
+        }, 
+        {
+            "author": 427, 
+            "title": "Perfect Control"
+        }, 
+        {
+            "author": 427, 
+            "title": "Perfect Control [2]"
+        }, 
+        {
+            "author": 427, 
+            "title": "Perfect Control [3]"
+        }, 
+        {
+            "author": 336, 
+            "title": "When You're Smiling"
+        }, 
+        {
+            "author": 336, 
+            "title": "When You're Smiling [2]"
+        }, 
+        {
+            "author": 336, 
+            "title": "When You're Smiling [3]"
+        }, 
+        {
+            "author": 433, 
+            "title": "Brknk's Bounty"
+        }, 
+        {
+            "author": 363, 
+            "title": "Squirrel Cage"
+        }, 
+        {
+            "author": 363, 
+            "title": "Squirrel Cage [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "Squirrel Cage [3]"
+        }, 
+        {
+            "author": 305, 
+            "title": "Yours for a Dime!"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Calendar Trouble"
+        }, 
+        {
+            "author": 340, 
+            "title": "Galaxy's Five Star Shelf (Galaxy, January 1955)"
+        }, 
+        {
+            "author": 466, 
+            "title": "Review of the Nonfiction Work \"Ideas and Opinions\""
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, January 1955)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Tunnel Under the World"
+        }, 
+        {
+            "author": 467, 
+            "title": "Perfect Control"
+        }, 
+        {
+            "author": 341, 
+            "title": "When You're Smiling"
+        }, 
+        {
+            "author": 23, 
+            "title": "Squirrel Cage"
+        }, 
+        {
+            "author": 172, 
+            "title": "The Vilbar Party"
+        }, 
+        {
+            "author": 391, 
+            "title": "Brknk's Bounty"
+        }
+    ]
+}

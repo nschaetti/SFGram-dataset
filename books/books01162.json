@@ -1,0 +1,90 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine March 1973", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/Galaxy_v33n05_1973-04/Galaxy_v33n05_1973-04_jp2.zip&file=Galaxy_v33n05_1973-04_jp2/Galaxy_v33n05_1973-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f2/GALMARAPR73.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        713, 
+        341, 
+        63, 
+        714, 
+        635, 
+        630, 
+        715, 
+        302
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1162, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Project 40 (Part 3 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Girl and the Dolphin"
+        }, 
+        {
+            "author": 326, 
+            "title": "Interference"
+        }, 
+        {
+            "author": 326, 
+            "title": "Crimescan"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Last Hunt"
+        }, 
+        {
+            "author": 499, 
+            "title": "Six Men From Alpha"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy Magazine, March-April 1973)"
+        }, 
+        {
+            "author": 713, 
+            "title": "Galaxy Stars (Galaxy, March-April 1973)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Galaxy Bookshelf (Galaxy, March-April 1973)"
+        }, 
+        {
+            "author": 63, 
+            "title": "Project 40 (Part 3 of 3)"
+        }, 
+        {
+            "author": 713, 
+            "title": "The Girl and the Dolphin"
+        }, 
+        {
+            "author": 714, 
+            "title": "Interference"
+        }, 
+        {
+            "author": 635, 
+            "title": "Crimescan"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Last Hunt"
+        }, 
+        {
+            "author": 715, 
+            "title": "Six Men From Alpha"
+        }
+    ]
+}

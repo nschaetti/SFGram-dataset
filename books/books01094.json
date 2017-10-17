@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine April 1963", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/Galaxy_v21n04_1963-04/Galaxy_v21n04_1963-04_jp2.zip&file=Galaxy_v21n04_1963-04_jp2/Galaxy_v21n04_1963-04_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/74/GALAPR1963.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        580, 
+        497, 
+        551, 
+        40, 
+        339, 
+        326, 
+        483, 
+        569, 
+        194, 
+        204, 
+        572, 
+        507, 
+        302
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1094, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Visitor at the Zoo"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Visitor at the Zoo [2]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Visitor at the Zoo [3]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Visitor at the Zoo [4]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Visitor at the Zoo [5]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Visitor at the Zoo [6]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Visitor at the Zoo [7]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Visitor at the Zoo [8]"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Visitor at the Zoo [9]"
+        }, 
+        {
+            "author": 580, 
+            "title": "The Lonely Man"
+        }, 
+        {
+            "author": 497, 
+            "title": "On the Fourth Planet"
+        }, 
+        {
+            "author": 551, 
+            "title": "Voyage to Far N'jurd"
+        }, 
+        {
+            "author": 40, 
+            "title": "Dramatis Personae"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Too Much Imagination"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, April 1963)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, April 1963)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, April 1963) (Circulation: 92,000)"
+        }, 
+        {
+            "author": 569, 
+            "title": "The Lonely Man"
+        }, 
+        {
+            "author": 194, 
+            "title": "Voyage to Far N'jurd"
+        }, 
+        {
+            "author": 204, 
+            "title": "The Visitor at the Zoo"
+        }, 
+        {
+            "author": 572, 
+            "title": "My Lady Selene"
+        }, 
+        {
+            "author": 507, 
+            "title": "On the Fourth Planet"
+        }
+    ]
+}

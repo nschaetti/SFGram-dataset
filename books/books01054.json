@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1957", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/Galaxy_v14n04_1957-08/Galaxy_v14n04_1957-08_jp2.zip&file=Galaxy_v14n04_1957-08_jp2/Galaxy_v14n04_1957-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/94/MLO4440.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        499, 
+        515, 
+        506, 
+        339, 
+        483, 
+        516, 
+        517, 
+        518, 
+        220, 
+        98, 
+        50, 
+        159, 
+        172, 
+        302
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1054, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "Time Waits for Winthrop"
+        }, 
+        {
+            "author": 497, 
+            "title": "Time Waits for Winthrop [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Time Waits for Winthrop [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Blaze of Glory"
+        }, 
+        {
+            "author": 515, 
+            "title": "If Money"
+        }, 
+        {
+            "author": 515, 
+            "title": "If Money [2]"
+        }, 
+        {
+            "author": 515, 
+            "title": "If Money [3]"
+        }, 
+        {
+            "author": 506, 
+            "title": "Make Me an Offer"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Man Outside"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Man Outside [2]"
+        }, 
+        {
+            "author": 506, 
+            "title": "The Man Outside [3]"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Our Missle Arsenal (Galaxy, August 1957)"
+        }, 
+        {
+            "author": 483, 
+            "title": "Galaxy's 5 Star Shelf (Galaxy, August 1957)"
+        }, 
+        {
+            "author": 516, 
+            "title": "Review of the Nonfiction Work \"Atomic Energy\""
+        }, 
+        {
+            "author": 517, 
+            "title": "Review of the Nonfiction Work \"Growth of Mechanical Power\""
+        }, 
+        {
+            "author": 518, 
+            "title": "Review of the Nonfiction Work \"Maya Art and Civilization\""
+        }, 
+        {
+            "author": 220, 
+            "title": "If Money"
+        }, 
+        {
+            "author": 98, 
+            "title": "Time Waits for Winthrop"
+        }, 
+        {
+            "author": 50, 
+            "title": "Blaze of Glory"
+        }, 
+        {
+            "author": 159, 
+            "title": "Make Me an Offer"
+        }, 
+        {
+            "author": 172, 
+            "title": "The Man Outside"
+        }
+    ]
+}

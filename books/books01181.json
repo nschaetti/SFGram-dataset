@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1975", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/Galaxy_v36n02_1975-02/Galaxy_v36n02_1975-02_jp2.zip&file=Galaxy_v36n02_1975-02_jp2/Galaxy_v36n02_1975-02_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/22/GALFEB75.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        753, 
+        742, 
+        744, 
+        734, 
+        767, 
+        326, 
+        768, 
+        686, 
+        591, 
+        561, 
+        765, 
+        769, 
+        302
+    ], 
+    "year": 1975, 
+    "images": [], 
+    "id": 1181, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Annihilation of Angkor Apeiron"
+        }, 
+        {
+            "author": 753, 
+            "title": "Allegiances"
+        }, 
+        {
+            "author": 499, 
+            "title": "Marsman Meets the Almighty"
+        }, 
+        {
+            "author": 499, 
+            "title": "Marsman Meets the Almighty [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Marsman Meets the Almighty [3]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Linguist"
+        }, 
+        {
+            "author": 742, 
+            "title": "Sign of the Unicorn (Part 2 of 3)"
+        }, 
+        {
+            "author": 744, 
+            "title": "The Walden Window"
+        }, 
+        {
+            "author": 744, 
+            "title": "Showcase (Galaxy, February 1975)"
+        }, 
+        {
+            "author": 734, 
+            "title": "The Velikovsky Affair"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint: Galaxy/If Dialogue #4"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, February 1975)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, February 1975) (Circulation: 47,789)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership: If (Galaxy, February 1975) (Circulation: 50,355)"
+        }, 
+        {
+            "author": 768, 
+            "title": "Marsman Meets the Almighty"
+        }, 
+        {
+            "author": 686, 
+            "title": "Allegiances"
+        }, 
+        {
+            "author": 591, 
+            "title": "Sign of the Unicorn (Part 2 of 3)"
+        }, 
+        {
+            "author": 561, 
+            "title": "The Annihilation of Angkor Apeiron"
+        }, 
+        {
+            "author": 765, 
+            "title": "The Linguist"
+        }, 
+        {
+            "author": 769, 
+            "title": "The Walden Window"
+        }
+    ]
+}

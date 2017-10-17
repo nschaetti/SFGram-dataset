@@ -1,0 +1,132 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine August 1966", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/Galaxy_v24n06_1966-08/Galaxy_v24n06_1966-08_jp2.zip&file=Galaxy_v24n06_1966-08_jp2/Galaxy_v24n06_1966-08_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/ff/GALAUG66.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        581, 
+        545, 
+        611, 
+        499, 
+        40, 
+        339, 
+        326, 
+        91, 
+        67, 
+        55, 
+        602, 
+        63, 
+        592, 
+        74, 
+        609, 
+        302
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1113, 
+    "contents": [
+        {
+            "author": 581, 
+            "title": "The Body Builders"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Body Builders [2]"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Body Builders [3]"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Body Builders [4]"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Body Builders [5]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Piper of Dis"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Piper of Dis [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Piper of Dis [3]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Heisenberg's Eyes (Part 2 of 2)"
+        }, 
+        {
+            "author": 611, 
+            "title": "Heisenberg's Eyes (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Heisenberg's Eyes (Part 2 of 2) [3]"
+        }, 
+        {
+            "author": 611, 
+            "title": "Heisenberg's Eyes (Part 2 of 2) [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Who Is Human?"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Game"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Scheherazade's Island"
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, August 1966)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, August 1966)"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Body Builders"
+        }, 
+        {
+            "author": 55, 
+            "title": "The Piper of Dis"
+        }, 
+        {
+            "author": 602, 
+            "title": "Who Is Human?"
+        }, 
+        {
+            "author": 63, 
+            "title": "Heisenberg's Eyes (Part 2 of 2)"
+        }, 
+        {
+            "author": 592, 
+            "title": "Heresies of the Huge God"
+        }, 
+        {
+            "author": 74, 
+            "title": "Among the Hairy Earthmen"
+        }, 
+        {
+            "author": 609, 
+            "title": "The Look"
+        }
+    ]
+}

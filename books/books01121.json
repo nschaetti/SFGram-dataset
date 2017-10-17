@@ -1,0 +1,169 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine February 1968", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/Galaxy_v26n03_1968-02_modified/Galaxy_v26n03_1968-02_modified_jp2.zip&file=Galaxy_v26n03_1968-02_modified_jp2/Galaxy_v26n03_1968-02_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f9/GALFEB68.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        326, 
+        499, 
+        615, 
+        519, 
+        40, 
+        339, 
+        91, 
+        23, 
+        592, 
+        67, 
+        30, 
+        621, 
+        32, 
+        45, 
+        74, 
+        302
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1121, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "A Tragedy of Errors"
+        }, 
+        {
+            "author": 545, 
+            "title": "A Tragedy of Errors [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "A Tragedy of Errors [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "A Tragedy of Errors [4]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Planet Slummers"
+        }, 
+        {
+            "author": 499, 
+            "title": "Crazy Annaoj"
+        }, 
+        {
+            "author": 615, 
+            "title": "Street of Dreams, Feet of Clay"
+        }, 
+        {
+            "author": 615, 
+            "title": "Street of Dreams, Feet of Clay [2]"
+        }, 
+        {
+            "author": 615, 
+            "title": "Street of Dreams, Feet of Clay [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Sales of a Deathman"
+        }, 
+        {
+            "author": 499, 
+            "title": "Total Environment"
+        }, 
+        {
+            "author": 499, 
+            "title": "Total Environment [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Total Environment [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Total Environment [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Total Environment [5]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Galaxy Bookshelf (Galaxy Magazine, February 1968)"
+        }, 
+        {
+            "author": 545, 
+            "title": "How They Gave It Back"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Big Show"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Big Show [2]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Playing Games"
+        }, 
+        {
+            "author": 326, 
+            "title": "Statement of Ownership (Galaxy, February 1968) (Circulation:74,700)"
+        }, 
+        {
+            "author": 339, 
+            "title": "For Your Information: Epitaph for a Lonely Olm"
+        }, 
+        {
+            "author": 91, 
+            "title": "Galaxy Bookshelf (Galaxy, February 1968)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Review of the Nonfiction Work \"This New Ocean\""
+        }, 
+        {
+            "author": 326, 
+            "title": "Forecast (Galaxy, February 1968)"
+        }, 
+        {
+            "author": 23, 
+            "title": "Street of Dreams, Feet of Clay"
+        }, 
+        {
+            "author": 592, 
+            "title": "Total Environment"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Big Show"
+        }, 
+        {
+            "author": 30, 
+            "title": "A Tragedy of Errors"
+        }, 
+        {
+            "author": 621, 
+            "title": "The Planet Slummers"
+        }, 
+        {
+            "author": 32, 
+            "title": "Crazy Annaoj"
+        }, 
+        {
+            "author": 45, 
+            "title": "Sales of a Deathman"
+        }, 
+        {
+            "author": 74, 
+            "title": "How They Gave It Back"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 302, 
+    "countries": [
+        2
+    ], 
+    "title": "Galaxy Magazine October 1976", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/Galaxy_v37n07_1976-10/Galaxy_v37n07_1976-10_jp2.zip&file=Galaxy_v37n07_1976-10_jp2/Galaxy_v37n07_1976-10_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b1/GALOCT76.jpg", 
+    "author_name": "Galaxy Magazine", 
+    "images_urls": [], 
+    "authors": [
+        742, 
+        806, 
+        499, 
+        807, 
+        734, 
+        770, 
+        767, 
+        326, 
+        797, 
+        809, 
+        604, 
+        810, 
+        741, 
+        811, 
+        302
+    ], 
+    "year": 1976, 
+    "images": [], 
+    "id": 1195, 
+    "contents": [
+        {
+            "author": 742, 
+            "title": "Showcase (Galaxy, October 1976)"
+        }, 
+        {
+            "author": 806, 
+            "title": "Bagatelle"
+        }, 
+        {
+            "author": 806, 
+            "title": "Bagatelle [2]"
+        }, 
+        {
+            "author": 806, 
+            "title": "You'll Be a Real Sensation!"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Children of the State (Part 2 of 3)"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Children of the State (Part 2 of 3) [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "The Children of the State (Part 2 of 3) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Seeker of the Way"
+        }, 
+        {
+            "author": 807, 
+            "title": "The Man at the Bottom of the Sea"
+        }, 
+        {
+            "author": 807, 
+            "title": "The Man at the Bottom of the Sea [2]"
+        }, 
+        {
+            "author": 742, 
+            "title": "Act of Faith"
+        }, 
+        {
+            "author": 734, 
+            "title": "Fusion Without Exlax"
+        }, 
+        {
+            "author": 770, 
+            "title": "Bookshelf (Galaxy, October 1976)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (Galaxy, October 1976)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Directions (Galaxy, October 1976)"
+        }, 
+        {
+            "author": 797, 
+            "title": "Bagatelle"
+        }, 
+        {
+            "author": 809, 
+            "title": "Seeker of the Way"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Children of the State (Part 2 of 3)"
+        }, 
+        {
+            "author": 810, 
+            "title": "You'll Be a Real Sensation!"
+        }, 
+        {
+            "author": 741, 
+            "title": "The Man at the Bottom of the Sea"
+        }, 
+        {
+            "author": 811, 
+            "title": "Act of Faith"
+        }
+    ]
+}
