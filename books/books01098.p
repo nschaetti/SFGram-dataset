@@ -76,129 +76,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VThe Star King (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VThe Star King (Part 1 of 2) [2]
-p34
-sa(dp35
-g10
-I363
-sg14
-VThe Star King (Part 1 of 2) [3]
-p36
-sa(dp37
-g10
-I585
-sg14
-VThe Big Pat Boom
-p38
-sa(dp39
-g10
-I584
-sg14
-VIf There Were No Benny Cemoli
-p40
-sa(dp41
-g10
-I499
-sg14
-VAnd All the Earth a Grave
-p42
-sa(dp43
-g10
-I578
-sg14
-VIn the Control Tower
-p44
-sa(dp45
-g10
-I581
-sg14
-VNo Great Magic
-p46
-sa(dp47
-g10
-I581
-sg14
-VNo Great Magic [2]
-p48
-sa(dp49
-g10
-I581
-sg14
-VNo Great Magic [3]
-p50
-sa(dp51
-g10
-I40
-sg14
-VScience-- Sacred &Amp; Profane
-p52
-sa(dp53
-g10
-I339
-sg14
-VFor Your Information: The Names of the Constellations
-p54
-sa(dp55
-g10
-I341
-sg14
-VGalaxy's 5 Star Shelf: The Infinite Moskowitz
-p56
-sa(dp57
-g10
-I326
-sg14
-VForecast (Galaxy, December 1963)
-p58
-sa(dp59
-g10
-I8
-sg14
-VIf There Were No Benny Cemoli
-p60
-sa(dp61
-g10
-I586
-sg14
-VIn the Control Tower
-p62
-sa(dp63
-g10
-I32
-sg14
-VNo Great Magic
-p64
-sa(dp65
-g10
-I587
-sg14
-VLulla
-p66
-sa(dp67
-g10
-I89
-sg14
 VThe Star King (Part 1 of 2)
-p68
-sa(dp69
-g10
-I204
-sg14
+p33
+sS'author'
+p34
+I363
+sa(dp35
+g32
+VThe Star King (Part 1 of 2) [2]
+p36
+sg34
+I363
+sa(dp37
+g32
+VThe Star King (Part 1 of 2) [3]
+p38
+sg34
+I363
+sa(dp39
+g32
 VThe Big Pat Boom
-p70
-sa(dp71
-g10
-I111
-sg14
+p40
+sg34
+I585
+sa(dp41
+g32
+VIf There Were No Benny Cemoli
+p42
+sg34
+I584
+sa(dp43
+g32
 VAnd All the Earth a Grave
+p44
+sg34
+I499
+sa(dp45
+g32
+VIn the Control Tower
+p46
+sg34
+I578
+sa(dp47
+g32
+VNo Great Magic
+p48
+sg34
+I581
+sa(dp49
+g32
+VNo Great Magic [2]
+p50
+sg34
+I581
+sa(dp51
+g32
+VNo Great Magic [3]
+p52
+sg34
+I581
+sa(dp53
+g32
+VScience-- Sacred &Amp; Profane
+p54
+sg34
+I40
+sa(dp55
+g32
+VFor Your Information: The Names of the Constellations
+p56
+sg34
+I339
+sa(dp57
+g32
+VGalaxy's 5 Star Shelf: The Infinite Moskowitz
+p58
+sg34
+I341
+sa(dp59
+g32
+VForecast (Galaxy, December 1963)
+p60
+sg34
+I326
+sa(dp61
+g32
+VIf There Were No Benny Cemoli
+p62
+sg34
+I8
+sa(dp63
+g32
+VIn the Control Tower
+p64
+sg34
+I586
+sa(dp65
+g32
+VNo Great Magic
+p66
+sg34
+I32
+sa(dp67
+g32
+VLulla
+p68
+sg34
+I587
+sa(dp69
+g32
+VThe Star King (Part 1 of 2)
+p70
+sg34
+I89
+sa(dp71
+g32
+VThe Big Pat Boom
 p72
+sg34
+I204
+sa(dp73
+g32
+VAnd All the Earth a Grave
+p74
+sg34
+I111
 sasb.

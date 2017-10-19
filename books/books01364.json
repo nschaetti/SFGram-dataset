@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1970", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/1970-04_IF/1970-04_IF_jp2.zip&file=1970-04_IF_jp2/1970-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/ee/WOFIFAPR1970.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        356, 
+        3, 
+        1201, 
+        63, 
+        153, 
+        225, 
+        74, 
+        711, 
+        918
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1364, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Waterclap"
+        }, 
+        {
+            "author": 326, 
+            "title": "To Touch a Star"
+        }, 
+        {
+            "author": 326, 
+            "title": "Spaceman"
+        }, 
+        {
+            "author": 499, 
+            "title": "Swap"
+        }, 
+        {
+            "author": 499, 
+            "title": "Ride a Tin Can"
+        }, 
+        {
+            "author": 499, 
+            "title": "Thou Spark of Blood"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whipping Star (Part 4 of 4)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, April 1970)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, April 1970)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, April 1970)"
+        }, 
+        {
+            "author": 3, 
+            "title": "Waterclap"
+        }, 
+        {
+            "author": 1201, 
+            "title": "Spaceman"
+        }, 
+        {
+            "author": 63, 
+            "title": "Whipping Star (Part 4 of 4)"
+        }, 
+        {
+            "author": 153, 
+            "title": "To Touch a Star"
+        }, 
+        {
+            "author": 225, 
+            "title": "Swap"
+        }, 
+        {
+            "author": 74, 
+            "title": "Ride a Tin Can"
+        }, 
+        {
+            "author": 711, 
+            "title": "Thou Spark of Blood"
+        }
+    ]
+}

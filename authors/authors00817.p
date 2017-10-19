@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I817
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I1199
 aI1200
 aI1201
@@ -29,7 +26,10 @@ aI1205
 aI1206
 aI1209
 aI1212
-asS'name'
+asS'id'
+p10
+I817
+sS'name'
 p11
 VCharles Sheffield
 p12

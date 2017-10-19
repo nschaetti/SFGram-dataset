@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1965", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/1965-10_IF/1965-10_IF_jp2.zip&file=1965-10_IF_jp2/1965-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/af/WOFIFOCT1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        545, 
+        578, 
+        40, 
+        326, 
+        153, 
+        315, 
+        67, 
+        1074, 
+        69, 
+        470, 
+        1119, 
+        135, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1312, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Retief's War (Part 1 of 3)"
+        }, 
+        {
+            "author": 545, 
+            "title": "Origin of Species"
+        }, 
+        {
+            "author": 578, 
+            "title": "An Ounce of Emotion"
+        }, 
+        {
+            "author": 545, 
+            "title": "Skylark Duquesne (Part 5 of 5)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Where Are They Now?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Bibliography: The Natural History of Retief"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, October 1965)"
+        }, 
+        {
+            "author": 153, 
+            "title": "Origin of Species"
+        }, 
+        {
+            "author": 315, 
+            "title": "An Ounce of Emotion"
+        }, 
+        {
+            "author": 67, 
+            "title": "Retief's War (Part 1 of 3)"
+        }, 
+        {
+            "author": 1074, 
+            "title": "Skylark Duquesne (Part 5 of 5)"
+        }, 
+        {
+            "author": 69, 
+            "title": "A Leader for Yesteryear"
+        }, 
+        {
+            "author": 470, 
+            "title": "The Smiling Future"
+        }, 
+        {
+            "author": 1119, 
+            "title": "Purpose"
+        }, 
+        {
+            "author": 135, 
+            "title": "Short Trip to Nowhere"
+        }
+    ]
+}

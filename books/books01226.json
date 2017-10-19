@@ -1,0 +1,142 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1953", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/1953-07_IF/1953-07_IF_jp2.zip&file=1953-07_IF_jp2/1953-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/visco/Magazines/WIF123/WIF1_0003.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        497, 
+        363, 
+        412, 
+        956, 
+        961, 
+        424, 
+        948, 
+        952, 
+        957, 
+        326, 
+        89, 
+        361, 
+        94, 
+        962, 
+        616, 
+        963, 
+        273, 
+        376, 
+        236, 
+        928, 
+        918
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1226, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "Mercury"
+        }, 
+        {
+            "author": 497, 
+            "title": "Sjambak"
+        }, 
+        {
+            "author": 363, 
+            "title": "Irresistible Weapon"
+        }, 
+        {
+            "author": 412, 
+            "title": "A Bottle of Old Wine"
+        }, 
+        {
+            "author": 956, 
+            "title": "Celebrity"
+        }, 
+        {
+            "author": 412, 
+            "title": "Brink of Madness"
+        }, 
+        {
+            "author": 961, 
+            "title": "One Martian Afternoon"
+        }, 
+        {
+            "author": 424, 
+            "title": "Weak On Square Roots"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Lonely Ones"
+        }, 
+        {
+            "author": 956, 
+            "title": "Progress Report"
+        }, 
+        {
+            "author": 951, 
+            "title": "Venus"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, July 1953)"
+        }, 
+        {
+            "author": 952, 
+            "title": "Personalities in Science: Donald W. Kerst"
+        }, 
+        {
+            "author": 957, 
+            "title": "Science Briefs (If, July 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh (If, July 1953)"
+        }, 
+        {
+            "author": 89, 
+            "title": "Sjambak"
+        }, 
+        {
+            "author": 361, 
+            "title": "Brink of Madness"
+        }, 
+        {
+            "author": 94, 
+            "title": "Irresistible Weapon"
+        }, 
+        {
+            "author": 962, 
+            "title": "A Bottle of Old Wine"
+        }, 
+        {
+            "author": 616, 
+            "title": "Celebrity"
+        }, 
+        {
+            "author": 963, 
+            "title": "One Martian Afternoon"
+        }, 
+        {
+            "author": 273, 
+            "title": "Weak On Square Roots"
+        }, 
+        {
+            "author": 376, 
+            "title": "The Lonely Ones"
+        }, 
+        {
+            "author": 236, 
+            "title": "Progress Report"
+        }, 
+        {
+            "author": 928, 
+            "title": "The Guinea Pigs"
+        }
+    ]
+}

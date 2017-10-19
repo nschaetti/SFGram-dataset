@@ -69,105 +69,107 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VDarkside Crossing
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VThe Stenth Dimension
-p34
-sa(dp35
-g10
-I326
-sg14
-VWe Are Well Organized
-p36
-sa(dp37
-g10
-I326
-sg14
-VWe Are Well Organized [2]
-p38
-sa(dp39
-g10
-I326
-sg14
-VTwo Thousand One Hours Solo
-p40
-sa(dp41
-g10
-I326
-sg14
-VThe Mad Scientist and the Fbi
-p42
-sa(dp43
-g10
-I326
-sg14
-VI Will Fear No Evil (Part 4 of 4)
-p44
-sa(dp45
-g10
-I326
-sg14
-VI Will Fear No Evil (Part 4 of 4) [2]
-p46
-sa(dp47
-g10
-I667
-sg14
-V43&Deg; N, 154&Deg; E
-p48
-sa(dp49
-g10
-I91
-sg14
-VGalaxy Book Shelf (Galaxy, December 1970)
-p50
-sa(dp51
-g10
-I67
-sg14
-VThe Limiting Velocity of Orthodoxy
-p52
-sa(dp53
-g10
-I55
-sg14
 VDarkside Crossing
-p54
-sa(dp55
-g10
-I50
-sg14
-VWe Are Well Organized
-p56
-sa(dp57
-g10
-I371
-sg14
-VI Will Fear No Evil (Part 4 of 4)
-p58
-sa(dp59
-g10
-I687
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
 VThe Stenth Dimension
-p60
-sa(dp61
-g10
-I688
-sg14
+p36
+sg34
+I326
+sa(dp37
+g32
+VWe Are Well Organized
+p38
+sg34
+I326
+sa(dp39
+g32
+VWe Are Well Organized [2]
+p40
+sg34
+I326
+sa(dp41
+g32
 VTwo Thousand One Hours Solo
-p62
-sa(dp63
-g10
-I478
-sg14
+p42
+sg34
+I326
+sa(dp43
+g32
 VThe Mad Scientist and the Fbi
+p44
+sg34
+I326
+sa(dp45
+g32
+VI Will Fear No Evil (Part 4 of 4)
+p46
+sg34
+I326
+sa(dp47
+g32
+VI Will Fear No Evil (Part 4 of 4) [2]
+p48
+sg34
+I326
+sa(dp49
+g32
+V43&Deg; N, 154&Deg; E
+p50
+sg34
+I667
+sa(dp51
+g32
+VGalaxy Book Shelf (Galaxy, December 1970)
+p52
+sg34
+I91
+sa(dp53
+g32
+VThe Limiting Velocity of Orthodoxy
+p54
+sg34
+I67
+sa(dp55
+g32
+VDarkside Crossing
+p56
+sg34
+I55
+sa(dp57
+g32
+VWe Are Well Organized
+p58
+sg34
+I50
+sa(dp59
+g32
+VI Will Fear No Evil (Part 4 of 4)
+p60
+sg34
+I371
+sa(dp61
+g32
+VThe Stenth Dimension
+p62
+sg34
+I687
+sa(dp63
+g32
+VTwo Thousand One Hours Solo
 p64
+sg34
+I688
+sa(dp65
+g32
+VThe Mad Scientist and the Fbi
+p66
+sg34
+I478
 sasb.

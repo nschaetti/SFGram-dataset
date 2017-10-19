@@ -1,0 +1,129 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1974", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/1974-09-10_IF_modified/1974-09-10_IF_modified_jp2.zip&file=1974-09-10_IF_modified_jp2/1974-09-10_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/de/WOFIFSEPOCT1974.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        744, 
+        739, 
+        742, 
+        1240, 
+        1238, 
+        764, 
+        356, 
+        767, 
+        1241, 
+        635, 
+        30, 
+        748, 
+        1242, 
+        1243, 
+        1244, 
+        918
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1391, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "A Knight of Ghosts and Shadows (Part 1 of 2)"
+        }, 
+        {
+            "author": 744, 
+            "title": "Torchships Now! (If, September-October 1974)"
+        }, 
+        {
+            "author": 739, 
+            "title": "Ars Gratia (If, September-October 1974)"
+        }, 
+        {
+            "author": 742, 
+            "title": "Mephisto and the Ion Explorer"
+        }, 
+        {
+            "author": 326, 
+            "title": "Such Is Fate"
+        }, 
+        {
+            "author": 326, 
+            "title": "Julie"
+        }, 
+        {
+            "author": 326, 
+            "title": "Death and Taxes"
+        }, 
+        {
+            "author": 744, 
+            "title": "Egantei and the Sage"
+        }, 
+        {
+            "author": 1240, 
+            "title": "Saying Good"
+        }, 
+        {
+            "author": 1238, 
+            "title": "Torchships Now! (If, September-October 1974)"
+        }, 
+        {
+            "author": 764, 
+            "title": "On Building Walls"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, September-October 1974)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (If, September-October 1974)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, September-October 1974)"
+        }, 
+        {
+            "author": 1241, 
+            "title": "Letter (If, September-October 1974)"
+        }, 
+        {
+            "author": 767, 
+            "title": "Letter (If, September-October 1974)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, September-October 1974)"
+        }, 
+        {
+            "author": 635, 
+            "title": "Mephisto and the Ion Explorer"
+        }, 
+        {
+            "author": 30, 
+            "title": "A Knight of Ghosts and Shadows (Part 1 of 2)"
+        }, 
+        {
+            "author": 748, 
+            "title": "Such Is Fate"
+        }, 
+        {
+            "author": 1242, 
+            "title": "Julie"
+        }, 
+        {
+            "author": 1243, 
+            "title": "Egantei and the Sage"
+        }, 
+        {
+            "author": 1244, 
+            "title": "Death and Taxes"
+        }
+    ]
+}

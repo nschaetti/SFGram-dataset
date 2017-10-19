@@ -1,0 +1,130 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1986", 
+    "cover": "https://ia800203.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/1986-Fall-If/1986-Fall-If_jp2.zip&file=1986-Fall-If_jp2/1986-Fall-If_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/51/WOFIFSEPNOV1986.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        1247, 
+        806, 
+        1248, 
+        1202, 
+        1249, 
+        1250, 
+        1251, 
+        658, 
+        604, 
+        1252, 
+        1253, 
+        1254, 
+        1255, 
+        1256, 
+        1257, 
+        1258, 
+        591, 
+        918
+    ], 
+    "year": 1986, 
+    "images": [], 
+    "id": 1393, 
+    "contents": [
+        {
+            "author": 1247, 
+            "title": "Love of Life"
+        }, 
+        {
+            "author": 806, 
+            "title": "Prologue to Freedom"
+        }, 
+        {
+            "author": 806, 
+            "title": "Cloudscape"
+        }, 
+        {
+            "author": 1247, 
+            "title": "Cartoon: \"Why Not to Use Electrical Outlets in Dungeons\""
+        }, 
+        {
+            "author": 1248, 
+            "title": "Ring Shot"
+        }, 
+        {
+            "author": 806, 
+            "title": "Marchplateau"
+        }, 
+        {
+            "author": 1202, 
+            "title": "Samurai Fugue"
+        }, 
+        {
+            "author": 1249, 
+            "title": "Night Kings"
+        }, 
+        {
+            "author": 1249, 
+            "title": "Night Kings [2]"
+        }, 
+        {
+            "author": 1250, 
+            "title": "Editorial (Worlds of If, September-November 1986)"
+        }, 
+        {
+            "author": 1251, 
+            "title": "The Light Fantastic: Book Reviews"
+        }, 
+        {
+            "author": 1251, 
+            "title": "Fantasy Books: The New Humanism"
+        }, 
+        {
+            "author": 658, 
+            "title": "Introduction to \"Prologue to Freedom\""
+        }, 
+        {
+            "author": 604, 
+            "title": "Staying Rich"
+        }, 
+        {
+            "author": 1252, 
+            "title": "Savage Cinema: Scattered Thoughts On the State of Sf On Film"
+        }, 
+        {
+            "author": 1253, 
+            "title": "Under Gaming"
+        }, 
+        {
+            "author": 658, 
+            "title": "Prologue to Freedom"
+        }, 
+        {
+            "author": 1254, 
+            "title": "Marchplateau"
+        }, 
+        {
+            "author": 1255, 
+            "title": "Love of Life"
+        }, 
+        {
+            "author": 1256, 
+            "title": "Cloudscape"
+        }, 
+        {
+            "author": 1257, 
+            "title": "Ring Shot"
+        }, 
+        {
+            "author": 1258, 
+            "title": "Samurai Fugue"
+        }, 
+        {
+            "author": 591, 
+            "title": "Night Kings"
+        }
+    ]
+}

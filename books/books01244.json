@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1955", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/1955-05_IF_modified/1955-05_IF_modified_jp2.zip&file=1955-05_IF_modified_jp2/1955-05_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9d/WOFIFMAY1955.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        412, 
+        956, 
+        363, 
+        948, 
+        326, 
+        631, 
+        982, 
+        55, 
+        1011, 
+        1012, 
+        234, 
+        609, 
+        1013, 
+        918
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1244, 
+    "contents": [
+        {
+            "author": 412, 
+            "title": "The Strangers"
+        }, 
+        {
+            "author": 412, 
+            "title": "Snowball"
+        }, 
+        {
+            "author": 412, 
+            "title": "Watershed"
+        }, 
+        {
+            "author": 956, 
+            "title": "Easy Does It"
+        }, 
+        {
+            "author": 956, 
+            "title": "They Were Different"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Laboratorians"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Outer Quiet"
+        }, 
+        {
+            "author": 412, 
+            "title": "Witness"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, May 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, May 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, May 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, May 1955)"
+        }, 
+        {
+            "author": 631, 
+            "title": "Easy Does It"
+        }, 
+        {
+            "author": 982, 
+            "title": "The Pacifists"
+        }, 
+        {
+            "author": 55, 
+            "title": "Watershed"
+        }, 
+        {
+            "author": 1011, 
+            "title": "They Were Different"
+        }, 
+        {
+            "author": 1012, 
+            "title": "The Laboratorians"
+        }, 
+        {
+            "author": 234, 
+            "title": "The Outer Quiet"
+        }, 
+        {
+            "author": 609, 
+            "title": "Witness"
+        }, 
+        {
+            "author": 1013, 
+            "title": "Firth's World"
+        }
+    ]
+}

@@ -70,105 +70,107 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VTo Fit the Crime
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VNecessary and Sufficient
-p34
-sa(dp35
-g10
-I326
-sg14
-VTakeover
-p36
-sa(dp37
-g10
-I326
-sg14
-VThe Exorcism
-p38
-sa(dp39
-g10
-I326
-sg14
-VLiaison Assignment
-p40
-sa(dp41
-g10
-I499
-sg14
-VDefender of Death
-p42
-sa(dp43
-g10
-I326
-sg14
-VA Time of Changes (Part 2 of 3)
-p44
-sa(dp45
-g10
-I667
-sg14
-VLetters 2
-p46
-sa(dp47
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, April 1971)
-p48
-sa(dp49
-g10
-I91
-sg14
-VGalaxy Book Shelf (Galaxy, April 1971)
-p50
-sa(dp51
-g10
-I660
-sg14
 VTo Fit the Crime
-p52
-sa(dp53
-g10
-I679
-sg14
-VLiaison Assignment
-p54
-sa(dp55
-g10
-I696
-sg14
-VDefender of Death
-p56
-sa(dp57
-g10
-I50
-sg14
-VA Time of Changes (Part 2 of 3)
-p58
-sa(dp59
-g10
-I341
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VNecessary and Sufficient
-p60
-sa(dp61
-g10
-I663
-sg14
+p36
+sg34
+I326
+sa(dp37
+g32
 VTakeover
-p62
-sa(dp63
-g10
-I694
-sg14
+p38
+sg34
+I326
+sa(dp39
+g32
 VThe Exorcism
+p40
+sg34
+I326
+sa(dp41
+g32
+VLiaison Assignment
+p42
+sg34
+I326
+sa(dp43
+g32
+VDefender of Death
+p44
+sg34
+I499
+sa(dp45
+g32
+VA Time of Changes (Part 2 of 3)
+p46
+sg34
+I326
+sa(dp47
+g32
+VLetters 2
+p48
+sg34
+I667
+sa(dp49
+g32
+VGalaxy Stars (Galaxy, April 1971)
+p50
+sg34
+I326
+sa(dp51
+g32
+VGalaxy Book Shelf (Galaxy, April 1971)
+p52
+sg34
+I91
+sa(dp53
+g32
+VTo Fit the Crime
+p54
+sg34
+I660
+sa(dp55
+g32
+VLiaison Assignment
+p56
+sg34
+I679
+sa(dp57
+g32
+VDefender of Death
+p58
+sg34
+I696
+sa(dp59
+g32
+VA Time of Changes (Part 2 of 3)
+p60
+sg34
+I50
+sa(dp61
+g32
+VNecessary and Sufficient
+p62
+sg34
+I341
+sa(dp63
+g32
+VTakeover
 p64
+sg34
+I663
+sa(dp65
+g32
+VThe Exorcism
+p66
+sg34
+I694
 sasb.

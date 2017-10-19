@@ -70,93 +70,95 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VOrbitsville (Part 1 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VWhere There's Smoke
-p34
-sa(dp35
-g10
-I326
-sg14
-VThe Private War of Pvt. Jacob
-p36
-sa(dp37
-g10
-I326
-sg14
-VThe Glitch
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Org's Egg (Part 3 of 3)
-p40
-sa(dp41
-g10
-I499
-sg14
-VLittle Game
-p42
-sa(dp43
-g10
-I738
-sg14
-VForum: Farewell to Yesterday's Tomorrow
-p44
-sa(dp45
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, June 1974)
-p46
-sa(dp47
-g10
-I734
-sg14
-VHow Long to Doomsday
-p48
-sa(dp49
-g10
-I55
-sg14
-VThe Glitch
-p50
-sa(dp51
-g10
-I418
-sg14
-VLittle Game
-p52
-sa(dp53
-g10
-I665
-sg14
 VOrbitsville (Part 1 of 3)
-p54
-sa(dp55
-g10
-I86
-sg14
-VThe Org's Egg (Part 3 of 3)
-p56
-sa(dp57
-g10
-I651
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
 VWhere There's Smoke
-p58
-sa(dp59
-g10
-I660
-sg14
+p36
+sg34
+I326
+sa(dp37
+g32
 VThe Private War of Pvt. Jacob
+p38
+sg34
+I326
+sa(dp39
+g32
+VThe Glitch
+p40
+sg34
+I326
+sa(dp41
+g32
+VThe Org's Egg (Part 3 of 3)
+p42
+sg34
+I499
+sa(dp43
+g32
+VLittle Game
+p44
+sg34
+I499
+sa(dp45
+g32
+VForum: Farewell to Yesterday's Tomorrow
+p46
+sg34
+I738
+sa(dp47
+g32
+VGalaxy Bookshelf (Galaxy, June 1974)
+p48
+sg34
+I341
+sa(dp49
+g32
+VHow Long to Doomsday
+p50
+sg34
+I734
+sa(dp51
+g32
+VThe Glitch
+p52
+sg34
+I55
+sa(dp53
+g32
+VLittle Game
+p54
+sg34
+I418
+sa(dp55
+g32
+VOrbitsville (Part 1 of 3)
+p56
+sg34
+I665
+sa(dp57
+g32
+VThe Org's Egg (Part 3 of 3)
+p58
+sg34
+I86
+sa(dp59
+g32
+VWhere There's Smoke
 p60
+sg34
+I651
+sa(dp61
+g32
+VThe Private War of Pvt. Jacob
+p62
+sg34
+I660
 sasb.

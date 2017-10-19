@@ -1,0 +1,123 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1974", 
+    "cover": "https://ia801305.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/1974-06_IF/1974-06_IF_jp2.zip&file=1974-06_IF_jp2/1974-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e5/WOFIFMAYJUN1974.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        753, 
+        40, 
+        767, 
+        356, 
+        764, 
+        3, 
+        561, 
+        50, 
+        81, 
+        136, 
+        69, 
+        1236, 
+        918
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1389, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Stranger in Paradise"
+        }, 
+        {
+            "author": 499, 
+            "title": "House Divided"
+        }, 
+        {
+            "author": 499, 
+            "title": "Berserker's Planet (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Cantor's War"
+        }, 
+        {
+            "author": 499, 
+            "title": "Aura of Immortality"
+        }, 
+        {
+            "author": 499, 
+            "title": "Second Advent"
+        }, 
+        {
+            "author": 326, 
+            "title": "The People's Choice"
+        }, 
+        {
+            "author": 499, 
+            "title": "Nostradamus"
+        }, 
+        {
+            "author": 753, 
+            "title": "Ars Gratia (If, May-June 1974)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Guest Editorial (If, May-June 1974)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (If, May-June 1974)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, May-June 1974)"
+        }, 
+        {
+            "author": 764, 
+            "title": "Hue and Cry (If, May-June 1974)"
+        }, 
+        {
+            "author": 764, 
+            "title": "An Editorial Appeal"
+        }, 
+        {
+            "author": 3, 
+            "title": "Stranger in Paradise"
+        }, 
+        {
+            "author": 561, 
+            "title": "Berserker's Planet (Part 1 of 2)"
+        }, 
+        {
+            "author": 50, 
+            "title": "House Divided"
+        }, 
+        {
+            "author": 81, 
+            "title": "Cantor's War"
+        }, 
+        {
+            "author": 136, 
+            "title": "Aura of Immortality"
+        }, 
+        {
+            "author": 69, 
+            "title": "Second Advent"
+        }, 
+        {
+            "author": 1236, 
+            "title": "The People's Choice"
+        }, 
+        {
+            "author": 69, 
+            "title": "Nostradamus"
+        }
+    ]
+}

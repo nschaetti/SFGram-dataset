@@ -76,141 +76,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I497
-sg14
-VA Planet Named Shayol
+S'title'
 p32
-sa(dp33
-g10
-I497
-sg14
-VA Planet Named Shayol [2]
-p34
-sa(dp35
-g10
-I556
-sg14
-VCrime Machine
-p36
-sa(dp37
-g10
-I556
-sg14
-VCrime Machine [2]
-p38
-sa(dp39
-g10
-I419
-sg14
-VThe Abominable Earthman
-p40
-sa(dp41
-g10
-I419
-sg14
-VMating Call
-p42
-sa(dp43
-g10
-I568
-sg14
-VArcturus Times Three
-p44
-sa(dp45
-g10
-I568
-sg14
-VArcturus Times Three [2]
-p46
-sa(dp47
-g10
-I419
-sg14
-VThe Beat Cluster
-p48
-sa(dp49
-g10
-I488
-sg14
-VThe Spy in the Elevator
-p50
-sa(dp51
-g10
-I488
-sg14
-VThe Spy in the Elevator [2]
-p52
-sa(dp53
-g10
-I565
-sg14
-VHow Much Is Enough?
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: The Home-Made Land
-p56
-sa(dp57
-g10
-I326
-sg14
-VForecast (Galaxy, October 1961)
-p58
-sa(dp59
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, October 1961)
-p60
-sa(dp61
-g10
-I479
-sg14
 VA Planet Named Shayol
-p62
-sa(dp63
-g10
-I40
-sg14
-VThe Abominable Earthman
-p64
-sa(dp65
-g10
-I205
-sg14
-VArcturus Times Three
-p66
-sa(dp67
-g10
-I168
-sg14
-VThe Spy in the Elevator
-p68
-sa(dp69
-g10
-I45
-sg14
+p33
+sS'author'
+p34
+I497
+sa(dp35
+g32
+VA Planet Named Shayol [2]
+p36
+sg34
+I497
+sa(dp37
+g32
 VCrime Machine
-p70
-sa(dp71
-g10
-I95
-sg14
-VAmateur in Chancery
-p72
-sa(dp73
-g10
-I63
-sg14
+p38
+sg34
+I556
+sa(dp39
+g32
+VCrime Machine [2]
+p40
+sg34
+I556
+sa(dp41
+g32
+VThe Abominable Earthman
+p42
+sg34
+I419
+sa(dp43
+g32
 VMating Call
-p74
-sa(dp75
-g10
-I32
-sg14
+p44
+sg34
+I419
+sa(dp45
+g32
+VArcturus Times Three
+p46
+sg34
+I568
+sa(dp47
+g32
+VArcturus Times Three [2]
+p48
+sg34
+I568
+sa(dp49
+g32
 VThe Beat Cluster
+p50
+sg34
+I419
+sa(dp51
+g32
+VThe Spy in the Elevator
+p52
+sg34
+I488
+sa(dp53
+g32
+VThe Spy in the Elevator [2]
+p54
+sg34
+I488
+sa(dp55
+g32
+VHow Much Is Enough?
+p56
+sg34
+I565
+sa(dp57
+g32
+VFor Your Information: The Home-Made Land
+p58
+sg34
+I339
+sa(dp59
+g32
+VForecast (Galaxy, October 1961)
+p60
+sg34
+I326
+sa(dp61
+g32
+VGalaxy's 5 Star Shelf (Galaxy, October 1961)
+p62
+sg34
+I483
+sa(dp63
+g32
+VA Planet Named Shayol
+p64
+sg34
+I479
+sa(dp65
+g32
+VThe Abominable Earthman
+p66
+sg34
+I40
+sa(dp67
+g32
+VArcturus Times Three
+p68
+sg34
+I205
+sa(dp69
+g32
+VThe Spy in the Elevator
+p70
+sg34
+I168
+sa(dp71
+g32
+VCrime Machine
+p72
+sg34
+I45
+sa(dp73
+g32
+VAmateur in Chancery
+p74
+sg34
+I95
+sa(dp75
+g32
+VMating Call
 p76
+sg34
+I63
+sa(dp77
+g32
+VThe Beat Cluster
+p78
+sg34
+I32
 sasb.

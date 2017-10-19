@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1967", 
+    "cover": "https://ia601306.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/1967-11_IF/1967-11_IF_jp2.zip&file=1967-11_IF_jp2/1967-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/26/WOFIFNOV1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        615, 
+        545, 
+        519, 
+        593, 
+        40, 
+        111, 
+        42, 
+        618, 
+        561, 
+        70, 
+        1157, 
+        617, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1337, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Brother Berserker"
+        }, 
+        {
+            "author": 615, 
+            "title": "Mail Drop"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Shadow of Space"
+        }, 
+        {
+            "author": 519, 
+            "title": "Dreamhouse"
+        }, 
+        {
+            "author": 615, 
+            "title": "In the Jaws of Danger"
+        }, 
+        {
+            "author": 593, 
+            "title": "Ocean On Top (Part 2 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Rapid Transit"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, November 1967)"
+        }, 
+        {
+            "author": 111, 
+            "title": "Mail Drop"
+        }, 
+        {
+            "author": 42, 
+            "title": "The Shadow of Space"
+        }, 
+        {
+            "author": 618, 
+            "title": "Dreamhouse"
+        }, 
+        {
+            "author": 561, 
+            "title": "Brother Berserker"
+        }, 
+        {
+            "author": 70, 
+            "title": "Ocean On Top (Part 2 of 3)"
+        }, 
+        {
+            "author": 1157, 
+            "title": "Thus Spake Marco Polo"
+        }, 
+        {
+            "author": 617, 
+            "title": "In the Jaws of Danger"
+        }
+    ]
+}

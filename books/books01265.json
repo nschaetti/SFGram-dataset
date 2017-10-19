@@ -1,0 +1,106 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1958", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/1958-10_IF/1958-10_IF_jp2.zip&file=1958-10_IF_jp2/1958-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/ed/WOFIFOCT1958.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        412, 
+        363, 
+        956, 
+        326, 
+        204, 
+        1030, 
+        1046, 
+        1047, 
+        630, 
+        396, 
+        225, 
+        479, 
+        972, 
+        918
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1265, 
+    "contents": [
+        {
+            "author": 412, 
+            "title": "The Pure Observers"
+        }, 
+        {
+            "author": 412, 
+            "title": "Albatross"
+        }, 
+        {
+            "author": 363, 
+            "title": "Man Alone"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Toothache On Zenob"
+        }, 
+        {
+            "author": 956, 
+            "title": "Shandy"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Fishdollar Affair"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Burning of the Brain"
+        }, 
+        {
+            "author": 956, 
+            "title": "Brink of Creation"
+        }, 
+        {
+            "author": 204, 
+            "title": "In the Balance (If, October 1958)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Retort (If, October 1958)"
+        }, 
+        {
+            "author": 1030, 
+            "title": "Man Alone"
+        }, 
+        {
+            "author": 1046, 
+            "title": "The Fishdollar Affair"
+        }, 
+        {
+            "author": 1047, 
+            "title": "The Pure Observers"
+        }, 
+        {
+            "author": 630, 
+            "title": "Albatross"
+        }, 
+        {
+            "author": 396, 
+            "title": "A Toothache On Zenob"
+        }, 
+        {
+            "author": 225, 
+            "title": "Shandy"
+        }, 
+        {
+            "author": 479, 
+            "title": "The Burning of the Brain"
+        }, 
+        {
+            "author": 972, 
+            "title": "Brink of Creation"
+        }
+    ]
+}

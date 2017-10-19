@@ -68,93 +68,95 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VProject 40 (Part 3 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VThe Girl and the Dolphin
-p34
-sa(dp35
-g10
-I326
-sg14
-VInterference
-p36
-sa(dp37
-g10
-I326
-sg14
-VCrimescan
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Last Hunt
-p40
-sa(dp41
-g10
-I499
-sg14
-VSix Men From Alpha
-p42
-sa(dp43
-g10
-I326
-sg14
-VDirections (Galaxy Magazine, March-April 1973)
-p44
-sa(dp45
-g10
-I713
-sg14
-VGalaxy Stars (Galaxy, March-April 1973)
-p46
-sa(dp47
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, March-April 1973)
-p48
-sa(dp49
-g10
-I63
-sg14
 VProject 40 (Part 3 of 3)
-p50
-sa(dp51
-g10
-I713
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
 VThe Girl and the Dolphin
-p52
-sa(dp53
-g10
-I714
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
 VInterference
-p54
-sa(dp55
-g10
-I635
-sg14
+p38
+sg34
+I326
+sa(dp39
+g32
 VCrimescan
-p56
-sa(dp57
-g10
-I630
-sg14
+p40
+sg34
+I326
+sa(dp41
+g32
 VThe Last Hunt
-p58
-sa(dp59
-g10
-I715
-sg14
+p42
+sg34
+I499
+sa(dp43
+g32
 VSix Men From Alpha
+p44
+sg34
+I499
+sa(dp45
+g32
+VDirections (Galaxy Magazine, March-April 1973)
+p46
+sg34
+I326
+sa(dp47
+g32
+VGalaxy Stars (Galaxy, March-April 1973)
+p48
+sg34
+I713
+sa(dp49
+g32
+VGalaxy Bookshelf (Galaxy, March-April 1973)
+p50
+sg34
+I341
+sa(dp51
+g32
+VProject 40 (Part 3 of 3)
+p52
+sg34
+I63
+sa(dp53
+g32
+VThe Girl and the Dolphin
+p54
+sg34
+I713
+sa(dp55
+g32
+VInterference
+p56
+sg34
+I714
+sa(dp57
+g32
+VCrimescan
+p58
+sg34
+I635
+sa(dp59
+g32
+VThe Last Hunt
 p60
+sg34
+I630
+sa(dp61
+g32
+VSix Men From Alpha
+p62
+sg34
+I715
 sasb.

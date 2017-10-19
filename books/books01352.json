@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1969", 
+    "cover": "https://ia601306.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/1969-02_IF/1969-02_IF_jp2.zip&file=1969-02_IF_jp2/1969-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/8e/WOFIFFEB1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        626, 
+        499, 
+        1179, 
+        1180, 
+        305, 
+        45, 
+        356, 
+        326, 
+        40, 
+        629, 
+        384, 
+        16, 
+        549, 
+        1181, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1352, 
+    "contents": [
+        {
+            "author": 626, 
+            "title": "Beside the Walking Mountain"
+        }, 
+        {
+            "author": 499, 
+            "title": "At Bay with the Baycon"
+        }, 
+        {
+            "author": 1179, 
+            "title": "Trial"
+        }, 
+        {
+            "author": 1180, 
+            "title": "Authorgraphs: An Interview with Harry Harrison"
+        }, 
+        {
+            "author": 499, 
+            "title": "Six Gates to Limbo (Part 2 of 2)"
+        }, 
+        {
+            "author": 305, 
+            "title": "Guest Editorial: The \"Hoax\" Story"
+        }, 
+        {
+            "author": 45, 
+            "title": "At Bay with the Baycon"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, February 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, February 1969)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, February 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Authorgraphs: An Interview with Harry Harrison"
+        }, 
+        {
+            "author": 629, 
+            "title": "Beside the Walking Mountain"
+        }, 
+        {
+            "author": 384, 
+            "title": "Six Gates to Limbo (Part 2 of 2)"
+        }, 
+        {
+            "author": 16, 
+            "title": "Praiseworthy Saur"
+        }, 
+        {
+            "author": 549, 
+            "title": "The Defendant Earth"
+        }, 
+        {
+            "author": 1181, 
+            "title": "The Fire Egg"
+        }
+    ]
+}

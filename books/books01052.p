@@ -74,135 +74,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I504
-sg14
-VLulu
+S'title'
 p32
-sa(dp33
-g10
-I504
-sg14
-VLulu [2]
-p34
-sa(dp35
-g10
-I504
-sg14
-VLulu [3]
-p36
-sa(dp37
-g10
-I510
-sg14
-VPrime Difference
-p38
-sa(dp39
-g10
-I419
-sg14
-VThe Hardest Bargain
-p40
-sa(dp41
-g10
-I419
-sg14
-VThe Hardest Bargain [2]
-p42
-sa(dp43
-g10
-I419
-sg14
-VThe Hardest Bargain [3]
-p44
-sa(dp45
-g10
-I511
-sg14
-VLeading Man
-p46
-sa(dp47
-g10
-I419
-sg14
-VShock Troop
-p48
-sa(dp49
-g10
-I512
-sg14
-VConfidence Game
-p50
-sa(dp51
-g10
-I512
-sg14
-VConfidence Game [2]
-p52
-sa(dp53
-g10
-I512
-sg14
-VConfidence Game [3]
-p54
-sa(dp55
-g10
-I305
-sg14
-VPostscript
-p56
-sa(dp57
-g10
-I339
-sg14
-VFor Your Information: Tribes of the Dinosaurs
-p58
-sa(dp59
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, June 1957)
-p60
-sa(dp61
-g10
-I326
-sg14
-VForecast (Galaxy, June 1957)
-p62
-sa(dp63
-g10
-I56
-sg14
 VLulu
-p64
-sa(dp65
-g10
-I172
-sg14
-VThe Hardest Bargain
-p66
-sa(dp67
-g10
-I142
-sg14
-VConfidence Game
-p68
-sa(dp69
-g10
-I441
-sg14
+p33
+sS'author'
+p34
+I504
+sa(dp35
+g32
+VLulu [2]
+p36
+sg34
+I504
+sa(dp37
+g32
+VLulu [3]
+p38
+sg34
+I504
+sa(dp39
+g32
 VPrime Difference
-p70
-sa(dp71
-g10
-I498
-sg14
+p40
+sg34
+I510
+sa(dp41
+g32
+VThe Hardest Bargain
+p42
+sg34
+I419
+sa(dp43
+g32
+VThe Hardest Bargain [2]
+p44
+sg34
+I419
+sa(dp45
+g32
+VThe Hardest Bargain [3]
+p46
+sg34
+I419
+sa(dp47
+g32
 VLeading Man
-p72
-sa(dp73
-g10
-I220
-sg14
+p48
+sg34
+I511
+sa(dp49
+g32
 VShock Troop
+p50
+sg34
+I419
+sa(dp51
+g32
+VConfidence Game
+p52
+sg34
+I512
+sa(dp53
+g32
+VConfidence Game [2]
+p54
+sg34
+I512
+sa(dp55
+g32
+VConfidence Game [3]
+p56
+sg34
+I512
+sa(dp57
+g32
+VPostscript
+p58
+sg34
+I305
+sa(dp59
+g32
+VFor Your Information: Tribes of the Dinosaurs
+p60
+sg34
+I339
+sa(dp61
+g32
+VGalaxy's 5 Star Shelf (Galaxy, June 1957)
+p62
+sg34
+I483
+sa(dp63
+g32
+VForecast (Galaxy, June 1957)
+p64
+sg34
+I326
+sa(dp65
+g32
+VLulu
+p66
+sg34
+I56
+sa(dp67
+g32
+VThe Hardest Bargain
+p68
+sg34
+I172
+sa(dp69
+g32
+VConfidence Game
+p70
+sg34
+I142
+sa(dp71
+g32
+VPrime Difference
+p72
+sg34
+I441
+sa(dp73
+g32
+VLeading Man
 p74
+sg34
+I498
+sa(dp75
+g32
+VShock Troop
+p76
+sg34
+I220
 sasb.

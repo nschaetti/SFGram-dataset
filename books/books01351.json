@@ -1,0 +1,98 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1969", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/1969-01_IF/1969-01_IF_jp2.zip&file=1969-01_IF_jp2/1969-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/47/WOFIFJAN1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        626, 
+        1174, 
+        627, 
+        640, 
+        40, 
+        356, 
+        326, 
+        1178, 
+        304, 
+        653, 
+        384, 
+        591, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1351, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Six Gates to Limbo (Part 1 of 2)"
+        }, 
+        {
+            "author": 626, 
+            "title": "The Year Dot"
+        }, 
+        {
+            "author": 1174, 
+            "title": "The Steel General (Excerpt)"
+        }, 
+        {
+            "author": 627, 
+            "title": "Operation High Time"
+        }, 
+        {
+            "author": 640, 
+            "title": "In the Shield"
+        }, 
+        {
+            "author": 499, 
+            "title": "Authorgraphs: An Interview with Roger Zelazny"
+        }, 
+        {
+            "author": 40, 
+            "title": "Space Art"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, January 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, January 1969)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, January 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Authorgraphs: An Interview with Roger Zelazny"
+        }, 
+        {
+            "author": 1178, 
+            "title": "The Year Dot"
+        }, 
+        {
+            "author": 304, 
+            "title": "Operation High Time"
+        }, 
+        {
+            "author": 653, 
+            "title": "In the Shield"
+        }, 
+        {
+            "author": 384, 
+            "title": "Six Gates to Limbo (Part 1 of 2)"
+        }, 
+        {
+            "author": 591, 
+            "title": "The Steel General"
+        }
+    ]
+}

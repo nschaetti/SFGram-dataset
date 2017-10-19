@@ -1,0 +1,109 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1955", 
+    "cover": "https://ia801307.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/1955-03_IF/1955-03_IF_jp2.zip&file=1955-03_IF_jp2/1955-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9c/WOFIFMAR1955.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        412, 
+        363, 
+        956, 
+        948, 
+        8, 
+        1006, 
+        1007, 
+        1008, 
+        1009, 
+        144, 
+        391, 
+        918
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1242, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Tomorrow's Automobile"
+        }, 
+        {
+            "author": 412, 
+            "title": "War Veteran"
+        }, 
+        {
+            "author": 363, 
+            "title": "Night"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Cyber and Justice Holmes"
+        }, 
+        {
+            "author": 412, 
+            "title": "The 3rd Party"
+        }, 
+        {
+            "author": 363, 
+            "title": "Lost Art"
+        }, 
+        {
+            "author": 956, 
+            "title": "Blow the Man Down"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Elroom"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, March 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, March 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, March 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, March 1955)"
+        }, 
+        {
+            "author": 8, 
+            "title": "War Veteran"
+        }, 
+        {
+            "author": 1006, 
+            "title": "The 3rd Party"
+        }, 
+        {
+            "author": 1007, 
+            "title": "Night"
+        }, 
+        {
+            "author": 1008, 
+            "title": "The Cyber and Justice Holmes"
+        }, 
+        {
+            "author": 1009, 
+            "title": "Lost Art"
+        }, 
+        {
+            "author": 144, 
+            "title": "Blow the Man Down"
+        }, 
+        {
+            "author": 391, 
+            "title": "The Elroom"
+        }
+    ]
+}

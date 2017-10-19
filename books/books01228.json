@@ -1,0 +1,135 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1953", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/1953-11_IF/1953-11_IF_jp2.zip&file=1953-11_IF_jp2/1953-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/visco/Magazines/WIF123/WIF1_0005.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        412, 
+        956, 
+        969, 
+        970, 
+        971, 
+        427, 
+        966, 
+        326, 
+        98, 
+        935, 
+        972, 
+        414, 
+        973, 
+        616, 
+        183, 
+        396, 
+        166, 
+        918
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1228, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "Homeward Bound"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Custodian"
+        }, 
+        {
+            "author": 956, 
+            "title": "See No Evil"
+        }, 
+        {
+            "author": 412, 
+            "title": "Where There's Hope"
+        }, 
+        {
+            "author": 969, 
+            "title": "Homo Inferior"
+        }, 
+        {
+            "author": 970, 
+            "title": "Trees Are Where You Find Them"
+        }, 
+        {
+            "author": 971, 
+            "title": "Cartoon: \"It's Probably Ridiculous, but They Appear to Be Some Sort of Parking Meters.\""
+        }, 
+        {
+            "author": 956, 
+            "title": "The Eyes Have It"
+        }, 
+        {
+            "author": 412, 
+            "title": "I'll Kill You Tomorrow"
+        }, 
+        {
+            "author": 427, 
+            "title": "Show Business"
+        }, 
+        {
+            "author": 970, 
+            "title": "Turning Point"
+        }, 
+        {
+            "author": 951, 
+            "title": "Engines On"
+        }, 
+        {
+            "author": 966, 
+            "title": "A Chat with the Editor (If, November 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Personalities in Science: Hans Albrecht Bethe"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, November 1953)"
+        }, 
+        {
+            "author": 98, 
+            "title": "The Custodian"
+        }, 
+        {
+            "author": 935, 
+            "title": "Homo Inferior"
+        }, 
+        {
+            "author": 972, 
+            "title": "See No Evil"
+        }, 
+        {
+            "author": 414, 
+            "title": "Where There's Hope"
+        }, 
+        {
+            "author": 973, 
+            "title": "Trees Are Where You Find Them"
+        }, 
+        {
+            "author": 616, 
+            "title": "The Eyes Have It"
+        }, 
+        {
+            "author": 183, 
+            "title": "I'll Kill You Tomorrow"
+        }, 
+        {
+            "author": 396, 
+            "title": "Show Business"
+        }, 
+        {
+            "author": 166, 
+            "title": "Turning Point"
+        }
+    ]
+}

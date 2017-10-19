@@ -2,7 +2,9 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1038
+        1038, 
+        1274, 
+        1291
     ], 
     "id": 489, 
     "name": "Francis"

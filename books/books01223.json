@@ -1,0 +1,125 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1953", 
+    "cover": "https://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/1953-01_IF/1953-01_IF_jp2.zip&file=1953-01_IF_jp2/1953-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/db/WOFIFJAN1953.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        424, 
+        938, 
+        412, 
+        931, 
+        948, 
+        920, 
+        389, 
+        208, 
+        949, 
+        950, 
+        166, 
+        935, 
+        203, 
+        400, 
+        315, 
+        918
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1223, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Expanding Sun Burns Up Earth"
+        }, 
+        {
+            "author": 424, 
+            "title": "Check and Checkmate"
+        }, 
+        {
+            "author": 938, 
+            "title": "The Last Gentleman"
+        }, 
+        {
+            "author": 424, 
+            "title": "Ye of Little Faith"
+        }, 
+        {
+            "author": 412, 
+            "title": "Success Story"
+        }, 
+        {
+            "author": 931, 
+            "title": "The Peacemaker"
+        }, 
+        {
+            "author": 931, 
+            "title": "The Statue"
+        }, 
+        {
+            "author": 931, 
+            "title": "The Anglers of Arz"
+        }, 
+        {
+            "author": 326, 
+            "title": "Cooling Sun Freezes World"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, January 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Personalities in Science: Michael Faraday"
+        }, 
+        {
+            "author": 920, 
+            "title": "Science Briefs (If, January 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh (If, January 1953)"
+        }, 
+        {
+            "author": 389, 
+            "title": "Check and Checkmate"
+        }, 
+        {
+            "author": 208, 
+            "title": "Ye of Little Faith"
+        }, 
+        {
+            "author": 949, 
+            "title": "The Last Gentleman"
+        }, 
+        {
+            "author": 950, 
+            "title": "Success Story"
+        }, 
+        {
+            "author": 166, 
+            "title": "The Peacemaker"
+        }, 
+        {
+            "author": 935, 
+            "title": "The Statue"
+        }, 
+        {
+            "author": 203, 
+            "title": "Time Enough at Last"
+        }, 
+        {
+            "author": 400, 
+            "title": "The Anglers of Arz"
+        }, 
+        {
+            "author": 315, 
+            "title": "No Shield From the Dead"
+        }
+    ]
+}

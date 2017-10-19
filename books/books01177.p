@@ -74,117 +74,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VThe Eastcoast Confinement
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VUnder the Hammer
-p34
-sa(dp35
-g10
-I499
-sg14
-VWitch Children
-p36
-sa(dp37
-g10
-I744
-sg14
-VEasy Rider
-p38
-sa(dp39
-g10
-I752
-sg14
-VThe Last Destination of Master G
-p40
-sa(dp41
-g10
-I499
-sg14
-VThe Long Night
-p42
-sa(dp43
-g10
-I753
-sg14
-VThe Company of Glory (Part 3 of 3)
-p44
-sa(dp45
-g10
-I499
-sg14
-VThe Twist
-p46
-sa(dp47
-g10
-I499
-sg14
-VShowcase (Galaxy, October 1974)
-p48
-sa(dp49
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, October 1974)
-p50
-sa(dp51
-g10
-I734
-sg14
-VShips for Manned Spaceflight
-p52
-sa(dp53
-g10
-I754
-sg14
-VWitch Children
-p54
-sa(dp55
-g10
-I748
-sg14
 VThe Eastcoast Confinement
-p56
-sa(dp57
-g10
-I132
-sg14
-VThe Company of Glory (Part 3 of 3)
-p58
-sa(dp59
-g10
-I755
-sg14
+p33
+sS'author'
+p34
+I742
+sa(dp35
+g32
 VUnder the Hammer
-p60
-sa(dp61
-g10
-I756
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
+VWitch Children
+p38
+sg34
+I499
+sa(dp39
+g32
 VEasy Rider
-p62
-sa(dp63
-g10
-I757
-sg14
+p40
+sg34
+I744
+sa(dp41
+g32
 VThe Last Destination of Master G
-p64
-sa(dp65
-g10
-I359
-sg14
+p42
+sg34
+I752
+sa(dp43
+g32
 VThe Long Night
-p66
-sa(dp67
-g10
-I758
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
+VThe Company of Glory (Part 3 of 3)
+p46
+sg34
+I753
+sa(dp47
+g32
 VThe Twist
+p48
+sg34
+I499
+sa(dp49
+g32
+VShowcase (Galaxy, October 1974)
+p50
+sg34
+I499
+sa(dp51
+g32
+VGalaxy Bookshelf (Galaxy, October 1974)
+p52
+sg34
+I341
+sa(dp53
+g32
+VShips for Manned Spaceflight
+p54
+sg34
+I734
+sa(dp55
+g32
+VWitch Children
+p56
+sg34
+I754
+sa(dp57
+g32
+VThe Eastcoast Confinement
+p58
+sg34
+I748
+sa(dp59
+g32
+VThe Company of Glory (Part 3 of 3)
+p60
+sg34
+I132
+sa(dp61
+g32
+VUnder the Hammer
+p62
+sg34
+I755
+sa(dp63
+g32
+VEasy Rider
+p64
+sg34
+I756
+sa(dp65
+g32
+VThe Last Destination of Master G
+p66
+sg34
+I757
+sa(dp67
+g32
+VThe Long Night
 p68
+sg34
+I359
+sa(dp69
+g32
+VThe Twist
+p70
+sg34
+I758
 sasb.

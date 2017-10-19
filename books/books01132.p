@@ -73,147 +73,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I611
-sg14
-VWitch Hunt
+S'title'
 p32
-sa(dp33
-g10
-I611
-sg14
-VWitch Hunt [2]
-p34
-sa(dp35
-g10
-I611
-sg14
-VWitch Hunt [3]
-p36
-sa(dp37
-g10
-I640
-sg14
-VHow Like a God
-p38
-sa(dp39
-g10
-I640
-sg14
-VHow Like a God [2]
-p40
-sa(dp41
-g10
-I640
-sg14
-VHow Like a God [3]
-p42
-sa(dp43
-g10
-I649
-sg14
-VBuckets of Diamonds
-p44
-sa(dp45
-g10
-I649
-sg14
-VBuckets of Diamonds [2]
-p46
-sa(dp47
-g10
-I649
-sg14
-VBuckets of Diamonds [3]
-p48
-sa(dp49
-g10
-I499
-sg14
-VAnd Now They Wake (Part 2 of 3)
-p50
-sa(dp51
-g10
-I499
-sg14
-VAnd Now They Wake (Part 2 of 3) [2]
-p52
-sa(dp53
-g10
-I499
-sg14
-VAnd Now They Wake (Part 2 of 3) [3]
-p54
-sa(dp55
-g10
-I499
-sg14
-VAnd Now They Wake (Part 2 of 3) [4]
-p56
-sa(dp57
-g10
-I40
-sg14
-VThe Prometheus Project
-p58
-sa(dp59
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, April 1969)
-p60
-sa(dp61
-g10
-I326
-sg14
-VForecast (Galaxy, April 1969)
-p62
-sa(dp63
-g10
-I339
-sg14
-VFor Your Information: The Drowned Civilization
-p64
-sa(dp65
-g10
-I326
-sg14
-VGalaxy's Stars (Galaxy, April 1969)
-p66
-sa(dp67
-g10
-I56
-sg14
-VBuckets of Diamonds
-p68
-sa(dp69
-g10
-I161
-sg14
 VWitch Hunt
-p70
-sa(dp71
-g10
-I67
-sg14
-VAnd Now They Wake (Part 2 of 3)
-p72
-sa(dp73
-g10
-I645
-sg14
-VBeam Us Home
-p74
-sa(dp75
-g10
-I45
-sg14
+p33
+sS'author'
+p34
+I611
+sa(dp35
+g32
+VWitch Hunt [2]
+p36
+sg34
+I611
+sa(dp37
+g32
+VWitch Hunt [3]
+p38
+sg34
+I611
+sa(dp39
+g32
 VHow Like a God
+p40
+sg34
+I640
+sa(dp41
+g32
+VHow Like a God [2]
+p42
+sg34
+I640
+sa(dp43
+g32
+VHow Like a God [3]
+p44
+sg34
+I640
+sa(dp45
+g32
+VBuckets of Diamonds
+p46
+sg34
+I649
+sa(dp47
+g32
+VBuckets of Diamonds [2]
+p48
+sg34
+I649
+sa(dp49
+g32
+VBuckets of Diamonds [3]
+p50
+sg34
+I649
+sa(dp51
+g32
+VAnd Now They Wake (Part 2 of 3)
+p52
+sg34
+I499
+sa(dp53
+g32
+VAnd Now They Wake (Part 2 of 3) [2]
+p54
+sg34
+I499
+sa(dp55
+g32
+VAnd Now They Wake (Part 2 of 3) [3]
+p56
+sg34
+I499
+sa(dp57
+g32
+VAnd Now They Wake (Part 2 of 3) [4]
+p58
+sg34
+I499
+sa(dp59
+g32
+VThe Prometheus Project
+p60
+sg34
+I40
+sa(dp61
+g32
+VGalaxy Bookshelf (Galaxy, April 1969)
+p62
+sg34
+I91
+sa(dp63
+g32
+VForecast (Galaxy, April 1969)
+p64
+sg34
+I326
+sa(dp65
+g32
+VFor Your Information: The Drowned Civilization
+p66
+sg34
+I339
+sa(dp67
+g32
+VGalaxy's Stars (Galaxy, April 1969)
+p68
+sg34
+I326
+sa(dp69
+g32
+VBuckets of Diamonds
+p70
+sg34
+I56
+sa(dp71
+g32
+VWitch Hunt
+p72
+sg34
+I161
+sa(dp73
+g32
+VAnd Now They Wake (Part 2 of 3)
+p74
+sg34
+I67
+sa(dp75
+g32
+VBeam Us Home
 p76
+sg34
+I645
 sa(dp77
-g10
-I254
-sg14
-VSlave to Man
+g32
+VHow Like a God
 p78
+sg34
+I45
+sa(dp79
+g32
+VSlave to Man
+p80
+sg34
+I254
 sasb.

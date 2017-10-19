@@ -1,0 +1,84 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1966", 
+    "cover": "https://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/1966-01_IF_modified/1966-01_IF_modified_jp2.zip&file=1966-01_IF_modified_jp2/1966-01_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/71/WOFIFJAN1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        578, 
+        545, 
+        499, 
+        611, 
+        40, 
+        30, 
+        135, 
+        371, 
+        1122, 
+        561, 
+        61, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1315, 
+    "contents": [
+        {
+            "author": 578, 
+            "title": "The Moonrakers"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Moon Is a Harsh Mistress (Part 2 of 5)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Mr. Jester"
+        }, 
+        {
+            "author": 611, 
+            "title": "A Planet Like Heaven"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Smallness Beyond Thought"
+        }, 
+        {
+            "author": 40, 
+            "title": "Enemies of Mankind"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, January 1966)"
+        }, 
+        {
+            "author": 30, 
+            "title": "The Moonrakers"
+        }, 
+        {
+            "author": 135, 
+            "title": "The Smallness Beyond Thought"
+        }, 
+        {
+            "author": 371, 
+            "title": "The Moon Is a Harsh Mistress (Part 2 of 5)"
+        }, 
+        {
+            "author": 1122, 
+            "title": "Cindy-Me"
+        }, 
+        {
+            "author": 561, 
+            "title": "Mr. Jester"
+        }, 
+        {
+            "author": 61, 
+            "title": "A Planet Like Heaven"
+        }
+    ]
+}

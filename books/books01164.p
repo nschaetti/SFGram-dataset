@@ -67,75 +67,77 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VThe Doomsday Gene (Part 2 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VFrank Merriwell in the White House
-p34
-sa(dp35
-g10
-I499
-sg14
-VJust a Matter of Time
-p36
-sa(dp37
-g10
-I326
-sg14
-VA Voice and Bitter Weeping
-p38
-sa(dp39
-g10
-I499
-sg14
-VLuna One
-p40
-sa(dp41
-g10
-I150
-sg14
-VGalaxy Stars (Galaxy, July-August 1973)
-p42
-sa(dp43
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, July-August 1973)
-p44
-sa(dp45
-g10
-I150
-sg14
-VFrank Merriwell in the White House
-p46
-sa(dp47
-g10
-I663
-sg14
-VLuna One
-p48
-sa(dp49
-g10
-I713
-sg14
 VThe Doomsday Gene (Part 2 of 2)
-p50
-sa(dp51
-g10
-I717
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VFrank Merriwell in the White House
+p36
+sg34
+I326
+sa(dp37
+g32
 VJust a Matter of Time
-p52
-sa(dp53
-g10
-I718
-sg14
+p38
+sg34
+I499
+sa(dp39
+g32
 VA Voice and Bitter Weeping
+p40
+sg34
+I326
+sa(dp41
+g32
+VLuna One
+p42
+sg34
+I499
+sa(dp43
+g32
+VGalaxy Stars (Galaxy, July-August 1973)
+p44
+sg34
+I150
+sa(dp45
+g32
+VGalaxy Bookshelf (Galaxy, July-August 1973)
+p46
+sg34
+I341
+sa(dp47
+g32
+VFrank Merriwell in the White House
+p48
+sg34
+I150
+sa(dp49
+g32
+VLuna One
+p50
+sg34
+I663
+sa(dp51
+g32
+VThe Doomsday Gene (Part 2 of 2)
+p52
+sg34
+I713
+sa(dp53
+g32
+VJust a Matter of Time
 p54
+sg34
+I717
+sa(dp55
+g32
+VA Voice and Bitter Weeping
+p56
+sg34
+I718
 sasb.

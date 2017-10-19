@@ -72,123 +72,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VPlutonium
+S'title'
 p32
-sa(dp33
-g10
-I742
-sg14
-VPlutonium [2]
-p34
-sa(dp35
-g10
-I742
-sg14
-VPlutonium [3]
-p36
-sa(dp37
-g10
-I744
-sg14
-VThe Second Soul
-p38
-sa(dp39
-g10
-I744
-sg14
-VBirthdays
-p40
-sa(dp41
-g10
-I744
-sg14
-VBirthdays [2]
-p42
-sa(dp43
-g10
-I744
-sg14
-VBirthdays [3]
-p44
-sa(dp45
-g10
-I801
-sg14
-VShowcase: Space: 1492
-p46
-sa(dp47
-g10
-I793
-sg14
-VHunger On the Homestretch
-p48
-sa(dp49
-g10
-I793
-sg14
-VHunger On the Homestretch [2]
-p50
-sa(dp51
-g10
-I793
-sg14
-VHunger On the Homestretch [3]
-p52
-sa(dp53
-g10
-I764
-sg14
-VOur Under-Achieving Universe
-p54
-sa(dp55
-g10
-I734
-sg14
-VSurvival with Style
-p56
-sa(dp57
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, March 1976)
-p58
-sa(dp59
-g10
-I770
-sg14
-VBookshelf (Galaxy, March 1976)
-p60
-sa(dp61
-g10
-I326
-sg14
-VDirections (Galaxy, March 1976)
-p62
-sa(dp63
-g10
-I794
-sg14
-VHunger On the Homestretch
-p64
-sa(dp65
-g10
-I748
-sg14
 VPlutonium
-p66
-sa(dp67
-g10
-I561
-sg14
-VBirthdays
-p68
-sa(dp69
-g10
-I802
-sg14
+p33
+sS'author'
+p34
+I742
+sa(dp35
+g32
+VPlutonium [2]
+p36
+sg34
+I742
+sa(dp37
+g32
+VPlutonium [3]
+p38
+sg34
+I742
+sa(dp39
+g32
 VThe Second Soul
+p40
+sg34
+I744
+sa(dp41
+g32
+VBirthdays
+p42
+sg34
+I744
+sa(dp43
+g32
+VBirthdays [2]
+p44
+sg34
+I744
+sa(dp45
+g32
+VBirthdays [3]
+p46
+sg34
+I744
+sa(dp47
+g32
+VShowcase: Space: 1492
+p48
+sg34
+I801
+sa(dp49
+g32
+VHunger On the Homestretch
+p50
+sg34
+I793
+sa(dp51
+g32
+VHunger On the Homestretch [2]
+p52
+sg34
+I793
+sa(dp53
+g32
+VHunger On the Homestretch [3]
+p54
+sg34
+I793
+sa(dp55
+g32
+VOur Under-Achieving Universe
+p56
+sg34
+I764
+sa(dp57
+g32
+VSurvival with Style
+p58
+sg34
+I734
+sa(dp59
+g32
+VThe Alien Viewpoint (Galaxy, March 1976)
+p60
+sg34
+I767
+sa(dp61
+g32
+VBookshelf (Galaxy, March 1976)
+p62
+sg34
+I770
+sa(dp63
+g32
+VDirections (Galaxy, March 1976)
+p64
+sg34
+I326
+sa(dp65
+g32
+VHunger On the Homestretch
+p66
+sg34
+I794
+sa(dp67
+g32
+VPlutonium
+p68
+sg34
+I748
+sa(dp69
+g32
+VBirthdays
 p70
+sg34
+I561
+sa(dp71
+g32
+VThe Second Soul
+p72
+sg34
+I802
 sasb.

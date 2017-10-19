@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1966", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/1966-09_IF/1966-09_IF_jp2.zip&file=1966-09_IF_jp2/1966-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/79/WOFIFSEP1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        556, 
+        497, 
+        611, 
+        545, 
+        40, 
+        1125, 
+        1131, 
+        69, 
+        617, 
+        111, 
+        630, 
+        55, 
+        561, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1323, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Edge of Night (Part 1 of 2)"
+        }, 
+        {
+            "author": 556, 
+            "title": "The Empty Man"
+        }, 
+        {
+            "author": 497, 
+            "title": "Arena"
+        }, 
+        {
+            "author": 611, 
+            "title": "The Ghost Galaxies"
+        }, 
+        {
+            "author": 545, 
+            "title": "Enemies of Gree"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Hour Before Earthrise (Part 3 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "To Solve the Future"
+        }, 
+        {
+            "author": 1125, 
+            "title": "How to Live Like a Slan"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, September 1966)"
+        }, 
+        {
+            "author": 1131, 
+            "title": "The Empty Man"
+        }, 
+        {
+            "author": 69, 
+            "title": "Arena"
+        }, 
+        {
+            "author": 617, 
+            "title": "The Ghost Galaxies"
+        }, 
+        {
+            "author": 111, 
+            "title": "Enemies of Gree"
+        }, 
+        {
+            "author": 630, 
+            "title": "Edge of Night (Part 1 of 2)"
+        }, 
+        {
+            "author": 55, 
+            "title": "The Hour Before Earthrise (Part 3 of 3)"
+        }, 
+        {
+            "author": 561, 
+            "title": "The Face of the Deep"
+        }
+    ]
+}

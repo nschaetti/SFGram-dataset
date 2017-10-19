@@ -74,123 +74,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I342
-sg14
-VHoneymoon in Hell
+S'title'
 p32
-sa(dp33
-g10
-I343
-sg14
-VMisbegotten Missionary
-p34
-sa(dp35
-g10
-I338
-sg14
-VTransfer Point
-p36
-sa(dp37
-g10
-I344
-sg14
-VComing Attraction
-p38
-sa(dp39
-g10
-I336
-sg14
-VTo Serve Man
-p40
-sa(dp41
-g10
-I336
-sg14
-VTime Quarry (Part 2 of 3)
-p42
-sa(dp43
-g10
-I336
-sg14
-VTime Quarry (Part 2 of 3) [2]
-p44
-sa(dp45
-g10
-I336
-sg14
-VTime Quarry (Part 2 of 3) [3]
-p46
-sa(dp47
-g10
-I305
-sg14
-VIt's All Yours
-p48
-sa(dp49
-g10
-I345
-sg14
-VLands of Yesterday
-p50
-sa(dp51
-g10
-I326
-sg14
-VForecast (Galaxy, November 1950)
-p52
-sa(dp53
-g10
-I326
-sg14
-VNext Month's Contents Page (Galaxy, November 1950)
-p54
-sa(dp55
-g10
-I340
-sg14
-VGalaxy's Five Star Shelf (Galaxy, November 1950)
-p56
-sa(dp57
-g10
-I326
-sg14
-VFlying Saucer Contest
-p58
-sa(dp59
-g10
-I58
-sg14
 VHoneymoon in Hell
-p60
-sa(dp61
-g10
-I125
-sg14
-VTransfer Point
-p62
-sa(dp63
-g10
-I56
-sg14
-VTime Quarry (Part 2 of 3)
-p64
-sa(dp65
-g10
-I3
-sg14
+p33
+sS'author'
+p34
+I342
+sa(dp35
+g32
 VMisbegotten Missionary
-p66
-sa(dp67
-g10
-I32
-sg14
+p36
+sg34
+I343
+sa(dp37
+g32
+VTransfer Point
+p38
+sg34
+I338
+sa(dp39
+g32
 VComing Attraction
-p68
-sa(dp69
-g10
-I204
-sg14
+p40
+sg34
+I344
+sa(dp41
+g32
 VTo Serve Man
+p42
+sg34
+I336
+sa(dp43
+g32
+VTime Quarry (Part 2 of 3)
+p44
+sg34
+I336
+sa(dp45
+g32
+VTime Quarry (Part 2 of 3) [2]
+p46
+sg34
+I336
+sa(dp47
+g32
+VTime Quarry (Part 2 of 3) [3]
+p48
+sg34
+I336
+sa(dp49
+g32
+VIt's All Yours
+p50
+sg34
+I305
+sa(dp51
+g32
+VLands of Yesterday
+p52
+sg34
+I345
+sa(dp53
+g32
+VForecast (Galaxy, November 1950)
+p54
+sg34
+I326
+sa(dp55
+g32
+VNext Month's Contents Page (Galaxy, November 1950)
+p56
+sg34
+I326
+sa(dp57
+g32
+VGalaxy's Five Star Shelf (Galaxy, November 1950)
+p58
+sg34
+I340
+sa(dp59
+g32
+VFlying Saucer Contest
+p60
+sg34
+I326
+sa(dp61
+g32
+VHoneymoon in Hell
+p62
+sg34
+I58
+sa(dp63
+g32
+VTransfer Point
+p64
+sg34
+I125
+sa(dp65
+g32
+VTime Quarry (Part 2 of 3)
+p66
+sg34
+I56
+sa(dp67
+g32
+VMisbegotten Missionary
+p68
+sg34
+I3
+sa(dp69
+g32
+VComing Attraction
 p70
+sg34
+I32
+sa(dp71
+g32
+VTo Serve Man
+p72
+sg34
+I204
 sasb.

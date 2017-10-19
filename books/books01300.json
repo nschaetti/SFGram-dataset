@@ -1,0 +1,65 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1964", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/1964-10_IF/1964-10_IF_jp2.zip&file=1964-10_IF_jp2/1964-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/02/WOFIFOCT1964.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        497, 
+        67, 
+        371, 
+        74, 
+        602, 
+        1104, 
+        1105, 
+        918
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1300, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Castle of Light"
+        }, 
+        {
+            "author": 497, 
+            "title": "Gremmie's Reef"
+        }, 
+        {
+            "author": 499, 
+            "title": "Farnham's Freehold (Part 3 of 3)"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Castle of Light"
+        }, 
+        {
+            "author": 371, 
+            "title": "Farnham's Freehold (Part 3 of 3)"
+        }, 
+        {
+            "author": 74, 
+            "title": "Mad Man"
+        }, 
+        {
+            "author": 602, 
+            "title": "Gremmie's Reef"
+        }, 
+        {
+            "author": 1104, 
+            "title": "Rescue Mission"
+        }, 
+        {
+            "author": 1105, 
+            "title": "Monster Tracks"
+        }
+    ]
+}

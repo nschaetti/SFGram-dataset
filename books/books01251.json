@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine June 1956", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/1956-06_IF_modified/1956-06_IF_modified_jp2.zip&file=1956-06_IF_modified_jp2/1956-06_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/37/WOFIFJUN1956.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        427, 
+        956, 
+        363, 
+        948, 
+        1024, 
+        326, 
+        144, 
+        240, 
+        69, 
+        994, 
+        918
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1251, 
+    "contents": [
+        {
+            "author": 427, 
+            "title": "Testing Engines for Stage One"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Crackpots"
+        }, 
+        {
+            "author": 363, 
+            "title": "Z"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Scamperers"
+        }, 
+        {
+            "author": 363, 
+            "title": "What Shall It Profit?"
+        }, 
+        {
+            "author": 363, 
+            "title": "After Some Tomorrow"
+        }, 
+        {
+            "author": 956, 
+            "title": "Night Court"
+        }, 
+        {
+            "author": 427, 
+            "title": "Hoisting Stage Two Into Position"
+        }, 
+        {
+            "author": 948, 
+            "title": "Editor's Report (If, June 1956)"
+        }, 
+        {
+            "author": 1024, 
+            "title": "Satellite (Part 1 of 2)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, June 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, June 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, June 1956)"
+        }, 
+        {
+            "author": 144, 
+            "title": "Z"
+        }, 
+        {
+            "author": 240, 
+            "title": "The Scamperers"
+        }, 
+        {
+            "author": 69, 
+            "title": "After Some Tomorrow"
+        }, 
+        {
+            "author": 994, 
+            "title": "Night Court"
+        }
+    ]
+}

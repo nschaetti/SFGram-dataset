@@ -1,0 +1,98 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1974", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/1974-12_IF_modified/1974-12_IF_modified_jp2.zip&file=1974-12_IF_modified_jp2/1974-12_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/66/WOFIFNOVDEC1974.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        744, 
+        1245, 
+        499, 
+        764, 
+        356, 
+        747, 
+        326, 
+        767, 
+        1246, 
+        30, 
+        740, 
+        762, 
+        748, 
+        918
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1392, 
+    "contents": [
+        {
+            "author": 744, 
+            "title": "The Descent of Man"
+        }, 
+        {
+            "author": 744, 
+            "title": "Stormy Weather"
+        }, 
+        {
+            "author": 1245, 
+            "title": "Time Deer"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Knight of Ghosts and Shadows (Part 2 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Gut in Peril"
+        }, 
+        {
+            "author": 764, 
+            "title": "Editorial (If, November-December 1974)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, November-December 1974)"
+        }, 
+        {
+            "author": 747, 
+            "title": "Following Yonder Star"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, November-December 1974)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (If, November-December 1974)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, November-December 1974)"
+        }, 
+        {
+            "author": 1246, 
+            "title": "Stormy Weather"
+        }, 
+        {
+            "author": 30, 
+            "title": "A Knight of Ghosts and Shadows (Part 2 of 2)"
+        }, 
+        {
+            "author": 740, 
+            "title": "The Descent of Man"
+        }, 
+        {
+            "author": 762, 
+            "title": "Time Deer"
+        }, 
+        {
+            "author": 748, 
+            "title": "Gut in Peril"
+        }
+    ]
+}

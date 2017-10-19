@@ -1,0 +1,66 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1964", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/1964-07_IF/1964-07_IF_jp2.zip&file=1964-07_IF_jp2/1964-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/53/WOFIFJUL1964.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        581, 
+        545, 
+        40, 
+        658, 
+        371, 
+        205, 
+        1102, 
+        414, 
+        918
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1298, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Farnham's Freehold (Part 1 of 3)"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Mathenauts"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Silkie"
+        }, 
+        {
+            "author": 40, 
+            "title": "Now That We're Monthly -"
+        }, 
+        {
+            "author": 658, 
+            "title": "The Silkie"
+        }, 
+        {
+            "author": 371, 
+            "title": "Farnham's Freehold (Part 1 of 3)"
+        }, 
+        {
+            "author": 205, 
+            "title": "Weetl"
+        }, 
+        {
+            "author": 1102, 
+            "title": "The Mathenauts"
+        }, 
+        {
+            "author": 414, 
+            "title": "Old Testament"
+        }
+    ]
+}

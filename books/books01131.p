@@ -73,141 +73,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VAnd Now They Wake (Part 1 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VAnd Now They Wake (Part 1 of 3) [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VAnd Now They Wake (Part 1 of 3) [3]
-p36
-sa(dp37
-g10
-I640
-sg14
-VThe Weather On Welladay
-p38
-sa(dp39
-g10
-I640
-sg14
-VThe Weather On Welladay [2]
-p40
-sa(dp41
-g10
-I640
-sg14
-VThe Weather On Welladay [3]
-p42
-sa(dp43
-g10
-I640
-sg14
-VThe Weather On Welladay [4]
-p44
-sa(dp45
-g10
-I499
-sg14
-VGodel Numbers
-p46
-sa(dp47
-g10
-I499
-sg14
-VGodel Numbers [2]
-p48
-sa(dp49
-g10
-I499
-sg14
-VGodel Numbers [3]
-p50
-sa(dp51
-g10
-I40
-sg14
-VThe Election Everybody Won
-p52
-sa(dp53
-g10
-I326
-sg14
-VForecast (Galaxy, March 1969)
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: Collision Course
-p56
-sa(dp57
-g10
-I604
-sg14
-VThe Theory and Practice of Teleportation
-p58
-sa(dp59
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, March 1969)
-p60
-sa(dp61
-g10
-I326
-sg14
-VGalaxy's Stars (Galaxy, March 1969)
-p62
-sa(dp63
-g10
-I613
-sg14
-VThe Weather On Welladay
-p64
-sa(dp65
-g10
-I648
-sg14
-VGodel Numbers
-p66
-sa(dp67
-g10
-I67
-sg14
 VAnd Now They Wake (Part 1 of 3)
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VAnd Now They Wake (Part 1 of 3) [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VAnd Now They Wake (Part 1 of 3) [3]
+p38
+sg34
+I499
+sa(dp39
+g32
+VThe Weather On Welladay
+p40
+sg34
+I640
+sa(dp41
+g32
+VThe Weather On Welladay [2]
+p42
+sg34
+I640
+sa(dp43
+g32
+VThe Weather On Welladay [3]
+p44
+sg34
+I640
+sa(dp45
+g32
+VThe Weather On Welladay [4]
+p46
+sg34
+I640
+sa(dp47
+g32
+VGodel Numbers
+p48
+sg34
+I499
+sa(dp49
+g32
+VGodel Numbers [2]
+p50
+sg34
+I499
+sa(dp51
+g32
+VGodel Numbers [3]
+p52
+sg34
+I499
+sa(dp53
+g32
+VThe Election Everybody Won
+p54
+sg34
+I40
+sa(dp55
+g32
+VForecast (Galaxy, March 1969)
+p56
+sg34
+I326
+sa(dp57
+g32
+VFor Your Information: Collision Course
+p58
+sg34
+I339
+sa(dp59
+g32
+VThe Theory and Practice of Teleportation
+p60
+sg34
+I604
+sa(dp61
+g32
+VGalaxy Bookshelf (Galaxy, March 1969)
+p62
+sg34
+I91
+sa(dp63
+g32
+VGalaxy's Stars (Galaxy, March 1969)
+p64
+sg34
+I326
+sa(dp65
+g32
+VThe Weather On Welladay
+p66
+sg34
+I613
+sa(dp67
+g32
+VGodel Numbers
 p68
+sg34
+I648
 sa(dp69
-g10
-I446
-sg14
-VThe City That Loves You
+g32
+VAnd Now They Wake (Part 1 of 3)
 p70
+sg34
+I67
 sa(dp71
-g10
-I632
-sg14
-VLeviathan
+g32
+VThe City That Loves You
 p72
+sg34
+I446
 sa(dp73
-g10
-I645
-sg14
-VThe Last Flight of Dr. Ain
+g32
+VLeviathan
 p74
+sg34
+I632
 sa(dp75
-g10
-I592
-sg14
-VGreeks Bringing Knee-High Gifts
+g32
+VThe Last Flight of Dr. Ain
 p76
+sg34
+I645
+sa(dp77
+g32
+VGreeks Bringing Knee-High Gifts
+p78
+sg34
+I592
 sasb.

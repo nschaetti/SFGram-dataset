@@ -71,123 +71,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VGotta Sing, Gotta Dance
+S'title'
 p32
-sa(dp33
-g10
-I742
-sg14
-VGotta Sing, Gotta Dance [2]
-p34
-sa(dp35
-g10
-I763
-sg14
-VLarval Stage
-p36
-sa(dp37
-g10
-I744
-sg14
-VThe Hand of Oberon (Part 2 of 3)
-p38
-sa(dp39
-g10
-I744
-sg14
-VThe Hand of Oberon (Part 2 of 3) [2]
-p40
-sa(dp41
-g10
-I744
-sg14
-VThe Hand of Oberon (Part 2 of 3) [3]
-p42
-sa(dp43
-g10
-I499
-sg14
-VWind Music
-p44
-sa(dp45
-g10
-I499
-sg14
-VWind Music [2]
-p46
-sa(dp47
-g10
-I326
-sg14
-VToward the Fullness of Fate
-p48
-sa(dp49
-g10
-I326
-sg14
-VToward the Fullness of Fate [2]
-p50
-sa(dp51
-g10
-I326
-sg14
-VToward the Fullness of Fate [3]
-p52
-sa(dp53
-g10
-I499
-sg14
-VShowcase (Galaxy, July 1976)
-p54
-sa(dp55
-g10
-I734
-sg14
-VLasers, Grasers and Marxists
-p56
-sa(dp57
-g10
-I770
-sg14
-VBookshelf (Galaxy, July 1976)
-p58
-sa(dp59
-g10
-I326
-sg14
-VDirections (Galaxy, July 1976)
-p60
-sa(dp61
-g10
-I797
-sg14
 VGotta Sing, Gotta Dance
-p62
-sa(dp63
-g10
-I804
-sg14
-VToward the Fullness of Fate
-p64
-sa(dp65
-g10
-I591
-sg14
-VThe Hand of Oberon (Part 2 of 3)
-p66
-sa(dp67
-g10
-I741
-sg14
+p33
+sS'author'
+p34
+I742
+sa(dp35
+g32
+VGotta Sing, Gotta Dance [2]
+p36
+sg34
+I742
+sa(dp37
+g32
 VLarval Stage
-p68
-sa(dp69
-g10
-I805
-sg14
+p38
+sg34
+I763
+sa(dp39
+g32
+VThe Hand of Oberon (Part 2 of 3)
+p40
+sg34
+I744
+sa(dp41
+g32
+VThe Hand of Oberon (Part 2 of 3) [2]
+p42
+sg34
+I744
+sa(dp43
+g32
+VThe Hand of Oberon (Part 2 of 3) [3]
+p44
+sg34
+I744
+sa(dp45
+g32
 VWind Music
+p46
+sg34
+I499
+sa(dp47
+g32
+VWind Music [2]
+p48
+sg34
+I499
+sa(dp49
+g32
+VToward the Fullness of Fate
+p50
+sg34
+I326
+sa(dp51
+g32
+VToward the Fullness of Fate [2]
+p52
+sg34
+I326
+sa(dp53
+g32
+VToward the Fullness of Fate [3]
+p54
+sg34
+I326
+sa(dp55
+g32
+VShowcase (Galaxy, July 1976)
+p56
+sg34
+I499
+sa(dp57
+g32
+VLasers, Grasers and Marxists
+p58
+sg34
+I734
+sa(dp59
+g32
+VBookshelf (Galaxy, July 1976)
+p60
+sg34
+I770
+sa(dp61
+g32
+VDirections (Galaxy, July 1976)
+p62
+sg34
+I326
+sa(dp63
+g32
+VGotta Sing, Gotta Dance
+p64
+sg34
+I797
+sa(dp65
+g32
+VToward the Fullness of Fate
+p66
+sg34
+I804
+sa(dp67
+g32
+VThe Hand of Oberon (Part 2 of 3)
+p68
+sg34
+I591
+sa(dp69
+g32
+VLarval Stage
 p70
+sg34
+I741
+sa(dp71
+g32
+VWind Music
+p72
+sg34
+I805
 sasb.

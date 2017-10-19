@@ -1,0 +1,93 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1960", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/1960-07_IF/1960-07_IF_jp2.zip&file=1960-07_IF_jp2/1960-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/54/WOFIFJULAUG1960.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        560, 
+        489, 
+        523, 
+        545, 
+        499, 
+        40, 
+        384, 
+        45, 
+        254, 
+        142, 
+        1064, 
+        602, 
+        918
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1274, 
+    "contents": [
+        {
+            "author": 560, 
+            "title": "In a Body"
+        }, 
+        {
+            "author": 489, 
+            "title": "Talent"
+        }, 
+        {
+            "author": 560, 
+            "title": "Time Payment"
+        }, 
+        {
+            "author": 523, 
+            "title": "The Last Trespasser"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Martian in the Attic"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Non-Electronic Bug"
+        }, 
+        {
+            "author": 499, 
+            "title": "Murder Beneath the Polar Ice"
+        }, 
+        {
+            "author": 40, 
+            "title": "Worlds of If (If, July 1960)"
+        }, 
+        {
+            "author": 384, 
+            "title": "In a Body"
+        }, 
+        {
+            "author": 45, 
+            "title": "Talent"
+        }, 
+        {
+            "author": 254, 
+            "title": "Time Payment"
+        }, 
+        {
+            "author": 142, 
+            "title": "The Last Trespasser"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Martian in the Attic"
+        }, 
+        {
+            "author": 1064, 
+            "title": "The Non-Electronic Bug"
+        }, 
+        {
+            "author": 602, 
+            "title": "Murder Beneath the Polar Ice"
+        }
+    ]
+}

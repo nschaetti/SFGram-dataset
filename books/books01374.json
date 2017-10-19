@@ -1,0 +1,69 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1971", 
+    "cover": "https://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/1971-12_IF/1971-12_IF_jp2.zip&file=1971-12_IF_jp2/1971-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/21/WOFIFNOVDEC1971.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        356, 
+        1197, 
+        111, 
+        384, 
+        1216, 
+        1217, 
+        918
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1374, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Time of the Sending"
+        }, 
+        {
+            "author": 326, 
+            "title": "Habits of the Rigelian Nightfox"
+        }, 
+        {
+            "author": 326, 
+            "title": "Ornithanthropus"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, November-December 1971)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, November-December 1971)"
+        }, 
+        {
+            "author": 1197, 
+            "title": "Time of the Sending"
+        }, 
+        {
+            "author": 111, 
+            "title": "Hot World"
+        }, 
+        {
+            "author": 384, 
+            "title": "The Real People"
+        }, 
+        {
+            "author": 1216, 
+            "title": "Habits of the Rigelian Nightfox"
+        }, 
+        {
+            "author": 1217, 
+            "title": "Ornithanthropus"
+        }
+    ]
+}

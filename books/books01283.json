@@ -1,0 +1,84 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1962", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/1962-01_IF/1962-01_IF_jp2.zip&file=1962-01_IF_jp2/1962-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d0/WOFIFJAN1962.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        1073, 
+        341, 
+        40, 
+        1074, 
+        67, 
+        136, 
+        142, 
+        94, 
+        428, 
+        918
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1283, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Yillian Way"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Last Place On Earth"
+        }, 
+        {
+            "author": 1073, 
+            "title": "Masters of Space (Part 2 of 2)"
+        }, 
+        {
+            "author": 1073, 
+            "title": "Masters of Space (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, January 1962)"
+        }, 
+        {
+            "author": 341, 
+            "title": "From Plynck to Planck"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, January 1962)"
+        }, 
+        {
+            "author": 1074, 
+            "title": "Masters of Space (Part 2 of 2)"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Yillian Way"
+        }, 
+        {
+            "author": 136, 
+            "title": "An Incident On Route 12"
+        }, 
+        {
+            "author": 142, 
+            "title": "The Last Place On Earth"
+        }, 
+        {
+            "author": 94, 
+            "title": "The Talkative Tree"
+        }, 
+        {
+            "author": 428, 
+            "title": "2 B R 0 2 B"
+        }
+    ]
+}

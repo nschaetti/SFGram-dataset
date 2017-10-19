@@ -70,111 +70,113 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VChance Meeting Near Ararat
+S'title'
 p32
-sa(dp33
-g10
-I806
-sg14
-VThe Earth Dwellers
-p34
-sa(dp35
-g10
-I742
-sg14
-VCages
-p36
-sa(dp37
-g10
-I742
-sg14
-VCages [2]
-p38
-sa(dp39
-g10
-I806
-sg14
-VGateway (Part 2 of 3)
-p40
-sa(dp41
-g10
-I806
-sg14
-VGateway (Part 2 of 3) [2]
-p42
-sa(dp43
-g10
-I806
-sg14
-VGateway (Part 2 of 3) [3]
-p44
-sa(dp45
-g10
-I806
-sg14
-VGateway (Part 2 of 3) [4]
-p46
-sa(dp47
-g10
-I499
-sg14
-VThe Rock and the Pool
-p48
-sa(dp49
-g10
-I499
-sg14
-VThe Rock and the Pool [2]
-p50
-sa(dp51
-g10
-I764
-sg14
-VEpistle to the Christians
-p52
-sa(dp53
-g10
-I734
-sg14
-VThat Buck Rogers Stuff
-p54
-sa(dp55
-g10
-I770
-sg14
-VGalaxy Bookshelf (Galaxy, December 1976)
-p56
-sa(dp57
-g10
-I813
-sg14
-VCages
-p58
-sa(dp59
-g10
-I478
-sg14
-VThe Rock and the Pool
-p60
-sa(dp61
-g10
-I40
-sg14
-VGateway (Part 2 of 3)
-p62
-sa(dp63
-g10
-I814
-sg14
 VChance Meeting Near Ararat
-p64
-sa(dp65
-g10
-I815
-sg14
+p33
+sS'author'
+p34
+I742
+sa(dp35
+g32
 VThe Earth Dwellers
+p36
+sg34
+I806
+sa(dp37
+g32
+VCages
+p38
+sg34
+I742
+sa(dp39
+g32
+VCages [2]
+p40
+sg34
+I742
+sa(dp41
+g32
+VGateway (Part 2 of 3)
+p42
+sg34
+I806
+sa(dp43
+g32
+VGateway (Part 2 of 3) [2]
+p44
+sg34
+I806
+sa(dp45
+g32
+VGateway (Part 2 of 3) [3]
+p46
+sg34
+I806
+sa(dp47
+g32
+VGateway (Part 2 of 3) [4]
+p48
+sg34
+I806
+sa(dp49
+g32
+VThe Rock and the Pool
+p50
+sg34
+I499
+sa(dp51
+g32
+VThe Rock and the Pool [2]
+p52
+sg34
+I499
+sa(dp53
+g32
+VEpistle to the Christians
+p54
+sg34
+I764
+sa(dp55
+g32
+VThat Buck Rogers Stuff
+p56
+sg34
+I734
+sa(dp57
+g32
+VGalaxy Bookshelf (Galaxy, December 1976)
+p58
+sg34
+I770
+sa(dp59
+g32
+VCages
+p60
+sg34
+I813
+sa(dp61
+g32
+VThe Rock and the Pool
+p62
+sg34
+I478
+sa(dp63
+g32
+VGateway (Part 2 of 3)
+p64
+sg34
+I40
+sa(dp65
+g32
+VChance Meeting Near Ararat
 p66
+sg34
+I814
+sa(dp67
+g32
+VThe Earth Dwellers
+p68
+sg34
+I815
 sasb.

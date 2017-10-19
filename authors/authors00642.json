@@ -2,7 +2,8 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1128
+        1128, 
+        1345
     ], 
     "id": 642, 
     "name": "Roger Brand"

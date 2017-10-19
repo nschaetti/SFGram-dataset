@@ -1,0 +1,66 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine August 1964", 
+    "cover": "https://ia800207.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/1964-08_IF/1964-08_IF_jp2.zip&file=1964-08_IF_jp2/1964-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fe/WOFIFAUG1964.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        581, 
+        499, 
+        40, 
+        111, 
+        67, 
+        371, 
+        1103, 
+        561, 
+        918
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1299, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Slaves of Gree"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Prince and the Pirate"
+        }, 
+        {
+            "author": 499, 
+            "title": "Farnham's Freehold (Part 2 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Chess and the Giant Brains"
+        }, 
+        {
+            "author": 111, 
+            "title": "The Slaves of Gree"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Prince and the Pirate"
+        }, 
+        {
+            "author": 371, 
+            "title": "Farnham's Freehold (Part 2 of 3)"
+        }, 
+        {
+            "author": 1103, 
+            "title": "A As in Android"
+        }, 
+        {
+            "author": 561, 
+            "title": "The Life Hater"
+        }
+    ]
+}

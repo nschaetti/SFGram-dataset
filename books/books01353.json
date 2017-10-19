@@ -1,0 +1,117 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1969", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/1969-03_IF_modified/1969-03_IF_modified_jp2.zip&file=1969-03_IF_modified_jp2/1969-03_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/71/WOFIFMAR1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        626, 
+        497, 
+        649, 
+        1182, 
+        40, 
+        356, 
+        326, 
+        588, 
+        613, 
+        1161, 
+        1023, 
+        1183, 
+        32, 
+        1086, 
+        591, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1353, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Down in the Black Gang"
+        }, 
+        {
+            "author": 499, 
+            "title": "Authorgraphs: An Interview with Harlan Ellison"
+        }, 
+        {
+            "author": 626, 
+            "title": "The Ship Who Disappeared"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Frozen Summer"
+        }, 
+        {
+            "author": 499, 
+            "title": "Endfray of the Ofay"
+        }, 
+        {
+            "author": 649, 
+            "title": "Saboteur"
+        }, 
+        {
+            "author": 1182, 
+            "title": "Creatures of Darkness"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hugos &Amp; Others"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, March 1969)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, March 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, March 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Authorgraphs: An Interview with Harlan Ellison"
+        }, 
+        {
+            "author": 588, 
+            "title": "Down in the Black Gang"
+        }, 
+        {
+            "author": 613, 
+            "title": "The Ship Who Disappeared"
+        }, 
+        {
+            "author": 1161, 
+            "title": "The Frozen Summer"
+        }, 
+        {
+            "author": 1023, 
+            "title": "Phoenix Land"
+        }, 
+        {
+            "author": 1183, 
+            "title": "The Faithful Messenger"
+        }, 
+        {
+            "author": 32, 
+            "title": "Endfray of the Ofay"
+        }, 
+        {
+            "author": 1086, 
+            "title": "Saboteur"
+        }, 
+        {
+            "author": 591, 
+            "title": "Creatures of Darkness"
+        }
+    ]
+}

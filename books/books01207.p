@@ -74,171 +74,173 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I848
-sg14
-VShowcase (Galaxy, December 1977-January 1978)
+S'title'
 p32
-sa(dp33
-g10
-I849
-sg14
-VMemo to the Leader
+VShowcase (Galaxy, December 1977-January 1978)
+p33
+sS'author'
 p34
+I848
 sa(dp35
-g10
-I849
-sg14
-VMemo to the Leader [2]
-p36
-sa(dp37
-g10
-I849
-sg14
-VMemo to the Leader [3]
-p38
-sa(dp39
-g10
-I849
-sg14
-VMemo to the Leader [4]
-p40
-sa(dp41
-g10
-I849
-sg14
-VMemo to the Leader [5]
-p42
-sa(dp43
-g10
-I849
-sg14
-VThe Road to God
-p44
-sa(dp45
-g10
-I849
-sg14
-VThe Road to God [2]
-p46
-sa(dp47
-g10
-I842
-sg14
-VCome Again
-p48
-sa(dp49
-g10
-I850
-sg14
-VThe Courts of Chaos (Part 2 of 3)
-p50
-sa(dp51
-g10
-I850
-sg14
-VThe Courts of Chaos (Part 2 of 3) [2]
-p52
-sa(dp53
-g10
-I850
-sg14
-VThe Courts of Chaos (Part 2 of 3) [3]
-p54
-sa(dp55
-g10
-I850
-sg14
-VThe Courts of Chaos (Part 2 of 3) [4]
-p56
-sa(dp57
-g10
-I850
-sg14
-VThe Courts of Chaos (Part 2 of 3) [5]
-p58
-sa(dp59
-g10
-I326
-sg14
-VJohn Henry and the Ultra-Media Experience Machine
-p60
-sa(dp61
-g10
-I842
-sg14
-VWith Clean Hands
-p62
-sa(dp63
-g10
-I842
-sg14
-VWith Clean Hands [2]
-p64
-sa(dp65
-g10
-I734
-sg14
-VE. F. Schumacher, Rip
-p66
-sa(dp67
-g10
-I843
-sg14
-VGalaxy Bookshelf (Galaxy, December 1977-January 1978)
-p68
-sa(dp69
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, December 1977-January 1978)
-p70
-sa(dp71
-g10
-I844
-sg14
-VDirections (Galaxy, December 1977-January 1978)
-p72
-sa(dp73
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, December 1977-January 1978) (Circulation: 81,035)
-p74
-sa(dp75
-g10
-I714
-sg14
+g32
 VMemo to the Leader
-p76
-sa(dp77
-g10
-I591
-sg14
-VThe Courts of Chaos (Part 2 of 3)
-p78
-sa(dp79
-g10
-I851
-sg14
+p36
+sg34
+I849
+sa(dp37
+g32
+VMemo to the Leader [2]
+p38
+sg34
+I849
+sa(dp39
+g32
+VMemo to the Leader [3]
+p40
+sg34
+I849
+sa(dp41
+g32
+VMemo to the Leader [4]
+p42
+sg34
+I849
+sa(dp43
+g32
+VMemo to the Leader [5]
+p44
+sg34
+I849
+sa(dp45
+g32
 VThe Road to God
-p80
-sa(dp81
-g10
-I852
-sg14
+p46
+sg34
+I849
+sa(dp47
+g32
+VThe Road to God [2]
+p48
+sg34
+I849
+sa(dp49
+g32
 VCome Again
-p82
-sa(dp83
-g10
-I853
-sg14
+p50
+sg34
+I842
+sa(dp51
+g32
+VThe Courts of Chaos (Part 2 of 3)
+p52
+sg34
+I850
+sa(dp53
+g32
+VThe Courts of Chaos (Part 2 of 3) [2]
+p54
+sg34
+I850
+sa(dp55
+g32
+VThe Courts of Chaos (Part 2 of 3) [3]
+p56
+sg34
+I850
+sa(dp57
+g32
+VThe Courts of Chaos (Part 2 of 3) [4]
+p58
+sg34
+I850
+sa(dp59
+g32
+VThe Courts of Chaos (Part 2 of 3) [5]
+p60
+sg34
+I850
+sa(dp61
+g32
 VJohn Henry and the Ultra-Media Experience Machine
-p84
-sa(dp85
-g10
-I854
-sg14
+p62
+sg34
+I326
+sa(dp63
+g32
 VWith Clean Hands
+p64
+sg34
+I842
+sa(dp65
+g32
+VWith Clean Hands [2]
+p66
+sg34
+I842
+sa(dp67
+g32
+VE. F. Schumacher, Rip
+p68
+sg34
+I734
+sa(dp69
+g32
+VGalaxy Bookshelf (Galaxy, December 1977-January 1978)
+p70
+sg34
+I843
+sa(dp71
+g32
+VThe Alien Viewpoint (Galaxy, December 1977-January 1978)
+p72
+sg34
+I767
+sa(dp73
+g32
+VDirections (Galaxy, December 1977-January 1978)
+p74
+sg34
+I844
+sa(dp75
+g32
+VStatement of Ownership (Galaxy, December 1977-January 1978) (Circulation: 81,035)
+p76
+sg34
+I326
+sa(dp77
+g32
+VMemo to the Leader
+p78
+sg34
+I714
+sa(dp79
+g32
+VThe Courts of Chaos (Part 2 of 3)
+p80
+sg34
+I591
+sa(dp81
+g32
+VThe Road to God
+p82
+sg34
+I851
+sa(dp83
+g32
+VCome Again
+p84
+sg34
+I852
+sa(dp85
+g32
+VJohn Henry and the Ultra-Media Experience Machine
 p86
+sg34
+I853
+sa(dp87
+g32
+VWith Clean Hands
+p88
+sg34
+I854
 sasb.

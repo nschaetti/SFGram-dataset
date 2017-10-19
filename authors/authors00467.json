@@ -2,7 +2,10 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1024
+        1024, 
+        1225, 
+        1232, 
+        1233
     ], 
     "id": 467, 
     "name": "Richard Stockham"

@@ -1,0 +1,88 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1957", 
+    "cover": "https://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/1957-12_IF/1957-12_IF_jp2.zip&file=1957-12_IF_jp2/1957-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/6c/WOFIFDEC1957.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        436, 
+        956, 
+        497, 
+        326, 
+        1008, 
+        50, 
+        208, 
+        88, 
+        422, 
+        596, 
+        918
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1260, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "And the Walls Came Tumbling Down"
+        }, 
+        {
+            "author": 436, 
+            "title": "Captain Peabody"
+        }, 
+        {
+            "author": 956, 
+            "title": "Eddie"
+        }, 
+        {
+            "author": 497, 
+            "title": "Learning Theory"
+        }, 
+        {
+            "author": 363, 
+            "title": "Routine Emergency"
+        }, 
+        {
+            "author": 326, 
+            "title": "Editor's Report (If, December 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, December 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, December 1957)"
+        }, 
+        {
+            "author": 1008, 
+            "title": "Eddie"
+        }, 
+        {
+            "author": 50, 
+            "title": "And the Walls Came Tumbling Down"
+        }, 
+        {
+            "author": 208, 
+            "title": "Captain Peabody"
+        }, 
+        {
+            "author": 88, 
+            "title": "Security"
+        }, 
+        {
+            "author": 422, 
+            "title": "Learning Theory"
+        }, 
+        {
+            "author": 596, 
+            "title": "Routine Emergency"
+        }
+    ]
+}

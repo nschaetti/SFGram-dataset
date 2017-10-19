@@ -73,135 +73,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I352
-sg14
-VThe Fireman
+S'title'
 p32
-sa(dp33
-g10
-I352
-sg14
-VThe Fireman [2]
-p34
-sa(dp35
-g10
-I352
-sg14
-VThe Fireman [3]
-p36
-sa(dp37
-g10
-I352
-sg14
-VThe Fireman [4]
-p38
-sa(dp39
-g10
-I342
-sg14
-V... And It Comes Out Here
-p40
-sa(dp41
-g10
-I342
-sg14
-V... And It Comes Out Here [2]
-p42
-sa(dp43
-g10
-I336
-sg14
-VThe Protector
-p44
-sa(dp45
-g10
-I346
-sg14
-VSecond Childhood
-p46
-sa(dp47
-g10
-I346
-sg14
-VSecond Childhood [2]
-p48
-sa(dp49
-g10
-I355
-sg14
-VTwo Weeks in August
-p50
-sa(dp51
-g10
-I348
-sg14
-VTyrann (Part 2 of 3)
-p52
-sa(dp53
-g10
-I348
-sg14
-VTyrann (Part 2 of 3) [2]
-p54
-sa(dp55
-g10
-I348
-sg14
-VTyrann (Part 2 of 3) [3]
-p56
-sa(dp57
-g10
-I348
-sg14
-VTyrann (Part 2 of 3) [4]
-p58
-sa(dp59
-g10
-I305
-sg14
-VYardstick for Science Fiction
-p60
-sa(dp61
-g10
-I340
-sg14
-VGalaxy's Five-Star Shelf (Galaxy, February 1951)
-p62
-sa(dp63
-g10
-I18
-sg14
 VThe Fireman
-p64
-sa(dp65
-g10
-I3
-sg14
-VTyrann (Part 2 of 3)
-p66
-sa(dp67
-g10
-I356
-sg14
+p33
+sS'author'
+p34
+I352
+sa(dp35
+g32
+VThe Fireman [2]
+p36
+sg34
+I352
+sa(dp37
+g32
+VThe Fireman [3]
+p38
+sg34
+I352
+sa(dp39
+g32
+VThe Fireman [4]
+p40
+sg34
+I352
+sa(dp41
+g32
 V... And It Comes Out Here
-p68
-sa(dp69
-g10
-I247
-sg14
+p42
+sg34
+I342
+sa(dp43
+g32
+V... And It Comes Out Here [2]
+p44
+sg34
+I342
+sa(dp45
+g32
 VThe Protector
-p70
-sa(dp71
-g10
-I56
-sg14
+p46
+sg34
+I336
+sa(dp47
+g32
 VSecond Childhood
-p72
-sa(dp73
-g10
-I354
-sg14
+p48
+sg34
+I346
+sa(dp49
+g32
+VSecond Childhood [2]
+p50
+sg34
+I346
+sa(dp51
+g32
 VTwo Weeks in August
+p52
+sg34
+I355
+sa(dp53
+g32
+VTyrann (Part 2 of 3)
+p54
+sg34
+I348
+sa(dp55
+g32
+VTyrann (Part 2 of 3) [2]
+p56
+sg34
+I348
+sa(dp57
+g32
+VTyrann (Part 2 of 3) [3]
+p58
+sg34
+I348
+sa(dp59
+g32
+VTyrann (Part 2 of 3) [4]
+p60
+sg34
+I348
+sa(dp61
+g32
+VYardstick for Science Fiction
+p62
+sg34
+I305
+sa(dp63
+g32
+VGalaxy's Five-Star Shelf (Galaxy, February 1951)
+p64
+sg34
+I340
+sa(dp65
+g32
+VThe Fireman
+p66
+sg34
+I18
+sa(dp67
+g32
+VTyrann (Part 2 of 3)
+p68
+sg34
+I3
+sa(dp69
+g32
+V... And It Comes Out Here
+p70
+sg34
+I356
+sa(dp71
+g32
+VThe Protector
+p72
+sg34
+I247
+sa(dp73
+g32
+VSecond Childhood
 p74
+sg34
+I56
+sa(dp75
+g32
+VTwo Weeks in August
+p76
+sg34
+I354
 sasb.

@@ -1,0 +1,165 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1967
+sS'title'
+p14
+VIF Magazine June 1967
+p15
+sS'cover'
+p16
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/1967-06_IF/1967-06_IF_jp2.zip&file=1967-06_IF_jp2/1967-06_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/8/8d/WOFIFJUN1967.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I545
+aI497
+aI593
+aI499
+aI40
+aI1125
+aI542
+aI1148
+aI28
+aI67
+aI561
+aI610
+aI1149
+aI46
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1332
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I545
+sg14
+VWizard's World
+p32
+sa(dp33
+g10
+I497
+sg14
+VAll True Believers
+p34
+sa(dp35
+g10
+I593
+sg14
+VSpaceman! (Part 2 of 3)
+p36
+sa(dp37
+g10
+I499
+sg14
+VDriftglass
+p38
+sa(dp39
+g10
+I40
+sg14
+VWhy the Earth Isn't Round
+p40
+sa(dp41
+g10
+I1125
+sg14
+VThe N3f and Others
+p42
+sa(dp43
+g10
+I40
+sg14
+VHue and Cry (If, June 1967)
+p44
+sa(dp45
+g10
+I542
+sg14
+VLetter (Worlds of If, June 1967)
+p46
+sa(dp47
+g10
+I1148
+sg14
+VAll True Believers
+p48
+sa(dp49
+g10
+I28
+sg14
+VWizard's World
+p50
+sa(dp51
+g10
+I67
+sg14
+VSpaceman! (Part 2 of 3)
+p52
+sa(dp53
+g10
+I561
+sg14
+VBerserker's Prey
+p54
+sa(dp55
+g10
+I610
+sg14
+VThe Castaways
+p56
+sa(dp57
+g10
+I1149
+sg14
+VFamily Loyalty
+p58
+sa(dp59
+g10
+I46
+sg14
+VDriftglass
+p60
+sasb.

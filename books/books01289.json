@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1963", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/1963-01_IF/1963-01_IF_jp2.zip&file=1963-01_IF_jp2/1963-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f5/WOFIFJAN1963.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        568, 
+        580, 
+        497, 
+        578, 
+        341, 
+        40, 
+        371, 
+        56, 
+        278, 
+        271, 
+        561, 
+        618, 
+        229, 
+        918
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1289, 
+    "contents": [
+        {
+            "author": 568, 
+            "title": "The Five Hells of Orion"
+        }, 
+        {
+            "author": 580, 
+            "title": "The Shipshape Miracle"
+        }, 
+        {
+            "author": 497, 
+            "title": "Podkayne of Mars (Part 2 of 3)"
+        }, 
+        {
+            "author": 578, 
+            "title": "Captain of the Kali"
+        }, 
+        {
+            "author": 341, 
+            "title": "Nostradamus Concluded"
+        }, 
+        {
+            "author": 341, 
+            "title": "Essay in Coherence"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, January 1963)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Five Hells of Orion"
+        }, 
+        {
+            "author": 371, 
+            "title": "Podkayne of Mars (Part 2 of 3)"
+        }, 
+        {
+            "author": 56, 
+            "title": "The Shipshape Miracle"
+        }, 
+        {
+            "author": 278, 
+            "title": "This Way to the Egress"
+        }, 
+        {
+            "author": 271, 
+            "title": "Road Stop"
+        }, 
+        {
+            "author": 561, 
+            "title": "Fortress Ship"
+        }, 
+        {
+            "author": 618, 
+            "title": "Captain of the Kali"
+        }, 
+        {
+            "author": 229, 
+            "title": "When Whirlybirds Call"
+        }
+    ]
+}

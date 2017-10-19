@@ -72,123 +72,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VEnd City
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VTinkerboy
-p34
-sa(dp35
-g10
-I326
-sg14
-VEndangered Species
-p36
-sa(dp37
-g10
-I499
-sg14
-VCox's Quality
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Org's Egg (Part 2 of 3)
-p40
-sa(dp41
-g10
-I499
-sg14
-VTime and Duckworth
-p42
-sa(dp43
-g10
-I326
-sg14
-VSubstance and Shadow
-p44
-sa(dp45
-g10
-I499
-sg14
-VWar of the Wastelife
-p46
-sa(dp47
-g10
-I499
-sg14
-VCool Affection
-p48
-sa(dp49
-g10
-I734
-sg14
-VThose Pesky Belters and Their Torchships
-p50
-sa(dp51
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, May 1974)
-p52
-sa(dp53
-g10
-I737
-sg14
-VCox's Quality
-p54
-sa(dp55
-g10
-I635
-sg14
-VWar of the Wastelife
-p56
-sa(dp57
-g10
-I86
-sg14
-VThe Org's Egg (Part 2 of 3)
-p58
-sa(dp59
-g10
-I23
-sg14
 VEnd City
-p60
-sa(dp61
-g10
-I153
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
 VTinkerboy
-p62
-sa(dp63
-g10
-I74
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
 VEndangered Species
-p64
-sa(dp65
-g10
-I651
-sg14
+p38
+sg34
+I326
+sa(dp39
+g32
+VCox's Quality
+p40
+sg34
+I499
+sa(dp41
+g32
+VThe Org's Egg (Part 2 of 3)
+p42
+sg34
+I499
+sa(dp43
+g32
 VTime and Duckworth
-p66
-sa(dp67
-g10
-I722
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
 VSubstance and Shadow
-p68
-sa(dp69
-g10
-I112
-sg14
+p46
+sg34
+I326
+sa(dp47
+g32
+VWar of the Wastelife
+p48
+sg34
+I499
+sa(dp49
+g32
 VCool Affection
+p50
+sg34
+I499
+sa(dp51
+g32
+VThose Pesky Belters and Their Torchships
+p52
+sg34
+I734
+sa(dp53
+g32
+VGalaxy Bookshelf (Galaxy, May 1974)
+p54
+sg34
+I341
+sa(dp55
+g32
+VCox's Quality
+p56
+sg34
+I737
+sa(dp57
+g32
+VWar of the Wastelife
+p58
+sg34
+I635
+sa(dp59
+g32
+VThe Org's Egg (Part 2 of 3)
+p60
+sg34
+I86
+sa(dp61
+g32
+VEnd City
+p62
+sg34
+I23
+sa(dp63
+g32
+VTinkerboy
+p64
+sg34
+I153
+sa(dp65
+g32
+VEndangered Species
+p66
+sg34
+I74
+sa(dp67
+g32
+VTime and Duckworth
+p68
+sg34
+I651
+sa(dp69
+g32
+VSubstance and Shadow
 p70
+sg34
+I722
+sa(dp71
+g32
+VCool Affection
+p72
+sg34
+I112
 sasb.

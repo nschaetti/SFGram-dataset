@@ -70,111 +70,113 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VA Congregation of Vapors
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VThe Moon Children (Part 1 of 3)
-p34
-sa(dp35
-g10
-I499
-sg14
-VThe Moon Children (Part 1 of 3) [2]
-p36
-sa(dp37
-g10
-I499
-sg14
-VAll but the Words
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Phylogenetic Factor
-p40
-sa(dp41
-g10
-I499
-sg14
-VThe S.B. Notations
-p42
-sa(dp43
-g10
-I499
-sg14
-VAll the Way Up, All the Way Down
-p44
-sa(dp45
-g10
-I499
-sg14
-VDuckworth and the Sound Probe
-p46
-sa(dp47
-g10
-I667
-sg14
-VUnless We Fear Some Evil
-p48
-sa(dp49
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, July-August 1971)
-p50
-sa(dp51
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, July-August 1971)
-p52
-sa(dp53
-g10
-I50
-sg14
-VAll the Way Up, All the Way Down
-p54
-sa(dp55
-g10
-I684
-sg14
 VA Congregation of Vapors
-p56
-sa(dp57
-g10
-I86
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VThe Moon Children (Part 1 of 3)
-p58
-sa(dp59
-g10
-I74
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
+VThe Moon Children (Part 1 of 3) [2]
+p38
+sg34
+I499
+sa(dp39
+g32
 VAll but the Words
-p60
-sa(dp61
-g10
-I687
-sg14
+p40
+sg34
+I499
+sa(dp41
+g32
 VThe Phylogenetic Factor
-p62
-sa(dp63
-g10
-I697
-sg14
+p42
+sg34
+I499
+sa(dp43
+g32
 VThe S.B. Notations
-p64
-sa(dp65
-g10
-I651
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
+VAll the Way Up, All the Way Down
+p46
+sg34
+I499
+sa(dp47
+g32
 VDuckworth and the Sound Probe
+p48
+sg34
+I499
+sa(dp49
+g32
+VUnless We Fear Some Evil
+p50
+sg34
+I667
+sa(dp51
+g32
+VGalaxy Stars (Galaxy, July-August 1971)
+p52
+sg34
+I326
+sa(dp53
+g32
+VGalaxy Bookshelf (Galaxy, July-August 1971)
+p54
+sg34
+I91
+sa(dp55
+g32
+VAll the Way Up, All the Way Down
+p56
+sg34
+I50
+sa(dp57
+g32
+VA Congregation of Vapors
+p58
+sg34
+I684
+sa(dp59
+g32
+VThe Moon Children (Part 1 of 3)
+p60
+sg34
+I86
+sa(dp61
+g32
+VAll but the Words
+p62
+sg34
+I74
+sa(dp63
+g32
+VThe Phylogenetic Factor
+p64
+sg34
+I687
+sa(dp65
+g32
+VThe S.B. Notations
 p66
+sg34
+I697
+sa(dp67
+g32
+VDuckworth and the Sound Probe
+p68
+sg34
+I651
 sasb.

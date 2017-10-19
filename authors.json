@@ -98,7 +98,17 @@
                 1109, 
                 1156, 
                 1157, 
-                1174
+                1174, 
+                1246, 
+                1257, 
+                1261, 
+                1329, 
+                1349, 
+                1350, 
+                1364, 
+                1376, 
+                1389, 
+                1390
             ], 
             "id": 3, 
             "died": "1992-04-06 00:00:00"
@@ -237,7 +247,20 @@
                 1099, 
                 1103, 
                 1116, 
-                1130
+                1130, 
+                1221, 
+                1227, 
+                1231, 
+                1232, 
+                1235, 
+                1238, 
+                1242, 
+                1243, 
+                1246, 
+                1266, 
+                1268, 
+                1269, 
+                1295
             ], 
             "id": 8, 
             "died": "1982-03-02 00:00:00"
@@ -421,7 +444,14 @@
                 1103, 
                 1104, 
                 1117, 
-                1120
+                1120, 
+                1229, 
+                1348, 
+                1352, 
+                1361, 
+                1373, 
+                1375, 
+                1376
             ], 
             "id": 16, 
             "died": "2012-08-15 00:00:00"
@@ -698,7 +728,11 @@
                 1148, 
                 1166, 
                 1172, 
-                1185
+                1185, 
+                1231, 
+                1235, 
+                1236, 
+                1340
             ], 
             "id": 23, 
             "died": "2005-12-09 00:00:00"
@@ -739,7 +773,8 @@
                 80, 
                 154, 
                 169, 
-                196
+                196, 
+                1267
             ], 
             "id": 25, 
             "died": "1999-09-25 00:00:00"
@@ -804,7 +839,10 @@
                 174, 
                 176, 
                 206, 
-                227
+                227, 
+                1332, 
+                1354, 
+                1355
             ], 
             "id": 28, 
             "died": "2005-03-17 00:00:00"
@@ -871,7 +909,18 @@
                 1128, 
                 1135, 
                 1175, 
-                1187
+                1187, 
+                1253, 
+                1284, 
+                1288, 
+                1291, 
+                1295, 
+                1296, 
+                1315, 
+                1343, 
+                1363, 
+                1391, 
+                1392
             ], 
             "id": 30, 
             "died": "2001-07-31 00:00:00"
@@ -959,7 +1008,14 @@
                 1124, 
                 1125, 
                 1128, 
-                1135
+                1135, 
+                1233, 
+                1267, 
+                1285, 
+                1287, 
+                1311, 
+                1338, 
+                1353
             ], 
             "id": 32, 
             "died": "1992-09-05 00:00:00"
@@ -1118,7 +1174,10 @@
                 237, 
                 268, 
                 583, 
-                648
+                648, 
+                1248, 
+                1253, 
+                1258
             ], 
             "id": 39
         }, 
@@ -1251,7 +1310,94 @@
                 1214, 
                 1215, 
                 1216, 
-                1217
+                1217, 
+                1268, 
+                1269, 
+                1270, 
+                1271, 
+                1272, 
+                1273, 
+                1274, 
+                1275, 
+                1276, 
+                1277, 
+                1283, 
+                1284, 
+                1285, 
+                1286, 
+                1287, 
+                1288, 
+                1289, 
+                1290, 
+                1291, 
+                1292, 
+                1293, 
+                1294, 
+                1295, 
+                1296, 
+                1297, 
+                1298, 
+                1299, 
+                1301, 
+                1302, 
+                1303, 
+                1304, 
+                1305, 
+                1306, 
+                1307, 
+                1308, 
+                1309, 
+                1310, 
+                1311, 
+                1312, 
+                1313, 
+                1314, 
+                1315, 
+                1316, 
+                1317, 
+                1318, 
+                1319, 
+                1320, 
+                1321, 
+                1322, 
+                1323, 
+                1324, 
+                1325, 
+                1326, 
+                1327, 
+                1328, 
+                1329, 
+                1330, 
+                1331, 
+                1332, 
+                1333, 
+                1334, 
+                1335, 
+                1336, 
+                1337, 
+                1338, 
+                1339, 
+                1340, 
+                1341, 
+                1342, 
+                1343, 
+                1344, 
+                1345, 
+                1346, 
+                1347, 
+                1348, 
+                1349, 
+                1350, 
+                1351, 
+                1352, 
+                1353, 
+                1354, 
+                1355, 
+                1356, 
+                1358, 
+                1378, 
+                1382, 
+                1389
             ], 
             "id": 40, 
             "died": "2013-09-02 00:00:00"
@@ -1297,7 +1443,10 @@
             "books": [
                 121, 
                 219, 
-                230
+                230, 
+                1333, 
+                1335, 
+                1337
             ], 
             "id": 42, 
             "died": "2009-02-25 00:00:00"
@@ -1318,7 +1467,8 @@
             "born": "1909-08-25 00:00:00", 
             "books": [
                 123, 
-                267
+                267, 
+                1220
             ], 
             "id": 43, 
             "died": "1971-08-25 00:00:00"
@@ -1362,7 +1512,13 @@
                 1076, 
                 1087, 
                 1121, 
-                1132
+                1132, 
+                1274, 
+                1314, 
+                1352, 
+                1355, 
+                1361, 
+                1376
             ], 
             "id": 45, 
             "died": "1994-09-23 00:00:00"
@@ -1382,7 +1538,10 @@
             "born": "1942-04-01 00:00:00", 
             "books": [
                 130, 
-                150
+                150, 
+                1332, 
+                1344, 
+                1348
             ], 
             "id": 46
         }, 
@@ -1406,7 +1565,8 @@
                 1101, 
                 1129, 
                 1147, 
-                1148
+                1148, 
+                1362
             ], 
             "id": 47
         }, 
@@ -1485,7 +1645,11 @@
                 700, 
                 708, 
                 854, 
-                879
+                879, 
+                1230, 
+                1237, 
+                1367, 
+                1388
             ], 
             "id": 49, 
             "died": "1987-12-31 00:00:00"
@@ -1546,7 +1710,19 @@
                 1152, 
                 1158, 
                 1159, 
-                1179
+                1179, 
+                1256, 
+                1260, 
+                1262, 
+                1264, 
+                1292, 
+                1325, 
+                1327, 
+                1335, 
+                1342, 
+                1343, 
+                1365, 
+                1389
             ], 
             "id": 50
         }, 
@@ -1669,7 +1845,19 @@
                 1141, 
                 1144, 
                 1146, 
-                1173
+                1173, 
+                1227, 
+                1232, 
+                1234, 
+                1244, 
+                1249, 
+                1321, 
+                1322, 
+                1323, 
+                1334, 
+                1335, 
+                1336, 
+                1349
             ], 
             "id": 55, 
             "died": "1975-07-30 00:00:00"
@@ -1731,7 +1919,13 @@
                 1109, 
                 1122, 
                 1132, 
-                1135
+                1135, 
+                1272, 
+                1289, 
+                1363, 
+                1381, 
+                1383, 
+                1384
             ], 
             "id": 56, 
             "died": "1988-04-25 00:00:00"
@@ -1802,7 +1996,9 @@
                 172, 
                 720, 
                 934, 
-                1086
+                1086, 
+                1254, 
+                1256
             ], 
             "id": 59, 
             "died": "2002-04-02 00:00:00"
@@ -1881,7 +2077,9 @@
                 1003, 
                 1028, 
                 1083, 
-                1097
+                1097, 
+                1293, 
+                1315
             ], 
             "id": 61, 
             "died": "1975-06-08 00:00:00"
@@ -1946,7 +2144,13 @@
                 1200, 
                 1201, 
                 1202, 
-                1203
+                1203, 
+                1276, 
+                1358, 
+                1361, 
+                1362, 
+                1363, 
+                1364
             ], 
             "id": 63, 
             "died": "1986-02-11 00:00:00"
@@ -2051,7 +2255,52 @@
                 1131, 
                 1132, 
                 1133, 
-                1146
+                1146, 
+                1281, 
+                1282, 
+                1283, 
+                1284, 
+                1285, 
+                1286, 
+                1287, 
+                1288, 
+                1290, 
+                1292, 
+                1294, 
+                1296, 
+                1299, 
+                1300, 
+                1301, 
+                1302, 
+                1303, 
+                1310, 
+                1311, 
+                1312, 
+                1313, 
+                1314, 
+                1317, 
+                1318, 
+                1319, 
+                1320, 
+                1321, 
+                1325, 
+                1328, 
+                1330, 
+                1331, 
+                1332, 
+                1333, 
+                1334, 
+                1354, 
+                1356, 
+                1358, 
+                1359, 
+                1360, 
+                1365, 
+                1367, 
+                1369, 
+                1370, 
+                1371, 
+                1373
             ], 
             "id": 67, 
             "died": "1993-01-23 00:00:00"
@@ -2115,7 +2364,19 @@
                 1124, 
                 1126, 
                 1128, 
-                1179
+                1179, 
+                1229, 
+                1251, 
+                1271, 
+                1312, 
+                1313, 
+                1323, 
+                1347, 
+                1349, 
+                1350, 
+                1356, 
+                1357, 
+                1389
             ], 
             "id": 69, 
             "died": "1983-01-30 00:00:00"
@@ -2137,7 +2398,15 @@
             "books": [
                 220, 
                 997, 
-                1096
+                1096, 
+                1291, 
+                1307, 
+                1322, 
+                1336, 
+                1337, 
+                1338, 
+                1347, 
+                1387
             ], 
             "id": 70, 
             "died": "2003-10-29 00:00:00"
@@ -2259,7 +2528,21 @@
                 1163, 
                 1166, 
                 1169, 
-                1172
+                1172, 
+                1275, 
+                1276, 
+                1277, 
+                1278, 
+                1284, 
+                1300, 
+                1302, 
+                1307, 
+                1309, 
+                1316, 
+                1319, 
+                1364, 
+                1369, 
+                1372
             ], 
             "id": 74, 
             "died": "2002-03-18 00:00:00"
@@ -2403,7 +2686,11 @@
                 1111, 
                 1116, 
                 1117, 
-                1126
+                1126, 
+                1273, 
+                1308, 
+                1320, 
+                1389
             ], 
             "id": 81, 
             "died": "2009-11-30 00:00:00"
@@ -2520,7 +2807,16 @@
                 1172, 
                 1173, 
                 1184, 
-                1196
+                1196, 
+                1292, 
+                1293, 
+                1294, 
+                1303, 
+                1304, 
+                1305, 
+                1344, 
+                1345, 
+                1346
             ], 
             "id": 86, 
             "died": "2006-11-10 00:00:00"
@@ -2557,7 +2853,18 @@
                 266, 
                 570, 
                 637, 
-                993
+                993, 
+                1219, 
+                1224, 
+                1234, 
+                1245, 
+                1253, 
+                1254, 
+                1255, 
+                1259, 
+                1260, 
+                1286, 
+                1305
             ], 
             "id": 88, 
             "died": "1988-02-05 00:00:00"
@@ -2587,7 +2894,8 @@
                 1111, 
                 1114, 
                 1115, 
-                1116
+                1116, 
+                1226
             ], 
             "id": 89, 
             "died": "2013-05-26 00:00:00"
@@ -2688,7 +2996,16 @@
                 1151, 
                 1152, 
                 1153, 
-                1154
+                1154, 
+                1245, 
+                1261, 
+                1267, 
+                1291, 
+                1326, 
+                1327, 
+                1328, 
+                1329, 
+                1330
             ], 
             "id": 91, 
             "died": "2008-06-09 00:00:00"
@@ -2754,7 +3071,12 @@
                 788, 
                 897, 
                 990, 
-                1082
+                1082, 
+                1222, 
+                1226, 
+                1275, 
+                1281, 
+                1283
             ], 
             "id": 94
         }, 
@@ -2784,7 +3106,8 @@
                 1078, 
                 1087, 
                 1091, 
-                1119
+                1119, 
+                1297
             ], 
             "id": 95
         }, 
@@ -2857,7 +3180,8 @@
                 1058, 
                 1068, 
                 1074, 
-                1097
+                1097, 
+                1228
             ], 
             "id": 98, 
             "died": "2010-02-07 00:00:00"
@@ -2952,7 +3276,10 @@
             "books": [
                 312, 
                 780, 
-                971
+                971, 
+                1248, 
+                1249, 
+                1250
             ], 
             "id": 103, 
             "died": "2008-12-04 00:00:00"
@@ -3078,7 +3405,9 @@
             "born": "1924-10-17 00:00:00", 
             "books": [
                 337, 
-                1035
+                1035, 
+                1224, 
+                1230
             ], 
             "id": 109, 
             "died": "1990-10-17 00:00:00"
@@ -3124,7 +3453,29 @@
                 1098, 
                 1105, 
                 1106, 
-                1118
+                1118, 
+                1273, 
+                1286, 
+                1299, 
+                1304, 
+                1306, 
+                1308, 
+                1311, 
+                1316, 
+                1323, 
+                1325, 
+                1327, 
+                1328, 
+                1333, 
+                1335, 
+                1336, 
+                1337, 
+                1338, 
+                1343, 
+                1345, 
+                1347, 
+                1355, 
+                1374
             ], 
             "id": 111
         }, 
@@ -3319,7 +3670,12 @@
                 1053, 
                 1079, 
                 1082, 
-                1118
+                1118, 
+                1219, 
+                1220, 
+                1264, 
+                1281, 
+                1285
             ], 
             "id": 121
         }, 
@@ -3343,7 +3699,10 @@
                 976, 
                 992, 
                 994, 
-                1032
+                1032, 
+                1222, 
+                1232, 
+                1235
             ], 
             "id": 122, 
             "died": "2013-06-23 00:00:00"
@@ -3481,7 +3840,11 @@
                 793, 
                 834, 
                 976, 
-                1128
+                1128, 
+                1233, 
+                1235, 
+                1250, 
+                1388
             ], 
             "id": 129, 
             "died": "1994-01-24 00:00:00"
@@ -3500,7 +3863,8 @@
             "n_books": 1, 
             "summary": "Manly Wade Wellman (May 21, 1903 \u2013 April 5, 1986) was an American writer.\nWhile his science fiction and fantasy stories appeared in such pulps as Astounding Stories, Startling Stories, Unknown and Strange Stories, Wellman is best remembered as one of the most popular contributors to the legendary Weird Tales, and for his fantasy and horror stories set in the Appalachian Mountains, which draw on the native folklore of that region. Karl Edward Wagner referred to him as \"the dean of fantasy writers.\" Wellman also wrote in a wide variety of other genres, including historical fiction, detective fiction, western fiction, juvenile fiction, and non-fiction.\nWellman was a long-time resident of North Carolina. He received many awards, including the World Fantasy Award and Edgar Allan Poe Award. In 2013, the North Carolina Speculative Fiction Foundation inaugurated an award named after him to honor other North Carolina authors of science fiction and fantasy. \nThree of Wellman's most famous recurring protagonists are (1) John, a.k.a. John the Balladeer, a.k.a. \"Silver John\", a wandering backwoods minstrel with a silver-stringed guitar, (2) the elderly \"occult detective\" Judge Pursuivant, and (3) John Thunstone, also an occult investigator.", 
             "books": [
-                403
+                403, 
+                1266
             ], 
             "id": 130
         }, 
@@ -3563,7 +3927,8 @@
             }, 
             "n_books": 1, 
             "books": [
-                410
+                410, 
+                1276
             ], 
             "id": 133
         }, 
@@ -3601,7 +3966,12 @@
                 612, 
                 691, 
                 779, 
-                911
+                911, 
+                1221, 
+                1312, 
+                1315, 
+                1319, 
+                1322
             ], 
             "id": 135, 
             "died": "1977-05-12 00:00:00"
@@ -3637,7 +4007,12 @@
                 1006, 
                 1034, 
                 1035, 
-                1105
+                1105, 
+                1269, 
+                1283, 
+                1349, 
+                1388, 
+                1389
             ], 
             "id": 136, 
             "died": "1981-04-18 00:00:00"
@@ -3777,7 +4152,17 @@
                 1091, 
                 1092, 
                 1111, 
-                1118
+                1118, 
+                1268, 
+                1272, 
+                1274, 
+                1276, 
+                1278, 
+                1280, 
+                1283, 
+                1284, 
+                1285, 
+                1287
             ], 
             "id": 142, 
             "died": "2010-02-16 00:00:00"
@@ -3818,7 +4203,23 @@
                 619, 
                 753, 
                 755, 
-                826
+                826, 
+                1236, 
+                1237, 
+                1242, 
+                1246, 
+                1250, 
+                1251, 
+                1253, 
+                1254, 
+                1255, 
+                1256, 
+                1257, 
+                1258, 
+                1262, 
+                1263, 
+                1269, 
+                1273
             ], 
             "id": 144, 
             "died": "2007-01-27 00:00:00"
@@ -3999,7 +4400,23 @@
                 1156, 
                 1159, 
                 1163, 
-                1172
+                1172, 
+                1234, 
+                1237, 
+                1240, 
+                1243, 
+                1247, 
+                1248, 
+                1250, 
+                1253, 
+                1281, 
+                1296, 
+                1302, 
+                1312, 
+                1314, 
+                1364, 
+                1380, 
+                1381
             ], 
             "id": 153, 
             "died": "1986-06-22 00:00:00"
@@ -4023,7 +4440,9 @@
                 685, 
                 715, 
                 853, 
-                857
+                857, 
+                1268, 
+                1275
             ], 
             "id": 154, 
             "died": "1994-03-10 00:00:00"
@@ -4173,7 +4592,14 @@
                 1140, 
                 1151, 
                 1155, 
-                1157
+                1157, 
+                1229, 
+                1234, 
+                1243, 
+                1248, 
+                1256, 
+                1262, 
+                1360
             ], 
             "id": 161
         }, 
@@ -4219,7 +4645,8 @@
             "summary": "Charles Leonard Harness (December 29, 1915 \u2013 September 20, 2005) was an American science fiction writer. He was born in Colorado City, Texas and grew up just outside it, then later in Fort Worth. He earned degrees in chemistry and law from George Washington University and worked as a patent attorney in Connecticut & Washington, DC from 1947 to 1981. Several of Harness' works draw on his background as a lawyer.\n\n", 
             "born": "2038-01-01 00:00:00", 
             "books": [
-                492
+                492, 
+                1349
             ], 
             "id": 163, 
             "died": "2005-09-20 00:00:00"
@@ -4279,7 +4706,11 @@
                 858, 
                 923, 
                 989, 
-                1081
+                1081, 
+                1223, 
+                1228, 
+                1239, 
+                1359
             ], 
             "id": 166
         }, 
@@ -4297,7 +4728,8 @@
                 499, 
                 518, 
                 1048, 
-                1065
+                1065, 
+                1284
             ], 
             "id": 167
         }, 
@@ -4320,7 +4752,8 @@
                 531, 
                 549, 
                 1087, 
-                1092
+                1092, 
+                1281
             ], 
             "id": 168, 
             "died": "2008-12-31 00:00:00"
@@ -4488,7 +4921,9 @@
             }, 
             "n_books": 1, 
             "books": [
-                535
+                535, 
+                1239, 
+                1240
             ], 
             "id": 176
         }, 
@@ -4547,7 +4982,9 @@
                 721, 
                 1081, 
                 1089, 
-                1110
+                1110, 
+                1279, 
+                1286
             ], 
             "id": 179
         }, 
@@ -4607,7 +5044,9 @@
                 546, 
                 872, 
                 1067, 
-                1076
+                1076, 
+                1267, 
+                1268
             ], 
             "id": 182
         }, 
@@ -4622,7 +5061,8 @@
             }, 
             "n_books": 1, 
             "books": [
-                548
+                548, 
+                1228
             ], 
             "id": 183
         }, 
@@ -4704,7 +5144,8 @@
             "n_books": 1, 
             "books": [
                 564, 
-                998
+                998, 
+                1227
             ], 
             "id": 188
         }, 
@@ -4832,7 +5273,10 @@
                 1099, 
                 1117, 
                 1126, 
-                1159
+                1159, 
+                1225, 
+                1287, 
+                1288
             ], 
             "id": 194, 
             "died": "1980-12-23 00:00:00"
@@ -4988,7 +5432,8 @@
             "books": [
                 609, 
                 844, 
-                999
+                999, 
+                1223
             ], 
             "id": 203
         }, 
@@ -5028,7 +5473,13 @@
                 1101, 
                 1122, 
                 1124, 
-                1137
+                1137, 
+                1229, 
+                1240, 
+                1265, 
+                1266, 
+                1267, 
+                1294
             ], 
             "id": 204, 
             "died": "2002-04-15 00:00:00"
@@ -5057,7 +5508,13 @@
                 1091, 
                 1099, 
                 1100, 
-                1151
+                1151, 
+                1271, 
+                1277, 
+                1279, 
+                1295, 
+                1298, 
+                1367
             ], 
             "id": 205
         }, 
@@ -5074,7 +5531,8 @@
             "books": [
                 616, 
                 894, 
-                1077
+                1077, 
+                1258
             ], 
             "id": 206
         }, 
@@ -5107,7 +5565,12 @@
             "summary": ".\n\nRoger Phillips Graham (1909-1966), born in Spokane, Washington, was an American science fiction writer who was published most often using the name Rog Phillips, but also used other names. Of his other pseudonyms, only Craig Browning is notable in the genre. He is associated most with Amazing Stories and is known best for short fiction. He was nominated for the Hugo Award for Best Novelette during 1959.", 
             "books": [
                 628, 
-                859
+                859, 
+                1218, 
+                1223, 
+                1259, 
+                1260, 
+                1266
             ], 
             "id": 208
         }, 
@@ -5160,7 +5623,10 @@
                 1077, 
                 1078, 
                 1081, 
-                1084
+                1084, 
+                1271, 
+                1279, 
+                1284
             ], 
             "id": 211
         }, 
@@ -5210,7 +5676,10 @@
                 1064, 
                 1065, 
                 1079, 
-                1080
+                1080, 
+                1277, 
+                1301, 
+                1329
             ], 
             "id": 214
         }, 
@@ -5275,7 +5744,11 @@
                 1105, 
                 1116, 
                 1120, 
-                1133
+                1133, 
+                1229, 
+                1254, 
+                1328, 
+                1361
             ], 
             "id": 217
         }, 
@@ -5293,7 +5766,8 @@
             "summary": "William Campbell Gault (1910\u20131995) was an American writer. He wrote under his own name, and as Roney Scott and Will Duke, among other pseudonyms.\nHe is probably best remembered for his sports fiction, particularly the young-readers' novels he began publishing in the early 1960s, and for his crime fiction.\nHe contributed to a wide range of pulp magazines, particularly to the sports pulps, where he was considered one of the best writers in the field. Damon Knight, noted science fiction critic and one-time editor of Popular Publications, wrote the following about Gault's sports fiction:\n\nI liked the characterization in those stories; I liked the description; I liked the fist fights; I liked the love interest. I like everything about them, except what they were all about.\n\nGault won the 1953 Edgar Award for Best First Novel for his crime fiction novel, Don't Cry for Me (1952). He won the Shamus Award for Best P.I. Paperback Original in 1983 for The Cana Diversion and was awarded The Eye in 1984 for Lifetime Achievement, both by The Private Eye Writers of America. In 1991, he was presented Bouchercon's Lifetime Achievement Award.", 
             "books": [
                 666, 
-                977
+                977, 
+                1225
             ], 
             "id": 218
         }, 
@@ -5342,7 +5816,14 @@
                 1073, 
                 1082, 
                 1083, 
-                1084
+                1084, 
+                1257, 
+                1268, 
+                1271, 
+                1272, 
+                1275, 
+                1281, 
+                1361
             ], 
             "id": 220, 
             "died": "1976-09-07 00:00:00"
@@ -5363,7 +5844,13 @@
             "books": [
                 669, 
                 893, 
-                912
+                912, 
+                1218, 
+                1219, 
+                1220, 
+                1221, 
+                1222, 
+                1224
             ], 
             "id": 221
         }, 
@@ -5441,7 +5928,14 @@
             "born": "1933-01-13 00:00:00", 
             "books": [
                 686, 
-                1082
+                1082, 
+                1265, 
+                1272, 
+                1304, 
+                1362, 
+                1364, 
+                1366, 
+                1386
             ], 
             "id": 225
         }, 
@@ -5504,7 +5998,14 @@
                 1005, 
                 1010, 
                 1012, 
-                1016
+                1016, 
+                1231, 
+                1232, 
+                1236, 
+                1240, 
+                1245, 
+                1246, 
+                1345
             ], 
             "id": 228
         }, 
@@ -5522,7 +6023,12 @@
                 697, 
                 739, 
                 1091, 
-                1093
+                1093, 
+                1279, 
+                1284, 
+                1288, 
+                1289, 
+                1295
             ], 
             "id": 229
         }, 
@@ -5602,7 +6108,9 @@
             "books": [
                 719, 
                 726, 
-                1085
+                1085, 
+                1241, 
+                1244
             ], 
             "id": 234
         }, 
@@ -5621,7 +6129,8 @@
             "summary": "Howard Browne (April 15, 1908 \u2013 October 28, 1999) was a science fiction editor and mystery writer. He also wrote for several television series and films. Some of his work appeared over the pseudonyms John Evans, Alexander Blade, Lawrence Chandler, Ivar Jorgensen, and Lee Francis.", 
             "born": "1908-08-26 00:00:00", 
             "books": [
-                727
+                727, 
+                1218
             ], 
             "id": 235, 
             "died": "1999-10-28 00:00:00"
@@ -5649,7 +6158,10 @@
                 942, 
                 994, 
                 1007, 
-                1028
+                1028, 
+                1225, 
+                1226, 
+                1263
             ], 
             "id": 236, 
             "died": "1963-08-26 00:00:00"
@@ -5717,7 +6229,8 @@
             "n_books": 1, 
             "books": [
                 741, 
-                1071
+                1071, 
+                1251
             ], 
             "id": 240
         }, 
@@ -5750,7 +6263,8 @@
             "n_books": 1, 
             "summary": "G. C. Edmondson was the working name of science fiction author Garry Edmonson (full name \"Jos\u00e9 Mario Garry Ordo\u00f1ez Edmondson y Cotton\") (October 11, 1922 in Washington state \u2013 December 14, 1995 in San Diego, California). According to the obituary published in Locus Magazine, Edmondson was born in Rachauchitl\u00e1n, Tabasco, Mexico. During World War II he served as a U. S. Marine.\nAlthough generally called a science fiction writer he also wrote Westerns using the names Kelly P. Gast, J. B. Masterson, and Jack Logan. As he could also speak six languages he did translating work as well. His science fiction career began during 1955 with a story in the magazine Astounding. He later produced several novels which gained some note for their interest in time travel and Latin America. Several writers, including Gardner Dozois, tend to consider him as a neglected author.", 
             "books": [
-                747
+                747, 
+                1390
             ], 
             "id": 242
         }, 
@@ -5845,7 +6359,8 @@
             "books": [
                 773, 
                 978, 
-                1007
+                1007, 
+                1329
             ], 
             "id": 247
         }, 
@@ -5883,7 +6398,8 @@
             "books": [
                 781, 
                 851, 
-                986
+                986, 
+                1224
             ], 
             "id": 249
         }, 
@@ -5898,7 +6414,9 @@
             }, 
             "n_books": 1, 
             "books": [
-                784
+                784, 
+                1263, 
+                1273
             ], 
             "id": 250
         }, 
@@ -5961,7 +6479,9 @@
             "books": [
                 800, 
                 983, 
-                1132
+                1132, 
+                1274, 
+                1278
             ], 
             "id": 254
         }, 
@@ -5977,7 +6497,8 @@
             "n_books": 2, 
             "books": [
                 801, 
-                929
+                929, 
+                1221
             ], 
             "id": 255
         }, 
@@ -6056,7 +6577,8 @@
             "books": [
                 817, 
                 822, 
-                1082
+                1082, 
+                1282
             ], 
             "id": 260
         }, 
@@ -6090,7 +6612,8 @@
             "summary": "Arthur Porges (IPA: ; 20 August 1915 \u2013 12 May 2006) was an American author of numerous short stories, most notably during the 1950s and 1960s, though he continued to write and publish stories until his death.", 
             "books": [
                 824, 
-                1112
+                1112, 
+                1275
             ], 
             "id": 262
         }, 
@@ -6170,7 +6693,11 @@
             }, 
             "n_books": 1, 
             "books": [
-                863
+                863, 
+                1280, 
+                1282, 
+                1287, 
+                1288
             ], 
             "id": 267
         }, 
@@ -6207,7 +6734,8 @@
             "born": "1893-10-19 00:00:00", 
             "books": [
                 865, 
-                885
+                885, 
+                1335
             ], 
             "id": 269, 
             "died": "1968-05-05 00:00:00"
@@ -6240,7 +6768,8 @@
             "books": [
                 887, 
                 888, 
-                1038
+                1038, 
+                1289
             ], 
             "id": 271
         }, 
@@ -6270,7 +6799,8 @@
             }, 
             "n_books": 1, 
             "books": [
-                895
+                895, 
+                1226
             ], 
             "id": 273
         }, 
@@ -6352,7 +6882,8 @@
             "books": [
                 909, 
                 1081, 
-                1095
+                1095, 
+                1289
             ], 
             "id": 278
         }, 
@@ -6371,7 +6902,8 @@
             "summary": "William Francis Nolan (born March 6, 1928) is an American author, who has written hundreds of stories in the science fiction, fantasy, horror and Crime fiction genres.", 
             "born": "1928-03-06 00:00:00", 
             "books": [
-                921
+                921, 
+                1235
             ], 
             "id": 279
         }, 
@@ -6538,7 +7070,11 @@
             "books": [
                 945, 
                 997, 
-                1008
+                1008, 
+                1230, 
+                1236, 
+                1240, 
+                1241
             ], 
             "id": 289
         }, 
@@ -6994,7 +7530,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                971
+                971, 
+                1351
             ], 
             "id": 304, 
             "name": "Jacqueline Lichtenberg"
@@ -7115,7 +7652,9 @@
                 1119, 
                 1122, 
                 1126, 
-                1188
+                1188, 
+                1346, 
+                1352
             ], 
             "id": 305, 
             "name": "H. L. Gold"
@@ -7143,7 +7682,10 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                971
+                971, 
+                1311, 
+                1314, 
+                1341
             ], 
             "id": 308, 
             "name": "David A. Kyle"
@@ -7228,7 +7770,19 @@
                 1101, 
                 1103, 
                 1106, 
-                1127
+                1127, 
+                1223, 
+                1238, 
+                1240, 
+                1241, 
+                1269, 
+                1278, 
+                1280, 
+                1287, 
+                1312, 
+                1313, 
+                1324, 
+                1360
             ], 
             "id": 315, 
             "name": "Gordon R. Dickson"
@@ -7549,7 +8103,126 @@
                 1214, 
                 1215, 
                 1216, 
-                1217
+                1217, 
+                1218, 
+                1219, 
+                1220, 
+                1221, 
+                1222, 
+                1223, 
+                1224, 
+                1225, 
+                1226, 
+                1227, 
+                1228, 
+                1229, 
+                1230, 
+                1231, 
+                1232, 
+                1233, 
+                1234, 
+                1235, 
+                1236, 
+                1237, 
+                1238, 
+                1239, 
+                1240, 
+                1241, 
+                1242, 
+                1243, 
+                1244, 
+                1245, 
+                1246, 
+                1247, 
+                1248, 
+                1249, 
+                1250, 
+                1251, 
+                1252, 
+                1253, 
+                1254, 
+                1255, 
+                1256, 
+                1257, 
+                1258, 
+                1259, 
+                1260, 
+                1261, 
+                1262, 
+                1263, 
+                1264, 
+                1265, 
+                1266, 
+                1267, 
+                1268, 
+                1269, 
+                1270, 
+                1271, 
+                1272, 
+                1273, 
+                1279, 
+                1280, 
+                1281, 
+                1282, 
+                1283, 
+                1284, 
+                1285, 
+                1287, 
+                1308, 
+                1312, 
+                1339, 
+                1340, 
+                1341, 
+                1342, 
+                1343, 
+                1344, 
+                1345, 
+                1346, 
+                1347, 
+                1348, 
+                1349, 
+                1350, 
+                1351, 
+                1352, 
+                1353, 
+                1354, 
+                1355, 
+                1356, 
+                1357, 
+                1358, 
+                1359, 
+                1360, 
+                1361, 
+                1362, 
+                1363, 
+                1364, 
+                1365, 
+                1366, 
+                1367, 
+                1368, 
+                1369, 
+                1370, 
+                1371, 
+                1372, 
+                1373, 
+                1374, 
+                1375, 
+                1376, 
+                1377, 
+                1378, 
+                1379, 
+                1380, 
+                1381, 
+                1382, 
+                1383, 
+                1384, 
+                1385, 
+                1386, 
+                1388, 
+                1389, 
+                1390, 
+                1391, 
+                1392
             ], 
             "id": 326, 
             "name": "uncredited"
@@ -7840,7 +8513,12 @@
                 1134, 
                 1135, 
                 1136, 
-                1137
+                1137, 
+                1357, 
+                1358, 
+                1359, 
+                1360, 
+                1361
             ], 
             "id": 339, 
             "name": "Willy Ley"
@@ -7962,7 +8640,28 @@
                 1177, 
                 1178, 
                 1179, 
-                1182
+                1182, 
+                1218, 
+                1278, 
+                1279, 
+                1280, 
+                1281, 
+                1282, 
+                1283, 
+                1284, 
+                1285, 
+                1286, 
+                1287, 
+                1288, 
+                1289, 
+                1290, 
+                1291, 
+                1292, 
+                1293, 
+                1294, 
+                1295, 
+                1296, 
+                1372
             ], 
             "id": 341, 
             "name": "Theodore Sturgeon"
@@ -8026,7 +8725,11 @@
                 975, 
                 989, 
                 1030, 
-                1037
+                1037, 
+                1221, 
+                1329, 
+                1333, 
+                1373
             ], 
             "id": 345, 
             "name": "L. Sprague de Camp"
@@ -8069,7 +8772,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                976
+                976, 
+                1220, 
+                1230
             ], 
             "id": 349, 
             "name": "Sam Merwin, Jr."
@@ -8127,7 +8832,8 @@
                 977, 
                 978, 
                 983, 
-                988
+                988, 
+                1230
             ], 
             "id": 354, 
             "name": "Frank M. Robinson"
@@ -8157,7 +8863,60 @@
                 1123, 
                 1135, 
                 1136, 
-                1182
+                1182, 
+                1233, 
+                1281, 
+                1293, 
+                1309, 
+                1319, 
+                1325, 
+                1345, 
+                1346, 
+                1347, 
+                1348, 
+                1349, 
+                1350, 
+                1351, 
+                1352, 
+                1353, 
+                1354, 
+                1355, 
+                1356, 
+                1357, 
+                1358, 
+                1359, 
+                1360, 
+                1361, 
+                1362, 
+                1364, 
+                1365, 
+                1366, 
+                1367, 
+                1368, 
+                1369, 
+                1370, 
+                1371, 
+                1372, 
+                1373, 
+                1374, 
+                1375, 
+                1376, 
+                1377, 
+                1378, 
+                1379, 
+                1380, 
+                1381, 
+                1382, 
+                1383, 
+                1384, 
+                1385, 
+                1386, 
+                1387, 
+                1388, 
+                1389, 
+                1390, 
+                1391, 
+                1392
             ], 
             "id": 356, 
             "name": "Lester del Rey"
@@ -8187,7 +8946,9 @@
             "books": [
                 979, 
                 1002, 
-                1177
+                1177, 
+                1237, 
+                1238
             ], 
             "id": 359, 
             "name": "John Christopher"
@@ -8205,7 +8966,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                980
+                980, 
+                1226, 
+                1245
             ], 
             "id": 361, 
             "name": "Walt Sheldon"
@@ -8292,7 +9055,52 @@
                 1094, 
                 1097, 
                 1098, 
-                1099
+                1099, 
+                1224, 
+                1225, 
+                1226, 
+                1227, 
+                1231, 
+                1233, 
+                1234, 
+                1235, 
+                1236, 
+                1237, 
+                1238, 
+                1240, 
+                1241, 
+                1242, 
+                1243, 
+                1244, 
+                1245, 
+                1246, 
+                1247, 
+                1248, 
+                1250, 
+                1251, 
+                1252, 
+                1253, 
+                1254, 
+                1255, 
+                1256, 
+                1257, 
+                1258, 
+                1259, 
+                1260, 
+                1261, 
+                1262, 
+                1263, 
+                1264, 
+                1265, 
+                1266, 
+                1267, 
+                1268, 
+                1270, 
+                1292, 
+                1293, 
+                1294, 
+                1301, 
+                1302
             ], 
             "id": 363, 
             "name": "Ed Emshwiller"
@@ -8311,7 +9119,12 @@
             "gender": "", 
             "books": [
                 982, 
-                984
+                984, 
+                1218, 
+                1219, 
+                1220, 
+                1237, 
+                1239
             ], 
             "id": 365, 
             "name": "Milton Lesser"
@@ -8382,7 +9195,18 @@
                 1143, 
                 1144, 
                 1145, 
-                1146
+                1146, 
+                1288, 
+                1289, 
+                1290, 
+                1298, 
+                1299, 
+                1300, 
+                1314, 
+                1315, 
+                1316, 
+                1317, 
+                1318
             ], 
             "id": 371, 
             "name": "Robert A. Heinlein"
@@ -8429,7 +9253,11 @@
             "books": [
                 985, 
                 1039, 
-                1215
+                1215, 
+                1226, 
+                1233, 
+                1247, 
+                1249
             ], 
             "id": 376, 
             "name": "Edward W. Ludwig"
@@ -8522,7 +9350,21 @@
                 1099, 
                 1105, 
                 1114, 
-                1214
+                1214, 
+                1270, 
+                1274, 
+                1277, 
+                1279, 
+                1280, 
+                1290, 
+                1302, 
+                1324, 
+                1325, 
+                1326, 
+                1327, 
+                1351, 
+                1352, 
+                1374
             ], 
             "id": 384, 
             "name": "J. T. McIntosh"
@@ -8551,7 +9393,9 @@
                 1156, 
                 1157, 
                 1159, 
-                1165
+                1165, 
+                1358, 
+                1370
             ], 
             "id": 386, 
             "name": "W. Macfarlane"
@@ -8570,7 +9414,8 @@
                 1029, 
                 1030, 
                 1055, 
-                1061
+                1061, 
+                1237
             ], 
             "id": 387, 
             "name": "William Morrison"
@@ -8589,7 +9434,13 @@
             "gender": "", 
             "books": [
                 989, 
-                998
+                998, 
+                1218, 
+                1219, 
+                1220, 
+                1223, 
+                1231, 
+                1232
             ], 
             "id": 389, 
             "name": "Walter M. Miller, Jr."
@@ -8608,7 +9459,10 @@
             "gender": "", 
             "books": [
                 990, 
-                1024
+                1024, 
+                1242, 
+                1270, 
+                1271
             ], 
             "id": 391, 
             "name": "Jerry Sohl"
@@ -8636,7 +9490,8 @@
                 1022, 
                 1032, 
                 1033, 
-                1040
+                1040, 
+                1268
             ], 
             "id": 393, 
             "name": "F. L. Wallace"
@@ -8666,7 +9521,9 @@
             "gender": "", 
             "books": [
                 992, 
-                1043
+                1043, 
+                1228, 
+                1265
             ], 
             "id": 396, 
             "name": "Lyle G. Boyd"
@@ -8709,7 +9566,8 @@
                 1013, 
                 1023, 
                 1060, 
-                1084
+                1084, 
+                1223
             ], 
             "id": 400, 
             "name": "Roger Dee"
@@ -8725,7 +9583,10 @@
                 1027, 
                 1050, 
                 1081, 
-                1090
+                1090, 
+                1278, 
+                1285, 
+                1382
             ], 
             "id": 401, 
             "name": "Edward Wellen"
@@ -8770,7 +9631,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                995
+                995, 
+                1252
             ], 
             "id": 403, 
             "name": "Joseph Shallit"
@@ -8852,7 +9714,35 @@
             "gender": "", 
             "books": [
                 997, 
-                1014
+                1014, 
+                1223, 
+                1224, 
+                1225, 
+                1226, 
+                1228, 
+                1229, 
+                1230, 
+                1231, 
+                1232, 
+                1233, 
+                1234, 
+                1235, 
+                1236, 
+                1237, 
+                1238, 
+                1239, 
+                1241, 
+                1242, 
+                1243, 
+                1244, 
+                1245, 
+                1246, 
+                1247, 
+                1248, 
+                1249, 
+                1250, 
+                1265, 
+                1266
             ], 
             "id": 412, 
             "name": "Frank Kelly Freas"
@@ -8861,7 +9751,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                997
+                997, 
+                1305
             ], 
             "id": 413, 
             "name": "Eric Frank Russell"
@@ -8871,7 +9762,13 @@
             "gender": "", 
             "books": [
                 997, 
-                1012
+                1012, 
+                1228, 
+                1237, 
+                1241, 
+                1248, 
+                1296, 
+                1298
             ], 
             "id": 414, 
             "name": "Jerome Bix"
@@ -8912,7 +9809,8 @@
             "books": [
                 999, 
                 1173, 
-                1174
+                1174, 
+                1343
             ], 
             "id": 418, 
             "name": "Howard L. Myers"
@@ -8978,7 +9876,11 @@
                 1087, 
                 1088, 
                 1089, 
-                1090
+                1090, 
+                1275, 
+                1276, 
+                1277, 
+                1278
             ], 
             "id": 419, 
             "name": "Dick Francis"
@@ -8998,7 +9900,8 @@
             "books": [
                 1000, 
                 1018, 
-                1028
+                1028, 
+                1241
             ], 
             "id": 421, 
             "name": "James Causey"
@@ -9007,7 +9910,10 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1000
+                1000, 
+                1249, 
+                1255, 
+                1260
             ], 
             "id": 422, 
             "name": "James V. McConnell"
@@ -9022,7 +9928,12 @@
                 1078, 
                 1086, 
                 1088, 
-                1092
+                1092, 
+                1267, 
+                1269, 
+                1271, 
+                1275, 
+                1277
             ], 
             "id": 423, 
             "name": "Margaret St. Clair"
@@ -9031,7 +9942,12 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1001
+                1001, 
+                1222, 
+                1223, 
+                1224, 
+                1226, 
+                1227
             ], 
             "id": 424, 
             "name": "Tom Beecham"
@@ -9070,7 +9986,15 @@
                 1030, 
                 1032, 
                 1033, 
-                1035
+                1035, 
+                1228, 
+                1248, 
+                1249, 
+                1250, 
+                1251, 
+                1252, 
+                1253, 
+                1257
             ], 
             "id": 427, 
             "name": "Mel Hunter"
@@ -9080,7 +10004,8 @@
             "gender": "", 
             "books": [
                 1003, 
-                1012
+                1012, 
+                1283
             ], 
             "id": 428, 
             "name": "Kurt Vonnegut, Jr."
@@ -9162,7 +10087,8 @@
             "books": [
                 1007, 
                 1015, 
-                1019
+                1019, 
+                1234
             ], 
             "id": 434, 
             "name": "Theodore R. Cogswell"
@@ -9185,7 +10111,11 @@
                 1014, 
                 1020, 
                 1021, 
-                1023
+                1023, 
+                1225, 
+                1240, 
+                1245, 
+                1260
             ], 
             "id": 436, 
             "name": "Ernie Barth"
@@ -9235,7 +10165,16 @@
                 1035, 
                 1044, 
                 1050, 
-                1052
+                1052, 
+                1221, 
+                1225, 
+                1229, 
+                1233, 
+                1247, 
+                1255, 
+                1258, 
+                1259, 
+                1261
             ], 
             "id": 441, 
             "name": "Alan E. Nourse"
@@ -9262,7 +10201,9 @@
                 1039, 
                 1043, 
                 1065, 
-                1101
+                1101, 
+                1247, 
+                1368
             ], 
             "id": 443, 
             "name": "Arthur Sellings"
@@ -9280,7 +10221,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1014
+                1014, 
+                1263
             ], 
             "id": 445, 
             "name": "Don Thompson"
@@ -9294,7 +10236,11 @@
                 1051, 
                 1058, 
                 1079, 
-                1131
+                1131, 
+                1230, 
+                1236, 
+                1245, 
+                1272
             ], 
             "id": 446, 
             "name": "Raymond E. Banks"
@@ -9492,7 +10438,10 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1024
+                1024, 
+                1225, 
+                1232, 
+                1233
             ], 
             "id": 467, 
             "name": "Richard Stockham"
@@ -9510,7 +10459,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1025
+                1025, 
+                1277
             ], 
             "id": 469, 
             "name": "Bascom Jones, Jr."
@@ -9523,7 +10473,11 @@
                 1062, 
                 1088, 
                 1103, 
-                1127
+                1127, 
+                1249, 
+                1270, 
+                1312, 
+                1316
             ], 
             "id": 470, 
             "name": "Miriam Allen deFord"
@@ -9556,7 +10510,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1028
+                1028, 
+                1314
             ], 
             "id": 473, 
             "name": "Gerald Pearce"
@@ -9590,7 +10545,9 @@
             "books": [
                 1033, 
                 1041, 
-                1118
+                1118, 
+                1284, 
+                1329
             ], 
             "id": 476, 
             "name": "Smith"
@@ -9613,7 +10570,10 @@
                 1146, 
                 1148, 
                 1154, 
-                1197
+                1197, 
+                1379, 
+                1384, 
+                1385
             ], 
             "id": 478, 
             "name": "Stephen Tall"
@@ -9634,7 +10594,12 @@
                 1105, 
                 1109, 
                 1110, 
-                1210
+                1210, 
+                1265, 
+                1266, 
+                1267, 
+                1286, 
+                1297
             ], 
             "id": 479, 
             "name": "Cordwainer Smith"
@@ -9791,7 +10756,8 @@
                 1086, 
                 1087, 
                 1090, 
-                1092
+                1092, 
+                1280
             ], 
             "id": 488, 
             "name": "West"
@@ -9800,7 +10766,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1038
+                1038, 
+                1274, 
+                1291
             ], 
             "id": 489, 
             "name": "Francis"
@@ -9841,7 +10809,8 @@
                 1038, 
                 1045, 
                 1046, 
-                1075
+                1075, 
+                1270
             ], 
             "id": 493, 
             "name": "E. C. Tubb"
@@ -9913,7 +10882,48 @@
                 1115, 
                 1118, 
                 1119, 
-                1126
+                1126, 
+                1224, 
+                1226, 
+                1235, 
+                1236, 
+                1238, 
+                1252, 
+                1255, 
+                1256, 
+                1257, 
+                1258, 
+                1259, 
+                1260, 
+                1261, 
+                1262, 
+                1263, 
+                1264, 
+                1273, 
+                1288, 
+                1289, 
+                1290, 
+                1291, 
+                1292, 
+                1293, 
+                1294, 
+                1295, 
+                1300, 
+                1322, 
+                1323, 
+                1324, 
+                1326, 
+                1331, 
+                1332, 
+                1333, 
+                1335, 
+                1336, 
+                1339, 
+                1341, 
+                1347, 
+                1348, 
+                1350, 
+                1353
             ], 
             "id": 497, 
             "name": "Virgil Finlay"
@@ -9927,7 +10937,15 @@
                 1060, 
                 1061, 
                 1063, 
-                1067
+                1067, 
+                1255, 
+                1257, 
+                1258, 
+                1259, 
+                1264, 
+                1269, 
+                1276, 
+                1278
             ], 
             "id": 498, 
             "name": "Lloyd Biggle, Jr."
@@ -10044,7 +11062,109 @@
                 1196, 
                 1197, 
                 1198, 
-                1199
+                1199, 
+                1274, 
+                1275, 
+                1276, 
+                1278, 
+                1279, 
+                1282, 
+                1283, 
+                1285, 
+                1286, 
+                1287, 
+                1288, 
+                1292, 
+                1294, 
+                1296, 
+                1298, 
+                1299, 
+                1300, 
+                1303, 
+                1304, 
+                1305, 
+                1306, 
+                1308, 
+                1309, 
+                1310, 
+                1311, 
+                1312, 
+                1313, 
+                1314, 
+                1315, 
+                1317, 
+                1318, 
+                1319, 
+                1320, 
+                1321, 
+                1322, 
+                1323, 
+                1324, 
+                1325, 
+                1326, 
+                1327, 
+                1328, 
+                1329, 
+                1330, 
+                1331, 
+                1332, 
+                1333, 
+                1334, 
+                1335, 
+                1336, 
+                1337, 
+                1338, 
+                1339, 
+                1340, 
+                1341, 
+                1342, 
+                1343, 
+                1344, 
+                1345, 
+                1346, 
+                1347, 
+                1348, 
+                1349, 
+                1350, 
+                1351, 
+                1352, 
+                1353, 
+                1354, 
+                1355, 
+                1356, 
+                1357, 
+                1358, 
+                1359, 
+                1360, 
+                1361, 
+                1362, 
+                1363, 
+                1364, 
+                1365, 
+                1366, 
+                1367, 
+                1368, 
+                1370, 
+                1371, 
+                1372, 
+                1373, 
+                1374, 
+                1375, 
+                1376, 
+                1377, 
+                1378, 
+                1379, 
+                1380, 
+                1381, 
+                1382, 
+                1383, 
+                1384, 
+                1385, 
+                1386, 
+                1387, 
+                1389, 
+                1390, 
+                1392
             ], 
             "id": 499, 
             "name": "Jack Gaughan"
@@ -10071,7 +11191,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1046
+                1046, 
+                1254
             ], 
             "id": 502, 
             "name": "Harry Warner, Jr."
@@ -10154,7 +11275,11 @@
                 1049, 
                 1071, 
                 1089, 
-                1094
+                1094, 
+                1261, 
+                1271, 
+                1275, 
+                1327
             ], 
             "id": 507, 
             "name": "J. F. Bone"
@@ -10173,7 +11298,8 @@
             "gender": "", 
             "books": [
                 1050, 
-                1060
+                1060, 
+                1257
             ], 
             "id": 509, 
             "name": "Walter Tevis"
@@ -10225,7 +11351,10 @@
                 1073, 
                 1089, 
                 1093, 
-                1141
+                1141, 
+                1268, 
+                1365, 
+                1372
             ], 
             "id": 514, 
             "name": "Avram Davidson"
@@ -10308,7 +11437,22 @@
                 1109, 
                 1110, 
                 1111, 
-                1121
+                1121, 
+                1269, 
+                1271, 
+                1272, 
+                1273, 
+                1275, 
+                1276, 
+                1280, 
+                1311, 
+                1319, 
+                1320, 
+                1321, 
+                1334, 
+                1337, 
+                1349, 
+                1350
             ], 
             "id": 519, 
             "name": "Wallace Wood"
@@ -10350,7 +11494,8 @@
                 1068, 
                 1070, 
                 1072, 
-                1083
+                1083, 
+                1274
             ], 
             "id": 523, 
             "name": "Martinez"
@@ -10421,7 +11566,8 @@
             "gender": "", 
             "books": [
                 1061, 
-                1072
+                1072, 
+                1264
             ], 
             "id": 530, 
             "name": "Joseph Farrell"
@@ -10484,7 +11630,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1066
+                1066, 
+                1276
             ], 
             "id": 537, 
             "name": "Daniel Keyes"
@@ -10533,7 +11680,14 @@
                 1089, 
                 1114, 
                 1141, 
-                1165
+                1165, 
+                1225, 
+                1255, 
+                1261, 
+                1263, 
+                1282, 
+                1332, 
+                1338
             ], 
             "id": 542, 
             "name": "Arthur C. Clarke"
@@ -10586,7 +11740,49 @@
                 1121, 
                 1122, 
                 1127, 
-                1128
+                1128, 
+                1274, 
+                1295, 
+                1297, 
+                1298, 
+                1299, 
+                1302, 
+                1303, 
+                1304, 
+                1305, 
+                1306, 
+                1307, 
+                1308, 
+                1309, 
+                1310, 
+                1311, 
+                1312, 
+                1313, 
+                1314, 
+                1315, 
+                1316, 
+                1317, 
+                1318, 
+                1321, 
+                1322, 
+                1323, 
+                1324, 
+                1325, 
+                1326, 
+                1327, 
+                1328, 
+                1329, 
+                1330, 
+                1331, 
+                1332, 
+                1334, 
+                1335, 
+                1336, 
+                1337, 
+                1338, 
+                1339, 
+                1340, 
+                1342
             ], 
             "id": 545, 
             "name": "Gray Morrow"
@@ -10604,7 +11800,16 @@
                 1129, 
                 1142, 
                 1170, 
-                1171
+                1171, 
+                1291, 
+                1294, 
+                1306, 
+                1307, 
+                1310, 
+                1317, 
+                1342, 
+                1360, 
+                1371
             ], 
             "id": 546, 
             "name": "John Brunner"
@@ -10613,7 +11818,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1075
+                1075, 
+                1303
             ], 
             "id": 547, 
             "name": "Wilson Tucker"
@@ -10632,7 +11838,11 @@
             "gender": "", 
             "books": [
                 1076, 
-                1143
+                1143, 
+                1239, 
+                1326, 
+                1333, 
+                1352
             ], 
             "id": 549, 
             "name": "Andrew J. Offutt"
@@ -10653,7 +11863,10 @@
                 1078, 
                 1090, 
                 1094, 
-                1096
+                1096, 
+                1284, 
+                1286, 
+                1287
             ], 
             "id": 551, 
             "name": "Mack"
@@ -10686,7 +11899,10 @@
                 1079, 
                 1080, 
                 1088, 
-                1089
+                1089, 
+                1276, 
+                1279, 
+                1280
             ], 
             "id": 554, 
             "name": "William W. Stuart"
@@ -10695,7 +11911,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1079
+                1079, 
+                1270, 
+                1280
             ], 
             "id": 555, 
             "name": "John T. Phillifent"
@@ -10708,7 +11926,15 @@
                 1081, 
                 1087, 
                 1088, 
-                1096
+                1096, 
+                1284, 
+                1285, 
+                1286, 
+                1287, 
+                1323, 
+                1326, 
+                1327, 
+                1328
             ], 
             "id": 556, 
             "name": "Burns"
@@ -10730,7 +11956,10 @@
                 1080, 
                 1081, 
                 1085, 
-                1168
+                1168, 
+                1326, 
+                1359, 
+                1366
             ], 
             "id": 558, 
             "name": "Neal Barrett, Jr."
@@ -10740,7 +11969,8 @@
             "gender": "", 
             "books": [
                 1082, 
-                1084
+                1084, 
+                1279
             ], 
             "id": 559, 
             "name": "Harman"
@@ -10755,7 +11985,12 @@
                 1089, 
                 1091, 
                 1092, 
-                1093
+                1093, 
+                1274, 
+                1276, 
+                1277, 
+                1279, 
+                1281
             ], 
             "id": 560, 
             "name": "Bob Ritter"
@@ -10773,7 +12008,25 @@
                 1179, 
                 1180, 
                 1181, 
-                1191
+                1191, 
+                1279, 
+                1289, 
+                1299, 
+                1305, 
+                1306, 
+                1307, 
+                1310, 
+                1313, 
+                1315, 
+                1318, 
+                1323, 
+                1332, 
+                1334, 
+                1337, 
+                1339, 
+                1388, 
+                1389, 
+                1390
             ], 
             "id": 561, 
             "name": "Fred Saberhagen"
@@ -10805,7 +12058,8 @@
             "books": [
                 1085, 
                 1086, 
-                1090
+                1090, 
+                1280
             ], 
             "id": 564, 
             "name": "Larry Ivie"
@@ -10818,7 +12072,9 @@
                 1086, 
                 1087, 
                 1088, 
-                1089
+                1089, 
+                1284, 
+                1320
             ], 
             "id": 565, 
             "name": "The Editor"
@@ -10849,7 +12105,8 @@
                 1087, 
                 1091, 
                 1092, 
-                1095
+                1095, 
+                1289
             ], 
             "id": 568, 
             "name": "George Schelling"
@@ -10860,7 +12117,10 @@
             "books": [
                 1088, 
                 1094, 
-                1129
+                1129, 
+                1266, 
+                1267, 
+                1285
             ], 
             "id": 569, 
             "name": "Theodore L. Thomas"
@@ -10871,7 +12131,10 @@
             "books": [
                 1089, 
                 1136, 
-                1170
+                1170, 
+                1230, 
+                1379, 
+                1388
             ], 
             "id": 570, 
             "name": ""
@@ -10899,7 +12162,10 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1090
+                1090, 
+                1284, 
+                1285, 
+                1287
             ], 
             "id": 573, 
             "name": "Dyas"
@@ -10918,7 +12184,10 @@
             "gender": "", 
             "books": [
                 1091, 
-                1095
+                1095, 
+                1219, 
+                1222, 
+                1249
             ], 
             "id": 575, 
             "name": "John Jakes"
@@ -10943,7 +12212,8 @@
                 1160, 
                 1167, 
                 1169, 
-                1171
+                1171, 
+                1383
             ], 
             "id": 577, 
             "name": "Sydney J. Van Scyoc"
@@ -10958,7 +12228,19 @@
                 1100, 
                 1101, 
                 1104, 
-                1108
+                1108, 
+                1288, 
+                1289, 
+                1291, 
+                1293, 
+                1297, 
+                1307, 
+                1308, 
+                1309, 
+                1310, 
+                1311, 
+                1312, 
+                1315
             ], 
             "id": 578, 
             "name": "John Giunta"
@@ -10977,7 +12259,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1094
+                1094, 
+                1289
             ], 
             "id": 580, 
             "name": "Jackson"
@@ -10996,7 +12279,25 @@
                 1106, 
                 1107, 
                 1113, 
-                1114
+                1114, 
+                1292, 
+                1293, 
+                1294, 
+                1295, 
+                1297, 
+                1298, 
+                1299, 
+                1302, 
+                1303, 
+                1304, 
+                1306, 
+                1307, 
+                1308, 
+                1310, 
+                1316, 
+                1318, 
+                1320, 
+                1327
             ], 
             "id": 581, 
             "name": "Nodel"
@@ -11005,7 +12306,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1095
+                1095, 
+                1287
             ], 
             "id": 582, 
             "name": "R. D. Francis"
@@ -11014,7 +12316,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1096
+                1096, 
+                1261
             ], 
             "id": 583, 
             "name": "Robert Hoskins"
@@ -11024,7 +12327,10 @@
             "gender": "", 
             "books": [
                 1097, 
-                1098
+                1098, 
+                1319, 
+                1321, 
+                1325
             ], 
             "id": 584, 
             "name": "Lutjens"
@@ -11042,7 +12348,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1098
+                1098, 
+                1266
             ], 
             "id": 586, 
             "name": "Will Mohler"
@@ -11062,7 +12369,12 @@
             "books": [
                 1100, 
                 1101, 
-                1158
+                1158, 
+                1273, 
+                1334, 
+                1353, 
+                1371, 
+                1372
             ], 
             "id": 588, 
             "name": "Philip Jos\u00c3\u00a9 Farmer"
@@ -11105,7 +12417,15 @@
                 1194, 
                 1206, 
                 1207, 
-                1208
+                1208, 
+                1329, 
+                1339, 
+                1343, 
+                1346, 
+                1349, 
+                1351, 
+                1353, 
+                1393
             ], 
             "id": 591, 
             "name": "Roger Zelazny"
@@ -11120,7 +12440,8 @@
                 1123, 
                 1125, 
                 1127, 
-                1131
+                1131, 
+                1292
             ], 
             "id": 592, 
             "name": "Brian W. Aldiss"
@@ -11130,7 +12451,16 @@
             "gender": "", 
             "books": [
                 1103, 
-                1115
+                1115, 
+                1328, 
+                1329, 
+                1330, 
+                1331, 
+                1332, 
+                1333, 
+                1336, 
+                1337, 
+                1338
             ], 
             "id": 593, 
             "name": "Castellon"
@@ -11148,7 +12478,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1104
+                1104, 
+                1360, 
+                1387
             ], 
             "id": 595, 
             "name": "Norman Spinrad"
@@ -11160,7 +12492,11 @@
                 1104, 
                 1151, 
                 1215, 
-                1216
+                1216, 
+                1260, 
+                1267, 
+                1288, 
+                1376
             ], 
             "id": 596, 
             "name": "David R. Bunch"
@@ -11172,7 +12508,8 @@
                 1105, 
                 1107, 
                 1136, 
-                1147
+                1147, 
+                1373
             ], 
             "id": 597, 
             "name": "Donald H. Menzel"
@@ -11226,7 +12563,10 @@
                 1117, 
                 1130, 
                 1137, 
-                1142
+                1142, 
+                1274, 
+                1300, 
+                1369
             ], 
             "id": 602, 
             "name": "Hayden Howard"
@@ -11236,7 +12576,9 @@
             "gender": "", 
             "books": [
                 1106, 
-                1128
+                1128, 
+                1287, 
+                1377
             ], 
             "id": 603, 
             "name": "Joseph Green"
@@ -11266,7 +12608,21 @@
                 1190, 
                 1194, 
                 1195, 
-                1196
+                1196, 
+                1302, 
+                1316, 
+                1320, 
+                1324, 
+                1325, 
+                1326, 
+                1328, 
+                1330, 
+                1340, 
+                1341, 
+                1342, 
+                1347, 
+                1390, 
+                1393
             ], 
             "id": 604, 
             "name": "Larry Niven"
@@ -11281,7 +12637,10 @@
                 1156, 
                 1157, 
                 1161, 
-                1163
+                1163, 
+                1222, 
+                1231, 
+                1257
             ], 
             "id": 605, 
             "name": "R. S. Richardson"
@@ -11310,7 +12669,9 @@
             "gender": "", 
             "books": [
                 1110, 
-                1116
+                1116, 
+                1301, 
+                1306
             ], 
             "id": 608, 
             "name": "Thomas M. Disch"
@@ -11321,7 +12682,11 @@
             "books": [
                 1110, 
                 1111, 
-                1113
+                1113, 
+                1233, 
+                1241, 
+                1244, 
+                1267
             ], 
             "id": 609, 
             "name": "George H. Smith"
@@ -11330,7 +12695,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1111
+                1111, 
+                1295, 
+                1332
             ], 
             "id": 610, 
             "name": "Jack B. Lawson"
@@ -11347,7 +12714,25 @@
                 1126, 
                 1127, 
                 1132, 
-                1134
+                1134, 
+                1313, 
+                1315, 
+                1317, 
+                1319, 
+                1320, 
+                1323, 
+                1324, 
+                1325, 
+                1326, 
+                1340, 
+                1341, 
+                1342, 
+                1346, 
+                1347, 
+                1348, 
+                1354, 
+                1355, 
+                1356
             ], 
             "id": 611, 
             "name": "Dan Adkins"
@@ -11356,7 +12741,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1114
+                1114, 
+                1322
             ], 
             "id": 612, 
             "name": "McClane"
@@ -11367,7 +12753,10 @@
             "books": [
                 1114, 
                 1131, 
-                1143
+                1143, 
+                1353, 
+                1357, 
+                1386
             ], 
             "id": 613, 
             "name": "Anne McCaffrey"
@@ -11378,7 +12767,8 @@
             "books": [
                 1115, 
                 1117, 
-                1123
+                1123, 
+                1322
             ], 
             "id": 614, 
             "name": "Robin Scott Wilson"
@@ -11393,7 +12783,13 @@
                 1138, 
                 1139, 
                 1140, 
-                1141
+                1141, 
+                1331, 
+                1333, 
+                1335, 
+                1337, 
+                1345, 
+                1346
             ], 
             "id": 615, 
             "name": "Vaughn Bod\u00e9"
@@ -11402,7 +12798,15 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1117
+                1117, 
+                1225, 
+                1226, 
+                1227, 
+                1228, 
+                1230, 
+                1236, 
+                1248, 
+                1330
             ], 
             "id": 616, 
             "name": "James McKimmey, Jr."
@@ -11411,7 +12815,15 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1117
+                1117, 
+                1323, 
+                1337, 
+                1346, 
+                1358, 
+                1366, 
+                1368, 
+                1378, 
+                1380
             ], 
             "id": 617, 
             "name": "Piers Anthony"
@@ -11420,7 +12832,10 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1118
+                1118, 
+                1289, 
+                1301, 
+                1337
             ], 
             "id": 618, 
             "name": "Gary Wright"
@@ -11448,7 +12863,9 @@
             "gender": "", 
             "books": [
                 1121, 
-                1133
+                1133, 
+                1331, 
+                1338
             ], 
             "id": 621, 
             "name": "Terry Carr"
@@ -11457,7 +12874,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1122
+                1122, 
+                1324
             ], 
             "id": 622, 
             "name": "Joseph P. Martino"
@@ -11468,7 +12886,11 @@
             "books": [
                 1122, 
                 1127, 
-                1147
+                1147, 
+                1317, 
+                1321, 
+                1331, 
+                1344
             ], 
             "id": 623, 
             "name": "H. H. Hollis"
@@ -11479,7 +12901,12 @@
             "books": [
                 1123, 
                 1124, 
-                1126
+                1126, 
+                1343, 
+                1344, 
+                1345, 
+                1346, 
+                1347
             ], 
             "id": 624, 
             "name": "Joe Wehrle, Jr."
@@ -11488,7 +12915,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1123
+                1123, 
+                1343, 
+                1344
             ], 
             "id": 625, 
             "name": "Jeff Jones"
@@ -11502,7 +12931,14 @@
                 1125, 
                 1127, 
                 1130, 
-                1141
+                1141, 
+                1343, 
+                1344, 
+                1345, 
+                1346, 
+                1351, 
+                1352, 
+                1353
             ], 
             "id": 626, 
             "name": "Brock"
@@ -11512,7 +12948,11 @@
             "gender": "", 
             "books": [
                 1123, 
-                1126
+                1126, 
+                1344, 
+                1346, 
+                1347, 
+                1351
             ], 
             "id": 627, 
             "name": "Brand"
@@ -11521,7 +12961,14 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1123
+                1123, 
+                1327, 
+                1328, 
+                1329, 
+                1338, 
+                1341, 
+                1342, 
+                1344
             ], 
             "id": 628, 
             "name": "Vaughn Bod\u00c3\u00a9"
@@ -11531,7 +12978,12 @@
             "gender": "", 
             "books": [
                 1123, 
-                1124
+                1124, 
+                1331, 
+                1334, 
+                1340, 
+                1345, 
+                1352
             ], 
             "id": 629, 
             "name": "Burt K. Filer"
@@ -11552,7 +13004,20 @@
                 1160, 
                 1162, 
                 1163, 
-                1186
+                1186, 
+                1256, 
+                1262, 
+                1263, 
+                1264, 
+                1265, 
+                1323, 
+                1324, 
+                1330, 
+                1331, 
+                1342, 
+                1344, 
+                1346, 
+                1350
             ], 
             "id": 630, 
             "name": "A. Bertram Chandler"
@@ -11561,7 +13026,12 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1124
+                1124, 
+                1234, 
+                1236, 
+                1244, 
+                1346, 
+                1354
             ], 
             "id": 631, 
             "name": "E. G. Von Wald"
@@ -11580,7 +13050,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1126
+                1126, 
+                1347
             ], 
             "id": 633, 
             "name": "Todd"
@@ -11601,7 +13072,14 @@
                 1126, 
                 1162, 
                 1165, 
-                1172
+                1172, 
+                1375, 
+                1376, 
+                1377, 
+                1380, 
+                1381, 
+                1382, 
+                1391
             ], 
             "id": 635, 
             "name": "Colin Kapp"
@@ -11620,7 +13098,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1126
+                1126, 
+                1308, 
+                1347
             ], 
             "id": 637, 
             "name": "Larry S. Todd"
@@ -11632,7 +13112,9 @@
                 1127, 
                 1149, 
                 1192, 
-                1196
+                1196, 
+                1358, 
+                1360
             ], 
             "id": 638, 
             "name": "Barry N. Malzberg"
@@ -11642,7 +13124,9 @@
             "gender": "", 
             "books": [
                 1127, 
-                1148
+                1148, 
+                1339, 
+                1375
             ], 
             "id": 639, 
             "name": "Douglas R. Mason"
@@ -11657,7 +13141,11 @@
                 1131, 
                 1132, 
                 1133, 
-                1134
+                1134, 
+                1351, 
+                1354, 
+                1355, 
+                1356
             ], 
             "id": 640, 
             "name": "Reese"
@@ -11675,7 +13163,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1128
+                1128, 
+                1345
             ], 
             "id": 642, 
             "name": "Roger Brand"
@@ -11684,7 +13173,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1128
+                1128, 
+                1314
             ], 
             "id": 643, 
             "name": "Stephen Goldin"
@@ -11706,7 +13196,12 @@
                 1131, 
                 1132, 
                 1149, 
-                1192
+                1192, 
+                1344, 
+                1348, 
+                1359, 
+                1365, 
+                1390
             ], 
             "id": 645, 
             "name": "James Tiptree, Jr."
@@ -11742,7 +13237,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1132
+                1132, 
+                1353, 
+                1356
             ], 
             "id": 649, 
             "name": "Barr"
@@ -11767,7 +13264,15 @@
                 1157, 
                 1159, 
                 1172, 
-                1173
+                1173, 
+                1336, 
+                1361, 
+                1362, 
+                1365, 
+                1366, 
+                1367, 
+                1380, 
+                1385
             ], 
             "id": 651, 
             "name": "Larry Eisenberg"
@@ -11785,7 +13290,11 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1133
+                1133, 
+                1347, 
+                1351, 
+                1356, 
+                1368
             ], 
             "id": 653, 
             "name": "Dean R. Koontz"
@@ -11795,7 +13304,12 @@
             "gender": "", 
             "books": [
                 1133, 
-                1135
+                1135, 
+                1292, 
+                1310, 
+                1328, 
+                1356, 
+                1357
             ], 
             "id": 654, 
             "name": "Bruce McAllister"
@@ -11813,7 +13327,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1134
+                1134, 
+                1361
             ], 
             "id": 656, 
             "name": "James Sallis"
@@ -11833,7 +13348,15 @@
             "books": [
                 1136, 
                 1148, 
-                1215
+                1215, 
+                1293, 
+                1298, 
+                1304, 
+                1309, 
+                1319, 
+                1336, 
+                1348, 
+                1393
             ], 
             "id": 658, 
             "name": "A. E. van Vogt"
@@ -11856,7 +13379,8 @@
                 1159, 
                 1160, 
                 1168, 
-                1173
+                1173, 
+                1366
             ], 
             "id": 660, 
             "name": "Joe Haldeman"
@@ -11878,7 +13402,11 @@
                 1137, 
                 1139, 
                 1143, 
-                1144
+                1144, 
+                1311, 
+                1316, 
+                1321, 
+                1363
             ], 
             "id": 662, 
             "name": "Dannie Plachta"
@@ -11897,7 +13425,8 @@
                 1161, 
                 1164, 
                 1166, 
-                1194
+                1194, 
+                1366
             ], 
             "id": 663, 
             "name": "Ernest Taves"
@@ -11906,7 +13435,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1137
+                1137, 
+                1377
             ], 
             "id": 664, 
             "name": "J. W. Schutz"
@@ -11919,7 +13449,12 @@
                 1155, 
                 1173, 
                 1174, 
-                1175
+                1175, 
+                1271, 
+                1326, 
+                1363, 
+                1370, 
+                1390
             ], 
             "id": 665, 
             "name": "Bob Shaw"
@@ -11928,7 +13463,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1137
+                1137, 
+                1362, 
+                1369
             ], 
             "id": 666, 
             "name": "George C. Willick"
@@ -11953,7 +13490,25 @@
                 1156, 
                 1158, 
                 1160, 
-                1165
+                1165, 
+                1357, 
+                1358, 
+                1359, 
+                1360, 
+                1362, 
+                1368, 
+                1371, 
+                1372, 
+                1373, 
+                1375, 
+                1376, 
+                1377, 
+                1378, 
+                1379, 
+                1380, 
+                1382, 
+                1384, 
+                1386
             ], 
             "id": 667, 
             "name": "Ejler Jakobsson"
@@ -11965,7 +13520,9 @@
                 1138, 
                 1141, 
                 1157, 
-                1158
+                1158, 
+                1365, 
+                1366
             ], 
             "id": 668, 
             "name": "David Gerrold"
@@ -11975,7 +13532,12 @@
             "gender": "", 
             "books": [
                 1138, 
-                1155
+                1155, 
+                1347, 
+                1357, 
+                1362, 
+                1368, 
+                1369
             ], 
             "id": 669, 
             "name": "T. J. Bass"
@@ -12035,7 +13597,11 @@
                 1148, 
                 1155, 
                 1168, 
-                1170
+                1170, 
+                1365, 
+                1369, 
+                1381, 
+                1382
             ], 
             "id": 675, 
             "name": "Michael G. Coney"
@@ -12053,7 +13619,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1142
+                1142, 
+                1373
             ], 
             "id": 677, 
             "name": "William Rotsler"
@@ -12062,7 +13629,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1142
+                1142, 
+                1322
             ], 
             "id": 678, 
             "name": "Carl Jacobi"
@@ -12075,7 +13643,9 @@
                 1149, 
                 1150, 
                 1151, 
-                1153
+                1153, 
+                1378, 
+                1386
             ], 
             "id": 679, 
             "name": "Duncan Lunan"
@@ -12084,7 +13654,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1142
+                1142, 
+                1354
             ], 
             "id": 680, 
             "name": "Lawrence Mayer"
@@ -12141,7 +13712,8 @@
             "gender": "", 
             "books": [
                 1145, 
-                1181
+                1181, 
+                1381
             ], 
             "id": 686, 
             "name": "Michael Bishop"
@@ -12152,7 +13724,8 @@
             "books": [
                 1146, 
                 1151, 
-                1152
+                1152, 
+                1324
             ], 
             "id": 687, 
             "name": "Ernest Hill"
@@ -12209,7 +13782,10 @@
             "books": [
                 1149, 
                 1211, 
-                1212
+                1212, 
+                1367, 
+                1370, 
+                1377
             ], 
             "id": 693, 
             "name": "Gregory Benford"
@@ -12219,7 +13795,8 @@
             "gender": "", 
             "books": [
                 1149, 
-                1150
+                1150, 
+                1362
             ], 
             "id": 694, 
             "name": "John R. Pierce"
@@ -12228,7 +13805,10 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1149
+                1149, 
+                1357, 
+                1384, 
+                1388
             ], 
             "id": 695, 
             "name": "Chelsea Quinn Yarbro"
@@ -12239,7 +13819,9 @@
             "books": [
                 1150, 
                 1153, 
-                1198
+                1198, 
+                1379, 
+                1387
             ], 
             "id": 696, 
             "name": "Gordon Eklund"
@@ -12257,7 +13839,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1153
+                1153, 
+                1379
             ], 
             "id": 698, 
             "name": "Alan Dean Foster"
@@ -12315,7 +13898,10 @@
                 1156, 
                 1166, 
                 1167, 
-                1168
+                1168, 
+                1338, 
+                1339, 
+                1340
             ], 
             "id": 704, 
             "name": "James White"
@@ -12380,7 +13966,14 @@
             "gender": "", 
             "books": [
                 1161, 
-                1180
+                1180, 
+                1319, 
+                1344, 
+                1364, 
+                1367, 
+                1368, 
+                1370, 
+                1384
             ], 
             "id": 711, 
             "name": "Gene Wolfe"
@@ -12489,7 +14082,10 @@
                 1167, 
                 1170, 
                 1172, 
-                1176
+                1176, 
+                1375, 
+                1378, 
+                1380
             ], 
             "id": 722, 
             "name": "Doris Piserchia"
@@ -12519,7 +14115,8 @@
                 1167, 
                 1168, 
                 1169, 
-                1170
+                1170, 
+                1387
             ], 
             "id": 725, 
             "name": "Christopher Priest"
@@ -12653,7 +14250,9 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1171
+                1171, 
+                1385, 
+                1386
             ], 
             "id": 735, 
             "name": "Robert Wells"
@@ -12680,7 +14279,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1173
+                1173, 
+                1292
             ], 
             "id": 738, 
             "name": "Alexei Panshin"
@@ -12689,7 +14289,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1174
+                1174, 
+                1391
             ], 
             "id": 739, 
             "name": "Edward Kimmel"
@@ -12700,7 +14301,8 @@
             "books": [
                 1174, 
                 1176, 
-                1178
+                1178, 
+                1392
             ], 
             "id": 740, 
             "name": "J. A. Lawrence"
@@ -12757,7 +14359,8 @@
                 1204, 
                 1205, 
                 1211, 
-                1212
+                1212, 
+                1391
             ], 
             "id": 742, 
             "name": "Stephen Fabian"
@@ -12793,7 +14396,10 @@
                 1193, 
                 1194, 
                 1200, 
-                1214
+                1214, 
+                1390, 
+                1391, 
+                1392
             ], 
             "id": 744, 
             "name": "Freff"
@@ -12812,7 +14418,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1176
+                1176, 
+                1388
             ], 
             "id": 746, 
             "name": "Fidelis Z. Danilowicz"
@@ -12821,7 +14428,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1176
+                1176, 
+                1392
             ], 
             "id": 747, 
             "name": "Richard C. Hoagland"
@@ -12838,7 +14446,9 @@
                 1185, 
                 1189, 
                 1191, 
-                1203
+                1203, 
+                1391, 
+                1392
             ], 
             "id": 748, 
             "name": "Arsen Darnay"
@@ -12894,7 +14504,8 @@
                 1187, 
                 1188, 
                 1189, 
-                1190
+                1190, 
+                1389
             ], 
             "id": 753, 
             "name": "Wendy Pini"
@@ -12987,7 +14598,8 @@
                 1180, 
                 1183, 
                 1194, 
-                1196
+                1196, 
+                1392
             ], 
             "id": 762, 
             "name": "Craig Strete"
@@ -13019,7 +14631,11 @@
                 1191, 
                 1197, 
                 1203, 
-                1205
+                1205, 
+                1389, 
+                1390, 
+                1391, 
+                1392
             ], 
             "id": 764, 
             "name": "Jim Baen"
@@ -13066,7 +14682,11 @@
                 1211, 
                 1212, 
                 1214, 
-                1215
+                1215, 
+                1389, 
+                1390, 
+                1391, 
+                1392
             ], 
             "id": 767, 
             "name": "Richard E. Geis"
@@ -13198,7 +14818,11 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1184
+                1184, 
+                1325, 
+                1344, 
+                1345, 
+                1369
             ], 
             "id": 779, 
             "name": "John Sladek"
@@ -13462,7 +15086,8 @@
                 1196, 
                 1197, 
                 1198, 
-                1199
+                1199, 
+                1393
             ], 
             "id": 806, 
             "name": "Vincent Di Fate"
@@ -13745,7 +15370,8 @@
             "gender": "", 
             "books": [
                 1205, 
-                1206
+                1206, 
+                1378
             ], 
             "id": 836, 
             "name": "Arnold E. Abramson"
@@ -13754,7 +15380,8 @@
             "countries": [], 
             "gender": "", 
             "books": [
-                1205
+                1205, 
+                1338
             ], 
             "id": 837, 
             "name": "Jay Kay Klein"
@@ -14517,6 +16144,3513 @@
             ], 
             "id": 917, 
             "name": "Raymond Kaminski"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1218, 
+                1219, 
+                1220, 
+                1221, 
+                1222, 
+                1223, 
+                1224, 
+                1225, 
+                1226, 
+                1227, 
+                1228, 
+                1229, 
+                1230, 
+                1231, 
+                1232, 
+                1233, 
+                1234, 
+                1235, 
+                1236, 
+                1237, 
+                1238, 
+                1239, 
+                1240, 
+                1241, 
+                1242, 
+                1243, 
+                1244, 
+                1245, 
+                1246, 
+                1247, 
+                1248, 
+                1249, 
+                1250, 
+                1251, 
+                1252, 
+                1253, 
+                1254, 
+                1255, 
+                1256, 
+                1257, 
+                1258, 
+                1259, 
+                1260, 
+                1261, 
+                1262, 
+                1263, 
+                1264, 
+                1265, 
+                1266, 
+                1267, 
+                1268, 
+                1269, 
+                1270, 
+                1271, 
+                1272, 
+                1273, 
+                1274, 
+                1275, 
+                1276, 
+                1277, 
+                1278, 
+                1279, 
+                1280, 
+                1281, 
+                1282, 
+                1283, 
+                1284, 
+                1285, 
+                1286, 
+                1287, 
+                1288, 
+                1289, 
+                1290, 
+                1291, 
+                1292, 
+                1293, 
+                1294, 
+                1295, 
+                1296, 
+                1297, 
+                1298, 
+                1299, 
+                1300, 
+                1301, 
+                1302, 
+                1303, 
+                1304, 
+                1305, 
+                1306, 
+                1307, 
+                1308, 
+                1309, 
+                1310, 
+                1311, 
+                1312, 
+                1313, 
+                1314, 
+                1315, 
+                1316, 
+                1317, 
+                1318, 
+                1319, 
+                1320, 
+                1321, 
+                1322, 
+                1323, 
+                1324, 
+                1325, 
+                1326, 
+                1327, 
+                1328, 
+                1329, 
+                1330, 
+                1331, 
+                1332, 
+                1333, 
+                1334, 
+                1335, 
+                1336, 
+                1337, 
+                1338, 
+                1339, 
+                1340, 
+                1341, 
+                1342, 
+                1343, 
+                1344, 
+                1345, 
+                1346, 
+                1347, 
+                1348, 
+                1349, 
+                1350, 
+                1351, 
+                1352, 
+                1353, 
+                1354, 
+                1355, 
+                1356, 
+                1357, 
+                1358, 
+                1359, 
+                1360, 
+                1361, 
+                1362, 
+                1363, 
+                1364, 
+                1365, 
+                1366, 
+                1367, 
+                1368, 
+                1369, 
+                1370, 
+                1371, 
+                1372, 
+                1373, 
+                1374, 
+                1375, 
+                1376, 
+                1377, 
+                1378, 
+                1379, 
+                1380, 
+                1381, 
+                1382, 
+                1383, 
+                1384, 
+                1385, 
+                1386, 
+                1387, 
+                1388, 
+                1389, 
+                1390, 
+                1391, 
+                1392, 
+                1393
+            ], 
+            "id": 918, 
+            "name": "IF Magazine"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1218
+            ], 
+            "id": 919, 
+            "name": "Ken Slater"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1218, 
+                1221, 
+                1223
+            ], 
+            "id": 920, 
+            "name": "Henry Bott"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1218
+            ], 
+            "id": 921, 
+            "name": "Raymond A. Palmer"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1218, 
+                1219
+            ], 
+            "id": 922, 
+            "name": "Alvin Heiner"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1218
+            ], 
+            "id": 923, 
+            "name": "Richard S. Shaver"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1219
+            ], 
+            "id": 924, 
+            "name": "R. Martin"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1219
+            ], 
+            "id": 925, 
+            "name": "Nevile Blake"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1219
+            ], 
+            "id": 926, 
+            "name": "James V. Taurasi"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1219, 
+                1220
+            ], 
+            "id": 927, 
+            "name": "Ezra Shaw"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1219, 
+                1226, 
+                1229
+            ], 
+            "id": 928, 
+            "name": "Evan Hunter"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1220, 
+                1221
+            ], 
+            "id": 929, 
+            "name": "Hi Marx"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1220
+            ], 
+            "id": 930, 
+            "name": "Stan"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1220, 
+                1221, 
+                1222, 
+                1223, 
+                1224
+            ], 
+            "id": 931, 
+            "name": "Bob Martin"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1220
+            ], 
+            "id": 932, 
+            "name": "Robert Barbour Johnson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1220, 
+                1221
+            ], 
+            "id": 933, 
+            "name": "Ralph Sholto"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1220
+            ], 
+            "id": 934, 
+            "name": "G. Gordon Dewey"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1220, 
+                1221, 
+                1223, 
+                1228, 
+                1233, 
+                1238
+            ], 
+            "id": 935, 
+            "name": "Mari Wolf"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1220
+            ], 
+            "id": 936, 
+            "name": "Arthur G. Hill"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1220
+            ], 
+            "id": 937, 
+            "name": "Albert Hernhuter"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1221, 
+                1223
+            ], 
+            "id": 938, 
+            "name": "Ted Speicher"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1221
+            ], 
+            "id": 939, 
+            "name": "Wilson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1221
+            ], 
+            "id": 940, 
+            "name": "L. E. Shaffer"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1221
+            ], 
+            "id": 941, 
+            "name": "Stanley Mullen"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1221, 
+                1239, 
+                1247
+            ], 
+            "id": 942, 
+            "name": "Charles Beaumont"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1221
+            ], 
+            "id": 943, 
+            "name": "L. Major Reynolds"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1222, 
+                1224
+            ], 
+            "id": 944, 
+            "name": "Zimmerman"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1222
+            ], 
+            "id": 945, 
+            "name": "John Scott Campbell"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1222
+            ], 
+            "id": 946, 
+            "name": "Noel Loomis"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1222
+            ], 
+            "id": 947, 
+            "name": "M. C. Pease"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1223, 
+                1224, 
+                1225, 
+                1226, 
+                1231, 
+                1232, 
+                1233, 
+                1234, 
+                1236, 
+                1237, 
+                1238, 
+                1239, 
+                1240, 
+                1241, 
+                1242, 
+                1243, 
+                1244, 
+                1245, 
+                1251, 
+                1252, 
+                1253, 
+                1254, 
+                1255, 
+                1256, 
+                1257, 
+                1258, 
+                1262, 
+                1263
+            ], 
+            "id": 948, 
+            "name": "James L. Quinn"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1223
+            ], 
+            "id": 949, 
+            "name": "Rory Magill"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1223
+            ], 
+            "id": 950, 
+            "name": "Robert Turner"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1224, 
+                1225, 
+                1226, 
+                1227, 
+                1228, 
+                1229, 
+                1230, 
+                1231, 
+                1232, 
+                1233, 
+                1234, 
+                1246
+            ], 
+            "id": 951, 
+            "name": "Ed Valigursky"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1224, 
+                1225, 
+                1226, 
+                1227, 
+                1233, 
+                1259, 
+                1261
+            ], 
+            "id": 952, 
+            "name": "Eve P. Wulff"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1224, 
+                1227
+            ], 
+            "id": 953, 
+            "name": "Richard Deming"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1224
+            ], 
+            "id": 954, 
+            "name": "Arthur G. Stangland"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1224
+            ], 
+            "id": 955, 
+            "name": "Waldo T. Boyd"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1225, 
+                1226, 
+                1227, 
+                1228, 
+                1229, 
+                1230, 
+                1231, 
+                1232, 
+                1233, 
+                1234, 
+                1235, 
+                1236, 
+                1237, 
+                1238, 
+                1239, 
+                1240, 
+                1241, 
+                1242, 
+                1243, 
+                1244, 
+                1245, 
+                1246, 
+                1247, 
+                1248, 
+                1249, 
+                1250, 
+                1251, 
+                1252, 
+                1253, 
+                1254, 
+                1255, 
+                1256, 
+                1257, 
+                1258, 
+                1259, 
+                1260, 
+                1261, 
+                1262, 
+                1263, 
+                1264, 
+                1265, 
+                1267
+            ], 
+            "id": 956, 
+            "name": "Paul Orban"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1225, 
+                1226
+            ], 
+            "id": 957, 
+            "name": "Peter Dakin"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1225
+            ], 
+            "id": 958, 
+            "name": "Gene Hunter"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1225
+            ], 
+            "id": 959, 
+            "name": "Frank W. Coggins"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1225
+            ], 
+            "id": 960, 
+            "name": "Gavin Hyde"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1226
+            ], 
+            "id": 961, 
+            "name": "Brush"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1226
+            ], 
+            "id": 962, 
+            "name": "Richard O. Lewis"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1226, 
+                1230
+            ], 
+            "id": 963, 
+            "name": "Tom Leahy"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1227
+            ], 
+            "id": 964, 
+            "name": "Joseph Eberle"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1227
+            ], 
+            "id": 965, 
+            "name": "Dick Rockwell"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1227, 
+                1228, 
+                1229
+            ], 
+            "id": 966, 
+            "name": "Larry T. Shaw"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1227
+            ], 
+            "id": 967, 
+            "name": "W. W. Skupeldyckle"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1227
+            ], 
+            "id": 968, 
+            "name": "Leslie Perri"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1228, 
+                1229, 
+                1230, 
+                1231, 
+                1233
+            ], 
+            "id": 969, 
+            "name": "Rudolph Palais"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1228, 
+                1230
+            ], 
+            "id": 970, 
+            "name": "Philip Parsons"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1228
+            ], 
+            "id": 971, 
+            "name": "Gerald Gray"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1228, 
+                1265, 
+                1383
+            ], 
+            "id": 972, 
+            "name": "Dean McLaughlin"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1228, 
+                1236
+            ], 
+            "id": 973, 
+            "name": "Arthur Dekker Savage"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1229
+            ], 
+            "id": 974, 
+            "name": "Philip B. Parsons"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1231
+            ], 
+            "id": 975, 
+            "name": "Phillip Parsons"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1231, 
+                1232
+            ], 
+            "id": 976, 
+            "name": "Joseph C. Stacey"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1231
+            ], 
+            "id": 977, 
+            "name": "Gene L. Henderson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1231
+            ], 
+            "id": 978, 
+            "name": "Louis Trimble"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1231
+            ], 
+            "id": 979, 
+            "name": "Morton Klass"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1232
+            ], 
+            "id": 980, 
+            "name": "Night"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1232
+            ], 
+            "id": 981, 
+            "name": "Alan Anderson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1232, 
+                1241, 
+                1243, 
+                1244
+            ], 
+            "id": 982, 
+            "name": "Charles E. Fritch"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1232
+            ], 
+            "id": 983, 
+            "name": "Con Pederson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1234
+            ], 
+            "id": 984, 
+            "name": "Jerry Young"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1234
+            ], 
+            "id": 985, 
+            "name": "Alson J. Smith"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1234, 
+                1261
+            ], 
+            "id": 986, 
+            "name": "Ed M. Clinton, Jr."
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1234, 
+                1254
+            ], 
+            "id": 987, 
+            "name": "R. R. Winterbotham"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1235, 
+                1238, 
+                1239, 
+                1241
+            ], 
+            "id": 988, 
+            "name": "Leo Summers"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1235
+            ], 
+            "id": 989, 
+            "name": "Alma McCormick"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1235
+            ], 
+            "id": 990, 
+            "name": "M. T. Kay"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1236, 
+                1243, 
+                1252, 
+                1253
+            ], 
+            "id": 991, 
+            "name": "Fox B. Holden"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1237, 
+                1238
+            ], 
+            "id": 992, 
+            "name": "Patrick Wilkins"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1237
+            ], 
+            "id": 993, 
+            "name": "Price"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1237, 
+                1251
+            ], 
+            "id": 994, 
+            "name": "Norman Arkawy"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1238
+            ], 
+            "id": 995, 
+            "name": "Ralph Castenir"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1238, 
+                1245, 
+                1304, 
+                1308, 
+                1339, 
+                1345, 
+                1363
+            ], 
+            "id": 996, 
+            "name": "Basil Wells"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1238
+            ], 
+            "id": 997, 
+            "name": "William E. Bentley"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1238
+            ], 
+            "id": 998, 
+            "name": "Vernon L. McCain"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1239, 
+                1240
+            ], 
+            "id": 999, 
+            "name": "John Styga"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1239
+            ], 
+            "id": 1000, 
+            "name": "Dick Hetschel"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1239
+            ], 
+            "id": 1001, 
+            "name": "Joe Love"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1240
+            ], 
+            "id": 1002, 
+            "name": "Jack A. Nelson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1240
+            ], 
+            "id": 1003, 
+            "name": "Wilson Parks Griffith"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1241, 
+                1257
+            ], 
+            "id": 1004, 
+            "name": "Leo P. Kelley"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1241
+            ], 
+            "id": 1005, 
+            "name": "Herb Williams"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1242
+            ], 
+            "id": 1006, 
+            "name": "Lee B. Holum"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1242
+            ], 
+            "id": 1007, 
+            "name": "Chad Oliver"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1242, 
+                1245, 
+                1250, 
+                1252, 
+                1255, 
+                1260, 
+                1262
+            ], 
+            "id": 1008, 
+            "name": "Frank Riley"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1242
+            ], 
+            "id": 1009, 
+            "name": "G. K. Hawk"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1243
+            ], 
+            "id": 1010, 
+            "name": "Mike Ellis"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1244
+            ], 
+            "id": 1011, 
+            "name": "Neil J. Kenney"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1244
+            ], 
+            "id": 1012, 
+            "name": "Edward Peattie"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1244, 
+                1247, 
+                1248, 
+                1250, 
+                1307
+            ], 
+            "id": 1013, 
+            "name": "Irving E. Cox, Jr."
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1245
+            ], 
+            "id": 1014, 
+            "name": "Kenneth Rossi"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1245
+            ], 
+            "id": 1015, 
+            "name": "Kirk Drussai"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1245
+            ], 
+            "id": 1016, 
+            "name": "Henry Lee"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1246
+            ], 
+            "id": 1017, 
+            "name": "April Smith"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1246
+            ], 
+            "id": 1018, 
+            "name": "Willard Marsh"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1246
+            ], 
+            "id": 1019, 
+            "name": "Varley Lang"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1247, 
+                1252
+            ], 
+            "id": 1020, 
+            "name": "Henry Still"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1248
+            ], 
+            "id": 1021, 
+            "name": "Alice Eleanor Jones"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1249
+            ], 
+            "id": 1022, 
+            "name": "Jack Lewis"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1250, 
+                1258, 
+                1264, 
+                1329, 
+                1341, 
+                1345, 
+                1350, 
+                1353
+            ], 
+            "id": 1023, 
+            "name": "Harlan Ellison"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1251, 
+                1252
+            ], 
+            "id": 1024, 
+            "name": "James M. Nuding"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1252
+            ], 
+            "id": 1025, 
+            "name": "John Johnson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1253
+            ], 
+            "id": 1026, 
+            "name": "Sol Boren"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1253
+            ], 
+            "id": 1027, 
+            "name": "Lee Wallot"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1253
+            ], 
+            "id": 1028, 
+            "name": "Richard Bolton"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1254
+            ], 
+            "id": 1029, 
+            "name": "Dr. Walther Riedel"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1254, 
+                1262, 
+                1263, 
+                1265
+            ], 
+            "id": 1030, 
+            "name": "Don Berry"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1255, 
+                1261
+            ], 
+            "id": 1031, 
+            "name": "Stephen Bartholomew"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1256
+            ], 
+            "id": 1032, 
+            "name": "Fred Sheinbaum"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1256, 
+                1259
+            ], 
+            "id": 1033, 
+            "name": "George Revelle"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1257
+            ], 
+            "id": 1034, 
+            "name": "Aldo Giunta"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1258
+            ], 
+            "id": 1035, 
+            "name": "Y"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1258
+            ], 
+            "id": 1036, 
+            "name": "G. G. Revelle"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1259
+            ], 
+            "id": 1037, 
+            "name": "Harry Lorayne"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1261
+            ], 
+            "id": 1038, 
+            "name": "Elaine Wilber"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1262
+            ], 
+            "id": 1039, 
+            "name": "Miguel Hidalgo"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1263
+            ], 
+            "id": 1040, 
+            "name": "Anderson Horne"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1264
+            ], 
+            "id": 1041, 
+            "name": "Lawrence F. Willard"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1264
+            ], 
+            "id": 1042, 
+            "name": "Charles Einstein"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1264
+            ], 
+            "id": 1043, 
+            "name": "Michael Zuroy"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1264
+            ], 
+            "id": 1044, 
+            "name": "Irving Fang"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1264
+            ], 
+            "id": 1045, 
+            "name": "Virgil F. Shockley"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1265, 
+                1266, 
+                1267
+            ], 
+            "id": 1046, 
+            "name": "Richard McKenna"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1265
+            ], 
+            "id": 1047, 
+            "name": "B. J. Rogers"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1267
+            ], 
+            "id": 1048, 
+            "name": "Bernard Wall"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1268, 
+                1269, 
+                1270
+            ], 
+            "id": 1049, 
+            "name": "Wynne Whiteford"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1269
+            ], 
+            "id": 1050, 
+            "name": "Kir"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1270
+            ], 
+            "id": 1051, 
+            "name": "Bertrand Russell"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1270
+            ], 
+            "id": 1052, 
+            "name": "Wolfgang K\u00c3\u2013Hler"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1270
+            ], 
+            "id": 1053, 
+            "name": "Hans Thirring"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1270
+            ], 
+            "id": 1054, 
+            "name": "Emile Grillot de Givry"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1270
+            ], 
+            "id": 1055, 
+            "name": "G. C. Jung"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1270
+            ], 
+            "id": 1056, 
+            "name": "Francis P. Shepard"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1270
+            ], 
+            "id": 1057, 
+            "name": "Elisabeth Achelis"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1270
+            ], 
+            "id": 1058, 
+            "name": ", Gloria"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1272
+            ], 
+            "id": 1059, 
+            "name": "R. W. Major"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1272
+            ], 
+            "id": 1060, 
+            "name": "Ray Russell"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1272
+            ], 
+            "id": 1061, 
+            "name": "Bob Farnham"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1273, 
+                1293
+            ], 
+            "id": 1062, 
+            "name": "James Bell"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1273
+            ], 
+            "id": 1063, 
+            "name": "A. M. Lightner"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1274
+            ], 
+            "id": 1064, 
+            "name": "E. Mittleman"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1276
+            ], 
+            "id": 1065, 
+            "name": "Scott F. Grenville"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1277
+            ], 
+            "id": 1066, 
+            "name": "Art Lewis"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1277, 
+                1339
+            ], 
+            "id": 1067, 
+            "name": "Phyllis Gotlieb"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1278, 
+                1281
+            ], 
+            "id": 1068, 
+            "name": "Bernklau"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1278, 
+                1279, 
+                1280
+            ], 
+            "id": 1069, 
+            "name": "Wagner"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1278, 
+                1290, 
+                1350
+            ], 
+            "id": 1070, 
+            "name": "Julian F. Grow"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1278
+            ], 
+            "id": 1071, 
+            "name": "Max Williams"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1281
+            ], 
+            "id": 1072, 
+            "name": "Charles Minor Blackford"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1282, 
+                1283
+            ], 
+            "id": 1073, 
+            "name": "Berry"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1282, 
+                1283, 
+                1297, 
+                1308, 
+                1309, 
+                1310, 
+                1311, 
+                1312
+            ], 
+            "id": 1074, 
+            "name": "Edward E. Smith"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1282
+            ], 
+            "id": 1075, 
+            "name": "Kevin Scott"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1284
+            ], 
+            "id": 1076, 
+            "name": "Thall"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1285
+            ], 
+            "id": 1077, 
+            "name": "H. A. Hartzell"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1285, 
+                1286
+            ], 
+            "id": 1078, 
+            "name": "Robert Scott"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1285
+            ], 
+            "id": 1079, 
+            "name": "Richard Sheridan"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1286
+            ], 
+            "id": 1080, 
+            "name": "Scheling"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1287
+            ], 
+            "id": 1081, 
+            "name": "Vance Aandahl"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1287
+            ], 
+            "id": 1082, 
+            "name": "William Harris"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1288
+            ], 
+            "id": 1083, 
+            "name": "Charles D. Cunningham, Jr."
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1290, 
+                1335, 
+                1350
+            ], 
+            "id": 1084, 
+            "name": "J. G. Ballard"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1290
+            ], 
+            "id": 1085, 
+            "name": "Donald F. Daley"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1290, 
+                1353
+            ], 
+            "id": 1086, 
+            "name": "Ted White"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1291
+            ], 
+            "id": 1087, 
+            "name": "Model"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1291
+            ], 
+            "id": 1088, 
+            "name": "John Pederson, Jr."
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1291
+            ], 
+            "id": 1089, 
+            "name": "David Evans"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1291, 
+                1321, 
+                1340
+            ], 
+            "id": 1090, 
+            "name": "Robert Lory"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1292
+            ], 
+            "id": 1091, 
+            "name": "Shirley Thomas"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1293
+            ], 
+            "id": 1092, 
+            "name": "Mary Carlson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1293
+            ], 
+            "id": 1093, 
+            "name": "Annie Proulx"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1294
+            ], 
+            "id": 1094, 
+            "name": "Fremont Dodge"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1294, 
+                1303
+            ], 
+            "id": 1095, 
+            "name": "Jonathan Brand"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1295, 
+                1296
+            ], 
+            "id": 1096, 
+            "name": "McKenna"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1295
+            ], 
+            "id": 1097, 
+            "name": "R. J. Butler"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1296
+            ], 
+            "id": 1098, 
+            "name": "Lawrence"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1296
+            ], 
+            "id": 1099, 
+            "name": "Jo Friday"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1296
+            ], 
+            "id": 1100, 
+            "name": "Jesse Friedlander"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1297
+            ], 
+            "id": 1101, 
+            "name": "Jack Smith"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1298
+            ], 
+            "id": 1102, 
+            "name": "Norman Kagan"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1299
+            ], 
+            "id": 1103, 
+            "name": "Frances Hall"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1300
+            ], 
+            "id": 1104, 
+            "name": "Kit Reed"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1300, 
+                1320, 
+                1338, 
+                1341
+            ], 
+            "id": 1105, 
+            "name": "Robert E. Margroff"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1301
+            ], 
+            "id": 1106, 
+            "name": "Simon Tully"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1303, 
+                1318
+            ], 
+            "id": 1107, 
+            "name": "Alma Hill"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1303
+            ], 
+            "id": 1108, 
+            "name": "L. D. Ogle"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1304, 
+                1311, 
+                1318, 
+                1357, 
+                1363
+            ], 
+            "id": 1109, 
+            "name": "E. Clayton McCarty"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1304
+            ], 
+            "id": 1110, 
+            "name": "J. L. Frye"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1305
+            ], 
+            "id": 1111, 
+            "name": "James Durham"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1305
+            ], 
+            "id": 1112, 
+            "name": "Emil Petaja"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1306
+            ], 
+            "id": 1113, 
+            "name": "Jeffrey Renner"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1306
+            ], 
+            "id": 1114, 
+            "name": "John McCallum"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1307
+            ], 
+            "id": 1115, 
+            "name": "David Goodale"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1309, 
+                1320, 
+                1327, 
+                1343, 
+                1346
+            ], 
+            "id": 1116, 
+            "name": "D. M. Melton"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1310, 
+                1314
+            ], 
+            "id": 1117, 
+            "name": "J. M. McFadden"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1311
+            ], 
+            "id": 1118, 
+            "name": "Walt Richmond"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1312
+            ], 
+            "id": 1119, 
+            "name": "Edward V. Dong"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1313, 
+                1317
+            ], 
+            "id": 1120, 
+            "name": "Kenneth Bulmer"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1313
+            ], 
+            "id": 1121, 
+            "name": "W. I. McLaughlin"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1315
+            ], 
+            "id": 1122, 
+            "name": "Don F. Briggs"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1316
+            ], 
+            "id": 1123, 
+            "name": "Sea"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1316
+            ], 
+            "id": 1124, 
+            "name": "Steve Buchanan"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1318, 
+                1319, 
+                1320, 
+                1321, 
+                1322, 
+                1323, 
+                1324, 
+                1325, 
+                1326, 
+                1327, 
+                1328, 
+                1329, 
+                1330, 
+                1331, 
+                1332, 
+                1333, 
+                1334, 
+                1335, 
+                1336, 
+                1338, 
+                1339, 
+                1341, 
+                1342, 
+                1343
+            ], 
+            "id": 1125, 
+            "name": "Lin Carter"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1318
+            ], 
+            "id": 1126, 
+            "name": "Garrett Brown"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1319
+            ], 
+            "id": 1127, 
+            "name": "Carroll J. Clem"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1320
+            ], 
+            "id": 1128, 
+            "name": "Carol Easton"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1321
+            ], 
+            "id": 1129, 
+            "name": "A. A. Walde"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1322
+            ], 
+            "id": 1130, 
+            "name": "H. B. Michel"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1323
+            ], 
+            "id": 1131, 
+            "name": "Gardner Dozois"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1324
+            ], 
+            "id": 1132, 
+            "name": "the Numbers"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1324
+            ], 
+            "id": 1133, 
+            "name": "Michael Walker"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1324
+            ], 
+            "id": 1134, 
+            "name": "Rachel Cosgrove Payes"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1325
+            ], 
+            "id": 1135, 
+            "name": "Paul G. Herkart"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1325
+            ], 
+            "id": 1136, 
+            "name": "Thurlow Weed"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1326
+            ], 
+            "id": 1137, 
+            "name": "Durant Imboden"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1327
+            ], 
+            "id": 1138, 
+            "name": "Sandra Miesel"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1327
+            ], 
+            "id": 1139, 
+            "name": "Robert Mason"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1328
+            ], 
+            "id": 1140, 
+            "name": "Robert Ray"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1328
+            ], 
+            "id": 1141, 
+            "name": "Mather H. Walker"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1329
+            ], 
+            "id": 1142, 
+            "name": "Wright"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1329
+            ], 
+            "id": 1143, 
+            "name": "Rosco Wright"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1330
+            ], 
+            "id": 1144, 
+            "name": "Bruce W. Ronald"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1330
+            ], 
+            "id": 1145, 
+            "name": "Vernor Vinge"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1330
+            ], 
+            "id": 1146, 
+            "name": "W. I. Johnstone"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1331
+            ], 
+            "id": 1147, 
+            "name": "Charles W. Runyon"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1332
+            ], 
+            "id": 1148, 
+            "name": "Howard L. Morris"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1332
+            ], 
+            "id": 1149, 
+            "name": "Stan Elliott"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1333
+            ], 
+            "id": 1150, 
+            "name": "Alan Dirkson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1333
+            ], 
+            "id": 1151, 
+            "name": "E. Audrey Walton"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1334
+            ], 
+            "id": 1152, 
+            "name": "Sam Moskowitz"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1334, 
+                1338, 
+                1354
+            ], 
+            "id": 1153, 
+            "name": "Roger Deeley"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1335, 
+                1345, 
+                1354, 
+                1355, 
+                1356, 
+                1357, 
+                1358
+            ], 
+            "id": 1154, 
+            "name": "Perry A. Chapdelaine"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1336
+            ], 
+            "id": 1155, 
+            "name": "Max H. Flindt"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1336
+            ], 
+            "id": 1156, 
+            "name": "Donald J. Walsh"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1337
+            ], 
+            "id": 1157, 
+            "name": "James A. Stevens"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1339
+            ], 
+            "id": 1158, 
+            "name": "R. C. W. Ettinger"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1339
+            ], 
+            "id": 1159, 
+            "name": "R. V. Humphrey"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1340
+            ], 
+            "id": 1160, 
+            "name": "Laurence Yep"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1341, 
+                1353
+            ], 
+            "id": 1161, 
+            "name": "David Redd"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1341
+            ], 
+            "id": 1162, 
+            "name": "Hank Davis"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1342
+            ], 
+            "id": 1163, 
+            "name": "Jerry Juhl"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1343
+            ], 
+            "id": 1164, 
+            "name": "Eddie Jones"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1343, 
+                1359, 
+                1373
+            ], 
+            "id": 1165, 
+            "name": "Barry Alan Weissman"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1345
+            ], 
+            "id": 1166, 
+            "name": "Paul M. Moffett"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1346
+            ], 
+            "id": 1167, 
+            "name": "Karen Ripley"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1346
+            ], 
+            "id": 1168, 
+            "name": "Larry Tritten"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1347
+            ], 
+            "id": 1169, 
+            "name": "Dorothy Jones"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1348
+            ], 
+            "id": 1170, 
+            "name": "R. Brand"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1348
+            ], 
+            "id": 1171, 
+            "name": "Takumi Shibano"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1348, 
+                1369
+            ], 
+            "id": 1172, 
+            "name": "Sterling E. Lanier"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1348
+            ], 
+            "id": 1173, 
+            "name": "Lohr Miller"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1349, 
+                1351
+            ], 
+            "id": 1174, 
+            "name": "P. Reiber"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1349
+            ], 
+            "id": 1175, 
+            "name": "Mike Kirsch"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1349
+            ], 
+            "id": 1176, 
+            "name": "F. Haines Price"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1350
+            ], 
+            "id": 1177, 
+            "name": "Bram Hall"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1351
+            ], 
+            "id": 1178, 
+            "name": "William F. Temple"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1352
+            ], 
+            "id": 1179, 
+            "name": "Fire"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1352
+            ], 
+            "id": 1180, 
+            "name": "Rudy Cristiano"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1352
+            ], 
+            "id": 1181, 
+            "name": "Roger F. Burlingame"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1353
+            ], 
+            "id": 1182, 
+            "name": "Reiber"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1353
+            ], 
+            "id": 1183, 
+            "name": "George H. Scithers"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1354
+            ], 
+            "id": 1184, 
+            "name": "Luigi Cozzi"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1354, 
+                1378, 
+                1385
+            ], 
+            "id": 1185, 
+            "name": "William M. Lee"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1355
+            ], 
+            "id": 1186, 
+            "name": "Fedak"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1355
+            ], 
+            "id": 1187, 
+            "name": "Robert Weinberg"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1356
+            ], 
+            "id": 1188, 
+            "name": "Jack Alston"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1356
+            ], 
+            "id": 1189, 
+            "name": "Charles Nuetzel"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1357
+            ], 
+            "id": 1190, 
+            "name": "Alexis N. Tsvetikov"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1358
+            ], 
+            "id": 1191, 
+            "name": "Steven Guy Oliver"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1359, 
+                1373
+            ], 
+            "id": 1192, 
+            "name": "Irwin Ross"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1359
+            ], 
+            "id": 1193, 
+            "name": "Theresa M. Treadway"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1360
+            ], 
+            "id": 1194, 
+            "name": "Neil Shapiro"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1360
+            ], 
+            "id": 1195, 
+            "name": "Glenn Chang"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1362
+            ], 
+            "id": 1196, 
+            "name": "C. M. Drahan"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1362, 
+                1374
+            ], 
+            "id": 1197, 
+            "name": "Richard C. Meredith"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1363
+            ], 
+            "id": 1198, 
+            "name": "Timothy M. Brown"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1363
+            ], 
+            "id": 1199, 
+            "name": "Edward Bryant"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1363, 
+                1366
+            ], 
+            "id": 1200, 
+            "name": "Jack Dann"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1364, 
+                1366, 
+                1369, 
+                1371
+            ], 
+            "id": 1201, 
+            "name": "Lee Harding"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1366, 
+                1393
+            ], 
+            "id": 1202, 
+            "name": "Tim Kirk"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1367
+            ], 
+            "id": 1203, 
+            "name": "George C. Chesbro"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1367, 
+                1369
+            ], 
+            "id": 1204, 
+            "name": "Richard E. Peck"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1368
+            ], 
+            "id": 1205, 
+            "name": "Michael Rogers"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1368
+            ], 
+            "id": 1206, 
+            "name": "Joseph Dickinson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1368
+            ], 
+            "id": 1207, 
+            "name": "Juanita Coulson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1368, 
+                1379
+            ], 
+            "id": 1208, 
+            "name": "Donald Franson"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1369, 
+                1370
+            ], 
+            "id": 1209, 
+            "name": "Gerard Rejskind"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1370
+            ], 
+            "id": 1210, 
+            "name": "Lee Saye"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1371
+            ], 
+            "id": 1211, 
+            "name": "James Benford"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1372
+            ], 
+            "id": 1212, 
+            "name": "James A. Gotaas"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1373
+            ], 
+            "id": 1213, 
+            "name": "Charles R. Knight"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1373
+            ], 
+            "id": 1214, 
+            "name": "ss of Tartarus"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1373
+            ], 
+            "id": 1215, 
+            "name": "Dinsmore Alter"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1374
+            ], 
+            "id": 1216, 
+            "name": "Ed Bianchi"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1374
+            ], 
+            "id": 1217, 
+            "name": "B. Alan Burhoe"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1375
+            ], 
+            "id": 1218, 
+            "name": "Joe L. Hensley"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1376, 
+                1377, 
+                1380, 
+                1382, 
+                1384
+            ], 
+            "id": 1219, 
+            "name": "David Magil"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1377, 
+                1385
+            ], 
+            "id": 1220, 
+            "name": "Lee Killough"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1378, 
+                1379
+            ], 
+            "id": 1221, 
+            "name": "Zach Hughes"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1380
+            ], 
+            "id": 1222, 
+            "name": "F. H. George"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1380
+            ], 
+            "id": 1223, 
+            "name": "W. P. Jolly"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1380
+            ], 
+            "id": 1224, 
+            "name": "Robert L. Davis"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1380
+            ], 
+            "id": 1225, 
+            "name": "David Lewis"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1383
+            ], 
+            "id": 1226, 
+            "name": "Bob Stickgold"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1383
+            ], 
+            "id": 1227, 
+            "name": "Beverly Goldberg"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1384, 
+                1385
+            ], 
+            "id": 1228, 
+            "name": "F. M. Bus"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1385
+            ], 
+            "id": 1229, 
+            "name": "Gene Kilczer"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1386
+            ], 
+            "id": 1230, 
+            "name": "Kenneth Von Gunden"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1386
+            ], 
+            "id": 1231, 
+            "name": "Susan Ellison"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1387, 
+                1388
+            ], 
+            "id": 1232, 
+            "name": "Leigh Brackett"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1387
+            ], 
+            "id": 1233, 
+            "name": "Pamela Sargent"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1388
+            ], 
+            "id": 1234, 
+            "name": "James A. Roszell"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1388
+            ], 
+            "id": 1235, 
+            "name": "Linda Isaacs"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1389
+            ], 
+            "id": 1236, 
+            "name": "William John Watkins"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1390
+            ], 
+            "id": 1237, 
+            "name": "the Morphy Watch"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1390, 
+                1391
+            ], 
+            "id": 1238, 
+            "name": "Robert D. Enzmann"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1390
+            ], 
+            "id": 1239, 
+            "name": "Jerry Goodz"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1391
+            ], 
+            "id": 1240, 
+            "name": "e"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1391
+            ], 
+            "id": 1241, 
+            "name": "Joan Spicci Saberhagen"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1391
+            ], 
+            "id": 1242, 
+            "name": "Jan Trenholm"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1391
+            ], 
+            "id": 1243, 
+            "name": "John C. White"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1391
+            ], 
+            "id": 1244, 
+            "name": "S. Roger Keith"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1392
+            ], 
+            "id": 1245, 
+            "name": "Harting"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1392
+            ], 
+            "id": 1246, 
+            "name": "Daniel P. Dern"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1247, 
+            "name": "Michael Gilbert"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1248, 
+            "name": "Paul Lehr"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1249, 
+            "name": "Mike Symes"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1250, 
+            "name": "Clifford R. Hong"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1251, 
+            "name": "Orson Scott Card"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1252, 
+            "name": "Ralph Sevush"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1253, 
+            "name": "Stefan Jones"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1254, 
+            "name": "Robert Thurston"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1255, 
+            "name": "Ray Brown"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1256, 
+            "name": "Kerry Schaefer"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1257, 
+            "name": "Hilbert Schenck"
+        }, 
+        {
+            "countries": [], 
+            "gender": "", 
+            "books": [
+                1393
+            ], 
+            "id": 1258, 
+            "name": "Jessica Amanda Salmonson"
         }
     ]
 }

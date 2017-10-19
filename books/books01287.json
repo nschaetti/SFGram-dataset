@@ -1,0 +1,110 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1962", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/1962-09_IF/1962-09_IF_jp2.zip&file=1962-09_IF_jp2/1962-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/57/WOFIFSEP1962.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        551, 
+        556, 
+        573, 
+        499, 
+        582, 
+        326, 
+        341, 
+        40, 
+        603, 
+        32, 
+        1081, 
+        194, 
+        315, 
+        142, 
+        1082, 
+        267, 
+        67, 
+        918
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1287, 
+    "contents": [
+        {
+            "author": 551, 
+            "title": "The Snowbank Orbit"
+        }, 
+        {
+            "author": 556, 
+            "title": "The Winning of the Moon"
+        }, 
+        {
+            "author": 573, 
+            "title": "The Big Headache"
+        }, 
+        {
+            "author": 499, 
+            "title": "Once Around Arcturus"
+        }, 
+        {
+            "author": 582, 
+            "title": "Cultural Exchange"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Worlds of Science (Editorial)"
+        }, 
+        {
+            "author": 326, 
+            "title": "You and Nostradamus - Continued"
+        }, 
+        {
+            "author": 341, 
+            "title": "Just Westing"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, September 1962)"
+        }, 
+        {
+            "author": 603, 
+            "title": "Once Around Arcturus"
+        }, 
+        {
+            "author": 32, 
+            "title": "The Snowbank Orbit"
+        }, 
+        {
+            "author": 1081, 
+            "title": "One Million Four Hundred Ninety Two Thousand Six Hundred Thirty Three Marlon Brandos"
+        }, 
+        {
+            "author": 194, 
+            "title": "The Winning of the Moon"
+        }, 
+        {
+            "author": 315, 
+            "title": "And Then There Was Peace"
+        }, 
+        {
+            "author": 142, 
+            "title": "The Big Headache"
+        }, 
+        {
+            "author": 1082, 
+            "title": "Transient"
+        }, 
+        {
+            "author": 267, 
+            "title": "World in a Mirror"
+        }, 
+        {
+            "author": 67, 
+            "title": "Cultural Exchange"
+        }
+    ]
+}

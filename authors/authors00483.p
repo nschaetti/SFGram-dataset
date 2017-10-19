@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I483
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I1034
 aI1035
 aI1036
@@ -82,7 +79,10 @@ aI1093
 aI1094
 aI1095
 aI1097
-asS'name'
+asS'id'
+p10
+I483
+sS'name'
 p11
 VFloyd C. Gale
 p12

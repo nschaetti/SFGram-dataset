@@ -70,135 +70,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VThe Shaker Revival
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VThe Shaker Revival [2]
-p34
-sa(dp35
-g10
-I326
-sg14
-VThe Shaker Revival [3]
-p36
-sa(dp37
-g10
-I326
-sg14
-VThe Shaker Revival [4]
-p38
-sa(dp39
-g10
-I326
-sg14
-VThe Shaker Revival [5]
-p40
-sa(dp41
-g10
-I672
-sg14
-VSlow Sculpture
-p42
-sa(dp43
-g10
-I499
-sg14
-VSleeping Beauty
-p44
-sa(dp45
-g10
-I499
-sg14
-VThe Last Night of the Festival
-p46
-sa(dp47
-g10
-I499
-sg14
-VThe Last Night of the Festival [2]
-p48
-sa(dp49
-g10
-I499
-sg14
-VDownward to the Earth (Part 3 of 4)
-p50
-sa(dp51
-g10
-I499
-sg14
-VDownward to the Earth (Part 3 of 4) [2]
-p52
-sa(dp53
-g10
-I326
-sg14
-VAfter They Took the Panama Canal
-p54
-sa(dp55
-g10
-I615
-sg14
-VSunpot (Part 1 of 4) [2]
-p56
-sa(dp57
-g10
-I91
-sg14
-VGalaxy Book Shelf (Galaxy, February 1970)
-p58
-sa(dp59
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, February 1970)
-p60
-sa(dp61
-g10
-I673
-sg14
 VThe Shaker Revival
-p62
-sa(dp63
-g10
-I341
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VThe Shaker Revival [2]
+p36
+sg34
+I326
+sa(dp37
+g32
+VThe Shaker Revival [3]
+p38
+sg34
+I326
+sa(dp39
+g32
+VThe Shaker Revival [4]
+p40
+sg34
+I326
+sa(dp41
+g32
+VThe Shaker Revival [5]
+p42
+sg34
+I326
+sa(dp43
+g32
 VSlow Sculpture
-p64
-sa(dp65
-g10
-I630
-sg14
+p44
+sg34
+I672
+sa(dp45
+g32
 VSleeping Beauty
-p66
-sa(dp67
-g10
-I50
-sg14
-VDownward to the Earth (Part 3 of 4)
-p68
-sa(dp69
-g10
-I615
-sg14
-VSunpot (Part 1 of 4)
-p70
-sa(dp71
-g10
-I662
-sg14
+p46
+sg34
+I499
+sa(dp47
+g32
 VThe Last Night of the Festival
-p72
-sa(dp73
-g10
-I674
-sg14
+p48
+sg34
+I499
+sa(dp49
+g32
+VThe Last Night of the Festival [2]
+p50
+sg34
+I499
+sa(dp51
+g32
+VDownward to the Earth (Part 3 of 4)
+p52
+sg34
+I499
+sa(dp53
+g32
+VDownward to the Earth (Part 3 of 4) [2]
+p54
+sg34
+I499
+sa(dp55
+g32
 VAfter They Took the Panama Canal
+p56
+sg34
+I326
+sa(dp57
+g32
+VSunpot (Part 1 of 4) [2]
+p58
+sg34
+I615
+sa(dp59
+g32
+VGalaxy Book Shelf (Galaxy, February 1970)
+p60
+sg34
+I91
+sa(dp61
+g32
+VGalaxy Stars (Galaxy, February 1970)
+p62
+sg34
+I326
+sa(dp63
+g32
+VThe Shaker Revival
+p64
+sg34
+I673
+sa(dp65
+g32
+VSlow Sculpture
+p66
+sg34
+I341
+sa(dp67
+g32
+VSleeping Beauty
+p68
+sg34
+I630
+sa(dp69
+g32
+VDownward to the Earth (Part 3 of 4)
+p70
+sg34
+I50
+sa(dp71
+g32
+VSunpot (Part 1 of 4)
+p72
+sg34
+I615
+sa(dp73
+g32
+VThe Last Night of the Festival
 p74
+sg34
+I662
+sa(dp75
+g32
+VAfter They Took the Panama Canal
+p76
+sg34
+I674
 sasb.

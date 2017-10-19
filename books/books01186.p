@@ -74,123 +74,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I784
-sg14
-VShowcase (Galaxy, August 1975)
+S'title'
 p32
-sa(dp33
-g10
-I763
-sg14
-VInferno (Part 1 of 3)
+VShowcase (Galaxy, August 1975)
+p33
+sS'author'
 p34
+I784
 sa(dp35
-g10
-I763
-sg14
-VInferno (Part 1 of 3) [2]
-p36
-sa(dp37
-g10
-I763
-sg14
-VInferno (Part 1 of 3) [3]
-p38
-sa(dp39
-g10
-I753
-sg14
-VRanks of Bronze
-p40
-sa(dp41
-g10
-I744
-sg14
-VHigh Yield Bondage
-p42
-sa(dp43
-g10
-I499
-sg14
-VRim Change
-p44
-sa(dp45
-g10
-I499
-sg14
-VRim Change [2]
-p46
-sa(dp47
-g10
-I499
-sg14
-VRim Change [3]
-p48
-sa(dp49
-g10
-I753
-sg14
-VNobody Here but Us Shadows
-p50
-sa(dp51
-g10
-I764
-sg14
-VThe Myth of the Light-Barrier
-p52
-sa(dp53
-g10
-I734
-sg14
-VA Step Farther Out: Ufo's and Big Science
-p54
-sa(dp55
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, August 1975)
-p56
-sa(dp57
-g10
-I770
-sg14
-VGalaxy Bookshelf (Galaxy, August 1975)
-p58
-sa(dp59
-g10
-I326
-sg14
-VDirections (Galaxy, August 1975)
-p60
-sa(dp61
-g10
-I785
-sg14
-VHigh Yield Bondage
-p62
-sa(dp63
-g10
-I630
-sg14
-VRim Change
-p64
-sa(dp65
-g10
-I604
-sg14
+g32
 VInferno (Part 1 of 3)
-p66
-sa(dp67
-g10
-I755
-sg14
+p36
+sg34
+I763
+sa(dp37
+g32
+VInferno (Part 1 of 3) [2]
+p38
+sg34
+I763
+sa(dp39
+g32
+VInferno (Part 1 of 3) [3]
+p40
+sg34
+I763
+sa(dp41
+g32
 VRanks of Bronze
-p68
-sa(dp69
-g10
-I786
-sg14
+p42
+sg34
+I753
+sa(dp43
+g32
+VHigh Yield Bondage
+p44
+sg34
+I744
+sa(dp45
+g32
+VRim Change
+p46
+sg34
+I499
+sa(dp47
+g32
+VRim Change [2]
+p48
+sg34
+I499
+sa(dp49
+g32
+VRim Change [3]
+p50
+sg34
+I499
+sa(dp51
+g32
 VNobody Here but Us Shadows
+p52
+sg34
+I753
+sa(dp53
+g32
+VThe Myth of the Light-Barrier
+p54
+sg34
+I764
+sa(dp55
+g32
+VA Step Farther Out: Ufo's and Big Science
+p56
+sg34
+I734
+sa(dp57
+g32
+VThe Alien Viewpoint (Galaxy, August 1975)
+p58
+sg34
+I767
+sa(dp59
+g32
+VGalaxy Bookshelf (Galaxy, August 1975)
+p60
+sg34
+I770
+sa(dp61
+g32
+VDirections (Galaxy, August 1975)
+p62
+sg34
+I326
+sa(dp63
+g32
+VHigh Yield Bondage
+p64
+sg34
+I785
+sa(dp65
+g32
+VRim Change
+p66
+sg34
+I630
+sa(dp67
+g32
+VInferno (Part 1 of 3)
+p68
+sg34
+I604
+sa(dp69
+g32
+VRanks of Bronze
 p70
+sg34
+I755
+sa(dp71
+g32
+VNobody Here but Us Shadows
+p72
+sg34
+I786
 sasb.

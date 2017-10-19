@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1958", 
+    "cover": "https://ia601303.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/1958-02_IF/1958-02_IF_jp2.zip&file=1958-02_IF_jp2/1958-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e2/WOFIFFEB1958.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        363, 
+        956, 
+        952, 
+        326, 
+        507, 
+        91, 
+        3, 
+        1038, 
+        441, 
+        542, 
+        986, 
+        1031, 
+        583, 
+        918
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1261, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Feeling of Power"
+        }, 
+        {
+            "author": 363, 
+            "title": "Assassin"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Hero"
+        }, 
+        {
+            "author": 363, 
+            "title": "Contamination Crew"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Barbarians"
+        }, 
+        {
+            "author": 497, 
+            "title": "Out From the Sun"
+        }, 
+        {
+            "author": 363, 
+            "title": "Security Risk"
+        }, 
+        {
+            "author": 956, 
+            "title": "Feet of Clay"
+        }, 
+        {
+            "author": 952, 
+            "title": "Editor's Report (If, February 1958)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, February 1958)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, February 1958)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, February 1958)"
+        }, 
+        {
+            "author": 507, 
+            "title": "Assassin"
+        }, 
+        {
+            "author": 91, 
+            "title": "The Barbarians"
+        }, 
+        {
+            "author": 3, 
+            "title": "The Feeling of Power"
+        }, 
+        {
+            "author": 1038, 
+            "title": "The Hero"
+        }, 
+        {
+            "author": 441, 
+            "title": "Contamination Crew"
+        }, 
+        {
+            "author": 542, 
+            "title": "Out From the Sun"
+        }, 
+        {
+            "author": 986, 
+            "title": "Security Risk"
+        }, 
+        {
+            "author": 1031, 
+            "title": "The Standardized Man"
+        }, 
+        {
+            "author": 583, 
+            "title": "Feet of Clay"
+        }
+    ]
+}

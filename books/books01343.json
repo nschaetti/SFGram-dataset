@@ -1,0 +1,96 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1968", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/1968-05_IF_modified/1968-05_IF_modified_jp2.zip&file=1968-05_IF_modified_jp2/1968-05_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/16/WOFIFMAY1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        625, 
+        626, 
+        1164, 
+        624, 
+        499, 
+        30, 
+        1125, 
+        326, 
+        40, 
+        1116, 
+        418, 
+        111, 
+        50, 
+        591, 
+        1165, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1343, 
+    "contents": [
+        {
+            "author": 625, 
+            "title": "Where the Subbs Go"
+        }, 
+        {
+            "author": 626, 
+            "title": "Dismal Light"
+        }, 
+        {
+            "author": 1164, 
+            "title": "Cenotaph"
+        }, 
+        {
+            "author": 624, 
+            "title": "The Creatures of Man"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Man in the Maze (Part 2 of 2)"
+        }, 
+        {
+            "author": 30, 
+            "title": "Guest Editorial: Limiting Factor"
+        }, 
+        {
+            "author": 1125, 
+            "title": "New Currents in Fandom"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, May 1968)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, May 1968)"
+        }, 
+        {
+            "author": 1116, 
+            "title": "Cenotaph"
+        }, 
+        {
+            "author": 418, 
+            "title": "The Creatures of Man"
+        }, 
+        {
+            "author": 111, 
+            "title": "Where the Subbs Go"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Man in the Maze (Part 2 of 2)"
+        }, 
+        {
+            "author": 591, 
+            "title": "Dismal Light"
+        }, 
+        {
+            "author": 1165, 
+            "title": "Past Touch-the-Sky Mountain"
+        }
+    ]
+}

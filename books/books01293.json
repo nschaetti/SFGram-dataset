@@ -1,0 +1,90 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1963", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/1963-09_IF/1963-09_IF_jp2.zip&file=1963-09_IF_jp2/1963-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/df/WOFIFSEP1963.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        581, 
+        363, 
+        578, 
+        341, 
+        40, 
+        658, 
+        86, 
+        1092, 
+        61, 
+        356, 
+        1093, 
+        1062, 
+        918
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1293, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Expendables"
+        }, 
+        {
+            "author": 581, 
+            "title": "Manners and Customs of the Thrid"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Reefs of Space (Part 2 of 3)"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Course of Logic"
+        }, 
+        {
+            "author": 341, 
+            "title": "Kick Yourself Again"
+        }, 
+        {
+            "author": 341, 
+            "title": "Science On a Shoestring - or Less"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, September 1963)"
+        }, 
+        {
+            "author": 658, 
+            "title": "The Expendables"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Reefs of Space (Part 2 of 3)"
+        }, 
+        {
+            "author": 1092, 
+            "title": "The Time of Cold"
+        }, 
+        {
+            "author": 61, 
+            "title": "Manners and Customs of the Thrid"
+        }, 
+        {
+            "author": 356, 
+            "title": "The Course of Logic"
+        }, 
+        {
+            "author": 1093, 
+            "title": "The Customs Lounge"
+        }, 
+        {
+            "author": 1062, 
+            "title": "Threlkeld's Daughter"
+        }
+    ]
+}

@@ -70,105 +70,107 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VThe Gods Themselves (Part 3 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VRobbie and David and Little Dahl
-p34
-sa(dp35
-g10
-I326
-sg14
-VThe Reply
-p36
-sa(dp37
-g10
-I326
-sg14
-VGone Fishing
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Grand Illusions
-p40
-sa(dp41
-g10
-I499
-sg14
-VTrouble with G.O.D.
-p42
-sa(dp43
-g10
-I326
-sg14
-VThe Langley Circuit
-p44
-sa(dp45
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, May-June 1972)
-p46
-sa(dp47
-g10
-I605
-sg14
-VWant to Bet? (Galaxy Magazine, May-June 1972)
-p48
-sa(dp49
-g10
-I3
-sg14
-VGalaxy Stars (Galaxy, May-June 1972)
-p50
-sa(dp51
-g10
-I161
-sg14
-VThe Reply
-p52
-sa(dp53
-g10
-I668
-sg14
-VTrouble with G.O.D.
-p54
-sa(dp55
-g10
-I3
-sg14
 VThe Gods Themselves (Part 3 of 3)
-p56
-sa(dp57
-g10
-I386
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VRobbie and David and Little Dahl
-p58
-sa(dp59
-g10
-I708
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
+VThe Reply
+p38
+sg34
+I326
+sa(dp39
+g32
 VGone Fishing
-p60
-sa(dp61
-g10
-I651
-sg14
+p40
+sg34
+I326
+sa(dp41
+g32
 VThe Grand Illusions
-p62
-sa(dp63
-g10
-I709
-sg14
+p42
+sg34
+I499
+sa(dp43
+g32
+VTrouble with G.O.D.
+p44
+sg34
+I499
+sa(dp45
+g32
 VThe Langley Circuit
+p46
+sg34
+I326
+sa(dp47
+g32
+VGalaxy Bookshelf (Galaxy, May-June 1972)
+p48
+sg34
+I341
+sa(dp49
+g32
+VWant to Bet? (Galaxy Magazine, May-June 1972)
+p50
+sg34
+I605
+sa(dp51
+g32
+VGalaxy Stars (Galaxy, May-June 1972)
+p52
+sg34
+I3
+sa(dp53
+g32
+VThe Reply
+p54
+sg34
+I161
+sa(dp55
+g32
+VTrouble with G.O.D.
+p56
+sg34
+I668
+sa(dp57
+g32
+VThe Gods Themselves (Part 3 of 3)
+p58
+sg34
+I3
+sa(dp59
+g32
+VRobbie and David and Little Dahl
+p60
+sg34
+I386
+sa(dp61
+g32
+VGone Fishing
+p62
+sg34
+I708
+sa(dp63
+g32
+VThe Grand Illusions
 p64
+sg34
+I651
+sa(dp65
+g32
+VThe Langley Circuit
+p66
+sg34
+I709
 sasb.

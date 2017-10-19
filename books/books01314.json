@@ -1,0 +1,84 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1965", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/1965-12_IF/1965-12_IF_jp2.zip&file=1965-12_IF_jp2/1965-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/7b/WOFIFDEC1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        40, 
+        45, 
+        153, 
+        371, 
+        67, 
+        473, 
+        308, 
+        643, 
+        1117, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1314, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Moon Is a Harsh Mistress"
+        }, 
+        {
+            "author": 545, 
+            "title": "St. George and the Dragonmotive"
+        }, 
+        {
+            "author": 499, 
+            "title": "Retief's War"
+        }, 
+        {
+            "author": 40, 
+            "title": "Edward E. Smith, Ph.D (Obituary)"
+        }, 
+        {
+            "author": 45, 
+            "title": "Loncon Ii or Through a Monocle? Darkly"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, December 1965)"
+        }, 
+        {
+            "author": 153, 
+            "title": "St. George and the Dragonmotive"
+        }, 
+        {
+            "author": 371, 
+            "title": "The Moon Is a Harsh Mistress (Part 1 of 5)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Retief's War (Part 3 of 3)"
+        }, 
+        {
+            "author": 473, 
+            "title": "Security Syndrome"
+        }, 
+        {
+            "author": 308, 
+            "title": "Toys for Debbie"
+        }, 
+        {
+            "author": 643, 
+            "title": "The Girls On Ussf 193"
+        }, 
+        {
+            "author": 1117, 
+            "title": "Mercury"
+        }
+    ]
+}

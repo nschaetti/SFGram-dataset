@@ -1,0 +1,112 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1970", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/1970-01_IF/1970-01_IF_jp2.zip&file=1970-01_IF_jp2/1970-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/cf/WOFIFJAN1970.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        45, 
+        339, 
+        356, 
+        217, 
+        656, 
+        220, 
+        63, 
+        16, 
+        651, 
+        918
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1361, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Whipping Star (Part 1 of 4)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whipping Star (Part 1 of 4) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whipping Star (Part 1 of 4) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whipping Star (Part 1 of 4) [4]"
+        }, 
+        {
+            "author": 499, 
+            "title": "By the Falls"
+        }, 
+        {
+            "author": 326, 
+            "title": "If a Man Answers"
+        }, 
+        {
+            "author": 499, 
+            "title": "Child's Play"
+        }, 
+        {
+            "author": 499, 
+            "title": "This One"
+        }, 
+        {
+            "author": 326, 
+            "title": "O Kind Master"
+        }, 
+        {
+            "author": 499, 
+            "title": "O Kind Master [2]"
+        }, 
+        {
+            "author": 45, 
+            "title": "Diary Found in Thge St. Louis Zoo"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, January 1970)"
+        }, 
+        {
+            "author": 339, 
+            "title": "The Story of Our Earth: The Coming of the Dinosaurs"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, January 1970)"
+        }, 
+        {
+            "author": 217, 
+            "title": "If a Man Answers"
+        }, 
+        {
+            "author": 656, 
+            "title": "This One"
+        }, 
+        {
+            "author": 220, 
+            "title": "O Kind Master"
+        }, 
+        {
+            "author": 63, 
+            "title": "Whipping Star (Part 1 of 4)"
+        }, 
+        {
+            "author": 16, 
+            "title": "By the Falls"
+        }, 
+        {
+            "author": 651, 
+            "title": "Child's Play"
+        }
+    ]
+}

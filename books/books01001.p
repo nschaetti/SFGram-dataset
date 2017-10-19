@@ -73,141 +73,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I402
-sg14
-VFour in One
+S'title'
 p32
-sa(dp33
-g10
-I402
-sg14
-VFour in One [2]
-p34
-sa(dp35
-g10
-I402
-sg14
-VFour in One [3]
-p36
-sa(dp37
-g10
-I363
-sg14
-VProtective Mimicry
-p38
-sa(dp39
-g10
-I424
-sg14
-VSaucer of Loneliness
-p40
-sa(dp41
-g10
-I363
-sg14
-VWatchbird
-p42
-sa(dp43
-g10
-I363
-sg14
-VWatchbird [2]
-p44
-sa(dp45
-g10
-I363
-sg14
-VWatchbird [3]
-p46
-sa(dp47
-g10
-I424
-sg14
-VKnow Thy Neighbor
-p48
-sa(dp49
-g10
-I342
-sg14
-VRing Around the Sun (Part 3 of 3)
-p50
-sa(dp51
-g10
-I342
-sg14
-VRing Around the Sun (Part 3 of 3) [2]
-p52
-sa(dp53
-g10
-I342
-sg14
-VRing Around the Sun (Part 3 of 3) [3]
-p54
-sa(dp55
-g10
-I342
-sg14
-VRing Around the Sun (Part 3 of 3) [4]
-p56
-sa(dp57
-g10
-I305
-sg14
-VBuy Me That!
-p58
-sa(dp59
-g10
-I326
-sg14
-VForecast (Galaxy, February 1953)
-p60
-sa(dp61
-g10
-I339
-sg14
-VFor Your Information: The Ice Age (Iii)
-p62
-sa(dp63
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, February 1953)
-p64
-sa(dp65
-g10
-I204
-sg14
 VFour in One
-p66
-sa(dp67
-g10
-I23
-sg14
-VWatchbird
-p68
-sa(dp69
-g10
-I56
-sg14
-VRing Around the Sun (Part 3 of 3)
-p70
-sa(dp71
-g10
-I91
-sg14
+p33
+sS'author'
+p34
+I402
+sa(dp35
+g32
+VFour in One [2]
+p36
+sg34
+I402
+sa(dp37
+g32
+VFour in One [3]
+p38
+sg34
+I402
+sa(dp39
+g32
 VProtective Mimicry
-p72
-sa(dp73
-g10
-I341
-sg14
+p40
+sg34
+I363
+sa(dp41
+g32
 VSaucer of Loneliness
-p74
-sa(dp75
-g10
-I425
-sg14
+p42
+sg34
+I424
+sa(dp43
+g32
+VWatchbird
+p44
+sg34
+I363
+sa(dp45
+g32
+VWatchbird [2]
+p46
+sg34
+I363
+sa(dp47
+g32
+VWatchbird [3]
+p48
+sg34
+I363
+sa(dp49
+g32
 VKnow Thy Neighbor
+p50
+sg34
+I424
+sa(dp51
+g32
+VRing Around the Sun (Part 3 of 3)
+p52
+sg34
+I342
+sa(dp53
+g32
+VRing Around the Sun (Part 3 of 3) [2]
+p54
+sg34
+I342
+sa(dp55
+g32
+VRing Around the Sun (Part 3 of 3) [3]
+p56
+sg34
+I342
+sa(dp57
+g32
+VRing Around the Sun (Part 3 of 3) [4]
+p58
+sg34
+I342
+sa(dp59
+g32
+VBuy Me That!
+p60
+sg34
+I305
+sa(dp61
+g32
+VForecast (Galaxy, February 1953)
+p62
+sg34
+I326
+sa(dp63
+g32
+VFor Your Information: The Ice Age (Iii)
+p64
+sg34
+I339
+sa(dp65
+g32
+VGalaxy's 5 Star Shelf (Galaxy, February 1953)
+p66
+sg34
+I340
+sa(dp67
+g32
+VFour in One
+p68
+sg34
+I204
+sa(dp69
+g32
+VWatchbird
+p70
+sg34
+I23
+sa(dp71
+g32
+VRing Around the Sun (Part 3 of 3)
+p72
+sg34
+I56
+sa(dp73
+g32
+VProtective Mimicry
+p74
+sg34
+I91
+sa(dp75
+g32
+VSaucer of Loneliness
 p76
+sg34
+I341
+sa(dp77
+g32
+VKnow Thy Neighbor
+p78
+sg34
+I425
 sasb.

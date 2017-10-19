@@ -69,93 +69,95 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VProject 40 (Part 1 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-V26 Days On Earth
-p34
-sa(dp35
-g10
-I499
-sg14
-VNoepti-Noe
-p36
-sa(dp37
-g10
-I326
-sg14
-VThe Dutchman
-p38
-sa(dp39
-g10
-I499
-sg14
-VMayflower I
-p40
-sa(dp41
-g10
-I499
-sg14
-VJourney
-p42
-sa(dp43
-g10
-I326
-sg14
-VDirections (Galaxy, November-December 1972)
-p44
-sa(dp45
-g10
-I667
-sg14
-VEditor's Column: The Naked Dream
-p46
-sa(dp47
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, November-December 1972)
-p48
-sa(dp49
-g10
-I577
-sg14
-VNoepti-Noe
-p50
-sa(dp51
-g10
-I630
-sg14
-VThe Dutchman
-p52
-sa(dp53
-g10
-I663
-sg14
-VMayflower I
-p54
-sa(dp55
-g10
-I63
-sg14
 VProject 40 (Part 1 of 3)
-p56
-sa(dp57
-g10
-I660
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
 V26 Days On Earth
-p58
-sa(dp59
-g10
-I112
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
+VNoepti-Noe
+p38
+sg34
+I499
+sa(dp39
+g32
+VThe Dutchman
+p40
+sg34
+I326
+sa(dp41
+g32
+VMayflower I
+p42
+sg34
+I499
+sa(dp43
+g32
 VJourney
+p44
+sg34
+I499
+sa(dp45
+g32
+VDirections (Galaxy, November-December 1972)
+p46
+sg34
+I326
+sa(dp47
+g32
+VEditor's Column: The Naked Dream
+p48
+sg34
+I667
+sa(dp49
+g32
+VGalaxy Bookshelf (Galaxy, November-December 1972)
+p50
+sg34
+I341
+sa(dp51
+g32
+VNoepti-Noe
+p52
+sg34
+I577
+sa(dp53
+g32
+VThe Dutchman
+p54
+sg34
+I630
+sa(dp55
+g32
+VMayflower I
+p56
+sg34
+I663
+sa(dp57
+g32
+VProject 40 (Part 1 of 3)
+p58
+sg34
+I63
+sa(dp59
+g32
+V26 Days On Earth
 p60
+sg34
+I660
+sa(dp61
+g32
+VJourney
+p62
+sg34
+I112
 sasb.

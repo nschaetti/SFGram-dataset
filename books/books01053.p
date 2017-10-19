@@ -70,117 +70,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I513
-sg14
-VA World Called Maanerek
+S'title'
 p32
-sa(dp33
-g10
-I513
-sg14
-VA World Called Maanerek [2]
-p34
-sa(dp35
-g10
-I513
-sg14
-VA Wind Is Rising
-p36
-sa(dp37
-g10
-I504
-sg14
-VHelp! I Am Dr. Morris Goldpepper
-p38
-sa(dp39
-g10
-I504
-sg14
-VHelp! I Am Dr. Morris Goldpepper [2]
-p40
-sa(dp41
-g10
-I504
-sg14
-VHelp! I Am Dr. Morris Goldpepper [3]
-p42
-sa(dp43
-g10
-I513
-sg14
-VGrowing Up On Big Muddy
-p44
-sa(dp45
-g10
-I419
-sg14
-VThe Deaths of Ben Baxter
-p46
-sa(dp47
-g10
-I419
-sg14
-VThe Deaths of Ben Baxter [2]
-p48
-sa(dp49
-g10
-I419
-sg14
-VThe Deaths of Ben Baxter [3]
-p50
-sa(dp51
-g10
-I305
-sg14
-VYou Were Saying?
-p52
-sa(dp53
-g10
-I326
-sg14
-VForecast (Galaxy, July 1957)
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: The Moon Contract
-p56
-sa(dp57
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, July 1957)
-p58
-sa(dp59
-g10
-I30
-sg14
 VA World Called Maanerek
-p60
-sa(dp61
-g10
-I514
-sg14
-VHelp! I Am Dr. Morris Goldpepper
-p62
-sa(dp63
-g10
-I23
-sg14
-VThe Deaths of Ben Baxter
-p64
-sa(dp65
-g10
-I23
-sg14
+p33
+sS'author'
+p34
+I513
+sa(dp35
+g32
+VA World Called Maanerek [2]
+p36
+sg34
+I513
+sa(dp37
+g32
 VA Wind Is Rising
-p66
-sa(dp67
-g10
-I121
-sg14
+p38
+sg34
+I513
+sa(dp39
+g32
+VHelp! I Am Dr. Morris Goldpepper
+p40
+sg34
+I504
+sa(dp41
+g32
+VHelp! I Am Dr. Morris Goldpepper [2]
+p42
+sg34
+I504
+sa(dp43
+g32
+VHelp! I Am Dr. Morris Goldpepper [3]
+p44
+sg34
+I504
+sa(dp45
+g32
 VGrowing Up On Big Muddy
+p46
+sg34
+I513
+sa(dp47
+g32
+VThe Deaths of Ben Baxter
+p48
+sg34
+I419
+sa(dp49
+g32
+VThe Deaths of Ben Baxter [2]
+p50
+sg34
+I419
+sa(dp51
+g32
+VThe Deaths of Ben Baxter [3]
+p52
+sg34
+I419
+sa(dp53
+g32
+VYou Were Saying?
+p54
+sg34
+I305
+sa(dp55
+g32
+VForecast (Galaxy, July 1957)
+p56
+sg34
+I326
+sa(dp57
+g32
+VFor Your Information: The Moon Contract
+p58
+sg34
+I339
+sa(dp59
+g32
+VGalaxy's 5 Star Shelf (Galaxy, July 1957)
+p60
+sg34
+I483
+sa(dp61
+g32
+VA World Called Maanerek
+p62
+sg34
+I30
+sa(dp63
+g32
+VHelp! I Am Dr. Morris Goldpepper
+p64
+sg34
+I514
+sa(dp65
+g32
+VThe Deaths of Ben Baxter
+p66
+sg34
+I23
+sa(dp67
+g32
+VA Wind Is Rising
 p68
+sg34
+I23
+sa(dp69
+g32
+VGrowing Up On Big Muddy
+p70
+sg34
+I121
 sasb.

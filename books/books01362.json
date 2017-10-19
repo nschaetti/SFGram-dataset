@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1970", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/1970-02_IF/1970-02_IF_jp2.zip&file=1970-02_IF_jp2/1970-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/8d/WOFIFFEB1970.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        356, 
+        667, 
+        47, 
+        63, 
+        651, 
+        225, 
+        1196, 
+        669, 
+        1197, 
+        666, 
+        694, 
+        918
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1362, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Pressure Vessel"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Matter of Recordings"
+        }, 
+        {
+            "author": 326, 
+            "title": "Prez"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Cube"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Game of Biochess"
+        }, 
+        {
+            "author": 499, 
+            "title": "Hired Man"
+        }, 
+        {
+            "author": 326, 
+            "title": "Fruit of the Vine"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dry Run"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whipping Star (Part 2 of 4)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, February 1970)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, February 1970)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, February 1970)"
+        }, 
+        {
+            "author": 47, 
+            "title": "Pressure Vessel"
+        }, 
+        {
+            "author": 63, 
+            "title": "Whipping Star (Part 2 of 4)"
+        }, 
+        {
+            "author": 651, 
+            "title": "A Matter of Recordings"
+        }, 
+        {
+            "author": 225, 
+            "title": "Prez"
+        }, 
+        {
+            "author": 1196, 
+            "title": "The Cube"
+        }, 
+        {
+            "author": 669, 
+            "title": "A Game of Biochess"
+        }, 
+        {
+            "author": 1197, 
+            "title": "Hired Man"
+        }, 
+        {
+            "author": 666, 
+            "title": "Fruit of the Vine"
+        }, 
+        {
+            "author": 694, 
+            "title": "Dry Run"
+        }
+    ]
+}

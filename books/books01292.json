@@ -1,0 +1,90 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1963", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/1963-07_IF/1963-07_IF_jp2.zip&file=1963-07_IF_jp2/1963-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a8/WOFIFJUL1963.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        499, 
+        581, 
+        497, 
+        341, 
+        1091, 
+        40, 
+        738, 
+        86, 
+        654, 
+        67, 
+        592, 
+        50, 
+        918
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1292, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Reefs of Space (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Mightiest Qorn"
+        }, 
+        {
+            "author": 581, 
+            "title": "In the Arena"
+        }, 
+        {
+            "author": 581, 
+            "title": "Down to the Worlds of Men"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Shadow of Wings"
+        }, 
+        {
+            "author": 341, 
+            "title": "That Notebook Again"
+        }, 
+        {
+            "author": 1091, 
+            "title": "Review of a Series of Nonfiction Books \"Men of Space\""
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, July 1963)"
+        }, 
+        {
+            "author": 738, 
+            "title": "Down to the Worlds of Men"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Reefs of Space (Part 1 of 3)"
+        }, 
+        {
+            "author": 654, 
+            "title": "The Faces Outside"
+        }, 
+        {
+            "author": 67, 
+            "title": "Mightiest Qorn"
+        }, 
+        {
+            "author": 592, 
+            "title": "In the Arena"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Shadow of Wings"
+        }
+    ]
+}

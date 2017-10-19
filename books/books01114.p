@@ -74,129 +74,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I545
-sg14
-VThe Palace of Love (Part 1 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I545
-sg14
-VThe Palace of Love (Part 1 of 3) [2]
-p34
-sa(dp35
-g10
-I497
-sg14
-VHow the Heroes Die
-p36
-sa(dp37
-g10
-I497
-sg14
-VHow the Heroes Die [2]
-p38
-sa(dp39
-g10
-I499
-sg14
-VA Recursion in Metastories
-p40
-sa(dp41
-g10
-I581
-sg14
-VThe Ship Who Killed
-p42
-sa(dp43
-g10
-I581
-sg14
-VThe Ship Who Killed [2]
-p44
-sa(dp45
-g10
-I499
-sg14
-VToo Many Esks
-p46
-sa(dp47
-g10
-I499
-sg14
-VToo Many Esks [2]
-p48
-sa(dp49
-g10
-I499
-sg14
-VToo Many Esks [3]
-p50
-sa(dp51
-g10
-I612
-sg14
-VPlanet of Fakers
-p52
-sa(dp53
-g10
-I40
-sg14
-VCauses
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: The Delayed Discovery
-p56
-sa(dp57
-g10
-I326
-sg14
-VForecast (Galaxy, October 1966)
-p58
-sa(dp59
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, October 1966)
-p60
-sa(dp61
-g10
-I604
-sg14
-VHow the Heroes Die
-p62
-sa(dp63
-g10
-I613
-sg14
-VThe Ship Who Killed
-p64
-sa(dp65
-g10
-I602
-sg14
-VToo Many Esks
-p66
-sa(dp67
-g10
-I384
-sg14
-VPlanet of Fakers
-p68
-sa(dp69
-g10
-I89
-sg14
 VThe Palace of Love (Part 1 of 3)
-p70
-sa(dp71
-g10
-I542
-sg14
+p33
+sS'author'
+p34
+I545
+sa(dp35
+g32
+VThe Palace of Love (Part 1 of 3) [2]
+p36
+sg34
+I545
+sa(dp37
+g32
+VHow the Heroes Die
+p38
+sg34
+I497
+sa(dp39
+g32
+VHow the Heroes Die [2]
+p40
+sg34
+I497
+sa(dp41
+g32
 VA Recursion in Metastories
+p42
+sg34
+I499
+sa(dp43
+g32
+VThe Ship Who Killed
+p44
+sg34
+I581
+sa(dp45
+g32
+VThe Ship Who Killed [2]
+p46
+sg34
+I581
+sa(dp47
+g32
+VToo Many Esks
+p48
+sg34
+I499
+sa(dp49
+g32
+VToo Many Esks [2]
+p50
+sg34
+I499
+sa(dp51
+g32
+VToo Many Esks [3]
+p52
+sg34
+I499
+sa(dp53
+g32
+VPlanet of Fakers
+p54
+sg34
+I612
+sa(dp55
+g32
+VCauses
+p56
+sg34
+I40
+sa(dp57
+g32
+VFor Your Information: The Delayed Discovery
+p58
+sg34
+I339
+sa(dp59
+g32
+VForecast (Galaxy, October 1966)
+p60
+sg34
+I326
+sa(dp61
+g32
+VGalaxy Bookshelf (Galaxy, October 1966)
+p62
+sg34
+I91
+sa(dp63
+g32
+VHow the Heroes Die
+p64
+sg34
+I604
+sa(dp65
+g32
+VThe Ship Who Killed
+p66
+sg34
+I613
+sa(dp67
+g32
+VToo Many Esks
+p68
+sg34
+I602
+sa(dp69
+g32
+VPlanet of Fakers
+p70
+sg34
+I384
+sa(dp71
+g32
+VThe Palace of Love (Part 1 of 3)
 p72
+sg34
+I89
+sa(dp73
+g32
+VA Recursion in Metastories
+p74
+sg34
+I542
 sasb.

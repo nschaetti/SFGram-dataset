@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I305
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I971
 aI974
 aI975
@@ -133,7 +130,12 @@ aI1119
 aI1122
 aI1126
 aI1188
-asS'name'
+aI1346
+aI1352
+asS'id'
+p10
+I305
+sS'name'
 p11
 VH. L. Gold
 p12

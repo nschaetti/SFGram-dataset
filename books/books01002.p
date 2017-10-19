@@ -70,183 +70,185 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I402
-sg14
-VThe Old Die Rich
+S'title'
 p32
-sa(dp33
-g10
-I402
-sg14
-VThe Old Die Rich [2]
-p34
-sa(dp35
-g10
-I402
-sg14
-VThe Old Die Rich [3]
-p36
-sa(dp37
-g10
-I402
-sg14
-VThe Old Die Rich [4]
-p38
-sa(dp39
-g10
-I402
-sg14
-VThe Old Die Rich [5]
-p40
-sa(dp41
-g10
-I402
-sg14
-VThe Old Die Rich [6]
-p42
-sa(dp43
-g10
-I402
-sg14
-VGames
-p44
-sa(dp45
-g10
-I402
-sg14
-VStudent Body
-p46
-sa(dp47
-g10
-I402
-sg14
-VStudent Body [2]
-p48
-sa(dp49
-g10
-I402
-sg14
-VStudent Body [3]
-p50
-sa(dp51
-g10
-I402
-sg14
-VStudent Body [4]
-p52
-sa(dp53
-g10
-I402
-sg14
-VStudent Body [5]
-p54
-sa(dp55
-g10
-I402
-sg14
-VStudent Body [6]
-p56
-sa(dp57
-g10
-I363
-sg14
-VSecret of the House
-p58
-sa(dp59
-g10
-I363
-sg14
-VThe Drop
-p60
-sa(dp61
-g10
-I363
-sg14
-VThe Drop [2]
-p62
-sa(dp63
-g10
-I363
-sg14
-VThe Drop [3]
-p64
-sa(dp65
-g10
-I326
-sg14
-VHorse Trader
-p66
-sa(dp67
-g10
-I326
-sg14
-VHorse Trader [2]
-p68
-sa(dp69
-g10
-I326
-sg14
-VHorse Trader [3]
-p70
-sa(dp71
-g10
-I305
-sg14
-VFor Writers Mostly
-p72
-sa(dp73
-g10
-I339
-sg14
-VFor Your Information: Ancestor of the Dinosaurs
-p74
-sa(dp75
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, March 1953)
-p76
-sa(dp77
-g10
-I326
-sg14
-VForecast (Galaxy, March 1953)
-p78
-sa(dp79
-g10
-I393
-sg14
-VStudent Body
-p80
-sa(dp81
-g10
-I30
-sg14
-VHorse Trader
-p82
-sa(dp83
-g10
-I305
-sg14
 VThe Old Die Rich
-p84
-sa(dp85
-g10
-I36
-sg14
+p33
+sS'author'
+p34
+I402
+sa(dp35
+g32
+VThe Old Die Rich [2]
+p36
+sg34
+I402
+sa(dp37
+g32
+VThe Old Die Rich [3]
+p38
+sg34
+I402
+sa(dp39
+g32
+VThe Old Die Rich [4]
+p40
+sg34
+I402
+sa(dp41
+g32
+VThe Old Die Rich [5]
+p42
+sg34
+I402
+sa(dp43
+g32
+VThe Old Die Rich [6]
+p44
+sg34
+I402
+sa(dp45
+g32
 VGames
-p86
-sa(dp87
-g10
-I125
-sg14
+p46
+sg34
+I402
+sa(dp47
+g32
+VStudent Body
+p48
+sg34
+I402
+sa(dp49
+g32
+VStudent Body [2]
+p50
+sg34
+I402
+sa(dp51
+g32
+VStudent Body [3]
+p52
+sg34
+I402
+sa(dp53
+g32
+VStudent Body [4]
+p54
+sg34
+I402
+sa(dp55
+g32
+VStudent Body [5]
+p56
+sg34
+I402
+sa(dp57
+g32
+VStudent Body [6]
+p58
+sg34
+I402
+sa(dp59
+g32
 VSecret of the House
-p88
-sa(dp89
-g10
-I359
-sg14
+p60
+sg34
+I363
+sa(dp61
+g32
 VThe Drop
+p62
+sg34
+I363
+sa(dp63
+g32
+VThe Drop [2]
+p64
+sg34
+I363
+sa(dp65
+g32
+VThe Drop [3]
+p66
+sg34
+I363
+sa(dp67
+g32
+VHorse Trader
+p68
+sg34
+I326
+sa(dp69
+g32
+VHorse Trader [2]
+p70
+sg34
+I326
+sa(dp71
+g32
+VHorse Trader [3]
+p72
+sg34
+I326
+sa(dp73
+g32
+VFor Writers Mostly
+p74
+sg34
+I305
+sa(dp75
+g32
+VFor Your Information: Ancestor of the Dinosaurs
+p76
+sg34
+I339
+sa(dp77
+g32
+VGalaxy's 5 Star Shelf (Galaxy, March 1953)
+p78
+sg34
+I340
+sa(dp79
+g32
+VForecast (Galaxy, March 1953)
+p80
+sg34
+I326
+sa(dp81
+g32
+VStudent Body
+p82
+sg34
+I393
+sa(dp83
+g32
+VHorse Trader
+p84
+sg34
+I30
+sa(dp85
+g32
+VThe Old Die Rich
+p86
+sg34
+I305
+sa(dp87
+g32
+VGames
+p88
+sg34
+I36
+sa(dp89
+g32
+VSecret of the House
 p90
+sg34
+I125
+sa(dp91
+g32
+VThe Drop
+p92
+sg34
+I359
 sasb.

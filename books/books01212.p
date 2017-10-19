@@ -72,141 +72,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I863
-sg14
-VShowcase (Galaxy, September 1978)
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VRescue Room
+VShowcase (Galaxy, September 1978)
+p33
+sS'author'
 p34
+I863
 sa(dp35
-g10
-I326
-sg14
-VThe Breath of the Lily
-p36
-sa(dp37
-g10
-I326
-sg14
-VThe Breath of the Lily [2]
-p38
-sa(dp39
-g10
-I871
-sg14
-VFearn
-p40
-sa(dp41
-g10
-I871
-sg14
-VFearn [2]
-p42
-sa(dp43
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 3 of 3)
-p44
-sa(dp45
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 3 of 3) [2]
-p46
-sa(dp47
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 3 of 3) [3]
-p48
-sa(dp49
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 3 of 3) [4]
-p50
-sa(dp51
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 3 of 3) [5]
-p52
-sa(dp53
-g10
-I863
-sg14
-VThe Dalmatian of Faust
-p54
-sa(dp55
-g10
-I863
-sg14
-VThe Dalmatian of Faust [2]
-p56
-sa(dp57
-g10
-I326
-sg14
-VS. F. Calendar (Galaxy, September 1978)
-p58
-sa(dp59
-g10
-I734
-sg14
-VWill There Be Stars in Our Crown?
-p60
-sa(dp61
-g10
-I844
-sg14
-VEditorial Matters (Galaxy, September 1978)
-p62
-sa(dp63
-g10
-I843
-sg14
-VGalaxy Bookshelf (Galaxy, September 1978)
-p64
-sa(dp65
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, September 1978)
-p66
-sa(dp67
-g10
-I872
-sg14
+g32
 VRescue Room
-p68
-sa(dp69
-g10
-I693
-sg14
-VThe Stars in Shroud (Part 3 of 3)
-p70
-sa(dp71
-g10
-I851
-sg14
+p36
+sg34
+I326
+sa(dp37
+g32
 VThe Breath of the Lily
-p72
-sa(dp73
-g10
-I873
-sg14
+p38
+sg34
+I326
+sa(dp39
+g32
+VThe Breath of the Lily [2]
+p40
+sg34
+I326
+sa(dp41
+g32
 VFearn
-p74
-sa(dp75
-g10
-I817
-sg14
+p42
+sg34
+I871
+sa(dp43
+g32
+VFearn [2]
+p44
+sg34
+I871
+sa(dp45
+g32
+VThe Stars in Shroud (Part 3 of 3)
+p46
+sg34
+I742
+sa(dp47
+g32
+VThe Stars in Shroud (Part 3 of 3) [2]
+p48
+sg34
+I742
+sa(dp49
+g32
+VThe Stars in Shroud (Part 3 of 3) [3]
+p50
+sg34
+I742
+sa(dp51
+g32
+VThe Stars in Shroud (Part 3 of 3) [4]
+p52
+sg34
+I742
+sa(dp53
+g32
+VThe Stars in Shroud (Part 3 of 3) [5]
+p54
+sg34
+I742
+sa(dp55
+g32
 VThe Dalmatian of Faust
+p56
+sg34
+I863
+sa(dp57
+g32
+VThe Dalmatian of Faust [2]
+p58
+sg34
+I863
+sa(dp59
+g32
+VS. F. Calendar (Galaxy, September 1978)
+p60
+sg34
+I326
+sa(dp61
+g32
+VWill There Be Stars in Our Crown?
+p62
+sg34
+I734
+sa(dp63
+g32
+VEditorial Matters (Galaxy, September 1978)
+p64
+sg34
+I844
+sa(dp65
+g32
+VGalaxy Bookshelf (Galaxy, September 1978)
+p66
+sg34
+I843
+sa(dp67
+g32
+VThe Alien Viewpoint (Galaxy, September 1978)
+p68
+sg34
+I767
+sa(dp69
+g32
+VRescue Room
+p70
+sg34
+I872
+sa(dp71
+g32
+VThe Stars in Shroud (Part 3 of 3)
+p72
+sg34
+I693
+sa(dp73
+g32
+VThe Breath of the Lily
+p74
+sg34
+I851
+sa(dp75
+g32
+VFearn
 p76
+sg34
+I873
+sa(dp77
+g32
+VThe Dalmatian of Faust
+p78
+sg34
+I817
 sasb.

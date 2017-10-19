@@ -71,141 +71,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I615
-sg14
-VEditorial: Sunpot
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VJamboree
+VEditorial: Sunpot
+p33
+sS'author'
 p34
+I615
 sa(dp35
-g10
-I326
-sg14
-VHalf Past Human
-p36
-sa(dp37
-g10
-I326
-sg14
-VHalf Past Human [2]
-p38
-sa(dp39
-g10
-I326
-sg14
-VHalf Past Human [3]
-p40
-sa(dp41
-g10
-I326
-sg14
-VHalf Past Human [4]
-p42
-sa(dp43
-g10
-I326
-sg14
-VEternity Calling
-p44
-sa(dp45
-g10
-I499
-sg14
-VThe Year of the Good Seed
-p46
-sa(dp47
-g10
-I499
-sg14
-VDownward to the Earth (Part 2 of 4)
-p48
-sa(dp49
-g10
-I499
-sg14
-VDownward to the Earth (Part 2 of 4) [2]
-p50
-sa(dp51
-g10
-I499
-sg14
-VOracle for a White Rabbit
-p52
-sa(dp53
-g10
-I326
-sg14
-VHorn of Plenty
-p54
-sa(dp55
-g10
-I667
-sg14
-VSunpot
-p56
-sa(dp57
-g10
-I326
-sg14
-VGalaxy's Stars (Galaxy, December 1969)
-p58
-sa(dp59
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, December 1969) (Circulation: 51,479)
-p60
-sa(dp61
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, December 1969)
-p62
-sa(dp63
-g10
-I668
-sg14
-VOracle for a White Rabbit
-p64
-sa(dp65
-g10
-I669
-sg14
-VHalf Past Human
-p66
-sa(dp67
-g10
-I50
-sg14
-VDownward to the Earth (Part 2 of 4)
-p68
-sa(dp69
-g10
-I86
-sg14
+g32
 VJamboree
-p70
-sa(dp71
-g10
-I670
-sg14
+p36
+sg34
+I326
+sa(dp37
+g32
+VHalf Past Human
+p38
+sg34
+I326
+sa(dp39
+g32
+VHalf Past Human [2]
+p40
+sg34
+I326
+sa(dp41
+g32
+VHalf Past Human [3]
+p42
+sg34
+I326
+sa(dp43
+g32
+VHalf Past Human [4]
+p44
+sg34
+I326
+sa(dp45
+g32
 VEternity Calling
-p72
-sa(dp73
-g10
-I591
-sg14
+p46
+sg34
+I326
+sa(dp47
+g32
 VThe Year of the Good Seed
-p74
-sa(dp75
-g10
-I671
-sg14
+p48
+sg34
+I499
+sa(dp49
+g32
+VDownward to the Earth (Part 2 of 4)
+p50
+sg34
+I499
+sa(dp51
+g32
+VDownward to the Earth (Part 2 of 4) [2]
+p52
+sg34
+I499
+sa(dp53
+g32
+VOracle for a White Rabbit
+p54
+sg34
+I499
+sa(dp55
+g32
 VHorn of Plenty
+p56
+sg34
+I326
+sa(dp57
+g32
+VSunpot
+p58
+sg34
+I667
+sa(dp59
+g32
+VGalaxy's Stars (Galaxy, December 1969)
+p60
+sg34
+I326
+sa(dp61
+g32
+VStatement of Ownership (Galaxy, December 1969) (Circulation: 51,479)
+p62
+sg34
+I326
+sa(dp63
+g32
+VGalaxy Bookshelf (Galaxy, December 1969)
+p64
+sg34
+I91
+sa(dp65
+g32
+VOracle for a White Rabbit
+p66
+sg34
+I668
+sa(dp67
+g32
+VHalf Past Human
+p68
+sg34
+I669
+sa(dp69
+g32
+VDownward to the Earth (Part 2 of 4)
+p70
+sg34
+I50
+sa(dp71
+g32
+VJamboree
+p72
+sg34
+I86
+sa(dp73
+g32
+VEternity Calling
+p74
+sg34
+I670
+sa(dp75
+g32
+VThe Year of the Good Seed
 p76
+sg34
+I591
+sa(dp77
+g32
+VHorn of Plenty
+p78
+sg34
+I671
 sasb.

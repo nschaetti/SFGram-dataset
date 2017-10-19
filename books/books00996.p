@@ -74,171 +74,173 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I342
-sg14
-VDelay in Transit
+S'title'
 p32
-sa(dp33
-g10
-I342
-sg14
-VDelay in Transit [2]
-p34
-sa(dp35
-g10
-I342
-sg14
-VDelay in Transit [3]
-p36
-sa(dp37
-g10
-I342
-sg14
-VDelay in Transit [4]
-p38
-sa(dp39
-g10
-I363
-sg14
-VThe Snowball Effect
-p40
-sa(dp41
-g10
-I363
-sg14
-VToday Is Forever
-p42
-sa(dp43
-g10
-I363
-sg14
-VThe Moons of Mars
-p44
-sa(dp45
-g10
-I363
-sg14
-VThe Moons of Mars [2]
-p46
-sa(dp47
-g10
-I402
-sg14
-VTea Tray in the Sky
-p48
-sa(dp49
-g10
-I402
-sg14
-VTea Tray in the Sky [2]
-p50
-sa(dp51
-g10
-I402
-sg14
-VTea Tray in the Sky [3]
-p52
-sa(dp53
-g10
-I402
-sg14
-VTea Tray in the Sky [4]
-p54
-sa(dp55
-g10
-I352
-sg14
-VThe Mousetrap
-p56
-sa(dp57
-g10
-I402
-sg14
-VThe Altruist
-p58
-sa(dp59
-g10
-I402
-sg14
-VThe Altruist [2]
-p60
-sa(dp61
-g10
-I402
-sg14
-VThe Altruist [3]
-p62
-sa(dp63
-g10
-I402
-sg14
-VThe Altruist [4]
-p64
-sa(dp65
-g10
-I305
-sg14
-VOn Heroes
-p66
-sa(dp67
-g10
-I326
-sg14
-VForecast (Galaxy, September 1952)
-p68
-sa(dp69
-g10
-I404
-sg14
-VFor Your Information: Space Travel
-p70
-sa(dp71
-g10
-I340
-sg14
-VGalaxy's Five Star Shelf (Galaxy, September 1952)
-p72
-sa(dp73
-g10
-I393
-sg14
 VDelay in Transit
-p74
-sa(dp75
-g10
-I136
-sg14
-VThe Altruist
-p76
-sa(dp77
-g10
-I36
-sg14
+p33
+sS'author'
+p34
+I342
+sa(dp35
+g32
+VDelay in Transit [2]
+p36
+sg34
+I342
+sa(dp37
+g32
+VDelay in Transit [3]
+p38
+sg34
+I342
+sa(dp39
+g32
+VDelay in Transit [4]
+p40
+sg34
+I342
+sa(dp41
+g32
 VThe Snowball Effect
-p78
-sa(dp79
-g10
-I400
-sg14
+p42
+sg34
+I363
+sa(dp43
+g32
 VToday Is Forever
-p80
-sa(dp81
-g10
-I237
-sg14
+p44
+sg34
+I363
+sa(dp45
+g32
 VThe Moons of Mars
-p82
-sa(dp83
-g10
-I172
-sg14
+p46
+sg34
+I363
+sa(dp47
+g32
+VThe Moons of Mars [2]
+p48
+sg34
+I363
+sa(dp49
+g32
 VTea Tray in the Sky
-p84
-sa(dp85
-g10
-I315
-sg14
+p50
+sg34
+I402
+sa(dp51
+g32
+VTea Tray in the Sky [2]
+p52
+sg34
+I402
+sa(dp53
+g32
+VTea Tray in the Sky [3]
+p54
+sg34
+I402
+sa(dp55
+g32
+VTea Tray in the Sky [4]
+p56
+sg34
+I402
+sa(dp57
+g32
 VThe Mousetrap
+p58
+sg34
+I352
+sa(dp59
+g32
+VThe Altruist
+p60
+sg34
+I402
+sa(dp61
+g32
+VThe Altruist [2]
+p62
+sg34
+I402
+sa(dp63
+g32
+VThe Altruist [3]
+p64
+sg34
+I402
+sa(dp65
+g32
+VThe Altruist [4]
+p66
+sg34
+I402
+sa(dp67
+g32
+VOn Heroes
+p68
+sg34
+I305
+sa(dp69
+g32
+VForecast (Galaxy, September 1952)
+p70
+sg34
+I326
+sa(dp71
+g32
+VFor Your Information: Space Travel
+p72
+sg34
+I404
+sa(dp73
+g32
+VGalaxy's Five Star Shelf (Galaxy, September 1952)
+p74
+sg34
+I340
+sa(dp75
+g32
+VDelay in Transit
+p76
+sg34
+I393
+sa(dp77
+g32
+VThe Altruist
+p78
+sg34
+I136
+sa(dp79
+g32
+VThe Snowball Effect
+p80
+sg34
+I36
+sa(dp81
+g32
+VToday Is Forever
+p82
+sg34
+I400
+sa(dp83
+g32
+VThe Moons of Mars
+p84
+sg34
+I237
+sa(dp85
+g32
+VTea Tray in the Sky
 p86
+sg34
+I172
+sa(dp87
+g32
+VThe Mousetrap
+p88
+sg34
+I315
 sasb.

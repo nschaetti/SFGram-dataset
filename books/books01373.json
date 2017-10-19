@@ -1,0 +1,107 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1971", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/1971-10_IF/1971-10_IF_jp2.zip&file=1971-10_IF_jp2/1971-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/91/WOFIFSEPOCT1971.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        1213, 
+        1214, 
+        667, 
+        356, 
+        597, 
+        1215, 
+        345, 
+        16, 
+        67, 
+        1192, 
+        1165, 
+        677, 
+        918
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1373, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Stainless Steel Rat Saves the World"
+        }, 
+        {
+            "author": 499, 
+            "title": "The All-Together Planet"
+        }, 
+        {
+            "author": 326, 
+            "title": "To Kill a Venusian"
+        }, 
+        {
+            "author": 326, 
+            "title": "One Moment On the Sand"
+        }, 
+        {
+            "author": 499, 
+            "title": "After the End and Before the Beginning"
+        }, 
+        {
+            "author": 1213, 
+            "title": "Death Comes to the Megafauna"
+        }, 
+        {
+            "author": 1214, 
+            "title": "A"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, September-October 1971)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, September-October 1971)"
+        }, 
+        {
+            "author": 597, 
+            "title": "Review of the Nonfiction Work \"Astronomy\""
+        }, 
+        {
+            "author": 1215, 
+            "title": "Review of the Nonfiction Work \"Lunar Atlas\""
+        }, 
+        {
+            "author": 345, 
+            "title": "Death Comes to the Megafauna"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, September-October 1971)"
+        }, 
+        {
+            "author": 16, 
+            "title": "The Stainless Steel Rat Saves the World"
+        }, 
+        {
+            "author": 67, 
+            "title": "The All-Together Planet"
+        }, 
+        {
+            "author": 1192, 
+            "title": "To Kill a Venusian"
+        }, 
+        {
+            "author": 1165, 
+            "title": "One Moment On the Sand"
+        }, 
+        {
+            "author": 677, 
+            "title": "After the End and Before the Beginning"
+        }
+    ]
+}

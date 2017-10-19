@@ -1,0 +1,79 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1965", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1965-04_IF/1965-04_IF_jp2.zip&file=1965-04_IF_jp2/1965-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4f/WOFIFAPR1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        581, 
+        499, 
+        40, 
+        111, 
+        608, 
+        1113, 
+        546, 
+        561, 
+        1114, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1306, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Altar at Asconel (Part 1 of 2)"
+        }, 
+        {
+            "author": 581, 
+            "title": "Across the Sea of Darkness"
+        }, 
+        {
+            "author": 581, 
+            "title": "Gree's Hellcats"
+        }, 
+        {
+            "author": 499, 
+            "title": "White Fang Goes Dingo"
+        }, 
+        {
+            "author": 40, 
+            "title": "\" What You Do Once-\""
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, April 1965}"
+        }, 
+        {
+            "author": 111, 
+            "title": "Gree's Hellcats"
+        }, 
+        {
+            "author": 608, 
+            "title": "White Fang Goes Dingo"
+        }, 
+        {
+            "author": 1113, 
+            "title": "Across the Sea of Darkness"
+        }, 
+        {
+            "author": 546, 
+            "title": "The Altar at Asconel (Part 1 of 2)"
+        }, 
+        {
+            "author": 561, 
+            "title": "What T and I Did"
+        }, 
+        {
+            "author": 1114, 
+            "title": "Our Martian Neighbors"
+        }
+    ]
+}

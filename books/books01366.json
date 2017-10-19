@@ -1,0 +1,130 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1970", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/1970-07-08_IF/1970-07-08_IF_jp2.zip&file=1970-07-08_IF_jp2/1970-07-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fb/WOFIFJULAUG1970.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        1202, 
+        356, 
+        663, 
+        668, 
+        651, 
+        660, 
+        617, 
+        1201, 
+        225, 
+        558, 
+        1200, 
+        918
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1366, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Second-Hand Stonehenge"
+        }, 
+        {
+            "author": 499, 
+            "title": "Second-Hand Stonehenge [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Fifth Planet"
+        }, 
+        {
+            "author": 326, 
+            "title": "Time Piece"
+        }, 
+        {
+            "author": 499, 
+            "title": "Equals Four"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Communication Machine"
+        }, 
+        {
+            "author": 499, 
+            "title": "What's Become of Screwloose? And Other Inquiries (Frontispiece)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Grandfather Pelts"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Misspelled Magician (Part 2 of 2)"
+        }, 
+        {
+            "author": 1202, 
+            "title": "The Misspelled Magician (Part 2 of 2)"
+        }, 
+        {
+            "author": 1202, 
+            "title": "The Misspelled Magician (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dark, Dark, the Dead Star"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, July-August 1970)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, July-August 1970)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, July-August 1970)"
+        }, 
+        {
+            "author": 663, 
+            "title": "Second-Hand Stonehenge"
+        }, 
+        {
+            "author": 668, 
+            "title": "The Misspelled Magician (Part 2 of 2)"
+        }, 
+        {
+            "author": 651, 
+            "title": "The Fifth Planet"
+        }, 
+        {
+            "author": 660, 
+            "title": "Time Piece"
+        }, 
+        {
+            "author": 617, 
+            "title": "Equals Four"
+        }, 
+        {
+            "author": 1201, 
+            "title": "The Communication Machine"
+        }, 
+        {
+            "author": 225, 
+            "title": "What's Become of Screwloose?"
+        }, 
+        {
+            "author": 558, 
+            "title": "Grandfather Pelts"
+        }, 
+        {
+            "author": 1200, 
+            "title": "Dark, Dark, the Dead Star"
+        }
+    ]
+}

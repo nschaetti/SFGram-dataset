@@ -2,7 +2,8 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1126
+        1126, 
+        1347
     ], 
     "id": 633, 
     "name": "Todd"

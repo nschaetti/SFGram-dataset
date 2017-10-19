@@ -1,0 +1,107 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1968", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/1968-01_IF/1968-01_IF_jp2.zip&file=1968-01_IF_jp2/1968-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/08/WOFIFJAN1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        545, 
+        499, 
+        40, 
+        1125, 
+        1158, 
+        326, 
+        639, 
+        1159, 
+        1067, 
+        704, 
+        996, 
+        561, 
+        591, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1339, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Peacemakers"
+        }, 
+        {
+            "author": 545, 
+            "title": "From Distant Earth"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Taste of Money"
+        }, 
+        {
+            "author": 499, 
+            "title": "Rogue's Gambit"
+        }, 
+        {
+            "author": 499, 
+            "title": "Starsong"
+        }, 
+        {
+            "author": 545, 
+            "title": "All Judgment Fled (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "He That Moves"
+        }, 
+        {
+            "author": 40, 
+            "title": "On Doing Better"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Foreign Fandom"
+        }, 
+        {
+            "author": 1158, 
+            "title": "Interstellar Travel and Eternal Life"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, January 1968)"
+        }, 
+        {
+            "author": 639, 
+            "title": "The Peacemakers"
+        }, 
+        {
+            "author": 1159, 
+            "title": "The Taste of Money"
+        }, 
+        {
+            "author": 1067, 
+            "title": "Rogue's Gambit"
+        }, 
+        {
+            "author": 704, 
+            "title": "All Judgment Fled (Part 2 of 3)"
+        }, 
+        {
+            "author": 996, 
+            "title": "From Distant Earth"
+        }, 
+        {
+            "author": 561, 
+            "title": "Starsong"
+        }, 
+        {
+            "author": 591, 
+            "title": "He That Moves"
+        }
+    ]
+}

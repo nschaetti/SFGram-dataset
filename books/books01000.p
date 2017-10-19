@@ -74,141 +74,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VThe Defenders
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VThe Defenders [2]
-p34
-sa(dp35
-g10
-I363
-sg14
-VThe Defenders [3]
-p36
-sa(dp37
-g10
-I419
-sg14
-VTeething Ring
-p38
-sa(dp39
-g10
-I419
-sg14
-VLife Sentence
-p40
-sa(dp41
-g10
-I402
-sg14
-VThe Inhabited
-p42
-sa(dp43
-g10
-I402
-sg14
-VThe Inhabited [2]
-p44
-sa(dp45
-g10
-I402
-sg14
-VThe Inhabited [3]
-p46
-sa(dp47
-g10
-I420
-sg14
-VPrott
-p48
-sa(dp49
-g10
-I342
-sg14
-VRing Around the Sun (Part 2 of 3)
-p50
-sa(dp51
-g10
-I342
-sg14
-VRing Around the Sun (Part 2 of 3) [2]
-p52
-sa(dp53
-g10
-I342
-sg14
-VRing Around the Sun (Part 2 of 3) [3]
-p54
-sa(dp55
-g10
-I342
-sg14
-VRing Around the Sun (Part 2 of 3) [4]
-p56
-sa(dp57
-g10
-I305
-sg14
-VCommon Sense
-p58
-sa(dp59
-g10
-I339
-sg14
-VFor Your Information: Ice Age (Ii)
-p60
-sa(dp61
-g10
-I340
-sg14
-VGalaxy's Five Star Shelf (Galaxy, January 1953)
-p62
-sa(dp63
-g10
-I326
-sg14
-VForecast (Galaxy, January 1953)
-p64
-sa(dp65
-g10
-I8
-sg14
 VThe Defenders
-p66
-sa(dp67
-g10
-I217
-sg14
-VThe Inhabited
-p68
-sa(dp69
-g10
-I56
-sg14
-VRing Around the Sun (Part 2 of 3)
-p70
-sa(dp71
-g10
-I421
-sg14
+p33
+sS'author'
+p34
+I363
+sa(dp35
+g32
+VThe Defenders [2]
+p36
+sg34
+I363
+sa(dp37
+g32
+VThe Defenders [3]
+p38
+sg34
+I363
+sa(dp39
+g32
 VTeething Ring
-p72
-sa(dp73
-g10
-I422
-sg14
+p40
+sg34
+I419
+sa(dp41
+g32
 VLife Sentence
-p74
-sa(dp75
-g10
-I423
-sg14
+p42
+sg34
+I419
+sa(dp43
+g32
+VThe Inhabited
+p44
+sg34
+I402
+sa(dp45
+g32
+VThe Inhabited [2]
+p46
+sg34
+I402
+sa(dp47
+g32
+VThe Inhabited [3]
+p48
+sg34
+I402
+sa(dp49
+g32
 VPrott
+p50
+sg34
+I420
+sa(dp51
+g32
+VRing Around the Sun (Part 2 of 3)
+p52
+sg34
+I342
+sa(dp53
+g32
+VRing Around the Sun (Part 2 of 3) [2]
+p54
+sg34
+I342
+sa(dp55
+g32
+VRing Around the Sun (Part 2 of 3) [3]
+p56
+sg34
+I342
+sa(dp57
+g32
+VRing Around the Sun (Part 2 of 3) [4]
+p58
+sg34
+I342
+sa(dp59
+g32
+VCommon Sense
+p60
+sg34
+I305
+sa(dp61
+g32
+VFor Your Information: Ice Age (Ii)
+p62
+sg34
+I339
+sa(dp63
+g32
+VGalaxy's Five Star Shelf (Galaxy, January 1953)
+p64
+sg34
+I340
+sa(dp65
+g32
+VForecast (Galaxy, January 1953)
+p66
+sg34
+I326
+sa(dp67
+g32
+VThe Defenders
+p68
+sg34
+I8
+sa(dp69
+g32
+VThe Inhabited
+p70
+sg34
+I217
+sa(dp71
+g32
+VRing Around the Sun (Part 2 of 3)
+p72
+sg34
+I56
+sa(dp73
+g32
+VTeething Ring
+p74
+sg34
+I421
+sa(dp75
+g32
+VLife Sentence
 p76
+sg34
+I422
+sa(dp77
+g32
+VPrott
+p78
+sg34
+I423
 sasb.

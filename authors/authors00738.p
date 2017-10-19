@@ -10,18 +10,19 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I738
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I1173
-asS'name'
+aI1292
+asS'id'
+p10
+I738
+sS'name'
 p11
 VAlexei Panshin
 p12

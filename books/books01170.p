@@ -69,87 +69,89 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VWeb of Everywhere (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VThe Hook, the Eye and the Whip
-p34
-sa(dp35
-g10
-I326
-sg14
-VA Typical Day
-p36
-sa(dp37
-g10
-I499
-sg14
-VInfidel of Five Temples
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Durable Man
-p40
-sa(dp41
-g10
-I570
-sg14
-VThe Ba
-p42
-sa(dp43
-g10
-I499
-sg14
-VInverted World (Part 4 of 4)
-p44
-sa(dp45
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, March 1974)
-p46
-sa(dp47
-g10
-I675
-sg14
-VThe Hook, the Eye and the Whip
-p48
-sa(dp49
-g10
-I732
-sg14
-VInfidel of Five Temples
-p50
-sa(dp51
-g10
-I546
-sg14
 VWeb of Everywhere (Part 1 of 2)
-p52
-sa(dp53
-g10
-I725
-sg14
-VInverted World (Part 4 of 4)
-p54
-sa(dp55
-g10
-I722
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
+VThe Hook, the Eye and the Whip
+p36
+sg34
+I499
+sa(dp37
+g32
 VA Typical Day
-p56
-sa(dp57
-g10
-I733
-sg14
+p38
+sg34
+I326
+sa(dp39
+g32
+VInfidel of Five Temples
+p40
+sg34
+I499
+sa(dp41
+g32
 VThe Durable Man
+p42
+sg34
+I499
+sa(dp43
+g32
+VThe Ba
+p44
+sg34
+I570
+sa(dp45
+g32
+VInverted World (Part 4 of 4)
+p46
+sg34
+I499
+sa(dp47
+g32
+VGalaxy Bookshelf (Galaxy, March 1974)
+p48
+sg34
+I341
+sa(dp49
+g32
+VThe Hook, the Eye and the Whip
+p50
+sg34
+I675
+sa(dp51
+g32
+VInfidel of Five Temples
+p52
+sg34
+I732
+sa(dp53
+g32
+VWeb of Everywhere (Part 1 of 2)
+p54
+sg34
+I546
+sa(dp55
+g32
+VInverted World (Part 4 of 4)
+p56
+sg34
+I725
+sa(dp57
+g32
+VA Typical Day
 p58
+sg34
+I722
+sa(dp59
+g32
+VThe Durable Man
+p60
+sg34
+I733
 sasb.

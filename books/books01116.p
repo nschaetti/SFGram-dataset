@@ -74,135 +74,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VOur Man in Peking
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VOur Man in Peking [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VOur Man in Peking [3]
-p36
-sa(dp37
-g10
-I499
-sg14
-VOur Man in Peking [4]
-p38
-sa(dp39
-g10
-I615
-sg14
-VThey Hilariated When I Hyperspaced for Earth
-p40
-sa(dp41
-g10
-I615
-sg14
-VThey Hilariated When I Hyperspaced for Earth [2]
-p42
-sa(dp43
-g10
-I615
-sg14
-VThey Hilariated When I Hyperspaced for Earth [3]
-p44
-sa(dp45
-g10
-I615
-sg14
-VThey Hilariated When I Hyperspaced for Earth [4]
-p46
-sa(dp47
-g10
-I545
-sg14
-VThe Palace of Love (Part 3 of 3)
-p48
-sa(dp49
-g10
-I545
-sg14
-VThe Palace of Love (Part 3 of 3) [2]
-p50
-sa(dp51
-g10
-I40
-sg14
-VMore About Being Bad
-p52
-sa(dp53
-g10
-I339
-sg14
-VFor Your Information: Who Invented the Crossbow?
-p54
-sa(dp55
-g10
-I326
-sg14
-VForecast (Galaxy, February 1967)
-p56
-sa(dp57
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, February 1967)
-p58
-sa(dp59
-g10
-I217
-sg14
-VThey Hilariated When I Hyperspaced for Earth
-p60
-sa(dp61
-g10
-I602
-sg14
 VOur Man in Peking
-p62
-sa(dp63
-g10
-I89
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VOur Man in Peking [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VOur Man in Peking [3]
+p38
+sg34
+I499
+sa(dp39
+g32
+VOur Man in Peking [4]
+p40
+sg34
+I499
+sa(dp41
+g32
+VThey Hilariated When I Hyperspaced for Earth
+p42
+sg34
+I615
+sa(dp43
+g32
+VThey Hilariated When I Hyperspaced for Earth [2]
+p44
+sg34
+I615
+sa(dp45
+g32
+VThey Hilariated When I Hyperspaced for Earth [3]
+p46
+sg34
+I615
+sa(dp47
+g32
+VThey Hilariated When I Hyperspaced for Earth [4]
+p48
+sg34
+I615
+sa(dp49
+g32
 VThe Palace of Love (Part 3 of 3)
+p50
+sg34
+I545
+sa(dp51
+g32
+VThe Palace of Love (Part 3 of 3) [2]
+p52
+sg34
+I545
+sa(dp53
+g32
+VMore About Being Bad
+p54
+sg34
+I40
+sa(dp55
+g32
+VFor Your Information: Who Invented the Crossbow?
+p56
+sg34
+I339
+sa(dp57
+g32
+VForecast (Galaxy, February 1967)
+p58
+sg34
+I326
+sa(dp59
+g32
+VGalaxy Bookshelf (Galaxy, February 1967)
+p60
+sg34
+I91
+sa(dp61
+g32
+VThey Hilariated When I Hyperspaced for Earth
+p62
+sg34
+I217
+sa(dp63
+g32
+VOur Man in Peking
 p64
+sg34
+I602
 sa(dp65
-g10
-I8
-sg14
-VReturn Match
+g32
+VThe Palace of Love (Part 3 of 3)
 p66
+sg34
+I89
 sa(dp67
-g10
-I158
-sg14
-VThe Last Filibuster
+g32
+VReturn Match
 p68
+sg34
+I8
 sa(dp69
-g10
-I81
-sg14
-VThe Trojan Bombardment
+g32
+VThe Last Filibuster
 p70
+sg34
+I158
 sa(dp71
-g10
-I74
-sg14
-VThus We Frustrate Charlemagne
+g32
+VThe Trojan Bombardment
 p72
+sg34
+I81
 sa(dp73
-g10
-I608
-sg14
-VThe Discovery of the Nullitron
+g32
+VThus We Frustrate Charlemagne
 p74
+sg34
+I74
+sa(dp75
+g32
+VThe Discovery of the Nullitron
+p76
+sg34
+I608
 sasb.

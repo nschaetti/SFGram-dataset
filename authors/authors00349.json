@@ -2,7 +2,9 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        976
+        976, 
+        1220, 
+        1230
     ], 
     "id": 349, 
     "name": "Sam Merwin, Jr."

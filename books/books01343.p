@@ -1,0 +1,166 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1968
+sS'title'
+p14
+VIF Magazine May 1968
+p15
+sS'cover'
+p16
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/1968-05_IF_modified/1968-05_IF_modified_jp2.zip&file=1968-05_IF_modified_jp2/1968-05_IF_modified_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/1/16/WOFIFMAY1968.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I625
+aI626
+aI1164
+aI624
+aI499
+aI30
+aI1125
+aI326
+aI40
+aI1116
+aI418
+aI111
+aI50
+aI591
+aI1165
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1343
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I625
+sg14
+VWhere the Subbs Go
+p32
+sa(dp33
+g10
+I626
+sg14
+VDismal Light
+p34
+sa(dp35
+g10
+I1164
+sg14
+VCenotaph
+p36
+sa(dp37
+g10
+I624
+sg14
+VThe Creatures of Man
+p38
+sa(dp39
+g10
+I499
+sg14
+VThe Man in the Maze (Part 2 of 2)
+p40
+sa(dp41
+g10
+I30
+sg14
+VGuest Editorial: Limiting Factor
+p42
+sa(dp43
+g10
+I1125
+sg14
+VNew Currents in Fandom
+p44
+sa(dp45
+g10
+I326
+sg14
+VSf Calendar (If, May 1968)
+p46
+sa(dp47
+g10
+I40
+sg14
+VHue and Cry (If, May 1968)
+p48
+sa(dp49
+g10
+I1116
+sg14
+VCenotaph
+p50
+sa(dp51
+g10
+I418
+sg14
+VThe Creatures of Man
+p52
+sa(dp53
+g10
+I111
+sg14
+VWhere the Subbs Go
+p54
+sa(dp55
+g10
+I50
+sg14
+VThe Man in the Maze (Part 2 of 2)
+p56
+sa(dp57
+g10
+I591
+sg14
+VDismal Light
+p58
+sa(dp59
+g10
+I1165
+sg14
+VPast Touch-the-Sky Mountain
+p60
+sasb.

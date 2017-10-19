@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1969", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/1969-10_IF/1969-10_IF_jp2.zip&file=1969-10_IF_jp2/1969-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/de/WOFIFOCT1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        667, 
+        339, 
+        356, 
+        40, 
+        63, 
+        617, 
+        386, 
+        1154, 
+        67, 
+        638, 
+        1191, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1358, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Mind Bomb"
+        }, 
+        {
+            "author": 326, 
+            "title": "By Right of Succession"
+        }, 
+        {
+            "author": 499, 
+            "title": "None but I"
+        }, 
+        {
+            "author": 326, 
+            "title": "Survival"
+        }, 
+        {
+            "author": 326, 
+            "title": "Down On the Farm"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Seeds of Gonyl (Part 1 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "To the Last Rite!"
+        }, 
+        {
+            "author": 667, 
+            "title": "Editor's Page (If, October 1969)"
+        }, 
+        {
+            "author": 339, 
+            "title": "The Story of Our Earth: 2. The First Traces of Life"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, October 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, October 1969)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Machines That Teach"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, October 1969)"
+        }, 
+        {
+            "author": 63, 
+            "title": "The Mind Bomb"
+        }, 
+        {
+            "author": 617, 
+            "title": "None but I"
+        }, 
+        {
+            "author": 386, 
+            "title": "Down On the Farm"
+        }, 
+        {
+            "author": 1154, 
+            "title": "To the Last Rite!"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Seeds of Gonyl (Part 1 of 3)"
+        }, 
+        {
+            "author": 638, 
+            "title": "By Right of Succession"
+        }, 
+        {
+            "author": 1191, 
+            "title": "Survival"
+        }
+    ]
+}

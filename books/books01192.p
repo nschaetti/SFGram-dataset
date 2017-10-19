@@ -73,195 +73,197 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I784
-sg14
-VShowcase (Galaxy, May 1976)
+S'title'
 p32
-sa(dp33
-g10
-I742
-sg14
-VThe Hand of Oberon (Part 1 of 3)
+VShowcase (Galaxy, May 1976)
+p33
+sS'author'
 p34
-sa(dp35
-g10
-I742
-sg14
-VThe Hand of Oberon (Part 1 of 3) [2]
-p36
-sa(dp37
-g10
-I742
-sg14
-VThe Hand of Oberon (Part 1 of 3) [3]
-p38
-sa(dp39
-g10
-I742
-sg14
-VThe Hand of Oberon (Part 1 of 3) [4]
-p40
-sa(dp41
-g10
-I499
-sg14
-VBeaver Tears
-p42
-sa(dp43
-g10
-I499
-sg14
-VBeaver Tears [2]
-p44
-sa(dp45
-g10
-I499
-sg14
-VBeaver Tears [3]
-p46
-sa(dp47
-g10
-I326
-sg14
-VBlueprint for Survival
-p48
-sa(dp49
-g10
 I784
-sg14
-VHexapedia
-p50
-sa(dp51
-g10
-I742
-sg14
-VOverdrawn at the Memory Bank
-p52
-sa(dp53
-g10
-I742
-sg14
-VOverdrawn at the Memory Bank [2]
-p54
-sa(dp55
-g10
-I742
-sg14
-VOverdrawn at the Memory Bank [3]
-p56
-sa(dp57
-g10
-I499
-sg14
-VOpening Night
-p58
-sa(dp59
-g10
-I499
-sg14
-VOpening Night [2]
-p60
-sa(dp61
-g10
-I326
-sg14
-VWant Ad
-p62
-sa(dp63
-g10
-I326
-sg14
-VWant Ad [2]
-p64
-sa(dp65
-g10
-I780
-sg14
-VDeviation From a Theme
-p66
-sa(dp67
-g10
-I742
-sg14
-VI'm Going Through the Door
-p68
-sa(dp69
-g10
-I742
-sg14
-VI'm Going Through the Door [2]
-p70
-sa(dp71
-g10
-I326
-sg14
-VS. F. Calendar (Galaxy, May 1976)
-p72
-sa(dp73
-g10
-I734
-sg14
-VBlueprint for Survival
-p74
-sa(dp75
-g10
-I770
-sg14
-VBookshelf (Galaxy, May 1976)
-p76
-sa(dp77
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, May 1976)
-p78
-sa(dp79
-g10
-I326
-sg14
-VDirections (Galaxy, May 1976)
-p80
-sa(dp81
-g10
-I797
-sg14
-VOverdrawn at the Memory Bank
-p82
-sa(dp83
-g10
-I591
-sg14
+sa(dp35
+g32
 VThe Hand of Oberon (Part 1 of 3)
-p84
-sa(dp85
-g10
-I645
-sg14
+p36
+sg34
+I742
+sa(dp37
+g32
+VThe Hand of Oberon (Part 1 of 3) [2]
+p38
+sg34
+I742
+sa(dp39
+g32
+VThe Hand of Oberon (Part 1 of 3) [3]
+p40
+sg34
+I742
+sa(dp41
+g32
+VThe Hand of Oberon (Part 1 of 3) [4]
+p42
+sg34
+I742
+sa(dp43
+g32
 VBeaver Tears
-p86
-sa(dp87
-g10
-I803
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
+VBeaver Tears [2]
+p46
+sg34
+I499
+sa(dp47
+g32
+VBeaver Tears [3]
+p48
+sg34
+I499
+sa(dp49
+g32
+VBlueprint for Survival
+p50
+sg34
+I326
+sa(dp51
+g32
+VHexapedia
+p52
+sg34
+I784
+sa(dp53
+g32
+VOverdrawn at the Memory Bank
+p54
+sg34
+I742
+sa(dp55
+g32
+VOverdrawn at the Memory Bank [2]
+p56
+sg34
+I742
+sa(dp57
+g32
+VOverdrawn at the Memory Bank [3]
+p58
+sg34
+I742
+sa(dp59
+g32
 VOpening Night
-p88
-sa(dp89
-g10
-I770
-sg14
+p60
+sg34
+I499
+sa(dp61
+g32
+VOpening Night [2]
+p62
+sg34
+I499
+sa(dp63
+g32
 VWant Ad
-p90
-sa(dp91
-g10
-I741
-sg14
+p64
+sg34
+I326
+sa(dp65
+g32
+VWant Ad [2]
+p66
+sg34
+I326
+sa(dp67
+g32
 VDeviation From a Theme
-p92
-sa(dp93
-g10
-I638
-sg14
+p68
+sg34
+I780
+sa(dp69
+g32
 VI'm Going Through the Door
+p70
+sg34
+I742
+sa(dp71
+g32
+VI'm Going Through the Door [2]
+p72
+sg34
+I742
+sa(dp73
+g32
+VS. F. Calendar (Galaxy, May 1976)
+p74
+sg34
+I326
+sa(dp75
+g32
+VBlueprint for Survival
+p76
+sg34
+I734
+sa(dp77
+g32
+VBookshelf (Galaxy, May 1976)
+p78
+sg34
+I770
+sa(dp79
+g32
+VThe Alien Viewpoint (Galaxy, May 1976)
+p80
+sg34
+I767
+sa(dp81
+g32
+VDirections (Galaxy, May 1976)
+p82
+sg34
+I326
+sa(dp83
+g32
+VOverdrawn at the Memory Bank
+p84
+sg34
+I797
+sa(dp85
+g32
+VThe Hand of Oberon (Part 1 of 3)
+p86
+sg34
+I591
+sa(dp87
+g32
+VBeaver Tears
+p88
+sg34
+I645
+sa(dp89
+g32
+VOpening Night
+p90
+sg34
+I803
+sa(dp91
+g32
+VWant Ad
+p92
+sg34
+I770
+sa(dp93
+g32
+VDeviation From a Theme
 p94
+sg34
+I741
+sa(dp95
+g32
+VI'm Going Through the Door
+p96
+sg34
+I638
 sasb.

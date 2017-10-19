@@ -74,135 +74,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VSea Legs
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VSea Legs [2]
+VSea Legs
+p33
+sS'author'
 p34
-sa(dp35
-g10
 I363
-sg14
-VSea Legs [3]
+sa(dp35
+g32
+VSea Legs [2]
 p36
+sg34
+I363
 sa(dp37
-g10
-I377
-sg14
-VTiger
+g32
+VSea Legs [3]
 p38
+sg34
+I363
 sa(dp39
-g10
-I378
-sg14
+g32
 VTiger
 p40
+sg34
+I377
 sa(dp41
-g10
-I367
-sg14
-VZeritsky's Law
+g32
+VTiger
 p42
+sg34
+I378
 sa(dp43
-g10
-I366
-sg14
-VSelf Portrait
-p44
-sa(dp45
-g10
-I366
-sg14
-VSelf Portrait [2]
-p46
-sa(dp47
-g10
-I366
-sg14
-VSelf Portrait [3]
-p48
-sa(dp49
-g10
-I336
-sg14
-VPsychotennis, Anyone?
-p50
-sa(dp51
-g10
-I342
-sg14
-VThe Puppet Masters (Part 3 of 3)
-p52
-sa(dp53
-g10
-I342
-sg14
-VThe Puppet Masters (Part 3 of 3) [2]
-p54
-sa(dp55
-g10
-I342
-sg14
-VThe Puppet Masters (Part 3 of 3) [3]
-p56
-sa(dp57
-g10
-I342
-sg14
-VThe Puppet Masters (Part 3 of 3) [4]
-p58
-sa(dp59
-g10
-I305
-sg14
-VStep Outside
-p60
-sa(dp61
-g10
-I340
-sg14
-VGalaxy's Five Star Shelf (Galaxy, November 1951)
-p62
-sa(dp63
-g10
-I379
-sg14
-VReview of the Nonfiction Work "Nature's Ways"
-p64
-sa(dp65
-g10
-I249
-sg14
-VSea Legs
-p66
-sa(dp67
-g10
-I380
-sg14
-VSelf Portrait
-p68
-sa(dp69
-g10
-I371
-sg14
-VThe Puppet Masters (Part 3 of 3)
-p70
-sa(dp71
-g10
-I298
-sg14
+g32
 VZeritsky's Law
-p72
-sa(dp73
-g10
-I381
-sg14
+p44
+sg34
+I367
+sa(dp45
+g32
+VSelf Portrait
+p46
+sg34
+I366
+sa(dp47
+g32
+VSelf Portrait [2]
+p48
+sg34
+I366
+sa(dp49
+g32
+VSelf Portrait [3]
+p50
+sg34
+I366
+sa(dp51
+g32
 VPsychotennis, Anyone?
+p52
+sg34
+I336
+sa(dp53
+g32
+VThe Puppet Masters (Part 3 of 3)
+p54
+sg34
+I342
+sa(dp55
+g32
+VThe Puppet Masters (Part 3 of 3) [2]
+p56
+sg34
+I342
+sa(dp57
+g32
+VThe Puppet Masters (Part 3 of 3) [3]
+p58
+sg34
+I342
+sa(dp59
+g32
+VThe Puppet Masters (Part 3 of 3) [4]
+p60
+sg34
+I342
+sa(dp61
+g32
+VStep Outside
+p62
+sg34
+I305
+sa(dp63
+g32
+VGalaxy's Five Star Shelf (Galaxy, November 1951)
+p64
+sg34
+I340
+sa(dp65
+g32
+VReview of the Nonfiction Work "Nature's Ways"
+p66
+sg34
+I379
+sa(dp67
+g32
+VSea Legs
+p68
+sg34
+I249
+sa(dp69
+g32
+VSelf Portrait
+p70
+sg34
+I380
+sa(dp71
+g32
+VThe Puppet Masters (Part 3 of 3)
+p72
+sg34
+I371
+sa(dp73
+g32
+VZeritsky's Law
 p74
+sg34
+I298
+sa(dp75
+g32
+VPsychotennis, Anyone?
+p76
+sg34
+I381
 sasb.

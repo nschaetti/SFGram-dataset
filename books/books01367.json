@@ -1,0 +1,112 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1970", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/1970-09-10_IF/1970-09-10_IF_jp2.zip&file=1970-09-10_IF_jp2/1970-09-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/cc/WOFIFSEPOCT1970.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        356, 
+        67, 
+        1203, 
+        49, 
+        1204, 
+        693, 
+        651, 
+        205, 
+        711, 
+        918
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1367, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Fimbulsommer"
+        }, 
+        {
+            "author": 326, 
+            "title": "Fimbulsommer [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Guardians"
+        }, 
+        {
+            "author": 499, 
+            "title": "Ballots and Bandits"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Quintopods"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Seventh Man"
+        }, 
+        {
+            "author": 499, 
+            "title": "Life Cycle"
+        }, 
+        {
+            "author": 326, 
+            "title": "Of Relays and Roses"
+        }, 
+        {
+            "author": 326, 
+            "title": "Of Relays and Roses [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, September-October 1970)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, September-October 1970)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, September-October 1970)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Ballots and Bandits"
+        }, 
+        {
+            "author": 1203, 
+            "title": "The Seventh Man"
+        }, 
+        {
+            "author": 49, 
+            "title": "Fimbulsommer"
+        }, 
+        {
+            "author": 1204, 
+            "title": "The Guardians"
+        }, 
+        {
+            "author": 693, 
+            "title": "3:02 P.M., Oxford"
+        }, 
+        {
+            "author": 651, 
+            "title": "The Quintopods"
+        }, 
+        {
+            "author": 205, 
+            "title": "Life Cycle"
+        }, 
+        {
+            "author": 711, 
+            "title": "Of Relays and Roses"
+        }
+    ]
+}

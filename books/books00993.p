@@ -72,147 +72,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I342
-sg14
-VGravy Planet (Part 1 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I342
-sg14
-VGravy Planet (Part 1 of 3) [2]
-p34
-sa(dp35
-g10
-I342
-sg14
-VGravy Planet (Part 1 of 3) [3]
-p36
-sa(dp37
-g10
-I342
-sg14
-VGravy Planet (Part 1 of 3) [4]
-p38
-sa(dp39
-g10
-I342
-sg14
-VGravy Planet (Part 1 of 3) [5]
-p40
-sa(dp41
-g10
-I398
-sg14
-VThe Highest Mountain
-p42
-sa(dp43
-g10
-I363
-sg14
-VOrphans of the Void
-p44
-sa(dp45
-g10
-I363
-sg14
-VOrphans of the Void [2]
-p46
-sa(dp47
-g10
-I363
-sg14
-VOrphans of the Void [3]
-p48
-sa(dp49
-g10
-I363
-sg14
-VShipping Clerk
-p50
-sa(dp51
-g10
-I363
-sg14
-VThe Hoaxters
-p52
-sa(dp53
-g10
-I363
-sg14
-VThe Hoaxters [2]
-p54
-sa(dp55
-g10
-I363
-sg14
-VThe Hoaxters [3]
-p56
-sa(dp57
-g10
-I363
-sg14
-VThe Luckiest Man in Denv
-p58
-sa(dp59
-g10
-I305
-sg14
-VRandom Notes
-p60
-sa(dp61
-g10
-I326
-sg14
-VForecast (Galaxy, June 1952)
-p62
-sa(dp63
-g10
-I339
-sg14
-VFor Your Information (Galaxy, June 1952)
-p64
-sa(dp65
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, June 1952)
-p66
-sa(dp67
-g10
-I243
-sg14
-VOrphans of the Void
-p68
-sa(dp69
-g10
-I217
-sg14
-VThe Hoaxters
-p70
-sa(dp71
-g10
-I40
-sg14
 VGravy Planet (Part 1 of 3)
-p72
-sa(dp73
-g10
-I88
-sg14
+p33
+sS'author'
+p34
+I342
+sa(dp35
+g32
+VGravy Planet (Part 1 of 3) [2]
+p36
+sg34
+I342
+sa(dp37
+g32
+VGravy Planet (Part 1 of 3) [3]
+p38
+sg34
+I342
+sa(dp39
+g32
+VGravy Planet (Part 1 of 3) [4]
+p40
+sg34
+I342
+sa(dp41
+g32
+VGravy Planet (Part 1 of 3) [5]
+p42
+sg34
+I342
+sa(dp43
+g32
 VThe Highest Mountain
-p74
-sa(dp75
-g10
-I387
-sg14
+p44
+sg34
+I398
+sa(dp45
+g32
+VOrphans of the Void
+p46
+sg34
+I363
+sa(dp47
+g32
+VOrphans of the Void [2]
+p48
+sg34
+I363
+sa(dp49
+g32
+VOrphans of the Void [3]
+p50
+sg34
+I363
+sa(dp51
+g32
 VShipping Clerk
-p76
-sa(dp77
-g10
-I51
-sg14
+p52
+sg34
+I363
+sa(dp53
+g32
+VThe Hoaxters
+p54
+sg34
+I363
+sa(dp55
+g32
+VThe Hoaxters [2]
+p56
+sg34
+I363
+sa(dp57
+g32
+VThe Hoaxters [3]
+p58
+sg34
+I363
+sa(dp59
+g32
 VThe Luckiest Man in Denv
+p60
+sg34
+I363
+sa(dp61
+g32
+VRandom Notes
+p62
+sg34
+I305
+sa(dp63
+g32
+VForecast (Galaxy, June 1952)
+p64
+sg34
+I326
+sa(dp65
+g32
+VFor Your Information (Galaxy, June 1952)
+p66
+sg34
+I339
+sa(dp67
+g32
+VGalaxy's 5 Star Shelf (Galaxy, June 1952)
+p68
+sg34
+I340
+sa(dp69
+g32
+VOrphans of the Void
+p70
+sg34
+I243
+sa(dp71
+g32
+VThe Hoaxters
+p72
+sg34
+I217
+sa(dp73
+g32
+VGravy Planet (Part 1 of 3)
+p74
+sg34
+I40
+sa(dp75
+g32
+VThe Highest Mountain
+p76
+sg34
+I88
+sa(dp77
+g32
+VShipping Clerk
 p78
+sg34
+I387
+sa(dp79
+g32
+VThe Luckiest Man in Denv
+p80
+sg34
+I51
 sasb.

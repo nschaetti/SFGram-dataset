@@ -1,0 +1,113 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1953", 
+    "cover": "https://ia801305.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/1953-09_IF/1953-09_IF_jp2.zip&file=1953-09_IF_jp2/1953-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/visco/Magazines/WIF123/WIF1_0004.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        363, 
+        964, 
+        956, 
+        424, 
+        965, 
+        966, 
+        952, 
+        326, 
+        953, 
+        188, 
+        55, 
+        8, 
+        616, 
+        967, 
+        968, 
+        918
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1227, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "The Rings of Saturn"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Case of Conscience"
+        }, 
+        {
+            "author": 964, 
+            "title": "The Trouble with Bubbles"
+        }, 
+        {
+            "author": 956, 
+            "title": "Planet of Dreams"
+        }, 
+        {
+            "author": 424, 
+            "title": "Thy Rocks and Rills"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Romantic Analogue"
+        }, 
+        {
+            "author": 965, 
+            "title": "In the Forest"
+        }, 
+        {
+            "author": 951, 
+            "title": "Titan"
+        }, 
+        {
+            "author": 966, 
+            "title": "A Chat with the Editor (If, September 1953)"
+        }, 
+        {
+            "author": 952, 
+            "title": "Personalities in Science: Guglielmo Marconi"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, September 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh (If, September 1953)"
+        }, 
+        {
+            "author": 953, 
+            "title": "Letter (If, September 1953): Wide Margin for Error"
+        }, 
+        {
+            "author": 188, 
+            "title": "Thy Rocks and Rills"
+        }, 
+        {
+            "author": 55, 
+            "title": "A Case of Conscience"
+        }, 
+        {
+            "author": 8, 
+            "title": "The Trouble with Bubbles"
+        }, 
+        {
+            "author": 616, 
+            "title": "Planet of Dreams"
+        }, 
+        {
+            "author": 967, 
+            "title": "The Romantic Analogue"
+        }, 
+        {
+            "author": 968, 
+            "title": "In the Forest"
+        }
+    ]
+}

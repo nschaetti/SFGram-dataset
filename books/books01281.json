@@ -1,0 +1,93 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1961", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/1961-09_IF/1961-09_IF_jp2.zip&file=1961-09_IF_jp2/1961-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d6/WOFIFSEP1961.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        1068, 
+        560, 
+        341, 
+        67, 
+        168, 
+        220, 
+        356, 
+        94, 
+        1072, 
+        153, 
+        121, 
+        918
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1281, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Frozen Planet"
+        }, 
+        {
+            "author": 1068, 
+            "title": "Tolliver's Orbit"
+        }, 
+        {
+            "author": 560, 
+            "title": "The Valley of the Masters"
+        }, 
+        {
+            "author": 560, 
+            "title": "Call Him Nemesis"
+        }, 
+        {
+            "author": 341, 
+            "title": "Monoliths and Miracles"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, September 1961)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, September 1961)"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Frozen Planet"
+        }, 
+        {
+            "author": 168, 
+            "title": "Call Him Nemesis"
+        }, 
+        {
+            "author": 220, 
+            "title": "Mirror Image"
+        }, 
+        {
+            "author": 356, 
+            "title": "Spawning Ground"
+        }, 
+        {
+            "author": 94, 
+            "title": "Tolliver's Orbit"
+        }, 
+        {
+            "author": 1072, 
+            "title": "The Valley of the Masters"
+        }, 
+        {
+            "author": 153, 
+            "title": "The Girls From Fieu Dayol"
+        }, 
+        {
+            "author": 121, 
+            "title": "Lorelei"
+        }
+    ]
+}

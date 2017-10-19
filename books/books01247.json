@@ -1,0 +1,108 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1955", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/1955-10_IF/1955-10_IF_jp2.zip&file=1955-10_IF_jp2/1955-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fe/WOFIFOCT1955.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        956, 
+        363, 
+        412, 
+        1013, 
+        153, 
+        443, 
+        376, 
+        1020, 
+        942, 
+        441, 
+        918
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1247, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Returning to Space Station"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Almost-Men"
+        }, 
+        {
+            "author": 363, 
+            "title": "Prisoners of Earth"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Proxies"
+        }, 
+        {
+            "author": 363, 
+            "title": "Juvenile Delinquent"
+        }, 
+        {
+            "author": 412, 
+            "title": "Slow Burn"
+        }, 
+        {
+            "author": 956, 
+            "title": "Last Rites"
+        }, 
+        {
+            "author": 363, 
+            "title": "Meeting of the Board"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, October 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, October 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, October 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, October 1955)"
+        }, 
+        {
+            "author": 1013, 
+            "title": "The Almost-Men"
+        }, 
+        {
+            "author": 153, 
+            "title": "Prisoners of Earth"
+        }, 
+        {
+            "author": 443, 
+            "title": "The Proxies"
+        }, 
+        {
+            "author": 376, 
+            "title": "Juvenile Delinquent"
+        }, 
+        {
+            "author": 1020, 
+            "title": "Slow Burn"
+        }, 
+        {
+            "author": 942, 
+            "title": "Last Rites"
+        }, 
+        {
+            "author": 441, 
+            "title": "Meeting of the Board"
+        }
+    ]
+}

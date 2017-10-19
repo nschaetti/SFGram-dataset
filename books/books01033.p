@@ -74,123 +74,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I471
-sg14
-VA Ticket to Tranai
+S'title'
 p32
-sa(dp33
-g10
-I471
-sg14
-VA Ticket to Tranai [2]
-p34
-sa(dp35
-g10
-I471
-sg14
-VA Ticket to Tranai [3]
-p36
-sa(dp37
-g10
-I476
-sg14
-VThe Discovery of Morniel Mathaway
-p38
-sa(dp39
-g10
-I474
-sg14
-VBolden's Pets
-p40
-sa(dp41
-g10
-I471
-sg14
-VJack of No Trades
-p42
-sa(dp43
-g10
-I477
-sg14
-VThe Lights On Precipice Peak
-p44
-sa(dp45
-g10
-I427
-sg14
-VThe Game of Rat and Dragon
-p46
-sa(dp47
-g10
-I427
-sg14
-VThe Game of Rat and Dragon [2]
-p48
-sa(dp49
-g10
-I427
-sg14
-VThe Game of Rat and Dragon [3]
-p50
-sa(dp51
-g10
-I305
-sg14
-VHit or Myth?
-p52
-sa(dp53
-g10
-I326
-sg14
-VForecast (Galaxy, October 1955)
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: The How of Space Travel
-p56
-sa(dp57
-g10
-I340
-sg14
-VGalaxy's Five Star Shelf (Galaxy, October 1955)
-p58
-sa(dp59
-g10
-I23
-sg14
 VA Ticket to Tranai
-p60
-sa(dp61
-g10
-I393
-sg14
-VBolden's Pets
-p62
-sa(dp63
-g10
-I172
-sg14
-VJack of No Trades
-p64
-sa(dp65
-g10
-I98
-sg14
+p33
+sS'author'
+p34
+I471
+sa(dp35
+g32
+VA Ticket to Tranai [2]
+p36
+sg34
+I471
+sa(dp37
+g32
+VA Ticket to Tranai [3]
+p38
+sg34
+I471
+sa(dp39
+g32
 VThe Discovery of Morniel Mathaway
-p66
-sa(dp67
-g10
-I478
-sg14
+p40
+sg34
+I476
+sa(dp41
+g32
+VBolden's Pets
+p42
+sg34
+I474
+sa(dp43
+g32
+VJack of No Trades
+p44
+sg34
+I471
+sa(dp45
+g32
 VThe Lights On Precipice Peak
-p68
-sa(dp69
-g10
-I479
-sg14
+p46
+sg34
+I477
+sa(dp47
+g32
 VThe Game of Rat and Dragon
+p48
+sg34
+I427
+sa(dp49
+g32
+VThe Game of Rat and Dragon [2]
+p50
+sg34
+I427
+sa(dp51
+g32
+VThe Game of Rat and Dragon [3]
+p52
+sg34
+I427
+sa(dp53
+g32
+VHit or Myth?
+p54
+sg34
+I305
+sa(dp55
+g32
+VForecast (Galaxy, October 1955)
+p56
+sg34
+I326
+sa(dp57
+g32
+VFor Your Information: The How of Space Travel
+p58
+sg34
+I339
+sa(dp59
+g32
+VGalaxy's Five Star Shelf (Galaxy, October 1955)
+p60
+sg34
+I340
+sa(dp61
+g32
+VA Ticket to Tranai
+p62
+sg34
+I23
+sa(dp63
+g32
+VBolden's Pets
+p64
+sg34
+I393
+sa(dp65
+g32
+VJack of No Trades
+p66
+sg34
+I172
+sa(dp67
+g32
+VThe Discovery of Morniel Mathaway
+p68
+sg34
+I98
+sa(dp69
+g32
+VThe Lights On Precipice Peak
 p70
+sg34
+I478
+sa(dp71
+g32
+VThe Game of Rat and Dragon
+p72
+sg34
+I479
 sasb.

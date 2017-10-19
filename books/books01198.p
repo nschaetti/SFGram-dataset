@@ -72,135 +72,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I780
-sg14
-VShowcase (Galaxy, March 1977)
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VThey Who Go Down to the Sea
+VShowcase (Galaxy, March 1977)
+p33
+sS'author'
 p34
+I780
 sa(dp35
-g10
-I326
-sg14
-VThey Who Go Down to the Sea [2]
-p36
-sa(dp37
-g10
-I326
-sg14
-VInterstellar Probes and Starships
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Tides of Time
-p40
-sa(dp41
-g10
-I499
-sg14
-VThe Tides of Time [2]
-p42
-sa(dp43
-g10
-I806
-sg14
-VGateway (Part 3 of 3)
-p44
-sa(dp45
-g10
-I806
-sg14
-VGateway (Part 3 of 3) [2]
-p46
-sa(dp47
-g10
-I806
-sg14
-VGateway (Part 3 of 3) [3]
-p48
-sa(dp49
-g10
-I742
-sg14
-VThe Wallad Blonde
-p50
-sa(dp51
-g10
-I742
-sg14
-VThe Wallad Blonde [2]
-p52
-sa(dp53
-g10
-I742
-sg14
-VNo Renewal
-p54
-sa(dp55
-g10
-I326
-sg14
-VS. F. Calendar (Galaxy, March 1977)
-p56
-sa(dp57
-g10
-I579
-sg14
-VInterstellar Probes and Starships
-p58
-sa(dp59
-g10
-I734
-sg14
-VPromises and a Potpourri
-p60
-sa(dp61
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, March 1977)
-p62
-sa(dp63
-g10
-I326
-sg14
-VDirections (Galaxy, March 1977)
-p64
-sa(dp65
-g10
-I789
-sg14
+g32
 VThey Who Go Down to the Sea
-p66
-sa(dp67
-g10
-I761
-sg14
-VThe Wallad Blonde
-p68
-sa(dp69
-g10
-I40
-sg14
-VGateway (Part 3 of 3)
-p70
-sa(dp71
-g10
-I696
-sg14
+p36
+sg34
+I326
+sa(dp37
+g32
+VThey Who Go Down to the Sea [2]
+p38
+sg34
+I326
+sa(dp39
+g32
+VInterstellar Probes and Starships
+p40
+sg34
+I326
+sa(dp41
+g32
 VThe Tides of Time
-p72
-sa(dp73
-g10
-I770
-sg14
+p42
+sg34
+I499
+sa(dp43
+g32
+VThe Tides of Time [2]
+p44
+sg34
+I499
+sa(dp45
+g32
+VGateway (Part 3 of 3)
+p46
+sg34
+I806
+sa(dp47
+g32
+VGateway (Part 3 of 3) [2]
+p48
+sg34
+I806
+sa(dp49
+g32
+VGateway (Part 3 of 3) [3]
+p50
+sg34
+I806
+sa(dp51
+g32
+VThe Wallad Blonde
+p52
+sg34
+I742
+sa(dp53
+g32
+VThe Wallad Blonde [2]
+p54
+sg34
+I742
+sa(dp55
+g32
 VNo Renewal
+p56
+sg34
+I742
+sa(dp57
+g32
+VS. F. Calendar (Galaxy, March 1977)
+p58
+sg34
+I326
+sa(dp59
+g32
+VInterstellar Probes and Starships
+p60
+sg34
+I579
+sa(dp61
+g32
+VPromises and a Potpourri
+p62
+sg34
+I734
+sa(dp63
+g32
+VThe Alien Viewpoint (Galaxy, March 1977)
+p64
+sg34
+I767
+sa(dp65
+g32
+VDirections (Galaxy, March 1977)
+p66
+sg34
+I326
+sa(dp67
+g32
+VThey Who Go Down to the Sea
+p68
+sg34
+I789
+sa(dp69
+g32
+VThe Wallad Blonde
+p70
+sg34
+I761
+sa(dp71
+g32
+VGateway (Part 3 of 3)
+p72
+sg34
+I40
+sa(dp73
+g32
+VThe Tides of Time
 p74
+sg34
+I696
+sa(dp75
+g32
+VNo Renewal
+p76
+sg34
+I770
 sasb.

@@ -74,129 +74,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I640
-sg14
-VLittle Blue Hawk
+S'title'
 p32
-sa(dp33
-g10
-I640
-sg14
-VLittle Blue Hawk [2]
-p34
-sa(dp35
-g10
-I640
-sg14
-VLittle Blue Hawk [3]
-p36
-sa(dp37
-g10
-I650
-sg14
-VA Man Spekith
-p38
-sa(dp39
-g10
-I650
-sg14
-VA Man Spekith [2]
-p40
-sa(dp41
-g10
-I499
-sg14
-VAnd Now They Wake (Part 3 of 3)
-p42
-sa(dp43
-g10
-I499
-sg14
-VAnd Now They Wake (Part 3 of 3) [2]
-p44
-sa(dp45
-g10
-I499
-sg14
-VAnd Now They Wake (Part 3 of 3) [3]
-p46
-sa(dp47
-g10
-I40
-sg14
-VThe Littleness of Earth and the Bigness of Man
-p48
-sa(dp49
-g10
-I339
-sg14
-VFor Your Information: Max Valier and the Rocket-Propelled Airplane
-p50
-sa(dp51
-g10
-I326
-sg14
-VForecast (Galaxy, May 1969)
-p52
-sa(dp53
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, May 1969)
-p54
-sa(dp55
-g10
-I326
-sg14
-VGalaxy's Stars (Galaxy, May 1969)
-p56
-sa(dp57
-g10
-I217
-sg14
-VA Man Spekith
-p58
-sa(dp59
-g10
-I577
-sg14
 VLittle Blue Hawk
-p60
-sa(dp61
-g10
-I67
-sg14
+p33
+sS'author'
+p34
+I640
+sa(dp35
+g32
+VLittle Blue Hawk [2]
+p36
+sg34
+I640
+sa(dp37
+g32
+VLittle Blue Hawk [3]
+p38
+sg34
+I640
+sa(dp39
+g32
+VA Man Spekith
+p40
+sg34
+I650
+sa(dp41
+g32
+VA Man Spekith [2]
+p42
+sg34
+I650
+sa(dp43
+g32
 VAnd Now They Wake (Part 3 of 3)
+p44
+sg34
+I499
+sa(dp45
+g32
+VAnd Now They Wake (Part 3 of 3) [2]
+p46
+sg34
+I499
+sa(dp47
+g32
+VAnd Now They Wake (Part 3 of 3) [3]
+p48
+sg34
+I499
+sa(dp49
+g32
+VThe Littleness of Earth and the Bigness of Man
+p50
+sg34
+I40
+sa(dp51
+g32
+VFor Your Information: Max Valier and the Rocket-Propelled Airplane
+p52
+sg34
+I339
+sa(dp53
+g32
+VForecast (Galaxy, May 1969)
+p54
+sg34
+I326
+sa(dp55
+g32
+VGalaxy Bookshelf (Galaxy, May 1969)
+p56
+sg34
+I91
+sa(dp57
+g32
+VGalaxy's Stars (Galaxy, May 1969)
+p58
+sg34
+I326
+sa(dp59
+g32
+VA Man Spekith
+p60
+sg34
+I217
+sa(dp61
+g32
+VLittle Blue Hawk
 p62
+sg34
+I577
 sa(dp63
-g10
-I651
-sg14
-VThe Open Secrets
+g32
+VAnd Now They Wake (Part 3 of 3)
 p64
+sg34
+I67
 sa(dp65
-g10
-I621
-sg14
-VStar Dream
+g32
+VThe Open Secrets
 p66
+sg34
+I651
 sa(dp67
-g10
-I652
-sg14
-VColoured Element
+g32
+VStar Dream
 p68
+sg34
+I621
 sa(dp69
-g10
-I653
-sg14
-VKillerbot!
+g32
+VColoured Element
 p70
+sg34
+I652
 sa(dp71
-g10
-I654
-sg14
-VThe Man Inside
+g32
+VKillerbot!
 p72
+sg34
+I653
+sa(dp73
+g32
+VThe Man Inside
+p74
+sg34
+I654
 sasb.

@@ -1,0 +1,82 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1971", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/1971-08_IF/1971-08_IF_jp2.zip&file=1971-08_IF_jp2/1971-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/aa/WOFIFJULAUG1971.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        667, 
+        356, 
+        326, 
+        341, 
+        1212, 
+        514, 
+        588, 
+        74, 
+        918
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1372, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Occam's Scalpel"
+        }, 
+        {
+            "author": 499, 
+            "title": "To Seek Another"
+        }, 
+        {
+            "author": 499, 
+            "title": "Boomer Flats"
+        }, 
+        {
+            "author": 499, 
+            "title": "Arnten of Ultima Thule"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Fabulous Riverboat (Part 2 of 2)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, July-August 1971)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, July-August 1971)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, July-August 1971)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Occam's Scalpel"
+        }, 
+        {
+            "author": 1212, 
+            "title": "To Seek Another"
+        }, 
+        {
+            "author": 514, 
+            "title": "Arnten of Ultima Thule"
+        }, 
+        {
+            "author": 588, 
+            "title": "The Fabulous Riverboat (Part 2 of 2)"
+        }, 
+        {
+            "author": 74, 
+            "title": "Boomer Flats"
+        }
+    ]
+}

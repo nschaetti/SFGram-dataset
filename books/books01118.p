@@ -74,129 +74,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VTo Outlive Eternity (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VTo Outlive Eternity (Part 1 of 2) [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VTo Outlive Eternity (Part 1 of 2) [3]
-p36
-sa(dp37
-g10
-I476
-sg14
-VSpare That Tree
-p38
-sa(dp39
-g10
-I476
-sg14
-VSpare That Tree [2]
-p40
-sa(dp41
-g10
-I497
-sg14
-VThe Adults
-p42
-sa(dp43
-g10
-I497
-sg14
-VThe Adults [2]
-p44
-sa(dp45
-g10
-I497
-sg14
-VThe Adults [3]
-p46
-sa(dp47
-g10
-I497
-sg14
-VThe Adults [4]
-p48
-sa(dp49
-g10
-I40
-sg14
-VThe Dismal Science
-p50
-sa(dp51
-g10
-I339
-sg14
-VFor Your Information: Another Look at Atlantis
-p52
-sa(dp53
-g10
-I326
-sg14
-VForecast (Galaxy, June 1967)
-p54
-sa(dp55
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, June 1967)
-p56
-sa(dp57
-g10
-I111
-sg14
-VSpare That Tree
-p58
-sa(dp59
-g10
-I604
-sg14
-VThe Adults
-p60
-sa(dp61
-g10
-I30
-sg14
 VTo Outlive Eternity (Part 1 of 2)
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VTo Outlive Eternity (Part 1 of 2) [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VTo Outlive Eternity (Part 1 of 2) [3]
+p38
+sg34
+I499
+sa(dp39
+g32
+VSpare That Tree
+p40
+sg34
+I476
+sa(dp41
+g32
+VSpare That Tree [2]
+p42
+sg34
+I476
+sa(dp43
+g32
+VThe Adults
+p44
+sg34
+I497
+sa(dp45
+g32
+VThe Adults [2]
+p46
+sg34
+I497
+sa(dp47
+g32
+VThe Adults [3]
+p48
+sg34
+I497
+sa(dp49
+g32
+VThe Adults [4]
+p50
+sg34
+I497
+sa(dp51
+g32
+VThe Dismal Science
+p52
+sg34
+I40
+sa(dp53
+g32
+VFor Your Information: Another Look at Atlantis
+p54
+sg34
+I339
+sa(dp55
+g32
+VForecast (Galaxy, June 1967)
+p56
+sg34
+I326
+sa(dp57
+g32
+VGalaxy Bookshelf (Galaxy, June 1967)
+p58
+sg34
+I91
+sa(dp59
+g32
+VSpare That Tree
+p60
+sg34
+I111
+sa(dp61
+g32
+VThe Adults
 p62
+sg34
+I604
 sa(dp63
-g10
-I618
-sg14
-VMirror of Ice
+g32
+VTo Outlive Eternity (Part 1 of 2)
 p64
+sg34
+I30
 sa(dp65
-g10
-I74
-sg14
-VPolity and Custom of the Camiroi
+g32
+VMirror of Ice
 p66
+sg34
+I618
 sa(dp67
-g10
-I591
-sg14
-VThe Man Who Loved the Faioli
+g32
+VPolity and Custom of the Camiroi
 p68
+sg34
+I74
 sa(dp69
-g10
-I142
-sg14
-VHowling Day
+g32
+VThe Man Who Loved the Faioli
 p70
+sg34
+I591
 sa(dp71
-g10
-I121
-sg14
-VAlien's Bequest
+g32
+VHowling Day
 p72
+sg34
+I142
+sa(dp73
+g32
+VAlien's Bequest
+p74
+sg34
+I121
 sasb.

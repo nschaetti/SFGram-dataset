@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1959", 
+    "cover": "https://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/1959-11_IF/1959-11_IF_jp2.zip&file=1959-11_IF_jp2/1959-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/80/WOFIFNOV1959.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        363, 
+        40, 
+        1051, 
+        1052, 
+        1053, 
+        1054, 
+        1055, 
+        1056, 
+        1057, 
+        555, 
+        384, 
+        493, 
+        470, 
+        1058, 
+        1049, 
+        391, 
+        918
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 1270, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "If You Wish"
+        }, 
+        {
+            "author": 363, 
+            "title": "Not Snow nor Rain"
+        }, 
+        {
+            "author": 326, 
+            "title": "Return of a Prodigal"
+        }, 
+        {
+            "author": 326, 
+            "title": "Orange"
+        }, 
+        {
+            "author": 40, 
+            "title": "Worlds of If (If, November 1959)"
+        }, 
+        {
+            "author": 1051, 
+            "title": "Review of the Nonfiction Work \"the Abc of Relativity\""
+        }, 
+        {
+            "author": 1052, 
+            "title": "Review of the Nonfiction Work \"the Mentality of Apes\""
+        }, 
+        {
+            "author": 1053, 
+            "title": "Review of the Nonfiction Work \"Energy for Man\""
+        }, 
+        {
+            "author": 1054, 
+            "title": "Review of the Nonfiction Work \"a Pictorial Anthology of Witchcraft, Magic and Alchemy\""
+        }, 
+        {
+            "author": 1055, 
+            "title": "Review of the Nonfiction Work \"World in Crisis\""
+        }, 
+        {
+            "author": 1056, 
+            "title": "Review of the Nonfiction Work \"the Earth Beneath the Sea\""
+        }, 
+        {
+            "author": 1057, 
+            "title": "Review of the Nonfiction Work \"the Calendar for the Modern Age\""
+        }, 
+        {
+            "author": 555, 
+            "title": "If You Wish"
+        }, 
+        {
+            "author": 384, 
+            "title": "Return of a Prodigal"
+        }, 
+        {
+            "author": 493, 
+            "title": "Orange"
+        }, 
+        {
+            "author": 470, 
+            "title": "Not Snow nor Rain"
+        }, 
+        {
+            "author": 1058, 
+            "title": "Good-"
+        }, 
+        {
+            "author": 1049, 
+            "title": "The Gelzek Business"
+        }, 
+        {
+            "author": 391, 
+            "title": "Counterweight"
+        }
+    ]
+}

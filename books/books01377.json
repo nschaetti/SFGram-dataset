@@ -1,0 +1,87 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1972", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/1972-06_IF/1972-06_IF_jp2.zip&file=1972-06_IF_jp2/1972-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c6/WOFIFMAYJUN1972.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        635, 
+        326, 
+        356, 
+        667, 
+        693, 
+        603, 
+        1219, 
+        1220, 
+        664, 
+        918
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1377, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "In the Ocean of Night"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Dwarfs of Zwergwelt"
+        }, 
+        {
+            "author": 499, 
+            "title": "The War Machine"
+        }, 
+        {
+            "author": 499, 
+            "title": "Caravan"
+        }, 
+        {
+            "author": 499, 
+            "title": "Silver to Bronze - Over"
+        }, 
+        {
+            "author": 635, 
+            "title": "Patterns of Chaos (Part 3 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, May-June 1972)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, May-June 1972)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, May-June 1972)"
+        }, 
+        {
+            "author": 693, 
+            "title": "In the Ocean of Night"
+        }, 
+        {
+            "author": 603, 
+            "title": "The Dwarfs of Zwergwelt"
+        }, 
+        {
+            "author": 1219, 
+            "title": "The War Machine"
+        }, 
+        {
+            "author": 1220, 
+            "title": "Caravan"
+        }, 
+        {
+            "author": 664, 
+            "title": "Silver to Bronze - Over"
+        }
+    ]
+}

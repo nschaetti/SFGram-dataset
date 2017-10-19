@@ -1,0 +1,95 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine June 1967", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/1967-06_IF/1967-06_IF_jp2.zip&file=1967-06_IF_jp2/1967-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/8d/WOFIFJUN1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        497, 
+        593, 
+        499, 
+        40, 
+        1125, 
+        542, 
+        1148, 
+        28, 
+        67, 
+        561, 
+        610, 
+        1149, 
+        46, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1332, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "Wizard's World"
+        }, 
+        {
+            "author": 497, 
+            "title": "All True Believers"
+        }, 
+        {
+            "author": 593, 
+            "title": "Spaceman! (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Driftglass"
+        }, 
+        {
+            "author": 40, 
+            "title": "Why the Earth Isn't Round"
+        }, 
+        {
+            "author": 1125, 
+            "title": "The N3f and Others"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, June 1967)"
+        }, 
+        {
+            "author": 542, 
+            "title": "Letter (Worlds of If, June 1967)"
+        }, 
+        {
+            "author": 1148, 
+            "title": "All True Believers"
+        }, 
+        {
+            "author": 28, 
+            "title": "Wizard's World"
+        }, 
+        {
+            "author": 67, 
+            "title": "Spaceman! (Part 2 of 3)"
+        }, 
+        {
+            "author": 561, 
+            "title": "Berserker's Prey"
+        }, 
+        {
+            "author": 610, 
+            "title": "The Castaways"
+        }, 
+        {
+            "author": 1149, 
+            "title": "Family Loyalty"
+        }, 
+        {
+            "author": 46, 
+            "title": "Driftglass"
+        }
+    ]
+}

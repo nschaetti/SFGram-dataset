@@ -2,7 +2,9 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1171
+        1171, 
+        1385, 
+        1386
     ], 
     "id": 735, 
     "name": "Robert Wells"

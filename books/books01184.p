@@ -71,111 +71,113 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I753
-sg14
-VThe Eternity Engine
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VElephant with Wooden Leg
-p34
-sa(dp35
-g10
-I499
-sg14
-VHelium (Part 2 of 3)
-p36
-sa(dp37
-g10
-I499
-sg14
-VHelium (Part 2 of 3) [2]
-p38
-sa(dp39
-g10
-I744
-sg14
-VThe Venging
-p40
-sa(dp41
-g10
-I499
-sg14
-VLet Darkness Fall
-p42
-sa(dp43
-g10
-I744
-sg14
-VThe Yidam
-p44
-sa(dp45
-g10
-I744
-sg14
-VCartoon: "Phalaxy?"
-p46
-sa(dp47
-g10
-I753
-sg14
-VShowcase (Galaxy, June 1975)
-p48
-sa(dp49
-g10
-I770
-sg14
-VBookshelf (Galaxy, June 1975)
-p50
-sa(dp51
-g10
-I734
-sg14
-VThe New Faces of Big Science
-p52
-sa(dp53
-g10
-I326
-sg14
-VDirections (Galaxy, June 1975)
-p54
-sa(dp55
-g10
-I86
-sg14
 VThe Eternity Engine
-p56
-sa(dp57
-g10
-I778
-sg14
-VThe Venging
-p58
-sa(dp59
-g10
-I748
-sg14
-VHelium (Part 2 of 3)
-p60
-sa(dp61
-g10
-I779
-sg14
+p33
+sS'author'
+p34
+I753
+sa(dp35
+g32
 VElephant with Wooden Leg
-p62
-sa(dp63
-g10
-I774
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
+VHelium (Part 2 of 3)
+p38
+sg34
+I499
+sa(dp39
+g32
+VHelium (Part 2 of 3) [2]
+p40
+sg34
+I499
+sa(dp41
+g32
+VThe Venging
+p42
+sg34
+I744
+sa(dp43
+g32
 VLet Darkness Fall
-p64
-sa(dp65
-g10
-I759
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
 VThe Yidam
+p46
+sg34
+I744
+sa(dp47
+g32
+VCartoon: "Phalaxy?"
+p48
+sg34
+I744
+sa(dp49
+g32
+VShowcase (Galaxy, June 1975)
+p50
+sg34
+I753
+sa(dp51
+g32
+VBookshelf (Galaxy, June 1975)
+p52
+sg34
+I770
+sa(dp53
+g32
+VThe New Faces of Big Science
+p54
+sg34
+I734
+sa(dp55
+g32
+VDirections (Galaxy, June 1975)
+p56
+sg34
+I326
+sa(dp57
+g32
+VThe Eternity Engine
+p58
+sg34
+I86
+sa(dp59
+g32
+VThe Venging
+p60
+sg34
+I778
+sa(dp61
+g32
+VHelium (Part 2 of 3)
+p62
+sg34
+I748
+sa(dp63
+g32
+VElephant with Wooden Leg
+p64
+sg34
+I779
+sa(dp65
+g32
+VLet Darkness Fall
 p66
+sg34
+I774
+sa(dp67
+g32
+VThe Yidam
+p68
+sg34
+I759
 sasb.

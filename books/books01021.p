@@ -74,153 +74,155 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I433
-sg14
-VA World of Talent
+S'title'
 p32
-sa(dp33
-g10
-I433
-sg14
-VA World of Talent [2]
-p34
-sa(dp35
-g10
-I433
-sg14
-VA World of Talent [3]
-p36
-sa(dp37
-g10
-I433
-sg14
-VA World of Talent [4]
-p38
-sa(dp39
-g10
-I433
-sg14
-VGhost V
-p40
-sa(dp41
-g10
-I436
-sg14
-VIdiot's Crusade
-p42
-sa(dp43
-g10
-I363
-sg14
-VCartoon: No Caption (Spaceman Hitchhiking On an Asteroid)
-p44
-sa(dp45
-g10
-I454
-sg14
-V$1,000 a Plate
-p46
-sa(dp47
-g10
-I436
-sg14
-VJebaburba
-p48
-sa(dp49
-g10
-I436
-sg14
-VJebaburba [2]
-p50
-sa(dp51
-g10
-I456
-sg14
-VSpy
-p52
-sa(dp53
-g10
-I456
-sg14
-VSpy [2]
-p54
-sa(dp55
-g10
-I456
-sg14
-VSpy [3]
-p56
-sa(dp57
-g10
-I456
-sg14
-VSpy [4]
-p58
-sa(dp59
-g10
-I456
-sg14
-VSpy [5]
-p60
-sa(dp61
-g10
-I305
-sg14
-VTake My Word
-p62
-sa(dp63
-g10
-I326
-sg14
-VForecast (Galaxy, October 1954)
-p64
-sa(dp65
-g10
-I339
-sg14
-VFor Your Information: The Oldest "Prediction"
-p66
-sa(dp67
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, October 1954)
-p68
-sa(dp69
-g10
-I8
-sg14
 VA World of Talent
-p70
-sa(dp71
-g10
-I384
-sg14
-VSpy
-p72
-sa(dp73
-g10
-I23
-sg14
+p33
+sS'author'
+p34
+I433
+sa(dp35
+g32
+VA World of Talent [2]
+p36
+sg34
+I433
+sa(dp37
+g32
+VA World of Talent [3]
+p38
+sg34
+I433
+sa(dp39
+g32
+VA World of Talent [4]
+p40
+sg34
+I433
+sa(dp41
+g32
 VGhost V
-p74
-sa(dp75
-g10
-I56
-sg14
+p42
+sg34
+I433
+sa(dp43
+g32
 VIdiot's Crusade
-p76
-sa(dp77
-g10
-I24
-sg14
+p44
+sg34
+I436
+sa(dp45
+g32
+VCartoon: No Caption (Spaceman Hitchhiking On an Asteroid)
+p46
+sg34
+I363
+sa(dp47
+g32
 V$1,000 a Plate
-p78
-sa(dp79
-g10
-I220
-sg14
+p48
+sg34
+I454
+sa(dp49
+g32
 VJebaburba
+p50
+sg34
+I436
+sa(dp51
+g32
+VJebaburba [2]
+p52
+sg34
+I436
+sa(dp53
+g32
+VSpy
+p54
+sg34
+I456
+sa(dp55
+g32
+VSpy [2]
+p56
+sg34
+I456
+sa(dp57
+g32
+VSpy [3]
+p58
+sg34
+I456
+sa(dp59
+g32
+VSpy [4]
+p60
+sg34
+I456
+sa(dp61
+g32
+VSpy [5]
+p62
+sg34
+I456
+sa(dp63
+g32
+VTake My Word
+p64
+sg34
+I305
+sa(dp65
+g32
+VForecast (Galaxy, October 1954)
+p66
+sg34
+I326
+sa(dp67
+g32
+VFor Your Information: The Oldest "Prediction"
+p68
+sg34
+I339
+sa(dp69
+g32
+VGalaxy's 5 Star Shelf (Galaxy, October 1954)
+p70
+sg34
+I340
+sa(dp71
+g32
+VA World of Talent
+p72
+sg34
+I8
+sa(dp73
+g32
+VSpy
+p74
+sg34
+I384
+sa(dp75
+g32
+VGhost V
+p76
+sg34
+I23
+sa(dp77
+g32
+VIdiot's Crusade
+p78
+sg34
+I56
+sa(dp79
+g32
+V$1,000 a Plate
 p80
+sg34
+I24
+sa(dp81
+g32
+VJebaburba
+p82
+sg34
+I220
 sasb.

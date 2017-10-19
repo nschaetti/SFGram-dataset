@@ -70,141 +70,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VLegacy
+S'title'
 p32
-sa(dp33
-g10
-I742
-sg14
-VLegacy [2]
-p34
-sa(dp35
-g10
-I742
-sg14
-VLegacy [3]
-p36
-sa(dp37
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 2 of 4)
-p38
-sa(dp39
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 2 of 4) [2]
-p40
-sa(dp41
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 2 of 4) [3]
-p42
-sa(dp43
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 2 of 4) [4]
-p44
-sa(dp45
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 2 of 4) [5]
-p46
-sa(dp47
-g10
-I742
-sg14
-VA Meeting of Minds
-p48
-sa(dp49
-g10
-I742
-sg14
-VA Meeting of Minds [2]
-p50
-sa(dp51
-g10
-I742
-sg14
-VA Meeting of Minds [3]
-p52
-sa(dp53
-g10
-I742
-sg14
-VHelp Not Wanted
-p54
-sa(dp55
-g10
-I819
-sg14
-VWho Murders, Who Dreams
-p56
-sa(dp57
-g10
-I819
-sg14
-VWho Murders, Who Dreams [2]
-p58
-sa(dp59
-g10
-I819
-sg14
-VWho Murders, Who Dreams [3]
-p60
-sa(dp61
-g10
-I734
-sg14
-VWe Interrupt This Program
-p62
-sa(dp63
-g10
-I770
-sg14
-VGalaxy Bookshelf (Galaxy, June 1977)
-p64
-sa(dp65
-g10
-I326
-sg14
-VDirections (Galaxy, June 1977)
-p66
-sa(dp67
-g10
-I817
-sg14
 VLegacy
-p68
-sa(dp69
-g10
-I794
-sg14
-VA Meeting of Minds
-p70
-sa(dp71
-g10
-I63
-sg14
+p33
+sS'author'
+p34
+I742
+sa(dp35
+g32
+VLegacy [2]
+p36
+sg34
+I742
+sa(dp37
+g32
+VLegacy [3]
+p38
+sg34
+I742
+sa(dp39
+g32
 VThe Dosadi Experiment (Part 2 of 4)
-p72
-sa(dp73
-g10
-I820
-sg14
+p40
+sg34
+I784
+sa(dp41
+g32
+VThe Dosadi Experiment (Part 2 of 4) [2]
+p42
+sg34
+I784
+sa(dp43
+g32
+VThe Dosadi Experiment (Part 2 of 4) [3]
+p44
+sg34
+I784
+sa(dp45
+g32
+VThe Dosadi Experiment (Part 2 of 4) [4]
+p46
+sg34
+I784
+sa(dp47
+g32
+VThe Dosadi Experiment (Part 2 of 4) [5]
+p48
+sg34
+I784
+sa(dp49
+g32
+VA Meeting of Minds
+p50
+sg34
+I742
+sa(dp51
+g32
+VA Meeting of Minds [2]
+p52
+sg34
+I742
+sa(dp53
+g32
+VA Meeting of Minds [3]
+p54
+sg34
+I742
+sa(dp55
+g32
 VHelp Not Wanted
-p74
-sa(dp75
-g10
-I821
-sg14
+p56
+sg34
+I742
+sa(dp57
+g32
 VWho Murders, Who Dreams
+p58
+sg34
+I819
+sa(dp59
+g32
+VWho Murders, Who Dreams [2]
+p60
+sg34
+I819
+sa(dp61
+g32
+VWho Murders, Who Dreams [3]
+p62
+sg34
+I819
+sa(dp63
+g32
+VWe Interrupt This Program
+p64
+sg34
+I734
+sa(dp65
+g32
+VGalaxy Bookshelf (Galaxy, June 1977)
+p66
+sg34
+I770
+sa(dp67
+g32
+VDirections (Galaxy, June 1977)
+p68
+sg34
+I326
+sa(dp69
+g32
+VLegacy
+p70
+sg34
+I817
+sa(dp71
+g32
+VA Meeting of Minds
+p72
+sg34
+I794
+sa(dp73
+g32
+VThe Dosadi Experiment (Part 2 of 4)
+p74
+sg34
+I63
+sa(dp75
+g32
+VHelp Not Wanted
 p76
+sg34
+I820
+sa(dp77
+g32
+VWho Murders, Who Dreams
+p78
+sg34
+I821
 sasb.

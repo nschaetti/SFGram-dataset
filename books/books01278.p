@@ -1,0 +1,164 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1961
+sS'title'
+p14
+VIF Magazine March 1961
+p15
+sS'cover'
+p16
+Vhttps://ia601306.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/1961-03_IF/1961-03_IF_jp2.zip&file=1961-03_IF_jp2/1961-03_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/e/e4/WOFIFMAR1961.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I499
+aI1068
+aI1069
+aI419
+aI341
+aI401
+aI142
+aI315
+aI254
+aI1070
+aI1071
+aI74
+aI498
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1278
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I499
+sg14
+VI O U
+p32
+sa(dp33
+g10
+I1068
+sg14
+VMinotaur
+p34
+sa(dp35
+g10
+I1069
+sg14
+VCartoon: "I Don't Care What It Claims, It Doesn't Look Human to Me."
+p36
+sa(dp37
+g10
+I1069
+sg14
+VCartoon: "U.S. Air Force Recruiting Station."
+p38
+sa(dp39
+g10
+I419
+sg14
+VThe Well of the Deep Wish
+p40
+sa(dp41
+g10
+I341
+sg14
+VScience Briefs (If, March 1961)
+p42
+sa(dp43
+g10
+I341
+sg14
+VSf Is When ...
+p44
+sa(dp45
+g10
+I401
+sg14
+VI O U
+p46
+sa(dp47
+g10
+I142
+sg14
+VFebruary Strawberries
+p48
+sa(dp49
+g10
+I315
+sg14
+VMinotaur
+p50
+sa(dp51
+g10
+I254
+sg14
+VYoung Man From Elsewhen
+p52
+sa(dp53
+g10
+I1070
+sg14
+VThe Fastest Gun Dead
+p54
+sa(dp55
+g10
+I1071
+sg14
+VThe Seeder
+p56
+sa(dp57
+g10
+I74
+sg14
+VIn the Garden
+p58
+sa(dp59
+g10
+I498
+sg14
+VThe Well of the Deep Wish
+p60
+sasb.

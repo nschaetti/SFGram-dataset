@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1969", 
+    "cover": "https://ia601304.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/1969-09_IF/1969-09_IF_jp2.zip&file=1969-09_IF_jp2/1969-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/13/WOFIFSEP1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        667, 
+        339, 
+        356, 
+        1190, 
+        613, 
+        1154, 
+        1109, 
+        669, 
+        69, 
+        654, 
+        695, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1357, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Brood World Barbarian"
+        }, 
+        {
+            "author": 499, 
+            "title": "And so Say All of Us"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Posture of Prophecy"
+        }, 
+        {
+            "author": 326, 
+            "title": "Robot 678"
+        }, 
+        {
+            "author": 499, 
+            "title": "Star Seeder"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Last True God"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Towns Must Roll (Part 2 of 2)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Editor's Page: Starswinger"
+        }, 
+        {
+            "author": 339, 
+            "title": "The Story of Our Earth: 1. How Long Is the Past?"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, September 1969)"
+        }, 
+        {
+            "author": 1190, 
+            "title": "The Cosmic Philosophy of K. E. Tsiolkovsky"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, September 1969)"
+        }, 
+        {
+            "author": 613, 
+            "title": "Letter (If, September 1969)"
+        }, 
+        {
+            "author": 1154, 
+            "title": "Brood World Barbarian"
+        }, 
+        {
+            "author": 1109, 
+            "title": "Robot 678"
+        }, 
+        {
+            "author": 669, 
+            "title": "Star Seeder"
+        }, 
+        {
+            "author": 69, 
+            "title": "The Towns Must Roll (Part 2 of 2)"
+        }, 
+        {
+            "author": 654, 
+            "title": "And so Say All of Us"
+        }, 
+        {
+            "author": 695, 
+            "title": "The Posture of Prophecy"
+        }, 
+        {
+            "author": 356, 
+            "title": "The Last True God"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1968", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/1968-02_IF/1968-02_IF_jp2.zip&file=1968-02_IF_jp2/1968-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/98/WOFIFFEB1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        611, 
+        326, 
+        499, 
+        545, 
+        40, 
+        1160, 
+        604, 
+        704, 
+        23, 
+        629, 
+        1090, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1340, 
+    "contents": [
+        {
+            "author": 611, 
+            "title": "Slowboat Cargo (Part 1 of 3)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Petrified World"
+        }, 
+        {
+            "author": 499, 
+            "title": "Star Bike"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Selchey Kids"
+        }, 
+        {
+            "author": 545, 
+            "title": "All Judgment Fled (Part 3 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Day We Launched the Moonship"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, February 1968)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, February 1968)"
+        }, 
+        {
+            "author": 1160, 
+            "title": "The Selchey Kids"
+        }, 
+        {
+            "author": 604, 
+            "title": "Slowboat Cargo (Part 1 of 3)"
+        }, 
+        {
+            "author": 704, 
+            "title": "All Judgment Fled (Part 3 of 3)"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Petrified World"
+        }, 
+        {
+            "author": 629, 
+            "title": "Star Bike"
+        }, 
+        {
+            "author": 1090, 
+            "title": "The Courteous of Ghoor"
+        }
+    ]
+}

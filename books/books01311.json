@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1965", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/1965-09_IF/1965-09_IF_jp2.zip&file=1965-09_IF_jp2/1965-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/1d/WOFIFSEP1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        308, 
+        499, 
+        578, 
+        545, 
+        40, 
+        1109, 
+        111, 
+        1074, 
+        32, 
+        1118, 
+        67, 
+        662, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1311, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "Under Two Moons"
+        }, 
+        {
+            "author": 308, 
+            "title": "The Planet Player"
+        }, 
+        {
+            "author": 499, 
+            "title": "Giant Killer"
+        }, 
+        {
+            "author": 578, 
+            "title": "Gree's Damned Ones"
+        }, 
+        {
+            "author": 545, 
+            "title": "Skylark Duquesne (Part 4 of 5)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Air and Space"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, September 1965)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Under Two Moons"
+        }, 
+        {
+            "author": 1109, 
+            "title": "The Planet Player"
+        }, 
+        {
+            "author": 111, 
+            "title": "Gree's Damned Ones"
+        }, 
+        {
+            "author": 1074, 
+            "title": "Skylark Duquesne (Part 4 of 5)"
+        }, 
+        {
+            "author": 32, 
+            "title": "Moon Duel"
+        }, 
+        {
+            "author": 1118, 
+            "title": "M'lord Is the Shepherd"
+        }, 
+        {
+            "author": 67, 
+            "title": "Giant Killer"
+        }, 
+        {
+            "author": 662, 
+            "title": "Alien Artifact"
+        }
+    ]
+}

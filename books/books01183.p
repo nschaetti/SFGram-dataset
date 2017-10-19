@@ -75,135 +75,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VThe Game of Blood and Dust
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VHelium (Part 1 of 3)
-p34
-sa(dp35
-g10
-I753
-sg14
-VEfficiency
-p36
-sa(dp37
-g10
-I326
-sg14
-VTo See the City Sitting On Its Buildings
-p38
-sa(dp39
-g10
-I742
-sg14
-VInvaders
-p40
-sa(dp41
-g10
-I326
-sg14
-VThe Day of the Gringo
-p42
-sa(dp43
-g10
-I499
-sg14
-VDea Ex Machina
-p44
-sa(dp45
-g10
-I753
-sg14
-VCheap Thrills
-p46
-sa(dp47
-g10
-I499
-sg14
-VElmo's Box
-p48
-sa(dp49
-g10
-I40
-sg14
-VForum: A Short Term Solution
-p50
-sa(dp51
-g10
-I734
-sg14
-VTechnological Expertise: A Diminishing Resource?
-p52
-sa(dp53
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, April 1975)
-p54
-sa(dp55
-g10
-I326
-sg14
-VDirections (Galaxy, April 1975)
-p56
-sa(dp57
-g10
-I741
-sg14
-VInvaders
-p58
-sa(dp59
-g10
-I748
-sg14
-VHelium (Part 1 of 3)
-p60
-sa(dp61
-g10
-I591
-sg14
 VThe Game of Blood and Dust
-p62
-sa(dp63
-g10
-I774
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
+VHelium (Part 1 of 3)
+p36
+sg34
+I499
+sa(dp37
+g32
 VEfficiency
-p64
-sa(dp65
-g10
-I762
-sg14
+p38
+sg34
+I753
+sa(dp39
+g32
 VTo See the City Sitting On Its Buildings
-p66
-sa(dp67
-g10
-I757
-sg14
+p40
+sg34
+I326
+sa(dp41
+g32
+VInvaders
+p42
+sg34
+I742
+sa(dp43
+g32
 VThe Day of the Gringo
-p68
-sa(dp69
-g10
-I775
-sg14
+p44
+sg34
+I326
+sa(dp45
+g32
 VDea Ex Machina
-p70
-sa(dp71
-g10
-I776
-sg14
+p46
+sg34
+I499
+sa(dp47
+g32
 VCheap Thrills
-p72
-sa(dp73
-g10
-I777
-sg14
+p48
+sg34
+I753
+sa(dp49
+g32
 VElmo's Box
+p50
+sg34
+I499
+sa(dp51
+g32
+VForum: A Short Term Solution
+p52
+sg34
+I40
+sa(dp53
+g32
+VTechnological Expertise: A Diminishing Resource?
+p54
+sg34
+I734
+sa(dp55
+g32
+VThe Alien Viewpoint (Galaxy, April 1975)
+p56
+sg34
+I767
+sa(dp57
+g32
+VDirections (Galaxy, April 1975)
+p58
+sg34
+I326
+sa(dp59
+g32
+VInvaders
+p60
+sg34
+I741
+sa(dp61
+g32
+VHelium (Part 1 of 3)
+p62
+sg34
+I748
+sa(dp63
+g32
+VThe Game of Blood and Dust
+p64
+sg34
+I591
+sa(dp65
+g32
+VEfficiency
+p66
+sg34
+I774
+sa(dp67
+g32
+VTo See the City Sitting On Its Buildings
+p68
+sg34
+I762
+sa(dp69
+g32
+VThe Day of the Gringo
+p70
+sg34
+I757
+sa(dp71
+g32
+VDea Ex Machina
+p72
+sg34
+I775
+sa(dp73
+g32
+VCheap Thrills
 p74
+sg34
+I776
+sa(dp75
+g32
+VElmo's Box
+p76
+sg34
+I777
 sasb.

@@ -1,0 +1,100 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1967", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/1967-02_IF/1967-02_IF_jp2.zip&file=1967-02_IF_jp2/1967-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f9/WOFIFFEB1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        593, 
+        545, 
+        628, 
+        556, 
+        40, 
+        1125, 
+        604, 
+        67, 
+        217, 
+        111, 
+        91, 
+        654, 
+        1140, 
+        1141, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1328, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Soft Weapon"
+        }, 
+        {
+            "author": 593, 
+            "title": "Forest in the Sky"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Iron Thorn (Part 2 of 4)"
+        }, 
+        {
+            "author": 628, 
+            "title": "The Evil Ones"
+        }, 
+        {
+            "author": 556, 
+            "title": "A Beachhead for Gree"
+        }, 
+        {
+            "author": 40, 
+            "title": "Talk, Talk, Talk"
+        }, 
+        {
+            "author": 1125, 
+            "title": "The Fan Awards"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, February 1967)"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Soft Weapon"
+        }, 
+        {
+            "author": 67, 
+            "title": "Forest in the Sky"
+        }, 
+        {
+            "author": 217, 
+            "title": "The Evil Ones"
+        }, 
+        {
+            "author": 111, 
+            "title": "A Beachhead for Gree"
+        }, 
+        {
+            "author": 91, 
+            "title": "The Iron Thorn (Part 2 of 4)"
+        }, 
+        {
+            "author": 654, 
+            "title": "Gods of the Dark and Light"
+        }, 
+        {
+            "author": 1140, 
+            "title": "Confession"
+        }, 
+        {
+            "author": 1141, 
+            "title": "The Dangers of Deepspace"
+        }
+    ]
+}

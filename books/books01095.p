@@ -73,153 +73,155 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I519
-sg14
-VHere Gather the Stars (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I519
-sg14
-VHere Gather the Stars (Part 1 of 2) [2]
-p34
-sa(dp35
-g10
-I519
-sg14
-VHere Gather the Stars (Part 1 of 2) [3]
-p36
-sa(dp37
-g10
-I519
-sg14
-VHere Gather the Stars (Part 1 of 2) [4]
-p38
-sa(dp39
-g10
-I519
-sg14
-VHere Gather the Stars (Part 1 of 2) [5]
-p40
-sa(dp41
-g10
-I581
-sg14
-VThe Cool War
-p42
-sa(dp43
-g10
-I568
-sg14
-VEnd As a Hero
-p44
-sa(dp45
-g10
-I568
-sg14
-VEnd As a Hero [2]
-p46
-sa(dp47
-g10
-I497
-sg14
-VThe Faithful Wilf
-p48
-sa(dp49
-g10
-I497
-sg14
-VThe Faithful Wilf [2]
-p50
-sa(dp51
-g10
-I497
-sg14
-VThe Faithful Wilf [3]
-p52
-sa(dp53
-g10
-I497
-sg14
-VThe Faithful Wilf [4]
-p54
-sa(dp55
-g10
-I497
-sg14
-VThe Faithful Wilf [5]
-p56
-sa(dp57
-g10
-I497
-sg14
-VThe Faithful Wilf [6]
-p58
-sa(dp59
-g10
-I582
-sg14
-VThe Sellers of the Dream
-p60
-sa(dp61
-g10
-I582
-sg14
-VThe Sellers of the Dream [2]
-p62
-sa(dp63
-g10
-I40
-sg14
-VOf Worms and Men
-p64
-sa(dp65
-g10
-I339
-sg14
-VFor Your Information: Sounding Rockets and Geoprobes
-p66
-sa(dp67
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, June 1963)
-p68
-sa(dp69
-g10
-I326
-sg14
-VForecast (Galaxy, June 1963)
-p70
-sa(dp71
-g10
-I67
-sg14
-VEnd As a Hero
-p72
-sa(dp73
-g10
-I575
-sg14
-VThe Sellers of the Dream
-p74
-sa(dp75
-g10
-I56
-sg14
 VHere Gather the Stars (Part 1 of 2)
-p76
-sa(dp77
-g10
-I278
-sg14
+p33
+sS'author'
+p34
+I519
+sa(dp35
+g32
+VHere Gather the Stars (Part 1 of 2) [2]
+p36
+sg34
+I519
+sa(dp37
+g32
+VHere Gather the Stars (Part 1 of 2) [3]
+p38
+sg34
+I519
+sa(dp39
+g32
+VHere Gather the Stars (Part 1 of 2) [4]
+p40
+sg34
+I519
+sa(dp41
+g32
+VHere Gather the Stars (Part 1 of 2) [5]
+p42
+sg34
+I519
+sa(dp43
+g32
 VThe Cool War
-p78
-sa(dp79
-g10
-I315
-sg14
+p44
+sg34
+I581
+sa(dp45
+g32
+VEnd As a Hero
+p46
+sg34
+I568
+sa(dp47
+g32
+VEnd As a Hero [2]
+p48
+sg34
+I568
+sa(dp49
+g32
 VThe Faithful Wilf
+p50
+sg34
+I497
+sa(dp51
+g32
+VThe Faithful Wilf [2]
+p52
+sg34
+I497
+sa(dp53
+g32
+VThe Faithful Wilf [3]
+p54
+sg34
+I497
+sa(dp55
+g32
+VThe Faithful Wilf [4]
+p56
+sg34
+I497
+sa(dp57
+g32
+VThe Faithful Wilf [5]
+p58
+sg34
+I497
+sa(dp59
+g32
+VThe Faithful Wilf [6]
+p60
+sg34
+I497
+sa(dp61
+g32
+VThe Sellers of the Dream
+p62
+sg34
+I582
+sa(dp63
+g32
+VThe Sellers of the Dream [2]
+p64
+sg34
+I582
+sa(dp65
+g32
+VOf Worms and Men
+p66
+sg34
+I40
+sa(dp67
+g32
+VFor Your Information: Sounding Rockets and Geoprobes
+p68
+sg34
+I339
+sa(dp69
+g32
+VGalaxy's 5 Star Shelf (Galaxy, June 1963)
+p70
+sg34
+I483
+sa(dp71
+g32
+VForecast (Galaxy, June 1963)
+p72
+sg34
+I326
+sa(dp73
+g32
+VEnd As a Hero
+p74
+sg34
+I67
+sa(dp75
+g32
+VThe Sellers of the Dream
+p76
+sg34
+I575
+sa(dp77
+g32
+VHere Gather the Stars (Part 1 of 2)
+p78
+sg34
+I56
+sa(dp79
+g32
+VThe Cool War
 p80
+sg34
+I278
+sa(dp81
+g32
+VThe Faithful Wilf
+p82
+sg34
+I315
 sasb.

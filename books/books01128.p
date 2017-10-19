@@ -75,159 +75,161 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I640
-sg14
-VThe Sharing of Flesh
+S'title'
 p32
-sa(dp33
-g10
-I640
-sg14
-VThe Sharing of Flesh [2]
-p34
-sa(dp35
-g10
-I640
-sg14
-VThe Sharing of Flesh [3]
-p36
-sa(dp37
-g10
-I640
-sg14
-VThe Sharing of Flesh [4]
-p38
-sa(dp39
-g10
-I641
-sg14
-VOne Station of the Way
-p40
-sa(dp41
-g10
-I499
-sg14
-VSubway to the Stars
-p42
-sa(dp43
-g10
-I499
-sg14
-VSubway to the Stars [2]
-p44
-sa(dp45
-g10
-I499
-sg14
-VSubway to the Stars [3]
-p46
-sa(dp47
-g10
-I545
-sg14
-VA Life Postponed
-p48
-sa(dp49
-g10
-I545
-sg14
-VA Life Postponed [2]
-p50
-sa(dp51
-g10
-I642
-sg14
-VSpying Season
-p52
-sa(dp53
-g10
-I642
-sg14
-VSpying Season [2]
-p54
-sa(dp55
-g10
-I642
-sg14
-VSpying Season [3]
-p56
-sa(dp57
-g10
-I642
-sg14
-VSpying Season [4]
-p58
-sa(dp59
-g10
-I40
-sg14
-VThe Great Inventions
-p60
-sa(dp61
-g10
-I339
-sg14
-VFor Your Information: The Discovery of the Solar System
-p62
-sa(dp63
-g10
-I326
-sg14
-VForecast (Galaxy, December 1968)
-p64
-sa(dp65
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, December 1968)
-p66
-sa(dp67
-g10
-I326
-sg14
-VGalaxy's Stars (Galaxy, December 1968)
-p68
-sa(dp69
-g10
-I30
-sg14
 VThe Sharing of Flesh
-p70
-sa(dp71
-g10
-I129
-sg14
-VSubway to the Stars
-p72
-sa(dp73
-g10
-I383
-sg14
-VA Life Postponed
-p74
-sa(dp75
-g10
-I69
-sg14
-VSpying Season
-p76
-sa(dp77
-g10
-I32
-sg14
+p33
+sS'author'
+p34
+I640
+sa(dp35
+g32
+VThe Sharing of Flesh [2]
+p36
+sg34
+I640
+sa(dp37
+g32
+VThe Sharing of Flesh [3]
+p38
+sg34
+I640
+sa(dp39
+g32
+VThe Sharing of Flesh [4]
+p40
+sg34
+I640
+sa(dp41
+g32
 VOne Station of the Way
+p42
+sg34
+I641
+sa(dp43
+g32
+VSubway to the Stars
+p44
+sg34
+I499
+sa(dp45
+g32
+VSubway to the Stars [2]
+p46
+sg34
+I499
+sa(dp47
+g32
+VSubway to the Stars [3]
+p48
+sg34
+I499
+sa(dp49
+g32
+VA Life Postponed
+p50
+sg34
+I545
+sa(dp51
+g32
+VA Life Postponed [2]
+p52
+sg34
+I545
+sa(dp53
+g32
+VSpying Season
+p54
+sg34
+I642
+sa(dp55
+g32
+VSpying Season [2]
+p56
+sg34
+I642
+sa(dp57
+g32
+VSpying Season [3]
+p58
+sg34
+I642
+sa(dp59
+g32
+VSpying Season [4]
+p60
+sg34
+I642
+sa(dp61
+g32
+VThe Great Inventions
+p62
+sg34
+I40
+sa(dp63
+g32
+VFor Your Information: The Discovery of the Solar System
+p64
+sg34
+I339
+sa(dp65
+g32
+VForecast (Galaxy, December 1968)
+p66
+sg34
+I326
+sa(dp67
+g32
+VGalaxy Bookshelf (Galaxy, December 1968)
+p68
+sg34
+I91
+sa(dp69
+g32
+VGalaxy's Stars (Galaxy, December 1968)
+p70
+sg34
+I326
+sa(dp71
+g32
+VThe Sharing of Flesh
+p72
+sg34
+I30
+sa(dp73
+g32
+VSubway to the Stars
+p74
+sg34
+I129
+sa(dp75
+g32
+VA Life Postponed
+p76
+sg34
+I383
+sa(dp77
+g32
+VSpying Season
 p78
+sg34
+I69
 sa(dp79
-g10
-I643
-sg14
-VSweet Dreams, Melissa
+g32
+VOne Station of the Way
 p80
+sg34
+I32
 sa(dp81
-g10
-I603
-sg14
-VJinn
+g32
+VSweet Dreams, Melissa
 p82
+sg34
+I643
+sa(dp83
+g32
+VJinn
+p84
+sg34
+I603
 sasb.

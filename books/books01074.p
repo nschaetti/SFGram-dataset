@@ -75,177 +75,179 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I519
-sg14
-VNo Life of Their Own
+S'title'
 p32
-sa(dp33
-g10
-I519
-sg14
-VNo Life of Their Own [2]
-p34
-sa(dp35
-g10
-I519
-sg14
-VNo Life of Their Own [3]
-p36
-sa(dp37
-g10
-I419
-sg14
-VCitizen Jell
-p38
-sa(dp39
-g10
-I419
-sg14
-VThe Spicy Sound of Success
-p40
-sa(dp41
-g10
-I504
-sg14
-VMugwump Four
-p42
-sa(dp43
-g10
-I504
-sg14
-VMugwump Four [2]
-p44
-sa(dp45
-g10
-I504
-sg14
-VMugwump Four [3]
-p46
-sa(dp47
-g10
-I519
-sg14
-VLicense to Steal
-p48
-sa(dp49
-g10
-I519
-sg14
-VLex
-p50
-sa(dp51
-g10
-I519
-sg14
-VLex [2]
-p52
-sa(dp53
-g10
-I506
-sg14
-VThe Malted Milk Monster
-p54
-sa(dp55
-g10
-I506
-sg14
-VThe Malted Milk Monster [2]
-p56
-sa(dp57
-g10
-I506
-sg14
-VThe Malted Milk Monster [3]
-p58
-sa(dp59
-g10
-I519
-sg14
-VThe Waging of the Peace
-p60
-sa(dp61
-g10
-I519
-sg14
-VThe Waging of the Peace [2]
-p62
-sa(dp63
-g10
-I519
-sg14
-VThe Waging of the Peace [3]
-p64
-sa(dp65
-g10
-I305
-sg14
-VThought for Food
-p66
-sa(dp67
-g10
-I339
-sg14
-VFor Your Information: Orbit Around the Sun
-p68
-sa(dp69
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, August 1959)
-p70
-sa(dp71
-g10
-I326
-sg14
-VForecast (Galaxy, August 1959)
-p72
-sa(dp73
-g10
-I50
-sg14
-VMugwump Four
-p74
-sa(dp75
-g10
-I98
-sg14
-VThe Malted Milk Monster
-p76
-sa(dp77
-g10
-I40
-sg14
-VThe Waging of the Peace
-p78
-sa(dp79
-g10
-I56
-sg14
 VNo Life of Their Own
-p80
-sa(dp81
-g10
-I243
-sg14
+p33
+sS'author'
+p34
+I519
+sa(dp35
+g32
+VNo Life of Their Own [2]
+p36
+sg34
+I519
+sa(dp37
+g32
+VNo Life of Their Own [3]
+p38
+sg34
+I519
+sa(dp39
+g32
 VCitizen Jell
-p82
-sa(dp83
-g10
-I142
-sg14
+p40
+sg34
+I419
+sa(dp41
+g32
 VThe Spicy Sound of Success
-p84
-sa(dp85
-g10
-I299
-sg14
+p42
+sg34
+I419
+sa(dp43
+g32
+VMugwump Four
+p44
+sg34
+I504
+sa(dp45
+g32
+VMugwump Four [2]
+p46
+sg34
+I504
+sa(dp47
+g32
+VMugwump Four [3]
+p48
+sg34
+I504
+sa(dp49
+g32
 VLicense to Steal
-p86
-sa(dp87
-g10
-I219
-sg14
+p50
+sg34
+I519
+sa(dp51
+g32
 VLex
+p52
+sg34
+I519
+sa(dp53
+g32
+VLex [2]
+p54
+sg34
+I519
+sa(dp55
+g32
+VThe Malted Milk Monster
+p56
+sg34
+I506
+sa(dp57
+g32
+VThe Malted Milk Monster [2]
+p58
+sg34
+I506
+sa(dp59
+g32
+VThe Malted Milk Monster [3]
+p60
+sg34
+I506
+sa(dp61
+g32
+VThe Waging of the Peace
+p62
+sg34
+I519
+sa(dp63
+g32
+VThe Waging of the Peace [2]
+p64
+sg34
+I519
+sa(dp65
+g32
+VThe Waging of the Peace [3]
+p66
+sg34
+I519
+sa(dp67
+g32
+VThought for Food
+p68
+sg34
+I305
+sa(dp69
+g32
+VFor Your Information: Orbit Around the Sun
+p70
+sg34
+I339
+sa(dp71
+g32
+VGalaxy's 5 Star Shelf (Galaxy, August 1959)
+p72
+sg34
+I483
+sa(dp73
+g32
+VForecast (Galaxy, August 1959)
+p74
+sg34
+I326
+sa(dp75
+g32
+VMugwump Four
+p76
+sg34
+I50
+sa(dp77
+g32
+VThe Malted Milk Monster
+p78
+sg34
+I98
+sa(dp79
+g32
+VThe Waging of the Peace
+p80
+sg34
+I40
+sa(dp81
+g32
+VNo Life of Their Own
+p82
+sg34
+I56
+sa(dp83
+g32
+VCitizen Jell
+p84
+sg34
+I243
+sa(dp85
+g32
+VThe Spicy Sound of Success
+p86
+sg34
+I142
+sa(dp87
+g32
+VLicense to Steal
 p88
+sg34
+I299
+sa(dp89
+g32
+VLex
+p90
+sg34
+I219
 sasb.

@@ -1,0 +1,92 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1960", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/1960-03_IF/1960-03_IF_jp2.zip&file=1960-03_IF_jp2/1960-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/52/WOFIFMAR1960.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        326, 
+        40, 
+        56, 
+        220, 
+        446, 
+        142, 
+        1059, 
+        1060, 
+        225, 
+        1061, 
+        918
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1272, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "Gleaners"
+        }, 
+        {
+            "author": 326, 
+            "title": "To Be Continued"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Upside-Down Captain"
+        }, 
+        {
+            "author": 326, 
+            "title": "His Father's House"
+        }, 
+        {
+            "author": 519, 
+            "title": "Gravy Train"
+        }, 
+        {
+            "author": 326, 
+            "title": "To Thread On a Necklace?"
+        }, 
+        {
+            "author": 40, 
+            "title": "Worlds of If (If, March 1960)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Gleaners"
+        }, 
+        {
+            "author": 220, 
+            "title": "Gravy Train"
+        }, 
+        {
+            "author": 446, 
+            "title": "To Be Continued"
+        }, 
+        {
+            "author": 142, 
+            "title": "The Upside-Down Captain"
+        }, 
+        {
+            "author": 1059, 
+            "title": "Monument"
+        }, 
+        {
+            "author": 1060, 
+            "title": "His Father's House"
+        }, 
+        {
+            "author": 225, 
+            "title": "Ignatz"
+        }, 
+        {
+            "author": 1061, 
+            "title": "Old Shag"
+        }
+    ]
+}

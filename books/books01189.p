@@ -72,135 +72,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VShowcase (Galaxy, January 1976)
+S'title'
 p32
-sa(dp33
-g10
-I744
-sg14
-VForum: Through Innocent Eyes
+VShowcase (Galaxy, January 1976)
+p33
+sS'author'
 p34
-sa(dp35
-g10
-I744
-sg14
-VWe Who Are About to ... (Part 1 of 2)
-p36
-sa(dp37
-g10
-I744
-sg14
-VWe Who Are About to ... (Part 1 of 2) [2]
-p38
-sa(dp39
-g10
-I793
-sg14
-VIt's a Sunny Day
-p40
-sa(dp41
-g10
-I744
-sg14
-VShattered Hopes, Broken Dreams
-p42
-sa(dp43
-g10
-I744
-sg14
-VShattered Hopes, Broken Dreams [2]
-p44
-sa(dp45
-g10
-I744
-sg14
-VShattered Hopes, Broken Dreams [3]
-p46
-sa(dp47
-g10
-I763
-sg14
-VA Step Farther Out: Building the Mote in God's Eye
-p48
-sa(dp49
-g10
 I742
-sg14
-VAngel of Destruction
-p50
-sa(dp51
-g10
-I326
-sg14
-VAmbiguous Oracle
-p52
-sa(dp53
-g10
-I753
-sg14
-VGetting Away
-p54
-sa(dp55
-g10
-I748
-sg14
+sa(dp35
+g32
 VForum: Through Innocent Eyes
-p56
-sa(dp57
-g10
-I604
-sg14
-VBuilding the Mote in God's Eye
-p58
-sa(dp59
-g10
-I770
-sg14
-VGalaxy Bookshelf (Galaxy, January 1976)
-p60
-sa(dp61
-g10
-I326
-sg14
-VDirections (Galaxy, January 1976)
-p62
-sa(dp63
-g10
-I794
-sg14
-VShattered Hopes, Broken Dreams
-p64
-sa(dp65
-g10
-I795
-sg14
-VAngel of Destruction
-p66
-sa(dp67
-g10
-I728
-sg14
+p36
+sg34
+I744
+sa(dp37
+g32
 VWe Who Are About to ... (Part 1 of 2)
-p68
-sa(dp69
-g10
-I770
-sg14
+p38
+sg34
+I744
+sa(dp39
+g32
+VWe Who Are About to ... (Part 1 of 2) [2]
+p40
+sg34
+I744
+sa(dp41
+g32
 VIt's a Sunny Day
-p70
-sa(dp71
-g10
-I770
-sg14
+p42
+sg34
+I793
+sa(dp43
+g32
+VShattered Hopes, Broken Dreams
+p44
+sg34
+I744
+sa(dp45
+g32
+VShattered Hopes, Broken Dreams [2]
+p46
+sg34
+I744
+sa(dp47
+g32
+VShattered Hopes, Broken Dreams [3]
+p48
+sg34
+I744
+sa(dp49
+g32
+VA Step Farther Out: Building the Mote in God's Eye
+p50
+sg34
+I763
+sa(dp51
+g32
+VAngel of Destruction
+p52
+sg34
+I742
+sa(dp53
+g32
 VAmbiguous Oracle
-p72
-sa(dp73
-g10
-I741
-sg14
+p54
+sg34
+I326
+sa(dp55
+g32
 VGetting Away
+p56
+sg34
+I753
+sa(dp57
+g32
+VForum: Through Innocent Eyes
+p58
+sg34
+I748
+sa(dp59
+g32
+VBuilding the Mote in God's Eye
+p60
+sg34
+I604
+sa(dp61
+g32
+VGalaxy Bookshelf (Galaxy, January 1976)
+p62
+sg34
+I770
+sa(dp63
+g32
+VDirections (Galaxy, January 1976)
+p64
+sg34
+I326
+sa(dp65
+g32
+VShattered Hopes, Broken Dreams
+p66
+sg34
+I794
+sa(dp67
+g32
+VAngel of Destruction
+p68
+sg34
+I795
+sa(dp69
+g32
+VWe Who Are About to ... (Part 1 of 2)
+p70
+sg34
+I728
+sa(dp71
+g32
+VIt's a Sunny Day
+p72
+sg34
+I770
+sa(dp73
+g32
+VAmbiguous Oracle
 p74
+sg34
+I770
+sa(dp75
+g32
+VGetting Away
+p76
+sg34
+I741
 sasb.

@@ -69,105 +69,107 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VThe Day After Judgment
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VThe Day After Judgment [2]
+VThe Day After Judgment
+p33
+sS'author'
 p34
+I326
 sa(dp35
-g10
-I326
-sg14
-VThe Day After Judgment [3]
+g32
+VThe Day After Judgment [2]
 p36
+sg34
+I326
 sa(dp37
-g10
-I326
-sg14
-VAbout a Secret Crocodile
+g32
+VThe Day After Judgment [3]
 p38
+sg34
+I326
 sa(dp39
-g10
-I499
-sg14
-VPower Play
-p40
-sa(dp41
-g10
-I326
-sg14
-VMoon Heat
-p42
-sa(dp43
-g10
-I326
-sg14
-VI Will Fear No Evil (Part 2 of 4)
-p44
-sa(dp45
-g10
-I326
-sg14
-VI Will Fear No Evil (Part 2 of 4) [2]
-p46
-sa(dp47
-g10
-I326
-sg14
-VI Will Fear No Evil (Part 2 of 4) [3]
-p48
-sa(dp49
-g10
-I667
-sg14
-VThe Raries
-p50
-sa(dp51
-g10
-I91
-sg14
-VGalaxy Book Shelf (Galaxy, August-September 1970)
-p52
-sa(dp53
-g10
-I112
-sg14
-VCoordinates
-p54
-sa(dp55
-g10
-I55
-sg14
-VThe Day After Judgment (Complete Novel)
-p56
-sa(dp57
-g10
-I371
-sg14
-VI Will Fear No Evil (Part 2 of 4)
-p58
-sa(dp59
-g10
-I74
-sg14
+g32
 VAbout a Secret Crocodile
-p60
-sa(dp61
-g10
-I662
-sg14
+p40
+sg34
+I326
+sa(dp41
+g32
 VPower Play
-p62
-sa(dp63
-g10
-I663
-sg14
+p42
+sg34
+I499
+sa(dp43
+g32
 VMoon Heat
+p44
+sg34
+I326
+sa(dp45
+g32
+VI Will Fear No Evil (Part 2 of 4)
+p46
+sg34
+I326
+sa(dp47
+g32
+VI Will Fear No Evil (Part 2 of 4) [2]
+p48
+sg34
+I326
+sa(dp49
+g32
+VI Will Fear No Evil (Part 2 of 4) [3]
+p50
+sg34
+I326
+sa(dp51
+g32
+VThe Raries
+p52
+sg34
+I667
+sa(dp53
+g32
+VGalaxy Book Shelf (Galaxy, August-September 1970)
+p54
+sg34
+I91
+sa(dp55
+g32
+VCoordinates
+p56
+sg34
+I112
+sa(dp57
+g32
+VThe Day After Judgment (Complete Novel)
+p58
+sg34
+I55
+sa(dp59
+g32
+VI Will Fear No Evil (Part 2 of 4)
+p60
+sg34
+I371
+sa(dp61
+g32
+VAbout a Secret Crocodile
+p62
+sg34
+I74
+sa(dp63
+g32
+VPower Play
 p64
+sg34
+I662
+sa(dp65
+g32
+VMoon Heat
+p66
+sg34
+I663
 sasb.

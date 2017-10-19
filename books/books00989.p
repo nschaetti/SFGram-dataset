@@ -72,123 +72,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I388
-sg14
-VDouble Standard
+S'title'
 p32
-sa(dp33
-g10
-I336
-sg14
-VConditionally Human
-p34
-sa(dp35
-g10
-I336
-sg14
-VConditionally Human [2]
-p36
-sa(dp37
-g10
-I336
-sg14
-VConditionally Human [3]
-p38
-sa(dp39
-g10
-I336
-sg14
-VDr. Kometevsky's Day
-p40
-sa(dp41
-g10
-I336
-sg14
-VDr. Kometevsky's Day [2]
-p42
-sa(dp43
-g10
-I352
-sg14
-VFresh Air Fiend
-p44
-sa(dp45
-g10
-I342
-sg14
-VThe Demolished Man (Part 2 of 3)
-p46
-sa(dp47
-g10
-I342
-sg14
-VThe Demolished Man (Part 2 of 3) [2]
-p48
-sa(dp49
-g10
-I342
-sg14
-VThe Demolished Man (Part 2 of 3) [3]
-p50
-sa(dp51
-g10
-I342
-sg14
-VThe Demolished Man (Part 2 of 3) [4]
-p52
-sa(dp53
-g10
-I305
-sg14
-VOpen Letters
-p54
-sa(dp55
-g10
-I345
-sg14
-VWhere Were We?
-p56
-sa(dp57
-g10
-I371
-sg14
-VWhere To?
-p58
-sa(dp59
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, February 1952)
-p60
-sa(dp61
-g10
-I389
-sg14
-VConditionally Human
-p62
-sa(dp63
-g10
-I385
-sg14
-VThe Demolished Man (Part 2 of 3)
-p64
-sa(dp65
-g10
-I166
-sg14
 VDouble Standard
-p66
-sa(dp67
-g10
-I32
-sg14
+p33
+sS'author'
+p34
+I388
+sa(dp35
+g32
+VConditionally Human
+p36
+sg34
+I336
+sa(dp37
+g32
+VConditionally Human [2]
+p38
+sg34
+I336
+sa(dp39
+g32
+VConditionally Human [3]
+p40
+sg34
+I336
+sa(dp41
+g32
 VDr. Kometevsky's Day
-p68
-sa(dp69
-g10
-I194
-sg14
+p42
+sg34
+I336
+sa(dp43
+g32
+VDr. Kometevsky's Day [2]
+p44
+sg34
+I336
+sa(dp45
+g32
 VFresh Air Fiend
+p46
+sg34
+I352
+sa(dp47
+g32
+VThe Demolished Man (Part 2 of 3)
+p48
+sg34
+I342
+sa(dp49
+g32
+VThe Demolished Man (Part 2 of 3) [2]
+p50
+sg34
+I342
+sa(dp51
+g32
+VThe Demolished Man (Part 2 of 3) [3]
+p52
+sg34
+I342
+sa(dp53
+g32
+VThe Demolished Man (Part 2 of 3) [4]
+p54
+sg34
+I342
+sa(dp55
+g32
+VOpen Letters
+p56
+sg34
+I305
+sa(dp57
+g32
+VWhere Were We?
+p58
+sg34
+I345
+sa(dp59
+g32
+VWhere To?
+p60
+sg34
+I371
+sa(dp61
+g32
+VGalaxy's 5 Star Shelf (Galaxy, February 1952)
+p62
+sg34
+I340
+sa(dp63
+g32
+VConditionally Human
+p64
+sg34
+I389
+sa(dp65
+g32
+VThe Demolished Man (Part 2 of 3)
+p66
+sg34
+I385
+sa(dp67
+g32
+VDouble Standard
+p68
+sg34
+I166
+sa(dp69
+g32
+VDr. Kometevsky's Day
 p70
+sg34
+I32
+sa(dp71
+g32
+VFresh Air Fiend
+p72
+sg34
+I194
 sasb.

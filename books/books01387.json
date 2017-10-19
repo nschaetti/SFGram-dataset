@@ -1,0 +1,81 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1974", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/1974-02_IF/1974-02_IF_jp2.zip&file=1974-02_IF_jp2/1974-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/25/WOFIFJANFEB1974.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        356, 
+        70, 
+        1232, 
+        1233, 
+        595, 
+        725, 
+        696, 
+        918
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1387, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Ginger Star (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Mistaken for Granted"
+        }, 
+        {
+            "author": 499, 
+            "title": "If Ever I Should Leave You"
+        }, 
+        {
+            "author": 499, 
+            "title": "Eye of the Storm"
+        }, 
+        {
+            "author": 499, 
+            "title": "Transplant"
+        }, 
+        {
+            "author": 499, 
+            "title": "Continuous Performance"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, January-February 1974)"
+        }, 
+        {
+            "author": 70, 
+            "title": "Mistaken for Granted"
+        }, 
+        {
+            "author": 1232, 
+            "title": "The Ginger Star (Part 1 of 2)"
+        }, 
+        {
+            "author": 1233, 
+            "title": "If Ever I Should Leave You"
+        }, 
+        {
+            "author": 595, 
+            "title": "Eye of the Storm"
+        }, 
+        {
+            "author": 725, 
+            "title": "Transplant"
+        }, 
+        {
+            "author": 696, 
+            "title": "Continuous Performance"
+        }
+    ]
+}

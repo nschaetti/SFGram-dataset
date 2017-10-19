@@ -1,0 +1,96 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1957", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/1957-10_IF/1957-10_IF_jp2.zip&file=1957-10_IF_jp2/1957-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e8/WOFIFOCT1957.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        363, 
+        956, 
+        952, 
+        326, 
+        88, 
+        498, 
+        208, 
+        441, 
+        1037, 
+        1033, 
+        918
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1259, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "Silence Is Deadly"
+        }, 
+        {
+            "author": 363, 
+            "title": "Game Preserve"
+        }, 
+        {
+            "author": 497, 
+            "title": "Dark Windows"
+        }, 
+        {
+            "author": 363, 
+            "title": "Rx"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Poors"
+        }, 
+        {
+            "author": 956, 
+            "title": "Puppet Government"
+        }, 
+        {
+            "author": 952, 
+            "title": "Editor's Report (If, October 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, October 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, October 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, October 1957)"
+        }, 
+        {
+            "author": 88, 
+            "title": "Dark Windows"
+        }, 
+        {
+            "author": 498, 
+            "title": "Silence Is Deadly"
+        }, 
+        {
+            "author": 208, 
+            "title": "Game Preserve"
+        }, 
+        {
+            "author": 441, 
+            "title": "Rx"
+        }, 
+        {
+            "author": 1037, 
+            "title": "The Poors"
+        }, 
+        {
+            "author": 1033, 
+            "title": "Puppet Government"
+        }
+    ]
+}

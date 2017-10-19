@@ -75,153 +75,155 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I890
-sg14
-VStar Warriors (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I890
-sg14
-VStar Warriors (Part 1 of 2) [2]
-p34
-sa(dp35
-g10
-I890
-sg14
-VStar Warriors (Part 1 of 2) [3]
-p36
-sa(dp37
-g10
-I890
-sg14
-VStar Warriors (Part 1 of 2) [4]
-p38
-sa(dp39
-g10
-I891
-sg14
-VThe Psychic
-p40
-sa(dp41
-g10
-I892
-sg14
-VJem (Part 3 of 5)
-p42
-sa(dp43
-g10
-I892
-sg14
-VJem (Part 3 of 5) [2]
-p44
-sa(dp45
-g10
-I326
-sg14
-VWhen the Metal Eaters Came
-p46
-sa(dp47
-g10
-I326
-sg14
-VBeneath the Bermuda Triangle
-p48
-sa(dp49
-g10
-I326
-sg14
-VShowcase (Galaxy, June-July 1979)
-p50
-sa(dp51
-g10
-I326
-sg14
-VAbout Our Contributors (Galaxy, June-July 1979)
-p52
-sa(dp53
-g10
-I312
-sg14
-VEditorial (Galaxy, June-July 1979)
-p54
-sa(dp55
-g10
-I326
-sg14
-VGalaxy Forecast (Galaxy, June-July 1979)
-p56
-sa(dp57
-g10
-I893
-sg14
-VScience Fiction Hotline (Galaxy, June-July 1979)
-p58
-sa(dp59
-g10
-I767
-sg14
-VGalaxy Bookshelf (Galaxy, June-July 1979)
-p60
-sa(dp61
-g10
-I326
-sg14
-VLetters (Galaxy, June-July 1979)
-p62
-sa(dp63
-g10
-I894
-sg14
-VStatement of Policy (Galaxy, June-July 1979)
-p64
-sa(dp65
-g10
-I895
-sg14
-VThe Psychic
-p66
-sa(dp67
-g10
-I896
-sg14
-VBeneath the Bermuda Triangle
-p68
-sa(dp69
-g10
-I854
-sg14
 VStar Warriors (Part 1 of 2)
-p70
-sa(dp71
-g10
-I40
-sg14
+p33
+sS'author'
+p34
+I890
+sa(dp35
+g32
+VStar Warriors (Part 1 of 2) [2]
+p36
+sg34
+I890
+sa(dp37
+g32
+VStar Warriors (Part 1 of 2) [3]
+p38
+sg34
+I890
+sa(dp39
+g32
+VStar Warriors (Part 1 of 2) [4]
+p40
+sg34
+I890
+sa(dp41
+g32
+VThe Psychic
+p42
+sg34
+I891
+sa(dp43
+g32
 VJem (Part 3 of 5)
-p72
-sa(dp73
-g10
-I897
-sg14
-VThe-Super-Duper-Make-Your-Own-Ba
-p74
-sa(dp75
-g10
-I658
-sg14
-VFemworld
-p76
-sa(dp77
-g10
-I376
-sg14
-VAn End to Crime
-p78
-sa(dp79
-g10
-I596
-sg14
+p44
+sg34
+I892
+sa(dp45
+g32
+VJem (Part 3 of 5) [2]
+p46
+sg34
+I892
+sa(dp47
+g32
 VWhen the Metal Eaters Came
+p48
+sg34
+I326
+sa(dp49
+g32
+VBeneath the Bermuda Triangle
+p50
+sg34
+I326
+sa(dp51
+g32
+VShowcase (Galaxy, June-July 1979)
+p52
+sg34
+I326
+sa(dp53
+g32
+VAbout Our Contributors (Galaxy, June-July 1979)
+p54
+sg34
+I326
+sa(dp55
+g32
+VEditorial (Galaxy, June-July 1979)
+p56
+sg34
+I312
+sa(dp57
+g32
+VGalaxy Forecast (Galaxy, June-July 1979)
+p58
+sg34
+I326
+sa(dp59
+g32
+VScience Fiction Hotline (Galaxy, June-July 1979)
+p60
+sg34
+I893
+sa(dp61
+g32
+VGalaxy Bookshelf (Galaxy, June-July 1979)
+p62
+sg34
+I767
+sa(dp63
+g32
+VLetters (Galaxy, June-July 1979)
+p64
+sg34
+I326
+sa(dp65
+g32
+VStatement of Policy (Galaxy, June-July 1979)
+p66
+sg34
+I894
+sa(dp67
+g32
+VThe Psychic
+p68
+sg34
+I895
+sa(dp69
+g32
+VBeneath the Bermuda Triangle
+p70
+sg34
+I896
+sa(dp71
+g32
+VStar Warriors (Part 1 of 2)
+p72
+sg34
+I854
+sa(dp73
+g32
+VJem (Part 3 of 5)
+p74
+sg34
+I40
+sa(dp75
+g32
+VThe-Super-Duper-Make-Your-Own-Ba
+p76
+sg34
+I897
+sa(dp77
+g32
+VFemworld
+p78
+sg34
+I658
+sa(dp79
+g32
+VAn End to Crime
 p80
+sg34
+I376
+sa(dp81
+g32
+VWhen the Metal Eaters Came
+p82
+sg34
+I596
 sasb.

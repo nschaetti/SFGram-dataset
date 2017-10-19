@@ -70,105 +70,107 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VThe Only War We've Got
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VPassages
-p34
-sa(dp35
-g10
-I326
-sg14
-VSurvival Course
-p36
-sa(dp37
-g10
-I499
-sg14
-VAnswer Came There None
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Girl with a Symphony in Her Fingers
-p40
-sa(dp41
-g10
-I499
-sg14
-VCalendars
-p42
-sa(dp43
-g10
-I499
-sg14
-VWaves
-p44
-sa(dp45
-g10
-I499
-sg14
-VInverted World (Part 2 of 4)
-p46
-sa(dp47
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, January 1974)
-p48
-sa(dp49
-g10
-I675
-sg14
-VThe Girl with a Symphony in Her Fingers
-p50
-sa(dp51
-g10
-I660
-sg14
 VThe Only War We've Got
-p52
-sa(dp53
-g10
-I725
-sg14
-VInverted World (Part 2 of 4)
-p54
-sa(dp55
-g10
-I728
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VPassages
-p56
-sa(dp57
-g10
-I558
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
 VSurvival Course
-p58
-sa(dp59
-g10
-I704
-sg14
+p38
+sg34
+I326
+sa(dp39
+g32
 VAnswer Came There None
-p60
-sa(dp61
-g10
-I561
-sg14
+p40
+sg34
+I499
+sa(dp41
+g32
+VThe Girl with a Symphony in Her Fingers
+p42
+sg34
+I499
+sa(dp43
+g32
 VCalendars
-p62
-sa(dp63
-g10
-I729
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
 VWaves
+p46
+sg34
+I499
+sa(dp47
+g32
+VInverted World (Part 2 of 4)
+p48
+sg34
+I499
+sa(dp49
+g32
+VGalaxy Bookshelf (Galaxy, January 1974)
+p50
+sg34
+I341
+sa(dp51
+g32
+VThe Girl with a Symphony in Her Fingers
+p52
+sg34
+I675
+sa(dp53
+g32
+VThe Only War We've Got
+p54
+sg34
+I660
+sa(dp55
+g32
+VInverted World (Part 2 of 4)
+p56
+sg34
+I725
+sa(dp57
+g32
+VPassages
+p58
+sg34
+I728
+sa(dp59
+g32
+VSurvival Course
+p60
+sg34
+I558
+sa(dp61
+g32
+VAnswer Came There None
+p62
+sg34
+I704
+sa(dp63
+g32
+VCalendars
 p64
+sg34
+I561
+sa(dp65
+g32
+VWaves
+p66
+sg34
+I729
 sasb.

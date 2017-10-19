@@ -1,0 +1,89 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1963", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/1963-11_IF/1963-11_IF_jp2.zip&file=1963-11_IF_jp2/1963-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/ad/WOFIFNOV1963.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        581, 
+        363, 
+        497, 
+        341, 
+        40, 
+        67, 
+        86, 
+        204, 
+        1094, 
+        1095, 
+        546, 
+        918
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1294, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Governor of Glave"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Second-Class Citizen"
+        }, 
+        {
+            "author": 499, 
+            "title": "Muck Man"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Reefs of Space (Part 3 of 3)"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Better Mousetrap"
+        }, 
+        {
+            "author": 341, 
+            "title": "Response &Amp; Addenda"
+        }, 
+        {
+            "author": 341, 
+            "title": "Glop, Goosh and Gilgamesh"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, November 1963)"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Governor of Glave"
+        }, 
+        {
+            "author": 86, 
+            "title": "The Reefs of Space (Part 3 of 3)"
+        }, 
+        {
+            "author": 204, 
+            "title": "The Second-Class Citizen"
+        }, 
+        {
+            "author": 1094, 
+            "title": "Muck Man"
+        }, 
+        {
+            "author": 1095, 
+            "title": "Long Day in Court"
+        }, 
+        {
+            "author": 546, 
+            "title": "A Better Mousetrap"
+        }
+    ]
+}

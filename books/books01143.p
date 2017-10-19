@@ -71,135 +71,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VI Will Fear No Evil (Part 1 of 4)
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VThe Throwbacks
-p34
-sa(dp35
-g10
-I326
-sg14
-VThe Throwbacks [2]
-p36
-sa(dp37
-g10
-I326
-sg14
-VThe Throwbacks [3]
-p38
-sa(dp39
-g10
-I681
-sg14
-VGood
-p40
-sa(dp41
-g10
-I326
-sg14
-VThe All-at-Once Man
-p42
-sa(dp43
-g10
-I326
-sg14
-VThe Hookup
-p44
-sa(dp45
-g10
-I326
-sg14
-VAsk a Silly Question
-p46
-sa(dp47
-g10
-I499
-sg14
-VSittik
-p48
-sa(dp49
-g10
-I326
-sg14
-VI Will Fear No Evil (Part 1 of 4) [2]
-p50
-sa(dp51
-g10
-I326
-sg14
-VI Will Fear No Evil (Part 1 of 4) [3]
-p52
-sa(dp53
-g10
-I326
-sg14
-VI Will Fear No Evil (Part 1 of 4) [4]
-p54
-sa(dp55
-g10
-I667
-sg14
-VAsbestos, Too
-p56
-sa(dp57
-g10
-I682
-sg14
-VContainers for the Condition of Man
-p58
-sa(dp59
-g10
-I613
-sg14
-VGalaxy Stars (Galaxy, July 1970)
-p60
-sa(dp61
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, July 1970)
-p62
-sa(dp63
-g10
-I50
-sg14
-VThe Throwbacks
-p64
-sa(dp65
-g10
-I74
-sg14
-VThe All-at-Once Man
-p66
-sa(dp67
-g10
-I371
-sg14
 VI Will Fear No Evil (Part 1 of 4)
-p68
-sa(dp69
-g10
-I662
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
+VThe Throwbacks
+p36
+sg34
+I326
+sa(dp37
+g32
+VThe Throwbacks [2]
+p38
+sg34
+I326
+sa(dp39
+g32
+VThe Throwbacks [3]
+p40
+sg34
+I326
+sa(dp41
+g32
+VGood
+p42
+sg34
+I681
+sa(dp43
+g32
+VThe All-at-Once Man
+p44
+sg34
+I326
+sa(dp45
+g32
 VThe Hookup
-p70
-sa(dp71
-g10
-I549
-sg14
+p46
+sg34
+I326
+sa(dp47
+g32
 VAsk a Silly Question
-p72
-sa(dp73
-g10
-I613
-sg14
+p48
+sg34
+I326
+sa(dp49
+g32
 VSittik
+p50
+sg34
+I499
+sa(dp51
+g32
+VI Will Fear No Evil (Part 1 of 4) [2]
+p52
+sg34
+I326
+sa(dp53
+g32
+VI Will Fear No Evil (Part 1 of 4) [3]
+p54
+sg34
+I326
+sa(dp55
+g32
+VI Will Fear No Evil (Part 1 of 4) [4]
+p56
+sg34
+I326
+sa(dp57
+g32
+VAsbestos, Too
+p58
+sg34
+I667
+sa(dp59
+g32
+VContainers for the Condition of Man
+p60
+sg34
+I682
+sa(dp61
+g32
+VGalaxy Stars (Galaxy, July 1970)
+p62
+sg34
+I613
+sa(dp63
+g32
+VGalaxy Bookshelf (Galaxy, July 1970)
+p64
+sg34
+I91
+sa(dp65
+g32
+VThe Throwbacks
+p66
+sg34
+I50
+sa(dp67
+g32
+VThe All-at-Once Man
+p68
+sg34
+I74
+sa(dp69
+g32
+VI Will Fear No Evil (Part 1 of 4)
+p70
+sg34
+I371
+sa(dp71
+g32
+VThe Hookup
+p72
+sg34
+I662
+sa(dp73
+g32
+VAsk a Silly Question
 p74
+sg34
+I549
+sa(dp75
+g32
+VSittik
+p76
+sg34
+I613
 sasb.

@@ -71,117 +71,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I519
-sg14
-VThe Pod in the Barrier
+S'title'
 p32
-sa(dp33
-g10
-I519
-sg14
-VThe Pod in the Barrier [2]
-p34
-sa(dp35
-g10
-I519
-sg14
-VThe Pod in the Barrier [3]
-p36
-sa(dp37
-g10
-I515
-sg14
-VDoat Age
-p38
-sa(dp39
-g10
-I504
-sg14
-VThe Sly Bungerhop
-p40
-sa(dp41
-g10
-I504
-sg14
-VThe Sly Bungerhop [2]
-p42
-sa(dp43
-g10
-I504
-sg14
-VThe Sly Bungerhop [3]
-p44
-sa(dp45
-g10
-I506
-sg14
-VThe Dark Star
-p46
-sa(dp47
-g10
-I506
-sg14
-VShadow World
-p48
-sa(dp49
-g10
-I506
-sg14
-VShadow World [2]
-p50
-sa(dp51
-g10
-I506
-sg14
-VShadow World [3]
-p52
-sa(dp53
-g10
-I305
-sg14
-VMea Culpa
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: The Earliest Robot
-p56
-sa(dp57
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, September 1957)
-p58
-sa(dp59
-g10
-I341
-sg14
 VThe Pod in the Barrier
-p60
-sa(dp61
-g10
-I387
-sg14
-VThe Sly Bungerhop
-p62
-sa(dp63
-g10
-I56
-sg14
-VShadow World
-p64
-sa(dp65
-g10
-I520
-sg14
+p33
+sS'author'
+p34
+I519
+sa(dp35
+g32
+VThe Pod in the Barrier [2]
+p36
+sg34
+I519
+sa(dp37
+g32
+VThe Pod in the Barrier [3]
+p38
+sg34
+I519
+sa(dp39
+g32
 VDoat Age
-p66
-sa(dp67
-g10
-I98
-sg14
+p40
+sg34
+I515
+sa(dp41
+g32
+VThe Sly Bungerhop
+p42
+sg34
+I504
+sa(dp43
+g32
+VThe Sly Bungerhop [2]
+p44
+sg34
+I504
+sa(dp45
+g32
+VThe Sly Bungerhop [3]
+p46
+sg34
+I504
+sa(dp47
+g32
 VThe Dark Star
+p48
+sg34
+I506
+sa(dp49
+g32
+VShadow World
+p50
+sg34
+I506
+sa(dp51
+g32
+VShadow World [2]
+p52
+sg34
+I506
+sa(dp53
+g32
+VShadow World [3]
+p54
+sg34
+I506
+sa(dp55
+g32
+VMea Culpa
+p56
+sg34
+I305
+sa(dp57
+g32
+VFor Your Information: The Earliest Robot
+p58
+sg34
+I339
+sa(dp59
+g32
+VGalaxy's 5 Star Shelf (Galaxy, September 1957)
+p60
+sg34
+I483
+sa(dp61
+g32
+VThe Pod in the Barrier
+p62
+sg34
+I341
+sa(dp63
+g32
+VThe Sly Bungerhop
+p64
+sg34
+I387
+sa(dp65
+g32
+VShadow World
+p66
+sg34
+I56
+sa(dp67
+g32
+VDoat Age
 p68
+sg34
+I520
+sa(dp69
+g32
+VThe Dark Star
+p70
+sg34
+I98
 sasb.

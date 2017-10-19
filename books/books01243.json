@@ -1,0 +1,100 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1955", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/1955-04_IF/1955-04_IF_jp2.zip&file=1955-04_IF_jp2/1955-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a2/WOFIFAPR1955.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        363, 
+        956, 
+        412, 
+        948, 
+        161, 
+        991, 
+        153, 
+        1010, 
+        8, 
+        982, 
+        918
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1243, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Airport of the Future"
+        }, 
+        {
+            "author": 363, 
+            "title": "Shill"
+        }, 
+        {
+            "author": 956, 
+            "title": "Task Mission"
+        }, 
+        {
+            "author": 363, 
+            "title": "One Love Have I"
+        }, 
+        {
+            "author": 956, 
+            "title": "Willie's Planet"
+        }, 
+        {
+            "author": 412, 
+            "title": "Captive Market"
+        }, 
+        {
+            "author": 956, 
+            "title": "Escape Mechanism"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, April 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, April 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, April 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, April 1955)"
+        }, 
+        {
+            "author": 161, 
+            "title": "Shill"
+        }, 
+        {
+            "author": 991, 
+            "title": "Task Mission"
+        }, 
+        {
+            "author": 153, 
+            "title": "One Love Have I"
+        }, 
+        {
+            "author": 1010, 
+            "title": "Willie's Planet"
+        }, 
+        {
+            "author": 8, 
+            "title": "Captive Market"
+        }, 
+        {
+            "author": 982, 
+            "title": "Escape Mechanism"
+        }
+    ]
+}

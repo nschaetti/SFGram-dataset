@@ -70,93 +70,95 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VThe Day Before the Revolution
+S'title'
 p32
-sa(dp33
-g10
-I742
-sg14
-VShowcase (Galaxy, August 1974)
-p34
-sa(dp35
-g10
-I326
-sg14
-VThe Company of Glory (Part 1 of 3)
-p36
-sa(dp37
-g10
-I326
-sg14
-VThe Gift of Garigolli
-p38
-sa(dp39
-g10
-I326
-sg14
-VBig Black Whole
-p40
-sa(dp41
-g10
-I499
-sg14
-VOrbitsville (Part 3 of 3)
-p42
-sa(dp43
-g10
-I30
-sg14
-VForum: A Cyclical Theory of Science Fiction
-p44
-sa(dp45
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, August 1974)
-p46
-sa(dp47
-g10
-I734
-sg14
-VOur Friends the Arabs
-p48
-sa(dp49
-g10
-I326
-sg14
-VDirections (Galaxy, August 1974)
-p50
-sa(dp51
-g10
-I51
-sg14
-VThe Gift of Garigolli
-p52
-sa(dp53
-g10
-I132
-sg14
-VThe Company of Glory (Part 1 of 3)
-p54
-sa(dp55
-g10
-I665
-sg14
-VOrbitsville (Part 3 of 3)
-p56
-sa(dp57
-g10
-I743
-sg14
 VThe Day Before the Revolution
-p58
-sa(dp59
-g10
-I741
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VShowcase (Galaxy, August 1974)
+p36
+sg34
+I742
+sa(dp37
+g32
+VThe Company of Glory (Part 1 of 3)
+p38
+sg34
+I326
+sa(dp39
+g32
+VThe Gift of Garigolli
+p40
+sg34
+I326
+sa(dp41
+g32
 VBig Black Whole
+p42
+sg34
+I326
+sa(dp43
+g32
+VOrbitsville (Part 3 of 3)
+p44
+sg34
+I499
+sa(dp45
+g32
+VForum: A Cyclical Theory of Science Fiction
+p46
+sg34
+I30
+sa(dp47
+g32
+VGalaxy Bookshelf (Galaxy, August 1974)
+p48
+sg34
+I341
+sa(dp49
+g32
+VOur Friends the Arabs
+p50
+sg34
+I734
+sa(dp51
+g32
+VDirections (Galaxy, August 1974)
+p52
+sg34
+I326
+sa(dp53
+g32
+VThe Gift of Garigolli
+p54
+sg34
+I51
+sa(dp55
+g32
+VThe Company of Glory (Part 1 of 3)
+p56
+sg34
+I132
+sa(dp57
+g32
+VOrbitsville (Part 3 of 3)
+p58
+sg34
+I665
+sa(dp59
+g32
+VThe Day Before the Revolution
 p60
+sg34
+I743
+sa(dp61
+g32
+VBig Black Whole
+p62
+sg34
+I741
 sasb.

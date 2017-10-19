@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1953", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/1953-03_IF/1953-03_IF_jp2.zip&file=1953-03_IF_jp2/1953-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/visco/Magazines/WIF123/WIF1_0001.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        363, 
+        931, 
+        412, 
+        944, 
+        424, 
+        497, 
+        948, 
+        952, 
+        326, 
+        221, 
+        953, 
+        88, 
+        249, 
+        109, 
+        954, 
+        955, 
+        918
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1224, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "Defense Base On the Moon"
+        }, 
+        {
+            "author": 363, 
+            "title": "Deadly City"
+        }, 
+        {
+            "author": 931, 
+            "title": "Margin of Error"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Victor"
+        }, 
+        {
+            "author": 944, 
+            "title": "Thy Name Is Woman"
+        }, 
+        {
+            "author": 424, 
+            "title": "The Sword"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Rotifers"
+        }, 
+        {
+            "author": 951, 
+            "title": "The Black Tide"
+        }, 
+        {
+            "author": 951, 
+            "title": "On Target"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, March 1953)"
+        }, 
+        {
+            "author": 952, 
+            "title": "Personalities in Science: Galileo"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, March 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh (If, March 1953)"
+        }, 
+        {
+            "author": 221, 
+            "title": "Deadly City"
+        }, 
+        {
+            "author": 953, 
+            "title": "Margin of Error"
+        }, 
+        {
+            "author": 88, 
+            "title": "The Victor"
+        }, 
+        {
+            "author": 88, 
+            "title": "Thy Name Is Woman"
+        }, 
+        {
+            "author": 249, 
+            "title": "The Sword"
+        }, 
+        {
+            "author": 109, 
+            "title": "The Rotifers"
+        }, 
+        {
+            "author": 954, 
+            "title": "The Black Tide"
+        }, 
+        {
+            "author": 955, 
+            "title": "The Salesman"
+        }
+    ]
+}

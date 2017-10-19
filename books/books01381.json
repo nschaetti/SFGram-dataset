@@ -1,0 +1,77 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1973", 
+    "cover": "https://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/1973-02_IF/1973-02_IF_jp2.zip&file=1973-02_IF_jp2/1973-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/93/WOFIFJANFEB1973.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        356, 
+        675, 
+        686, 
+        635, 
+        56, 
+        153, 
+        918
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1381, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Death and Designation Among the Asadi"
+        }, 
+        {
+            "author": 326, 
+            "title": "Construction Shack"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Never Girl"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Wizard of Anharitte (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Ghosts"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, January-February 1973)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, January-February 1973)"
+        }, 
+        {
+            "author": 675, 
+            "title": "The Never Girl"
+        }, 
+        {
+            "author": 686, 
+            "title": "Death and Designation Among the Asadi"
+        }, 
+        {
+            "author": 635, 
+            "title": "The Wizard of Anharitte (Part 2 of 3)"
+        }, 
+        {
+            "author": 56, 
+            "title": "Construction Shack"
+        }, 
+        {
+            "author": 153, 
+            "title": "Ghosts"
+        }
+    ]
+}

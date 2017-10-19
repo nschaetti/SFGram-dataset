@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1968", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/1968-11_IF/1968-11_IF_jp2.zip&file=1968-11_IF_jp2/1968-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e2/WOFIFNOV1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        1174, 
+        326, 
+        519, 
+        40, 
+        356, 
+        3, 
+        591, 
+        1175, 
+        69, 
+        136, 
+        55, 
+        1176, 
+        163, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1349, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Computer Conspiracy (Part 1 of 2)"
+        }, 
+        {
+            "author": 1174, 
+            "title": "Creatures of Light"
+        }, 
+        {
+            "author": 326, 
+            "title": "Now That Man Is Gone"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Perfect Secretary"
+        }, 
+        {
+            "author": 40, 
+            "title": "More Dooms"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, November 1968)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, November 1968)"
+        }, 
+        {
+            "author": 3, 
+            "title": "Letter (If, November 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, November 1968)"
+        }, 
+        {
+            "author": 591, 
+            "title": "Creatures of Light"
+        }, 
+        {
+            "author": 1175, 
+            "title": "The Perfect Secretary"
+        }, 
+        {
+            "author": 69, 
+            "title": "The Computer Conspiracy (Part 1 of 2)"
+        }, 
+        {
+            "author": 136, 
+            "title": "Where the Time Went"
+        }, 
+        {
+            "author": 55, 
+            "title": "Now That Man Is Gone"
+        }, 
+        {
+            "author": 1176, 
+            "title": "Wizard Ship"
+        }, 
+        {
+            "author": 163, 
+            "title": "Bookmobile"
+        }
+    ]
+}

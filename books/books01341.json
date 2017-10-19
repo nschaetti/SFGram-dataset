@@ -1,0 +1,98 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1968", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/1968-03_IF_modified/1968-03_IF_modified_jp2.zip&file=1968-03_IF_modified_jp2/1968-03_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/7d/WOFIFMAR1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        499, 
+        628, 
+        611, 
+        40, 
+        326, 
+        1125, 
+        1161, 
+        1023, 
+        604, 
+        308, 
+        1105, 
+        1162, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1341, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "Sunbeam Caress"
+        }, 
+        {
+            "author": 497, 
+            "title": "Sunbeam Caress [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Worlds to Kill"
+        }, 
+        {
+            "author": 628, 
+            "title": "Caterpillar Express"
+        }, 
+        {
+            "author": 499, 
+            "title": "Squatter's Rights"
+        }, 
+        {
+            "author": 611, 
+            "title": "Slowboat Cargo (Part 2 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "What Science Fiction Is"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, March 1968)"
+        }, 
+        {
+            "author": 1125, 
+            "title": "At Nycon #3"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, March 1968)"
+        }, 
+        {
+            "author": 1161, 
+            "title": "Sunbeam Caress"
+        }, 
+        {
+            "author": 1023, 
+            "title": "Worlds to Kill"
+        }, 
+        {
+            "author": 604, 
+            "title": "Slowboat Cargo (Part 2 of 3)"
+        }, 
+        {
+            "author": 308, 
+            "title": "Deadlier Specie"
+        }, 
+        {
+            "author": 1105, 
+            "title": "Caterpillar Express"
+        }, 
+        {
+            "author": 1162, 
+            "title": "Squatter's Rights"
+        }
+    ]
+}

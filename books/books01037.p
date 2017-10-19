@@ -72,129 +72,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VA Gun for Dinosaur
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VA Gun for Dinosaur [2]
-p34
-sa(dp35
-g10
-I363
-sg14
-VA Gun for Dinosaur [3]
-p36
-sa(dp37
-g10
-I486
-sg14
-VFlat Tiger
-p38
-sa(dp39
-g10
-I402
-sg14
-VTsylana
-p40
-sa(dp41
-g10
-I402
-sg14
-VTsylana [2]
-p42
-sa(dp43
-g10
-I402
-sg14
-VTsylana [3]
-p44
-sa(dp45
-g10
-I481
-sg14
-VLittle Red Schoolhouse
-p46
-sa(dp47
-g10
-I363
-sg14
-VSlave Ship (Part 1 of 3)
-p48
-sa(dp49
-g10
-I363
-sg14
-VSlave Ship (Part 1 of 3) [2]
-p50
-sa(dp51
-g10
-I363
-sg14
-VSlave Ship (Part 1 of 3) [3]
-p52
-sa(dp53
-g10
-I363
-sg14
-VSlave Ship (Part 1 of 3) [4]
-p54
-sa(dp55
-g10
-I305
-sg14
-VLook Now!
-p56
-sa(dp57
-g10
-I339
-sg14
-VFor Your Information: The Hollow Earth
-p58
-sa(dp59
-g10
-I483
-sg14
-VGalaxy's Five Star Shelf (Galaxy, March 1956)
-p60
-sa(dp61
-g10
-I326
-sg14
-VForecast (Galaxy, March 1956)
-p62
-sa(dp63
-g10
-I345
-sg14
 VA Gun for Dinosaur
-p64
-sa(dp65
-g10
-I161
-sg14
-VTsylana
-p66
-sa(dp67
-g10
-I40
-sg14
-VSlave Ship (Part 1 of 3)
-p68
-sa(dp69
-g10
-I315
-sg14
+p33
+sS'author'
+p34
+I363
+sa(dp35
+g32
+VA Gun for Dinosaur [2]
+p36
+sg34
+I363
+sa(dp37
+g32
+VA Gun for Dinosaur [3]
+p38
+sg34
+I363
+sa(dp39
+g32
 VFlat Tiger
-p70
-sa(dp71
-g10
-I153
-sg14
+p40
+sg34
+I486
+sa(dp41
+g32
+VTsylana
+p42
+sg34
+I402
+sa(dp43
+g32
+VTsylana [2]
+p44
+sg34
+I402
+sa(dp45
+g32
+VTsylana [3]
+p46
+sg34
+I402
+sa(dp47
+g32
 VLittle Red Schoolhouse
+p48
+sg34
+I481
+sa(dp49
+g32
+VSlave Ship (Part 1 of 3)
+p50
+sg34
+I363
+sa(dp51
+g32
+VSlave Ship (Part 1 of 3) [2]
+p52
+sg34
+I363
+sa(dp53
+g32
+VSlave Ship (Part 1 of 3) [3]
+p54
+sg34
+I363
+sa(dp55
+g32
+VSlave Ship (Part 1 of 3) [4]
+p56
+sg34
+I363
+sa(dp57
+g32
+VLook Now!
+p58
+sg34
+I305
+sa(dp59
+g32
+VFor Your Information: The Hollow Earth
+p60
+sg34
+I339
+sa(dp61
+g32
+VGalaxy's Five Star Shelf (Galaxy, March 1956)
+p62
+sg34
+I483
+sa(dp63
+g32
+VForecast (Galaxy, March 1956)
+p64
+sg34
+I326
+sa(dp65
+g32
+VA Gun for Dinosaur
+p66
+sg34
+I345
+sa(dp67
+g32
+VTsylana
+p68
+sg34
+I161
+sa(dp69
+g32
+VSlave Ship (Part 1 of 3)
+p70
+sg34
+I40
+sa(dp71
+g32
+VFlat Tiger
 p72
+sg34
+I315
+sa(dp73
+g32
+VLittle Red Schoolhouse
+p74
+sg34
+I153
 sasb.

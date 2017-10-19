@@ -76,117 +76,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I303
-sg14
-VEditorial (Galaxy, #8)
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VJiffy Thoroughthink's 5-Star Book Review
+VEditorial (Galaxy, #8)
+p33
+sS'author'
 p34
+I303
 sa(dp35
-g10
-I313
-sg14
-VTrek Diary: Court Martial
+g32
+VJiffy Thoroughthink's 5-Star Book Review
 p36
+sg34
+I326
 sa(dp37
-g10
-I314
-sg14
-VFor Your Information (Galaxy, #8)
+g32
+VTrek Diary: Court Martial
 p38
+sg34
+I313
 sa(dp39
-g10
-I312
-sg14
-VReckless
+g32
+VFor Your Information (Galaxy, #8)
 p40
+sg34
+I314
 sa(dp41
-g10
-I315
-sg14
-VThe Man in the Mailbag
+g32
+VReckless
 p42
+sg34
+I312
 sa(dp43
-g10
-I327
-sg14
-VMe and My Shadow
+g32
+VThe Man in the Mailbag
 p44
+sg34
+I315
 sa(dp45
-g10
-I328
-sg14
-VCrystal
+g32
+VMe and My Shadow
 p46
+sg34
+I327
 sa(dp47
-g10
-I325
-sg14
-VI'm Dying Out Here
+g32
+VCrystal
 p48
+sg34
+I328
 sa(dp49
-g10
-I329
-sg14
-VDances with Elves
+g32
+VI'm Dying Out Here
 p50
+sg34
+I325
 sa(dp51
-g10
-I330
-sg14
-VBad Moon Rising
+g32
+VDances with Elves
 p52
+sg34
+I329
 sa(dp53
-g10
-I307
-sg14
-VSyrup of Greep
+g32
+VBad Moon Rising
 p54
+sg34
+I330
 sa(dp55
-g10
-I331
-sg14
-VThe Difference a Day Makes
+g32
+VSyrup of Greep
 p56
+sg34
+I307
 sa(dp57
-g10
-I325
-sg14
-VKnockout
+g32
+VThe Difference a Day Makes
 p58
+sg34
+I331
 sa(dp59
-g10
-I325
-sg14
-VDessert
+g32
+VKnockout
 p60
+sg34
+I325
 sa(dp61
-g10
-I332
-sg14
-VSacrifice
+g32
+VDessert
 p62
+sg34
+I325
 sa(dp63
-g10
-I333
-sg14
-VThat's Progress
+g32
+VSacrifice
 p64
+sg34
+I332
 sa(dp65
-g10
-I334
-sg14
-VMutant
+g32
+VThat's Progress
 p66
+sg34
+I333
 sa(dp67
-g10
-I335
-sg14
-VSilky, Slinky, Fabulous -- To Die For
+g32
+VMutant
 p68
+sg34
+I334
+sa(dp69
+g32
+VSilky, Slinky, Fabulous -- To Die For
+p70
+sg34
+I335
 sasb.

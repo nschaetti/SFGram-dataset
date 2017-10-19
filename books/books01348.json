@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1968", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1968-10_IF/1968-10_IF_jp2.zip&file=1968-10_IF_jp2/1968-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/89/WOFIFOCT1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        497, 
+        611, 
+        1170, 
+        40, 
+        1171, 
+        356, 
+        326, 
+        46, 
+        1172, 
+        658, 
+        16, 
+        645, 
+        1173, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1348, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "High Weir"
+        }, 
+        {
+            "author": 497, 
+            "title": "Deathchild"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Proxy Intelligence (Condensed)"
+        }, 
+        {
+            "author": 611, 
+            "title": "Or Battle's Sound"
+        }, 
+        {
+            "author": 1170, 
+            "title": "Pupa Knows Best"
+        }, 
+        {
+            "author": 40, 
+            "title": "Packaging People"
+        }, 
+        {
+            "author": 1171, 
+            "title": "Report On Japanese Science Fiction"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, October 1968)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, October 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, October 1968)"
+        }, 
+        {
+            "author": 46, 
+            "title": "High Weir"
+        }, 
+        {
+            "author": 1172, 
+            "title": "Deathchild"
+        }, 
+        {
+            "author": 658, 
+            "title": "The Proxy Intelligence (Condensed)"
+        }, 
+        {
+            "author": 16, 
+            "title": "Or Battle's Sound"
+        }, 
+        {
+            "author": 645, 
+            "title": "Pupa Knows Best"
+        }, 
+        {
+            "author": 1173, 
+            "title": "Paddlewheel On the Styx"
+        }
+    ]
+}

@@ -72,225 +72,227 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VDamnation Alley
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VDamnation Alley [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VDamnation Alley [3]
-p36
-sa(dp37
-g10
-I499
-sg14
-VDamnation Alley [4]
-p38
-sa(dp39
-g10
-I497
-sg14
-VPoulfinch's Mythology
-p40
-sa(dp41
-g10
-I497
-sg14
-VPoulfinch's Mythology [2]
-p42
-sa(dp43
-g10
-I497
-sg14
-VPoulfinch's Mythology [3]
-p44
-sa(dp45
-g10
-I497
-sg14
-VPoulfinch's Mythology [4]
-p46
-sa(dp47
-g10
-I497
-sg14
-VPoulfinch's Mythology [5]
-p48
-sa(dp49
-g10
-I497
-sg14
-VPoulfinch's Mythology [6]
-p50
-sa(dp51
-g10
-I497
-sg14
-VPoulfinch's Mythology [7]
-p52
-sa(dp53
-g10
-I497
-sg14
-VPoulfinch's Mythology [8]
-p54
-sa(dp55
-g10
-I497
-sg14
-VPoulfinch's Mythology [9]
-p56
-sa(dp57
-g10
-I497
-sg14
-VPoulfinch's Mythology [10]
-p58
-sa(dp59
-g10
-I497
-sg14
-VPoulfinch's Mythology [11]
-p60
-sa(dp61
-g10
-I497
-sg14
-VPoulfinch's Mythology [12]
-p62
-sa(dp63
-g10
-I545
-sg14
-VThe Transmogrification of Wamba's Revenge
-p64
-sa(dp65
-g10
-I545
-sg14
-VThe Transmogrification of Wamba's Revenge [2]
-p66
-sa(dp67
-g10
-I545
-sg14
-VThe Transmogrification of Wamba's Revenge [3]
-p68
-sa(dp69
-g10
-I619
-sg14
-VUnderstanding
-p70
-sa(dp71
-g10
-I619
-sg14
-VUnderstanding [2]
-p72
-sa(dp73
-g10
-I619
-sg14
-VUnderstanding [3]
-p74
-sa(dp75
-g10
-I619
-sg14
-VUnderstanding [4]
-p76
-sa(dp77
-g10
-I620
-sg14
-VA Galaxy of Fashion
-p78
-sa(dp79
-g10
-I620
-sg14
-VA Galaxy of Fashion [2]
-p80
-sa(dp81
-g10
-I620
-sg14
-VA Galaxy of Fashion [3]
-p82
-sa(dp83
-g10
-I620
-sg14
-VA Galaxy of Fashion [4]
-p84
-sa(dp85
-g10
-I620
-sg14
-VA Galaxy of Fashion [5]
-p86
-sa(dp87
-g10
-I40
-sg14
-VThirty Long Years
-p88
-sa(dp89
-g10
-I326
-sg14
-VForecast (Galaxy, October 1967)
-p90
-sa(dp91
-g10
-I339
-sg14
-VFor Your Information: The Worst of All Comets
-p92
-sa(dp93
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, October 1967)
-p94
-sa(dp95
-g10
-I305
-sg14
-VThe Transmogrification of Wamba's Revenge
-p96
-sa(dp97
-g10
-I95
-sg14
-VUnderstanding
-p98
-sa(dp99
-g10
-I591
-sg14
 VDamnation Alley
-p100
-sa(dp101
-g10
-I40
-sg14
-VA Galaxy of Fashion
-p102
-sa(dp103
-g10
-I30
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VDamnation Alley [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VDamnation Alley [3]
+p38
+sg34
+I499
+sa(dp39
+g32
+VDamnation Alley [4]
+p40
+sg34
+I499
+sa(dp41
+g32
 VPoulfinch's Mythology
+p42
+sg34
+I497
+sa(dp43
+g32
+VPoulfinch's Mythology [2]
+p44
+sg34
+I497
+sa(dp45
+g32
+VPoulfinch's Mythology [3]
+p46
+sg34
+I497
+sa(dp47
+g32
+VPoulfinch's Mythology [4]
+p48
+sg34
+I497
+sa(dp49
+g32
+VPoulfinch's Mythology [5]
+p50
+sg34
+I497
+sa(dp51
+g32
+VPoulfinch's Mythology [6]
+p52
+sg34
+I497
+sa(dp53
+g32
+VPoulfinch's Mythology [7]
+p54
+sg34
+I497
+sa(dp55
+g32
+VPoulfinch's Mythology [8]
+p56
+sg34
+I497
+sa(dp57
+g32
+VPoulfinch's Mythology [9]
+p58
+sg34
+I497
+sa(dp59
+g32
+VPoulfinch's Mythology [10]
+p60
+sg34
+I497
+sa(dp61
+g32
+VPoulfinch's Mythology [11]
+p62
+sg34
+I497
+sa(dp63
+g32
+VPoulfinch's Mythology [12]
+p64
+sg34
+I497
+sa(dp65
+g32
+VThe Transmogrification of Wamba's Revenge
+p66
+sg34
+I545
+sa(dp67
+g32
+VThe Transmogrification of Wamba's Revenge [2]
+p68
+sg34
+I545
+sa(dp69
+g32
+VThe Transmogrification of Wamba's Revenge [3]
+p70
+sg34
+I545
+sa(dp71
+g32
+VUnderstanding
+p72
+sg34
+I619
+sa(dp73
+g32
+VUnderstanding [2]
+p74
+sg34
+I619
+sa(dp75
+g32
+VUnderstanding [3]
+p76
+sg34
+I619
+sa(dp77
+g32
+VUnderstanding [4]
+p78
+sg34
+I619
+sa(dp79
+g32
+VA Galaxy of Fashion
+p80
+sg34
+I620
+sa(dp81
+g32
+VA Galaxy of Fashion [2]
+p82
+sg34
+I620
+sa(dp83
+g32
+VA Galaxy of Fashion [3]
+p84
+sg34
+I620
+sa(dp85
+g32
+VA Galaxy of Fashion [4]
+p86
+sg34
+I620
+sa(dp87
+g32
+VA Galaxy of Fashion [5]
+p88
+sg34
+I620
+sa(dp89
+g32
+VThirty Long Years
+p90
+sg34
+I40
+sa(dp91
+g32
+VForecast (Galaxy, October 1967)
+p92
+sg34
+I326
+sa(dp93
+g32
+VFor Your Information: The Worst of All Comets
+p94
+sg34
+I339
+sa(dp95
+g32
+VGalaxy Bookshelf (Galaxy, October 1967)
+p96
+sg34
+I91
+sa(dp97
+g32
+VThe Transmogrification of Wamba's Revenge
+p98
+sg34
+I305
+sa(dp99
+g32
+VUnderstanding
+p100
+sg34
+I95
+sa(dp101
+g32
+VDamnation Alley
+p102
+sg34
+I591
+sa(dp103
+g32
+VA Galaxy of Fashion
 p104
+sg34
+I40
+sa(dp105
+g32
+VPoulfinch's Mythology
+p106
+sg34
+I30
 sasb.

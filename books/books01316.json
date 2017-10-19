@@ -1,0 +1,84 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1966", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/1966-02_IF/1966-02_IF_jp2.zip&file=1966-02_IF_jp2/1966-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/55/WOFIFFEB1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        581, 
+        1123, 
+        40, 
+        1124, 
+        111, 
+        371, 
+        662, 
+        74, 
+        470, 
+        604, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1316, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "Prisoners of the Sky"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Kettle Black"
+        }, 
+        {
+            "author": 1123, 
+            "title": "Not"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Moon Is a Harsh Mistress (Part 3 of 5)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Race for Space"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, February 1966)"
+        }, 
+        {
+            "author": 1124, 
+            "title": "The Kettle Black"
+        }, 
+        {
+            "author": 111, 
+            "title": "Prisoners of the Sky"
+        }, 
+        {
+            "author": 371, 
+            "title": "The Moon Is a Harsh Mistress (Part 3 of 5)"
+        }, 
+        {
+            "author": 662, 
+            "title": "Build We Must"
+        }, 
+        {
+            "author": 74, 
+            "title": "Nine Hundred Grandmothers"
+        }, 
+        {
+            "author": 470, 
+            "title": "The Peak Lords"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Warriors"
+        }
+    ]
+}

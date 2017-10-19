@@ -1,0 +1,142 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1970", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/1970-11-12_IF/1970-11-12_IF_jp2.zip&file=1970-11-12_IF_jp2/1970-11-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c8/WOFIFNOVDEC1970.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        667, 
+        356, 
+        443, 
+        617, 
+        669, 
+        711, 
+        1205, 
+        1206, 
+        1207, 
+        653, 
+        1208, 
+        918
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1368, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Song of Kaia"
+        }, 
+        {
+            "author": 326, 
+            "title": "Song of Kaia [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Song of Kaia [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Song of Kaia [4]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Song of Kaia [5]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Song of Kaia [6]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Song of Kaia [7]"
+        }, 
+        {
+            "author": 326, 
+            "title": "King Under the Mountain"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Last Time Around"
+        }, 
+        {
+            "author": 499, 
+            "title": "She Still Do"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Watchers"
+        }, 
+        {
+            "author": 326, 
+            "title": "Monarch"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Helping Hand"
+        }, 
+        {
+            "author": 326, 
+            "title": "Shambolain"
+        }, 
+        {
+            "author": 326, 
+            "title": "Nick O' Time"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, November-December 1970)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, November-December 1970)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, November-December 1970)"
+        }, 
+        {
+            "author": 443, 
+            "title": "The Last Time Around"
+        }, 
+        {
+            "author": 617, 
+            "title": "Monarch"
+        }, 
+        {
+            "author": 669, 
+            "title": "Song of Kaia"
+        }, 
+        {
+            "author": 711, 
+            "title": "King Under the Mountain"
+        }, 
+        {
+            "author": 1205, 
+            "title": "She Still Do"
+        }, 
+        {
+            "author": 1206, 
+            "title": "The Watchers"
+        }, 
+        {
+            "author": 1207, 
+            "title": "A Helping Hand"
+        }, 
+        {
+            "author": 653, 
+            "title": "Shambolain"
+        }, 
+        {
+            "author": 1208, 
+            "title": "Nick O' Time"
+        }
+    ]
+}

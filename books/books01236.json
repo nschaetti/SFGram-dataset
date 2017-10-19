@@ -1,0 +1,128 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1954", 
+    "cover": "https://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/1954-09_IF/1954-09_IF_jp2.zip&file=1954-09_IF_jp2/1954-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/73/WOFIFSEP1954.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        412, 
+        363, 
+        497, 
+        956, 
+        948, 
+        228, 
+        144, 
+        616, 
+        23, 
+        631, 
+        289, 
+        446, 
+        973, 
+        991, 
+        918
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1236, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Atomic Power Plant"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Test Colony"
+        }, 
+        {
+            "author": 412, 
+            "title": "Disqualified"
+        }, 
+        {
+            "author": 363, 
+            "title": "Confidence Game"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Battle"
+        }, 
+        {
+            "author": 363, 
+            "title": "World Without War"
+        }, 
+        {
+            "author": 412, 
+            "title": "Waste Not, Want"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Work-Out Planet"
+        }, 
+        {
+            "author": 956, 
+            "title": "D P"
+        }, 
+        {
+            "author": 956, 
+            "title": "A Gift for Terra"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, September 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, September 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, September 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, September 1954)"
+        }, 
+        {
+            "author": 228, 
+            "title": "The Test Colony"
+        }, 
+        {
+            "author": 144, 
+            "title": "Disqualified"
+        }, 
+        {
+            "author": 616, 
+            "title": "Confidence Game"
+        }, 
+        {
+            "author": 23, 
+            "title": "The Battle"
+        }, 
+        {
+            "author": 631, 
+            "title": "World Without War"
+        }, 
+        {
+            "author": 289, 
+            "title": "Waste Not, Want"
+        }, 
+        {
+            "author": 446, 
+            "title": "The Work-Out Planet"
+        }, 
+        {
+            "author": 973, 
+            "title": "D P"
+        }, 
+        {
+            "author": 991, 
+            "title": "A Gift for Terra"
+        }
+    ]
+}

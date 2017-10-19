@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1954", 
+    "cover": "https://ia800207.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/1954-04_IF/1954-04_IF_jp2.zip&file=1954-04_IF_jp2/1954-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/visco/Magazines/WIF123/WIF1_0009.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        412, 
+        969, 
+        363, 
+        956, 
+        975, 
+        948, 
+        605, 
+        976, 
+        326, 
+        8, 
+        23, 
+        228, 
+        389, 
+        977, 
+        978, 
+        979, 
+        918
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1231, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "City in the Desert"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Golden Man"
+        }, 
+        {
+            "author": 412, 
+            "title": "Breeder Reaction"
+        }, 
+        {
+            "author": 969, 
+            "title": "Way of a Rebel"
+        }, 
+        {
+            "author": 363, 
+            "title": "Carrier"
+        }, 
+        {
+            "author": 363, 
+            "title": "Carrier [2]"
+        }, 
+        {
+            "author": 956, 
+            "title": "All in the Mind"
+        }, 
+        {
+            "author": 956, 
+            "title": "Probability"
+        }, 
+        {
+            "author": 975, 
+            "title": "The Last Conqueror"
+        }, 
+        {
+            "author": 951, 
+            "title": "Wilderness Home"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, April 1954)"
+        }, 
+        {
+            "author": 605, 
+            "title": "\"It's About Time ...\""
+        }, 
+        {
+            "author": 976, 
+            "title": "Out of This World (If, April 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, April 1954)"
+        }, 
+        {
+            "author": 8, 
+            "title": "The Golden Man"
+        }, 
+        {
+            "author": 23, 
+            "title": "Carrier"
+        }, 
+        {
+            "author": 228, 
+            "title": "Breeder Reaction"
+        }, 
+        {
+            "author": 389, 
+            "title": "Way of a Rebel"
+        }, 
+        {
+            "author": 977, 
+            "title": "All in the Mind"
+        }, 
+        {
+            "author": 978, 
+            "title": "Probability"
+        }, 
+        {
+            "author": 979, 
+            "title": "The Last Conqueror"
+        }
+    ]
+}

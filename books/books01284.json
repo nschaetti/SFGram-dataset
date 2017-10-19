@@ -1,0 +1,101 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1962", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/1962-03_IF_modified/1962-03_IF_modified_jp2.zip&file=1962-03_IF_modified_jp2/1962-03_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/95/WOFIFMAR1962.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        551, 
+        573, 
+        556, 
+        1076, 
+        476, 
+        40, 
+        341, 
+        326, 
+        565, 
+        30, 
+        167, 
+        67, 
+        142, 
+        229, 
+        211, 
+        74, 
+        918
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1284, 
+    "contents": [
+        {
+            "author": 551, 
+            "title": "Kings Who Die"
+        }, 
+        {
+            "author": 573, 
+            "title": "Alexander Graham Bell and Me"
+        }, 
+        {
+            "author": 556, 
+            "title": "Tybalt"
+        }, 
+        {
+            "author": 1076, 
+            "title": "E/Being"
+        }, 
+        {
+            "author": 476, 
+            "title": "The Madman From Earth"
+        }, 
+        {
+            "author": 40, 
+            "title": "Who Else but You?"
+        }, 
+        {
+            "author": 341, 
+            "title": "Alexander Graham Bell and Me"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, March 1962)"
+        }, 
+        {
+            "author": 565, 
+            "title": "Hue and Cry (If, March 1962)"
+        }, 
+        {
+            "author": 30, 
+            "title": "Kings Who Die"
+        }, 
+        {
+            "author": 167, 
+            "title": "Tybalt"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Madman From Earth"
+        }, 
+        {
+            "author": 142, 
+            "title": "Dangerous Quarry"
+        }, 
+        {
+            "author": 229, 
+            "title": "The Happy Homicide"
+        }, 
+        {
+            "author": 211, 
+            "title": "E/Being"
+        }, 
+        {
+            "author": 74, 
+            "title": "Seven-Day Terror"
+        }
+    ]
+}

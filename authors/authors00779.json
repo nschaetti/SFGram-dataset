@@ -2,7 +2,11 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1184
+        1184, 
+        1325, 
+        1344, 
+        1345, 
+        1369
     ], 
     "id": 779, 
     "name": "John Sladek"

@@ -73,159 +73,161 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I545
-sg14
-VGoblin Reservation (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I545
-sg14
-VGoblin Reservation (Part 1 of 2) [2]
-p34
-sa(dp35
-g10
-I545
-sg14
-VGoblin Reservation (Part 1 of 2) [4]
-p36
-sa(dp37
-g10
-I545
-sg14
-VGoblin Reservation (Part 1 of 2) [3]
-p38
-sa(dp39
-g10
-I545
-sg14
-VGoblin Reservation (Part 1 of 2) [5]
-p40
-sa(dp41
-g10
-I545
-sg14
-VGoblin Reservation (Part 1 of 2) [6]
-p42
-sa(dp43
-g10
-I611
-sg14
-VBrain Drain
-p44
-sa(dp45
-g10
-I326
-sg14
-VSword Game
-p46
-sa(dp47
-g10
-I611
-sg14
-VTouch of the Moon
-p48
-sa(dp49
-g10
-I611
-sg14
-VTouch of the Moon [2]
-p50
-sa(dp51
-g10
-I499
-sg14
-VThe Deceivers
-p52
-sa(dp53
-g10
-I499
-sg14
-VThe World and Thorinn
-p54
-sa(dp55
-g10
-I499
-sg14
-VThe World and Thorinn [2]
-p56
-sa(dp57
-g10
-I499
-sg14
-VThe World and Thorinn [3]
-p58
-sa(dp59
-g10
-I499
-sg14
-VThe World and Thorinn [4]
-p60
-sa(dp61
-g10
-I40
-sg14
-VYet Still It Moves
-p62
-sa(dp63
-g10
-I339
-sg14
-VFor Your Information: The Devil's Apples
-p64
-sa(dp65
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, April 1968)
-p66
-sa(dp67
-g10
-I326
-sg14
-VForecast (Galaxy, April 1968)
-p68
-sa(dp69
-g10
-I622
-sg14
-VBrain Drain
-p70
-sa(dp71
-g10
-I350
-sg14
-VTouch of the Moon
-p72
-sa(dp73
-g10
-I204
-sg14
-VThe World and Thorinn
-p74
-sa(dp75
-g10
-I56
-sg14
 VGoblin Reservation (Part 1 of 2)
-p76
-sa(dp77
-g10
-I305
-sg14
-VThe Riches of Embarrassment
-p78
-sa(dp79
-g10
-I623
-sg14
+p33
+sS'author'
+p34
+I545
+sa(dp35
+g32
+VGoblin Reservation (Part 1 of 2) [2]
+p36
+sg34
+I545
+sa(dp37
+g32
+VGoblin Reservation (Part 1 of 2) [4]
+p38
+sg34
+I545
+sa(dp39
+g32
+VGoblin Reservation (Part 1 of 2) [3]
+p40
+sg34
+I545
+sa(dp41
+g32
+VGoblin Reservation (Part 1 of 2) [5]
+p42
+sg34
+I545
+sa(dp43
+g32
+VGoblin Reservation (Part 1 of 2) [6]
+p44
+sg34
+I545
+sa(dp45
+g32
+VBrain Drain
+p46
+sg34
+I611
+sa(dp47
+g32
 VSword Game
-p80
-sa(dp81
-g10
-I604
-sg14
+p48
+sg34
+I326
+sa(dp49
+g32
+VTouch of the Moon
+p50
+sg34
+I611
+sa(dp51
+g32
+VTouch of the Moon [2]
+p52
+sg34
+I611
+sa(dp53
+g32
 VThe Deceivers
+p54
+sg34
+I499
+sa(dp55
+g32
+VThe World and Thorinn
+p56
+sg34
+I499
+sa(dp57
+g32
+VThe World and Thorinn [2]
+p58
+sg34
+I499
+sa(dp59
+g32
+VThe World and Thorinn [3]
+p60
+sg34
+I499
+sa(dp61
+g32
+VThe World and Thorinn [4]
+p62
+sg34
+I499
+sa(dp63
+g32
+VYet Still It Moves
+p64
+sg34
+I40
+sa(dp65
+g32
+VFor Your Information: The Devil's Apples
+p66
+sg34
+I339
+sa(dp67
+g32
+VGalaxy Bookshelf (Galaxy, April 1968)
+p68
+sg34
+I91
+sa(dp69
+g32
+VForecast (Galaxy, April 1968)
+p70
+sg34
+I326
+sa(dp71
+g32
+VBrain Drain
+p72
+sg34
+I622
+sa(dp73
+g32
+VTouch of the Moon
+p74
+sg34
+I350
+sa(dp75
+g32
+VThe World and Thorinn
+p76
+sg34
+I204
+sa(dp77
+g32
+VGoblin Reservation (Part 1 of 2)
+p78
+sg34
+I56
+sa(dp79
+g32
+VThe Riches of Embarrassment
+p80
+sg34
+I305
+sa(dp81
+g32
+VSword Game
 p82
+sg34
+I623
+sa(dp83
+g32
+VThe Deceivers
+p84
+sg34
+I604
 sasb.

@@ -1,0 +1,130 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1968", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/1968-07_IF_modified/1968-07_IF_modified_jp2.zip&file=1968-07_IF_modified_jp2/1968-07_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b6/WOFIFJUL1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        615, 
+        624, 
+        642, 
+        626, 
+        40, 
+        356, 
+        326, 
+        1023, 
+        1154, 
+        629, 
+        86, 
+        1166, 
+        996, 
+        111, 
+        779, 
+        228, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1345, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Sleeper with Still Hands"
+        }, 
+        {
+            "author": 615, 
+            "title": "We Fused Ones"
+        }, 
+        {
+            "author": 624, 
+            "title": "Gone to the Graveyards, Everyone"
+        }, 
+        {
+            "author": 642, 
+            "title": "The Muschine"
+        }, 
+        {
+            "author": 624, 
+            "title": "The Soft Shells"
+        }, 
+        {
+            "author": 615, 
+            "title": "The Hides of Marrech"
+        }, 
+        {
+            "author": 626, 
+            "title": "In the Oligocene"
+        }, 
+        {
+            "author": 626, 
+            "title": "The Cure-All"
+        }, 
+        {
+            "author": 499, 
+            "title": "Rogue Star (Part 2 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "All but 98%"
+        }, 
+        {
+            "author": 356, 
+            "title": "If - and When (If, July 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, July 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Would You Do About Vietnam?"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, July 1968)"
+        }, 
+        {
+            "author": 1023, 
+            "title": "The Sleeper with Still Hands"
+        }, 
+        {
+            "author": 1154, 
+            "title": "We Fused Ones"
+        }, 
+        {
+            "author": 629, 
+            "title": "The Muschine"
+        }, 
+        {
+            "author": 86, 
+            "title": "Rogue Star (Part 2 of 3)"
+        }, 
+        {
+            "author": 1166, 
+            "title": "Gone to the Graveyards, Everyone"
+        }, 
+        {
+            "author": 996, 
+            "title": "The Soft Shells"
+        }, 
+        {
+            "author": 111, 
+            "title": "The Hides of Marrech"
+        }, 
+        {
+            "author": 779, 
+            "title": "In the Oligocene"
+        }, 
+        {
+            "author": 228, 
+            "title": "The Cure-All"
+        }
+    ]
+}

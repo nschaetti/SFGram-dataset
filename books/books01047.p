@@ -72,129 +72,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I419
-sg14
-VMoral Equivalent
+S'title'
 p32
-sa(dp33
-g10
-I419
-sg14
-VMoral Equivalent [2]
-p34
-sa(dp35
-g10
-I419
-sg14
-VMoral Equivalent [3]
-p36
-sa(dp37
-g10
-I497
-sg14
-VAll Jackson's Children
-p38
-sa(dp39
-g10
-I499
-sg14
-VButterfly 9
-p40
-sa(dp41
-g10
-I499
-sg14
-VButterfly 9 [2]
-p42
-sa(dp43
-g10
-I499
-sg14
-VButterfly 9 [3]
-p44
-sa(dp45
-g10
-I499
-sg14
-VThe Haunted Corpse
-p46
-sa(dp47
-g10
-I363
-sg14
-VThe Stars My Destination (Part 4 of 4)
-p48
-sa(dp49
-g10
-I363
-sg14
-VThe Stars My Destination (Part 4 of 4) [2]
-p50
-sa(dp51
-g10
-I363
-sg14
-VThe Stars My Destination (Part 4 of 4) [3]
-p52
-sa(dp53
-g10
-I363
-sg14
-VThe Stars My Destination (Part 4 of 4) [4]
-p54
-sa(dp55
-g10
-I305
-sg14
-VTreasurer's Report
-p56
-sa(dp57
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, January 1957)
-p58
-sa(dp59
-g10
-I326
-sg14
-VForecast (Galaxy, January 1957)
-p60
-sa(dp61
-g10
-I339
-sg14
-VFor Your Information: Tracking Down the Sea Serpent (Part Ii)
-p62
-sa(dp63
-g10
-I194
-sg14
 VMoral Equivalent
-p64
-sa(dp65
-g10
-I503
-sg14
-VButterfly 9
-p66
-sa(dp67
-g10
-I385
-sg14
-VThe Stars My Destination (Part 4 of 4)
-p68
-sa(dp69
-g10
-I220
-sg14
+p33
+sS'author'
+p34
+I419
+sa(dp35
+g32
+VMoral Equivalent [2]
+p36
+sg34
+I419
+sa(dp37
+g32
+VMoral Equivalent [3]
+p38
+sg34
+I419
+sa(dp39
+g32
 VAll Jackson's Children
-p70
-sa(dp71
-g10
-I40
-sg14
+p40
+sg34
+I497
+sa(dp41
+g32
+VButterfly 9
+p42
+sg34
+I499
+sa(dp43
+g32
+VButterfly 9 [2]
+p44
+sg34
+I499
+sa(dp45
+g32
+VButterfly 9 [3]
+p46
+sg34
+I499
+sa(dp47
+g32
 VThe Haunted Corpse
+p48
+sg34
+I499
+sa(dp49
+g32
+VThe Stars My Destination (Part 4 of 4)
+p50
+sg34
+I363
+sa(dp51
+g32
+VThe Stars My Destination (Part 4 of 4) [2]
+p52
+sg34
+I363
+sa(dp53
+g32
+VThe Stars My Destination (Part 4 of 4) [3]
+p54
+sg34
+I363
+sa(dp55
+g32
+VThe Stars My Destination (Part 4 of 4) [4]
+p56
+sg34
+I363
+sa(dp57
+g32
+VTreasurer's Report
+p58
+sg34
+I305
+sa(dp59
+g32
+VGalaxy's 5 Star Shelf (Galaxy, January 1957)
+p60
+sg34
+I483
+sa(dp61
+g32
+VForecast (Galaxy, January 1957)
+p62
+sg34
+I326
+sa(dp63
+g32
+VFor Your Information: Tracking Down the Sea Serpent (Part Ii)
+p64
+sg34
+I339
+sa(dp65
+g32
+VMoral Equivalent
+p66
+sg34
+I194
+sa(dp67
+g32
+VButterfly 9
+p68
+sg34
+I503
+sa(dp69
+g32
+VThe Stars My Destination (Part 4 of 4)
+p70
+sg34
+I385
+sa(dp71
+g32
+VAll Jackson's Children
 p72
+sg34
+I220
+sa(dp73
+g32
+VThe Haunted Corpse
+p74
+sg34
+I40
 sasb.

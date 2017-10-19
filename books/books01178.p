@@ -71,87 +71,89 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VLove Conquers All (Part 1 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VThe Persistence of Memory
-p34
-sa(dp35
-g10
-I744
-sg14
-VThe Butcher's Bill
-p36
-sa(dp37
-g10
-I326
-sg14
-VOf a Death On Dante
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Aerial Machine
-p40
-sa(dp41
-g10
-I40
-sg14
-VForum: Sf East: An Sf Safari to Redland
-p42
-sa(dp43
-g10
-I734
-sg14
-VHere Come the Brains
-p44
-sa(dp45
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, November 1974)
-p46
-sa(dp47
-g10
-I326
-sg14
-VDirections (Galaxy, November 1974)
-p48
-sa(dp49
-g10
-I740
-sg14
-VThe Persistence of Memory
-p50
-sa(dp51
-g10
-I755
-sg14
-VThe Butcher's Bill
-p52
-sa(dp53
-g10
-I759
-sg14
-VThe Aerial Machine
-p54
-sa(dp55
-g10
-I561
-sg14
 VLove Conquers All (Part 1 of 3)
-p56
-sa(dp57
-g10
-I760
-sg14
+p33
+sS'author'
+p34
+I742
+sa(dp35
+g32
+VThe Persistence of Memory
+p36
+sg34
+I499
+sa(dp37
+g32
+VThe Butcher's Bill
+p38
+sg34
+I744
+sa(dp39
+g32
 VOf a Death On Dante
+p40
+sg34
+I326
+sa(dp41
+g32
+VThe Aerial Machine
+p42
+sg34
+I499
+sa(dp43
+g32
+VForum: Sf East: An Sf Safari to Redland
+p44
+sg34
+I40
+sa(dp45
+g32
+VHere Come the Brains
+p46
+sg34
+I734
+sa(dp47
+g32
+VGalaxy Bookshelf (Galaxy, November 1974)
+p48
+sg34
+I341
+sa(dp49
+g32
+VDirections (Galaxy, November 1974)
+p50
+sg34
+I326
+sa(dp51
+g32
+VThe Persistence of Memory
+p52
+sg34
+I740
+sa(dp53
+g32
+VThe Butcher's Bill
+p54
+sg34
+I755
+sa(dp55
+g32
+VThe Aerial Machine
+p56
+sg34
+I759
+sa(dp57
+g32
+VLove Conquers All (Part 1 of 3)
 p58
+sg34
+I561
+sa(dp59
+g32
+VOf a Death On Dante
+p60
+sg34
+I760
 sasb.

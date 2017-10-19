@@ -72,123 +72,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I898
-sg14
-VThe Invasion of America
+S'title'
 p32
-sa(dp33
-g10
-I890
-sg14
-VStar Warriors (Part 2 of 2)
-p34
-sa(dp35
-g10
-I890
-sg14
-VStar Warriors (Part 2 of 2) [2]
-p36
-sa(dp37
-g10
-I890
-sg14
-VStar Warriors (Part 2 of 2) [3]
-p38
-sa(dp39
-g10
-I899
-sg14
-VA Beast for Norn
-p40
-sa(dp41
-g10
-I899
-sg14
-VA Beast for Norn [2]
-p42
-sa(dp43
-g10
-I899
-sg14
-VA Beast for Norn [3]
-p44
-sa(dp45
-g10
-I326
-sg14
-VJem (Part 4 of 5)
-p46
-sa(dp47
-g10
-I326
-sg14
-VJem (Part 4 of 5) [2]
-p48
-sa(dp49
-g10
-I326
-sg14
-VJem (Part 4 of 5) [3]
-p50
-sa(dp51
-g10
-I326
-sg14
-VJem (Part 4 of 5) [4]
-p52
-sa(dp53
-g10
-I312
-sg14
-VEditorial (Galaxy, September-October 1979)
-p54
-sa(dp55
-g10
-I893
-sg14
-VScience Fiction Hotline (Galaxy, September-October 1979)
-p56
-sa(dp57
-g10
-I900
-sg14
-VInterface/Interspace
-p58
-sa(dp59
-g10
-I691
-sg14
-VA Beast for Norn
-p60
-sa(dp61
-g10
-I901
-sg14
 VThe Invasion of America
-p62
-sa(dp63
-g10
-I854
-sg14
+p33
+sS'author'
+p34
+I898
+sa(dp35
+g32
 VStar Warriors (Part 2 of 2)
-p64
-sa(dp65
-g10
-I40
-sg14
+p36
+sg34
+I890
+sa(dp37
+g32
+VStar Warriors (Part 2 of 2) [2]
+p38
+sg34
+I890
+sa(dp39
+g32
+VStar Warriors (Part 2 of 2) [3]
+p40
+sg34
+I890
+sa(dp41
+g32
+VA Beast for Norn
+p42
+sg34
+I899
+sa(dp43
+g32
+VA Beast for Norn [2]
+p44
+sg34
+I899
+sa(dp45
+g32
+VA Beast for Norn [3]
+p46
+sg34
+I899
+sa(dp47
+g32
 VJem (Part 4 of 5)
+p48
+sg34
+I326
+sa(dp49
+g32
+VJem (Part 4 of 5) [2]
+p50
+sg34
+I326
+sa(dp51
+g32
+VJem (Part 4 of 5) [3]
+p52
+sg34
+I326
+sa(dp53
+g32
+VJem (Part 4 of 5) [4]
+p54
+sg34
+I326
+sa(dp55
+g32
+VEditorial (Galaxy, September-October 1979)
+p56
+sg34
+I312
+sa(dp57
+g32
+VScience Fiction Hotline (Galaxy, September-October 1979)
+p58
+sg34
+I893
+sa(dp59
+g32
+VInterface/Interspace
+p60
+sg34
+I900
+sa(dp61
+g32
+VA Beast for Norn
+p62
+sg34
+I691
+sa(dp63
+g32
+VThe Invasion of America
+p64
+sg34
+I901
+sa(dp65
+g32
+VStar Warriors (Part 2 of 2)
 p66
+sg34
+I854
 sa(dp67
-g10
-I902
-sg14
-VThe Depression of 1980
+g32
+VJem (Part 4 of 5)
 p68
+sg34
+I40
 sa(dp69
-g10
-I596
-sg14
-VA Little Girl's Spring Day in Moderan
+g32
+VThe Depression of 1980
 p70
+sg34
+I902
+sa(dp71
+g32
+VA Little Girl's Spring Day in Moderan
+p72
+sg34
+I596
 sasb.

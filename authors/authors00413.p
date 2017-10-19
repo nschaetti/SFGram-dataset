@@ -10,18 +10,19 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I413
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I997
-asS'name'
+aI1305
+asS'id'
+p10
+I413
+sS'name'
 p11
 VEric Frank Russell
 p12

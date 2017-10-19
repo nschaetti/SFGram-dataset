@@ -1,0 +1,105 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1969", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/1969-11_IF/1969-11_IF_jp2.zip&file=1969-11_IF_jp2/1969-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/64/WOFIFNOV1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        667, 
+        339, 
+        356, 
+        645, 
+        67, 
+        1192, 
+        1165, 
+        166, 
+        558, 
+        1193, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1359, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Happiness Is a Warm Spaceship"
+        }, 
+        {
+            "author": 326, 
+            "title": "To Kill a World"
+        }, 
+        {
+            "author": 326, 
+            "title": "For Sacred San Francisco"
+        }, 
+        {
+            "author": 326, 
+            "title": "By Civilized Standards"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Seeds of Gonyl (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Appropriate Punishment"
+        }, 
+        {
+            "author": 667, 
+            "title": "Editor's Page: The Dream Keepers"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, November 1969)"
+        }, 
+        {
+            "author": 339, 
+            "title": "The Story of Our Earth: The Conquest of the Land"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, November 1969)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, November 1969)"
+        }, 
+        {
+            "author": 645, 
+            "title": "Happiness Is a Warm Spaceship"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Seeds of Gonyl (Part 2 of 3)"
+        }, 
+        {
+            "author": 1192, 
+            "title": "To Kill a World"
+        }, 
+        {
+            "author": 1165, 
+            "title": "Genemaster"
+        }, 
+        {
+            "author": 166, 
+            "title": "For Sacred San Francisco"
+        }, 
+        {
+            "author": 558, 
+            "title": "By Civilized Standards"
+        }, 
+        {
+            "author": 1193, 
+            "title": "Appropriate Punishment"
+        }
+    ]
+}

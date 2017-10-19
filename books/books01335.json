@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1967", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1967-09_IF/1967-09_IF_jp2.zip&file=1967-09_IF_jp2/1967-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/8a/WOFIFSEP1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        499, 
+        545, 
+        615, 
+        40, 
+        1125, 
+        111, 
+        1154, 
+        42, 
+        269, 
+        55, 
+        50, 
+        1084, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1335, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Fortunes of Peace"
+        }, 
+        {
+            "author": 499, 
+            "title": "To Serve the Masters"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Bowl Bigger Than Earth"
+        }, 
+        {
+            "author": 545, 
+            "title": "Faust Aleph-Null (Part 2 of 3)"
+        }, 
+        {
+            "author": 615, 
+            "title": "Invader"
+        }, 
+        {
+            "author": 40, 
+            "title": "A Dog's Job"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Friday at the Fanoclasts"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, September 1967)"
+        }, 
+        {
+            "author": 111, 
+            "title": "The Fortunes of Peace"
+        }, 
+        {
+            "author": 1154, 
+            "title": "To Serve the Masters"
+        }, 
+        {
+            "author": 42, 
+            "title": "A Bowl Bigger Than Earth"
+        }, 
+        {
+            "author": 269, 
+            "title": "Invader"
+        }, 
+        {
+            "author": 55, 
+            "title": "Faust Aleph-Null (Part 2 of 3)"
+        }, 
+        {
+            "author": 50, 
+            "title": "Bride Ninety-One"
+        }, 
+        {
+            "author": 1084, 
+            "title": "Venus Smiles"
+        }
+    ]
+}

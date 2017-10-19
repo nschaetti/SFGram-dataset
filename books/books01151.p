@@ -72,117 +72,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VTip of the Iceberg
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VFalling Through the World
-p34
-sa(dp35
-g10
-I326
-sg14
-VThe Message
-p36
-sa(dp37
-g10
-I326
-sg14
-VRate of Exchange
-p38
-sa(dp39
-g10
-I499
-sg14
-VA Time of Changes (Part 3 of 3)
-p40
-sa(dp41
-g10
-I326
-sg14
-VThe Buyer
-p42
-sa(dp43
-g10
-I326
-sg14
-VPrice of Leisure
-p44
-sa(dp45
-g10
-I667
-sg14
-VLetters 3
-p46
-sa(dp47
-g10
-I91
-sg14
-VGalaxy Book Shelf (Galaxy, May-June 1971)
-p48
-sa(dp49
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, May-June 1971)
-p50
-sa(dp51
-g10
-I687
-sg14
 VTip of the Iceberg
-p52
-sa(dp53
-g10
-I161
-sg14
-VThe Message
-p54
-sa(dp55
-g10
-I50
-sg14
-VA Time of Changes (Part 3 of 3)
-p56
-sa(dp57
-g10
-I386
-sg14
-VThe No-Wind Spotted Tiger Planet
-p58
-sa(dp59
-g10
-I341
-sg14
-VThe Verity File
-p60
-sa(dp61
-g10
-I679
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
 VFalling Through the World
-p62
-sa(dp63
-g10
-I205
-sg14
+p36
+sg34
+I326
+sa(dp37
+g32
+VThe Message
+p38
+sg34
+I326
+sa(dp39
+g32
 VRate of Exchange
-p64
-sa(dp65
-g10
-I651
-sg14
+p40
+sg34
+I326
+sa(dp41
+g32
+VA Time of Changes (Part 3 of 3)
+p42
+sg34
+I499
+sa(dp43
+g32
 VThe Buyer
-p66
-sa(dp67
-g10
-I596
-sg14
+p44
+sg34
+I326
+sa(dp45
+g32
 VPrice of Leisure
+p46
+sg34
+I326
+sa(dp47
+g32
+VLetters 3
+p48
+sg34
+I667
+sa(dp49
+g32
+VGalaxy Book Shelf (Galaxy, May-June 1971)
+p50
+sg34
+I91
+sa(dp51
+g32
+VGalaxy Stars (Galaxy, May-June 1971)
+p52
+sg34
+I326
+sa(dp53
+g32
+VTip of the Iceberg
+p54
+sg34
+I687
+sa(dp55
+g32
+VThe Message
+p56
+sg34
+I161
+sa(dp57
+g32
+VA Time of Changes (Part 3 of 3)
+p58
+sg34
+I50
+sa(dp59
+g32
+VThe No-Wind Spotted Tiger Planet
+p60
+sg34
+I386
+sa(dp61
+g32
+VThe Verity File
+p62
+sg34
+I341
+sa(dp63
+g32
+VFalling Through the World
+p64
+sg34
+I679
+sa(dp65
+g32
+VRate of Exchange
+p66
+sg34
+I205
+sa(dp67
+g32
+VThe Buyer
 p68
+sg34
+I651
+sa(dp69
+g32
+VPrice of Leisure
+p70
+sg34
+I596
 sasb.

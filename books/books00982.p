@@ -71,159 +71,161 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I364
-sg14
-VVenus Is a Man's World
+S'title'
 p32
-sa(dp33
-g10
-I364
-sg14
-VVenus Is a Man's World [2]
-p34
-sa(dp35
-g10
-I346
-sg14
-VCommon Denominator
-p36
-sa(dp37
-g10
-I346
-sg14
-VCommon Denominator [2]
-p38
-sa(dp39
-g10
-I346
-sg14
-VCommon Denominator [3]
-p40
-sa(dp41
-g10
-I363
-sg14
-VSyndrome Johnny
-p42
-sa(dp43
-g10
-I363
-sg14
-VSyndrome Johnny [2]
-p44
-sa(dp45
-g10
-I363
-sg14
-VSyndrome Johnny [3]
-p46
-sa(dp47
-g10
-I363
-sg14
-VMars Child (Part 3 of 3)
-p48
-sa(dp49
-g10
-I363
-sg14
-VMars Child (Part 3 of 3) [2]
-p50
-sa(dp51
-g10
-I363
-sg14
-VMars Child (Part 3 of 3) [3]
-p52
-sa(dp53
-g10
-I363
-sg14
-VMars Child (Part 3 of 3) [4]
-p54
-sa(dp55
-g10
-I363
-sg14
-VMars Child (Part 3 of 3) [5]
-p56
-sa(dp57
-g10
-I363
-sg14
-VMars Child (Part 3 of 3) [6]
-p58
-sa(dp59
-g10
-I342
-sg14
-VPen Pal
-p60
-sa(dp61
-g10
-I342
-sg14
-VPen Pal [2]
-p62
-sa(dp63
-g10
-I363
-sg14
-VAppointment in Tomorrow
-p64
-sa(dp65
-g10
-I363
-sg14
-VAppointment in Tomorrow [2]
-p66
-sa(dp67
-g10
-I305
-sg14
-VGetting Personal
-p68
-sa(dp69
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, July 1951)
-p70
-sa(dp71
-g10
-I98
-sg14
 VVenus Is a Man's World
-p72
-sa(dp73
-g10
-I32
-sg14
-VAppointment in Tomorrow
-p74
-sa(dp75
-g10
-I51
-sg14
-VMars Child (Part 3 of 3)
-p76
-sa(dp77
-g10
-I137
-sg14
+p33
+sS'author'
+p34
+I364
+sa(dp35
+g32
+VVenus Is a Man's World [2]
+p36
+sg34
+I364
+sa(dp37
+g32
 VCommon Denominator
-p78
-sa(dp79
-g10
-I36
-sg14
+p38
+sg34
+I346
+sa(dp39
+g32
+VCommon Denominator [2]
+p40
+sg34
+I346
+sa(dp41
+g32
+VCommon Denominator [3]
+p42
+sg34
+I346
+sa(dp43
+g32
 VSyndrome Johnny
-p80
-sa(dp81
-g10
-I365
-sg14
+p44
+sg34
+I363
+sa(dp45
+g32
+VSyndrome Johnny [2]
+p46
+sg34
+I363
+sa(dp47
+g32
+VSyndrome Johnny [3]
+p48
+sg34
+I363
+sa(dp49
+g32
+VMars Child (Part 3 of 3)
+p50
+sg34
+I363
+sa(dp51
+g32
+VMars Child (Part 3 of 3) [2]
+p52
+sg34
+I363
+sa(dp53
+g32
+VMars Child (Part 3 of 3) [3]
+p54
+sg34
+I363
+sa(dp55
+g32
+VMars Child (Part 3 of 3) [4]
+p56
+sg34
+I363
+sa(dp57
+g32
+VMars Child (Part 3 of 3) [5]
+p58
+sg34
+I363
+sa(dp59
+g32
+VMars Child (Part 3 of 3) [6]
+p60
+sg34
+I363
+sa(dp61
+g32
 VPen Pal
+p62
+sg34
+I342
+sa(dp63
+g32
+VPen Pal [2]
+p64
+sg34
+I342
+sa(dp65
+g32
+VAppointment in Tomorrow
+p66
+sg34
+I363
+sa(dp67
+g32
+VAppointment in Tomorrow [2]
+p68
+sg34
+I363
+sa(dp69
+g32
+VGetting Personal
+p70
+sg34
+I305
+sa(dp71
+g32
+VGalaxy's 5 Star Shelf (Galaxy, July 1951)
+p72
+sg34
+I340
+sa(dp73
+g32
+VVenus Is a Man's World
+p74
+sg34
+I98
+sa(dp75
+g32
+VAppointment in Tomorrow
+p76
+sg34
+I32
+sa(dp77
+g32
+VMars Child (Part 3 of 3)
+p78
+sg34
+I51
+sa(dp79
+g32
+VCommon Denominator
+p80
+sg34
+I137
+sa(dp81
+g32
+VSyndrome Johnny
 p82
+sg34
+I36
+sa(dp83
+g32
+VPen Pal
+p84
+sg34
+I365
 sasb.

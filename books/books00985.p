@@ -73,147 +73,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I342
-sg14
-VThe Puppet Masters (Part 2 of 3) [2]
+S'title'
 p32
-sa(dp33
-g10
-I336
-sg14
-VThe C-Chute
+VThe Puppet Masters (Part 2 of 3) [2]
+p33
+sS'author'
 p34
+I342
 sa(dp35
-g10
-I336
-sg14
-VThe C-Chute [2]
-p36
-sa(dp37
-g10
-I336
-sg14
-VThe C-Chute [3]
-p38
-sa(dp39
-g10
-I336
-sg14
-VThe C-Chute [4]
-p40
-sa(dp41
-g10
-I336
-sg14
-VThe C-Chute [5]
-p42
-sa(dp43
-g10
-I336
-sg14
-VThe C-Chute [6]
-p44
-sa(dp45
-g10
-I363
-sg14
-VPleasant Dreams
-p46
-sa(dp47
-g10
-I353
-sg14
-VAmbition
-p48
-sa(dp49
-g10
-I353
-sg14
-VAmbition [2]
-p50
-sa(dp51
-g10
-I367
-sg14
-VSpacemen Die at Home
-p52
-sa(dp53
-g10
-I373
-sg14
-VThe Celestial Hammerlock
-p54
-sa(dp55
-g10
-I342
-sg14
-VThe Puppet Masters (Part 2 of 3)
-p56
-sa(dp57
-g10
-I342
-sg14
-VThe Puppet Masters (Part 2 of 3) [3]
-p58
-sa(dp59
-g10
-I342
-sg14
-VThe Puppet Masters (Part 2 of 3) [4]
-p60
-sa(dp61
-g10
-I342
-sg14
-VThe Puppet Masters (Part 2 of 3) [5]
-p62
-sa(dp63
-g10
-I305
-sg14
-VUse Before Shaking
-p64
-sa(dp65
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, October 1951)
-p66
-sa(dp67
-g10
-I3
-sg14
+g32
 VThe C-Chute
-p68
-sa(dp69
-g10
-I374
-sg14
-VAmbition
-p70
-sa(dp71
-g10
-I371
-sg14
-VThe Puppet Masters (Part 2 of 3)
-p72
-sa(dp73
-g10
-I375
-sg14
+p36
+sg34
+I336
+sa(dp37
+g32
+VThe C-Chute [2]
+p38
+sg34
+I336
+sa(dp39
+g32
+VThe C-Chute [3]
+p40
+sg34
+I336
+sa(dp41
+g32
+VThe C-Chute [4]
+p42
+sg34
+I336
+sa(dp43
+g32
+VThe C-Chute [5]
+p44
+sg34
+I336
+sa(dp45
+g32
+VThe C-Chute [6]
+p46
+sg34
+I336
+sa(dp47
+g32
 VPleasant Dreams
-p74
-sa(dp75
-g10
-I376
-sg14
+p48
+sg34
+I363
+sa(dp49
+g32
+VAmbition
+p50
+sg34
+I353
+sa(dp51
+g32
+VAmbition [2]
+p52
+sg34
+I353
+sa(dp53
+g32
 VSpacemen Die at Home
-p76
-sa(dp77
-g10
-I268
-sg14
+p54
+sg34
+I367
+sa(dp55
+g32
 VThe Celestial Hammerlock
+p56
+sg34
+I373
+sa(dp57
+g32
+VThe Puppet Masters (Part 2 of 3)
+p58
+sg34
+I342
+sa(dp59
+g32
+VThe Puppet Masters (Part 2 of 3) [3]
+p60
+sg34
+I342
+sa(dp61
+g32
+VThe Puppet Masters (Part 2 of 3) [4]
+p62
+sg34
+I342
+sa(dp63
+g32
+VThe Puppet Masters (Part 2 of 3) [5]
+p64
+sg34
+I342
+sa(dp65
+g32
+VUse Before Shaking
+p66
+sg34
+I305
+sa(dp67
+g32
+VGalaxy's 5 Star Shelf (Galaxy, October 1951)
+p68
+sg34
+I340
+sa(dp69
+g32
+VThe C-Chute
+p70
+sg34
+I3
+sa(dp71
+g32
+VAmbition
+p72
+sg34
+I374
+sa(dp73
+g32
+VThe Puppet Masters (Part 2 of 3)
+p74
+sg34
+I371
+sa(dp75
+g32
+VPleasant Dreams
+p76
+sg34
+I375
+sa(dp77
+g32
+VSpacemen Die at Home
 p78
+sg34
+I376
+sa(dp79
+g32
+VThe Celestial Hammerlock
+p80
+sg34
+I268
 sasb.

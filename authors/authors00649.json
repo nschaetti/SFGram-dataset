@@ -2,7 +2,9 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1132
+        1132, 
+        1353, 
+        1356
     ], 
     "id": 649, 
     "name": "Barr"

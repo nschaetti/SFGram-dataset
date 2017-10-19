@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine August 1968", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/1968-08_IF/1968-08_IF_jp2.zip&file=1968-08_IF_jp2/1968-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/88/WOFIFAUG1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        615, 
+        626, 
+        611, 
+        624, 
+        627, 
+        499, 
+        305, 
+        356, 
+        40, 
+        326, 
+        617, 
+        630, 
+        1116, 
+        86, 
+        1167, 
+        631, 
+        591, 
+        1168, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1346, 
+    "contents": [
+        {
+            "author": 615, 
+            "title": "Getting Through University"
+        }, 
+        {
+            "author": 626, 
+            "title": "In Another Land"
+        }, 
+        {
+            "author": 611, 
+            "title": "Last Dreamer"
+        }, 
+        {
+            "author": 624, 
+            "title": "Merlin Planet"
+        }, 
+        {
+            "author": 626, 
+            "title": "Song of the Blue Baboon"
+        }, 
+        {
+            "author": 627, 
+            "title": "What the Old Aliens Left"
+        }, 
+        {
+            "author": 624, 
+            "title": "West Is West"
+        }, 
+        {
+            "author": 499, 
+            "title": "Rogue Star (Part 3 of 3)"
+        }, 
+        {
+            "author": 305, 
+            "title": "Guest Editorial: Whaddya Read?"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, August 1968)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, August 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, August 1968)"
+        }, 
+        {
+            "author": 617, 
+            "title": "Getting Through University"
+        }, 
+        {
+            "author": 630, 
+            "title": "Last Dreamer"
+        }, 
+        {
+            "author": 1116, 
+            "title": "What the Old Aliens Left"
+        }, 
+        {
+            "author": 86, 
+            "title": "Rogue Star (Part 3 of 3)"
+        }, 
+        {
+            "author": 1167, 
+            "title": "In Another Land"
+        }, 
+        {
+            "author": 631, 
+            "title": "Merlin Planet"
+        }, 
+        {
+            "author": 591, 
+            "title": "Song of the Blue Baboon"
+        }, 
+        {
+            "author": 1168, 
+            "title": "West Is West"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1961", 
+    "cover": "https://ia601306.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/1961-03_IF/1961-03_IF_jp2.zip&file=1961-03_IF_jp2/1961-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e4/WOFIFMAR1961.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        1068, 
+        1069, 
+        419, 
+        341, 
+        401, 
+        142, 
+        315, 
+        254, 
+        1070, 
+        1071, 
+        74, 
+        498, 
+        918
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1278, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "I O U"
+        }, 
+        {
+            "author": 1068, 
+            "title": "Minotaur"
+        }, 
+        {
+            "author": 1069, 
+            "title": "Cartoon: \"I Don't Care What It Claims, It Doesn't Look Human to Me.\""
+        }, 
+        {
+            "author": 1069, 
+            "title": "Cartoon: \"U.S. Air Force Recruiting Station.\""
+        }, 
+        {
+            "author": 419, 
+            "title": "The Well of the Deep Wish"
+        }, 
+        {
+            "author": 341, 
+            "title": "Science Briefs (If, March 1961)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Sf Is When ..."
+        }, 
+        {
+            "author": 401, 
+            "title": "I O U"
+        }, 
+        {
+            "author": 142, 
+            "title": "February Strawberries"
+        }, 
+        {
+            "author": 315, 
+            "title": "Minotaur"
+        }, 
+        {
+            "author": 254, 
+            "title": "Young Man From Elsewhen"
+        }, 
+        {
+            "author": 1070, 
+            "title": "The Fastest Gun Dead"
+        }, 
+        {
+            "author": 1071, 
+            "title": "The Seeder"
+        }, 
+        {
+            "author": 74, 
+            "title": "In the Garden"
+        }, 
+        {
+            "author": 498, 
+            "title": "The Well of the Deep Wish"
+        }
+    ]
+}

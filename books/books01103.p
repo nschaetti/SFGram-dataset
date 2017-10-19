@@ -75,147 +75,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I545
-sg14
-VSoldier, Ask Not
+S'title'
 p32
-sa(dp33
-g10
-I545
-sg14
-VSoldier, Ask Not [2]
-p34
-sa(dp35
-g10
-I545
-sg14
-VSoldier, Ask Not [3]
-p36
-sa(dp37
-g10
-I545
-sg14
-VSoldier, Ask Not [4]
-p38
-sa(dp39
-g10
-I593
-sg14
-VThe 1980 President
-p40
-sa(dp41
-g10
-I499
-sg14
-VThe Tactful Saboteur
-p42
-sa(dp43
-g10
-I499
-sg14
-VThe Tactful Saboteur [2]
-p44
-sa(dp45
-g10
-I499
-sg14
-VThe Tactful Saboteur [3]
-p46
-sa(dp47
-g10
-I497
-sg14
-VThe Children of Night
-p48
-sa(dp49
-g10
-I497
-sg14
-VThe Children of Night [2]
-p50
-sa(dp51
-g10
-I40
-sg14
-VSeeing Stars
-p52
-sa(dp53
-g10
-I339
-sg14
-VFor Your Information: The Area of "Accessible Space"
-p54
-sa(dp55
-g10
-I326
-sg14
-VForecast (Galaxy, October 1964)
-p56
-sa(dp57
-g10
-I63
-sg14
-VThe Tactful Saboteur
-p58
-sa(dp59
-g10
-I40
-sg14
-VThe Children of Night
-p60
-sa(dp61
-g10
-I315
-sg14
 VSoldier, Ask Not
-p62
-sa(dp63
-g10
-I315
-sg14
-VBattle Hymn of the Friendly Soldiers
-p64
-sa(dp65
-g10
-I594
-sg14
-VMartian Play Song
-p66
-sa(dp67
-g10
-I32
-sg14
-VBe of Good Cheer
-p68
-sa(dp69
-g10
-I16
-sg14
-VHow the Old World Died
-p70
-sa(dp71
-g10
-I470
-sg14
+p33
+sS'author'
+p34
+I545
+sa(dp35
+g32
+VSoldier, Ask Not [2]
+p36
+sg34
+I545
+sa(dp37
+g32
+VSoldier, Ask Not [3]
+p38
+sg34
+I545
+sa(dp39
+g32
+VSoldier, Ask Not [4]
+p40
+sg34
+I545
+sa(dp41
+g32
 VThe 1980 President
+p42
+sg34
+I593
+sa(dp43
+g32
+VThe Tactful Saboteur
+p44
+sg34
+I499
+sa(dp45
+g32
+VThe Tactful Saboteur [2]
+p46
+sg34
+I499
+sa(dp47
+g32
+VThe Tactful Saboteur [3]
+p48
+sg34
+I499
+sa(dp49
+g32
+VThe Children of Night
+p50
+sg34
+I497
+sa(dp51
+g32
+VThe Children of Night [2]
+p52
+sg34
+I497
+sa(dp53
+g32
+VSeeing Stars
+p54
+sg34
+I40
+sa(dp55
+g32
+VFor Your Information: The Area of "Accessible Space"
+p56
+sg34
+I339
+sa(dp57
+g32
+VForecast (Galaxy, October 1964)
+p58
+sg34
+I326
+sa(dp59
+g32
+VThe Tactful Saboteur
+p60
+sg34
+I63
+sa(dp61
+g32
+VThe Children of Night
+p62
+sg34
+I40
+sa(dp63
+g32
+VSoldier, Ask Not
+p64
+sg34
+I315
+sa(dp65
+g32
+VBattle Hymn of the Friendly Soldiers
+p66
+sg34
+I315
+sa(dp67
+g32
+VMartian Play Song
+p68
+sg34
+I594
+sa(dp69
+g32
+VBe of Good Cheer
+p70
+sg34
+I32
+sa(dp71
+g32
+VHow the Old World Died
 p72
+sg34
+I16
 sa(dp73
-g10
-I74
-sg14
-VWhat's the Name of That Town?
+g32
+VThe 1980 President
 p74
+sg34
+I470
 sa(dp75
-g10
-I132
-sg14
-VMaxwell's Monkey
+g32
+VWhat's the Name of That Town?
 p76
+sg34
+I74
 sa(dp77
-g10
-I8
-sg14
-VPrecious Artifact
+g32
+VMaxwell's Monkey
 p78
+sg34
+I132
+sa(dp79
+g32
+VPrecious Artifact
+p80
+sg34
+I8
 sasb.

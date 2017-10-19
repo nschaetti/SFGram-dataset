@@ -1,0 +1,105 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1967", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/1967-03_IF_modified/1967-03_IF_modified_jp2.zip&file=1967-03_IF_modified_jp2/1967-03_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/2b/WOFIFMAR1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        628, 
+        476, 
+        593, 
+        499, 
+        1142, 
+        545, 
+        40, 
+        1125, 
+        3, 
+        591, 
+        345, 
+        91, 
+        1023, 
+        214, 
+        1143, 
+        247, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1329, 
+    "contents": [
+        {
+            "author": 628, 
+            "title": "The Billiard Ball"
+        }, 
+        {
+            "author": 476, 
+            "title": "I Have No Mouth, and I Must Scream"
+        }, 
+        {
+            "author": 593, 
+            "title": "This Mortal Mountain"
+        }, 
+        {
+            "author": 499, 
+            "title": "Flatlander"
+        }, 
+        {
+            "author": 1142, 
+            "title": "The Sepia Springs Affair"
+        }, 
+        {
+            "author": 499, 
+            "title": "Where Are the Worlds of Yesteryear?"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Iron Thorn (Part 3 of 4)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Hugo Winners"
+        }, 
+        {
+            "author": 1125, 
+            "title": "The Hugo and the Nebula"
+        }, 
+        {
+            "author": 3, 
+            "title": "The Billiard Ball"
+        }, 
+        {
+            "author": 591, 
+            "title": "This Mortal Mountain"
+        }, 
+        {
+            "author": 345, 
+            "title": "Where Are the Worlds of Yesteryear?"
+        }, 
+        {
+            "author": 91, 
+            "title": "The Iron Thorn (Part 3 of 4)"
+        }, 
+        {
+            "author": 1023, 
+            "title": "I Have No Mouth, and I Must Scream"
+        }, 
+        {
+            "author": 214, 
+            "title": "Moonshine"
+        }, 
+        {
+            "author": 1143, 
+            "title": "The Sepia Springs Affair"
+        }, 
+        {
+            "author": 247, 
+            "title": "Latter-Day Daniel"
+        }
+    ]
+}

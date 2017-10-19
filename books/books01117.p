@@ -73,117 +73,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I545
-sg14
-VThunderhead
+S'title'
 p32
-sa(dp33
-g10
-I545
-sg14
-VThunderhead [2]
-p34
-sa(dp35
-g10
-I545
-sg14
-VThunderhead [3]
-p36
-sa(dp37
-g10
-I499
-sg14
-VThe Purpose of Life
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Purpose of Life [2]
-p40
-sa(dp41
-g10
-I499
-sg14
-VThe Purpose of Life [3]
-p42
-sa(dp43
-g10
-I40
-sg14
-VMaking Models
-p44
-sa(dp45
-g10
-I339
-sg14
-VFor Your Information: The Orbits of the Comets
-p46
-sa(dp47
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, April 1967) ((Circulation: 73,450)
-p48
-sa(dp49
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, April 1967)
-p50
-sa(dp51
-g10
-I326
-sg14
-VForecast (Galaxy, April 1967)
-p52
-sa(dp53
-g10
-I67
-sg14
 VThunderhead
-p54
-sa(dp55
-g10
-I602
-sg14
+p33
+sS'author'
+p34
+I545
+sa(dp35
+g32
+VThunderhead [2]
+p36
+sg34
+I545
+sa(dp37
+g32
+VThunderhead [3]
+p38
+sg34
+I545
+sa(dp39
+g32
 VThe Purpose of Life
+p40
+sg34
+I499
+sa(dp41
+g32
+VThe Purpose of Life [2]
+p42
+sg34
+I499
+sa(dp43
+g32
+VThe Purpose of Life [3]
+p44
+sg34
+I499
+sa(dp45
+g32
+VMaking Models
+p46
+sg34
+I40
+sa(dp47
+g32
+VFor Your Information: The Orbits of the Comets
+p48
+sg34
+I339
+sa(dp49
+g32
+VStatement of Ownership (Galaxy, April 1967) ((Circulation: 73,450)
+p50
+sg34
+I326
+sa(dp51
+g32
+VGalaxy Bookshelf (Galaxy, April 1967)
+p52
+sg34
+I91
+sa(dp53
+g32
+VForecast (Galaxy, April 1967)
+p54
+sg34
+I326
+sa(dp55
+g32
+VThunderhead
 p56
+sg34
+I67
 sa(dp57
-g10
-I614
-sg14
-VFair Test
+g32
+VThe Purpose of Life
 p58
+sg34
+I602
 sa(dp59
-g10
-I81
-sg14
-VThe New Member
+g32
+VFair Test
 p60
+sg34
+I614
 sa(dp61
-g10
-I616
-sg14
-VThe Young Priests of Adytum 199
+g32
+VThe New Member
 p62
+sg34
+I81
 sa(dp63
-g10
-I617
-sg14
-VWithin the Cloud
+g32
+VThe Young Priests of Adytum 199
 p64
+sg34
+I616
 sa(dp65
-g10
-I194
-sg14
-VBallenger's People
+g32
+VWithin the Cloud
 p66
+sg34
+I617
 sa(dp67
-g10
-I16
-sg14
-VYou Men of Violence
+g32
+VBallenger's People
 p68
+sg34
+I194
+sa(dp69
+g32
+VYou Men of Violence
+p70
+sg34
+I16
 sasb.

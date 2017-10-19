@@ -73,141 +73,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I336
-sg14
-VTime Quarry (Part 1 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I336
-sg14
-VTime Quarry (Part 1 of 3) [2]
-p34
-sa(dp35
-g10
-I336
-sg14
-VTime Quarry (Part 1 of 3) [3]
-p36
-sa(dp37
-g10
-I336
-sg14
-VTime Quarry (Part 1 of 3) [4]
-p38
-sa(dp39
-g10
-I336
-sg14
-VTime Quarry (Part 1 of 3) [5]
-p40
-sa(dp41
-g10
-I337
-sg14
-VThird From the Sun
-p42
-sa(dp43
-g10
-I326
-sg14
-VFlying Saucers: Friend, Foe or Fantasy?
-p44
-sa(dp45
-g10
-I337
-sg14
-VThe Stars Are the Styx
-p46
-sa(dp47
-g10
-I326
-sg14
-VLater Than You Think
-p48
-sa(dp49
-g10
-I338
-sg14
-VContagion
-p50
-sa(dp51
-g10
-I326
-sg14
-VDarwinian Pool Room
-p52
-sa(dp53
-g10
-I305
-sg14
-VFor Adults Only
-p54
-sa(dp55
-g10
-I339
-sg14
-VFlying Saucers: Friend, Foe or Fantasy?
-p56
-sa(dp57
-g10
-I326
-sg14
-VForecast (Galaxy, October 1950)
-p58
-sa(dp59
-g10
-I340
-sg14
-VGalaxy's Five Star Shelf (Galaxy, October 1950)
-p60
-sa(dp61
-g10
-I305
-sg14
-VYou'll Never See It in Galaxy
-p62
-sa(dp63
-g10
-I341
-sg14
-VThe Stars Are the Styx
-p64
-sa(dp65
-g10
-I36
-sg14
-VContagion
-p66
-sa(dp67
-g10
-I56
-sg14
 VTime Quarry (Part 1 of 3)
-p68
-sa(dp69
-g10
-I122
-sg14
+p33
+sS'author'
+p34
+I336
+sa(dp35
+g32
+VTime Quarry (Part 1 of 3) [2]
+p36
+sg34
+I336
+sa(dp37
+g32
+VTime Quarry (Part 1 of 3) [3]
+p38
+sg34
+I336
+sa(dp39
+g32
+VTime Quarry (Part 1 of 3) [4]
+p40
+sg34
+I336
+sa(dp41
+g32
+VTime Quarry (Part 1 of 3) [5]
+p42
+sg34
+I336
+sa(dp43
+g32
 VThird From the Sun
-p70
-sa(dp71
-g10
-I32
-sg14
+p44
+sg34
+I337
+sa(dp45
+g32
+VFlying Saucers: Friend, Foe or Fantasy?
+p46
+sg34
+I326
+sa(dp47
+g32
+VThe Stars Are the Styx
+p48
+sg34
+I337
+sa(dp49
+g32
 VLater Than You Think
-p72
-sa(dp73
-g10
-I58
-sg14
-VThe Last Martian
-p74
-sa(dp75
-g10
-I3
-sg14
+p50
+sg34
+I326
+sa(dp51
+g32
+VContagion
+p52
+sg34
+I338
+sa(dp53
+g32
 VDarwinian Pool Room
+p54
+sg34
+I326
+sa(dp55
+g32
+VFor Adults Only
+p56
+sg34
+I305
+sa(dp57
+g32
+VFlying Saucers: Friend, Foe or Fantasy?
+p58
+sg34
+I339
+sa(dp59
+g32
+VForecast (Galaxy, October 1950)
+p60
+sg34
+I326
+sa(dp61
+g32
+VGalaxy's Five Star Shelf (Galaxy, October 1950)
+p62
+sg34
+I340
+sa(dp63
+g32
+VYou'll Never See It in Galaxy
+p64
+sg34
+I305
+sa(dp65
+g32
+VThe Stars Are the Styx
+p66
+sg34
+I341
+sa(dp67
+g32
+VContagion
+p68
+sg34
+I36
+sa(dp69
+g32
+VTime Quarry (Part 1 of 3)
+p70
+sg34
+I56
+sa(dp71
+g32
+VThird From the Sun
+p72
+sg34
+I122
+sa(dp73
+g32
+VLater Than You Think
+p74
+sg34
+I32
+sa(dp75
+g32
+VThe Last Martian
 p76
+sg34
+I58
+sa(dp77
+g32
+VDarwinian Pool Room
+p78
+sg34
+I3
 sasb.

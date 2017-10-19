@@ -72,201 +72,203 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VTo Jorslem
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VTo Jorslem [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VTo Jorslem [3]
-p36
-sa(dp37
-g10
-I646
-sg14
-VThe War with the Fnools
-p38
-sa(dp39
-g10
-I646
-sg14
-VThe War with the Fnools [2]
-p40
-sa(dp41
-g10
-I499
-sg14
-VGolden Quicksand
-p42
-sa(dp43
-g10
-I499
-sg14
-VGolden Quicksand [2]
-p44
-sa(dp45
-g10
-I499
-sg14
-VGolden Quicksand [3]
-p46
-sa(dp47
-g10
-I499
-sg14
-VGolden Quicksand [4]
-p48
-sa(dp49
-g10
-I499
-sg14
-VGolden Quicksand [5]
-p50
-sa(dp51
-g10
-I499
-sg14
-VGolden Quicksand [6]
-p52
-sa(dp53
-g10
-I499
-sg14
-VGolden Quicksand [7]
-p54
-sa(dp55
-g10
-I499
-sg14
-VGolden Quicksand [8]
-p56
-sa(dp57
-g10
-I499
-sg14
-VGolden Quicksand [9]
-p58
-sa(dp59
-g10
-I499
-sg14
-VGolden Quicksand [10]
-p60
-sa(dp61
-g10
-I499
-sg14
-VGolden Quicksand [11]
-p62
-sa(dp63
-g10
-I499
-sg14
-VGolden Quicksand [12]
-p64
-sa(dp65
-g10
-I626
-sg14
-VOur Binary Brothers
-p66
-sa(dp67
-g10
-I640
-sg14
-VKendy's World
-p68
-sa(dp69
-g10
-I640
-sg14
-VKendy's World [2]
-p70
-sa(dp71
-g10
-I640
-sg14
-VKendy's World [3]
-p72
-sa(dp73
-g10
-I640
-sg14
-VKendy's World [4]
-p74
-sa(dp75
-g10
-I40
-sg14
-VTraps or Truths
-p76
-sa(dp77
-g10
-I339
-sg14
-VFor Your Information: The Island of Brazil
-p78
-sa(dp79
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, February 1969)
-p80
-sa(dp81
-g10
-I326
-sg14
-VForecast (Galaxy, February 1969)
-p82
-sa(dp83
-g10
-I40
-sg14
-VGalaxy's Stars (Galaxy, February 1969)
-p84
-sa(dp85
-g10
-I50
-sg14
 VTo Jorslem
-p86
-sa(dp87
-g10
-I647
-sg14
-VGolden Quicksand
-p88
-sa(dp89
-g10
-I602
-sg14
-VKendy's World
-p90
-sa(dp91
-g10
-I91
-sg14
-VNow Hear the Word of the Lord
-p92
-sa(dp93
-g10
-I8
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VTo Jorslem [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VTo Jorslem [3]
+p38
+sg34
+I499
+sa(dp39
+g32
 VThe War with the Fnools
-p94
-sa(dp95
-g10
-I55
-sg14
+p40
+sg34
+I646
+sa(dp41
+g32
+VThe War with the Fnools [2]
+p42
+sg34
+I646
+sa(dp43
+g32
+VGolden Quicksand
+p44
+sg34
+I499
+sa(dp45
+g32
+VGolden Quicksand [2]
+p46
+sg34
+I499
+sa(dp47
+g32
+VGolden Quicksand [3]
+p48
+sg34
+I499
+sa(dp49
+g32
+VGolden Quicksand [4]
+p50
+sg34
+I499
+sa(dp51
+g32
+VGolden Quicksand [5]
+p52
+sg34
+I499
+sa(dp53
+g32
+VGolden Quicksand [6]
+p54
+sg34
+I499
+sa(dp55
+g32
+VGolden Quicksand [7]
+p56
+sg34
+I499
+sa(dp57
+g32
+VGolden Quicksand [8]
+p58
+sg34
+I499
+sa(dp59
+g32
+VGolden Quicksand [9]
+p60
+sg34
+I499
+sa(dp61
+g32
+VGolden Quicksand [10]
+p62
+sg34
+I499
+sa(dp63
+g32
+VGolden Quicksand [11]
+p64
+sg34
+I499
+sa(dp65
+g32
+VGolden Quicksand [12]
+p66
+sg34
+I499
+sa(dp67
+g32
 VOur Binary Brothers
+p68
+sg34
+I626
+sa(dp69
+g32
+VKendy's World
+p70
+sg34
+I640
+sa(dp71
+g32
+VKendy's World [2]
+p72
+sg34
+I640
+sa(dp73
+g32
+VKendy's World [3]
+p74
+sg34
+I640
+sa(dp75
+g32
+VKendy's World [4]
+p76
+sg34
+I640
+sa(dp77
+g32
+VTraps or Truths
+p78
+sg34
+I40
+sa(dp79
+g32
+VFor Your Information: The Island of Brazil
+p80
+sg34
+I339
+sa(dp81
+g32
+VGalaxy Bookshelf (Galaxy, February 1969)
+p82
+sg34
+I91
+sa(dp83
+g32
+VForecast (Galaxy, February 1969)
+p84
+sg34
+I326
+sa(dp85
+g32
+VGalaxy's Stars (Galaxy, February 1969)
+p86
+sg34
+I40
+sa(dp87
+g32
+VTo Jorslem
+p88
+sg34
+I50
+sa(dp89
+g32
+VGolden Quicksand
+p90
+sg34
+I647
+sa(dp91
+g32
+VKendy's World
+p92
+sg34
+I602
+sa(dp93
+g32
+VNow Hear the Word of the Lord
+p94
+sg34
+I91
+sa(dp95
+g32
+VThe War with the Fnools
 p96
+sg34
+I8
+sa(dp97
+g32
+VOur Binary Brothers
+p98
+sg34
+I55
 sasb.

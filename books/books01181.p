@@ -72,123 +72,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VThe Annihilation of Angkor Apeiron
+S'title'
 p32
-sa(dp33
-g10
-I753
-sg14
-VAllegiances
-p34
-sa(dp35
-g10
-I499
-sg14
-VMarsman Meets the Almighty
-p36
-sa(dp37
-g10
-I499
-sg14
-VMarsman Meets the Almighty [2]
-p38
-sa(dp39
-g10
-I499
-sg14
-VMarsman Meets the Almighty [3]
-p40
-sa(dp41
-g10
-I742
-sg14
-VThe Linguist
-p42
-sa(dp43
-g10
-I742
-sg14
-VSign of the Unicorn (Part 2 of 3)
-p44
-sa(dp45
-g10
-I744
-sg14
-VThe Walden Window
-p46
-sa(dp47
-g10
-I744
-sg14
-VShowcase (Galaxy, February 1975)
-p48
-sa(dp49
-g10
-I734
-sg14
-VThe Velikovsky Affair
-p50
-sa(dp51
-g10
-I767
-sg14
-VThe Alien Viewpoint: Galaxy/If Dialogue #4
-p52
-sa(dp53
-g10
-I326
-sg14
-VDirections (Galaxy, February 1975)
-p54
-sa(dp55
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, February 1975) (Circulation: 47,789)
-p56
-sa(dp57
-g10
-I326
-sg14
-VStatement of Ownership: If (Galaxy, February 1975) (Circulation: 50,355)
-p58
-sa(dp59
-g10
-I768
-sg14
-VMarsman Meets the Almighty
-p60
-sa(dp61
-g10
-I686
-sg14
-VAllegiances
-p62
-sa(dp63
-g10
-I591
-sg14
-VSign of the Unicorn (Part 2 of 3)
-p64
-sa(dp65
-g10
-I561
-sg14
 VThe Annihilation of Angkor Apeiron
-p66
-sa(dp67
-g10
-I765
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VAllegiances
+p36
+sg34
+I753
+sa(dp37
+g32
+VMarsman Meets the Almighty
+p38
+sg34
+I499
+sa(dp39
+g32
+VMarsman Meets the Almighty [2]
+p40
+sg34
+I499
+sa(dp41
+g32
+VMarsman Meets the Almighty [3]
+p42
+sg34
+I499
+sa(dp43
+g32
 VThe Linguist
-p68
-sa(dp69
-g10
-I769
-sg14
+p44
+sg34
+I742
+sa(dp45
+g32
+VSign of the Unicorn (Part 2 of 3)
+p46
+sg34
+I742
+sa(dp47
+g32
 VThe Walden Window
+p48
+sg34
+I744
+sa(dp49
+g32
+VShowcase (Galaxy, February 1975)
+p50
+sg34
+I744
+sa(dp51
+g32
+VThe Velikovsky Affair
+p52
+sg34
+I734
+sa(dp53
+g32
+VThe Alien Viewpoint: Galaxy/If Dialogue #4
+p54
+sg34
+I767
+sa(dp55
+g32
+VDirections (Galaxy, February 1975)
+p56
+sg34
+I326
+sa(dp57
+g32
+VStatement of Ownership (Galaxy, February 1975) (Circulation: 47,789)
+p58
+sg34
+I326
+sa(dp59
+g32
+VStatement of Ownership: If (Galaxy, February 1975) (Circulation: 50,355)
+p60
+sg34
+I326
+sa(dp61
+g32
+VMarsman Meets the Almighty
+p62
+sg34
+I768
+sa(dp63
+g32
+VAllegiances
+p64
+sg34
+I686
+sa(dp65
+g32
+VSign of the Unicorn (Part 2 of 3)
+p66
+sg34
+I591
+sa(dp67
+g32
+VThe Annihilation of Angkor Apeiron
+p68
+sg34
+I561
+sa(dp69
+g32
+VThe Linguist
 p70
+sg34
+I765
+sa(dp71
+g32
+VThe Walden Window
+p72
+sg34
+I769
 sasb.

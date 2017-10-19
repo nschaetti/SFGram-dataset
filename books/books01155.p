@@ -72,129 +72,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VDark Inferno (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VRorqual Maru
-p34
-sa(dp35
-g10
-I499
-sg14
-VEsmeralda
-p36
-sa(dp37
-g10
-I326
-sg14
-VThe Answer
-p38
-sa(dp39
-g10
-I703
-sg14
-VThe Answer [2]
-p40
-sa(dp41
-g10
-I703
-sg14
-VThe Answer [3]
-p42
-sa(dp43
-g10
-I499
-sg14
-VGambler
-p44
-sa(dp45
-g10
-I326
-sg14
-VJoey
-p46
-sa(dp47
-g10
-I667
-sg14
-VEditor's Page (Galaxy Magazine, January-February 1972)
-p48
-sa(dp49
-g10
-I675
-sg14
-VGalaxy Stars (Galaxy, January-February 1972)
-p50
-sa(dp51
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, January-February 1972)
-p52
-sa(dp53
-g10
-I326
-sg14
-VDirections (Galaxy Magazine, January-February 1972)
-p54
-sa(dp55
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, January-February 1972) (Circulation: 45,598)
-p56
-sa(dp57
-g10
-I605
-sg14
-VWant to Bet ... (Galaxy Magazine, January-February 1972)
-p58
-sa(dp59
-g10
-I669
-sg14
-VRorqual Maru
-p60
-sa(dp61
-g10
-I161
-sg14
-VThe Answer
-p62
-sa(dp63
-g10
-I704
-sg14
 VDark Inferno (Part 1 of 2)
-p64
-sa(dp65
-g10
-I675
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VRorqual Maru
+p36
+sg34
+I499
+sa(dp37
+g32
 VEsmeralda
-p66
-sa(dp67
-g10
-I665
-sg14
-VStormseeker
-p68
-sa(dp69
-g10
-I705
-sg14
+p38
+sg34
+I499
+sa(dp39
+g32
+VThe Answer
+p40
+sg34
+I326
+sa(dp41
+g32
+VThe Answer [2]
+p42
+sg34
+I703
+sa(dp43
+g32
+VThe Answer [3]
+p44
+sg34
+I703
+sa(dp45
+g32
 VGambler
-p70
-sa(dp71
-g10
-I706
-sg14
+p46
+sg34
+I499
+sa(dp47
+g32
 VJoey
+p48
+sg34
+I326
+sa(dp49
+g32
+VEditor's Page (Galaxy Magazine, January-February 1972)
+p50
+sg34
+I667
+sa(dp51
+g32
+VGalaxy Stars (Galaxy, January-February 1972)
+p52
+sg34
+I675
+sa(dp53
+g32
+VGalaxy Bookshelf (Galaxy, January-February 1972)
+p54
+sg34
+I341
+sa(dp55
+g32
+VDirections (Galaxy Magazine, January-February 1972)
+p56
+sg34
+I326
+sa(dp57
+g32
+VStatement of Ownership (Galaxy, January-February 1972) (Circulation: 45,598)
+p58
+sg34
+I326
+sa(dp59
+g32
+VWant to Bet ... (Galaxy Magazine, January-February 1972)
+p60
+sg34
+I605
+sa(dp61
+g32
+VRorqual Maru
+p62
+sg34
+I669
+sa(dp63
+g32
+VThe Answer
+p64
+sg34
+I161
+sa(dp65
+g32
+VDark Inferno (Part 1 of 2)
+p66
+sg34
+I704
+sa(dp67
+g32
+VEsmeralda
+p68
+sg34
+I675
+sa(dp69
+g32
+VStormseeker
+p70
+sg34
+I665
+sa(dp71
+g32
+VGambler
 p72
+sg34
+I705
+sa(dp73
+g32
+VJoey
+p74
+sg34
+I706
 sasb.

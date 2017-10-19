@@ -2,7 +2,9 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1137
+        1137, 
+        1362, 
+        1369
     ], 
     "id": 666, 
     "name": "George C. Willick"

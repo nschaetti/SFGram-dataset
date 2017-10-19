@@ -67,75 +67,77 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VCreated Equal
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VDeathsong
-p34
-sa(dp35
-g10
-I499
-sg14
-VRivers of Damascus
-p36
-sa(dp37
-g10
-I499
-sg14
-VProtest
-p38
-sa(dp39
-g10
-I499
-sg14
-VInverted World (Part 3 of 4)
-p40
-sa(dp41
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, February 1974)
-p42
-sa(dp43
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, February 1974)
-p44
-sa(dp45
-g10
-I74
-sg14
-VRivers of Damascus
-p46
-sa(dp47
-g10
-I730
-sg14
 VCreated Equal
-p48
-sa(dp49
-g10
-I577
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VDeathsong
-p50
-sa(dp51
-g10
-I725
-sg14
-VInverted World (Part 3 of 4)
-p52
-sa(dp53
-g10
-I731
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
+VRivers of Damascus
+p38
+sg34
+I499
+sa(dp39
+g32
 VProtest
+p40
+sg34
+I499
+sa(dp41
+g32
+VInverted World (Part 3 of 4)
+p42
+sg34
+I499
+sa(dp43
+g32
+VGalaxy Bookshelf (Galaxy, February 1974)
+p44
+sg34
+I341
+sa(dp45
+g32
+VGalaxy Stars (Galaxy, February 1974)
+p46
+sg34
+I326
+sa(dp47
+g32
+VRivers of Damascus
+p48
+sg34
+I74
+sa(dp49
+g32
+VCreated Equal
+p50
+sg34
+I730
+sa(dp51
+g32
+VDeathsong
+p52
+sg34
+I577
+sa(dp53
+g32
+VInverted World (Part 3 of 4)
 p54
+sg34
+I725
+sa(dp55
+g32
+VProtest
+p56
+sg34
+I731
 sasb.

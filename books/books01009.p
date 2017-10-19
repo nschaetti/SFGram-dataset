@@ -73,165 +73,167 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VThe Caves of Steel (Part 1 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VThe Caves of Steel (Part 1 of 3) [2]
-p34
-sa(dp35
-g10
-I363
-sg14
-VThe Caves of Steel (Part 1 of 3) [3]
-p36
-sa(dp37
-g10
-I363
-sg14
-VThe Caves of Steel (Part 1 of 3) [4]
-p38
-sa(dp39
-g10
-I438
-sg14
-VThe Model of a Judge
-p40
-sa(dp41
-g10
-I438
-sg14
-VThe Carnivore
-p42
-sa(dp43
-g10
-I336
-sg14
-VOrigins of Galactic Etiquette
-p44
-sa(dp45
-g10
-I336
-sg14
-VOrigins of Galactic Etiquette [2]
-p46
-sa(dp47
-g10
-I336
-sg14
-VOrigins of Galactic Etiquette [3]
-p48
-sa(dp49
-g10
-I336
-sg14
-VOrigins of Galactic Etiquette [4]
-p50
-sa(dp51
-g10
-I336
-sg14
-VOrigins of Galactic Etiquette [5]
-p52
-sa(dp53
-g10
-I336
-sg14
-VOrigins of Galactic Etiquette [6]
-p54
-sa(dp55
-g10
-I435
-sg14
-VWith a Vengeance
-p56
-sa(dp57
-g10
-I431
-sg14
-VAt the Post
-p58
-sa(dp59
-g10
-I431
-sg14
-VAt the Post [2]
-p60
-sa(dp61
-g10
-I431
-sg14
-VAt the Post [3]
-p62
-sa(dp63
-g10
-I431
-sg14
-VAt the Post [4]
-p64
-sa(dp65
-g10
-I305
-sg14
-VTo the Hills!
-p66
-sa(dp67
-g10
-I326
-sg14
-VForecast (Galaxy, October 1953)
-p68
-sa(dp69
-g10
-I339
-sg14
-VFor Your Information: Earth Tunnels
-p70
-sa(dp71
-g10
-I340
-sg14
-VGalaxy's Five Star Shelf (Galaxy, October 1953)
-p72
-sa(dp73
-g10
-I305
-sg14
-VAt the Post
-p74
-sa(dp75
-g10
-I3
-sg14
 VThe Caves of Steel (Part 1 of 3)
-p76
-sa(dp77
-g10
-I387
-sg14
+p33
+sS'author'
+p34
+I363
+sa(dp35
+g32
+VThe Caves of Steel (Part 1 of 3) [2]
+p36
+sg34
+I363
+sa(dp37
+g32
+VThe Caves of Steel (Part 1 of 3) [3]
+p38
+sg34
+I363
+sa(dp39
+g32
+VThe Caves of Steel (Part 1 of 3) [4]
+p40
+sg34
+I363
+sa(dp41
+g32
 VThe Model of a Judge
-p78
-sa(dp79
-g10
-I36
-sg14
+p42
+sg34
+I438
+sa(dp43
+g32
 VThe Carnivore
-p80
-sa(dp81
-g10
-I401
-sg14
+p44
+sg34
+I438
+sa(dp45
+g32
 VOrigins of Galactic Etiquette
-p82
-sa(dp83
-g10
-I439
-sg14
+p46
+sg34
+I336
+sa(dp47
+g32
+VOrigins of Galactic Etiquette [2]
+p48
+sg34
+I336
+sa(dp49
+g32
+VOrigins of Galactic Etiquette [3]
+p50
+sg34
+I336
+sa(dp51
+g32
+VOrigins of Galactic Etiquette [4]
+p52
+sg34
+I336
+sa(dp53
+g32
+VOrigins of Galactic Etiquette [5]
+p54
+sg34
+I336
+sa(dp55
+g32
+VOrigins of Galactic Etiquette [6]
+p56
+sg34
+I336
+sa(dp57
+g32
 VWith a Vengeance
+p58
+sg34
+I435
+sa(dp59
+g32
+VAt the Post
+p60
+sg34
+I431
+sa(dp61
+g32
+VAt the Post [2]
+p62
+sg34
+I431
+sa(dp63
+g32
+VAt the Post [3]
+p64
+sg34
+I431
+sa(dp65
+g32
+VAt the Post [4]
+p66
+sg34
+I431
+sa(dp67
+g32
+VTo the Hills!
+p68
+sg34
+I305
+sa(dp69
+g32
+VForecast (Galaxy, October 1953)
+p70
+sg34
+I326
+sa(dp71
+g32
+VFor Your Information: Earth Tunnels
+p72
+sg34
+I339
+sa(dp73
+g32
+VGalaxy's Five Star Shelf (Galaxy, October 1953)
+p74
+sg34
+I340
+sa(dp75
+g32
+VAt the Post
+p76
+sg34
+I305
+sa(dp77
+g32
+VThe Caves of Steel (Part 1 of 3)
+p78
+sg34
+I3
+sa(dp79
+g32
+VThe Model of a Judge
+p80
+sg34
+I387
+sa(dp81
+g32
+VThe Carnivore
+p82
+sg34
+I36
+sa(dp83
+g32
+VOrigins of Galactic Etiquette
 p84
+sg34
+I401
+sa(dp85
+g32
+VWith a Vengeance
+p86
+sg34
+I439
 sasb.

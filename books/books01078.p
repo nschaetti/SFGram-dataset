@@ -76,171 +76,173 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I519
-sg14
-VSuccess Story
+S'title'
 p32
-sa(dp33
-g10
-I519
-sg14
-VSuccess Story [2]
-p34
-sa(dp35
-g10
-I519
-sg14
-VSuccess Story [3]
-p36
-sa(dp37
-g10
-I551
-sg14
-VCondition of Employment
-p38
-sa(dp39
-g10
-I519
-sg14
-VThe Airy Servitor
-p40
-sa(dp41
-g10
-I506
-sg14
-VThe Lady Who Sailed the Soul
-p42
-sa(dp43
-g10
-I506
-sg14
-VThe Lady Who Sailed the Soul [2]
-p44
-sa(dp45
-g10
-I506
-sg14
-VThe Lady Who Sailed the Soul [3]
-p46
-sa(dp47
-g10
-I552
-sg14
-VSolid Solution
-p48
-sa(dp49
-g10
-I552
-sg14
-VSolid Solution [2]
-p50
-sa(dp51
-g10
-I519
-sg14
-VDon't Look Now
-p52
-sa(dp53
-g10
-I519
-sg14
-VDon't Look Now [2]
-p54
-sa(dp55
-g10
-I519
-sg14
-VDon't Look Now [3]
-p56
-sa(dp57
-g10
-I419
-sg14
-VThe Troublemakers
-p58
-sa(dp59
-g10
-I419
-sg14
-VThe Troublemakers [2]
-p60
-sa(dp61
-g10
-I419
-sg14
-VThe Troublemakers [3]
-p62
-sa(dp63
-g10
-I305
-sg14
-VThe World of Tomorrow
-p64
-sa(dp65
-g10
-I326
-sg14
-VForecast (Galaxy, April 1960)
-p66
-sa(dp67
-g10
-I339
-sg14
-VFor Your Information: What's Only Money?
-p68
-sa(dp69
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, April 1960)
-p70
-sa(dp71
-g10
-I198
-sg14
 VSuccess Story
-p72
-sa(dp73
-g10
-I479
-sg14
-VThe Lady Who Sailed the Soul
-p74
-sa(dp75
-g10
-I258
-sg14
-VDon't Look Now
-p76
-sa(dp77
-g10
-I95
-sg14
-VThe Troublemakers
-p78
-sa(dp79
-g10
-I56
-sg14
+p33
+sS'author'
+p34
+I519
+sa(dp35
+g32
+VSuccess Story [2]
+p36
+sg34
+I519
+sa(dp37
+g32
+VSuccess Story [3]
+p38
+sg34
+I519
+sa(dp39
+g32
 VCondition of Employment
-p80
-sa(dp81
-g10
-I423
-sg14
+p40
+sg34
+I551
+sa(dp41
+g32
 VThe Airy Servitor
-p82
-sa(dp83
-g10
-I211
-sg14
+p42
+sg34
+I519
+sa(dp43
+g32
+VThe Lady Who Sailed the Soul
+p44
+sg34
+I506
+sa(dp45
+g32
+VThe Lady Who Sailed the Soul [2]
+p46
+sg34
+I506
+sa(dp47
+g32
+VThe Lady Who Sailed the Soul [3]
+p48
+sg34
+I506
+sa(dp49
+g32
 VSolid Solution
+p50
+sg34
+I552
+sa(dp51
+g32
+VSolid Solution [2]
+p52
+sg34
+I552
+sa(dp53
+g32
+VDon't Look Now
+p54
+sg34
+I519
+sa(dp55
+g32
+VDon't Look Now [2]
+p56
+sg34
+I519
+sa(dp57
+g32
+VDon't Look Now [3]
+p58
+sg34
+I519
+sa(dp59
+g32
+VThe Troublemakers
+p60
+sg34
+I419
+sa(dp61
+g32
+VThe Troublemakers [2]
+p62
+sg34
+I419
+sa(dp63
+g32
+VThe Troublemakers [3]
+p64
+sg34
+I419
+sa(dp65
+g32
+VThe World of Tomorrow
+p66
+sg34
+I305
+sa(dp67
+g32
+VForecast (Galaxy, April 1960)
+p68
+sg34
+I326
+sa(dp69
+g32
+VFor Your Information: What's Only Money?
+p70
+sg34
+I339
+sa(dp71
+g32
+VGalaxy's 5 Star Shelf (Galaxy, April 1960)
+p72
+sg34
+I483
+sa(dp73
+g32
+VSuccess Story
+p74
+sg34
+I198
+sa(dp75
+g32
+VThe Lady Who Sailed the Soul
+p76
+sg34
+I479
+sa(dp77
+g32
+VDon't Look Now
+p78
+sg34
+I258
+sa(dp79
+g32
+VThe Troublemakers
+p80
+sg34
+I95
+sa(dp81
+g32
+VCondition of Employment
+p82
+sg34
+I56
+sa(dp83
+g32
+VThe Airy Servitor
 p84
+sg34
+I423
 sa(dp85
-g10
-I58
-sg14
-VThe Power
+g32
+VSolid Solution
 p86
+sg34
+I211
+sa(dp87
+g32
+VThe Power
+p88
+sg34
+I58
 sasb.

@@ -74,129 +74,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I497
-sg14
-VA Planet for Plundering
+S'title'
 p32
-sa(dp33
-g10
-I497
-sg14
-VA Planet for Plundering [2]
+VA Planet for Plundering
+p33
+sS'author'
 p34
+I497
 sa(dp35
-g10
-I419
-sg14
-VThe Tail-Tied Kings
+g32
+VA Planet for Plundering [2]
 p36
+sg34
+I497
 sa(dp37
-g10
-I560
-sg14
-VStar-Crossed Lover
+g32
+VThe Tail-Tied Kings
 p38
+sg34
+I419
 sa(dp39
-g10
-I570
-sg14
-VBig Ba
+g32
+VStar-Crossed Lover
 p40
+sg34
+I560
 sa(dp41
-g10
-I571
-sg14
+g32
 VBig Ba
 p42
+sg34
+I570
 sa(dp43
-g10
-I560
-sg14
-VFounding Father
+g32
+VBig Ba
 p44
+sg34
+I571
 sa(dp45
-g10
-I560
-sg14
-VFounding Father [2]
-p46
-sa(dp47
-g10
-I560
-sg14
-VFounding Father [3]
-p48
-sa(dp49
-g10
-I419
-sg14
-VMoon Dog
-p50
-sa(dp51
-g10
-I565
-sg14
-VFootnotes Up Front
-p52
-sa(dp53
-g10
-I339
-sg14
-VFor Your Information: The Shape of Shells to Come
-p54
-sa(dp55
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, April 1962) (Circulation: 91,000)
-p56
-sa(dp57
-g10
-I326
-sg14
-VForecast (Galaxy, April 1962)
-p58
-sa(dp59
-g10
-I86
-sg14
-VA Planet for Plundering
-p60
-sa(dp61
-g10
-I507
-sg14
+g32
 VFounding Father
-p62
-sa(dp63
-g10
-I514
-sg14
-VThe Tail-Tied Kings
-p64
-sa(dp65
-g10
-I554
-sg14
-VStar-Crossed Lover
-p66
-sa(dp67
-g10
-I572
-sg14
-VThe Long, Silvery Day
-p68
-sa(dp69
-g10
-I179
-sg14
-VGourmet
-p70
-sa(dp71
-g10
-I542
-sg14
+p46
+sg34
+I560
+sa(dp47
+g32
+VFounding Father [2]
+p48
+sg34
+I560
+sa(dp49
+g32
+VFounding Father [3]
+p50
+sg34
+I560
+sa(dp51
+g32
 VMoon Dog
+p52
+sg34
+I419
+sa(dp53
+g32
+VFootnotes Up Front
+p54
+sg34
+I565
+sa(dp55
+g32
+VFor Your Information: The Shape of Shells to Come
+p56
+sg34
+I339
+sa(dp57
+g32
+VStatement of Ownership (Galaxy, April 1962) (Circulation: 91,000)
+p58
+sg34
+I326
+sa(dp59
+g32
+VForecast (Galaxy, April 1962)
+p60
+sg34
+I326
+sa(dp61
+g32
+VA Planet for Plundering
+p62
+sg34
+I86
+sa(dp63
+g32
+VFounding Father
+p64
+sg34
+I507
+sa(dp65
+g32
+VThe Tail-Tied Kings
+p66
+sg34
+I514
+sa(dp67
+g32
+VStar-Crossed Lover
+p68
+sg34
+I554
+sa(dp69
+g32
+VThe Long, Silvery Day
+p70
+sg34
+I572
+sa(dp71
+g32
+VGourmet
 p72
+sg34
+I179
+sa(dp73
+g32
+VMoon Dog
+p74
+sg34
+I542
 sasb.

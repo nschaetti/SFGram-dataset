@@ -1,0 +1,96 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1972", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/1972-08_IF/1972-08_IF_jp2.zip&file=1972-08_IF_jp2/1972-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/73/WOFIFJULAUG1972.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        836, 
+        667, 
+        356, 
+        40, 
+        1221, 
+        722, 
+        679, 
+        617, 
+        1185, 
+        918
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1378, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Book of Rack the Healer (Part 1 of 2)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Last Train From Earth"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Merchants of Venus"
+        }, 
+        {
+            "author": 326, 
+            "title": "Comet, Cairn and Capsule"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hard Sell"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Men at Kappa"
+        }, 
+        {
+            "author": 836, 
+            "title": "A Message From the Publisher"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, July-August 1972)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, July-August 1972)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, July-August 1972)"
+        }, 
+        {
+            "author": 40, 
+            "title": "The Merchants of Venus"
+        }, 
+        {
+            "author": 1221, 
+            "title": "The Book of Rack the Healer (Part 1 of 2)"
+        }, 
+        {
+            "author": 722, 
+            "title": "Last Train From Earth"
+        }, 
+        {
+            "author": 679, 
+            "title": "Comet, Cairn and Capsule"
+        }, 
+        {
+            "author": 617, 
+            "title": "Hard Sell"
+        }, 
+        {
+            "author": 1185, 
+            "title": "The Men at Kappa"
+        }
+    ]
+}

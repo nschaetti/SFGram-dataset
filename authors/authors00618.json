@@ -2,7 +2,10 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1118
+        1118, 
+        1289, 
+        1301, 
+        1337
     ], 
     "id": 618, 
     "name": "Gary Wright"

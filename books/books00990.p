@@ -71,135 +71,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VThe Year of the Jackpot
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VThe Year of the Jackpot [2]
-p34
-sa(dp35
-g10
-I363
-sg14
-VThe Year of the Jackpot [3]
-p36
-sa(dp37
-g10
-I390
-sg14
-VManners of the Age
-p38
-sa(dp39
-g10
-I390
-sg14
-VManners of the Age [2]
-p40
-sa(dp41
-g10
-I390
-sg14
-VManners of the Age [3]
-p42
-sa(dp43
-g10
-I363
-sg14
-VThe 7th Order
-p44
-sa(dp45
-g10
-I363
-sg14
-VThe 7th Order [2]
-p46
-sa(dp47
-g10
-I363
-sg14
-VThe 7th Order [3]
-p48
-sa(dp49
-g10
-I352
-sg14
-VCatch That Martian
-p50
-sa(dp51
-g10
-I326
-sg14
-VThe Demolished Man (Part 3 of 3)
-p52
-sa(dp53
-g10
-I326
-sg14
-VThe Demolished Man (Part 3 of 3) [2]
-p54
-sa(dp55
-g10
-I326
-sg14
-VThe Demolished Man (Part 3 of 3) [3]
-p56
-sa(dp57
-g10
-I326
-sg14
-VThe Demolished Man (Part 3 of 3) [4]
-p58
-sa(dp59
-g10
-I305
-sg14
-VIn This Corner
-p60
-sa(dp61
-g10
-I339
-sg14
-VFor Your Information (Galaxy, March 1952)
-p62
-sa(dp63
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, March 1952)
-p64
-sa(dp65
-g10
-I371
-sg14
 VThe Year of the Jackpot
-p66
-sa(dp67
-g10
-I385
-sg14
-VThe Demolished Man (Part 3 of 3)
-p68
-sa(dp69
-g10
-I94
-sg14
+p33
+sS'author'
+p34
+I363
+sa(dp35
+g32
+VThe Year of the Jackpot [2]
+p36
+sg34
+I363
+sa(dp37
+g32
+VThe Year of the Jackpot [3]
+p38
+sg34
+I363
+sa(dp39
+g32
 VManners of the Age
-p70
-sa(dp71
-g10
-I391
-sg14
+p40
+sg34
+I390
+sa(dp41
+g32
+VManners of the Age [2]
+p42
+sg34
+I390
+sa(dp43
+g32
+VManners of the Age [3]
+p44
+sg34
+I390
+sa(dp45
+g32
 VThe 7th Order
-p72
-sa(dp73
-g10
-I204
-sg14
+p46
+sg34
+I363
+sa(dp47
+g32
+VThe 7th Order [2]
+p48
+sg34
+I363
+sa(dp49
+g32
+VThe 7th Order [3]
+p50
+sg34
+I363
+sa(dp51
+g32
 VCatch That Martian
+p52
+sg34
+I352
+sa(dp53
+g32
+VThe Demolished Man (Part 3 of 3)
+p54
+sg34
+I326
+sa(dp55
+g32
+VThe Demolished Man (Part 3 of 3) [2]
+p56
+sg34
+I326
+sa(dp57
+g32
+VThe Demolished Man (Part 3 of 3) [3]
+p58
+sg34
+I326
+sa(dp59
+g32
+VThe Demolished Man (Part 3 of 3) [4]
+p60
+sg34
+I326
+sa(dp61
+g32
+VIn This Corner
+p62
+sg34
+I305
+sa(dp63
+g32
+VFor Your Information (Galaxy, March 1952)
+p64
+sg34
+I339
+sa(dp65
+g32
+VGalaxy's 5 Star Shelf (Galaxy, March 1952)
+p66
+sg34
+I340
+sa(dp67
+g32
+VThe Year of the Jackpot
+p68
+sg34
+I371
+sa(dp69
+g32
+VThe Demolished Man (Part 3 of 3)
+p70
+sg34
+I385
+sa(dp71
+g32
+VManners of the Age
+p72
+sg34
+I94
+sa(dp73
+g32
+VThe 7th Order
 p74
+sg34
+I391
+sa(dp75
+g32
+VCatch That Martian
+p76
+sg34
+I204
 sasb.

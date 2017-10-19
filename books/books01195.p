@@ -73,129 +73,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VShowcase (Galaxy, October 1976)
+S'title'
 p32
-sa(dp33
-g10
-I806
-sg14
-VBagatelle
+VShowcase (Galaxy, October 1976)
+p33
+sS'author'
 p34
+I742
 sa(dp35
-g10
-I806
-sg14
-VBagatelle [2]
-p36
-sa(dp37
-g10
-I806
-sg14
-VYou'll Be a Real Sensation!
-p38
-sa(dp39
-g10
-I742
-sg14
-VThe Children of the State (Part 2 of 3)
-p40
-sa(dp41
-g10
-I742
-sg14
-VThe Children of the State (Part 2 of 3) [2]
-p42
-sa(dp43
-g10
-I742
-sg14
-VThe Children of the State (Part 2 of 3) [3]
-p44
-sa(dp45
-g10
-I499
-sg14
-VSeeker of the Way
-p46
-sa(dp47
-g10
-I807
-sg14
-VThe Man at the Bottom of the Sea
-p48
-sa(dp49
-g10
-I807
-sg14
-VThe Man at the Bottom of the Sea [2]
-p50
-sa(dp51
-g10
-I742
-sg14
-VAct of Faith
-p52
-sa(dp53
-g10
-I734
-sg14
-VFusion Without Exlax
-p54
-sa(dp55
-g10
-I770
-sg14
-VBookshelf (Galaxy, October 1976)
-p56
-sa(dp57
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, October 1976)
-p58
-sa(dp59
-g10
-I326
-sg14
-VDirections (Galaxy, October 1976)
-p60
-sa(dp61
-g10
-I797
-sg14
+g32
 VBagatelle
-p62
-sa(dp63
-g10
-I809
-sg14
-VSeeker of the Way
-p64
-sa(dp65
-g10
-I604
-sg14
-VThe Children of the State (Part 2 of 3)
-p66
-sa(dp67
-g10
-I810
-sg14
+p36
+sg34
+I806
+sa(dp37
+g32
+VBagatelle [2]
+p38
+sg34
+I806
+sa(dp39
+g32
 VYou'll Be a Real Sensation!
-p68
-sa(dp69
-g10
-I741
-sg14
+p40
+sg34
+I806
+sa(dp41
+g32
+VThe Children of the State (Part 2 of 3)
+p42
+sg34
+I742
+sa(dp43
+g32
+VThe Children of the State (Part 2 of 3) [2]
+p44
+sg34
+I742
+sa(dp45
+g32
+VThe Children of the State (Part 2 of 3) [3]
+p46
+sg34
+I742
+sa(dp47
+g32
+VSeeker of the Way
+p48
+sg34
+I499
+sa(dp49
+g32
 VThe Man at the Bottom of the Sea
-p70
-sa(dp71
-g10
-I811
-sg14
+p50
+sg34
+I807
+sa(dp51
+g32
+VThe Man at the Bottom of the Sea [2]
+p52
+sg34
+I807
+sa(dp53
+g32
 VAct of Faith
+p54
+sg34
+I742
+sa(dp55
+g32
+VFusion Without Exlax
+p56
+sg34
+I734
+sa(dp57
+g32
+VBookshelf (Galaxy, October 1976)
+p58
+sg34
+I770
+sa(dp59
+g32
+VThe Alien Viewpoint (Galaxy, October 1976)
+p60
+sg34
+I767
+sa(dp61
+g32
+VDirections (Galaxy, October 1976)
+p62
+sg34
+I326
+sa(dp63
+g32
+VBagatelle
+p64
+sg34
+I797
+sa(dp65
+g32
+VSeeker of the Way
+p66
+sg34
+I809
+sa(dp67
+g32
+VThe Children of the State (Part 2 of 3)
+p68
+sg34
+I604
+sa(dp69
+g32
+VYou'll Be a Real Sensation!
+p70
+sg34
+I810
+sa(dp71
+g32
+VThe Man at the Bottom of the Sea
 p72
+sg34
+I741
+sa(dp73
+g32
+VAct of Faith
+p74
+sg34
+I811
 sasb.

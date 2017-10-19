@@ -1,0 +1,84 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1960", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/1960-05_IF/1960-05_IF_jp2.zip&file=1960-05_IF_jp2/1960-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/0d/WOFIFMAY1960.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        497, 
+        326, 
+        40, 
+        81, 
+        111, 
+        144, 
+        1062, 
+        250, 
+        588, 
+        1063, 
+        918
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1273, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "A Tourist Named Death"
+        }, 
+        {
+            "author": 519, 
+            "title": "A Pride of Islands"
+        }, 
+        {
+            "author": 497, 
+            "title": "Heel"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Great Day for the Irish"
+        }, 
+        {
+            "author": 519, 
+            "title": "Matchmaker"
+        }, 
+        {
+            "author": 40, 
+            "title": "Worlds of If (If, May 1960)"
+        }, 
+        {
+            "author": 81, 
+            "title": "A Tourist Named Death"
+        }, 
+        {
+            "author": 111, 
+            "title": "A Pride of Islands"
+        }, 
+        {
+            "author": 144, 
+            "title": "Matchmaker"
+        }, 
+        {
+            "author": 1062, 
+            "title": "Thirty Degrees Cattywonkus"
+        }, 
+        {
+            "author": 250, 
+            "title": "When Day Is Done"
+        }, 
+        {
+            "author": 588, 
+            "title": "Heel"
+        }, 
+        {
+            "author": 1063, 
+            "title": "A Great Day for the Irish"
+        }
+    ]
+}

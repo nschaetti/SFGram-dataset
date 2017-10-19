@@ -1,0 +1,101 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine August 1956", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/1956-08_IF/1956-08_IF_jp2.zip&file=1956-08_IF_jp2/1956-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/ca/WOFIFAUG1956.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        427, 
+        497, 
+        363, 
+        956, 
+        948, 
+        1024, 
+        326, 
+        403, 
+        1008, 
+        1020, 
+        1025, 
+        991, 
+        918
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1252, 
+    "contents": [
+        {
+            "author": 427, 
+            "title": "Dropoff of Stage Two"
+        }, 
+        {
+            "author": 497, 
+            "title": "Project Hi-Psi"
+        }, 
+        {
+            "author": 363, 
+            "title": "Sales Resistance"
+        }, 
+        {
+            "author": 956, 
+            "title": "Reject"
+        }, 
+        {
+            "author": 956, 
+            "title": "Wrong Analogy"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Matter of Order"
+        }, 
+        {
+            "author": 427, 
+            "title": "Three-Stage Model"
+        }, 
+        {
+            "author": 948, 
+            "title": "Editor's Report (If, August 1956)"
+        }, 
+        {
+            "author": 1024, 
+            "title": "The Satellite Vehicle (Part 2 of 2)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If August 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, August 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, August 1956)"
+        }, 
+        {
+            "author": 403, 
+            "title": "Wrong Analogy"
+        }, 
+        {
+            "author": 1008, 
+            "title": "Project Hi-Psi"
+        }, 
+        {
+            "author": 1020, 
+            "title": "Sales Resistance"
+        }, 
+        {
+            "author": 1025, 
+            "title": "Reject"
+        }, 
+        {
+            "author": 991, 
+            "title": "A Matter of Order"
+        }
+    ]
+}

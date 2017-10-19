@@ -72,117 +72,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I497
-sg14
-VThe Big Time (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I497
-sg14
-VThe Big Time (Part 1 of 2) [2]
-p34
-sa(dp35
-g10
-I506
-sg14
-VMy Fair Planet
-p36
-sa(dp37
-g10
-I519
-sg14
-VSpare the Rod
-p38
-sa(dp39
-g10
-I519
-sg14
-VSpare the Rod [2]
-p40
-sa(dp41
-g10
-I519
-sg14
-VSpare the Rod [3]
-p42
-sa(dp43
-g10
-I525
-sg14
-VThe Ethical Way
-p44
-sa(dp45
-g10
-I506
-sg14
-VA Feast of Demons
-p46
-sa(dp47
-g10
-I506
-sg14
-VA Feast of Demons [2]
-p48
-sa(dp49
-g10
-I506
-sg14
-VA Feast of Demons [3]
-p50
-sa(dp51
-g10
-I305
-sg14
-VThey're Back
-p52
-sa(dp53
-g10
-I339
-sg14
-VFor Your Information: The Orbit of the Vanguard Satellite
-p54
-sa(dp55
-g10
-I326
-sg14
-VForecast (Galaxy, March 1958)
-p56
-sa(dp57
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, March 1958)
-p58
-sa(dp59
-g10
-I498
-sg14
-VSpare the Rod
-p60
-sa(dp61
-g10
-I387
-sg14
-VA Feast of Demons
-p62
-sa(dp63
-g10
-I32
-sg14
 VThe Big Time (Part 1 of 2)
-p64
-sa(dp65
-g10
-I172
-sg14
+p33
+sS'author'
+p34
+I497
+sa(dp35
+g32
+VThe Big Time (Part 1 of 2) [2]
+p36
+sg34
+I497
+sa(dp37
+g32
 VMy Fair Planet
-p66
-sa(dp67
-g10
-I530
-sg14
+p38
+sg34
+I506
+sa(dp39
+g32
+VSpare the Rod
+p40
+sg34
+I519
+sa(dp41
+g32
+VSpare the Rod [2]
+p42
+sg34
+I519
+sa(dp43
+g32
+VSpare the Rod [3]
+p44
+sg34
+I519
+sa(dp45
+g32
 VThe Ethical Way
+p46
+sg34
+I525
+sa(dp47
+g32
+VA Feast of Demons
+p48
+sg34
+I506
+sa(dp49
+g32
+VA Feast of Demons [2]
+p50
+sg34
+I506
+sa(dp51
+g32
+VA Feast of Demons [3]
+p52
+sg34
+I506
+sa(dp53
+g32
+VThey're Back
+p54
+sg34
+I305
+sa(dp55
+g32
+VFor Your Information: The Orbit of the Vanguard Satellite
+p56
+sg34
+I339
+sa(dp57
+g32
+VForecast (Galaxy, March 1958)
+p58
+sg34
+I326
+sa(dp59
+g32
+VGalaxy's 5 Star Shelf (Galaxy, March 1958)
+p60
+sg34
+I483
+sa(dp61
+g32
+VSpare the Rod
+p62
+sg34
+I498
+sa(dp63
+g32
+VA Feast of Demons
+p64
+sg34
+I387
+sa(dp65
+g32
+VThe Big Time (Part 1 of 2)
+p66
+sg34
+I32
+sa(dp67
+g32
+VMy Fair Planet
 p68
+sg34
+I172
+sa(dp69
+g32
+VThe Ethical Way
+p70
+sg34
+I530
 sasb.

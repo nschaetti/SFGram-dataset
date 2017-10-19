@@ -73,135 +73,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I849
-sg14
-VHung Jury
+S'title'
 p32
-sa(dp33
-g10
-I866
-sg14
-VTo Go Not Gently
-p34
-sa(dp35
-g10
-I866
-sg14
-VTo Go Not Gently [2]
-p36
-sa(dp37
-g10
-I866
-sg14
-VTo Go Not Gently [3]
-p38
-sa(dp39
-g10
-I866
-sg14
-VTo Go Not Gently [4]
-p40
-sa(dp41
-g10
-I863
-sg14
-VStar Warring
-p42
-sa(dp43
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 2 of 3)
-p44
-sa(dp45
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 2 of 3) [2]
-p46
-sa(dp47
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 2 of 3) [3]
-p48
-sa(dp49
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 2 of 3) [4]
-p50
-sa(dp51
-g10
-I742
-sg14
-VThe Stars in Shroud (Part 2 of 3) [5]
-p52
-sa(dp53
-g10
-I867
-sg14
-VHenry the Spaceship
-p54
-sa(dp55
-g10
-I326
-sg14
-VS. F. Calendar (Galaxy, June 1978)
-p56
-sa(dp57
-g10
-I734
-sg14
-VThe Tools of the Trade
-p58
-sa(dp59
-g10
-I843
-sg14
-VGalaxy Bookshelf (Galaxy, June 1978)
-p60
-sa(dp61
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, June 1978)
-p62
-sa(dp63
-g10
-I844
-sg14
-VDirections (Galaxy, June 1978)
-p64
-sa(dp65
-g10
-I868
-sg14
-VTo Go Not Gently
-p66
-sa(dp67
-g10
-I693
-sg14
-VThe Stars in Shroud (Part 2 of 3)
-p68
-sa(dp69
-g10
-I869
-sg14
 VHung Jury
-p70
-sa(dp71
-g10
-I870
-sg14
+p33
+sS'author'
+p34
+I849
+sa(dp35
+g32
+VTo Go Not Gently
+p36
+sg34
+I866
+sa(dp37
+g32
+VTo Go Not Gently [2]
+p38
+sg34
+I866
+sa(dp39
+g32
+VTo Go Not Gently [3]
+p40
+sg34
+I866
+sa(dp41
+g32
+VTo Go Not Gently [4]
+p42
+sg34
+I866
+sa(dp43
+g32
 VStar Warring
-p72
-sa(dp73
-g10
-I843
-sg14
+p44
+sg34
+I863
+sa(dp45
+g32
+VThe Stars in Shroud (Part 2 of 3)
+p46
+sg34
+I742
+sa(dp47
+g32
+VThe Stars in Shroud (Part 2 of 3) [2]
+p48
+sg34
+I742
+sa(dp49
+g32
+VThe Stars in Shroud (Part 2 of 3) [3]
+p50
+sg34
+I742
+sa(dp51
+g32
+VThe Stars in Shroud (Part 2 of 3) [4]
+p52
+sg34
+I742
+sa(dp53
+g32
+VThe Stars in Shroud (Part 2 of 3) [5]
+p54
+sg34
+I742
+sa(dp55
+g32
 VHenry the Spaceship
+p56
+sg34
+I867
+sa(dp57
+g32
+VS. F. Calendar (Galaxy, June 1978)
+p58
+sg34
+I326
+sa(dp59
+g32
+VThe Tools of the Trade
+p60
+sg34
+I734
+sa(dp61
+g32
+VGalaxy Bookshelf (Galaxy, June 1978)
+p62
+sg34
+I843
+sa(dp63
+g32
+VThe Alien Viewpoint (Galaxy, June 1978)
+p64
+sg34
+I767
+sa(dp65
+g32
+VDirections (Galaxy, June 1978)
+p66
+sg34
+I844
+sa(dp67
+g32
+VTo Go Not Gently
+p68
+sg34
+I868
+sa(dp69
+g32
+VThe Stars in Shroud (Part 2 of 3)
+p70
+sg34
+I693
+sa(dp71
+g32
+VHung Jury
+p72
+sg34
+I869
+sa(dp73
+g32
+VStar Warring
 p74
+sg34
+I870
+sa(dp75
+g32
+VHenry the Spaceship
+p76
+sg34
+I843
 sasb.

@@ -72,183 +72,185 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I545
-sg14
-VThe Boy Who Bought Old Earth
+S'title'
 p32
-sa(dp33
-g10
-I545
-sg14
-VThe Boy Who Bought Old Earth [2]
-p34
-sa(dp35
-g10
-I545
-sg14
-VThe Boy Who Bought Old Earth [3]
-p36
-sa(dp37
-g10
-I545
-sg14
-VThe Boy Who Bought Old Earth [4]
-p38
-sa(dp39
-g10
-I499
-sg14
-VEarth Eighteen
-p40
-sa(dp41
-g10
-I499
-sg14
-VEarth Eighteen [2]
-p42
-sa(dp43
-g10
-I499
-sg14
-VEarth Eighteen [3]
-p44
-sa(dp45
-g10
-I499
-sg14
-VEarth Eighteen [4]
-p46
-sa(dp47
-g10
-I499
-sg14
-VEarth Eighteen [5]
-p48
-sa(dp49
-g10
-I499
-sg14
-VEarth Eighteen [6]
-p50
-sa(dp51
-g10
-I499
-sg14
-VEarth Eighteen [7]
-p52
-sa(dp53
-g10
-I499
-sg14
-VEarth Eighteen [8]
-p54
-sa(dp55
-g10
-I499
-sg14
-VEarth Eighteen [9]
-p56
-sa(dp57
-g10
-I499
-sg14
-VEarth Eighteen [10]
-p58
-sa(dp59
-g10
-I499
-sg14
-VEarth Eighteen [11]
-p60
-sa(dp61
-g10
-I499
-sg14
-VEarth Eighteen [12]
-p62
-sa(dp63
-g10
-I581
-sg14
-VFinal Encounter
-p64
-sa(dp65
-g10
-I578
-sg14
-VThe Blasphemers
-p66
-sa(dp67
-g10
-I578
-sg14
-VThe Blasphemers [2]
-p68
-sa(dp69
-g10
-I40
-sg14
-VHow to Talk Science
-p70
-sa(dp71
-g10
-I339
-sg14
-VFor Your Information: Galton's Random Machine, the Bean Curve and Military Purchases
-p72
-sa(dp73
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, April 1964) (Circulation: 77,677)
-p74
-sa(dp75
-g10
-I326
-sg14
-VForecast (Galaxy, April 1964)
-p76
-sa(dp77
-g10
-I16
-sg14
-VFinal Encounter
-p78
-sa(dp79
-g10
-I588
-sg14
-VThe Blasphemers
-p80
-sa(dp81
-g10
-I479
-sg14
 VThe Boy Who Bought Old Earth
-p82
-sa(dp83
-g10
-I589
-sg14
-VThe End of the Race
-p84
-sa(dp85
-g10
-I577
-sg14
-VSoft and Soupy Whispers
-p86
-sa(dp87
-g10
-I40
-sg14
+p33
+sS'author'
+p34
+I545
+sa(dp35
+g32
+VThe Boy Who Bought Old Earth [2]
+p36
+sg34
+I545
+sa(dp37
+g32
+VThe Boy Who Bought Old Earth [3]
+p38
+sg34
+I545
+sa(dp39
+g32
+VThe Boy Who Bought Old Earth [4]
+p40
+sg34
+I545
+sa(dp41
+g32
 VEarth Eighteen
+p42
+sg34
+I499
+sa(dp43
+g32
+VEarth Eighteen [2]
+p44
+sg34
+I499
+sa(dp45
+g32
+VEarth Eighteen [3]
+p46
+sg34
+I499
+sa(dp47
+g32
+VEarth Eighteen [4]
+p48
+sg34
+I499
+sa(dp49
+g32
+VEarth Eighteen [5]
+p50
+sg34
+I499
+sa(dp51
+g32
+VEarth Eighteen [6]
+p52
+sg34
+I499
+sa(dp53
+g32
+VEarth Eighteen [7]
+p54
+sg34
+I499
+sa(dp55
+g32
+VEarth Eighteen [8]
+p56
+sg34
+I499
+sa(dp57
+g32
+VEarth Eighteen [9]
+p58
+sg34
+I499
+sa(dp59
+g32
+VEarth Eighteen [10]
+p60
+sg34
+I499
+sa(dp61
+g32
+VEarth Eighteen [11]
+p62
+sg34
+I499
+sa(dp63
+g32
+VEarth Eighteen [12]
+p64
+sg34
+I499
+sa(dp65
+g32
+VFinal Encounter
+p66
+sg34
+I581
+sa(dp67
+g32
+VThe Blasphemers
+p68
+sg34
+I578
+sa(dp69
+g32
+VThe Blasphemers [2]
+p70
+sg34
+I578
+sa(dp71
+g32
+VHow to Talk Science
+p72
+sg34
+I40
+sa(dp73
+g32
+VFor Your Information: Galton's Random Machine, the Bean Curve and Military Purchases
+p74
+sg34
+I339
+sa(dp75
+g32
+VStatement of Ownership (Galaxy, April 1964) (Circulation: 77,677)
+p76
+sg34
+I326
+sa(dp77
+g32
+VForecast (Galaxy, April 1964)
+p78
+sg34
+I326
+sa(dp79
+g32
+VFinal Encounter
+p80
+sg34
+I16
+sa(dp81
+g32
+VThe Blasphemers
+p82
+sg34
+I588
+sa(dp83
+g32
+VThe Boy Who Bought Old Earth
+p84
+sg34
+I479
+sa(dp85
+g32
+VThe End of the Race
+p86
+sg34
+I589
+sa(dp87
+g32
+VSoft and Soupy Whispers
 p88
+sg34
+I577
 sa(dp89
-g10
-I205
-sg14
-VAt the Feelies
+g32
+VEarth Eighteen
 p90
+sg34
+I40
+sa(dp91
+g32
+VAt the Feelies
+p92
+sg34
+I205
 sasb.

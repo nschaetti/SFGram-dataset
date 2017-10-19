@@ -72,111 +72,113 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VThe Stars My Destination (Part 1 of 4)
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VThe Stars My Destination (Part 1 of 4) [2]
-p34
-sa(dp35
-g10
-I363
-sg14
-VThe Stars My Destination (Part 1 of 4) [3]
-p36
-sa(dp37
-g10
-I363
-sg14
-VThe Stars My Destination (Part 1 of 4) [4]
-p38
-sa(dp39
-g10
-I419
-sg14
-VMan of Distinction
-p40
-sa(dp41
-g10
-I499
-sg14
-VProblem
-p42
-sa(dp43
-g10
-I494
-sg14
-VGeorge All the Way
-p44
-sa(dp45
-g10
-I497
-sg14
-VJackpot
-p46
-sa(dp47
-g10
-I497
-sg14
-VJackpot [2]
-p48
-sa(dp49
-g10
-I497
-sg14
-VJackpot [3]
-p50
-sa(dp51
-g10
-I305
-sg14
-VWhy, Back Home ...
-p52
-sa(dp53
-g10
-I339
-sg14
-VFor Your Information: The Animal in the Footnotes
-p54
-sa(dp55
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, October 1956)
-p56
-sa(dp57
-g10
-I56
-sg14
-VJackpot
-p58
-sa(dp59
-g10
-I385
-sg14
 VThe Stars My Destination (Part 1 of 4)
-p60
-sa(dp61
-g10
-I243
-sg14
+p33
+sS'author'
+p34
+I363
+sa(dp35
+g32
+VThe Stars My Destination (Part 1 of 4) [2]
+p36
+sg34
+I363
+sa(dp37
+g32
+VThe Stars My Destination (Part 1 of 4) [3]
+p38
+sg34
+I363
+sa(dp39
+g32
+VThe Stars My Destination (Part 1 of 4) [4]
+p40
+sg34
+I363
+sa(dp41
+g32
 VMan of Distinction
-p62
-sa(dp63
-g10
-I441
-sg14
+p42
+sg34
+I419
+sa(dp43
+g32
 VProblem
-p64
-sa(dp65
-g10
-I217
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
 VGeorge All the Way
+p46
+sg34
+I494
+sa(dp47
+g32
+VJackpot
+p48
+sg34
+I497
+sa(dp49
+g32
+VJackpot [2]
+p50
+sg34
+I497
+sa(dp51
+g32
+VJackpot [3]
+p52
+sg34
+I497
+sa(dp53
+g32
+VWhy, Back Home ...
+p54
+sg34
+I305
+sa(dp55
+g32
+VFor Your Information: The Animal in the Footnotes
+p56
+sg34
+I339
+sa(dp57
+g32
+VGalaxy's 5 Star Shelf (Galaxy, October 1956)
+p58
+sg34
+I483
+sa(dp59
+g32
+VJackpot
+p60
+sg34
+I56
+sa(dp61
+g32
+VThe Stars My Destination (Part 1 of 4)
+p62
+sg34
+I385
+sa(dp63
+g32
+VMan of Distinction
+p64
+sg34
+I243
+sa(dp65
+g32
+VProblem
 p66
+sg34
+I441
+sa(dp67
+g32
+VGeorge All the Way
+p68
+sg34
+I217
 sasb.

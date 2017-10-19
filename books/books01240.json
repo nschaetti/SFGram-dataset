@@ -1,0 +1,111 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1955", 
+    "cover": "https://ia800207.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/1955-01_IF/1955-01_IF_jp2.zip&file=1955-01_IF_jp2/1955-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/1c/WOFIFJAN1955.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        363, 
+        436, 
+        956, 
+        999, 
+        948, 
+        315, 
+        204, 
+        153, 
+        1002, 
+        1003, 
+        176, 
+        289, 
+        228, 
+        918
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1240, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Meteorological Rocket Approaches Sun"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Earth Quarter"
+        }, 
+        {
+            "author": 436, 
+            "title": "Saint Julie and the Visgi"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Men of Boru"
+        }, 
+        {
+            "author": 956, 
+            "title": "Race Riot"
+        }, 
+        {
+            "author": 999, 
+            "title": "Turnabout"
+        }, 
+        {
+            "author": 999, 
+            "title": "Journey Work"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, January 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, January 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, January 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, January 1955)"
+        }, 
+        {
+            "author": 315, 
+            "title": "Turnabout"
+        }, 
+        {
+            "author": 204, 
+            "title": "The Earth Quarter"
+        }, 
+        {
+            "author": 153, 
+            "title": "Saint Julie and the Visgi"
+        }, 
+        {
+            "author": 1002, 
+            "title": "The Men of Boru"
+        }, 
+        {
+            "author": 1003, 
+            "title": "Double Take"
+        }, 
+        {
+            "author": 176, 
+            "title": "Race Riot"
+        }, 
+        {
+            "author": 289, 
+            "title": "Journey Work"
+        }, 
+        {
+            "author": 228, 
+            "title": "Wedding Day"
+        }
+    ]
+}

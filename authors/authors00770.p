@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I770
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I1182
 aI1184
 aI1186
@@ -41,7 +38,10 @@ aI1201
 aI1202
 aI1203
 aI1204
-asS'name'
+asS'id'
+p10
+I770
+sS'name'
 p11
 VSpider Robinson
 p12

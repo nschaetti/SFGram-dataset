@@ -71,117 +71,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I543
-sg14
-VJoin Now
+S'title'
 p32
-sa(dp33
-g10
-I543
-sg14
-VJoin Now [2]
-p34
-sa(dp35
-g10
-I419
-sg14
-VNightmare with Zeppelins
-p36
-sa(dp37
-g10
-I519
-sg14
-VUllward's Retreat
-p38
-sa(dp39
-g10
-I519
-sg14
-VUllward's Retreat [2]
-p40
-sa(dp41
-g10
-I519
-sg14
-VUllward's Retreat [3]
-p42
-sa(dp43
-g10
-I523
-sg14
-VThe Number of the Beast
-p44
-sa(dp45
-g10
-I519
-sg14
-VTime Killer (Part 3 of 4)
-p46
-sa(dp47
-g10
-I519
-sg14
-VTime Killer (Part 3 of 4) [2]
-p48
-sa(dp49
-g10
-I519
-sg14
-VTime Killer (Part 3 of 4) [3]
-p50
-sa(dp51
-g10
-I305
-sg14
-VIt's All Yours
-p52
-sa(dp53
-g10
-I326
-sg14
-VForecast (Galaxy, December 1958)
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: The Strange Planet Next Door
-p56
-sa(dp57
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, December 1958)
-p58
-sa(dp59
-g10
-I23
-sg14
 VJoin Now
-p60
-sa(dp61
-g10
-I89
-sg14
-VUllward's Retreat
-p62
-sa(dp63
-g10
-I23
-sg14
-VTime Killer (Part 3 of 4)
-p64
-sa(dp65
-g10
-I40
-sg14
+p33
+sS'author'
+p34
+I543
+sa(dp35
+g32
+VJoin Now [2]
+p36
+sg34
+I543
+sa(dp37
+g32
 VNightmare with Zeppelins
-p66
-sa(dp67
-g10
-I32
-sg14
+p38
+sg34
+I419
+sa(dp39
+g32
+VUllward's Retreat
+p40
+sg34
+I519
+sa(dp41
+g32
+VUllward's Retreat [2]
+p42
+sg34
+I519
+sa(dp43
+g32
+VUllward's Retreat [3]
+p44
+sg34
+I519
+sa(dp45
+g32
 VThe Number of the Beast
+p46
+sg34
+I523
+sa(dp47
+g32
+VTime Killer (Part 3 of 4)
+p48
+sg34
+I519
+sa(dp49
+g32
+VTime Killer (Part 3 of 4) [2]
+p50
+sg34
+I519
+sa(dp51
+g32
+VTime Killer (Part 3 of 4) [3]
+p52
+sg34
+I519
+sa(dp53
+g32
+VIt's All Yours
+p54
+sg34
+I305
+sa(dp55
+g32
+VForecast (Galaxy, December 1958)
+p56
+sg34
+I326
+sa(dp57
+g32
+VFor Your Information: The Strange Planet Next Door
+p58
+sg34
+I339
+sa(dp59
+g32
+VGalaxy's 5 Star Shelf (Galaxy, December 1958)
+p60
+sg34
+I483
+sa(dp61
+g32
+VJoin Now
+p62
+sg34
+I23
+sa(dp63
+g32
+VUllward's Retreat
+p64
+sg34
+I89
+sa(dp65
+g32
+VTime Killer (Part 3 of 4)
+p66
+sg34
+I23
+sa(dp67
+g32
+VNightmare with Zeppelins
 p68
+sg34
+I40
+sa(dp69
+g32
+VThe Number of the Beast
+p70
+sg34
+I32
 sasb.

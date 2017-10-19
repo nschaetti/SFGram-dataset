@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1974", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/1974-08_IF/1974-08_IF_jp2.zip&file=1974-08_IF_jp2/1974-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4b/WOFIFJULAUG1974.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        1237, 
+        326, 
+        744, 
+        499, 
+        764, 
+        1238, 
+        767, 
+        356, 
+        645, 
+        561, 
+        665, 
+        3, 
+        604, 
+        1239, 
+        242, 
+        918
+    ], 
+    "year": 1974, 
+    "images": [], 
+    "id": 1390, 
+    "contents": [
+        {
+            "author": 1237, 
+            "title": "Midnight"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Little Night Flying"
+        }, 
+        {
+            "author": 744, 
+            "title": "Ars Gratia (If, July-August 1974)"
+        }, 
+        {
+            "author": 744, 
+            "title": "Half-Baked Publisher's Delight"
+        }, 
+        {
+            "author": 499, 
+            "title": "Plaything"
+        }, 
+        {
+            "author": 326, 
+            "title": "No Time Like the Past"
+        }, 
+        {
+            "author": 326, 
+            "title": "Berserker's Planet (Part 2 of 2)"
+        }, 
+        {
+            "author": 744, 
+            "title": "Angel Fix"
+        }, 
+        {
+            "author": 499, 
+            "title": "Tube"
+        }, 
+        {
+            "author": 764, 
+            "title": "On the Urbanization of the Solar System"
+        }, 
+        {
+            "author": 1238, 
+            "title": "Torchships Now! (If, July-August 1974)"
+        }, 
+        {
+            "author": 767, 
+            "title": "The Alien Viewpoint (If, July-August 1974)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, July-August 1974)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, July-August 1974)"
+        }, 
+        {
+            "author": 645, 
+            "title": "Angel Fix"
+        }, 
+        {
+            "author": 561, 
+            "title": "Berserker's Planet (Part 2 of 2)"
+        }, 
+        {
+            "author": 665, 
+            "title": "A Little Night Flying"
+        }, 
+        {
+            "author": 3, 
+            "title": "Half-Baked Publisher's Delight"
+        }, 
+        {
+            "author": 604, 
+            "title": "Plaything"
+        }, 
+        {
+            "author": 1239, 
+            "title": "No Time Like the Past"
+        }, 
+        {
+            "author": 242, 
+            "title": "Tube"
+        }
+    ]
+}

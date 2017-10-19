@@ -1,0 +1,155 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1972
+sS'title'
+p14
+VIF Magazine May 1972
+p15
+sS'cover'
+p16
+Vhttps://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/1972-06_IF/1972-06_IF_jp2.zip&file=1972-06_IF_jp2/1972-06_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/c/c6/WOFIFMAYJUN1972.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I499
+aI635
+aI326
+aI356
+aI667
+aI693
+aI603
+aI1219
+aI1220
+aI664
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1377
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I499
+sg14
+VIn the Ocean of Night
+p32
+sa(dp33
+g10
+I499
+sg14
+VThe Dwarfs of Zwergwelt
+p34
+sa(dp35
+g10
+I499
+sg14
+VThe War Machine
+p36
+sa(dp37
+g10
+I499
+sg14
+VCaravan
+p38
+sa(dp39
+g10
+I499
+sg14
+VSilver to Bronze - Over
+p40
+sa(dp41
+g10
+I635
+sg14
+VPatterns of Chaos (Part 3 of 3)
+p42
+sa(dp43
+g10
+I326
+sg14
+VSf Calendar (If, May-June 1972)
+p44
+sa(dp45
+g10
+I356
+sg14
+VReading Room (If, May-June 1972)
+p46
+sa(dp47
+g10
+I667
+sg14
+VHue and Cry (If, May-June 1972)
+p48
+sa(dp49
+g10
+I693
+sg14
+VIn the Ocean of Night
+p50
+sa(dp51
+g10
+I603
+sg14
+VThe Dwarfs of Zwergwelt
+p52
+sa(dp53
+g10
+I1219
+sg14
+VThe War Machine
+p54
+sa(dp55
+g10
+I1220
+sg14
+VCaravan
+p56
+sa(dp57
+g10
+I664
+sg14
+VSilver to Bronze - Over
+p58
+sasb.

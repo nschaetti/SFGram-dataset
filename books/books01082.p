@@ -79,177 +79,179 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I497
-sg14
-VThe Wrong World
+S'title'
 p32
-sa(dp33
-g10
-I497
-sg14
-VThe Wrong World [2]
-p34
-sa(dp35
-g10
-I497
-sg14
-VThe Wrong World [3]
-p36
-sa(dp37
-g10
-I552
-sg14
-VJamieson
-p38
-sa(dp39
-g10
-I326
-sg14
-VMetamorphosis
-p40
-sa(dp41
-g10
-I326
-sg14
-VMetamorphosis [2]
-p42
-sa(dp43
-g10
-I395
-sg14
-VSnuffles
-p44
-sa(dp45
-g10
-I395
-sg14
-VSnuffles [2]
-p46
-sa(dp47
-g10
-I559
-sg14
-VSubject to Change
-p48
-sa(dp49
-g10
-I559
-sg14
-VSubject to Change [2]
-p50
-sa(dp51
-g10
-I519
-sg14
-VRound-and-Round Trip
-p52
-sa(dp53
-g10
-I519
-sg14
-VBlueblood
-p54
-sa(dp55
-g10
-I519
-sg14
-VBlueblood [2]
-p56
-sa(dp57
-g10
-I504
-sg14
-VBad Memory
-p58
-sa(dp59
-g10
-I419
-sg14
-VFighting Spirit
-p60
-sa(dp61
-g10
-I419
-sg14
-VFighting Spirit [2]
-p62
-sa(dp63
-g10
-I305
-sg14
-VReactions
-p64
-sa(dp65
-g10
-I339
-sg14
-VFor Your Information: The Moon Worm
-p66
-sa(dp67
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, December 1960)
-p68
-sa(dp69
-g10
-I326
-sg14
-VForecast (Galaxy, December 1960)
-p70
-sa(dp71
-g10
-I384
-sg14
 VThe Wrong World
-p72
-sa(dp73
-g10
-I74
-sg14
-VSnuffles
-p74
-sa(dp75
-g10
-I94
-sg14
-VRound-and-Round Trip
-p76
-sa(dp77
-g10
-I220
-sg14
-VFighting Spirit
-p78
-sa(dp79
-g10
-I192
-sg14
+p33
+sS'author'
+p34
+I497
+sa(dp35
+g32
+VThe Wrong World [2]
+p36
+sg34
+I497
+sa(dp37
+g32
+VThe Wrong World [3]
+p38
+sg34
+I497
+sa(dp39
+g32
 VJamieson
-p80
-sa(dp81
-g10
-I121
-sg14
+p40
+sg34
+I552
+sa(dp41
+g32
 VMetamorphosis
-p82
-sa(dp83
-g10
-I225
-sg14
+p42
+sg34
+I326
+sa(dp43
+g32
+VMetamorphosis [2]
+p44
+sg34
+I326
+sa(dp45
+g32
+VSnuffles
+p46
+sg34
+I395
+sa(dp47
+g32
+VSnuffles [2]
+p48
+sg34
+I395
+sa(dp49
+g32
 VSubject to Change
-p84
-sa(dp85
-g10
-I142
-sg14
+p50
+sg34
+I559
+sa(dp51
+g32
+VSubject to Change [2]
+p52
+sg34
+I559
+sa(dp53
+g32
+VRound-and-Round Trip
+p54
+sg34
+I519
+sa(dp55
+g32
 VBlueblood
-p86
-sa(dp87
-g10
-I260
-sg14
+p56
+sg34
+I519
+sa(dp57
+g32
+VBlueblood [2]
+p58
+sg34
+I519
+sa(dp59
+g32
 VBad Memory
+p60
+sg34
+I504
+sa(dp61
+g32
+VFighting Spirit
+p62
+sg34
+I419
+sa(dp63
+g32
+VFighting Spirit [2]
+p64
+sg34
+I419
+sa(dp65
+g32
+VReactions
+p66
+sg34
+I305
+sa(dp67
+g32
+VFor Your Information: The Moon Worm
+p68
+sg34
+I339
+sa(dp69
+g32
+VGalaxy's 5 Star Shelf (Galaxy, December 1960)
+p70
+sg34
+I483
+sa(dp71
+g32
+VForecast (Galaxy, December 1960)
+p72
+sg34
+I326
+sa(dp73
+g32
+VThe Wrong World
+p74
+sg34
+I384
+sa(dp75
+g32
+VSnuffles
+p76
+sg34
+I74
+sa(dp77
+g32
+VRound-and-Round Trip
+p78
+sg34
+I94
+sa(dp79
+g32
+VFighting Spirit
+p80
+sg34
+I220
+sa(dp81
+g32
+VJamieson
+p82
+sg34
+I192
+sa(dp83
+g32
+VMetamorphosis
+p84
+sg34
+I121
+sa(dp85
+g32
+VSubject to Change
+p86
+sg34
+I225
+sa(dp87
+g32
+VBlueblood
 p88
+sg34
+I142
+sa(dp89
+g32
+VBad Memory
+p90
+sg34
+I260
 sasb.

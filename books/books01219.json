@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1952", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/1952-05_IF/1952-05_IF_jp2.zip&file=1952-05_IF_jp2/1952-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/33/WOFIFMAY1952.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        924, 
+        326, 
+        925, 
+        221, 
+        926, 
+        927, 
+        121, 
+        365, 
+        928, 
+        389, 
+        575, 
+        88, 
+        922, 
+        918
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 1219, 
+    "contents": [
+        {
+            "author": 924, 
+            "title": "Jungle in the Sky"
+        }, 
+        {
+            "author": 326, 
+            "title": "Jungle in the Sky"
+        }, 
+        {
+            "author": 326, 
+            "title": "It Takes a Thief"
+        }, 
+        {
+            "author": 925, 
+            "title": "The Beast"
+        }, 
+        {
+            "author": 326, 
+            "title": "Infinity's Child"
+        }, 
+        {
+            "author": 326, 
+            "title": "Resurrection Seven"
+        }, 
+        {
+            "author": 326, 
+            "title": "Dreamer's World"
+        }, 
+        {
+            "author": 221, 
+            "title": "A Chat with the Editor ... (If, May 1952)"
+        }, 
+        {
+            "author": 221, 
+            "title": "Personalities in Science Fiction: Raymond A. Palmer"
+        }, 
+        {
+            "author": 926, 
+            "title": "Guest Editorial"
+        }, 
+        {
+            "author": 927, 
+            "title": "Science Briefs (If, May 1952)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh ... (If, May 1952)"
+        }, 
+        {
+            "author": 121, 
+            "title": "Infinity's Child"
+        }, 
+        {
+            "author": 365, 
+            "title": "Jungle in the Sky"
+        }, 
+        {
+            "author": 928, 
+            "title": "Welcome, Martians!"
+        }, 
+        {
+            "author": 389, 
+            "title": "It Takes a Thief"
+        }, 
+        {
+            "author": 575, 
+            "title": "The Beast"
+        }, 
+        {
+            "author": 365, 
+            "title": "Resurrection Seven"
+        }, 
+        {
+            "author": 88, 
+            "title": "Dreamer's World"
+        }, 
+        {
+            "author": 922, 
+            "title": "The Revealing Pattern"
+        }
+    ]
+}

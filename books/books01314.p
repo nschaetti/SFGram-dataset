@@ -1,0 +1,150 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1965
+sS'title'
+p14
+VIF Magazine December 1965
+p15
+sS'cover'
+p16
+Vhttps://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/1965-12_IF/1965-12_IF_jp2.zip&file=1965-12_IF_jp2/1965-12_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/7/7b/WOFIFDEC1965.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I545
+aI499
+aI40
+aI45
+aI153
+aI371
+aI67
+aI473
+aI308
+aI643
+aI1117
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1314
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I545
+sg14
+VThe Moon Is a Harsh Mistress
+p32
+sa(dp33
+g10
+I545
+sg14
+VSt. George and the Dragonmotive
+p34
+sa(dp35
+g10
+I499
+sg14
+VRetief's War
+p36
+sa(dp37
+g10
+I40
+sg14
+VEdward E. Smith, Ph.D (Obituary)
+p38
+sa(dp39
+g10
+I45
+sg14
+VLoncon Ii or Through a Monocle? Darkly
+p40
+sa(dp41
+g10
+I40
+sg14
+VHue and Cry (If, December 1965)
+p42
+sa(dp43
+g10
+I153
+sg14
+VSt. George and the Dragonmotive
+p44
+sa(dp45
+g10
+I371
+sg14
+VThe Moon Is a Harsh Mistress (Part 1 of 5)
+p46
+sa(dp47
+g10
+I67
+sg14
+VRetief's War (Part 3 of 3)
+p48
+sa(dp49
+g10
+I473
+sg14
+VSecurity Syndrome
+p50
+sa(dp51
+g10
+I308
+sg14
+VToys for Debbie
+p52
+sa(dp53
+g10
+I643
+sg14
+VThe Girls On Ussf 193
+p54
+sa(dp55
+g10
+I1117
+sg14
+VMercury
+p56
+sasb.

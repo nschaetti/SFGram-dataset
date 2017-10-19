@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1955", 
+    "cover": "https://ia800207.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/1955-12_IF/1955-12_IF_jp2.zip&file=1955-12_IF_jp2/1955-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/11/WOFIFDEC1955.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        427, 
+        412, 
+        956, 
+        363, 
+        103, 
+        326, 
+        161, 
+        1013, 
+        616, 
+        414, 
+        39, 
+        153, 
+        1021, 
+        918
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1248, 
+    "contents": [
+        {
+            "author": 427, 
+            "title": "Hypothetical Planet"
+        }, 
+        {
+            "author": 412, 
+            "title": "Hoax"
+        }, 
+        {
+            "author": 956, 
+            "title": "N4 N5 N6"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Earthman"
+        }, 
+        {
+            "author": 363, 
+            "title": "Laboratory"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Barbarians"
+        }, 
+        {
+            "author": 427, 
+            "title": "Promised Planet"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Happy Clown"
+        }, 
+        {
+            "author": 427, 
+            "title": "Scene On Europa"
+        }, 
+        {
+            "author": 103, 
+            "title": "The Odd Genre (If, December 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, December 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, December 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, December 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, December 1955)"
+        }, 
+        {
+            "author": 161, 
+            "title": "Hoax"
+        }, 
+        {
+            "author": 1013, 
+            "title": "The Earthman"
+        }, 
+        {
+            "author": 616, 
+            "title": "N4 N5 N6"
+        }, 
+        {
+            "author": 414, 
+            "title": "Laboratory"
+        }, 
+        {
+            "author": 39, 
+            "title": "The Barbarians"
+        }, 
+        {
+            "author": 153, 
+            "title": "Promised Planet"
+        }, 
+        {
+            "author": 1021, 
+            "title": "The Happy Clown"
+        }
+    ]
+}

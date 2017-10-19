@@ -1,0 +1,93 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1969", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/1969-05_IF/1969-05_IF_jp2.zip&file=1969-05_IF_jp2/1969-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c8/WOFIFMAY1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        1186, 
+        640, 
+        611, 
+        40, 
+        356, 
+        326, 
+        45, 
+        111, 
+        1154, 
+        28, 
+        1187, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1355, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Groovyland"
+        }, 
+        {
+            "author": 1186, 
+            "title": "Mad Ship"
+        }, 
+        {
+            "author": 640, 
+            "title": "Spork and the Beast"
+        }, 
+        {
+            "author": 611, 
+            "title": "Toys of Tamisan (Part 2 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Authorgraphs: An Interview with Lester Del Rey"
+        }, 
+        {
+            "author": 40, 
+            "title": "Sufficient Unto the Day"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, May 1969)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, May 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, May 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Authorgraphs: An Interview with Lester Del Rey"
+        }, 
+        {
+            "author": 45, 
+            "title": "Groovyland"
+        }, 
+        {
+            "author": 111, 
+            "title": "Mad Ship"
+        }, 
+        {
+            "author": 1154, 
+            "title": "Spork and the Beast"
+        }, 
+        {
+            "author": 28, 
+            "title": "Toys of Tamisan (Part 2 of 2)"
+        }, 
+        {
+            "author": 1187, 
+            "title": "Destroyer"
+        }
+    ]
+}

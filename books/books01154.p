@@ -70,111 +70,113 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VBirds Fly South in Winter
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VAutumntime
-p34
-sa(dp35
-g10
-I326
-sg14
-VRammer
-p36
-sa(dp37
-g10
-I326
-sg14
-VI'll Be Judge, I'll Be Jury
-p38
-sa(dp39
-g10
-I699
-sg14
-VStarcult
-p40
-sa(dp41
-g10
-I699
-sg14
-VStarcult [2]
-p42
-sa(dp43
-g10
-I499
-sg14
-VBubbles When They Burst
-p44
-sa(dp45
-g10
-I499
-sg14
-VThe Moon Children (Part 3 of 3)
-p46
-sa(dp47
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, November-December 1971)
-p48
-sa(dp49
-g10
-I91
-sg14
-VGalaxy Book Shelf (Galaxy, November-December 1971)
-p50
-sa(dp51
-g10
-I326
-sg14
-VJohn W. Campbell: June 8, 1910-July11, 1971 (Obituary)
-p52
-sa(dp53
-g10
-I478
-sg14
 VBirds Fly South in Winter
-p54
-sa(dp55
-g10
-I604
-sg14
-VRammer
-p56
-sa(dp57
-g10
-I700
-sg14
-VStarcult
-p58
-sa(dp59
-g10
-I86
-sg14
-VThe Moon Children (Part 3 of 3)
-p60
-sa(dp61
-g10
-I701
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VAutumntime
-p62
-sa(dp63
-g10
-I702
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
+VRammer
+p38
+sg34
+I326
+sa(dp39
+g32
 VI'll Be Judge, I'll Be Jury
-p64
-sa(dp65
-g10
-I74
-sg14
+p40
+sg34
+I326
+sa(dp41
+g32
+VStarcult
+p42
+sg34
+I699
+sa(dp43
+g32
+VStarcult [2]
+p44
+sg34
+I699
+sa(dp45
+g32
 VBubbles When They Burst
+p46
+sg34
+I499
+sa(dp47
+g32
+VThe Moon Children (Part 3 of 3)
+p48
+sg34
+I499
+sa(dp49
+g32
+VGalaxy Stars (Galaxy, November-December 1971)
+p50
+sg34
+I326
+sa(dp51
+g32
+VGalaxy Book Shelf (Galaxy, November-December 1971)
+p52
+sg34
+I91
+sa(dp53
+g32
+VJohn W. Campbell: June 8, 1910-July11, 1971 (Obituary)
+p54
+sg34
+I326
+sa(dp55
+g32
+VBirds Fly South in Winter
+p56
+sg34
+I478
+sa(dp57
+g32
+VRammer
+p58
+sg34
+I604
+sa(dp59
+g32
+VStarcult
+p60
+sg34
+I700
+sa(dp61
+g32
+VThe Moon Children (Part 3 of 3)
+p62
+sg34
+I86
+sa(dp63
+g32
+VAutumntime
+p64
+sg34
+I701
+sa(dp65
+g32
+VI'll Be Judge, I'll Be Jury
 p66
+sg34
+I702
+sa(dp67
+g32
+VBubbles When They Burst
+p68
+sg34
+I74
 sasb.

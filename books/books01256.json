@@ -1,0 +1,105 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1957", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/1957-04_IF/1957-04_IF_jp2.zip&file=1957-04_IF_jp2/1957-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/bd/WOFIFAPR1957.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        956, 
+        363, 
+        948, 
+        326, 
+        50, 
+        59, 
+        161, 
+        144, 
+        1032, 
+        630, 
+        1033, 
+        918
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1256, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "Green Thumb"
+        }, 
+        {
+            "author": 497, 
+            "title": "Hidden Talent"
+        }, 
+        {
+            "author": 956, 
+            "title": "Brainchild"
+        }, 
+        {
+            "author": 363, 
+            "title": "A Case of Sunburn"
+        }, 
+        {
+            "author": 956, 
+            "title": "Filthy Rich"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Maze"
+        }, 
+        {
+            "author": 363, 
+            "title": "Operation Boomerang"
+        }, 
+        {
+            "author": 948, 
+            "title": "Editor's Report (If, April 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, April 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, April 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, April 1957)"
+        }, 
+        {
+            "author": 50, 
+            "title": "Hidden Talent"
+        }, 
+        {
+            "author": 59, 
+            "title": "Brainchild"
+        }, 
+        {
+            "author": 161, 
+            "title": "Green Thumb"
+        }, 
+        {
+            "author": 144, 
+            "title": "A Case of Sunburn"
+        }, 
+        {
+            "author": 1032, 
+            "title": "Filthy Rich"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Maze"
+        }, 
+        {
+            "author": 1033, 
+            "title": "Operation Boomerang"
+        }
+    ]
+}

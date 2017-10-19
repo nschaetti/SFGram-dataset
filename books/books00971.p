@@ -73,87 +73,89 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I303
-sg14
-VEditorial: Durston's Last Ride (Galaxy, #1)
+S'title'
 p32
-sa(dp33
-g10
-I103
-sg14
-VThe Man with Nine Lives: Vincent Price 1911 - 1993
+VEditorial: Durston's Last Ride (Galaxy, #1)
+p33
+sS'author'
 p34
+I303
 sa(dp35
-g10
-I23
-sg14
-VThe City of the Dead (Part 1 of 3)
+g32
+VThe Man with Nine Lives: Vincent Price 1911 - 1993
 p36
+sg34
+I103
 sa(dp37
-g10
-I304
-sg14
-VVampire's Fast (Part 1 of 2)
+g32
+VThe City of the Dead (Part 1 of 3)
 p38
+sg34
+I23
 sa(dp39
-g10
-I305
-sg14
-VThat's the Spirit
+g32
+VVampire's Fast (Part 1 of 2)
 p40
+sg34
+I304
 sa(dp41
-g10
-I50
-sg14
-VThe Nature of the Place
+g32
+VThat's the Spirit
 p42
+sg34
+I305
 sa(dp43
-g10
-I40
-sg14
-VPythias
+g32
+VThe Nature of the Place
 p44
+sg34
+I50
 sa(dp45
-g10
-I306
-sg14
-VPerfectly Preserved
+g32
+VPythias
 p46
+sg34
+I40
 sa(dp47
-g10
-I307
-sg14
-VWhat Comes Naturally
+g32
+VPerfectly Preserved
 p48
+sg34
+I306
 sa(dp49
-g10
-I308
-sg14
-VCigarbox
+g32
+VWhat Comes Naturally
 p50
+sg34
+I307
 sa(dp51
-g10
-I309
-sg14
-VLet Sleeping Sigils Lie
+g32
+VCigarbox
 p52
+sg34
+I308
 sa(dp53
-g10
-I310
-sg14
-VLast Appointment
+g32
+VLet Sleeping Sigils Lie
 p54
+sg34
+I309
 sa(dp55
-g10
-I311
-sg14
-VCyberactions
+g32
+VLast Appointment
 p56
+sg34
+I310
 sa(dp57
-g10
-I312
-sg14
-VIn the Canal Zone
+g32
+VCyberactions
 p58
+sg34
+I311
+sa(dp59
+g32
+VIn the Canal Zone
+p60
+sg34
+I312
 sasb.

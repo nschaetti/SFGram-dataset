@@ -1,0 +1,92 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1959", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1959-07_IF/1959-07_IF_jp2.zip&file=1959-07_IF_jp2/1959-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/7a/WOFIFJUL1959.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        363, 
+        40, 
+        393, 
+        182, 
+        514, 
+        1049, 
+        220, 
+        154, 
+        142, 
+        8, 
+        918
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 1268, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Growing Season"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sitting Duck"
+        }, 
+        {
+            "author": 326, 
+            "title": "Mutineer"
+        }, 
+        {
+            "author": 363, 
+            "title": "Car Pool"
+        }, 
+        {
+            "author": 326, 
+            "title": "Recall Mechanism"
+        }, 
+        {
+            "author": 40, 
+            "title": "In the Balance (If, July 1959)"
+        }, 
+        {
+            "author": 393, 
+            "title": "Growing Season"
+        }, 
+        {
+            "author": 182, 
+            "title": "Car Pool"
+        }, 
+        {
+            "author": 514, 
+            "title": "The Ogre"
+        }, 
+        {
+            "author": 1049, 
+            "title": "Never in a Thousand Years"
+        }, 
+        {
+            "author": 220, 
+            "title": "Sitting Duck"
+        }, 
+        {
+            "author": 154, 
+            "title": "Mutineer"
+        }, 
+        {
+            "author": 40, 
+            "title": "A Life and a Half"
+        }, 
+        {
+            "author": 142, 
+            "title": "Baker's Dozens"
+        }, 
+        {
+            "author": 8, 
+            "title": "Recall Mechanism"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1967", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/1967-04_IF/1967-04_IF_jp2.zip&file=1967-04_IF_jp2/1967-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d2/WOFIFAPR1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        593, 
+        40, 
+        1125, 
+        67, 
+        604, 
+        630, 
+        91, 
+        616, 
+        1144, 
+        1145, 
+        1146, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1330, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Road to the Rim (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Retief, War Criminal"
+        }, 
+        {
+            "author": 593, 
+            "title": "The Ethics of Madness"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Iron Thorn (Part 4 of 4)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Three Brave Men"
+        }, 
+        {
+            "author": 1125, 
+            "title": "It's New York in '67!"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, April 1967)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Retief, War Criminal"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Ethics of Madness"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Road to the Rim (Part 1 of 2)"
+        }, 
+        {
+            "author": 91, 
+            "title": "The Iron Thorn (Part 4 of 4)"
+        }, 
+        {
+            "author": 616, 
+            "title": "The Fantasque"
+        }, 
+        {
+            "author": 1144, 
+            "title": "It Takes All Kinds"
+        }, 
+        {
+            "author": 1145, 
+            "title": "The Accomplice"
+        }, 
+        {
+            "author": 1146, 
+            "title": "The Purpose of It All"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1967", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1967-10_IF/1967-10_IF_jp2.zip&file=1967-10_IF_jp2/1967-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/3e/WOFIFOCT1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        593, 
+        499, 
+        497, 
+        545, 
+        40, 
+        1125, 
+        1155, 
+        111, 
+        658, 
+        70, 
+        55, 
+        651, 
+        1156, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1336, 
+    "contents": [
+        {
+            "author": 593, 
+            "title": "Ocean On Top (Part 1 of 3)"
+        }, 
+        {
+            "author": 593, 
+            "title": "Ocean On Top (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 593, 
+            "title": "Ocean On Top (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Enemy of the Silkies"
+        }, 
+        {
+            "author": 499, 
+            "title": "Enemy of the Silkies [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Enemy of the Silkies [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Winter of the Llangs"
+        }, 
+        {
+            "author": 497, 
+            "title": "Winter of the Llangs [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Winter of the Llangs [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Faust Aleph-Null (Part 3 of 3)"
+        }, 
+        {
+            "author": 545, 
+            "title": "Faust Aleph-Null (Part 3 of 3) [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "Faust Aleph-Null (Part 3 of 3) [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "What Space Is For"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Fans Down Under"
+        }, 
+        {
+            "author": 1155, 
+            "title": "The Food of Mars"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, October 1967)"
+        }, 
+        {
+            "author": 111, 
+            "title": "Winter of the Llangs"
+        }, 
+        {
+            "author": 658, 
+            "title": "Enemy of the Silkies"
+        }, 
+        {
+            "author": 70, 
+            "title": "Ocean On Top (Part 1 of 3)"
+        }, 
+        {
+            "author": 55, 
+            "title": "Faust Aleph-Null (Part 3 of 3)"
+        }, 
+        {
+            "author": 651, 
+            "title": "Conqueror"
+        }, 
+        {
+            "author": 1156, 
+            "title": "Mu Panther"
+        }
+    ]
+}

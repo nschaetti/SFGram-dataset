@@ -1,0 +1,65 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1964", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/1964-05_IF/1964-05_IF_jp2.zip&file=1964-05_IF_jp2/1964-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/71/WOFIFMAY1964.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        581, 
+        578, 
+        40, 
+        95, 
+        1074, 
+        479, 
+        1101, 
+        918
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1297, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Imperial Stars"
+        }, 
+        {
+            "author": 581, 
+            "title": "Fire, 2016!"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Store of Heart's Desire"
+        }, 
+        {
+            "author": 40, 
+            "title": "Ode to a Skylark"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, May 1964)"
+        }, 
+        {
+            "author": 95, 
+            "title": "Fire, 2016!"
+        }, 
+        {
+            "author": 1074, 
+            "title": "The Imperial Stars"
+        }, 
+        {
+            "author": 479, 
+            "title": "The Store of Heart's Desire"
+        }, 
+        {
+            "author": 1101, 
+            "title": "The Final Equation"
+        }
+    ]
+}

@@ -75,129 +75,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I881
-sg14
-VParasite
+S'title'
 p32
-sa(dp33
-g10
-I881
-sg14
-VParasite [2]
-p34
-sa(dp35
-g10
-I881
-sg14
-VParasite [3]
-p36
-sa(dp37
-g10
-I744
-sg14
-VDuet
-p38
-sa(dp39
-g10
-I881
-sg14
-VDuet [2]
-p40
-sa(dp41
-g10
-I882
-sg14
-VJem (Part 2 of 5)
-p42
-sa(dp43
-g10
-I883
-sg14
-VThe World of God
-p44
-sa(dp45
-g10
-I883
-sg14
-VThe World of God [2]
-p46
-sa(dp47
-g10
-I884
-sg14
-VA Scientific Fact
-p48
-sa(dp49
-g10
-I885
-sg14
-VSomeone to Talk To
-p50
-sa(dp51
-g10
-I885
-sg14
-VSomeone to Talk to [2]
-p52
-sa(dp53
-g10
-I843
-sg14
-VGalaxy Bookshelf (Galaxy, March-April 1979)
-p54
-sa(dp55
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, March-April 1979)
-p56
-sa(dp57
-g10
-I844
-sg14
-VDirections (Galaxy, March-April 1979)
-p58
-sa(dp59
-g10
-I326
-sg14
-VThings to Come (Galaxy, March-April 1979)
-p60
-sa(dp61
-g10
-I886
-sg14
 VParasite
-p62
-sa(dp63
-g10
-I384
-sg14
-VThe World of God
-p64
-sa(dp65
-g10
-I40
-sg14
-VJem (Part 2 of 5)
-p66
-sa(dp67
-g10
-I887
-sg14
+p33
+sS'author'
+p34
+I881
+sa(dp35
+g32
+VParasite [2]
+p36
+sg34
+I881
+sa(dp37
+g32
+VParasite [3]
+p38
+sg34
+I881
+sa(dp39
+g32
 VDuet
-p68
-sa(dp69
-g10
-I888
-sg14
+p40
+sg34
+I744
+sa(dp41
+g32
+VDuet [2]
+p42
+sg34
+I881
+sa(dp43
+g32
+VJem (Part 2 of 5)
+p44
+sg34
+I882
+sa(dp45
+g32
+VThe World of God
+p46
+sg34
+I883
+sa(dp47
+g32
+VThe World of God [2]
+p48
+sg34
+I883
+sa(dp49
+g32
 VA Scientific Fact
-p70
-sa(dp71
-g10
-I889
-sg14
+p50
+sg34
+I884
+sa(dp51
+g32
 VSomeone to Talk To
+p52
+sg34
+I885
+sa(dp53
+g32
+VSomeone to Talk to [2]
+p54
+sg34
+I885
+sa(dp55
+g32
+VGalaxy Bookshelf (Galaxy, March-April 1979)
+p56
+sg34
+I843
+sa(dp57
+g32
+VThe Alien Viewpoint (Galaxy, March-April 1979)
+p58
+sg34
+I767
+sa(dp59
+g32
+VDirections (Galaxy, March-April 1979)
+p60
+sg34
+I844
+sa(dp61
+g32
+VThings to Come (Galaxy, March-April 1979)
+p62
+sg34
+I326
+sa(dp63
+g32
+VParasite
+p64
+sg34
+I886
+sa(dp65
+g32
+VThe World of God
+p66
+sg34
+I384
+sa(dp67
+g32
+VJem (Part 2 of 5)
+p68
+sg34
+I40
+sa(dp69
+g32
+VDuet
+p70
+sg34
+I887
+sa(dp71
+g32
+VA Scientific Fact
 p72
+sg34
+I888
+sa(dp73
+g32
+VSomeone to Talk To
+p74
+sg34
+I889
 sasb.

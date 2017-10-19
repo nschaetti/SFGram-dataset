@@ -72,171 +72,173 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I744
-sg14
-VShowcase (Galaxy, May 1977)
+S'title'
 p32
-sa(dp33
-g10
-I784
-sg14
-VThe Consentiency - and How It Got That Way
+VShowcase (Galaxy, May 1977)
+p33
+sS'author'
 p34
+I744
 sa(dp35
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 1 of 4)
-p36
-sa(dp37
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 1 of 4) [2]
-p38
-sa(dp39
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 1 of 4) [3]
-p40
-sa(dp41
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 1 of 4) [4]
-p42
-sa(dp43
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 1 of 4) [5]
-p44
-sa(dp45
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 1 of 4) [6]
-p46
-sa(dp47
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 1 of 4) [7]
-p48
-sa(dp49
-g10
-I326
-sg14
-VThe Way of the Sword
-p50
-sa(dp51
-g10
-I326
-sg14
-VThe Way of the Sword [2]
-p52
-sa(dp53
-g10
-I326
-sg14
-VThe Way of the Sword [3]
-p54
-sa(dp55
-g10
-I742
-sg14
-VCrash Site
-p56
-sa(dp57
-g10
-I742
-sg14
-VMarconi, Mattin, Maxwell
-p58
-sa(dp59
-g10
-I742
-sg14
-VMarconi, Mattin, Maxwell [2]
-p60
-sa(dp61
-g10
-I742
-sg14
-VThe Chains of Freedom
-p62
-sa(dp63
-g10
-I326
-sg14
-VS. F. Calendar (Galaxy, May 1977)
-p64
-sa(dp65
-g10
-I63
-sg14
+g32
 VThe Consentiency - and How It Got That Way
-p66
-sa(dp67
-g10
-I818
-sg14
-VForum: Ray Gun Evaporates Mainstream
-p68
-sa(dp69
-g10
-I734
-sg14
-VWhat It's Like Out There
-p70
-sa(dp71
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, May 1977)
-p72
-sa(dp73
-g10
-I770
-sg14
-VGalaxy Bookshelf (Galaxy, May 1977)
-p74
-sa(dp75
-g10
-I326
-sg14
-VDirections (Galaxy, May 1977)
-p76
-sa(dp77
-g10
-I809
-sg14
-VThe Way of the Sword
-p78
-sa(dp79
-g10
-I63
-sg14
+p36
+sg34
+I784
+sa(dp37
+g32
 VThe Dosadi Experiment (Part 1 of 4)
-p80
-sa(dp81
-g10
-I760
-sg14
+p38
+sg34
+I784
+sa(dp39
+g32
+VThe Dosadi Experiment (Part 1 of 4) [2]
+p40
+sg34
+I784
+sa(dp41
+g32
+VThe Dosadi Experiment (Part 1 of 4) [3]
+p42
+sg34
+I784
+sa(dp43
+g32
+VThe Dosadi Experiment (Part 1 of 4) [4]
+p44
+sg34
+I784
+sa(dp45
+g32
+VThe Dosadi Experiment (Part 1 of 4) [5]
+p46
+sg34
+I784
+sa(dp47
+g32
+VThe Dosadi Experiment (Part 1 of 4) [6]
+p48
+sg34
+I784
+sa(dp49
+g32
+VThe Dosadi Experiment (Part 1 of 4) [7]
+p50
+sg34
+I784
+sa(dp51
+g32
+VThe Way of the Sword
+p52
+sg34
+I326
+sa(dp53
+g32
+VThe Way of the Sword [2]
+p54
+sg34
+I326
+sa(dp55
+g32
+VThe Way of the Sword [3]
+p56
+sg34
+I326
+sa(dp57
+g32
 VCrash Site
-p82
-sa(dp83
-g10
-I817
-sg14
+p58
+sg34
+I742
+sa(dp59
+g32
 VMarconi, Mattin, Maxwell
-p84
-sa(dp85
-g10
-I248
-sg14
+p60
+sg34
+I742
+sa(dp61
+g32
+VMarconi, Mattin, Maxwell [2]
+p62
+sg34
+I742
+sa(dp63
+g32
 VThe Chains of Freedom
+p64
+sg34
+I742
+sa(dp65
+g32
+VS. F. Calendar (Galaxy, May 1977)
+p66
+sg34
+I326
+sa(dp67
+g32
+VThe Consentiency - and How It Got That Way
+p68
+sg34
+I63
+sa(dp69
+g32
+VForum: Ray Gun Evaporates Mainstream
+p70
+sg34
+I818
+sa(dp71
+g32
+VWhat It's Like Out There
+p72
+sg34
+I734
+sa(dp73
+g32
+VThe Alien Viewpoint (Galaxy, May 1977)
+p74
+sg34
+I767
+sa(dp75
+g32
+VGalaxy Bookshelf (Galaxy, May 1977)
+p76
+sg34
+I770
+sa(dp77
+g32
+VDirections (Galaxy, May 1977)
+p78
+sg34
+I326
+sa(dp79
+g32
+VThe Way of the Sword
+p80
+sg34
+I809
+sa(dp81
+g32
+VThe Dosadi Experiment (Part 1 of 4)
+p82
+sg34
+I63
+sa(dp83
+g32
+VCrash Site
+p84
+sg34
+I760
+sa(dp85
+g32
+VMarconi, Mattin, Maxwell
 p86
+sg34
+I817
+sa(dp87
+g32
+VThe Chains of Freedom
+p88
+sg34
+I248
 sasb.

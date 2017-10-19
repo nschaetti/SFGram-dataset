@@ -1,0 +1,125 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine June 1954", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/1954-06_IF/1954-06_IF_jp2.zip&file=1954-06_IF_jp2/1954-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/visco/Magazines/WIF123/WIF1_0011.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        956, 
+        412, 
+        363, 
+        969, 
+        948, 
+        326, 
+        32, 
+        952, 
+        129, 
+        935, 
+        356, 
+        467, 
+        609, 
+        441, 
+        376, 
+        918
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1233, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "Supply Train On the Moon"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Colonists"
+        }, 
+        {
+            "author": 412, 
+            "title": "No Strings Attached"
+        }, 
+        {
+            "author": 363, 
+            "title": "The First Day of Spring"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Valley"
+        }, 
+        {
+            "author": 969, 
+            "title": "The Ordeal of Colonel Johns"
+        }, 
+        {
+            "author": 969, 
+            "title": "The Link"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Holes and John Smith"
+        }, 
+        {
+            "author": 951, 
+            "title": "Solar Power Plants"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, June 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, June 1954)"
+        }, 
+        {
+            "author": 32, 
+            "title": "Snaring the Human Mind"
+        }, 
+        {
+            "author": 952, 
+            "title": "Personalities in Science: Newton"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, June 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, June 1954)"
+        }, 
+        {
+            "author": 129, 
+            "title": "The Colonists"
+        }, 
+        {
+            "author": 935, 
+            "title": "The First Day of Spring"
+        }, 
+        {
+            "author": 356, 
+            "title": "No Strings Attached"
+        }, 
+        {
+            "author": 467, 
+            "title": "The Valley"
+        }, 
+        {
+            "author": 609, 
+            "title": "The Ordeal of Colonel Johns"
+        }, 
+        {
+            "author": 441, 
+            "title": "The Link"
+        }, 
+        {
+            "author": 376, 
+            "title": "The Holes and John Smith"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1967", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/1967-12_IF/1967-12_IF_jp2.zip&file=1967-12_IF_jp2/1967-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a6/WOFIFDEC1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        628, 
+        593, 
+        542, 
+        1125, 
+        40, 
+        111, 
+        1105, 
+        704, 
+        70, 
+        837, 
+        32, 
+        621, 
+        1153, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1338, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "All Judgment Fled (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "On Conquered Earth"
+        }, 
+        {
+            "author": 499, 
+            "title": "Answering Service"
+        }, 
+        {
+            "author": 628, 
+            "title": "When Sea Is Born Again"
+        }, 
+        {
+            "author": 499, 
+            "title": "City of Yesterday"
+        }, 
+        {
+            "author": 499, 
+            "title": "Swordsmen of the Stars"
+        }, 
+        {
+            "author": 593, 
+            "title": "Ocean On Top (Part 3 of 3)"
+        }, 
+        {
+            "author": 542, 
+            "title": "Herbert George Morley Roberts Wells, Esq."
+        }, 
+        {
+            "author": 1125, 
+            "title": "Fandom in Europe Today"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, December 1967)"
+        }, 
+        {
+            "author": 111, 
+            "title": "When Sea Is Born Again"
+        }, 
+        {
+            "author": 1105, 
+            "title": "Swordsmen of the Stars"
+        }, 
+        {
+            "author": 704, 
+            "title": "All Judgment Fled (Part 1 of 3)"
+        }, 
+        {
+            "author": 70, 
+            "title": "Ocean On Top (Part 3 of 3)"
+        }, 
+        {
+            "author": 837, 
+            "title": "On Conquered Earth"
+        }, 
+        {
+            "author": 32, 
+            "title": "Answering Service"
+        }, 
+        {
+            "author": 621, 
+            "title": "City of Yesterday"
+        }, 
+        {
+            "author": 1153, 
+            "title": "The Time Trollers"
+        }
+    ]
+}

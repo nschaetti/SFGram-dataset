@@ -1,0 +1,74 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1965", 
+    "cover": "https://ia800203.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/1965-03_IF/1965-03_IF_jp2.zip&file=1965-03_IF_jp2/1965-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/1b/WOFIFMAR1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        545, 
+        40, 
+        561, 
+        1111, 
+        86, 
+        413, 
+        88, 
+        1112, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1305, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Stone Place"
+        }, 
+        {
+            "author": 545, 
+            "title": "Of One Mind"
+        }, 
+        {
+            "author": 545, 
+            "title": "Starchild (Part 3 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "What Fans Do"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, March 1965)"
+        }, 
+        {
+            "author": 561, 
+            "title": "Stone Place"
+        }, 
+        {
+            "author": 1111, 
+            "title": "Of One Mind"
+        }, 
+        {
+            "author": 86, 
+            "title": "Starchild (Part 3 of 3)"
+        }, 
+        {
+            "author": 413, 
+            "title": "Meeting On Kangshan"
+        }, 
+        {
+            "author": 88, 
+            "title": "All We Unemployed"
+        }, 
+        {
+            "author": 1112, 
+            "title": "Million-Mile Hunt"
+        }
+    ]
+}

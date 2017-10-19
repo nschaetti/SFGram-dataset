@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1962", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/1962-11_IF_modified/1962-11_IF_modified_jp2.zip&file=1962-11_IF_modified_jp2/1962-11_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9e/WOFIFNOV1962.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        499, 
+        578, 
+        341, 
+        40, 
+        30, 
+        371, 
+        267, 
+        596, 
+        67, 
+        1083, 
+        194, 
+        229, 
+        918
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1288, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "Podkayne of Mars (Part 1 of 3)"
+        }, 
+        {
+            "author": 497, 
+            "title": "Podkayne of Mars (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Desert and the Stars"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Critique of Impure Reason"
+        }, 
+        {
+            "author": 341, 
+            "title": "Most Personal"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Popoff"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, November 1962)"
+        }, 
+        {
+            "author": 30, 
+            "title": "The Critique of Impure Reason"
+        }, 
+        {
+            "author": 371, 
+            "title": "Podkayne of Mars (Part 1 of 3)"
+        }, 
+        {
+            "author": 267, 
+            "title": "The Real Thing"
+        }, 
+        {
+            "author": 596, 
+            "title": "The Reluctant Immortals"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Desert and the Stars"
+        }, 
+        {
+            "author": 1083, 
+            "title": "The Man Who Flew"
+        }, 
+        {
+            "author": 194, 
+            "title": "Too Many Eggs"
+        }, 
+        {
+            "author": 229, 
+            "title": "The Dragon-Slayers"
+        }
+    ]
+}

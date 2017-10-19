@@ -2,7 +2,9 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1123
+        1123, 
+        1343, 
+        1344
     ], 
     "id": 625, 
     "name": "Jeff Jones"

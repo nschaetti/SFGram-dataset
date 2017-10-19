@@ -2,7 +2,9 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1079
+        1079, 
+        1270, 
+        1280
     ], 
     "id": 555, 
     "name": "John T. Phillifent"

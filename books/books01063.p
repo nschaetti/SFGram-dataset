@@ -73,129 +73,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I506
-sg14
-VNever Come Midnight
+S'title'
 p32
-sa(dp33
-g10
-I506
-sg14
-VNever Come Midnight [2]
-p34
-sa(dp35
-g10
-I506
-sg14
-VNever Come Midnight [3]
-p36
-sa(dp37
-g10
-I533
-sg14
-VOr All the Seas with Oysters
-p38
-sa(dp39
-g10
-I419
-sg14
-VPick a Crime
-p40
-sa(dp41
-g10
-I506
-sg14
-VBridle Shower
-p42
-sa(dp43
-g10
-I506
-sg14
-VBridle Shower [2]
-p44
-sa(dp45
-g10
-I506
-sg14
-VBridle Shower [3]
-p46
-sa(dp47
-g10
-I525
-sg14
-VThe Voice of the Diaphragm
-p48
-sa(dp49
-g10
-I519
-sg14
-VThe Iron Chancellor
-p50
-sa(dp51
-g10
-I519
-sg14
-VThe Iron Chancellor [2]
-p52
-sa(dp53
-g10
-I305
-sg14
-VFun 4 1 &Amp; All
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: Remnants of the Sarmatian Sea
-p56
-sa(dp57
-g10
-I326
-sg14
-VForecast (Galaxy, May 1958)
-p58
-sa(dp59
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, May 1958)
-p60
-sa(dp61
-g10
-I498
-sg14
-VBridle Shower
-p62
-sa(dp63
-g10
-I50
-sg14
-VThe Iron Chancellor
-p64
-sa(dp65
-g10
-I305
-sg14
 VNever Come Midnight
-p66
-sa(dp67
-g10
-I514
-sg14
+p33
+sS'author'
+p34
+I506
+sa(dp35
+g32
+VNever Come Midnight [2]
+p36
+sg34
+I506
+sa(dp37
+g32
+VNever Come Midnight [3]
+p38
+sg34
+I506
+sa(dp39
+g32
 VOr All the Seas with Oysters
-p68
-sa(dp69
-g10
-I487
-sg14
+p40
+sg34
+I533
+sa(dp41
+g32
 VPick a Crime
-p70
-sa(dp71
-g10
-I217
-sg14
+p42
+sg34
+I419
+sa(dp43
+g32
+VBridle Shower
+p44
+sg34
+I506
+sa(dp45
+g32
+VBridle Shower [2]
+p46
+sg34
+I506
+sa(dp47
+g32
+VBridle Shower [3]
+p48
+sg34
+I506
+sa(dp49
+g32
 VThe Voice of the Diaphragm
+p50
+sg34
+I525
+sa(dp51
+g32
+VThe Iron Chancellor
+p52
+sg34
+I519
+sa(dp53
+g32
+VThe Iron Chancellor [2]
+p54
+sg34
+I519
+sa(dp55
+g32
+VFun 4 1 &Amp; All
+p56
+sg34
+I305
+sa(dp57
+g32
+VFor Your Information: Remnants of the Sarmatian Sea
+p58
+sg34
+I339
+sa(dp59
+g32
+VForecast (Galaxy, May 1958)
+p60
+sg34
+I326
+sa(dp61
+g32
+VGalaxy's 5 Star Shelf (Galaxy, May 1958)
+p62
+sg34
+I483
+sa(dp63
+g32
+VBridle Shower
+p64
+sg34
+I498
+sa(dp65
+g32
+VThe Iron Chancellor
+p66
+sg34
+I50
+sa(dp67
+g32
+VNever Come Midnight
+p68
+sg34
+I305
+sa(dp69
+g32
+VOr All the Seas with Oysters
+p70
+sg34
+I514
+sa(dp71
+g32
+VPick a Crime
 p72
+sg34
+I487
+sa(dp73
+g32
+VThe Voice of the Diaphragm
+p74
+sg34
+I217
 sasb.

@@ -1,0 +1,89 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1964", 
+    "cover": "https://ia800207.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/1964-01_IF_modified/1964-01_IF_modified_jp2.zip&file=1964-01_IF_modified_jp2/1964-01_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/ee/WOFIFJAN1964.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        1096, 
+        545, 
+        581, 
+        497, 
+        341, 
+        205, 
+        40, 
+        610, 
+        8, 
+        30, 
+        1097, 
+        229, 
+        918
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1295, 
+    "contents": [
+        {
+            "author": 1096, 
+            "title": "Three Worlds to Conquer (Part 1 of 2)"
+        }, 
+        {
+            "author": 545, 
+            "title": "Mack"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Competitors"
+        }, 
+        {
+            "author": 497, 
+            "title": "Waterspider"
+        }, 
+        {
+            "author": 497, 
+            "title": "Waterspider [2]"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Day They Threw God at Me"
+        }, 
+        {
+            "author": 341, 
+            "title": "Personal Monuments"
+        }, 
+        {
+            "author": 205, 
+            "title": "Science-Fantasy Crossword Puzzle"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, January 1964)"
+        }, 
+        {
+            "author": 610, 
+            "title": "The Competitors"
+        }, 
+        {
+            "author": 8, 
+            "title": "Waterspider"
+        }, 
+        {
+            "author": 30, 
+            "title": "Three Worlds to Conquer (Part 1 of 2)"
+        }, 
+        {
+            "author": 1097, 
+            "title": "Mack"
+        }, 
+        {
+            "author": 229, 
+            "title": "The Car Pool"
+        }
+    ]
+}

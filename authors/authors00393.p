@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I393
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I991
 aI996
 aI1002
@@ -31,7 +28,11 @@ aI1022
 aI1032
 aI1033
 aI1040
-asS'name'
+aI1268
+asS'id'
+p10
+I393
+sS'name'
 p11
 VF. L. Wallace
 p12

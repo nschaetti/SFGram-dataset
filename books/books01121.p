@@ -75,201 +75,203 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I545
-sg14
-VA Tragedy of Errors
+S'title'
 p32
-sa(dp33
-g10
-I545
-sg14
-VA Tragedy of Errors [2]
-p34
-sa(dp35
-g10
-I545
-sg14
-VA Tragedy of Errors [3]
-p36
-sa(dp37
-g10
-I545
-sg14
-VA Tragedy of Errors [4]
-p38
-sa(dp39
-g10
-I326
-sg14
-VThe Planet Slummers
-p40
-sa(dp41
-g10
-I499
-sg14
-VCrazy Annaoj
-p42
-sa(dp43
-g10
-I615
-sg14
-VStreet of Dreams, Feet of Clay
-p44
-sa(dp45
-g10
-I615
-sg14
-VStreet of Dreams, Feet of Clay [2]
-p46
-sa(dp47
-g10
-I615
-sg14
-VStreet of Dreams, Feet of Clay [3]
-p48
-sa(dp49
-g10
-I499
-sg14
-VSales of a Deathman
-p50
-sa(dp51
-g10
-I499
-sg14
-VTotal Environment
-p52
-sa(dp53
-g10
-I499
-sg14
-VTotal Environment [2]
-p54
-sa(dp55
-g10
-I499
-sg14
-VTotal Environment [3]
-p56
-sa(dp57
-g10
-I499
-sg14
-VTotal Environment [4]
-p58
-sa(dp59
-g10
-I499
-sg14
-VTotal Environment [5]
-p60
-sa(dp61
-g10
-I499
-sg14
-VGalaxy Bookshelf (Galaxy Magazine, February 1968)
-p62
-sa(dp63
-g10
-I545
-sg14
-VHow They Gave It Back
-p64
-sa(dp65
-g10
-I519
-sg14
-VThe Big Show
-p66
-sa(dp67
-g10
-I519
-sg14
-VThe Big Show [2]
-p68
-sa(dp69
-g10
-I40
-sg14
-VPlaying Games
-p70
-sa(dp71
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, February 1968) (Circulation:74,700)
-p72
-sa(dp73
-g10
-I339
-sg14
-VFor Your Information: Epitaph for a Lonely Olm
-p74
-sa(dp75
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, February 1968)
-p76
-sa(dp77
-g10
-I91
-sg14
-VReview of the Nonfiction Work "This New Ocean"
-p78
-sa(dp79
-g10
-I326
-sg14
-VForecast (Galaxy, February 1968)
-p80
-sa(dp81
-g10
-I23
-sg14
-VStreet of Dreams, Feet of Clay
-p82
-sa(dp83
-g10
-I592
-sg14
-VTotal Environment
-p84
-sa(dp85
-g10
-I67
-sg14
-VThe Big Show
-p86
-sa(dp87
-g10
-I30
-sg14
 VA Tragedy of Errors
-p88
-sa(dp89
-g10
-I621
-sg14
+p33
+sS'author'
+p34
+I545
+sa(dp35
+g32
+VA Tragedy of Errors [2]
+p36
+sg34
+I545
+sa(dp37
+g32
+VA Tragedy of Errors [3]
+p38
+sg34
+I545
+sa(dp39
+g32
+VA Tragedy of Errors [4]
+p40
+sg34
+I545
+sa(dp41
+g32
 VThe Planet Slummers
-p90
-sa(dp91
-g10
-I32
-sg14
+p42
+sg34
+I326
+sa(dp43
+g32
 VCrazy Annaoj
-p92
-sa(dp93
-g10
-I45
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
+VStreet of Dreams, Feet of Clay
+p46
+sg34
+I615
+sa(dp47
+g32
+VStreet of Dreams, Feet of Clay [2]
+p48
+sg34
+I615
+sa(dp49
+g32
+VStreet of Dreams, Feet of Clay [3]
+p50
+sg34
+I615
+sa(dp51
+g32
 VSales of a Deathman
-p94
-sa(dp95
-g10
-I74
-sg14
+p52
+sg34
+I499
+sa(dp53
+g32
+VTotal Environment
+p54
+sg34
+I499
+sa(dp55
+g32
+VTotal Environment [2]
+p56
+sg34
+I499
+sa(dp57
+g32
+VTotal Environment [3]
+p58
+sg34
+I499
+sa(dp59
+g32
+VTotal Environment [4]
+p60
+sg34
+I499
+sa(dp61
+g32
+VTotal Environment [5]
+p62
+sg34
+I499
+sa(dp63
+g32
+VGalaxy Bookshelf (Galaxy Magazine, February 1968)
+p64
+sg34
+I499
+sa(dp65
+g32
 VHow They Gave It Back
+p66
+sg34
+I545
+sa(dp67
+g32
+VThe Big Show
+p68
+sg34
+I519
+sa(dp69
+g32
+VThe Big Show [2]
+p70
+sg34
+I519
+sa(dp71
+g32
+VPlaying Games
+p72
+sg34
+I40
+sa(dp73
+g32
+VStatement of Ownership (Galaxy, February 1968) (Circulation:74,700)
+p74
+sg34
+I326
+sa(dp75
+g32
+VFor Your Information: Epitaph for a Lonely Olm
+p76
+sg34
+I339
+sa(dp77
+g32
+VGalaxy Bookshelf (Galaxy, February 1968)
+p78
+sg34
+I91
+sa(dp79
+g32
+VReview of the Nonfiction Work "This New Ocean"
+p80
+sg34
+I91
+sa(dp81
+g32
+VForecast (Galaxy, February 1968)
+p82
+sg34
+I326
+sa(dp83
+g32
+VStreet of Dreams, Feet of Clay
+p84
+sg34
+I23
+sa(dp85
+g32
+VTotal Environment
+p86
+sg34
+I592
+sa(dp87
+g32
+VThe Big Show
+p88
+sg34
+I67
+sa(dp89
+g32
+VA Tragedy of Errors
+p90
+sg34
+I30
+sa(dp91
+g32
+VThe Planet Slummers
+p92
+sg34
+I621
+sa(dp93
+g32
+VCrazy Annaoj
+p94
+sg34
+I32
+sa(dp95
+g32
+VSales of a Deathman
 p96
+sg34
+I45
+sa(dp97
+g32
+VHow They Gave It Back
+p98
+sg34
+I74
 sasb.

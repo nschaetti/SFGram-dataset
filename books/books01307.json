@@ -1,0 +1,71 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1965", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/1965-05_IF/1965-05_IF_jp2.zip&file=1965-05_IF_jp2/1965-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/64/WOFIFMAY1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        578, 
+        581, 
+        545, 
+        40, 
+        70, 
+        1013, 
+        546, 
+        74, 
+        561, 
+        1115, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1307, 
+    "contents": [
+        {
+            "author": 578, 
+            "title": "Raindrop"
+        }, 
+        {
+            "author": 581, 
+            "title": "Way Station"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Altar at Asconel (Part 2 of 2)"
+        }, 
+        {
+            "author": 40, 
+            "title": "When Is a Robot?"
+        }, 
+        {
+            "author": 70, 
+            "title": "Raindrop"
+        }, 
+        {
+            "author": 1013, 
+            "title": "Way Station"
+        }, 
+        {
+            "author": 546, 
+            "title": "The Altar at Asconel (Part 2 of 2)"
+        }, 
+        {
+            "author": 74, 
+            "title": "Guesting Time"
+        }, 
+        {
+            "author": 561, 
+            "title": "Sign of the Wolf"
+        }, 
+        {
+            "author": 1115, 
+            "title": "Strong Current"
+        }
+    ]
+}

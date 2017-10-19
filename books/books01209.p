@@ -73,183 +73,185 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I860
-sg14
-VShowcase (Galaxy, March 1978)
+S'title'
 p32
-sa(dp33
-g10
-I848
-sg14
-VMoonless Night
+VShowcase (Galaxy, March 1978)
+p33
+sS'author'
 p34
+I860
 sa(dp35
-g10
-I848
-sg14
-VMoonless Night [2]
-p36
-sa(dp37
-g10
-I849
-sg14
-VBugs
-p38
-sa(dp39
-g10
-I849
-sg14
-VBugs [2]
-p40
-sa(dp41
-g10
-I842
-sg14
-VThe Exchange
-p42
-sa(dp43
-g10
-I842
-sg14
-VThe Exchange [2]
-p44
-sa(dp45
-g10
-I842
-sg14
-VThe Exchange [3]
-p46
-sa(dp47
-g10
-I849
-sg14
-VThe Norns' Loom
-p48
-sa(dp49
-g10
-I849
-sg14
-VThe Norns' Loom [2]
-p50
-sa(dp51
-g10
-I849
-sg14
-VKilling Vector
-p52
-sa(dp53
-g10
-I849
-sg14
-VKilling Vector [2]
-p54
-sa(dp55
-g10
-I849
-sg14
-VKilling Vector [3]
-p56
-sa(dp57
-g10
-I842
-sg14
-VThe Faded Sun: Kesrith (Part 2 of 4)
-p58
-sa(dp59
-g10
-I842
-sg14
-VThe Faded Sun: Kesrith (Part 2 of 4) [2]
-p60
-sa(dp61
-g10
-I842
-sg14
-VThe Faded Sun: Kesrith (Part 2 of 4) [3]
-p62
-sa(dp63
-g10
-I842
-sg14
-VThe Faded Sun: Kesrith (Part 2 of 4) [4]
-p64
-sa(dp65
-g10
-I842
-sg14
-VThe Faded Sun: Kesrith (Part 2 of 4) [5]
-p66
-sa(dp67
-g10
-I326
-sg14
-VForecast (Galaxy, March 1978)
-p68
-sa(dp69
-g10
-I734
-sg14
-VThe Moral Equivalent of War
-p70
-sa(dp71
-g10
-I843
-sg14
-VGalaxy Bookshelf (Galaxy, March 1978)
-p72
-sa(dp73
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, March 1978)
-p74
-sa(dp75
-g10
-I844
-sg14
-VWho's Minding the Store?
-p76
-sa(dp77
-g10
-I844
-sg14
-VDirections (Galaxy, March 1978)
-p78
-sa(dp79
-g10
-I861
-sg14
-VThe Exchange
-p80
-sa(dp81
-g10
-I857
-sg14
-VThe Faded Sun: Kesrith (Part 2 of 4)
-p82
-sa(dp83
-g10
-I862
-sg14
+g32
 VMoonless Night
-p84
-sa(dp85
-g10
-I843
-sg14
+p36
+sg34
+I848
+sa(dp37
+g32
+VMoonless Night [2]
+p38
+sg34
+I848
+sa(dp39
+g32
 VBugs
-p86
-sa(dp87
-g10
-I714
-sg14
+p40
+sg34
+I849
+sa(dp41
+g32
+VBugs [2]
+p42
+sg34
+I849
+sa(dp43
+g32
+VThe Exchange
+p44
+sg34
+I842
+sa(dp45
+g32
+VThe Exchange [2]
+p46
+sg34
+I842
+sa(dp47
+g32
+VThe Exchange [3]
+p48
+sg34
+I842
+sa(dp49
+g32
 VThe Norns' Loom
-p88
-sa(dp89
-g10
-I817
-sg14
+p50
+sg34
+I849
+sa(dp51
+g32
+VThe Norns' Loom [2]
+p52
+sg34
+I849
+sa(dp53
+g32
 VKilling Vector
+p54
+sg34
+I849
+sa(dp55
+g32
+VKilling Vector [2]
+p56
+sg34
+I849
+sa(dp57
+g32
+VKilling Vector [3]
+p58
+sg34
+I849
+sa(dp59
+g32
+VThe Faded Sun: Kesrith (Part 2 of 4)
+p60
+sg34
+I842
+sa(dp61
+g32
+VThe Faded Sun: Kesrith (Part 2 of 4) [2]
+p62
+sg34
+I842
+sa(dp63
+g32
+VThe Faded Sun: Kesrith (Part 2 of 4) [3]
+p64
+sg34
+I842
+sa(dp65
+g32
+VThe Faded Sun: Kesrith (Part 2 of 4) [4]
+p66
+sg34
+I842
+sa(dp67
+g32
+VThe Faded Sun: Kesrith (Part 2 of 4) [5]
+p68
+sg34
+I842
+sa(dp69
+g32
+VForecast (Galaxy, March 1978)
+p70
+sg34
+I326
+sa(dp71
+g32
+VThe Moral Equivalent of War
+p72
+sg34
+I734
+sa(dp73
+g32
+VGalaxy Bookshelf (Galaxy, March 1978)
+p74
+sg34
+I843
+sa(dp75
+g32
+VThe Alien Viewpoint (Galaxy, March 1978)
+p76
+sg34
+I767
+sa(dp77
+g32
+VWho's Minding the Store?
+p78
+sg34
+I844
+sa(dp79
+g32
+VDirections (Galaxy, March 1978)
+p80
+sg34
+I844
+sa(dp81
+g32
+VThe Exchange
+p82
+sg34
+I861
+sa(dp83
+g32
+VThe Faded Sun: Kesrith (Part 2 of 4)
+p84
+sg34
+I857
+sa(dp85
+g32
+VMoonless Night
+p86
+sg34
+I862
+sa(dp87
+g32
+VBugs
+p88
+sg34
+I843
+sa(dp89
+g32
+VThe Norns' Loom
 p90
+sg34
+I714
+sa(dp91
+g32
+VKilling Vector
+p92
+sg34
+I817
 sasb.

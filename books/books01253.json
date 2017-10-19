@@ -1,0 +1,115 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1956", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1956-10_IF_modified/1956-10_IF_modified_jp2.zip&file=1956-10_IF_modified_jp2/1956-10_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/33/WOFIFOCT1956.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        956, 
+        427, 
+        948, 
+        326, 
+        88, 
+        30, 
+        153, 
+        991, 
+        144, 
+        1026, 
+        39, 
+        1027, 
+        1028, 
+        918
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1253, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Happy Herd"
+        }, 
+        {
+            "author": 363, 
+            "title": "Room with View"
+        }, 
+        {
+            "author": 363, 
+            "title": "Details"
+        }, 
+        {
+            "author": 956, 
+            "title": "Dearest Enemy"
+        }, 
+        {
+            "author": 956, 
+            "title": "Your Servant, Sir"
+        }, 
+        {
+            "author": 956, 
+            "title": "Brain Teaser"
+        }, 
+        {
+            "author": 427, 
+            "title": "Corbow's Theory"
+        }, 
+        {
+            "author": 948, 
+            "title": "Editor's Report (If, October 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If October 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, October 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, October 1956)"
+        }, 
+        {
+            "author": 88, 
+            "title": "The Happy Herd"
+        }, 
+        {
+            "author": 30, 
+            "title": "Details"
+        }, 
+        {
+            "author": 153, 
+            "title": "Room with View"
+        }, 
+        {
+            "author": 991, 
+            "title": "Dearest Enemy"
+        }, 
+        {
+            "author": 144, 
+            "title": "Communication"
+        }, 
+        {
+            "author": 1026, 
+            "title": "Your Servant, Sir"
+        }, 
+        {
+            "author": 39, 
+            "title": "Brain Teaser"
+        }, 
+        {
+            "author": 1027, 
+            "title": "Corbow's Theory"
+        }, 
+        {
+            "author": 1028, 
+            "title": "Shock Troop"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1968
+sS'title'
+p14
+VIF Magazine October 1968
+p15
+sS'cover'
+p16
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1968-10_IF/1968-10_IF_jp2.zip&file=1968-10_IF_jp2/1968-10_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/8/89/WOFIFOCT1968.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I499
+aI497
+aI611
+aI1170
+aI40
+aI1171
+aI356
+aI326
+aI46
+aI1172
+aI658
+aI16
+aI645
+aI1173
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1348
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I499
+sg14
+VHigh Weir
+p32
+sa(dp33
+g10
+I497
+sg14
+VDeathchild
+p34
+sa(dp35
+g10
+I499
+sg14
+VThe Proxy Intelligence (Condensed)
+p36
+sa(dp37
+g10
+I611
+sg14
+VOr Battle's Sound
+p38
+sa(dp39
+g10
+I1170
+sg14
+VPupa Knows Best
+p40
+sa(dp41
+g10
+I40
+sg14
+VPackaging People
+p42
+sa(dp43
+g10
+I1171
+sg14
+VReport On Japanese Science Fiction
+p44
+sa(dp45
+g10
+I356
+sg14
+VIf ... And When (If, October 1968)
+p46
+sa(dp47
+g10
+I40
+sg14
+VHue and Cry (If, October 1968)
+p48
+sa(dp49
+g10
+I326
+sg14
+VSf Calendar (If, October 1968)
+p50
+sa(dp51
+g10
+I46
+sg14
+VHigh Weir
+p52
+sa(dp53
+g10
+I1172
+sg14
+VDeathchild
+p54
+sa(dp55
+g10
+I658
+sg14
+VThe Proxy Intelligence (Condensed)
+p56
+sa(dp57
+g10
+I16
+sg14
+VOr Battle's Sound
+p58
+sa(dp59
+g10
+I645
+sg14
+VPupa Knows Best
+p60
+sa(dp61
+g10
+I1173
+sg14
+VPaddlewheel On the Styx
+p62
+sasb.

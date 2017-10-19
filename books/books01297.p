@@ -1,0 +1,123 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1964
+sS'title'
+p14
+VIF Magazine May 1964
+p15
+sS'cover'
+p16
+Vhttps://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/1964-05_IF/1964-05_IF_jp2.zip&file=1964-05_IF_jp2/1964-05_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/7/71/WOFIFMAY1964.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I545
+aI581
+aI578
+aI40
+aI95
+aI1074
+aI479
+aI1101
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1297
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I545
+sg14
+VThe Imperial Stars
+p32
+sa(dp33
+g10
+I581
+sg14
+VFire, 2016!
+p34
+sa(dp35
+g10
+I578
+sg14
+VThe Store of Heart's Desire
+p36
+sa(dp37
+g10
+I40
+sg14
+VOde to a Skylark
+p38
+sa(dp39
+g10
+I40
+sg14
+VHue and Cry (If, May 1964)
+p40
+sa(dp41
+g10
+I95
+sg14
+VFire, 2016!
+p42
+sa(dp43
+g10
+I1074
+sg14
+VThe Imperial Stars
+p44
+sa(dp45
+g10
+I479
+sg14
+VThe Store of Heart's Desire
+p46
+sa(dp47
+g10
+I1101
+sg14
+VThe Final Equation
+p48
+sasb.

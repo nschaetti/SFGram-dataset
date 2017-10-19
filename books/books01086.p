@@ -82,189 +82,191 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I488
-sg14
-VThe Gatekeepers
+S'title'
 p32
-sa(dp33
-g10
-I488
-sg14
-VThe Gatekeepers [2]
-p34
-sa(dp35
-g10
-I504
-sg14
-VLochinvar
-p36
-sa(dp37
-g10
-I564
-sg14
-VThe God Next Door
-p38
-sa(dp39
-g10
-I564
-sg14
-VThe God Next Door [2]
-p40
-sa(dp41
-g10
-I562
-sg14
-VAloys
-p42
-sa(dp43
-g10
-I562
-sg14
-VAloys [2]
-p44
-sa(dp45
-g10
-I562
-sg14
-VThe Air of Castor Oil
-p46
-sa(dp47
-g10
-I562
-sg14
-VThe Air of Castor Oil [2]
-p48
-sa(dp49
-g10
-I560
-sg14
-VThe Stuff
-p50
-sa(dp51
-g10
-I497
-sg14
-VThe King of the City
-p52
-sa(dp53
-g10
-I497
-sg14
-VThe King of the City [2]
-p54
-sa(dp55
-g10
-I363
-sg14
-VThe Deep Down Dragon
-p56
-sa(dp57
-g10
-I419
-sg14
-VThe Moon Moth
-p58
-sa(dp59
-g10
-I419
-sg14
-VThe Moon Moth [2]
-p60
-sa(dp61
-g10
-I419
-sg14
-VThe Moon Moth [3]
-p62
-sa(dp63
-g10
-I565
-sg14
-VNotes From an Editor's Pad
-p64
-sa(dp65
-g10
-I326
-sg14
-VForecast (Galaxy, August 1961)
-p66
-sa(dp67
-g10
-I339
-sg14
-VFor Your Information: The Man I Didn't Meet
-p68
-sa(dp69
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, August 1961)
-p70
-sa(dp71
-g10
-I384
-sg14
 VThe Gatekeepers
-p72
-sa(dp73
-g10
-I67
-sg14
-VThe King of the City
-p74
-sa(dp75
-g10
-I89
-sg14
-VThe Moon Moth
-p76
-sa(dp77
-g10
-I566
-sg14
-VExtraterrestrial Trilogue On Terran Self-Destruction
-p78
-sa(dp79
-g10
-I423
-sg14
+p33
+sS'author'
+p34
+I488
+sa(dp35
+g32
+VThe Gatekeepers [2]
+p36
+sg34
+I488
+sa(dp37
+g32
 VLochinvar
-p80
-sa(dp81
-g10
-I192
-sg14
+p38
+sg34
+I504
+sa(dp39
+g32
 VThe God Next Door
-p82
-sa(dp83
-g10
-I74
-sg14
+p40
+sg34
+I564
+sa(dp41
+g32
+VThe God Next Door [2]
+p42
+sg34
+I564
+sa(dp43
+g32
 VAloys
-p84
-sa(dp85
-g10
-I142
-sg14
+p44
+sg34
+I562
+sa(dp45
+g32
+VAloys [2]
+p46
+sg34
+I562
+sa(dp47
+g32
 VThe Air of Castor Oil
-p86
-sa(dp87
-g10
-I59
-sg14
+p48
+sg34
+I562
+sa(dp49
+g32
+VThe Air of Castor Oil [2]
+p50
+sg34
+I562
+sa(dp51
+g32
 VThe Stuff
-p88
-sa(dp89
-g10
-I356
-sg14
-VReturn Engagement
-p90
-sa(dp91
-g10
-I567
-sg14
+p52
+sg34
+I560
+sa(dp53
+g32
+VThe King of the City
+p54
+sg34
+I497
+sa(dp55
+g32
+VThe King of the City [2]
+p56
+sg34
+I497
+sa(dp57
+g32
 VThe Deep Down Dragon
+p58
+sg34
+I363
+sa(dp59
+g32
+VThe Moon Moth
+p60
+sg34
+I419
+sa(dp61
+g32
+VThe Moon Moth [2]
+p62
+sg34
+I419
+sa(dp63
+g32
+VThe Moon Moth [3]
+p64
+sg34
+I419
+sa(dp65
+g32
+VNotes From an Editor's Pad
+p66
+sg34
+I565
+sa(dp67
+g32
+VForecast (Galaxy, August 1961)
+p68
+sg34
+I326
+sa(dp69
+g32
+VFor Your Information: The Man I Didn't Meet
+p70
+sg34
+I339
+sa(dp71
+g32
+VGalaxy's 5 Star Shelf (Galaxy, August 1961)
+p72
+sg34
+I483
+sa(dp73
+g32
+VThe Gatekeepers
+p74
+sg34
+I384
+sa(dp75
+g32
+VThe King of the City
+p76
+sg34
+I67
+sa(dp77
+g32
+VThe Moon Moth
+p78
+sg34
+I89
+sa(dp79
+g32
+VExtraterrestrial Trilogue On Terran Self-Destruction
+p80
+sg34
+I566
+sa(dp81
+g32
+VLochinvar
+p82
+sg34
+I423
+sa(dp83
+g32
+VThe God Next Door
+p84
+sg34
+I192
+sa(dp85
+g32
+VAloys
+p86
+sg34
+I74
+sa(dp87
+g32
+VThe Air of Castor Oil
+p88
+sg34
+I142
+sa(dp89
+g32
+VThe Stuff
+p90
+sg34
+I59
+sa(dp91
+g32
+VReturn Engagement
 p92
+sg34
+I356
+sa(dp93
+g32
+VThe Deep Down Dragon
+p94
+sg34
+I567
 sasb.

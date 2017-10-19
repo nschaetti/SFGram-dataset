@@ -71,153 +71,155 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I342
-sg14
-VThe Demolished Man (Part 1 of 3)
+S'title'
 p32
-sa(dp33
-g10
-I342
-sg14
-VThe Demolished Man (Part 1 of 3) [2]
-p34
-sa(dp35
-g10
-I342
-sg14
-VThe Demolished Man (Part 1 of 3) [3]
-p36
-sa(dp37
-g10
-I342
-sg14
-VThe Demolished Man (Part 1 of 3) [4]
-p38
-sa(dp39
-g10
-I342
-sg14
-VThe Demolished Man (Part 1 of 3) [5]
-p40
-sa(dp41
-g10
-I336
-sg14
-VDead End
-p42
-sa(dp43
-g10
-I336
-sg14
-VDead End [2]
-p44
-sa(dp45
-g10
-I363
-sg14
-VThe Girls From Earth
-p46
-sa(dp47
-g10
-I363
-sg14
-VThe Girls From Earth [2]
-p48
-sa(dp49
-g10
-I363
-sg14
-VThe Girls From Earth [3]
-p50
-sa(dp51
-g10
-I363
-sg14
-VThe Girls From Earth [4]
-p52
-sa(dp53
-g10
-I367
-sg14
-VThe Furious Rose
-p54
-sa(dp55
-g10
-I363
-sg14
-VThe Addicts
-p56
-sa(dp57
-g10
-I363
-sg14
-VThe Addicts [2]
-p58
-sa(dp59
-g10
-I342
-sg14
-VHallucination Orbit
-p60
-sa(dp61
-g10
-I342
-sg14
-VHallucination Orbit [2]
-p62
-sa(dp63
-g10
-I342
-sg14
-VHallucination Orbit [3]
-p64
-sa(dp65
-g10
-I305
-sg14
-VGloom &Amp; Doom
-p66
-sa(dp67
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, January 1952)
-p68
-sa(dp69
-g10
-I354
-sg14
-VThe Girls From Earth
-p70
-sa(dp71
-g10
-I384
-sg14
-VHallucination Orbit
-p72
-sa(dp73
-g10
-I385
-sg14
 VThe Demolished Man (Part 1 of 3)
-p74
-sa(dp75
-g10
-I386
-sg14
+p33
+sS'author'
+p34
+I342
+sa(dp35
+g32
+VThe Demolished Man (Part 1 of 3) [2]
+p36
+sg34
+I342
+sa(dp37
+g32
+VThe Demolished Man (Part 1 of 3) [3]
+p38
+sg34
+I342
+sa(dp39
+g32
+VThe Demolished Man (Part 1 of 3) [4]
+p40
+sg34
+I342
+sa(dp41
+g32
+VThe Demolished Man (Part 1 of 3) [5]
+p42
+sg34
+I342
+sa(dp43
+g32
 VDead End
-p76
-sa(dp77
-g10
-I237
-sg14
+p44
+sg34
+I336
+sa(dp45
+g32
+VDead End [2]
+p46
+sg34
+I336
+sa(dp47
+g32
+VThe Girls From Earth
+p48
+sg34
+I363
+sa(dp49
+g32
+VThe Girls From Earth [2]
+p50
+sg34
+I363
+sa(dp51
+g32
+VThe Girls From Earth [3]
+p52
+sg34
+I363
+sa(dp53
+g32
+VThe Girls From Earth [4]
+p54
+sg34
+I363
+sa(dp55
+g32
 VThe Furious Rose
-p78
-sa(dp79
-g10
-I387
-sg14
+p56
+sg34
+I367
+sa(dp57
+g32
 VThe Addicts
+p58
+sg34
+I363
+sa(dp59
+g32
+VThe Addicts [2]
+p60
+sg34
+I363
+sa(dp61
+g32
+VHallucination Orbit
+p62
+sg34
+I342
+sa(dp63
+g32
+VHallucination Orbit [2]
+p64
+sg34
+I342
+sa(dp65
+g32
+VHallucination Orbit [3]
+p66
+sg34
+I342
+sa(dp67
+g32
+VGloom &Amp; Doom
+p68
+sg34
+I305
+sa(dp69
+g32
+VGalaxy's 5 Star Shelf (Galaxy, January 1952)
+p70
+sg34
+I340
+sa(dp71
+g32
+VThe Girls From Earth
+p72
+sg34
+I354
+sa(dp73
+g32
+VHallucination Orbit
+p74
+sg34
+I384
+sa(dp75
+g32
+VThe Demolished Man (Part 1 of 3)
+p76
+sg34
+I385
+sa(dp77
+g32
+VDead End
+p78
+sg34
+I386
+sa(dp79
+g32
+VThe Furious Rose
 p80
+sg34
+I237
+sa(dp81
+g32
+VThe Addicts
+p82
+sg34
+I387
 sasb.

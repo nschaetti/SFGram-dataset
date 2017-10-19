@@ -1,0 +1,204 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1954
+sS'title'
+p14
+VIF Magazine April 1954
+p15
+sS'cover'
+p16
+Vhttps://ia800207.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/1954-04_IF/1954-04_IF_jp2.zip&file=1954-04_IF_jp2/1954-04_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.philsp.com/visco/Magazines/WIF123/WIF1_0009.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I951
+aI412
+aI969
+aI363
+aI956
+aI975
+aI948
+aI605
+aI976
+aI326
+aI8
+aI23
+aI228
+aI389
+aI977
+aI978
+aI979
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1231
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I951
+sg14
+VCity in the Desert
+p32
+sa(dp33
+g10
+I412
+sg14
+VThe Golden Man
+p34
+sa(dp35
+g10
+I412
+sg14
+VBreeder Reaction
+p36
+sa(dp37
+g10
+I969
+sg14
+VWay of a Rebel
+p38
+sa(dp39
+g10
+I363
+sg14
+VCarrier
+p40
+sa(dp41
+g10
+I363
+sg14
+VCarrier [2]
+p42
+sa(dp43
+g10
+I956
+sg14
+VAll in the Mind
+p44
+sa(dp45
+g10
+I956
+sg14
+VProbability
+p46
+sa(dp47
+g10
+I975
+sg14
+VThe Last Conqueror
+p48
+sa(dp49
+g10
+I951
+sg14
+VWilderness Home
+p50
+sa(dp51
+g10
+I948
+sg14
+VA Chat with the Editor (If, April 1954)
+p52
+sa(dp53
+g10
+I605
+sg14
+V"It's About Time ..."
+p54
+sa(dp55
+g10
+I976
+sg14
+VOut of This World (If, April 1954)
+p56
+sa(dp57
+g10
+I326
+sg14
+VScience Briefs (If, April 1954)
+p58
+sa(dp59
+g10
+I8
+sg14
+VThe Golden Man
+p60
+sa(dp61
+g10
+I23
+sg14
+VCarrier
+p62
+sa(dp63
+g10
+I228
+sg14
+VBreeder Reaction
+p64
+sa(dp65
+g10
+I389
+sg14
+VWay of a Rebel
+p66
+sa(dp67
+g10
+I977
+sg14
+VAll in the Mind
+p68
+sa(dp69
+g10
+I978
+sg14
+VProbability
+p70
+sa(dp71
+g10
+I979
+sg14
+VThe Last Conqueror
+p72
+sasb.

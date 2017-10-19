@@ -1,0 +1,108 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine June 1968", 
+    "cover": "https://ia800209.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1968-06_IF/1968-06_IF_jp2.zip&file=1968-06_IF_jp2/1968-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/e1/WOFIFJUN1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        625, 
+        624, 
+        627, 
+        626, 
+        628, 
+        40, 
+        326, 
+        623, 
+        645, 
+        711, 
+        630, 
+        86, 
+        46, 
+        779, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1344, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Rogue Star (Part 1 of 3)"
+        }, 
+        {
+            "author": 625, 
+            "title": "The Guerrilla Trees"
+        }, 
+        {
+            "author": 499, 
+            "title": "Cage of Brass"
+        }, 
+        {
+            "author": 624, 
+            "title": "The Mother Ship"
+        }, 
+        {
+            "author": 627, 
+            "title": "House of Ancestors"
+        }, 
+        {
+            "author": 626, 
+            "title": "Publish and Perish"
+        }, 
+        {
+            "author": 628, 
+            "title": "The Bird-Brained Navigator"
+        }, 
+        {
+            "author": 40, 
+            "title": "Tomorrows to Order"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Would You Do About Vietnam?"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, June 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, June 1968)"
+        }, 
+        {
+            "author": 623, 
+            "title": "The Guerrilla Trees"
+        }, 
+        {
+            "author": 645, 
+            "title": "The Mother Ship"
+        }, 
+        {
+            "author": 711, 
+            "title": "House of Ancestors"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Bird-Brained Navigator"
+        }, 
+        {
+            "author": 86, 
+            "title": "Rogue Star (Part 1 of 3)"
+        }, 
+        {
+            "author": 46, 
+            "title": "Cage of Brass"
+        }, 
+        {
+            "author": 779, 
+            "title": "Publish and Perish"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1966", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/1966-10_IF/1966-10_IF_jp2.zip&file=1966-10_IF_jp2/1966-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/06/WOFIFOCT1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        611, 
+        499, 
+        545, 
+        497, 
+        1132, 
+        1125, 
+        40, 
+        604, 
+        622, 
+        384, 
+        630, 
+        1133, 
+        687, 
+        1134, 
+        315, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1324, 
+    "contents": [
+        {
+            "author": 611, 
+            "title": "Neutron Star"
+        }, 
+        {
+            "author": 499, 
+            "title": "Snow White and the Giants (Part 1 of 4)"
+        }, 
+        {
+            "author": 545, 
+            "title": "Tunnel Warrior"
+        }, 
+        {
+            "author": 497, 
+            "title": "On the Edge of the Galaxy"
+        }, 
+        {
+            "author": 499, 
+            "title": "Edge of Night (Part 2 of 2)"
+        }, 
+        {
+            "author": 497, 
+            "title": "In the Bone"
+        }, 
+        {
+            "author": 1132, 
+            "title": "Tv"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Handy Phrase Book in Fannish"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, October 1966)"
+        }, 
+        {
+            "author": 604, 
+            "title": "Neutron Star"
+        }, 
+        {
+            "author": 622, 
+            "title": "Tunnel Warrior"
+        }, 
+        {
+            "author": 384, 
+            "title": "Snow White and the Giants (Part 1 of 4)"
+        }, 
+        {
+            "author": 630, 
+            "title": "Edge of Night (Part 2 of 2)"
+        }, 
+        {
+            "author": 1133, 
+            "title": "Your Soldier Unto Death"
+        }, 
+        {
+            "author": 687, 
+            "title": "On the Edge of the Galaxy"
+        }, 
+        {
+            "author": 1134, 
+            "title": "The Spy Game"
+        }, 
+        {
+            "author": 315, 
+            "title": "In the Bone"
+        }
+    ]
+}

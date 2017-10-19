@@ -1,0 +1,95 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1966", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/1966-12_IF/1966-12_IF_jp2.zip&file=1966-12_IF_jp2/1966-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/14/WOFIFDEC1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        611, 
+        556, 
+        497, 
+        499, 
+        40, 
+        1125, 
+        91, 
+        558, 
+        604, 
+        665, 
+        384, 
+        1137, 
+        549, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1326, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "Be Merry"
+        }, 
+        {
+            "author": 611, 
+            "title": "Starpath"
+        }, 
+        {
+            "author": 556, 
+            "title": "A Relic of the Empire"
+        }, 
+        {
+            "author": 497, 
+            "title": "Call Me Dumbo"
+        }, 
+        {
+            "author": 499, 
+            "title": "Snow White and the Giants (Part 3 of 4)"
+        }, 
+        {
+            "author": 40, 
+            "title": "On Hugos"
+        }, 
+        {
+            "author": 1125, 
+            "title": "The \"Other\" Fandoms"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, December 1966)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Be Merry"
+        }, 
+        {
+            "author": 558, 
+            "title": "Starpath"
+        }, 
+        {
+            "author": 604, 
+            "title": "A Relic of the Empire"
+        }, 
+        {
+            "author": 665, 
+            "title": "Call Me Dumbo"
+        }, 
+        {
+            "author": 384, 
+            "title": "Snow White and the Giants (Part 3 of 4)"
+        }, 
+        {
+            "author": 1137, 
+            "title": "The Thousandth Birthday Party"
+        }, 
+        {
+            "author": 549, 
+            "title": "The Forgotten Gods of Earth"
+        }
+    ]
+}

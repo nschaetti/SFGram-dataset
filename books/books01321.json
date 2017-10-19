@@ -1,0 +1,85 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1966", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/1966-07_IF/1966-07_IF_jp2.zip&file=1966-07_IF_jp2/1966-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/80/WOFIFJUL1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        584, 
+        519, 
+        40, 
+        1125, 
+        1129, 
+        623, 
+        55, 
+        67, 
+        1090, 
+        662, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1321, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Hour Before Earthrise (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Bircher"
+        }, 
+        {
+            "author": 584, 
+            "title": "Cybernia"
+        }, 
+        {
+            "author": 519, 
+            "title": "Earthblood (Part 4 of 4)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Cheer Up, Fellows!"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Science Fiction's Holiday"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, July 1966)"
+        }, 
+        {
+            "author": 1129, 
+            "title": "Bircher"
+        }, 
+        {
+            "author": 623, 
+            "title": "Cybernia"
+        }, 
+        {
+            "author": 55, 
+            "title": "The Hour Before Earthrise (Part 1 of 3)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Earthblood (Part 4 of 4)"
+        }, 
+        {
+            "author": 1090, 
+            "title": "Feodar's Box"
+        }, 
+        {
+            "author": 662, 
+            "title": "The Man From When"
+        }
+    ]
+}

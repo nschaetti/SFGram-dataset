@@ -1,0 +1,108 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1956", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/1956-02_IF_modified/1956-02_IF_modified_jp2.zip&file=1956-02_IF_modified_jp2/1956-02_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/6a/WOFIFFEB1956.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        427, 
+        956, 
+        412, 
+        103, 
+        326, 
+        422, 
+        55, 
+        376, 
+        575, 
+        470, 
+        1022, 
+        918
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1249, 
+    "contents": [
+        {
+            "author": 427, 
+            "title": "Launching and Death of the Satellite"
+        }, 
+        {
+            "author": 427, 
+            "title": "Avoidance Situation"
+        }, 
+        {
+            "author": 956, 
+            "title": "To Pay the Piper"
+        }, 
+        {
+            "author": 956, 
+            "title": "Catalysis"
+        }, 
+        {
+            "author": 427, 
+            "title": "The Drivers"
+        }, 
+        {
+            "author": 956, 
+            "title": "Shango"
+        }, 
+        {
+            "author": 412, 
+            "title": "Jekyll-Hyde Planet"
+        }, 
+        {
+            "author": 103, 
+            "title": "The Odd Genre (If February 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Launching and Death of the Satellite"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, February 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, February 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, February 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, February 1956)"
+        }, 
+        {
+            "author": 422, 
+            "title": "Avoidance Situation"
+        }, 
+        {
+            "author": 55, 
+            "title": "To Pay the Piper"
+        }, 
+        {
+            "author": 376, 
+            "title": "The Drivers"
+        }, 
+        {
+            "author": 575, 
+            "title": "Shango"
+        }, 
+        {
+            "author": 470, 
+            "title": "The Margenes"
+        }, 
+        {
+            "author": 1022, 
+            "title": "Jekyll-Hyde Planet"
+        }
+    ]
+}

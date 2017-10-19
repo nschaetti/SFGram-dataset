@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1954", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/1954-01_IF/1954-01_IF_jp2.zip&file=1954-01_IF_jp2/1954-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f3/WOFIFJAN1954.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        412, 
+        969, 
+        956, 
+        974, 
+        966, 
+        326, 
+        928, 
+        441, 
+        16, 
+        161, 
+        217, 
+        204, 
+        69, 
+        918
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1229, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "Monorail Trains"
+        }, 
+        {
+            "author": 412, 
+            "title": "Malice in Wonderland"
+        }, 
+        {
+            "author": 969, 
+            "title": "Letter of the Law"
+        }, 
+        {
+            "author": 412, 
+            "title": "Navy Day"
+        }, 
+        {
+            "author": 969, 
+            "title": "A Word for Freedom"
+        }, 
+        {
+            "author": 956, 
+            "title": "Double Take"
+        }, 
+        {
+            "author": 974, 
+            "title": "Anachron"
+        }, 
+        {
+            "author": 412, 
+            "title": "Off Course"
+        }, 
+        {
+            "author": 951, 
+            "title": "Robot Mining"
+        }, 
+        {
+            "author": 966, 
+            "title": "A Chat with the Editor (If, January 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Personalities in Science: Norbert Weiner"
+        }, 
+        {
+            "author": 326, 
+            "title": "If You Know ..."
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, January 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, January 1954)"
+        }, 
+        {
+            "author": 928, 
+            "title": "Malice in Wonderland"
+        }, 
+        {
+            "author": 441, 
+            "title": "Letter of the Law"
+        }, 
+        {
+            "author": 16, 
+            "title": "Navy Day"
+        }, 
+        {
+            "author": 161, 
+            "title": "A Word for Freedom"
+        }, 
+        {
+            "author": 217, 
+            "title": "Double Take"
+        }, 
+        {
+            "author": 204, 
+            "title": "Anachron"
+        }, 
+        {
+            "author": 69, 
+            "title": "Off Course"
+        }
+    ]
+}

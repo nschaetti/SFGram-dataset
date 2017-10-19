@@ -76,147 +76,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VHow-2
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VHow-2 [2]
+VHow-2
+p33
+sS'author'
 p34
+I363
 sa(dp35
-g10
-I363
-sg14
-VHow-2 [3]
+g32
+VHow-2 [2]
 p36
+sg34
+I363
 sa(dp37
-g10
-I363
-sg14
-VHow-2 [4]
+g32
+VHow-2 [3]
 p38
-sa(dp39
-g10
-I457
-sg14
-VThe Nostalgia Gene
-p40
-sa(dp41
-g10
+sg34
 I363
-sg14
-VThe Laxian Key
+sa(dp39
+g32
+VHow-2 [4]
+p40
+sg34
+I363
+sa(dp41
+g32
+VThe Nostalgia Gene
 p42
+sg34
+I457
 sa(dp43
-g10
-I458
-sg14
-VThe Music Master of Ba
+g32
+VThe Laxian Key
 p44
+sg34
+I363
 sa(dp45
-g10
-I459
-sg14
+g32
 VThe Music Master of Ba
 p46
+sg34
+I458
 sa(dp47
-g10
-I460
-sg14
+g32
 VThe Music Master of Ba
 p48
+sg34
+I459
 sa(dp49
-g10
-I461
-sg14
-VUp for Renewal
+g32
+VThe Music Master of Ba
 p50
+sg34
+I460
 sa(dp51
-g10
-I419
-sg14
-VThe Age of Kindness
-p52
-sa(dp53
-g10
-I363
-sg14
-VBig Ancestor
-p54
-sa(dp55
-g10
-I363
-sg14
-VBig Ancestor [2]
-p56
-sa(dp57
-g10
-I363
-sg14
-VBig Ancestor [3]
-p58
-sa(dp59
-g10
-I305
-sg14
-VBetter &Amp; Better?
-p60
-sa(dp61
-g10
-I339
-sg14
-VFor Your Information: Asteroid Roundup
-p62
-sa(dp63
-g10
-I326
-sg14
-VForecast (Galaxy, November 1954)
-p64
-sa(dp65
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, November 1954)
-p66
-sa(dp67
-g10
-I56
-sg14
-VHow-2
-p68
-sa(dp69
-g10
-I393
-sg14
-VBig Ancestor
-p70
-sa(dp71
-g10
-I462
-sg14
-VThe Nostalgia Gene
-p72
-sa(dp73
-g10
-I23
-sg14
-VThe Laxian Key
-p74
-sa(dp75
-g10
-I293
-sg14
+g32
 VUp for Renewal
-p76
-sa(dp77
-g10
-I443
-sg14
+p52
+sg34
+I461
+sa(dp53
+g32
 VThe Age of Kindness
+p54
+sg34
+I419
+sa(dp55
+g32
+VBig Ancestor
+p56
+sg34
+I363
+sa(dp57
+g32
+VBig Ancestor [2]
+p58
+sg34
+I363
+sa(dp59
+g32
+VBig Ancestor [3]
+p60
+sg34
+I363
+sa(dp61
+g32
+VBetter &Amp; Better?
+p62
+sg34
+I305
+sa(dp63
+g32
+VFor Your Information: Asteroid Roundup
+p64
+sg34
+I339
+sa(dp65
+g32
+VForecast (Galaxy, November 1954)
+p66
+sg34
+I326
+sa(dp67
+g32
+VGalaxy's 5 Star Shelf (Galaxy, November 1954)
+p68
+sg34
+I340
+sa(dp69
+g32
+VHow-2
+p70
+sg34
+I56
+sa(dp71
+g32
+VBig Ancestor
+p72
+sg34
+I393
+sa(dp73
+g32
+VThe Nostalgia Gene
+p74
+sg34
+I462
+sa(dp75
+g32
+VThe Laxian Key
+p76
+sg34
+I23
+sa(dp77
+g32
+VUp for Renewal
 p78
+sg34
+I293
+sa(dp79
+g32
+VThe Age of Kindness
+p80
+sg34
+I443
 sasb.

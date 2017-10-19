@@ -77,183 +77,185 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I506
-sg14
-VProspector's Special
+S'title'
 p32
-sa(dp33
-g10
-I506
-sg14
-VProspector's Special [2]
-p34
-sa(dp35
-g10
-I506
-sg14
-VProspector's Special [3]
-p36
-sa(dp37
-g10
-I506
-sg14
-VFlower Arrangement
-p38
-sa(dp39
-g10
-I545
-sg14
-VSales Talk
-p40
-sa(dp41
-g10
-I497
-sg14
-VThe Undetected
-p42
-sa(dp43
-g10
-I497
-sg14
-VThe Undetected [2]
-p44
-sa(dp45
-g10
-I497
-sg14
-VThe Undetected [3]
-p46
-sa(dp47
-g10
-I519
-sg14
-VWar Game
-p48
-sa(dp49
-g10
-I419
-sg14
-VCharity Case
-p50
-sa(dp51
-g10
-I419
-sg14
-VCharity Case [2]
-p52
-sa(dp53
-g10
-I419
-sg14
-VCharity Case [3]
-p54
-sa(dp55
-g10
-I519
-sg14
-VThe Snowmen
-p56
-sa(dp57
-g10
-I497
-sg14
-VSabbatical
-p58
-sa(dp59
-g10
-I519
-sg14
-VBlacksword
-p60
-sa(dp61
-g10
-I519
-sg14
-VBlacksword [2]
-p62
-sa(dp63
-g10
-I519
-sg14
-VBlacksword [3]
-p64
-sa(dp65
-g10
-I305
-sg14
-VOf All Things
-p66
-sa(dp67
-g10
-I339
-sg14
-VFor Your Information: Dead or Alive?
-p68
-sa(dp69
-g10
-I326
-sg14
-VForecast (Galaxy, December 1959)
-p70
-sa(dp71
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, December 1959)
-p72
-sa(dp73
-g10
-I23
-sg14
 VProspector's Special
-p74
-sa(dp75
-g10
-I95
-sg14
-VThe Undetected
-p76
-sa(dp77
-g10
-I142
-sg14
-VCharity Case
-p78
-sa(dp79
-g10
-I549
-sg14
-VBlacksword
-p80
-sa(dp81
-g10
-I182
-sg14
+p33
+sS'author'
+p34
+I506
+sa(dp35
+g32
+VProspector's Special [2]
+p36
+sg34
+I506
+sa(dp37
+g32
+VProspector's Special [3]
+p38
+sg34
+I506
+sa(dp39
+g32
 VFlower Arrangement
-p82
-sa(dp83
-g10
-I159
-sg14
+p40
+sg34
+I506
+sa(dp41
+g32
 VSales Talk
-p84
-sa(dp85
-g10
-I8
-sg14
+p42
+sg34
+I545
+sa(dp43
+g32
+VThe Undetected
+p44
+sg34
+I497
+sa(dp45
+g32
+VThe Undetected [2]
+p46
+sg34
+I497
+sa(dp47
+g32
+VThe Undetected [3]
+p48
+sg34
+I497
+sa(dp49
+g32
 VWar Game
-p86
-sa(dp87
-g10
-I40
-sg14
+p50
+sg34
+I519
+sa(dp51
+g32
+VCharity Case
+p52
+sg34
+I419
+sa(dp53
+g32
+VCharity Case [2]
+p54
+sg34
+I419
+sa(dp55
+g32
+VCharity Case [3]
+p56
+sg34
+I419
+sa(dp57
+g32
 VThe Snowmen
-p88
-sa(dp89
-g10
-I45
-sg14
+p58
+sg34
+I519
+sa(dp59
+g32
 VSabbatical
+p60
+sg34
+I497
+sa(dp61
+g32
+VBlacksword
+p62
+sg34
+I519
+sa(dp63
+g32
+VBlacksword [2]
+p64
+sg34
+I519
+sa(dp65
+g32
+VBlacksword [3]
+p66
+sg34
+I519
+sa(dp67
+g32
+VOf All Things
+p68
+sg34
+I305
+sa(dp69
+g32
+VFor Your Information: Dead or Alive?
+p70
+sg34
+I339
+sa(dp71
+g32
+VForecast (Galaxy, December 1959)
+p72
+sg34
+I326
+sa(dp73
+g32
+VGalaxy's 5 Star Shelf (Galaxy, December 1959)
+p74
+sg34
+I483
+sa(dp75
+g32
+VProspector's Special
+p76
+sg34
+I23
+sa(dp77
+g32
+VThe Undetected
+p78
+sg34
+I95
+sa(dp79
+g32
+VCharity Case
+p80
+sg34
+I142
+sa(dp81
+g32
+VBlacksword
+p82
+sg34
+I549
+sa(dp83
+g32
+VFlower Arrangement
+p84
+sg34
+I182
+sa(dp85
+g32
+VSales Talk
+p86
+sg34
+I159
+sa(dp87
+g32
+VWar Game
+p88
+sg34
+I8
+sa(dp89
+g32
+VThe Snowmen
 p90
+sg34
+I40
+sa(dp91
+g32
+VSabbatical
+p92
+sg34
+I45
 sasb.

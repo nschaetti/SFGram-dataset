@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I560
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I1083
 aI1085
 aI1086
@@ -27,7 +24,15 @@ aI1089
 aI1091
 aI1092
 aI1093
-asS'name'
+aI1274
+aI1276
+aI1277
+aI1279
+aI1281
+asS'id'
+p10
+I560
+sS'name'
 p11
 VBob Ritter
 p12

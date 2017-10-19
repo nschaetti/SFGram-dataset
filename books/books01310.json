@@ -1,0 +1,84 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine August 1965", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/1965-08_IF/1965-08_IF_jp2.zip&file=1965-08_IF_jp2/1965-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a0/WOFIFAUG1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        578, 
+        581, 
+        545, 
+        40, 
+        67, 
+        654, 
+        1117, 
+        1074, 
+        546, 
+        561, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1310, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Trick or Treaty"
+        }, 
+        {
+            "author": 578, 
+            "title": "We Hunters of Men"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Crater"
+        }, 
+        {
+            "author": 499, 
+            "title": "Patron of the Arts"
+        }, 
+        {
+            "author": 545, 
+            "title": "Skylark Duquesne (Part 3 of 5)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Growing Pains - and Pleasures"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, August 1965)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Trick or Treaty"
+        }, 
+        {
+            "author": 654, 
+            "title": "We Hunters of Men"
+        }, 
+        {
+            "author": 1117, 
+            "title": "The Crater"
+        }, 
+        {
+            "author": 1074, 
+            "title": "Skylark Duquesne (Part 3 of 5)"
+        }, 
+        {
+            "author": 546, 
+            "title": "Against the Odds"
+        }, 
+        {
+            "author": 561, 
+            "title": "Patron of the Arts"
+        }
+    ]
+}

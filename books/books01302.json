@@ -1,0 +1,70 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1964", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/1964-12_IF/1964-12_IF_jp2.zip&file=1964-12_IF_jp2/1964-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/93/WOFIFDEC1964.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        581, 
+        363, 
+        40, 
+        153, 
+        384, 
+        67, 
+        604, 
+        74, 
+        918
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1302, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "When Time Was New"
+        }, 
+        {
+            "author": 581, 
+            "title": "At the Top of the World"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Hounds of Hell (Part 2 of 2)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Old Names and New"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, December 1964)"
+        }, 
+        {
+            "author": 153, 
+            "title": "When Time Was New"
+        }, 
+        {
+            "author": 384, 
+            "title": "At the Top of the World"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Hounds of Hell (Part 2 of 2)"
+        }, 
+        {
+            "author": 604, 
+            "title": "The Coldest Place"
+        }, 
+        {
+            "author": 74, 
+            "title": "Pig in a Pokey"
+        }
+    ]
+}

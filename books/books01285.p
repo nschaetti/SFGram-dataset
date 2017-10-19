@@ -1,0 +1,172 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1962
+sS'title'
+p14
+VIF Magazine May 1962
+p15
+sS'cover'
+p16
+Vhttps://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/1962-05_IF/1962-05_IF_jp2.zip&file=1962-05_IF_jp2/1962-05_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/0/0f/WOFIFMAY1962.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I499
+aI573
+aI556
+aI40
+aI326
+aI341
+aI32
+aI67
+aI569
+aI1077
+aI1078
+aI401
+aI1079
+aI121
+aI142
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1285
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I499
+sg14
+VRetief of the Red-Tape Mountain
+p32
+sa(dp33
+g10
+I573
+sg14
+VDeath and Taxes
+p34
+sa(dp35
+g10
+I556
+sg14
+VThe 64-Square Madhouse
+p36
+sa(dp37
+g10
+I40
+sg14
+VJots and Tittles
+p38
+sa(dp39
+g10
+I326
+sg14
+V... And Besides Those Bombs...
+p40
+sa(dp41
+g10
+I341
+sg14
+VThe Other If
+p42
+sa(dp43
+g10
+I40
+sg14
+VHue and Cry (If, May 1962)
+p44
+sa(dp45
+g10
+I32
+sg14
+VThe 64-Square Madhouse
+p46
+sa(dp47
+g10
+I67
+sg14
+VRetief of the Red-Tape Mountain
+p48
+sa(dp49
+g10
+I569
+sg14
+VThe Spy
+p50
+sa(dp51
+g10
+I1077
+sg14
+VDeath and Taxes
+p52
+sa(dp53
+g10
+I1078
+sg14
+VMisrule
+p54
+sa(dp55
+g10
+I401
+sg14
+VDeadly Game
+p56
+sa(dp57
+g10
+I1079
+sg14
+VThe Hoplite
+p58
+sa(dp59
+g10
+I121
+sg14
+VGramp
+p60
+sa(dp61
+g10
+I142
+sg14
+VThe Expendables
+p62
+sasb.

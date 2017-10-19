@@ -1,0 +1,101 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine August 1955", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/1955-08_IF/1955-08_IF_jp2.zip&file=1955-08_IF_jp2/1955-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4d/WOFIFAUG1955.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        956, 
+        412, 
+        363, 
+        326, 
+        1017, 
+        228, 
+        8, 
+        3, 
+        1018, 
+        144, 
+        1019, 
+        918
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1246, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "Preview of Cover Art for October 1955"
+        }, 
+        {
+            "author": 956, 
+            "title": "Franchise"
+        }, 
+        {
+            "author": 412, 
+            "title": "Birthright"
+        }, 
+        {
+            "author": 363, 
+            "title": "Bleedback"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Mold of Yancy"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Patriot"
+        }, 
+        {
+            "author": 956, 
+            "title": "Ecology On Rollins Island"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, August 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, August 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, August 1955)"
+        }, 
+        {
+            "author": 1017, 
+            "title": "Birthright"
+        }, 
+        {
+            "author": 228, 
+            "title": "Bleedback"
+        }, 
+        {
+            "author": 8, 
+            "title": "The Mold of Yancy"
+        }, 
+        {
+            "author": 3, 
+            "title": "Franchise"
+        }, 
+        {
+            "author": 1018, 
+            "title": "The Ethicators"
+        }, 
+        {
+            "author": 144, 
+            "title": "The Patriot"
+        }, 
+        {
+            "author": 1019, 
+            "title": "Ecology On Rollins Island"
+        }
+    ]
+}

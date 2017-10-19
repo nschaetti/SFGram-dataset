@@ -1,0 +1,85 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1962", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/1962-07_IF/1962-07_IF_jp2.zip&file=1962-07_IF_jp2/1962-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/6e/WOFIFJUL1962.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        556, 
+        551, 
+        1080, 
+        499, 
+        40, 
+        341, 
+        179, 
+        67, 
+        479, 
+        88, 
+        111, 
+        1078, 
+        918
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1286, 
+    "contents": [
+        {
+            "author": 556, 
+            "title": "Aide Memoire"
+        }, 
+        {
+            "author": 551, 
+            "title": "The Chemically Pure Warriors"
+        }, 
+        {
+            "author": 1080, 
+            "title": "The Recruit"
+        }, 
+        {
+            "author": 499, 
+            "title": "All That Earthly Remains"
+        }, 
+        {
+            "author": 40, 
+            "title": "From the Editor's Notebook - Honest!"
+        }, 
+        {
+            "author": 341, 
+            "title": "Uncle Sam's Time Machine"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, July 1962)"
+        }, 
+        {
+            "author": 179, 
+            "title": "The Chemically Pure Warriors"
+        }, 
+        {
+            "author": 67, 
+            "title": "Aide Memoire"
+        }, 
+        {
+            "author": 479, 
+            "title": "From Gustible's Planet"
+        }, 
+        {
+            "author": 88, 
+            "title": "The Recruit"
+        }, 
+        {
+            "author": 111, 
+            "title": "All That Earthly Remains"
+        }, 
+        {
+            "author": 1078, 
+            "title": "A Bad Town for Spacemen"
+        }
+    ]
+}

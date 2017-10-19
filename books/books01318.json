@@ -1,0 +1,80 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1966", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/1966-04_IF/1966-04_IF_jp2.zip&file=1966-04_IF_jp2/1966-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/31/WOFIFAPR1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        581, 
+        499, 
+        545, 
+        40, 
+        1125, 
+        561, 
+        67, 
+        371, 
+        1107, 
+        1109, 
+        1126, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1318, 
+    "contents": [
+        {
+            "author": 581, 
+            "title": "Earthblood"
+        }, 
+        {
+            "author": 499, 
+            "title": "In the Temple of Mars"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Moon Is a Harsh Mistress"
+        }, 
+        {
+            "author": 40, 
+            "title": "Kick Yourself to Mars"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Our Man in Fandom"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, April 1966)"
+        }, 
+        {
+            "author": 561, 
+            "title": "In the Temple of Mars"
+        }, 
+        {
+            "author": 67, 
+            "title": "Earthblood (Part 1 of 4)"
+        }, 
+        {
+            "author": 371, 
+            "title": "The Moon Is a Harsh Mistress (Part 5 of 5)"
+        }, 
+        {
+            "author": 1107, 
+            "title": "Castles in Space"
+        }, 
+        {
+            "author": 1109, 
+            "title": "The Pretend Kind"
+        }, 
+        {
+            "author": 1126, 
+            "title": "To Conquer Earth"
+        }
+    ]
+}

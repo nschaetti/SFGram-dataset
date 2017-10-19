@@ -2,7 +2,8 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1066
+        1066, 
+        1276
     ], 
     "id": 537, 
     "name": "Daniel Keyes"

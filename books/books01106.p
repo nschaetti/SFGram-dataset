@@ -79,195 +79,197 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I581
-sg14
-VCommittee of the Whole
+S'title'
 p32
-sa(dp33
-g10
-I581
-sg14
-VCommittee of the Whole [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VDeath and Birth of the Angakok
-p36
-sa(dp37
-g10
-I499
-sg14
-VDeath and Birth of the Angakok [2]
-p38
-sa(dp39
-g10
-I499
-sg14
-VDeath and Birth of the Angakok [3]
-p40
-sa(dp41
-g10
-I545
-sg14
-VA Wobble in Wockii Futures
-p42
-sa(dp43
-g10
-I545
-sg14
-VA Wobble in Wockii Futures [2]
-p44
-sa(dp45
-g10
-I545
-sg14
-VA Wobble in Wockii Futures [3]
-p46
-sa(dp47
-g10
-I499
-sg14
-VThe Decision Makers
-p48
-sa(dp49
-g10
-I499
-sg14
-VThe Decision Makers [2]
-p50
-sa(dp51
-g10
-I545
-sg14
-VWar Against the Yukks
-p52
-sa(dp53
-g10
-I545
-sg14
-VWar Against the Yukks [2]
-p54
-sa(dp55
-g10
-I545
-sg14
-VWar Against the Yukks [3]
-p56
-sa(dp57
-g10
-I545
-sg14
-VWar Against the Yukks [4]
-p58
-sa(dp59
-g10
-I545
-sg14
-VWar Against the Yukks [5]
-p60
-sa(dp61
-g10
-I40
-sg14
-VHere Are the Stars
-p62
-sa(dp63
-g10
-I339
-sg14
-VFor Your Information: Symbolically Speaking
-p64
-sa(dp65
-g10
-I326
-sg14
-VForecast (Galaxy, April 1965)
-p66
-sa(dp67
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, April 1965)
-p68
-sa(dp69
-g10
-I598
-sg14
-VReview of the Nonfiction Work "Alone Through the Dark Sea"
-p70
-sa(dp71
-g10
-I599
-sg14
-VReview of the Nonfiction Work "Star Names: Their Lore and Meaning"
-p72
-sa(dp73
-g10
-I600
-sg14
-VReview of the Nonfiction Work "the Binary Stars"
-p74
-sa(dp75
-g10
-I601
-sg14
-VReview of the Nonfiction Work "the Friendly Stars"
-p76
-sa(dp77
-g10
-I602
-sg14
-VDeath and Birth of the Angakok
-p78
-sa(dp79
-g10
-I315
-sg14
-VA Wobble in Wockii Futures
-p80
-sa(dp81
-g10
-I603
-sg14
-VThe Decision Makers
-p82
-sa(dp83
-g10
-I67
-sg14
-VWar Against the Yukks
-p84
-sa(dp85
-g10
-I63
-sg14
 VCommittee of the Whole
+p33
+sS'author'
+p34
+I581
+sa(dp35
+g32
+VCommittee of the Whole [2]
+p36
+sg34
+I581
+sa(dp37
+g32
+VDeath and Birth of the Angakok
+p38
+sg34
+I499
+sa(dp39
+g32
+VDeath and Birth of the Angakok [2]
+p40
+sg34
+I499
+sa(dp41
+g32
+VDeath and Birth of the Angakok [3]
+p42
+sg34
+I499
+sa(dp43
+g32
+VA Wobble in Wockii Futures
+p44
+sg34
+I545
+sa(dp45
+g32
+VA Wobble in Wockii Futures [2]
+p46
+sg34
+I545
+sa(dp47
+g32
+VA Wobble in Wockii Futures [3]
+p48
+sg34
+I545
+sa(dp49
+g32
+VThe Decision Makers
+p50
+sg34
+I499
+sa(dp51
+g32
+VThe Decision Makers [2]
+p52
+sg34
+I499
+sa(dp53
+g32
+VWar Against the Yukks
+p54
+sg34
+I545
+sa(dp55
+g32
+VWar Against the Yukks [2]
+p56
+sg34
+I545
+sa(dp57
+g32
+VWar Against the Yukks [3]
+p58
+sg34
+I545
+sa(dp59
+g32
+VWar Against the Yukks [4]
+p60
+sg34
+I545
+sa(dp61
+g32
+VWar Against the Yukks [5]
+p62
+sg34
+I545
+sa(dp63
+g32
+VHere Are the Stars
+p64
+sg34
+I40
+sa(dp65
+g32
+VFor Your Information: Symbolically Speaking
+p66
+sg34
+I339
+sa(dp67
+g32
+VForecast (Galaxy, April 1965)
+p68
+sg34
+I326
+sa(dp69
+g32
+VGalaxy Bookshelf (Galaxy, April 1965)
+p70
+sg34
+I91
+sa(dp71
+g32
+VReview of the Nonfiction Work "Alone Through the Dark Sea"
+p72
+sg34
+I598
+sa(dp73
+g32
+VReview of the Nonfiction Work "Star Names: Their Lore and Meaning"
+p74
+sg34
+I599
+sa(dp75
+g32
+VReview of the Nonfiction Work "the Binary Stars"
+p76
+sg34
+I600
+sa(dp77
+g32
+VReview of the Nonfiction Work "the Friendly Stars"
+p78
+sg34
+I601
+sa(dp79
+g32
+VDeath and Birth of the Angakok
+p80
+sg34
+I602
+sa(dp81
+g32
+VA Wobble in Wockii Futures
+p82
+sg34
+I315
+sa(dp83
+g32
+VThe Decision Makers
+p84
+sg34
+I603
+sa(dp85
+g32
+VWar Against the Yukks
 p86
+sg34
+I67
 sa(dp87
-g10
-I604
-sg14
-VWrong-Way Street
+g32
+VCommittee of the Whole
 p88
+sg34
+I63
 sa(dp89
-g10
-I546
-sg14
-VWasted On the Young
+g32
+VWrong-Way Street
 p90
+sg34
+I604
 sa(dp91
-g10
-I74
-sg14
-VSlow Tuesday Night
+g32
+VWasted On the Young
 p92
+sg34
+I546
 sa(dp93
-g10
-I111
-sg14
-VSculptor
+g32
+VSlow Tuesday Night
 p94
+sg34
+I74
+sa(dp95
+g32
+VSculptor
+p96
+sg34
+I111
 sasb.

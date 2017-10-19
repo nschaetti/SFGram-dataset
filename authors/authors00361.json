@@ -2,7 +2,9 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        980
+        980, 
+        1226, 
+        1245
     ], 
     "id": 361, 
     "name": "Walt Sheldon"

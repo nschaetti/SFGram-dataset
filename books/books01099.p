@@ -72,105 +72,107 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I497
-sg14
-VGrandmother Earth
+S'title'
 p32
-sa(dp33
-g10
-I497
-sg14
-VGrandmother Earth [2]
-p34
-sa(dp35
-g10
-I578
-sg14
-VShamar's War
-p36
-sa(dp37
-g10
-I578
-sg14
-VShamar's War [2]
-p38
-sa(dp39
-g10
-I545
-sg14
-VOh, to Be a Blobel!
-p40
-sa(dp41
-g10
-I363
-sg14
-VThe Star King (Part 2 of 2)
-p42
-sa(dp43
-g10
-I363
-sg14
-VThe Star King (Part 2 of 2) [2]
-p44
-sa(dp45
-g10
-I363
-sg14
-VThe Star King (Part 2 of 2) [3]
-p46
-sa(dp47
-g10
-I40
-sg14
-VThe Paper Tiger
-p48
-sa(dp49
-g10
-I339
-sg14
-VFor Your Information: The Early Days of the Metric System
-p50
-sa(dp51
-g10
-I326
-sg14
-VForecast (Galaxy, February 1964)
-p52
-sa(dp53
-g10
-I384
-sg14
 VGrandmother Earth
-p54
-sa(dp55
-g10
-I194
-sg14
+p33
+sS'author'
+p34
+I497
+sa(dp35
+g32
+VGrandmother Earth [2]
+p36
+sg34
+I497
+sa(dp37
+g32
 VShamar's War
-p56
-sa(dp57
-g10
-I8
-sg14
+p38
+sg34
+I578
+sa(dp39
+g32
+VShamar's War [2]
+p40
+sg34
+I578
+sa(dp41
+g32
 VOh, to Be a Blobel!
-p58
-sa(dp59
-g10
-I89
-sg14
+p42
+sg34
+I545
+sa(dp43
+g32
 VThe Star King (Part 2 of 2)
+p44
+sg34
+I363
+sa(dp45
+g32
+VThe Star King (Part 2 of 2) [2]
+p46
+sg34
+I363
+sa(dp47
+g32
+VThe Star King (Part 2 of 2) [3]
+p48
+sg34
+I363
+sa(dp49
+g32
+VThe Paper Tiger
+p50
+sg34
+I40
+sa(dp51
+g32
+VFor Your Information: The Early Days of the Metric System
+p52
+sg34
+I339
+sa(dp53
+g32
+VForecast (Galaxy, February 1964)
+p54
+sg34
+I326
+sa(dp55
+g32
+VGrandmother Earth
+p56
+sg34
+I384
+sa(dp57
+g32
+VShamar's War
+p58
+sg34
+I194
+sa(dp59
+g32
+VOh, to Be a Blobel!
 p60
+sg34
+I8
 sa(dp61
-g10
-I67
-sg14
-VA Bad Day for Vermin
+g32
+VThe Star King (Part 2 of 2)
 p62
+sg34
+I89
 sa(dp63
-g10
-I205
-sg14
-VThe Awakening
+g32
+VA Bad Day for Vermin
 p64
+sg34
+I67
+sa(dp65
+g32
+VThe Awakening
+p66
+sg34
+I205
 sasb.

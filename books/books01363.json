@@ -1,0 +1,145 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1970", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/1970-03_IF_modified/1970-03_IF_modified_jp2.zip&file=1970-03_IF_modified_jp2/1970-03_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b7/WOFIFMAR1970.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        30, 
+        56, 
+        63, 
+        665, 
+        1198, 
+        1199, 
+        1200, 
+        662, 
+        1109, 
+        996, 
+        918
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1363, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Sos"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sos [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sos [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Telemart 3"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Thing in the Stone"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Thing in the Stone [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Thing in the Stone [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Ethics of Trade"
+        }, 
+        {
+            "author": 326, 
+            "title": "In the Silent World"
+        }, 
+        {
+            "author": 499, 
+            "title": "Traps"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whipping Star (Part 3 of 4)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whipping Star (Part 3 of 4) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whipping Star (Part 3 of 4) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Time Judge"
+        }, 
+        {
+            "author": 326, 
+            "title": "Love Thy Neighbor"
+        }, 
+        {
+            "author": 499, 
+            "title": "All Brothers Are Men"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, March 1970)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, March 1970)"
+        }, 
+        {
+            "author": 30, 
+            "title": "SOS"
+        }, 
+        {
+            "author": 56, 
+            "title": "The Thing in the Stone"
+        }, 
+        {
+            "author": 63, 
+            "title": "Whipping Star (Part 3 of 4)"
+        }, 
+        {
+            "author": 665, 
+            "title": "Telemart 3"
+        }, 
+        {
+            "author": 1198, 
+            "title": "The Ethics of Trade"
+        }, 
+        {
+            "author": 1199, 
+            "title": "In the Silent World"
+        }, 
+        {
+            "author": 1200, 
+            "title": "Traps"
+        }, 
+        {
+            "author": 662, 
+            "title": "The Time Judge"
+        }, 
+        {
+            "author": 1109, 
+            "title": "Love Thy Neighbor"
+        }, 
+        {
+            "author": 996, 
+            "title": "All Brothers Are Men"
+        }
+    ]
+}

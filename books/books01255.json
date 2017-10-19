@@ -1,0 +1,114 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1957", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/10/items/1957-02_IF/1957-02_IF_jp2.zip&file=1957-02_IF_jp2/1957-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/48/WOFIFFEB1957.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        497, 
+        956, 
+        948, 
+        441, 
+        326, 
+        1008, 
+        422, 
+        144, 
+        542, 
+        88, 
+        498, 
+        1031, 
+        918
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1255, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Abbr."
+        }, 
+        {
+            "author": 497, 
+            "title": "Nor Dust Corrupt"
+        }, 
+        {
+            "author": 956, 
+            "title": "Ultimate Melody"
+        }, 
+        {
+            "author": 363, 
+            "title": "War Game"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Floater"
+        }, 
+        {
+            "author": 956, 
+            "title": "Cronus of the D.F.C."
+        }, 
+        {
+            "author": 363, 
+            "title": "The Rumble and the Roar"
+        }, 
+        {
+            "author": 948, 
+            "title": "Editors Report (If, February 1957)"
+        }, 
+        {
+            "author": 441, 
+            "title": "Prognosis for Tomorrow"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, February 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, February 1957)"
+        }, 
+        {
+            "author": 948, 
+            "title": "Hue and Cry (If, February 1957)"
+        }, 
+        {
+            "author": 1008, 
+            "title": "Abbr."
+        }, 
+        {
+            "author": 422, 
+            "title": "Nor Dust Corrupt"
+        }, 
+        {
+            "author": 144, 
+            "title": "The Old Goat"
+        }, 
+        {
+            "author": 542, 
+            "title": "Ultimate Melody"
+        }, 
+        {
+            "author": 88, 
+            "title": "War Game"
+        }, 
+        {
+            "author": 88, 
+            "title": "The Floater"
+        }, 
+        {
+            "author": 498, 
+            "title": "Cronus of the D.F.C."
+        }, 
+        {
+            "author": 1031, 
+            "title": "The Rumble and the Roar"
+        }
+    ]
+}

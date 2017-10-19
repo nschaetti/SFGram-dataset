@@ -1,0 +1,125 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1952", 
+    "cover": "https://ia801304.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/1952-03_IF/1952-03_IF_jp2.zip&file=1952-03_IF_jp2/1952-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/data/images/i/if_195203.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        221, 
+        919, 
+        920, 
+        921, 
+        235, 
+        922, 
+        389, 
+        365, 
+        923, 
+        341, 
+        208, 
+        918
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 1218, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Twelve Times Zero"
+        }, 
+        {
+            "author": 326, 
+            "title": "Twelve Times Zero [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Twelve Times Zero [3]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Bitter Victory"
+        }, 
+        {
+            "author": 326, 
+            "title": "Black Eyes and the Daily Grind"
+        }, 
+        {
+            "author": 326, 
+            "title": "Of Stegner's Folly"
+        }, 
+        {
+            "author": 326, 
+            "title": "Never Underestimate ..."
+        }, 
+        {
+            "author": 326, 
+            "title": "The Hell Ship"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Old Martians"
+        }, 
+        {
+            "author": 221, 
+            "title": "A Chat with the Editor ... (If, March 1952)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Personalities in Science Fiction: Bob Tucker"
+        }, 
+        {
+            "author": 919, 
+            "title": "Guest Editorial"
+        }, 
+        {
+            "author": 326, 
+            "title": "Citation: Tales of Tomorrow"
+        }, 
+        {
+            "author": 920, 
+            "title": "Science Briefs (If, March 1952)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh ... (If, March 1952)"
+        }, 
+        {
+            "author": 921, 
+            "title": "The Hell Ship"
+        }, 
+        {
+            "author": 235, 
+            "title": "Twelve Times Zero"
+        }, 
+        {
+            "author": 922, 
+            "title": "The Stowaway"
+        }, 
+        {
+            "author": 389, 
+            "title": "Bitter Victory"
+        }, 
+        {
+            "author": 365, 
+            "title": "Black Eyes and the Daily Grind"
+        }, 
+        {
+            "author": 923, 
+            "title": "Of Stegner's Folly"
+        }, 
+        {
+            "author": 341, 
+            "title": "Never Underestimate ..."
+        }, 
+        {
+            "author": 208, 
+            "title": "The Old Martians"
+        }
+    ]
+}

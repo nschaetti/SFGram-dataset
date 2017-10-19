@@ -1,0 +1,85 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1968", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/1968-04_IF/1968-04_IF_jp2.zip&file=1968-04_IF_jp2/1968-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/04/WOFIFAPR1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        545, 
+        628, 
+        611, 
+        40, 
+        1125, 
+        326, 
+        630, 
+        546, 
+        50, 
+        604, 
+        1163, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1342, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Man in the Maze (Part 1 of 2)"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Rim Gods"
+        }, 
+        {
+            "author": 628, 
+            "title": "The Product of the Masses"
+        }, 
+        {
+            "author": 611, 
+            "title": "Slowboat Cargo (Part 3 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "For a Festival of Science Fiction"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Meanwhile, Back at the Worldcon ...."
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, April 1968)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, April 1968)"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Rim Gods"
+        }, 
+        {
+            "author": 546, 
+            "title": "The Product of the Masses"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Man in the Maze (Part 1 of 2)"
+        }, 
+        {
+            "author": 604, 
+            "title": "Slowboat Cargo (Part 3 of 3)"
+        }, 
+        {
+            "author": 1163, 
+            "title": "The Edward Salant Letters"
+        }
+    ]
+}

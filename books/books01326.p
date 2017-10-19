@@ -1,0 +1,165 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1966
+sS'title'
+p14
+VIF Magazine December 1966
+p15
+sS'cover'
+p16
+Vhttps://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/1966-12_IF/1966-12_IF_jp2.zip&file=1966-12_IF_jp2/1966-12_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/1/14/WOFIFDEC1966.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I545
+aI611
+aI556
+aI497
+aI499
+aI40
+aI1125
+aI91
+aI558
+aI604
+aI665
+aI384
+aI1137
+aI549
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1326
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I545
+sg14
+VBe Merry
+p32
+sa(dp33
+g10
+I611
+sg14
+VStarpath
+p34
+sa(dp35
+g10
+I556
+sg14
+VA Relic of the Empire
+p36
+sa(dp37
+g10
+I497
+sg14
+VCall Me Dumbo
+p38
+sa(dp39
+g10
+I499
+sg14
+VSnow White and the Giants (Part 3 of 4)
+p40
+sa(dp41
+g10
+I40
+sg14
+VOn Hugos
+p42
+sa(dp43
+g10
+I1125
+sg14
+VThe "Other" Fandoms
+p44
+sa(dp45
+g10
+I40
+sg14
+VHue and Cry (If, December 1966)
+p46
+sa(dp47
+g10
+I91
+sg14
+VBe Merry
+p48
+sa(dp49
+g10
+I558
+sg14
+VStarpath
+p50
+sa(dp51
+g10
+I604
+sg14
+VA Relic of the Empire
+p52
+sa(dp53
+g10
+I665
+sg14
+VCall Me Dumbo
+p54
+sa(dp55
+g10
+I384
+sg14
+VSnow White and the Giants (Part 3 of 4)
+p56
+sa(dp57
+g10
+I1137
+sg14
+VThe Thousandth Birthday Party
+p58
+sa(dp59
+g10
+I549
+sg14
+VThe Forgotten Gods of Earth
+p60
+sasb.

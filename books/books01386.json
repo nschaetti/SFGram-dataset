@@ -1,0 +1,91 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1973", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/1973-12_IF/1973-12_IF_jp2.zip&file=1973-12_IF_jp2/1973-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d2/WOFIFNOVDEC1973.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        356, 
+        667, 
+        1230, 
+        735, 
+        679, 
+        225, 
+        1231, 
+        613, 
+        918
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1386, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Price of Honor"
+        }, 
+        {
+            "author": 499, 
+            "title": "How to Blow Up an Asteroid"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dingbat"
+        }, 
+        {
+            "author": 326, 
+            "title": "Man of Many Parts"
+        }, 
+        {
+            "author": 499, 
+            "title": "Velvet Fields"
+        }, 
+        {
+            "author": 326, 
+            "title": "Inheritance (Part 2 of 2)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, November-December 1973)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, November-December 1973)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, November-December 1973)"
+        }, 
+        {
+            "author": 1230, 
+            "title": "Price of Honor"
+        }, 
+        {
+            "author": 735, 
+            "title": "Inheritance (Part 2 of 2)"
+        }, 
+        {
+            "author": 679, 
+            "title": "How to Blow Up an Asteroid"
+        }, 
+        {
+            "author": 225, 
+            "title": "Dingbat"
+        }, 
+        {
+            "author": 1231, 
+            "title": "Man of Many Parts"
+        }, 
+        {
+            "author": 613, 
+            "title": "Velvet Fields"
+        }
+    ]
+}

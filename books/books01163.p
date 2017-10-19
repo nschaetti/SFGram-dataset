@@ -68,93 +68,95 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VThe Doomsday Gene (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VParthen
-p34
-sa(dp35
-g10
-I499
-sg14
-VOn the Account
-p36
-sa(dp37
-g10
-I326
-sg14
-VIn This Dark Sky
-p38
-sa(dp39
-g10
-I499
-sg14
-VGirl Saturday
-p40
-sa(dp41
-g10
-I499
-sg14
-VFuture Forbidden
-p42
-sa(dp43
-g10
-I326
-sg14
-VDirections (Galaxy, May-June 1973)
-p44
-sa(dp45
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, May-June 1973)
-p46
-sa(dp47
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, May-June 1973)
-p48
-sa(dp49
-g10
-I630
-sg14
-VOn the Account
-p50
-sa(dp51
-g10
-I153
-sg14
-VGirl Saturday
-p52
-sa(dp53
-g10
-I713
-sg14
 VThe Doomsday Gene (Part 1 of 2)
-p54
-sa(dp55
-g10
-I74
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VParthen
-p56
-sa(dp57
-g10
-I716
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
+VOn the Account
+p38
+sg34
+I499
+sa(dp39
+g32
 VIn This Dark Sky
-p58
-sa(dp59
-g10
-I605
-sg14
+p40
+sg34
+I326
+sa(dp41
+g32
+VGirl Saturday
+p42
+sg34
+I499
+sa(dp43
+g32
 VFuture Forbidden
+p44
+sg34
+I499
+sa(dp45
+g32
+VDirections (Galaxy, May-June 1973)
+p46
+sg34
+I326
+sa(dp47
+g32
+VGalaxy Stars (Galaxy, May-June 1973)
+p48
+sg34
+I326
+sa(dp49
+g32
+VGalaxy Bookshelf (Galaxy, May-June 1973)
+p50
+sg34
+I341
+sa(dp51
+g32
+VOn the Account
+p52
+sg34
+I630
+sa(dp53
+g32
+VGirl Saturday
+p54
+sg34
+I153
+sa(dp55
+g32
+VThe Doomsday Gene (Part 1 of 2)
+p56
+sg34
+I713
+sa(dp57
+g32
+VParthen
+p58
+sg34
+I74
+sa(dp59
+g32
+VIn This Dark Sky
 p60
+sg34
+I716
+sa(dp61
+g32
+VFuture Forbidden
+p62
+sg34
+I605
 sasb.

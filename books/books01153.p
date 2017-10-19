@@ -68,69 +68,71 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VThe Edge and the Mist
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VWhy Johnny Can't Speed
-p34
-sa(dp35
-g10
-I499
-sg14
-VThe Moon Children (Part 2 of 3)
-p36
-sa(dp37
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, September-October 1971)
-p38
-sa(dp39
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, September-October 1971)
-p40
-sa(dp41
-g10
-I696
-sg14
 VThe Edge and the Mist
-p42
-sa(dp43
-g10
-I341
-sg14
-VDazed
-p44
-sa(dp45
-g10
-I630
-sg14
-VSister Ships
-p46
-sa(dp47
-g10
-I679
-sg14
-VGalilean Problem
-p48
-sa(dp49
-g10
-I86
-sg14
-VThe Moon Children (Part 2 of 3)
-p50
-sa(dp51
-g10
-I698
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
 VWhy Johnny Can't Speed
+p36
+sg34
+I326
+sa(dp37
+g32
+VThe Moon Children (Part 2 of 3)
+p38
+sg34
+I499
+sa(dp39
+g32
+VGalaxy Stars (Galaxy, September-October 1971)
+p40
+sg34
+I326
+sa(dp41
+g32
+VGalaxy Bookshelf (Galaxy, September-October 1971)
+p42
+sg34
+I91
+sa(dp43
+g32
+VThe Edge and the Mist
+p44
+sg34
+I696
+sa(dp45
+g32
+VDazed
+p46
+sg34
+I341
+sa(dp47
+g32
+VSister Ships
+p48
+sg34
+I630
+sa(dp49
+g32
+VGalilean Problem
+p50
+sg34
+I679
+sa(dp51
+g32
+VThe Moon Children (Part 2 of 3)
 p52
+sg34
+I86
+sa(dp53
+g32
+VWhy Johnny Can't Speed
+p54
+sg34
+I698
 sasb.

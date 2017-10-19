@@ -1,0 +1,85 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine August 1966", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/1966-08_IF/1966-08_IF_jp2.zip&file=1966-08_IF_jp2/1966-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/a/a2/WOFIFAUG1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        612, 
+        497, 
+        545, 
+        499, 
+        40, 
+        1125, 
+        614, 
+        135, 
+        55, 
+        70, 
+        1130, 
+        678, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1322, 
+    "contents": [
+        {
+            "author": 612, 
+            "title": "The Foundling Stars"
+        }, 
+        {
+            "author": 497, 
+            "title": "Peace Corps"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Hour Before Earthrise (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Junk Man Cometh"
+        }, 
+        {
+            "author": 40, 
+            "title": "Ah, Mars That Might Have Been"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Conventions Galore"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, August 1966)"
+        }, 
+        {
+            "author": 614, 
+            "title": "The Junk Man Cometh"
+        }, 
+        {
+            "author": 135, 
+            "title": "Peace Corps"
+        }, 
+        {
+            "author": 55, 
+            "title": "The Hour Before Earthrise (Part 2 of 3)"
+        }, 
+        {
+            "author": 70, 
+            "title": "The Foundling Stars"
+        }, 
+        {
+            "author": 1130, 
+            "title": "Slot Machine"
+        }, 
+        {
+            "author": 678, 
+            "title": "He Looked Back"
+        }
+    ]
+}

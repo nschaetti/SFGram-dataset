@@ -72,129 +72,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VSyncope and Fugue
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VSyncope and Fugue [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VEyes I Dare Not Meet in Dreams
-p36
-sa(dp37
-g10
-I780
-sg14
-VTinker
-p38
-sa(dp39
-g10
-I742
-sg14
-VThe Thinker of Thryllmynrein
-p40
-sa(dp41
-g10
-I499
-sg14
-VHelium (Part 3 of 3)
-p42
-sa(dp43
-g10
-I499
-sg14
-VHelium (Part 3 of 3) [2]
-p44
-sa(dp45
-g10
-I499
-sg14
-VHelium (Part 3 of 3) [3]
-p46
-sa(dp47
-g10
-I744
-sg14
-VMagma Wave
-p48
-sa(dp49
-g10
-I499
-sg14
-VShowcase: Merlin and the Dragon
-p50
-sa(dp51
-g10
-I326
-sg14
-VS. F. Calendar (Galaxy, July 1975)
-p52
-sa(dp53
-g10
-I591
-sg14
-VForum: Some Science Fiction Parameters: A Biased View
-p54
-sa(dp55
-g10
-I734
-sg14
-VLife Among the Asteroids
-p56
-sa(dp57
-g10
-I604
-sg14
-VGalaxy Stars: J. E. Pournelle
-p58
-sa(dp59
-g10
-I326
-sg14
-VDirections (Galaxy, July 1975)
-p60
-sa(dp61
-g10
-I734
-sg14
-VTinker
-p62
-sa(dp63
-g10
-I781
-sg14
-VThe Thinker of Thryllmynrein
-p64
-sa(dp65
-g10
-I748
-sg14
-VHelium (Part 3 of 3)
-p66
-sa(dp67
-g10
-I23
-sg14
 VSyncope and Fugue
-p68
-sa(dp69
-g10
-I782
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VSyncope and Fugue [2]
+p36
+sg34
+I499
+sa(dp37
+g32
 VEyes I Dare Not Meet in Dreams
-p70
-sa(dp71
-g10
-I783
-sg14
+p38
+sg34
+I499
+sa(dp39
+g32
+VTinker
+p40
+sg34
+I780
+sa(dp41
+g32
+VThe Thinker of Thryllmynrein
+p42
+sg34
+I742
+sa(dp43
+g32
+VHelium (Part 3 of 3)
+p44
+sg34
+I499
+sa(dp45
+g32
+VHelium (Part 3 of 3) [2]
+p46
+sg34
+I499
+sa(dp47
+g32
+VHelium (Part 3 of 3) [3]
+p48
+sg34
+I499
+sa(dp49
+g32
 VMagma Wave
+p50
+sg34
+I744
+sa(dp51
+g32
+VShowcase: Merlin and the Dragon
+p52
+sg34
+I499
+sa(dp53
+g32
+VS. F. Calendar (Galaxy, July 1975)
+p54
+sg34
+I326
+sa(dp55
+g32
+VForum: Some Science Fiction Parameters: A Biased View
+p56
+sg34
+I591
+sa(dp57
+g32
+VLife Among the Asteroids
+p58
+sg34
+I734
+sa(dp59
+g32
+VGalaxy Stars: J. E. Pournelle
+p60
+sg34
+I604
+sa(dp61
+g32
+VDirections (Galaxy, July 1975)
+p62
+sg34
+I326
+sa(dp63
+g32
+VTinker
+p64
+sg34
+I734
+sa(dp65
+g32
+VThe Thinker of Thryllmynrein
+p66
+sg34
+I781
+sa(dp67
+g32
+VHelium (Part 3 of 3)
+p68
+sg34
+I748
+sa(dp69
+g32
+VSyncope and Fugue
+p70
+sg34
+I23
+sa(dp71
+g32
+VEyes I Dare Not Meet in Dreams
 p72
+sg34
+I782
+sa(dp73
+g32
+VMagma Wave
+p74
+sg34
+I783
 sasb.

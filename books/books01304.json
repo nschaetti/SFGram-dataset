@@ -1,0 +1,80 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1965", 
+    "cover": "https://ia600200.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/1965-02_IF/1965-02_IF_jp2.zip&file=1965-02_IF_jp2/1965-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/de/WOFIFFEB1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        581, 
+        40, 
+        658, 
+        1109, 
+        111, 
+        86, 
+        225, 
+        996, 
+        1110, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1304, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Replicators"
+        }, 
+        {
+            "author": 499, 
+            "title": "Small One"
+        }, 
+        {
+            "author": 581, 
+            "title": "Gree's Commandos"
+        }, 
+        {
+            "author": 545, 
+            "title": "Starchild (Part 2 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Science Fiction in Academe"
+        }, 
+        {
+            "author": 658, 
+            "title": "The Replicators"
+        }, 
+        {
+            "author": 1109, 
+            "title": "Small One"
+        }, 
+        {
+            "author": 111, 
+            "title": "Gree's Commandos"
+        }, 
+        {
+            "author": 86, 
+            "title": "Starchild (Part 2 of 3)"
+        }, 
+        {
+            "author": 225, 
+            "title": "Reporter at Large"
+        }, 
+        {
+            "author": 996, 
+            "title": "Blind Alley"
+        }, 
+        {
+            "author": 1110, 
+            "title": "Zombie"
+        }
+    ]
+}

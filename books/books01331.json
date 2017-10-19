@@ -1,0 +1,126 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1967", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/1967-05_IF/1967-05_IF_jp2.zip&file=1967-05_IF_jp2/1967-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4f/WOFIFMAY1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        593, 
+        499, 
+        615, 
+        497, 
+        545, 
+        40, 
+        1125, 
+        621, 
+        1147, 
+        623, 
+        67, 
+        630, 
+        629, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1331, 
+    "contents": [
+        {
+            "author": 593, 
+            "title": "Spaceman! (Part 1 of 3)"
+        }, 
+        {
+            "author": 593, 
+            "title": "Spaceman! (Part 1 of 3) [2]"
+        }, 
+        {
+            "author": 593, 
+            "title": "Spaceman! (Part 1 of 3) [3]"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Robots Are Here"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Robots Are Here [2]"
+        }, 
+        {
+            "author": 615, 
+            "title": "The Youth Addicts"
+        }, 
+        {
+            "author": 615, 
+            "title": "The Youth Addicts [2]"
+        }, 
+        {
+            "author": 615, 
+            "title": "The Youth Addicts [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Long, Slow Orbits"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Long, Slow Orbits [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Long, Slow Orbits [3]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Road to the Rim (Part 2 of 2)"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Road to the Rim (Part 2 of 2) [2]"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Road to the Rim (Part 2 of 2) [3]"
+        }, 
+        {
+            "author": 40, 
+            "title": "Too Many Inputs"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Sf Superclubs"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, May 1967)"
+        }, 
+        {
+            "author": 621, 
+            "title": "The Robots Are Here"
+        }, 
+        {
+            "author": 1147, 
+            "title": "The Youth Addicts"
+        }, 
+        {
+            "author": 623, 
+            "title": "The Long, Slow Orbits"
+        }, 
+        {
+            "author": 67, 
+            "title": "Spaceman! (Part 1 of 3)"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Road to the Rim (Part 2 of 2)"
+        }, 
+        {
+            "author": 629, 
+            "title": "The Hole"
+        }
+    ]
+}

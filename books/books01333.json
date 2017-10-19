@@ -1,0 +1,102 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1967", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/1967-07_IF/1967-07_IF_jp2.zip&file=1967-07_IF_jp2/1967-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/35/WOFIFJUL1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        615, 
+        497, 
+        593, 
+        40, 
+        1125, 
+        549, 
+        111, 
+        1150, 
+        345, 
+        42, 
+        67, 
+        1151, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1333, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Felled Star"
+        }, 
+        {
+            "author": 615, 
+            "title": "Population Implosion"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Ticket to Zenner"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Ticket to Zenner [2]"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Ticket to Zenner [3]"
+        }, 
+        {
+            "author": 497, 
+            "title": "Adam's Eva"
+        }, 
+        {
+            "author": 593, 
+            "title": "Spaceman! (Part 3 of 3)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Wiped Out"
+        }, 
+        {
+            "author": 1125, 
+            "title": "The Purpose of Fandom"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, July 1967)"
+        }, 
+        {
+            "author": 549, 
+            "title": "Population Implosion"
+        }, 
+        {
+            "author": 111, 
+            "title": "A Ticket to Zenner"
+        }, 
+        {
+            "author": 1150, 
+            "title": "Adam's Eva"
+        }, 
+        {
+            "author": 345, 
+            "title": "The Tusk"
+        }, 
+        {
+            "author": 42, 
+            "title": "The Felled Star (Part 1 of 2)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Spaceman! (Part 3 of 3)"
+        }, 
+        {
+            "author": 1151, 
+            "title": "Pelandra's Husbands"
+        }
+    ]
+}

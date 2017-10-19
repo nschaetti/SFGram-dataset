@@ -71,135 +71,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I342
-sg14
-VThe Wind Between the Worlds
+S'title'
 p32
-sa(dp33
-g10
-I342
-sg14
-VThe Wind Between the Worlds [2]
-p34
-sa(dp35
-g10
-I342
-sg14
-VThe Wind Between the Worlds [3]
-p36
-sa(dp37
-g10
-I357
-sg14
-VThe Other Now
-p38
-sa(dp39
-g10
-I342
-sg14
-VGood Night, Mr. James
-p40
-sa(dp41
-g10
-I342
-sg14
-VGood Night, Mr. James [2]
-p42
-sa(dp43
-g10
-I342
-sg14
-VGood Night, Mr. James [3]
-p44
-sa(dp45
-g10
-I358
-sg14
-VSocrates
-p46
-sa(dp47
-g10
-I358
-sg14
-VSocrates [2]
-p48
-sa(dp49
-g10
-I348
-sg14
-VTyrann (Part 3 of 3)
-p50
-sa(dp51
-g10
-I348
-sg14
-VTyrann (Part 3 of 3) [2]
-p52
-sa(dp53
-g10
-I348
-sg14
-VTyrann (Part 3 of 3) [3]
-p54
-sa(dp55
-g10
-I348
-sg14
-VTyrann (Part 3 of 3) [4]
-p56
-sa(dp57
-g10
-I348
-sg14
-VTyrann (Part 3 of 3) [5]
-p58
-sa(dp59
-g10
-I305
-sg14
-VConsensus
-p60
-sa(dp61
-g10
-I339
-sg14
-VMissiles Over the Sea
-p62
-sa(dp63
-g10
-I326
-sg14
-VNext Month's Contents Page (Galaxy, March 1951)
-p64
-sa(dp65
-g10
-I356
-sg14
 VThe Wind Between the Worlds
-p66
-sa(dp67
-g10
-I56
-sg14
-VGood Night, Mr. James
-p68
-sa(dp69
-g10
-I3
-sg14
-VTyrann (Part 3 of 3)
-p70
-sa(dp71
-g10
-I61
-sg14
+p33
+sS'author'
+p34
+I342
+sa(dp35
+g32
+VThe Wind Between the Worlds [2]
+p36
+sg34
+I342
+sa(dp37
+g32
+VThe Wind Between the Worlds [3]
+p38
+sg34
+I342
+sa(dp39
+g32
 VThe Other Now
-p72
-sa(dp73
-g10
-I359
-sg14
+p40
+sg34
+I357
+sa(dp41
+g32
+VGood Night, Mr. James
+p42
+sg34
+I342
+sa(dp43
+g32
+VGood Night, Mr. James [2]
+p44
+sg34
+I342
+sa(dp45
+g32
+VGood Night, Mr. James [3]
+p46
+sg34
+I342
+sa(dp47
+g32
 VSocrates
+p48
+sg34
+I358
+sa(dp49
+g32
+VSocrates [2]
+p50
+sg34
+I358
+sa(dp51
+g32
+VTyrann (Part 3 of 3)
+p52
+sg34
+I348
+sa(dp53
+g32
+VTyrann (Part 3 of 3) [2]
+p54
+sg34
+I348
+sa(dp55
+g32
+VTyrann (Part 3 of 3) [3]
+p56
+sg34
+I348
+sa(dp57
+g32
+VTyrann (Part 3 of 3) [4]
+p58
+sg34
+I348
+sa(dp59
+g32
+VTyrann (Part 3 of 3) [5]
+p60
+sg34
+I348
+sa(dp61
+g32
+VConsensus
+p62
+sg34
+I305
+sa(dp63
+g32
+VMissiles Over the Sea
+p64
+sg34
+I339
+sa(dp65
+g32
+VNext Month's Contents Page (Galaxy, March 1951)
+p66
+sg34
+I326
+sa(dp67
+g32
+VThe Wind Between the Worlds
+p68
+sg34
+I356
+sa(dp69
+g32
+VGood Night, Mr. James
+p70
+sg34
+I56
+sa(dp71
+g32
+VTyrann (Part 3 of 3)
+p72
+sg34
+I3
+sa(dp73
+g32
+VThe Other Now
 p74
+sg34
+I61
+sa(dp75
+g32
+VSocrates
+p76
+sg34
+I359
 sasb.

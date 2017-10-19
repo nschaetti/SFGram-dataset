@@ -1,0 +1,112 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine October 1954", 
+    "cover": "https://ia800202.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/1954-10_IF/1954-10_IF_jp2.zip&file=1954-10_IF_jp2/1954-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/63/WOFIFOCT1954.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        956, 
+        363, 
+        412, 
+        948, 
+        144, 
+        992, 
+        365, 
+        153, 
+        359, 
+        414, 
+        993, 
+        49, 
+        387, 
+        994, 
+        918
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1237, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Power From the Sun"
+        }, 
+        {
+            "author": 956, 
+            "title": "Escape Velocity"
+        }, 
+        {
+            "author": 363, 
+            "title": "Quickie"
+        }, 
+        {
+            "author": 363, 
+            "title": "Money Is the Root of All Good"
+        }, 
+        {
+            "author": 412, 
+            "title": "A Pattern for Penelope"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Name of This City"
+        }, 
+        {
+            "author": 956, 
+            "title": "Little Boy"
+        }, 
+        {
+            "author": 363, 
+            "title": "Spatial Delivery"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, October 1954)"
+        }, 
+        {
+            "author": 144, 
+            "title": "Escape Velocity"
+        }, 
+        {
+            "author": 992, 
+            "title": "Money Is the Root of All Good"
+        }, 
+        {
+            "author": 365, 
+            "title": "Quickie"
+        }, 
+        {
+            "author": 153, 
+            "title": "A Pattern for Penelope"
+        }, 
+        {
+            "author": 359, 
+            "title": "The Name of This City"
+        }, 
+        {
+            "author": 414, 
+            "title": "Little Boy"
+        }, 
+        {
+            "author": 993, 
+            "title": "Miracle"
+        }, 
+        {
+            "author": 49, 
+            "title": "Spatial Delivery"
+        }, 
+        {
+            "author": 387, 
+            "title": "Unwelcomed Visitor"
+        }, 
+        {
+            "author": 994, 
+            "title": "Peace"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1954", 
+    "cover": "https://ia800209.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/1954-03_IF/1954-03_IF_jp2.zip&file=1954-03_IF_jp2/1954-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/data/images/i/if_195403.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        412, 
+        956, 
+        970, 
+        570, 
+        969, 
+        326, 
+        349, 
+        109, 
+        446, 
+        49, 
+        616, 
+        354, 
+        963, 
+        289, 
+        918
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1230, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "Surface Travel at Jet Speed"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Ambassador"
+        }, 
+        {
+            "author": 412, 
+            "title": "When the Mountain Shook"
+        }, 
+        {
+            "author": 956, 
+            "title": "Act of Passion"
+        }, 
+        {
+            "author": 956, 
+            "title": "Time Fuze"
+        }, 
+        {
+            "author": 970, 
+            "title": "'Mid Pleasures and Palaces"
+        }, 
+        {
+            "author": 570, 
+            "title": "Tab"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Worlds of Joe Shannon"
+        }, 
+        {
+            "author": 969, 
+            "title": "Uniform of a Man"
+        }, 
+        {
+            "author": 951, 
+            "title": "Traffic Control Stations"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Chat with the Editor (If, March 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Personalities in Science: Theodore von Karman"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, March 1954)"
+        }, 
+        {
+            "author": 349, 
+            "title": "The Ambassador"
+        }, 
+        {
+            "author": 109, 
+            "title": "When the Mountain Shook"
+        }, 
+        {
+            "author": 446, 
+            "title": "Act of Passion"
+        }, 
+        {
+            "author": 49, 
+            "title": "Time Fuze"
+        }, 
+        {
+            "author": 616, 
+            "title": "'Mid Pleasures and Palaces"
+        }, 
+        {
+            "author": 354, 
+            "title": "The Worlds of Joe Shannon"
+        }, 
+        {
+            "author": 963, 
+            "title": "Tape Jockey"
+        }, 
+        {
+            "author": 289, 
+            "title": "Uniform of a Man"
+        }
+    ]
+}

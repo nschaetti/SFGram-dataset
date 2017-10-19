@@ -2,7 +2,9 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1126
+        1126, 
+        1308, 
+        1347
     ], 
     "id": 637, 
     "name": "Larry S. Todd"

@@ -1,0 +1,82 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1973", 
+    "cover": "https://ia601308.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/1973-04_IF/1973-04_IF_jp2.zip&file=1973-04_IF_jp2/1973-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/2e/WOFIFMARAPR1973.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        667, 
+        326, 
+        356, 
+        675, 
+        401, 
+        40, 
+        635, 
+        1219, 
+        918
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1382, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Doomship"
+        }, 
+        {
+            "author": 499, 
+            "title": "A Woman and Her Friend"
+        }, 
+        {
+            "author": 499, 
+            "title": "Next Time"
+        }, 
+        {
+            "author": 499, 
+            "title": "Call Me Proteus"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Wizard of Anharitte (Part 3 of 3)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, March-April 1973)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, March-April 1973)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, March-April 1973)"
+        }, 
+        {
+            "author": 675, 
+            "title": "A Woman and Her Friend"
+        }, 
+        {
+            "author": 401, 
+            "title": "Call Me Proteus"
+        }, 
+        {
+            "author": 40, 
+            "title": "Doomship"
+        }, 
+        {
+            "author": 635, 
+            "title": "The Wizard of Anharitte (Part 3 of 3)"
+        }, 
+        {
+            "author": 1219, 
+            "title": "Next Time"
+        }
+    ]
+}

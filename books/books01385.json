@@ -1,0 +1,95 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1973", 
+    "cover": "https://ia601302.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/1973-10_IF/1973-10_IF_jp2.zip&file=1973-10_IF_jp2/1973-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/b/b0/WOFIFSEPOCT1973.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        356, 
+        1185, 
+        735, 
+        1220, 
+        1228, 
+        1229, 
+        651, 
+        478, 
+        918
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1385, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Inheritance (Part 1 of 2)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Hornets of Valora"
+        }, 
+        {
+            "author": 499, 
+            "title": "Sentience"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Learning of Eeshta"
+        }, 
+        {
+            "author": 499, 
+            "title": "Time of the Cetis"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Merchant"
+        }, 
+        {
+            "author": 499, 
+            "title": "Space Bounce"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, September-October 1973)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, September-October 1973)"
+        }, 
+        {
+            "author": 1185, 
+            "title": "The Hornets of Valora"
+        }, 
+        {
+            "author": 735, 
+            "title": "Inheritance (Part 1 of 2)"
+        }, 
+        {
+            "author": 1220, 
+            "title": "Sentience"
+        }, 
+        {
+            "author": 1228, 
+            "title": "The Learning of Eeshta"
+        }, 
+        {
+            "author": 1229, 
+            "title": "Time of the Cetis"
+        }, 
+        {
+            "author": 651, 
+            "title": "The Merchant"
+        }, 
+        {
+            "author": 478, 
+            "title": "Space Bounce"
+        }
+    ]
+}

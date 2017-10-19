@@ -1,0 +1,79 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1965", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/1965-11_IF/1965-11_IF_jp2.zip&file=1965-11_IF_jp2/1965-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/52/WOFIFNOV1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        611, 
+        499, 
+        545, 
+        40, 
+        315, 
+        561, 
+        1120, 
+        67, 
+        69, 
+        1121, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1313, 
+    "contents": [
+        {
+            "author": 611, 
+            "title": "Tiger Green"
+        }, 
+        {
+            "author": 499, 
+            "title": "Masque of the Red Shift"
+        }, 
+        {
+            "author": 499, 
+            "title": "Retief's War (Part 2 of 3)"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Doomsday Men"
+        }, 
+        {
+            "author": 40, 
+            "title": "What You Don't Know About You"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, November 1965)"
+        }, 
+        {
+            "author": 315, 
+            "title": "Tiger Green"
+        }, 
+        {
+            "author": 561, 
+            "title": "Masque of the Red Shift"
+        }, 
+        {
+            "author": 1120, 
+            "title": "The Doomsday Men"
+        }, 
+        {
+            "author": 67, 
+            "title": "Retief's War (Part 2 of 3)"
+        }, 
+        {
+            "author": 69, 
+            "title": "Time of War"
+        }, 
+        {
+            "author": 1121, 
+            "title": "The Lonely Hours"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1963", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/1963-05_IF_modified/1963-05_IF_modified_jp2.zip&file=1963-05_IF_modified_jp2/1963-05_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/90/WOFIFMAY1963.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        578, 
+        497, 
+        489, 
+        1087, 
+        1088, 
+        341, 
+        40, 
+        91, 
+        1089, 
+        70, 
+        1090, 
+        546, 
+        30, 
+        918
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1291, 
+    "contents": [
+        {
+            "author": 578, 
+            "title": "The Green World"
+        }, 
+        {
+            "author": 497, 
+            "title": "Die, Shadow!"
+        }, 
+        {
+            "author": 489, 
+            "title": "Singleminded"
+        }, 
+        {
+            "author": 1087, 
+            "title": "Another Earth"
+        }, 
+        {
+            "author": 1088, 
+            "title": "Turning Point"
+        }, 
+        {
+            "author": 341, 
+            "title": "That There Opposition"
+        }, 
+        {
+            "author": 341, 
+            "title": "Nonpolitical New Frontiers"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, May 1963)"
+        }, 
+        {
+            "author": 91, 
+            "title": "Die, Shadow!"
+        }, 
+        {
+            "author": 1089, 
+            "title": "Another Earth"
+        }, 
+        {
+            "author": 70, 
+            "title": "The Green World"
+        }, 
+        {
+            "author": 1090, 
+            "title": "Rundown"
+        }, 
+        {
+            "author": 546, 
+            "title": "Singleminded"
+        }, 
+        {
+            "author": 30, 
+            "title": "Turning Point"
+        }
+    ]
+}

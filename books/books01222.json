@@ -1,0 +1,101 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1952", 
+    "cover": "https://ia800208.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/1952-11_IF/1952-11_IF_jp2.zip&file=1952-11_IF_jp2/1952-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/85/WOFIFNOV1952.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        944, 
+        931, 
+        424, 
+        221, 
+        605, 
+        945, 
+        122, 
+        575, 
+        946, 
+        94, 
+        947, 
+        918
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 1222, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Rocket-Launching Satellite"
+        }, 
+        {
+            "author": 944, 
+            "title": "The Image and the Likeness"
+        }, 
+        {
+            "author": 931, 
+            "title": "The Running Hounds"
+        }, 
+        {
+            "author": 424, 
+            "title": "You Too Can Be a Millionaire"
+        }, 
+        {
+            "author": 931, 
+            "title": "Let There Be Light"
+        }, 
+        {
+            "author": 931, 
+            "title": "Generals Help Themselves"
+        }, 
+        {
+            "author": 326, 
+            "title": "Lunar Ship"
+        }, 
+        {
+            "author": 221, 
+            "title": "A Chat with the Editor (If, November 1952)"
+        }, 
+        {
+            "author": 221, 
+            "title": "Personalities in Science: Leonardo Da Vinci"
+        }, 
+        {
+            "author": 605, 
+            "title": "Science Briefs (If, November 1952)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh ... (If, November 1952)"
+        }, 
+        {
+            "author": 945, 
+            "title": "The Image and the Likeness"
+        }, 
+        {
+            "author": 122, 
+            "title": "Brother to the Machine"
+        }, 
+        {
+            "author": 575, 
+            "title": "The Running Hounds"
+        }, 
+        {
+            "author": 946, 
+            "title": "You Too Can Be a Millionaire"
+        }, 
+        {
+            "author": 94, 
+            "title": "Let There Be Light"
+        }, 
+        {
+            "author": 947, 
+            "title": "Generals Help Themselves"
+        }
+    ]
+}

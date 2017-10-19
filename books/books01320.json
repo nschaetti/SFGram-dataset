@@ -1,0 +1,90 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine June 1966", 
+    "cover": "https://ia601303.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/1966-06_IF/1966-06_IF_jp2.zip&file=1966-06_IF_jp2/1966-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/2a/WOFIFJUN1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        611, 
+        581, 
+        519, 
+        40, 
+        1125, 
+        565, 
+        1116, 
+        1105, 
+        67, 
+        1128, 
+        81, 
+        604, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1320, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Mandroid"
+        }, 
+        {
+            "author": 611, 
+            "title": "The Weapons That Walked"
+        }, 
+        {
+            "author": 581, 
+            "title": "Sweet Reason"
+        }, 
+        {
+            "author": 519, 
+            "title": "Earthblood (Part 3 of 4)"
+        }, 
+        {
+            "author": 40, 
+            "title": "A Relativistic Dilemma"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Fandom U.S.A."
+        }, 
+        {
+            "author": 565, 
+            "title": "Edward E. Smith Memorial Award"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, June 1966)"
+        }, 
+        {
+            "author": 1116, 
+            "title": "The Weapons That Walked"
+        }, 
+        {
+            "author": 1105, 
+            "title": "Mandroid"
+        }, 
+        {
+            "author": 67, 
+            "title": "Earthblood (Part 3 of 4)"
+        }, 
+        {
+            "author": 1128, 
+            "title": "The Dream Machine"
+        }, 
+        {
+            "author": 81, 
+            "title": "Sweet Reason"
+        }, 
+        {
+            "author": 604, 
+            "title": "By Mind Alone"
+        }
+    ]
+}

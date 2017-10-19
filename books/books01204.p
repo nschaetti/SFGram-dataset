@@ -68,135 +68,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VShowcase (Galaxy, September 1977)
+S'title'
 p32
-sa(dp33
-g10
-I742
-sg14
-VExiles to Glory (Part 1 of 2)
+VShowcase (Galaxy, September 1977)
+p33
+sS'author'
 p34
+I742
 sa(dp35
-g10
-I742
-sg14
-VExiles to Glory (Part 1 of 2) [2]
-p36
-sa(dp37
-g10
-I742
-sg14
-VExiles to Glory (Part 1 of 2) [3]
-p38
-sa(dp39
-g10
-I742
-sg14
-VGently Rapping
-p40
-sa(dp41
-g10
-I742
-sg14
-VGently Rapping [2]
-p42
-sa(dp43
-g10
-I742
-sg14
-VCame the Revolution
-p44
-sa(dp45
-g10
-I742
-sg14
-VCame the Revolution [2]
-p46
-sa(dp47
-g10
-I742
-sg14
-VCame the Revolution [3]
-p48
-sa(dp49
-g10
-I742
-sg14
-VGet Happy
-p50
-sa(dp51
-g10
-I742
-sg14
-VComing Home
-p52
-sa(dp53
-g10
-I742
-sg14
-VComing Home [2]
-p54
-sa(dp55
-g10
-I734
-sg14
-VSome Futures
-p56
-sa(dp57
-g10
-I770
-sg14
-VGalaxy Bookshelf (Galaxy, September 1977)
-p58
-sa(dp59
-g10
-I829
-sg14
-VReview of an Audio Dramatization of Brian W. Aldiss' "Frankenstein Unbound", Adapted
-p60
-sa(dp61
-g10
-I770
-sg14
-VReview of the Audio Recording "Joanna Russ Interpreting Her Stories"
-p62
-sa(dp63
-g10
-I830
-sg14
-VReview of an Audio Dramatization of Isaac Asimov's "Nightfall" Adapted
-p64
-sa(dp65
-g10
-I831
-sg14
-VCame the Revolution
-p66
-sa(dp67
-g10
-I750
-sg14
-VGet Happy
-p68
-sa(dp69
-g10
-I734
-sg14
+g32
 VExiles to Glory (Part 1 of 2)
-p70
-sa(dp71
-g10
-I832
-sg14
+p36
+sg34
+I742
+sa(dp37
+g32
+VExiles to Glory (Part 1 of 2) [2]
+p38
+sg34
+I742
+sa(dp39
+g32
+VExiles to Glory (Part 1 of 2) [3]
+p40
+sg34
+I742
+sa(dp41
+g32
 VGently Rapping
-p72
-sa(dp73
-g10
-I833
-sg14
+p42
+sg34
+I742
+sa(dp43
+g32
+VGently Rapping [2]
+p44
+sg34
+I742
+sa(dp45
+g32
+VCame the Revolution
+p46
+sg34
+I742
+sa(dp47
+g32
+VCame the Revolution [2]
+p48
+sg34
+I742
+sa(dp49
+g32
+VCame the Revolution [3]
+p50
+sg34
+I742
+sa(dp51
+g32
+VGet Happy
+p52
+sg34
+I742
+sa(dp53
+g32
 VComing Home
+p54
+sg34
+I742
+sa(dp55
+g32
+VComing Home [2]
+p56
+sg34
+I742
+sa(dp57
+g32
+VSome Futures
+p58
+sg34
+I734
+sa(dp59
+g32
+VGalaxy Bookshelf (Galaxy, September 1977)
+p60
+sg34
+I770
+sa(dp61
+g32
+VReview of an Audio Dramatization of Brian W. Aldiss' "Frankenstein Unbound", Adapted
+p62
+sg34
+I829
+sa(dp63
+g32
+VReview of the Audio Recording "Joanna Russ Interpreting Her Stories"
+p64
+sg34
+I770
+sa(dp65
+g32
+VReview of an Audio Dramatization of Isaac Asimov's "Nightfall" Adapted
+p66
+sg34
+I830
+sa(dp67
+g32
+VCame the Revolution
+p68
+sg34
+I831
+sa(dp69
+g32
+VGet Happy
+p70
+sg34
+I750
+sa(dp71
+g32
+VExiles to Glory (Part 1 of 2)
+p72
+sg34
+I734
+sa(dp73
+g32
+VGently Rapping
 p74
+sg34
+I832
+sa(dp75
+g32
+VComing Home
+p76
+sg34
+I833
 sasb.

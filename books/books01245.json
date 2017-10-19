@@ -1,0 +1,129 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine June 1955", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/1955-06_IF/1955-06_IF_jp2.zip&file=1955-06_IF_jp2/1955-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/cc/WOFIFJUN1955.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        1014, 
+        412, 
+        956, 
+        436, 
+        363, 
+        948, 
+        326, 
+        91, 
+        446, 
+        1008, 
+        361, 
+        228, 
+        1015, 
+        88, 
+        1016, 
+        996, 
+        918
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1245, 
+    "contents": [
+        {
+            "author": 1014, 
+            "title": "Preview of August 1955 Cover"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Strangers"
+        }, 
+        {
+            "author": 956, 
+            "title": "Bright Islands"
+        }, 
+        {
+            "author": 436, 
+            "title": "Your Time Is Up"
+        }, 
+        {
+            "author": 956, 
+            "title": "Men of the Ocean"
+        }, 
+        {
+            "author": 363, 
+            "title": "Until Life Do Us Part"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Twilight Years"
+        }, 
+        {
+            "author": 363, 
+            "title": "Freeway"
+        }, 
+        {
+            "author": 436, 
+            "title": "Forced Move"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, June 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, June 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, June 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, June 1955)"
+        }, 
+        {
+            "author": 948, 
+            "title": "Hue and Cry (If, June 1955)"
+        }, 
+        {
+            "author": 91, 
+            "title": "The Strangers"
+        }, 
+        {
+            "author": 446, 
+            "title": "Men of the Ocean"
+        }, 
+        {
+            "author": 1008, 
+            "title": "Bright Islands"
+        }, 
+        {
+            "author": 361, 
+            "title": "Your Time Is Up"
+        }, 
+        {
+            "author": 228, 
+            "title": "Until Life Do Us Part"
+        }, 
+        {
+            "author": 1015, 
+            "title": "The Twilight Years"
+        }, 
+        {
+            "author": 88, 
+            "title": "Freeway"
+        }, 
+        {
+            "author": 1016, 
+            "title": "Forced Move"
+        }, 
+        {
+            "author": 996, 
+            "title": "Pioneers"
+        }
+    ]
+}

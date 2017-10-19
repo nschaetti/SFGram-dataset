@@ -1,0 +1,103 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1971", 
+    "cover": "https://ia601003.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/1971-03_IF/1971-03_IF_jp2.zip&file=1971-03_IF_jp2/1971-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/15/WOFIFMARAPR1971.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        356, 
+        386, 
+        67, 
+        1209, 
+        693, 
+        665, 
+        711, 
+        1210, 
+        918
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1370, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Gambler's Choice"
+        }, 
+        {
+            "author": 499, 
+            "title": "One-Generation New World"
+        }, 
+        {
+            "author": 499, 
+            "title": "One-Generation New World [2]"
+        }, 
+        {
+            "author": 326, 
+            "title": "Slaves of Silver"
+        }, 
+        {
+            "author": 499, 
+            "title": "Star Crossing"
+        }, 
+        {
+            "author": 499, 
+            "title": "Retief, Insider"
+        }, 
+        {
+            "author": 326, 
+            "title": "Casey's Transfer"
+        }, 
+        {
+            "author": 326, 
+            "title": "Space Slick"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, March-April 1971)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, March-April 1971)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, March-April 1971)"
+        }, 
+        {
+            "author": 386, 
+            "title": "One-Generation New World"
+        }, 
+        {
+            "author": 67, 
+            "title": "Retief, Insider"
+        }, 
+        {
+            "author": 1209, 
+            "title": "Space Slick"
+        }, 
+        {
+            "author": 693, 
+            "title": "Star Crossing"
+        }, 
+        {
+            "author": 665, 
+            "title": "Gambler's Choice"
+        }, 
+        {
+            "author": 711, 
+            "title": "Slaves of Silver"
+        }, 
+        {
+            "author": 1210, 
+            "title": "Casey's Transfer"
+        }
+    ]
+}

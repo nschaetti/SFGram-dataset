@@ -1,0 +1,97 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1958", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/1958-04_IF/1958-04_IF_jp2.zip&file=1958-04_IF_jp2/1958-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c0/WOFIFAPR1958.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        497, 
+        956, 
+        948, 
+        326, 
+        161, 
+        1008, 
+        1039, 
+        144, 
+        50, 
+        1030, 
+        630, 
+        918
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1262, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Powder Keg"
+        }, 
+        {
+            "author": 497, 
+            "title": "A Question of Identity"
+        }, 
+        {
+            "author": 363, 
+            "title": "Homecoming"
+        }, 
+        {
+            "author": 956, 
+            "title": "Conservation"
+        }, 
+        {
+            "author": 956, 
+            "title": "Passport to Sirius"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Raider"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Bureaucrat"
+        }, 
+        {
+            "author": 948, 
+            "title": "Editor's Report (If, April 1958)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, April 1958)"
+        }, 
+        {
+            "author": 161, 
+            "title": "Powder Keg"
+        }, 
+        {
+            "author": 1008, 
+            "title": "A Question of Identity"
+        }, 
+        {
+            "author": 1039, 
+            "title": "Homecoming"
+        }, 
+        {
+            "author": 144, 
+            "title": "Conservation"
+        }, 
+        {
+            "author": 50, 
+            "title": "Passport to Sirius"
+        }, 
+        {
+            "author": 1030, 
+            "title": "The Raider"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Bureaucrat"
+        }
+    ]
+}

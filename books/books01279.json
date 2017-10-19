@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1961", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/1961-05_IF/1961-05_IF_jp2.zip&file=1961-05_IF_jp2/1961-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/3a/WOFIFMAY1961.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        560, 
+        1069, 
+        559, 
+        499, 
+        341, 
+        326, 
+        384, 
+        179, 
+        554, 
+        229, 
+        561, 
+        211, 
+        205, 
+        918
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1279, 
+    "contents": [
+        {
+            "author": 560, 
+            "title": "That's How It Goes"
+        }, 
+        {
+            "author": 1069, 
+            "title": "Cartoon: \"Some How I'd Alway Thought of Them As Being Small and Green.\""
+        }, 
+        {
+            "author": 1069, 
+            "title": "Cartoon: \"Men, the Army Promised You You'd See the World, and You Will Every Ninety Minutes.\""
+        }, 
+        {
+            "author": 559, 
+            "title": "Out of Mind"
+        }, 
+        {
+            "author": 499, 
+            "title": "Seven Doors to Education"
+        }, 
+        {
+            "author": 499, 
+            "title": "Cinderella Story"
+        }, 
+        {
+            "author": 341, 
+            "title": "A Science Faction Story"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, May 1961)"
+        }, 
+        {
+            "author": 384, 
+            "title": "That's How It Goes"
+        }, 
+        {
+            "author": 179, 
+            "title": "Cinderella Story"
+        }, 
+        {
+            "author": 554, 
+            "title": "Out of Mind"
+        }, 
+        {
+            "author": 229, 
+            "title": "The Connoisseur"
+        }, 
+        {
+            "author": 561, 
+            "title": "Seven Doors to Education"
+        }, 
+        {
+            "author": 211, 
+            "title": "The Useless Bugbreeders"
+        }, 
+        {
+            "author": 205, 
+            "title": "The Flying Tuskers of K'niik-K'naak"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1964", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/1964-11_IF/1964-11_IF_jp2.zip&file=1964-11_IF_jp2/1964-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/69/WOFIFNOV1964.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        40, 
+        618, 
+        67, 
+        1106, 
+        214, 
+        608, 
+        918
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1301, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Hounds of Hell (Part 1 of 2)"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Ultimate Racer"
+        }, 
+        {
+            "author": 363, 
+            "title": "Father of the Stars"
+        }, 
+        {
+            "author": 40, 
+            "title": "Seconds On Firsts"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, November 1964)"
+        }, 
+        {
+            "author": 618, 
+            "title": "The Ultimate Racer"
+        }, 
+        {
+            "author": 40, 
+            "title": "Father of the Stars"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Hounds of Hell (Part 1 of 2)"
+        }, 
+        {
+            "author": 1106, 
+            "title": "The Perfect People"
+        }, 
+        {
+            "author": 214, 
+            "title": "The Diogenes Planet"
+        }, 
+        {
+            "author": 608, 
+            "title": "Assassin &Amp; Son"
+        }
+    ]
+}

@@ -79,249 +79,251 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VThe Villains From Vega Iv
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VThe Villains From Vega Iv [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VThe Villains From Vega Iv [3]
-p36
-sa(dp37
-g10
-I624
-sg14
-VAll the Myriad Ways
-p38
-sa(dp39
-g10
-I611
-sg14
-VThyre Planet
-p40
-sa(dp41
-g10
-I611
-sg14
-VThyre Planet [2]
-p42
-sa(dp43
-g10
-I611
-sg14
-VThyre Planet [3]
-p44
-sa(dp45
-g10
-I624
-sg14
-VHomespinner
-p46
-sa(dp47
-g10
-I627
-sg14
-VCriminal in Utopia
-p48
-sa(dp49
-g10
-I627
-sg14
-VCriminal in Utopia [2]
-p50
-sa(dp51
-g10
-I627
-sg14
-VCriminal in Utopia [3]
-p52
-sa(dp53
-g10
-I627
-sg14
-VCriminal in Utopia [4]
-p54
-sa(dp55
-g10
-I627
-sg14
-VCriminal in Utopia [5]
-p56
-sa(dp57
-g10
-I497
-sg14
-VI Bring You Hands
-p58
-sa(dp59
-g10
-I497
-sg14
-VI Bring You Hands [2]
-p60
-sa(dp61
-g10
-I497
-sg14
-VI Bring You Hands [3]
-p62
-sa(dp63
-g10
-I499
-sg14
-VA Visit to Cleveland General
-p64
-sa(dp65
-g10
-I499
-sg14
-VA Visit to Cleveland General [2]
-p66
-sa(dp67
-g10
-I633
-sg14
-VThe Warbots
-p68
-sa(dp69
-g10
-I633
-sg14
-VThe Warbots [2]
-p70
-sa(dp71
-g10
-I633
-sg14
-VThe Warbots [3]
-p72
-sa(dp73
-g10
-I633
-sg14
-VThe Warbots [4]
-p74
-sa(dp75
-g10
-I633
-sg14
-VThe Warbots [5]
-p76
-sa(dp77
-g10
-I633
-sg14
-VThe Warbots [6]
-p78
-sa(dp79
-g10
-I633
-sg14
-VThe Warbots [7]
-p80
-sa(dp81
-g10
-I633
-sg14
-VThe Warbots [8]
-p82
-sa(dp83
-g10
-I634
-sg14
-VBehind the Sandrat Hoax
-p84
-sa(dp85
-g10
-I40
-sg14
-VMajority Rule
-p86
-sa(dp87
-g10
-I326
-sg14
-VForecast (Galaxy, October 1968)
-p88
-sa(dp89
-g10
-I339
-sg14
-VFor Your Information: The Orbit of Explorer-1
-p90
-sa(dp91
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, October 1968)
-p92
-sa(dp93
-g10
-I326
-sg14
-VGalaxy's Stars (Galaxy, October 1968)
-p94
-sa(dp95
-g10
-I305
-sg14
 VThe Villains From Vega Iv
-p96
-sa(dp97
-g10
-I194
-sg14
-VThyre Planet
-p98
-sa(dp99
-g10
-I69
-sg14
-VCriminal in Utopia
-p100
-sa(dp101
-g10
-I635
-sg14
-VI Bring You Hands
-p102
-sa(dp103
-g10
-I81
-sg14
-VBehind the Sandrat Hoax
-p104
-sa(dp105
-g10
-I604
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VThe Villains From Vega Iv [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VThe Villains From Vega Iv [3]
+p38
+sg34
+I499
+sa(dp39
+g32
 VAll the Myriad Ways
-p106
-sa(dp107
-g10
-I636
-sg14
+p40
+sg34
+I624
+sa(dp41
+g32
+VThyre Planet
+p42
+sg34
+I611
+sa(dp43
+g32
+VThyre Planet [2]
+p44
+sg34
+I611
+sa(dp45
+g32
+VThyre Planet [3]
+p46
+sg34
+I611
+sa(dp47
+g32
 VHomespinner
-p108
-sa(dp109
-g10
-I577
-sg14
+p48
+sg34
+I624
+sa(dp49
+g32
+VCriminal in Utopia
+p50
+sg34
+I627
+sa(dp51
+g32
+VCriminal in Utopia [2]
+p52
+sg34
+I627
+sa(dp53
+g32
+VCriminal in Utopia [3]
+p54
+sg34
+I627
+sa(dp55
+g32
+VCriminal in Utopia [4]
+p56
+sg34
+I627
+sa(dp57
+g32
+VCriminal in Utopia [5]
+p58
+sg34
+I627
+sa(dp59
+g32
+VI Bring You Hands
+p60
+sg34
+I497
+sa(dp61
+g32
+VI Bring You Hands [2]
+p62
+sg34
+I497
+sa(dp63
+g32
+VI Bring You Hands [3]
+p64
+sg34
+I497
+sa(dp65
+g32
 VA Visit to Cleveland General
-p110
-sa(dp111
-g10
-I637
-sg14
+p66
+sg34
+I499
+sa(dp67
+g32
+VA Visit to Cleveland General [2]
+p68
+sg34
+I499
+sa(dp69
+g32
 VThe Warbots
+p70
+sg34
+I633
+sa(dp71
+g32
+VThe Warbots [2]
+p72
+sg34
+I633
+sa(dp73
+g32
+VThe Warbots [3]
+p74
+sg34
+I633
+sa(dp75
+g32
+VThe Warbots [4]
+p76
+sg34
+I633
+sa(dp77
+g32
+VThe Warbots [5]
+p78
+sg34
+I633
+sa(dp79
+g32
+VThe Warbots [6]
+p80
+sg34
+I633
+sa(dp81
+g32
+VThe Warbots [7]
+p82
+sg34
+I633
+sa(dp83
+g32
+VThe Warbots [8]
+p84
+sg34
+I633
+sa(dp85
+g32
+VBehind the Sandrat Hoax
+p86
+sg34
+I634
+sa(dp87
+g32
+VMajority Rule
+p88
+sg34
+I40
+sa(dp89
+g32
+VForecast (Galaxy, October 1968)
+p90
+sg34
+I326
+sa(dp91
+g32
+VFor Your Information: The Orbit of Explorer-1
+p92
+sg34
+I339
+sa(dp93
+g32
+VGalaxy Bookshelf (Galaxy, October 1968)
+p94
+sg34
+I91
+sa(dp95
+g32
+VGalaxy's Stars (Galaxy, October 1968)
+p96
+sg34
+I326
+sa(dp97
+g32
+VThe Villains From Vega Iv
+p98
+sg34
+I305
+sa(dp99
+g32
+VThyre Planet
+p100
+sg34
+I194
+sa(dp101
+g32
+VCriminal in Utopia
+p102
+sg34
+I69
+sa(dp103
+g32
+VI Bring You Hands
+p104
+sg34
+I635
+sa(dp105
+g32
+VBehind the Sandrat Hoax
+p106
+sg34
+I81
+sa(dp107
+g32
+VAll the Myriad Ways
+p108
+sg34
+I604
+sa(dp109
+g32
+VHomespinner
+p110
+sg34
+I636
+sa(dp111
+g32
+VA Visit to Cleveland General
 p112
+sg34
+I577
+sa(dp113
+g32
+VThe Warbots
+p114
+sg34
+I637
 sasb.

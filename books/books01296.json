@@ -1,0 +1,80 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1964", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/1964-03_IF_modified/1964-03_IF_modified_jp2.zip&file=1964-03_IF_modified_jp2/1964-03_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/56/WOFIFMAR1964.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        1098, 
+        499, 
+        1096, 
+        341, 
+        40, 
+        153, 
+        67, 
+        30, 
+        414, 
+        1099, 
+        1100, 
+        918
+    ], 
+    "year": 1964, 
+    "images": [], 
+    "id": 1296, 
+    "contents": [
+        {
+            "author": 1098, 
+            "title": "In Saturn's Rings"
+        }, 
+        {
+            "author": 499, 
+            "title": "The City That Grew in the Sea"
+        }, 
+        {
+            "author": 1096, 
+            "title": "Three Worlds to Conquer (Part 2 of 2)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Editorial: Miracle On Michigan"
+        }, 
+        {
+            "author": 341, 
+            "title": "How to Have a Hiroshima"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, March 1964)"
+        }, 
+        {
+            "author": 153, 
+            "title": "In Saturn's Rings"
+        }, 
+        {
+            "author": 67, 
+            "title": "The City That Grew in the Sea"
+        }, 
+        {
+            "author": 30, 
+            "title": "Three Worlds to Conquer (Part 2 of 2)"
+        }, 
+        {
+            "author": 414, 
+            "title": "Guardian"
+        }, 
+        {
+            "author": 1099, 
+            "title": "Almost Eden"
+        }, 
+        {
+            "author": 1100, 
+            "title": "What Crooch Did"
+        }
+    ]
+}

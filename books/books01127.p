@@ -74,135 +74,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VPerris Way
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VPerris Way [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VPerris Way [3]
-p36
-sa(dp37
-g10
-I545
-sg14
-VBuilding On the Line
-p38
-sa(dp39
-g10
-I545
-sg14
-VBuilding On the Line [2]
-p40
-sa(dp41
-g10
-I626
-sg14
-VLocust Years
-p42
-sa(dp43
-g10
-I626
-sg14
-VLocust Years [2]
-p44
-sa(dp45
-g10
-I611
-sg14
-VEeeetz Ch
-p46
-sa(dp47
-g10
-I611
-sg14
-VEeeetz Ch [2]
-p48
-sa(dp49
-g10
-I611
-sg14
-VEeeetz Ch [3]
-p50
-sa(dp51
-g10
-I40
-sg14
-VVietnam Revisited
-p52
-sa(dp53
-g10
-I339
-sg14
-VFor Your Information: My Friend, the Nautilus
-p54
-sa(dp55
-g10
-I326
-sg14
-VForecast (Galaxy, November 1968)
-p56
-sa(dp57
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, November 1968)
-p58
-sa(dp59
-g10
-I326
-sg14
-VGalaxy's Stars (Galaxy, November 1968)
-p60
-sa(dp61
-g10
-I50
-sg14
 VPerris Way
-p62
-sa(dp63
-g10
-I315
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VPerris Way [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VPerris Way [3]
+p38
+sg34
+I499
+sa(dp39
+g32
 VBuilding On the Line
-p64
-sa(dp65
-g10
-I623
-sg14
-VEeeetz Ch
-p66
-sa(dp67
-g10
-I470
-sg14
-VKeep Moving
-p68
-sa(dp69
-g10
-I638
-sg14
-VThe Market in Aliens
-p70
-sa(dp71
-g10
-I639
-sg14
+p40
+sg34
+I545
+sa(dp41
+g32
+VBuilding On the Line [2]
+p42
+sg34
+I545
+sa(dp43
+g32
 VLocust Years
+p44
+sg34
+I626
+sa(dp45
+g32
+VLocust Years [2]
+p46
+sg34
+I626
+sa(dp47
+g32
+VEeeetz Ch
+p48
+sg34
+I611
+sa(dp49
+g32
+VEeeetz Ch [2]
+p50
+sg34
+I611
+sa(dp51
+g32
+VEeeetz Ch [3]
+p52
+sg34
+I611
+sa(dp53
+g32
+VVietnam Revisited
+p54
+sg34
+I40
+sa(dp55
+g32
+VFor Your Information: My Friend, the Nautilus
+p56
+sg34
+I339
+sa(dp57
+g32
+VForecast (Galaxy, November 1968)
+p58
+sg34
+I326
+sa(dp59
+g32
+VGalaxy Bookshelf (Galaxy, November 1968)
+p60
+sg34
+I91
+sa(dp61
+g32
+VGalaxy's Stars (Galaxy, November 1968)
+p62
+sg34
+I326
+sa(dp63
+g32
+VPerris Way
+p64
+sg34
+I50
+sa(dp65
+g32
+VBuilding On the Line
+p66
+sg34
+I315
+sa(dp67
+g32
+VEeeetz Ch
+p68
+sg34
+I623
+sa(dp69
+g32
+VKeep Moving
+p70
+sg34
+I470
+sa(dp71
+g32
+VThe Market in Aliens
 p72
+sg34
+I638
 sa(dp73
-g10
-I592
-sg14
-VThe Tell-Tale Heart-Machine
+g32
+VLocust Years
 p74
+sg34
+I639
+sa(dp75
+g32
+VThe Tell-Tale Heart-Machine
+p76
+sg34
+I592
 sasb.

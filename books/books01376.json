@@ -1,0 +1,91 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1972", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1972-04_IF/1972-04_IF_jp2.zip&file=1972-04_IF_jp2/1972-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/59/WOFIFMARAPR1972.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        667, 
+        326, 
+        356, 
+        16, 
+        3, 
+        635, 
+        1219, 
+        596, 
+        45, 
+        918
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1376, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Gods Themselves (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Stainless Steel Rat's Return"
+        }, 
+        {
+            "author": 499, 
+            "title": "One and One Are Two"
+        }, 
+        {
+            "author": 499, 
+            "title": "Two Suns for the King"
+        }, 
+        {
+            "author": 499, 
+            "title": "Patterns of Chaos (Part 2 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Old Switcheroo"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, March-April 1972)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, March-April 1972)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, March-April 1972)"
+        }, 
+        {
+            "author": 16, 
+            "title": "The Stainless Steel Rat's Return"
+        }, 
+        {
+            "author": 3, 
+            "title": "The Gods Themselves (Part 2 of 3)"
+        }, 
+        {
+            "author": 635, 
+            "title": "Patterns of Chaos (Part 2 of 3)"
+        }, 
+        {
+            "author": 1219, 
+            "title": "One and One Are Two"
+        }, 
+        {
+            "author": 596, 
+            "title": "Two Suns for the King"
+        }, 
+        {
+            "author": 45, 
+            "title": "The Old Switcheroo"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1967
+sS'title'
+p14
+VIF Magazine March 1967
+p15
+sS'cover'
+p16
+Vhttps://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/1967-03_IF_modified/1967-03_IF_modified_jp2.zip&file=1967-03_IF_modified_jp2/1967-03_IF_modified_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/2/2b/WOFIFMAR1967.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I628
+aI476
+aI593
+aI499
+aI1142
+aI545
+aI40
+aI1125
+aI3
+aI591
+aI345
+aI91
+aI1023
+aI214
+aI1143
+aI247
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1329
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I628
+sg14
+VThe Billiard Ball
+p32
+sa(dp33
+g10
+I476
+sg14
+VI Have No Mouth, and I Must Scream
+p34
+sa(dp35
+g10
+I593
+sg14
+VThis Mortal Mountain
+p36
+sa(dp37
+g10
+I499
+sg14
+VFlatlander
+p38
+sa(dp39
+g10
+I1142
+sg14
+VThe Sepia Springs Affair
+p40
+sa(dp41
+g10
+I499
+sg14
+VWhere Are the Worlds of Yesteryear?
+p42
+sa(dp43
+g10
+I545
+sg14
+VThe Iron Thorn (Part 3 of 4)
+p44
+sa(dp45
+g10
+I40
+sg14
+VThe Hugo Winners
+p46
+sa(dp47
+g10
+I1125
+sg14
+VThe Hugo and the Nebula
+p48
+sa(dp49
+g10
+I3
+sg14
+VThe Billiard Ball
+p50
+sa(dp51
+g10
+I591
+sg14
+VThis Mortal Mountain
+p52
+sa(dp53
+g10
+I345
+sg14
+VWhere Are the Worlds of Yesteryear?
+p54
+sa(dp55
+g10
+I91
+sg14
+VThe Iron Thorn (Part 3 of 4)
+p56
+sa(dp57
+g10
+I1023
+sg14
+VI Have No Mouth, and I Must Scream
+p58
+sa(dp59
+g10
+I214
+sg14
+VMoonshine
+p60
+sa(dp61
+g10
+I1143
+sg14
+VThe Sepia Springs Affair
+p62
+sa(dp63
+g10
+I247
+sg14
+VLatter-Day Daniel
+p64
+sasb.

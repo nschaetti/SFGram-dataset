@@ -2,7 +2,11 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1133
+        1133, 
+        1347, 
+        1351, 
+        1356, 
+        1368
     ], 
     "id": 653, 
     "name": "Dean R. Koontz"

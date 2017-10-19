@@ -1,0 +1,124 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine August 1958", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/15/items/1958-08_IF_modified/1958-08_IF_modified_jp2.zip&file=1958-08_IF_modified_jp2/1958-08_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/06/WOFIFAUG1958.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        956, 
+        363, 
+        326, 
+        50, 
+        498, 
+        1023, 
+        121, 
+        1041, 
+        1042, 
+        530, 
+        1043, 
+        630, 
+        1044, 
+        1045, 
+        918
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1264, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Wages of Death"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Sky Is Burning"
+        }, 
+        {
+            "author": 497, 
+            "title": "Specimen"
+        }, 
+        {
+            "author": 363, 
+            "title": "Who's On First?"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Short Snorter"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Super Opener"
+        }, 
+        {
+            "author": 363, 
+            "title": "Sister Under the Skin"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Used People Lot"
+        }, 
+        {
+            "author": 326, 
+            "title": "About Science and Science Fiction (If August 1958)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, August 1958)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, August 1958)"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Wages of Death"
+        }, 
+        {
+            "author": 498, 
+            "title": "Who's On First?"
+        }, 
+        {
+            "author": 1023, 
+            "title": "The Sky Is Burning"
+        }, 
+        {
+            "author": 121, 
+            "title": "Specimen"
+        }, 
+        {
+            "author": 1041, 
+            "title": "Rabbits Have Long Ears"
+        }, 
+        {
+            "author": 1042, 
+            "title": "The Short Snorter"
+        }, 
+        {
+            "author": 530, 
+            "title": "The Marrying Man"
+        }, 
+        {
+            "author": 1043, 
+            "title": "The Super Opener"
+        }, 
+        {
+            "author": 630, 
+            "title": "Sister Under the Skin"
+        }, 
+        {
+            "author": 1044, 
+            "title": "The Used People Lot"
+        }, 
+        {
+            "author": 1045, 
+            "title": "The Downhill Side of Thirty"
+        }
+    ]
+}

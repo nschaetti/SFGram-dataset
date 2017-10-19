@@ -81,171 +81,173 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VGalaxy's Birthday Party
+S'title'
 p32
-sa(dp33
-g10
-I405
-sg14
-VBa
+VGalaxy's Birthday Party
+p33
+sS'author'
 p34
+I326
 sa(dp35
-g10
-I406
-sg14
+g32
 VBa
 p36
+sg34
+I405
 sa(dp37
-g10
-I407
-sg14
+g32
 VBa
 p38
+sg34
+I406
 sa(dp39
-g10
-I408
-sg14
+g32
 VBa
 p40
+sg34
+I407
 sa(dp41
-g10
-I409
-sg14
+g32
 VBa
 p42
+sg34
+I408
 sa(dp43
-g10
-I410
-sg14
+g32
 VBa
 p44
+sg34
+I409
 sa(dp45
-g10
-I402
-sg14
-VZen
+g32
+VBa
 p46
+sg34
+I410
 sa(dp47
-g10
-I342
-sg14
-VWait for Weight
-p48
-sa(dp49
-g10
-I363
-sg14
-VHalo
-p50
-sa(dp51
-g10
-I363
-sg14
-VHalo [2]
-p52
-sa(dp53
-g10
-I363
-sg14
-VHalo [3]
-p54
-sa(dp55
-g10
-I363
-sg14
-VHalo [4]
-p56
-sa(dp57
-g10
-I411
-sg14
-VTree, Spare That Woodman
-p58
-sa(dp59
-g10
-I336
-sg14
-VGame for Blondes
-p60
-sa(dp61
-g10
-I412
-sg14
-VA Little Oil ...
-p62
-sa(dp63
-g10
-I412
-sg14
-VA Little Oil ... [2]
-p64
-sa(dp65
-g10
-I412
-sg14
-VA Little Oil ... [3]
-p66
-sa(dp67
-g10
-I305
-sg14
-VAnnual Report to Our Readers
-p68
-sa(dp69
-g10
-I339
-sg14
-VFor Your Information: The World of 2052
-p70
-sa(dp71
-g10
-I340
-sg14
-VGalaxy's Five Star Shelf (Galaxy, October 1952)
-p72
-sa(dp73
-g10
-I326
-sg14
-VForecast (Galaxy, October 1952)
-p74
-sa(dp75
-g10
-I70
-sg14
-VHalo
-p76
-sa(dp77
-g10
-I413
-sg14
-VA Little Oil ...
-p78
-sa(dp79
-g10
-I414
-sg14
+g32
 VZen
-p80
-sa(dp81
-g10
-I24
-sg14
+p48
+sg34
+I402
+sa(dp49
+g32
 VWait for Weight
-p82
-sa(dp83
-g10
-I289
-sg14
+p50
+sg34
+I342
+sa(dp51
+g32
+VHalo
+p52
+sg34
+I363
+sa(dp53
+g32
+VHalo [2]
+p54
+sg34
+I363
+sa(dp55
+g32
+VHalo [3]
+p56
+sg34
+I363
+sa(dp57
+g32
+VHalo [4]
+p58
+sg34
+I363
+sa(dp59
+g32
 VTree, Spare That Woodman
-p84
-sa(dp85
-g10
-I137
-sg14
+p60
+sg34
+I411
+sa(dp61
+g32
 VGame for Blondes
+p62
+sg34
+I336
+sa(dp63
+g32
+VA Little Oil ...
+p64
+sg34
+I412
+sa(dp65
+g32
+VA Little Oil ... [2]
+p66
+sg34
+I412
+sa(dp67
+g32
+VA Little Oil ... [3]
+p68
+sg34
+I412
+sa(dp69
+g32
+VAnnual Report to Our Readers
+p70
+sg34
+I305
+sa(dp71
+g32
+VFor Your Information: The World of 2052
+p72
+sg34
+I339
+sa(dp73
+g32
+VGalaxy's Five Star Shelf (Galaxy, October 1952)
+p74
+sg34
+I340
+sa(dp75
+g32
+VForecast (Galaxy, October 1952)
+p76
+sg34
+I326
+sa(dp77
+g32
+VHalo
+p78
+sg34
+I70
+sa(dp79
+g32
+VA Little Oil ...
+p80
+sg34
+I413
+sa(dp81
+g32
+VZen
+p82
+sg34
+I414
+sa(dp83
+g32
+VWait for Weight
+p84
+sg34
+I24
+sa(dp85
+g32
+VTree, Spare That Woodman
 p86
+sg34
+I289
+sa(dp87
+g32
+VGame for Blondes
+p88
+sg34
+I137
 sasb.

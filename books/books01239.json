@@ -1,0 +1,110 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1954", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1954-12_IF_modified/1954-12_IF_modified_jp2.zip&file=1954-12_IF_modified_jp2/1954-12_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4a/WOFIFDEC1954.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        988, 
+        956, 
+        999, 
+        412, 
+        948, 
+        942, 
+        549, 
+        176, 
+        1000, 
+        166, 
+        365, 
+        1001, 
+        918
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1239, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Landing On Hermes"
+        }, 
+        {
+            "author": 988, 
+            "title": "The Jungle"
+        }, 
+        {
+            "author": 956, 
+            "title": "And Gone Tomorrow"
+        }, 
+        {
+            "author": 999, 
+            "title": "Elliptic Orbit"
+        }, 
+        {
+            "author": 412, 
+            "title": "Community Property"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Gun Runners"
+        }, 
+        {
+            "author": 412, 
+            "title": "A Cold Night for Crying"
+        }, 
+        {
+            "author": 326, 
+            "title": "Les Machines"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, December 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, December 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, December 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, December 1954)"
+        }, 
+        {
+            "author": 942, 
+            "title": "The Jungle"
+        }, 
+        {
+            "author": 549, 
+            "title": "And Gone Tomorrow"
+        }, 
+        {
+            "author": 176, 
+            "title": "The Gun Runners"
+        }, 
+        {
+            "author": 1000, 
+            "title": "First Stage: Moon"
+        }, 
+        {
+            "author": 166, 
+            "title": "Community Property"
+        }, 
+        {
+            "author": 365, 
+            "title": "A Cold Night for Crying"
+        }, 
+        {
+            "author": 1001, 
+            "title": "Les Machines"
+        }
+    ]
+}

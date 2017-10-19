@@ -1,0 +1,123 @@
+ccopy_reg
+_reconstructor
+p0
+(cdataset.Book
+Book
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'similar_books'
+p6
+(lp7
+sS'genres'
+p8
+(lp9
+sS'author'
+p10
+I918
+sS'countries'
+p11
+(lp12
+I2
+asS'year'
+p13
+I1964
+sS'title'
+p14
+VIF Magazine October 1964
+p15
+sS'cover'
+p16
+Vhttps://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/1964-10_IF/1964-10_IF_jp2.zip&file=1964-10_IF_jp2/1964-10_IF_0000.jp2&scale=0&rotate=0
+p17
+sS'cover_art'
+p18
+S'http://www.isfdb.org/wiki/images/0/02/WOFIFOCT1964.jpg'
+p19
+sS'author_name'
+p20
+VIF Magazine
+p21
+sS'images_urls'
+p22
+(lp23
+sS'authors'
+p24
+(lp25
+I499
+aI497
+aI67
+aI371
+aI74
+aI602
+aI1104
+aI1105
+aI918
+asS'images'
+p26
+(lp27
+sS'id'
+p28
+I1300
+sS'contents'
+p29
+(lp30
+(dp31
+g10
+I499
+sg14
+VThe Castle of Light
+p32
+sa(dp33
+g10
+I497
+sg14
+VGremmie's Reef
+p34
+sa(dp35
+g10
+I499
+sg14
+VFarnham's Freehold (Part 3 of 3)
+p36
+sa(dp37
+g10
+I67
+sg14
+VThe Castle of Light
+p38
+sa(dp39
+g10
+I371
+sg14
+VFarnham's Freehold (Part 3 of 3)
+p40
+sa(dp41
+g10
+I74
+sg14
+VMad Man
+p42
+sa(dp43
+g10
+I602
+sg14
+VGremmie's Reef
+p44
+sa(dp45
+g10
+I1104
+sg14
+VRescue Mission
+p46
+sa(dp47
+g10
+I1105
+sg14
+VMonster Tracks
+p48
+sasb.

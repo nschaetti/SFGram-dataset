@@ -2,7 +2,10 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        971
+        971, 
+        1311, 
+        1314, 
+        1341
     ], 
     "id": 308, 
     "name": "David A. Kyle"

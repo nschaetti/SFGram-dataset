@@ -69,153 +69,155 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I863
-sg14
-VThe Queen of the Afternoon
+S'title'
 p32
-sa(dp33
-g10
-I863
-sg14
-VThe Queen of the Afternoon [2]
-p34
-sa(dp35
-g10
-I863
-sg14
-VThe Queen of the Afternoon [3]
-p36
-sa(dp37
-g10
-I863
-sg14
-VThe Queen of the Afternoon [4]
-p38
-sa(dp39
-g10
-I850
-sg14
-VThe Defector
-p40
-sa(dp41
-g10
-I850
-sg14
-VThe Defector [2]
-p42
-sa(dp43
-g10
-I850
-sg14
-VThe Devil and All Her Works
-p44
-sa(dp45
-g10
-I850
-sg14
-VThe Devil and All Her Works [2]
-p46
-sa(dp47
-g10
-I850
-sg14
-VThe Devil and All Her Works [3]
-p48
-sa(dp49
-g10
-I842
-sg14
-VThe Faded Sun: Kesrith (Part 3 of 4)
-p50
-sa(dp51
-g10
-I857
-sg14
-VThe Faded Sun: Kesrith (Part 3 of 4) [2]
-p52
-sa(dp53
-g10
-I857
-sg14
-VThe Faded Sun: Kesrith (Part 3 of 4) [3]
-p54
-sa(dp55
-g10
-I857
-sg14
-VThe Faded Sun: Kesrith (Part 3 of 4) [4]
-p56
-sa(dp57
-g10
-I857
-sg14
-VThe Faded Sun: Kesrith (Part 3 of 4) [5]
-p58
-sa(dp59
-g10
-I863
-sg14
-VThe Purblind People
-p60
-sa(dp61
-g10
-I863
-sg14
-VThe Purblind People [2]
-p62
-sa(dp63
-g10
-I863
-sg14
-VThe Purblind People [3]
-p64
-sa(dp65
-g10
-I863
-sg14
-VThe Purblind People [4]
-p66
-sa(dp67
-g10
-I734
-sg14
-VMan and the Weather Machine
-p68
-sa(dp69
-g10
-I843
-sg14
-VGalaxy Bookshelf (Galaxy, April 1978)
-p70
-sa(dp71
-g10
-I479
-sg14
 VThe Queen of the Afternoon
-p72
-sa(dp73
-g10
-I864
-sg14
-VThe Devil and All Her Works
-p74
-sa(dp75
-g10
-I768
-sg14
-VThe Purblind People
-p76
-sa(dp77
-g10
-I857
-sg14
-VThe Faded Sun: Kesrith (Part 3 of 4)
-p78
-sa(dp79
-g10
-I865
-sg14
+p33
+sS'author'
+p34
+I863
+sa(dp35
+g32
+VThe Queen of the Afternoon [2]
+p36
+sg34
+I863
+sa(dp37
+g32
+VThe Queen of the Afternoon [3]
+p38
+sg34
+I863
+sa(dp39
+g32
+VThe Queen of the Afternoon [4]
+p40
+sg34
+I863
+sa(dp41
+g32
 VThe Defector
+p42
+sg34
+I850
+sa(dp43
+g32
+VThe Defector [2]
+p44
+sg34
+I850
+sa(dp45
+g32
+VThe Devil and All Her Works
+p46
+sg34
+I850
+sa(dp47
+g32
+VThe Devil and All Her Works [2]
+p48
+sg34
+I850
+sa(dp49
+g32
+VThe Devil and All Her Works [3]
+p50
+sg34
+I850
+sa(dp51
+g32
+VThe Faded Sun: Kesrith (Part 3 of 4)
+p52
+sg34
+I842
+sa(dp53
+g32
+VThe Faded Sun: Kesrith (Part 3 of 4) [2]
+p54
+sg34
+I857
+sa(dp55
+g32
+VThe Faded Sun: Kesrith (Part 3 of 4) [3]
+p56
+sg34
+I857
+sa(dp57
+g32
+VThe Faded Sun: Kesrith (Part 3 of 4) [4]
+p58
+sg34
+I857
+sa(dp59
+g32
+VThe Faded Sun: Kesrith (Part 3 of 4) [5]
+p60
+sg34
+I857
+sa(dp61
+g32
+VThe Purblind People
+p62
+sg34
+I863
+sa(dp63
+g32
+VThe Purblind People [2]
+p64
+sg34
+I863
+sa(dp65
+g32
+VThe Purblind People [3]
+p66
+sg34
+I863
+sa(dp67
+g32
+VThe Purblind People [4]
+p68
+sg34
+I863
+sa(dp69
+g32
+VMan and the Weather Machine
+p70
+sg34
+I734
+sa(dp71
+g32
+VGalaxy Bookshelf (Galaxy, April 1978)
+p72
+sg34
+I843
+sa(dp73
+g32
+VThe Queen of the Afternoon
+p74
+sg34
+I479
+sa(dp75
+g32
+VThe Devil and All Her Works
+p76
+sg34
+I864
+sa(dp77
+g32
+VThe Purblind People
+p78
+sg34
+I768
+sa(dp79
+g32
+VThe Faded Sun: Kesrith (Part 3 of 4)
 p80
+sg34
+I857
+sa(dp81
+g32
+VThe Defector
+p82
+sg34
+I865
 sasb.

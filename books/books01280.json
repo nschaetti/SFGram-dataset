@@ -1,0 +1,101 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1961", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/1961-07_IF/1961-07_IF_jp2.zip&file=1961-07_IF_jp2/1961-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/cb/WOFIFJUL1961.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        326, 
+        564, 
+        1069, 
+        488, 
+        341, 
+        555, 
+        315, 
+        267, 
+        142, 
+        554, 
+        384, 
+        918
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1280, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "The Planet with No Nightmare"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Real Hard Sell"
+        }, 
+        {
+            "author": 564, 
+            "title": "The Stainless-Steel Knight"
+        }, 
+        {
+            "author": 1069, 
+            "title": "Cartoon: \"Lancelot! You've Been Petting the Cat Again\""
+        }, 
+        {
+            "author": 1069, 
+            "title": "Cartoon: \"Yeach Chief, Some Crackpot That Claims to Be From Outer Space\""
+        }, 
+        {
+            "author": 519, 
+            "title": "A Taste of Tenure"
+        }, 
+        {
+            "author": 488, 
+            "title": "The Junkmakers"
+        }, 
+        {
+            "author": 326, 
+            "title": "Kangaroo Quiz"
+        }, 
+        {
+            "author": 341, 
+            "title": "The Bem Called Windigo"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, July 1961)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, July 1961)"
+        }, 
+        {
+            "author": 555, 
+            "title": "The Stainless-Steel Knight"
+        }, 
+        {
+            "author": 315, 
+            "title": "A Taste of Tenure"
+        }, 
+        {
+            "author": 267, 
+            "title": "The Junkmakers"
+        }, 
+        {
+            "author": 142, 
+            "title": "The Planet with No Nightmare"
+        }, 
+        {
+            "author": 554, 
+            "title": "The Real Hard Sell"
+        }, 
+        {
+            "author": 384, 
+            "title": "Doormat World"
+        }
+    ]
+}

@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I423
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I1000
 aI1041
 aI1077
@@ -27,7 +24,15 @@ aI1078
 aI1086
 aI1088
 aI1092
-asS'name'
+aI1267
+aI1269
+aI1271
+aI1275
+aI1277
+asS'id'
+p10
+I423
+sS'name'
 p11
 VMargaret St. Clair
 p12

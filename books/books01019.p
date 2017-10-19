@@ -75,147 +75,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I402
-sg14
-VParty of the Two Parts
+S'title'
 p32
-sa(dp33
-g10
-I402
-sg14
-VParty of the Two Parts [2]
-p34
-sa(dp35
-g10
-I402
-sg14
-VParty of the Two Parts [3]
-p36
-sa(dp37
-g10
-I433
-sg14
-VSubsistence Level
-p38
-sa(dp39
-g10
-I419
-sg14
-VThe Impossible Voyage Home
-p40
-sa(dp41
-g10
-I419
-sg14
-VThe Impossible Voyage Home [2]
-p42
-sa(dp43
-g10
-I419
-sg14
-VThe Impossible Voyage Home [3]
-p44
-sa(dp45
-g10
-I454
-sg14
-VInvasion Report
-p46
-sa(dp47
-g10
-I452
-sg14
-VThe Departed
-p48
-sa(dp49
-g10
-I363
-sg14
-VGladiator at Law (Part 3 of 3)
-p50
-sa(dp51
-g10
-I363
-sg14
-VGladiator at Law (Part 3 of 3) [2]
-p52
-sa(dp53
-g10
-I363
-sg14
-VGladiator at Law (Part 3 of 3) [3]
-p54
-sa(dp55
-g10
-I363
-sg14
-VGladiator at Law (Part 3 of 3) [4]
-p56
-sa(dp57
-g10
-I363
-sg14
-VGladiator at Law (Part 3 of 3) [5]
-p58
-sa(dp59
-g10
-I305
-sg14
-VSuperwhat?
-p60
-sa(dp61
-g10
-I455
-sg14
-VFor Your Information: Mail
-p62
-sa(dp63
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, August 1954)
-p64
-sa(dp65
-g10
-I326
-sg14
-VForecast (Galaxy, August 1954)
-p66
-sa(dp67
-g10
-I98
-sg14
 VParty of the Two Parts
-p68
-sa(dp69
-g10
-I393
-sg14
-VThe Impossible Voyage Home
-p70
-sa(dp71
-g10
-I434
-sg14
-VInvasion Report
-p72
-sa(dp73
-g10
-I40
-sg14
-VGladiator at Law (Part 3 of 3)
-p74
-sa(dp75
-g10
-I23
-sg14
+p33
+sS'author'
+p34
+I402
+sa(dp35
+g32
+VParty of the Two Parts [2]
+p36
+sg34
+I402
+sa(dp37
+g32
+VParty of the Two Parts [3]
+p38
+sg34
+I402
+sa(dp39
+g32
 VSubsistence Level
-p76
-sa(dp77
-g10
-I443
-sg14
+p40
+sg34
+I433
+sa(dp41
+g32
+VThe Impossible Voyage Home
+p42
+sg34
+I419
+sa(dp43
+g32
+VThe Impossible Voyage Home [2]
+p44
+sg34
+I419
+sa(dp45
+g32
+VThe Impossible Voyage Home [3]
+p46
+sg34
+I419
+sa(dp47
+g32
+VInvasion Report
+p48
+sg34
+I454
+sa(dp49
+g32
 VThe Departed
+p50
+sg34
+I452
+sa(dp51
+g32
+VGladiator at Law (Part 3 of 3)
+p52
+sg34
+I363
+sa(dp53
+g32
+VGladiator at Law (Part 3 of 3) [2]
+p54
+sg34
+I363
+sa(dp55
+g32
+VGladiator at Law (Part 3 of 3) [3]
+p56
+sg34
+I363
+sa(dp57
+g32
+VGladiator at Law (Part 3 of 3) [4]
+p58
+sg34
+I363
+sa(dp59
+g32
+VGladiator at Law (Part 3 of 3) [5]
+p60
+sg34
+I363
+sa(dp61
+g32
+VSuperwhat?
+p62
+sg34
+I305
+sa(dp63
+g32
+VFor Your Information: Mail
+p64
+sg34
+I455
+sa(dp65
+g32
+VGalaxy's 5 Star Shelf (Galaxy, August 1954)
+p66
+sg34
+I340
+sa(dp67
+g32
+VForecast (Galaxy, August 1954)
+p68
+sg34
+I326
+sa(dp69
+g32
+VParty of the Two Parts
+p70
+sg34
+I98
+sa(dp71
+g32
+VThe Impossible Voyage Home
+p72
+sg34
+I393
+sa(dp73
+g32
+VInvasion Report
+p74
+sg34
+I434
+sa(dp75
+g32
+VGladiator at Law (Part 3 of 3)
+p76
+sg34
+I40
+sa(dp77
+g32
+VSubsistence Level
 p78
+sg34
+I23
+sa(dp79
+g32
+VThe Departed
+p80
+sg34
+I443
 sasb.

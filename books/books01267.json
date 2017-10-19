@@ -1,0 +1,120 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1959", 
+    "cover": "https://ia800206.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/1959-02_IF/1959-02_IF_jp2.zip&file=1959-02_IF_jp2/1959-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c9/WOFIFFEB1959.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        956, 
+        363, 
+        204, 
+        32, 
+        25, 
+        569, 
+        91, 
+        1046, 
+        609, 
+        182, 
+        423, 
+        596, 
+        1048, 
+        479, 
+        918
+    ], 
+    "year": 1959, 
+    "images": [], 
+    "id": 1267, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Pipe Dream"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Wind People"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Man Who Tasted Ashes"
+        }, 
+        {
+            "author": 363, 
+            "title": "Love and Moondogs"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Last Days of L.A."
+        }, 
+        {
+            "author": 326, 
+            "title": "Virgin Ground"
+        }, 
+        {
+            "author": 363, 
+            "title": "Discipline"
+        }, 
+        {
+            "author": 326, 
+            "title": "Star of Rebirth"
+        }, 
+        {
+            "author": 363, 
+            "title": "No, No, Not Rogov!"
+        }, 
+        {
+            "author": 204, 
+            "title": "In the Balance (If, February 1959)"
+        }, 
+        {
+            "author": 32, 
+            "title": "Pipe Dream"
+        }, 
+        {
+            "author": 25, 
+            "title": "The Wind People"
+        }, 
+        {
+            "author": 569, 
+            "title": "The Good Work"
+        }, 
+        {
+            "author": 91, 
+            "title": "The Man Who Tasted Ashes"
+        }, 
+        {
+            "author": 1046, 
+            "title": "Love and Moondogs"
+        }, 
+        {
+            "author": 609, 
+            "title": "The Last Days of L.A."
+        }, 
+        {
+            "author": 182, 
+            "title": "Virgin Ground"
+        }, 
+        {
+            "author": 423, 
+            "title": "Discipline"
+        }, 
+        {
+            "author": 596, 
+            "title": "In the Jag-Whiffing Service"
+        }, 
+        {
+            "author": 1048, 
+            "title": "Star of Rebirth"
+        }, 
+        {
+            "author": 479, 
+            "title": "No, No, Not Rogov!"
+        }
+    ]
+}

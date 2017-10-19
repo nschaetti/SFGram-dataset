@@ -73,117 +73,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I744
-sg14
-VIn This Month's Issue
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VThe Politics of Ratticide
-p34
-sa(dp35
-g10
-I499
-sg14
-VChangelings
-p36
-sa(dp37
-g10
-I744
-sg14
-VSign of the Unicorn (Part 3 of 3)
-p38
-sa(dp39
-g10
-I744
-sg14
-VSign of the Unicorn (Part 3 of 3) [2]
-p40
-sa(dp41
-g10
-I499
-sg14
-VNobody Likes to Be Lonely
-p42
-sa(dp43
-g10
-I744
-sg14
-VTree of Life
-p44
-sa(dp45
-g10
-I742
-sg14
-VShowcase (Galaxy, March 1975)
-p46
-sa(dp47
-g10
-I764
-sg14
-VIf This Goes On (and On and On ... )
-p48
-sa(dp49
-g10
-I734
-sg14
-VAbm, Missile-Eating Lasers and a Bi-Polar World
-p50
-sa(dp51
-g10
-I356
-sg14
-VForum: The Siren Song of Academe
-p52
-sa(dp53
-g10
-I341
-sg14
-VBookshelf (Galaxy, March 1975)
-p54
-sa(dp55
-g10
-I326
-sg14
-VDirections (Galaxy, March 1975)
-p56
-sa(dp57
-g10
-I748
-sg14
-VThe Politics of Ratticide
-p58
-sa(dp59
-g10
-I770
-sg14
-VNobody Likes to Be Lonely
-p60
-sa(dp61
-g10
-I591
-sg14
-VSign of the Unicorn (Part 3 of 3)
-p62
-sa(dp63
-g10
-I771
-sg14
 VIn This Month's Issue
-p64
-sa(dp65
-g10
-I772
-sg14
+p33
+sS'author'
+p34
+I744
+sa(dp35
+g32
+VThe Politics of Ratticide
+p36
+sg34
+I499
+sa(dp37
+g32
 VChangelings
-p66
-sa(dp67
-g10
-I773
-sg14
+p38
+sg34
+I499
+sa(dp39
+g32
+VSign of the Unicorn (Part 3 of 3)
+p40
+sg34
+I744
+sa(dp41
+g32
+VSign of the Unicorn (Part 3 of 3) [2]
+p42
+sg34
+I744
+sa(dp43
+g32
+VNobody Likes to Be Lonely
+p44
+sg34
+I499
+sa(dp45
+g32
 VTree of Life
+p46
+sg34
+I744
+sa(dp47
+g32
+VShowcase (Galaxy, March 1975)
+p48
+sg34
+I742
+sa(dp49
+g32
+VIf This Goes On (and On and On ... )
+p50
+sg34
+I764
+sa(dp51
+g32
+VAbm, Missile-Eating Lasers and a Bi-Polar World
+p52
+sg34
+I734
+sa(dp53
+g32
+VForum: The Siren Song of Academe
+p54
+sg34
+I356
+sa(dp55
+g32
+VBookshelf (Galaxy, March 1975)
+p56
+sg34
+I341
+sa(dp57
+g32
+VDirections (Galaxy, March 1975)
+p58
+sg34
+I326
+sa(dp59
+g32
+VThe Politics of Ratticide
+p60
+sg34
+I748
+sa(dp61
+g32
+VNobody Likes to Be Lonely
+p62
+sg34
+I770
+sa(dp63
+g32
+VSign of the Unicorn (Part 3 of 3)
+p64
+sg34
+I591
+sa(dp65
+g32
+VIn This Month's Issue
+p66
+sg34
+I771
+sa(dp67
+g32
+VChangelings
 p68
+sg34
+I772
+sa(dp69
+g32
+VTree of Life
+p70
+sg34
+I773
 sasb.

@@ -1,0 +1,119 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1972", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/1972-12_IF/1972-12_IF_jp2.zip&file=1972-12_IF_jp2/1972-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/5c/WOFIFNOVDEC1972.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        356, 
+        1222, 
+        1223, 
+        667, 
+        1224, 
+        617, 
+        635, 
+        153, 
+        1219, 
+        1225, 
+        651, 
+        722, 
+        918
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1380, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Wizard of Anharitte (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Whom the Gods Love"
+        }, 
+        {
+            "author": 326, 
+            "title": "9"
+        }, 
+        {
+            "author": 499, 
+            "title": "Teratohippus"
+        }, 
+        {
+            "author": 499, 
+            "title": "Shausta"
+        }, 
+        {
+            "author": 499, 
+            "title": "Hurdle"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Executive Rat"
+        }, 
+        {
+            "author": 326, 
+            "title": "Empty Eden"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, November-December 1972)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, November-December 1972)"
+        }, 
+        {
+            "author": 1222, 
+            "title": "Review of the Nonfiction Work \"Cybernetics\""
+        }, 
+        {
+            "author": 1223, 
+            "title": "Review of the Nonfiction Work \"Electronics\""
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, November-December 1972)"
+        }, 
+        {
+            "author": 1224, 
+            "title": "Teratohippus"
+        }, 
+        {
+            "author": 617, 
+            "title": "Hurdle"
+        }, 
+        {
+            "author": 635, 
+            "title": "The Wizard of Anharitte (Part 1 of 3)"
+        }, 
+        {
+            "author": 153, 
+            "title": "Whom the Gods Love"
+        }, 
+        {
+            "author": 1219, 
+            "title": "9"
+        }, 
+        {
+            "author": 1225, 
+            "title": "Shausta"
+        }, 
+        {
+            "author": 651, 
+            "title": "The Executive Rat"
+        }, 
+        {
+            "author": 722, 
+            "title": "Empty Eden"
+        }
+    ]
+}

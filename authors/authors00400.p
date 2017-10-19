@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I400
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I994
 aI996
 aI1008
@@ -28,7 +25,11 @@ aI1013
 aI1023
 aI1060
 aI1084
-asS'name'
+aI1223
+asS'id'
+p10
+I400
+sS'name'
 p11
 VRoger Dee
 p12

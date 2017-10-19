@@ -73,147 +73,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VTomorrow Cum Laude
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VTomorrow Cum Laude [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VTomorrow Cum Laude [3]
-p36
-sa(dp37
-g10
-I499
-sg14
-VTomorrow Cum Laude [4]
-p38
-sa(dp39
-g10
-I326
-sg14
-VThe God of Cool
-p40
-sa(dp41
-g10
-I326
-sg14
-VElement of Chance
-p42
-sa(dp43
-g10
-I499
-sg14
-VThe Soul Machine
-p44
-sa(dp45
-g10
-I499
-sg14
-VErsalz's Rule
-p46
-sa(dp47
-g10
-I326
-sg14
-VTake the B Train
-p48
-sa(dp49
-g10
-I499
-sg14
-VTake the B Train [2]
-p50
-sa(dp51
-g10
-I326
-sg14
-VStella
-p52
-sa(dp53
-g10
-I326
-sg14
-VDune Messiah (Part 4 of 5)
-p54
-sa(dp55
-g10
-I40
-sg14
-VWhat Happened On 18 December 1955
-p56
-sa(dp57
-g10
-I339
-sg14
-VFor Your Information (Galaxy Magazine, October 1969)
-p58
-sa(dp59
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, October 1969)
-p60
-sa(dp61
-g10
-I602
-sg14
 VTomorrow Cum Laude
-p62
-sa(dp63
-g10
-I663
-sg14
-VTake the B Train
-p64
-sa(dp65
-g10
-I63
-sg14
-VDune Messiah (Part 4 of 5)
-p66
-sa(dp67
-g10
-I204
-sg14
-VTruly Human
-p68
-sa(dp69
-g10
-I664
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VTomorrow Cum Laude [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VTomorrow Cum Laude [3]
+p38
+sg34
+I499
+sa(dp39
+g32
+VTomorrow Cum Laude [4]
+p40
+sg34
+I499
+sa(dp41
+g32
 VThe God of Cool
-p70
-sa(dp71
-g10
-I665
-sg14
+p42
+sg34
+I326
+sa(dp43
+g32
 VElement of Chance
-p72
-sa(dp73
-g10
-I630
-sg14
+p44
+sg34
+I326
+sa(dp45
+g32
 VThe Soul Machine
-p74
-sa(dp75
-g10
-I666
-sg14
+p46
+sg34
+I499
+sa(dp47
+g32
 VErsalz's Rule
-p76
-sa(dp77
-g10
-I662
-sg14
+p48
+sg34
+I499
+sa(dp49
+g32
+VTake the B Train
+p50
+sg34
+I326
+sa(dp51
+g32
+VTake the B Train [2]
+p52
+sg34
+I499
+sa(dp53
+g32
 VStella
+p54
+sg34
+I326
+sa(dp55
+g32
+VDune Messiah (Part 4 of 5)
+p56
+sg34
+I326
+sa(dp57
+g32
+VWhat Happened On 18 December 1955
+p58
+sg34
+I40
+sa(dp59
+g32
+VFor Your Information (Galaxy Magazine, October 1969)
+p60
+sg34
+I339
+sa(dp61
+g32
+VGalaxy Bookshelf (Galaxy, October 1969)
+p62
+sg34
+I91
+sa(dp63
+g32
+VTomorrow Cum Laude
+p64
+sg34
+I602
+sa(dp65
+g32
+VTake the B Train
+p66
+sg34
+I663
+sa(dp67
+g32
+VDune Messiah (Part 4 of 5)
+p68
+sg34
+I63
+sa(dp69
+g32
+VTruly Human
+p70
+sg34
+I204
+sa(dp71
+g32
+VThe God of Cool
+p72
+sg34
+I664
+sa(dp73
+g32
+VElement of Chance
+p74
+sg34
+I665
+sa(dp75
+g32
+VThe Soul Machine
+p76
+sg34
+I630
+sa(dp77
+g32
+VErsalz's Rule
 p78
+sg34
+I666
+sa(dp79
+g32
+VStella
+p80
+sg34
+I662
 sasb.

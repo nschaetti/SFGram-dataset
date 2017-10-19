@@ -1,0 +1,88 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1960", 
+    "cover": "https://ia601306.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/1960-01_IF/1960-01_IF_jp2.zip&file=1960-01_IF_jp2/1960-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/56/WOFIFJAN1960.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        519, 
+        326, 
+        40, 
+        211, 
+        507, 
+        69, 
+        665, 
+        391, 
+        220, 
+        205, 
+        423, 
+        918
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1271, 
+    "contents": [
+        {
+            "author": 519, 
+            "title": "The Good Seed"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Divers"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Little Red Bag"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Last Leap"
+        }, 
+        {
+            "author": 326, 
+            "title": "Cultural Exchange"
+        }, 
+        {
+            "author": 40, 
+            "title": "Worlds of If (If, January 1960)"
+        }, 
+        {
+            "author": 211, 
+            "title": "The Divers"
+        }, 
+        {
+            "author": 507, 
+            "title": "Cultural Exchange"
+        }, 
+        {
+            "author": 69, 
+            "title": "The Good Seed"
+        }, 
+        {
+            "author": 665, 
+            "title": "Dissolute Diplomat"
+        }, 
+        {
+            "author": 391, 
+            "title": "The Little Red Bag"
+        }, 
+        {
+            "author": 220, 
+            "title": "The Last Leap"
+        }, 
+        {
+            "author": 205, 
+            "title": "To Each His Own"
+        }, 
+        {
+            "author": 423, 
+            "title": "The Autumn After Next"
+        }
+    ]
+}

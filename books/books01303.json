@@ -1,0 +1,79 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1965", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/1965-01_IF/1965-01_IF_jp2.zip&file=1965-01_IF_jp2/1965-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/c2/WOFIFJAN1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        581, 
+        499, 
+        40, 
+        547, 
+        1095, 
+        67, 
+        86, 
+        1107, 
+        1108, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1303, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "Starchild (Part 1 of 3)"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Recon Man"
+        }, 
+        {
+            "author": 545, 
+            "title": "Vanishing Point"
+        }, 
+        {
+            "author": 499, 
+            "title": "Retief, God-Speaker"
+        }, 
+        {
+            "author": 40, 
+            "title": "Worlds of When ..."
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, January 1965)"
+        }, 
+        {
+            "author": 547, 
+            "title": "The Recon Man"
+        }, 
+        {
+            "author": 1095, 
+            "title": "Vanishing Point"
+        }, 
+        {
+            "author": 67, 
+            "title": "Retief, God-Speaker"
+        }, 
+        {
+            "author": 86, 
+            "title": "Starchild (Part 1 of 3)"
+        }, 
+        {
+            "author": 1107, 
+            "title": "Answering Service"
+        }, 
+        {
+            "author": 1108, 
+            "title": "The Heat Racers"
+        }
+    ]
+}

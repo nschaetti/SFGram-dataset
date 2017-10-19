@@ -71,147 +71,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VAllison, Carmichael and Tattersall
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VAllison, Carmichael and Tattersall [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VAllison, Carmichael and Tattersall [3]
-p36
-sa(dp37
-g10
-I499
-sg14
-VDiscover a Latent Moses
-p38
-sa(dp39
-g10
-I499
-sg14
-VDiscover a Latent Moses [2]
-p40
-sa(dp41
-g10
-I499
-sg14
-VThe Tower of Glass (Part 1 of 3)
-p42
-sa(dp43
-g10
-I499
-sg14
-VThe Tower of Glass (Part 1 of 3) [2]
-p44
-sa(dp45
-g10
-I326
-sg14
-VDarwin, in the Fields
-p46
-sa(dp47
-g10
-I499
-sg14
-VThe Rub
-p48
-sa(dp49
-g10
-I615
-sg14
-VSunpot (Part 3 of 4)
-p50
-sa(dp51
-g10
-I499
-sg14
-VNo Planet Like Home
-p52
-sa(dp53
-g10
-I499
-sg14
-VKindergarten
-p54
-sa(dp55
-g10
-I499
-sg14
-VKindergarten [2]
-p56
-sa(dp57
-g10
-I667
-sg14
-VOn Genetics and Consensus
-p58
-sa(dp59
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, April 1970)
-p60
-sa(dp61
-g10
-I478
-sg14
 VAllison, Carmichael and Tattersall
-p62
-sa(dp63
-g10
-I675
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VAllison, Carmichael and Tattersall [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VAllison, Carmichael and Tattersall [3]
+p38
+sg34
+I499
+sa(dp39
+g32
 VDiscover a Latent Moses
-p64
-sa(dp65
-g10
-I630
-sg14
-VThe Rub
-p66
-sa(dp67
-g10
-I18
-sg14
-VDarwin, the Curious
-p68
-sa(dp69
-g10
-I18
-sg14
-VDarwin, in the Fields
-p70
-sa(dp71
-g10
-I18
-sg14
-VDarwin, Wandering Home at Dawn
-p72
-sa(dp73
-g10
-I50
-sg14
+p40
+sg34
+I499
+sa(dp41
+g32
+VDiscover a Latent Moses [2]
+p42
+sg34
+I499
+sa(dp43
+g32
 VThe Tower of Glass (Part 1 of 3)
-p74
-sa(dp75
-g10
-I676
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
+VThe Tower of Glass (Part 1 of 3) [2]
+p46
+sg34
+I499
+sa(dp47
+g32
+VDarwin, in the Fields
+p48
+sg34
+I326
+sa(dp49
+g32
+VThe Rub
+p50
+sg34
+I499
+sa(dp51
+g32
+VSunpot (Part 3 of 4)
+p52
+sg34
+I615
+sa(dp53
+g32
 VNo Planet Like Home
-p76
-sa(dp77
-g10
-I161
-sg14
+p54
+sg34
+I499
+sa(dp55
+g32
 VKindergarten
+p56
+sg34
+I499
+sa(dp57
+g32
+VKindergarten [2]
+p58
+sg34
+I499
+sa(dp59
+g32
+VOn Genetics and Consensus
+p60
+sg34
+I667
+sa(dp61
+g32
+VGalaxy Bookshelf (Galaxy, April 1970)
+p62
+sg34
+I91
+sa(dp63
+g32
+VAllison, Carmichael and Tattersall
+p64
+sg34
+I478
+sa(dp65
+g32
+VDiscover a Latent Moses
+p66
+sg34
+I675
+sa(dp67
+g32
+VThe Rub
+p68
+sg34
+I630
+sa(dp69
+g32
+VDarwin, the Curious
+p70
+sg34
+I18
+sa(dp71
+g32
+VDarwin, in the Fields
+p72
+sg34
+I18
+sa(dp73
+g32
+VDarwin, Wandering Home at Dawn
+p74
+sg34
+I18
+sa(dp75
+g32
+VThe Tower of Glass (Part 1 of 3)
+p76
+sg34
+I50
+sa(dp77
+g32
+VNo Planet Like Home
 p78
+sg34
+I676
+sa(dp79
+g32
+VKindergarten
+p80
+sg34
+I161
 sasb.

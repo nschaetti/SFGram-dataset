@@ -1,0 +1,87 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1963", 
+    "cover": "https://ia800202.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/1963-03_IF/1963-03_IF_jp2.zip&file=1963-03_IF_jp2/1963-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/62/WOFIFMAR1963.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        497, 
+        341, 
+        40, 
+        1084, 
+        384, 
+        371, 
+        67, 
+        1085, 
+        1070, 
+        1086, 
+        918
+    ], 
+    "year": 1963, 
+    "images": [], 
+    "id": 1290, 
+    "contents": [
+        {
+            "author": 497, 
+            "title": "The Time-Tombs"
+        }, 
+        {
+            "author": 497, 
+            "title": "Saline Solution"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Ten-Point Princess"
+        }, 
+        {
+            "author": 497, 
+            "title": "Podkayne of Mars (Part 3 of 3)"
+        }, 
+        {
+            "author": 341, 
+            "title": "This Dream We Have ..."
+        }, 
+        {
+            "author": 341, 
+            "title": "The Wishbooks"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, March 1963)"
+        }, 
+        {
+            "author": 1084, 
+            "title": "The Time-Tombs"
+        }, 
+        {
+            "author": 384, 
+            "title": "The Ten-Point Princess"
+        }, 
+        {
+            "author": 371, 
+            "title": "Podkayne of Mars (Part 3 of 3)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Saline Solution"
+        }, 
+        {
+            "author": 1085, 
+            "title": "The Abandoned of Yan"
+        }, 
+        {
+            "author": 1070, 
+            "title": "Countdown"
+        }, 
+        {
+            "author": 1086, 
+            "title": "I, Executioner"
+        }
+    ]
+}

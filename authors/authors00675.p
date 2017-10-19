@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I675
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I1140
 aI1141
 aI1147
@@ -27,7 +24,14 @@ aI1148
 aI1155
 aI1168
 aI1170
-asS'name'
+aI1365
+aI1369
+aI1381
+aI1382
+asS'id'
+p10
+I675
+sS'name'
 p11
 VMichael G. Coney
 p12

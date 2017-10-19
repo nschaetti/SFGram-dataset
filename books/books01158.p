@@ -68,87 +68,89 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VDying Inside (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I326
-sg14
-VFarewell to the Artifacts
-p34
-sa(dp35
-g10
-I499
-sg14
-VSeventy Years of Decpop
-p36
-sa(dp37
-g10
-I326
-sg14
-VWoman's Rib
-p38
-sa(dp39
-g10
-I326
-sg14
-VFor G.O.D.'S Sake
-p40
-sa(dp41
-g10
-I667
-sg14
-VEditor's Page (Galaxy, July-August 1972)
-p42
-sa(dp43
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, July-August 1972)
-p44
-sa(dp45
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, July-August 1972)
-p46
-sa(dp47
-g10
-I326
-sg14
-VDirections (Galaxy, July-August 1972)
-p48
-sa(dp49
-g10
-I668
-sg14
-VFor G.O.D.'S Sake
-p50
-sa(dp51
-g10
-I588
-sg14
-VSeventy Years of Decpop
-p52
-sa(dp53
-g10
-I50
-sg14
 VDying Inside (Part 1 of 2)
-p54
-sa(dp55
-g10
-I709
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VFarewell to the Artifacts
-p56
-sa(dp57
-g10
-I505
-sg14
+p36
+sg34
+I326
+sa(dp37
+g32
+VSeventy Years of Decpop
+p38
+sg34
+I499
+sa(dp39
+g32
 VWoman's Rib
+p40
+sg34
+I326
+sa(dp41
+g32
+VFor G.O.D.'S Sake
+p42
+sg34
+I326
+sa(dp43
+g32
+VEditor's Page (Galaxy, July-August 1972)
+p44
+sg34
+I667
+sa(dp45
+g32
+VGalaxy Stars (Galaxy, July-August 1972)
+p46
+sg34
+I326
+sa(dp47
+g32
+VGalaxy Bookshelf (Galaxy, July-August 1972)
+p48
+sg34
+I341
+sa(dp49
+g32
+VDirections (Galaxy, July-August 1972)
+p50
+sg34
+I326
+sa(dp51
+g32
+VFor G.O.D.'S Sake
+p52
+sg34
+I668
+sa(dp53
+g32
+VSeventy Years of Decpop
+p54
+sg34
+I588
+sa(dp55
+g32
+VDying Inside (Part 1 of 2)
+p56
+sg34
+I50
+sa(dp57
+g32
+VFarewell to the Artifacts
 p58
+sg34
+I709
+sa(dp59
+g32
+VWoman's Rib
+p60
+sg34
+I505
 sasb.

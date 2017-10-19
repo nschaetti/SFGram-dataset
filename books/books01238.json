@@ -1,0 +1,125 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1954", 
+    "cover": "https://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/1954-11_IF/1954-11_IF_jp2.zip&file=1954-11_IF_jp2/1954-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/22/WOFIFNOV1954.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        956, 
+        363, 
+        988, 
+        995, 
+        497, 
+        412, 
+        948, 
+        315, 
+        992, 
+        996, 
+        8, 
+        997, 
+        998, 
+        359, 
+        935, 
+        918
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1238, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Approaching Hermes"
+        }, 
+        {
+            "author": 956, 
+            "title": "For Every Man a Reason"
+        }, 
+        {
+            "author": 363, 
+            "title": "Carry Me Home"
+        }, 
+        {
+            "author": 988, 
+            "title": "Stalemate"
+        }, 
+        {
+            "author": 995, 
+            "title": "Progeny"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Honored Prophet"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Hitch Hikers"
+        }, 
+        {
+            "author": 988, 
+            "title": "Vacation"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Very Secret Agent"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, November 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Seven Winners in If's $2000 College Science Fiction Contest!"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, November 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, November 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, November 1954)"
+        }, 
+        {
+            "author": 315, 
+            "title": "Carry Me Home"
+        }, 
+        {
+            "author": 992, 
+            "title": "For Every Man a Reason"
+        }, 
+        {
+            "author": 996, 
+            "title": "Stalemate"
+        }, 
+        {
+            "author": 8, 
+            "title": "Progeny"
+        }, 
+        {
+            "author": 997, 
+            "title": "The Honored Prophet"
+        }, 
+        {
+            "author": 998, 
+            "title": "The Hitch Hikers"
+        }, 
+        {
+            "author": 359, 
+            "title": "Vacation"
+        }, 
+        {
+            "author": 935, 
+            "title": "The Very Secret Agent"
+        }
+    ]
+}

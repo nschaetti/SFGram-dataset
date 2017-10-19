@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1970", 
+    "cover": "https://ia800207.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/1970-05-06_IF/1970-05-06_IF_jp2.zip&file=1970-05-06_IF_jp2/1970-05-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/98/WOFIFMAYJUN1970.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        356, 
+        67, 
+        514, 
+        668, 
+        50, 
+        675, 
+        651, 
+        645, 
+        918
+    ], 
+    "year": 1970, 
+    "images": [], 
+    "id": 1365, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "The Reality Trip"
+        }, 
+        {
+            "author": 326, 
+            "title": "Troubleshooter"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Piecemakers"
+        }, 
+        {
+            "author": 326, 
+            "title": "Human Element"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Nightblooming Saurian"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Misspelled Magician (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Zon"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, May-June 1970)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, May-June 1970)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, May-June 1970)"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Piecemakers"
+        }, 
+        {
+            "author": 514, 
+            "title": "Zon"
+        }, 
+        {
+            "author": 668, 
+            "title": "The Misspelled Magician (Part 1 of 2)"
+        }, 
+        {
+            "author": 50, 
+            "title": "The Reality Trip"
+        }, 
+        {
+            "author": 675, 
+            "title": "Troubleshooter"
+        }, 
+        {
+            "author": 651, 
+            "title": "Human Element"
+        }, 
+        {
+            "author": 645, 
+            "title": "The Nightblooming Saurian"
+        }
+    ]
+}

@@ -35,6 +35,8 @@ sS'books'
 p16
 (lp17
 I784
+aI1263
+aI1273
 asS'id'
 p18
 I250

@@ -75,147 +75,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VOperation Stinky
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VOperation Stinky [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VOperation Stinky [3]
-p36
-sa(dp37
-g10
-I402
-sg14
-VMan in the Jar
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Ifth of Oofth
-p40
-sa(dp41
-g10
-I419
-sg14
-VThe Victim From Space
-p42
-sa(dp43
-g10
-I419
-sg14
-VThe Victim From Space [2]
-p44
-sa(dp45
-g10
-I419
-sg14
-VThe Victim From Space [3]
-p46
-sa(dp47
-g10
-I472
-sg14
-VThe Coffin Cure
-p48
-sa(dp49
-g10
-I506
-sg14
-VArmy Without Banners
-p50
-sa(dp51
-g10
-I506
-sg14
-VOnce a Greech
-p52
-sa(dp53
-g10
-I506
-sg14
-VOnce a Greech [2]
-p54
-sa(dp55
-g10
-I506
-sg14
-VOnce a Greech [3]
-p56
-sa(dp57
-g10
-I305
-sg14
-VDanger in the Air
-p58
-sa(dp59
-g10
-I339
-sg14
-VFor Your Information: The Coming of the Robots
-p60
-sa(dp61
-g10
-I326
-sg14
-VForecast (Galaxy, April 1957)
-p62
-sa(dp63
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, April 1957)
-p64
-sa(dp65
-g10
-I56
-sg14
 VOperation Stinky
-p66
-sa(dp67
-g10
-I172
-sg14
-VOnce a Greech
-p68
-sa(dp69
-g10
-I204
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VOperation Stinky [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VOperation Stinky [3]
+p38
+sg34
+I499
+sa(dp39
+g32
 VMan in the Jar
-p70
-sa(dp71
-g10
-I509
-sg14
+p40
+sg34
+I402
+sa(dp41
+g32
 VThe Ifth of Oofth
-p72
-sa(dp73
-g10
-I23
-sg14
+p42
+sg34
+I499
+sa(dp43
+g32
 VThe Victim From Space
-p74
-sa(dp75
-g10
-I441
-sg14
+p44
+sg34
+I419
+sa(dp45
+g32
+VThe Victim From Space [2]
+p46
+sg34
+I419
+sa(dp47
+g32
+VThe Victim From Space [3]
+p48
+sg34
+I419
+sa(dp49
+g32
 VThe Coffin Cure
-p76
-sa(dp77
-g10
-I401
-sg14
+p50
+sg34
+I472
+sa(dp51
+g32
 VArmy Without Banners
+p52
+sg34
+I506
+sa(dp53
+g32
+VOnce a Greech
+p54
+sg34
+I506
+sa(dp55
+g32
+VOnce a Greech [2]
+p56
+sg34
+I506
+sa(dp57
+g32
+VOnce a Greech [3]
+p58
+sg34
+I506
+sa(dp59
+g32
+VDanger in the Air
+p60
+sg34
+I305
+sa(dp61
+g32
+VFor Your Information: The Coming of the Robots
+p62
+sg34
+I339
+sa(dp63
+g32
+VForecast (Galaxy, April 1957)
+p64
+sg34
+I326
+sa(dp65
+g32
+VGalaxy's 5 Star Shelf (Galaxy, April 1957)
+p66
+sg34
+I483
+sa(dp67
+g32
+VOperation Stinky
+p68
+sg34
+I56
+sa(dp69
+g32
+VOnce a Greech
+p70
+sg34
+I172
+sa(dp71
+g32
+VMan in the Jar
+p72
+sg34
+I204
+sa(dp73
+g32
+VThe Ifth of Oofth
+p74
+sg34
+I509
+sa(dp75
+g32
+VThe Victim From Space
+p76
+sg34
+I23
+sa(dp77
+g32
+VThe Coffin Cure
 p78
+sg34
+I441
+sa(dp79
+g32
+VArmy Without Banners
+p80
+sg34
+I401
 sasb.

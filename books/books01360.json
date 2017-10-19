@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1969", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/1969-12_IF/1969-12_IF_jp2.zip&file=1969-12_IF_jp2/1969-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/5/58/WOFIFDEC1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        667, 
+        356, 
+        339, 
+        315, 
+        67, 
+        1194, 
+        638, 
+        595, 
+        546, 
+        1195, 
+        161, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1360, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Ancient, My Enemy"
+        }, 
+        {
+            "author": 499, 
+            "title": "Now No One Waits"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Time Was That?"
+        }, 
+        {
+            "author": 499, 
+            "title": "Heroes Die but Once"
+        }, 
+        {
+            "author": 326, 
+            "title": "The New Thing"
+        }, 
+        {
+            "author": 326, 
+            "title": "In the Beginning"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Man Who Would Not"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Seeds of Gonyl (Part 3 of 3)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, December 1969)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Editor's Page: Skintelligence"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, December 1969)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, December 1969)"
+        }, 
+        {
+            "author": 339, 
+            "title": "The Story of Our Earth (If, December 1969)"
+        }, 
+        {
+            "author": 315, 
+            "title": "Ancient, My Enemy"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Seeds of Gonyl (Part 3 of 3)"
+        }, 
+        {
+            "author": 1194, 
+            "title": "Now No One Waits"
+        }, 
+        {
+            "author": 638, 
+            "title": "What Time Was That?"
+        }, 
+        {
+            "author": 595, 
+            "title": "Heroes Die but Once"
+        }, 
+        {
+            "author": 546, 
+            "title": "The New Thing"
+        }, 
+        {
+            "author": 1195, 
+            "title": "In the Beginning"
+        }, 
+        {
+            "author": 161, 
+            "title": "The Man Who Would Not"
+        }
+    ]
+}

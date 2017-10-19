@@ -1,0 +1,104 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1966", 
+    "cover": "https://ia601301.us.archive.org/BookReader/BookReaderImages.php?zip=/24/items/1966-11_IF/1966-11_IF_jp2.zip&file=1966-11_IF_jp2/1966-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9c/WOFIFNOV1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        611, 
+        545, 
+        584, 
+        40, 
+        1125, 
+        67, 
+        604, 
+        111, 
+        356, 
+        384, 
+        779, 
+        50, 
+        1135, 
+        1136, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1325, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Truce or Consequences"
+        }, 
+        {
+            "author": 611, 
+            "title": "At the Core"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Sign of Gree"
+        }, 
+        {
+            "author": 584, 
+            "title": "A Code for Sam"
+        }, 
+        {
+            "author": 499, 
+            "title": "Snow White and the Giants (Part 2 of 4)"
+        }, 
+        {
+            "author": 40, 
+            "title": "About Scientists"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Science-Fiction Fanways"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, November 1966)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Truce or Consequences"
+        }, 
+        {
+            "author": 604, 
+            "title": "At the Core"
+        }, 
+        {
+            "author": 111, 
+            "title": "The Sign of Gree"
+        }, 
+        {
+            "author": 356, 
+            "title": "A Code for Sam"
+        }, 
+        {
+            "author": 384, 
+            "title": "Snow White and the Giants (Part 2 of 4)"
+        }, 
+        {
+            "author": 779, 
+            "title": "The Babe in the Oven"
+        }, 
+        {
+            "author": 50, 
+            "title": "Halfway House"
+        }, 
+        {
+            "author": 1135, 
+            "title": "Hairry"
+        }, 
+        {
+            "author": 1136, 
+            "title": "The Boat in the Bottle"
+        }
+    ]
+}

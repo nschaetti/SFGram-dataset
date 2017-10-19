@@ -1,0 +1,115 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine June 1957", 
+    "cover": "https://ia600208.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/1957-06_IF/1957-06_IF_jp2.zip&file=1957-06_IF_jp2/1957-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/79/WOFIFJUN1957.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        427, 
+        497, 
+        363, 
+        956, 
+        948, 
+        605, 
+        326, 
+        144, 
+        1034, 
+        498, 
+        509, 
+        3, 
+        220, 
+        1004, 
+        918
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1257, 
+    "contents": [
+        {
+            "author": 427, 
+            "title": "Rocket Rotorship"
+        }, 
+        {
+            "author": 497, 
+            "title": "Pretty Quadroon"
+        }, 
+        {
+            "author": 363, 
+            "title": "Operation Gold Brick"
+        }, 
+        {
+            "author": 363, 
+            "title": "Jingle in the Jungle"
+        }, 
+        {
+            "author": 363, 
+            "title": "Does a Bee Care?"
+        }, 
+        {
+            "author": 497, 
+            "title": "... On the Dotted Line"
+        }, 
+        {
+            "author": 956, 
+            "title": "Shuffle Board"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Human Element"
+        }, 
+        {
+            "author": 948, 
+            "title": "Editor's Report (If, June 1957)"
+        }, 
+        {
+            "author": 605, 
+            "title": "The Face of Mars"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, June 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, June 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, June 1957)"
+        }, 
+        {
+            "author": 144, 
+            "title": "Pretty Quadroon"
+        }, 
+        {
+            "author": 1034, 
+            "title": "Jingle in the Jungle"
+        }, 
+        {
+            "author": 498, 
+            "title": "... On the Dotted Line"
+        }, 
+        {
+            "author": 509, 
+            "title": "Operation Gold Brick"
+        }, 
+        {
+            "author": 3, 
+            "title": "Does a Bee Care?"
+        }, 
+        {
+            "author": 220, 
+            "title": "Shuffle Board"
+        }, 
+        {
+            "author": 1004, 
+            "title": "The Human Element"
+        }
+    ]
+}

@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I302
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I971
 aI972
 aI973
@@ -267,7 +264,10 @@ aI1214
 aI1215
 aI1216
 aI1217
-asS'name'
+asS'id'
+p10
+I302
+sS'name'
 p11
 VGalaxy Magazine
 p12

@@ -80,183 +80,185 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I560
-sg14
-VFarmer
+S'title'
 p32
-sa(dp33
-g10
-I560
-sg14
-VFarmer [2]
-p34
-sa(dp35
-g10
-I504
-sg14
-VThe Graybes of Wrath
-p36
-sa(dp37
-g10
-I560
-sg14
-VA Gentle Dying
-p38
-sa(dp39
-g10
-I519
-sg14
-VThe Weirdest World
-p40
-sa(dp41
-g10
-I519
-sg14
-VThe Weirdest World [2]
-p42
-sa(dp43
-g10
-I519
-sg14
-VThe Weirdest World [3]
-p44
-sa(dp45
-g10
-I497
-sg14
-VMother Hitton's Littul Kittons
-p46
-sa(dp47
-g10
-I497
-sg14
-VMother Hitton's Littul Kittons [2]
-p48
-sa(dp49
-g10
-I563
-sg14
-VBreakdown
-p50
-sa(dp51
-g10
-I563
-sg14
-VBreakdown [2]
-p52
-sa(dp53
-g10
-I499
-sg14
-VA-W-F Unlimited
-p54
-sa(dp55
-g10
-I499
-sg14
-VA-W-F Unlimited [2]
-p56
-sa(dp57
-g10
-I419
-sg14
-VMy Object All Sublime
-p58
-sa(dp59
-g10
-I419
-sg14
-VMy Object All Sublime [2]
-p60
-sa(dp61
-g10
-I564
-sg14
-VThe Long Way Home
-p62
-sa(dp63
-g10
-I564
-sg14
-VThe Long Way Home [2]
-p64
-sa(dp65
-g10
-I565
-sg14
-VA Life in the Day of an Editor
-p66
-sa(dp67
-g10
-I339
-sg14
-VFor Your Information: The Strait Named After Vitus Bering
-p68
-sa(dp69
-g10
-I326
-sg14
-VForecast (Galaxy, June 1961)
-p70
-sa(dp71
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, June 1961)
-p72
-sa(dp73
-g10
-I69
-sg14
 VFarmer
-p74
-sa(dp75
-g10
-I479
-sg14
-VMother Hitton's Littul Kittons
-p76
-sa(dp77
-g10
-I63
-sg14
-VA-W-F Unlimited
-p78
-sa(dp79
-g10
-I558
-sg14
+p33
+sS'author'
+p34
+I560
+sa(dp35
+g32
+VFarmer [2]
+p36
+sg34
+I560
+sa(dp37
+g32
 VThe Graybes of Wrath
-p80
-sa(dp81
-g10
-I40
-sg14
+p38
+sg34
+I504
+sa(dp39
+g32
 VA Gentle Dying
-p82
-sa(dp83
-g10
-I74
-sg14
+p40
+sg34
+I560
+sa(dp41
+g32
 VThe Weirdest World
-p84
-sa(dp85
-g10
-I234
-sg14
+p42
+sg34
+I519
+sa(dp43
+g32
+VThe Weirdest World [2]
+p44
+sg34
+I519
+sa(dp45
+g32
+VThe Weirdest World [3]
+p46
+sg34
+I519
+sa(dp47
+g32
+VMother Hitton's Littul Kittons
+p48
+sg34
+I497
+sa(dp49
+g32
+VMother Hitton's Littul Kittons [2]
+p50
+sg34
+I497
+sa(dp51
+g32
 VBreakdown
-p86
-sa(dp87
-g10
-I30
-sg14
+p52
+sg34
+I563
+sa(dp53
+g32
+VBreakdown [2]
+p54
+sg34
+I563
+sa(dp55
+g32
+VA-W-F Unlimited
+p56
+sg34
+I499
+sa(dp57
+g32
+VA-W-F Unlimited [2]
+p58
+sg34
+I499
+sa(dp59
+g32
 VMy Object All Sublime
-p88
-sa(dp89
-g10
-I561
-sg14
+p60
+sg34
+I419
+sa(dp61
+g32
+VMy Object All Sublime [2]
+p62
+sg34
+I419
+sa(dp63
+g32
 VThe Long Way Home
+p64
+sg34
+I564
+sa(dp65
+g32
+VThe Long Way Home [2]
+p66
+sg34
+I564
+sa(dp67
+g32
+VA Life in the Day of an Editor
+p68
+sg34
+I565
+sa(dp69
+g32
+VFor Your Information: The Strait Named After Vitus Bering
+p70
+sg34
+I339
+sa(dp71
+g32
+VForecast (Galaxy, June 1961)
+p72
+sg34
+I326
+sa(dp73
+g32
+VGalaxy's 5 Star Shelf (Galaxy, June 1961)
+p74
+sg34
+I483
+sa(dp75
+g32
+VFarmer
+p76
+sg34
+I69
+sa(dp77
+g32
+VMother Hitton's Littul Kittons
+p78
+sg34
+I479
+sa(dp79
+g32
+VA-W-F Unlimited
+p80
+sg34
+I63
+sa(dp81
+g32
+VThe Graybes of Wrath
+p82
+sg34
+I558
+sa(dp83
+g32
+VA Gentle Dying
+p84
+sg34
+I40
+sa(dp85
+g32
+VThe Weirdest World
+p86
+sg34
+I74
+sa(dp87
+g32
+VBreakdown
+p88
+sg34
+I234
+sa(dp89
+g32
+VMy Object All Sublime
 p90
+sg34
+I30
+sa(dp91
+g32
+VThe Long Way Home
+p92
+sg34
+I561
 sasb.

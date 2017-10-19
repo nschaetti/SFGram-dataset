@@ -1,0 +1,82 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1972", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/1972-02_IF/1972-02_IF_jp2.zip&file=1972-02_IF_jp2/1972-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/20/WOFIFJANFEB1972.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        667, 
+        356, 
+        16, 
+        635, 
+        1218, 
+        722, 
+        639, 
+        918
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1375, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Patterns of Chaos (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Cast-Iron Rat"
+        }, 
+        {
+            "author": 326, 
+            "title": "Time Patrol"
+        }, 
+        {
+            "author": 499, 
+            "title": "Sheltering Dream"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Castoffs"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, January-February 1972)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, January-February 1972)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, January-February 1972)"
+        }, 
+        {
+            "author": 16, 
+            "title": "The Cast-Iron Rat"
+        }, 
+        {
+            "author": 635, 
+            "title": "Patterns of Chaos (Part 1 of 3)"
+        }, 
+        {
+            "author": 1218, 
+            "title": "Time Patrol"
+        }, 
+        {
+            "author": 722, 
+            "title": "Sheltering Dream"
+        }, 
+        {
+            "author": 639, 
+            "title": "The Castoffs"
+        }
+    ]
+}

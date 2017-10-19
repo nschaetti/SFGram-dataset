@@ -1,0 +1,94 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1968", 
+    "cover": "https://ia600207.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/1968-12_IF_modified/1968-12_IF_modified_jp2.zip&file=1968-12_IF_modified_jp2/1968-12_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f9/WOFIFDEC1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        519, 
+        497, 
+        40, 
+        356, 
+        326, 
+        1070, 
+        630, 
+        69, 
+        3, 
+        1177, 
+        1084, 
+        1023, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1350, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Holmes-Ginsbook Device"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Starman of Pritchard's Creek"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Tin Fishes"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Computer Conspiracy (Part 2 of 2)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Three in a Row"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, December 1968)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, December 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, December 1968)"
+        }, 
+        {
+            "author": 1070, 
+            "title": "The Starman of Pritchard's Creek"
+        }, 
+        {
+            "author": 630, 
+            "title": "The Tin Fishes"
+        }, 
+        {
+            "author": 69, 
+            "title": "The Computer Conspiracy (Part 2 of 2)"
+        }, 
+        {
+            "author": 3, 
+            "title": "The Holmes-Ginsbook Device"
+        }, 
+        {
+            "author": 1177, 
+            "title": "The Canals of Santa Claus"
+        }, 
+        {
+            "author": 1084, 
+            "title": "The Comsat Angels"
+        }, 
+        {
+            "author": 1023, 
+            "title": "The Pawob Division"
+        }
+    ]
+}

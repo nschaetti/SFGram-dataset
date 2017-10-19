@@ -71,105 +71,107 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VCry Wolf!
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VEmber Eyes
-p34
-sa(dp35
-g10
-I326
-sg14
-VLove Conquers All (Part 2 of 3)
-p36
-sa(dp37
-g10
-I326
-sg14
-VThe Eggs of Eden
-p38
-sa(dp39
-g10
-I742
-sg14
-VThe Man Who Came Back
-p40
-sa(dp41
-g10
-I326
-sg14
-VThe Bleeding Man
-p42
-sa(dp43
-g10
-I326
-sg14
-VThe Bleeding Man [2]
-p44
-sa(dp45
-g10
-I743
-sg14
-VForum: Escape Routes
-p46
-sa(dp47
-g10
-I734
-sg14
-VBlack Holes and Cosmic Censorship
-p48
-sa(dp49
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, December 1974)
-p50
-sa(dp51
-g10
-I326
-sg14
-VDirections (Galaxy, December 1974)
-p52
-sa(dp53
-g10
-I69
-sg14
 VCry Wolf!
-p54
-sa(dp55
-g10
-I761
-sg14
-VThe Eggs of Eden
-p56
-sa(dp57
-g10
-I762
-sg14
-VThe Bleeding Man
-p58
-sa(dp59
-g10
-I561
-sg14
-VLove Conquers All (Part 2 of 3)
-p60
-sa(dp61
-g10
-I741
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VEmber Eyes
-p62
-sa(dp63
-g10
-I50
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
+VLove Conquers All (Part 2 of 3)
+p38
+sg34
+I326
+sa(dp39
+g32
+VThe Eggs of Eden
+p40
+sg34
+I326
+sa(dp41
+g32
 VThe Man Who Came Back
+p42
+sg34
+I742
+sa(dp43
+g32
+VThe Bleeding Man
+p44
+sg34
+I326
+sa(dp45
+g32
+VThe Bleeding Man [2]
+p46
+sg34
+I326
+sa(dp47
+g32
+VForum: Escape Routes
+p48
+sg34
+I743
+sa(dp49
+g32
+VBlack Holes and Cosmic Censorship
+p50
+sg34
+I734
+sa(dp51
+g32
+VGalaxy Bookshelf (Galaxy, December 1974)
+p52
+sg34
+I341
+sa(dp53
+g32
+VDirections (Galaxy, December 1974)
+p54
+sg34
+I326
+sa(dp55
+g32
+VCry Wolf!
+p56
+sg34
+I69
+sa(dp57
+g32
+VThe Eggs of Eden
+p58
+sg34
+I761
+sa(dp59
+g32
+VThe Bleeding Man
+p60
+sg34
+I762
+sa(dp61
+g32
+VLove Conquers All (Part 2 of 3)
+p62
+sg34
+I561
+sa(dp63
+g32
+VEmber Eyes
 p64
+sg34
+I741
+sa(dp65
+g32
+VThe Man Who Came Back
+p66
+sg34
+I50
 sasb.

@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I479
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I1033
 aI1072
 aI1078
@@ -33,7 +30,15 @@ aI1105
 aI1109
 aI1110
 aI1210
-asS'name'
+aI1265
+aI1266
+aI1267
+aI1286
+aI1297
+asS'id'
+p10
+I479
+sS'name'
 p11
 VCordwainer Smith
 p12

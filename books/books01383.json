@@ -1,0 +1,81 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1973", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/1973-06_IF/1973-06_IF_jp2.zip&file=1973-06_IF_jp2/1973-06_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/dd/WOFIFMAYJUN1973.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        356, 
+        1226, 
+        577, 
+        972, 
+        56, 
+        1227, 
+        918
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1383, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Our Children's Children (Part 1 of 2)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Susies' Reality"
+        }, 
+        {
+            "author": 326, 
+            "title": "Mnarra Mobilis"
+        }, 
+        {
+            "author": 499, 
+            "title": "Promise Them Anything"
+        }, 
+        {
+            "author": 326, 
+            "title": "Experiment"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, May-June 1973)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, May-June 1973)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, May-June 1973)"
+        }, 
+        {
+            "author": 1226, 
+            "title": "Susie's Reality"
+        }, 
+        {
+            "author": 577, 
+            "title": "Mnarra Mobilis"
+        }, 
+        {
+            "author": 972, 
+            "title": "Promise Them Anything"
+        }, 
+        {
+            "author": 56, 
+            "title": "Our Children's Children (Part 1 of 2)"
+        }, 
+        {
+            "author": 1227, 
+            "title": "Experiment"
+        }
+    ]
+}

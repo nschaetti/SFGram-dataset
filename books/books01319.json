@@ -1,0 +1,86 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1966", 
+    "cover": "https://ia600205.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/1966-05_IF/1966-05_IF_jp2.zip&file=1966-05_IF_jp2/1966-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d9/WOFIFMAY1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        611, 
+        584, 
+        519, 
+        356, 
+        1125, 
+        40, 
+        135, 
+        711, 
+        658, 
+        67, 
+        1127, 
+        74, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1319, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Silkies in Space"
+        }, 
+        {
+            "author": 611, 
+            "title": "The Hide Hunters"
+        }, 
+        {
+            "author": 584, 
+            "title": "Mountains Like Mice"
+        }, 
+        {
+            "author": 519, 
+            "title": "Earthblood (Part 2 of 4)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Guest Editorial: The Year of the Horse"
+        }, 
+        {
+            "author": 1125, 
+            "title": "An Apa for Everyone"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, May 1966)"
+        }, 
+        {
+            "author": 135, 
+            "title": "The Hide Hunters"
+        }, 
+        {
+            "author": 711, 
+            "title": "Mountains Like Mice"
+        }, 
+        {
+            "author": 658, 
+            "title": "Silkies in Space"
+        }, 
+        {
+            "author": 67, 
+            "title": "Earthblood (Part 2 of 4)"
+        }, 
+        {
+            "author": 1127, 
+            "title": "The Historian"
+        }, 
+        {
+            "author": 74, 
+            "title": "Golden Trabant"
+        }
+    ]
+}

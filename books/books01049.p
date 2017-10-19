@@ -72,135 +72,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I506
-sg14
-VThe Ignoble Savages
+S'title'
 p32
-sa(dp33
-g10
-I506
-sg14
-VThe Ignoble Savages [2]
-p34
-sa(dp35
-g10
-I506
-sg14
-VThe Ignoble Savages [3]
-p36
-sa(dp37
-g10
-I506
-sg14
-VThe Other Celia
-p38
-sa(dp39
-g10
-I506
-sg14
-VThe Deep One
-p40
-sa(dp41
-g10
-I472
-sg14
-VSurvival Type
-p42
-sa(dp43
-g10
-I472
-sg14
-VSurvival Type [2]
-p44
-sa(dp45
-g10
-I472
-sg14
-VSurvival Type [3]
-p46
-sa(dp47
-g10
-I506
-sg14
-VThe Light
-p48
-sa(dp49
-g10
-I499
-sg14
-VAn Eye for a What?
-p50
-sa(dp51
-g10
-I499
-sg14
-VAn Eye for a What? [2]
-p52
-sa(dp53
-g10
-I499
-sg14
-VAn Eye for a What? [3]
-p54
-sa(dp55
-g10
-I305
-sg14
-VPersonal Account
-p56
-sa(dp57
-g10
-I326
-sg14
-VForecast (Galaxy, March 1957)
-p58
-sa(dp59
-g10
-I339
-sg14
-VFor Your Information: The Great Pyramid, the Golden Section and Pi
-p60
-sa(dp61
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, March 1957)
-p62
-sa(dp63
-g10
-I172
-sg14
 VThe Ignoble Savages
-p64
-sa(dp65
-g10
-I507
-sg14
-VSurvival Type
-p66
-sa(dp67
-g10
-I204
-sg14
-VAn Eye for a What?
-p68
-sa(dp69
-g10
-I341
-sg14
+p33
+sS'author'
+p34
+I506
+sa(dp35
+g32
+VThe Ignoble Savages [2]
+p36
+sg34
+I506
+sa(dp37
+g32
+VThe Ignoble Savages [3]
+p38
+sg34
+I506
+sa(dp39
+g32
 VThe Other Celia
-p70
-sa(dp71
-g10
-I508
-sg14
+p40
+sg34
+I506
+sa(dp41
+g32
 VThe Deep One
-p72
-sa(dp73
-g10
-I30
-sg14
+p42
+sg34
+I506
+sa(dp43
+g32
+VSurvival Type
+p44
+sg34
+I472
+sa(dp45
+g32
+VSurvival Type [2]
+p46
+sg34
+I472
+sa(dp47
+g32
+VSurvival Type [3]
+p48
+sg34
+I472
+sa(dp49
+g32
 VThe Light
+p50
+sg34
+I506
+sa(dp51
+g32
+VAn Eye for a What?
+p52
+sg34
+I499
+sa(dp53
+g32
+VAn Eye for a What? [2]
+p54
+sg34
+I499
+sa(dp55
+g32
+VAn Eye for a What? [3]
+p56
+sg34
+I499
+sa(dp57
+g32
+VPersonal Account
+p58
+sg34
+I305
+sa(dp59
+g32
+VForecast (Galaxy, March 1957)
+p60
+sg34
+I326
+sa(dp61
+g32
+VFor Your Information: The Great Pyramid, the Golden Section and Pi
+p62
+sg34
+I339
+sa(dp63
+g32
+VGalaxy's 5 Star Shelf (Galaxy, March 1957)
+p64
+sg34
+I483
+sa(dp65
+g32
+VThe Ignoble Savages
+p66
+sg34
+I172
+sa(dp67
+g32
+VSurvival Type
+p68
+sg34
+I507
+sa(dp69
+g32
+VAn Eye for a What?
+p70
+sg34
+I204
+sa(dp71
+g32
+VThe Other Celia
+p72
+sg34
+I341
+sa(dp73
+g32
+VThe Deep One
 p74
+sg34
+I508
+sa(dp75
+g32
+VThe Light
+p76
+sg34
+I30
 sasb.

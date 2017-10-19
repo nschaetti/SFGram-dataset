@@ -71,123 +71,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I419
-sg14
-VThe Civilization Game
+S'title'
 p32
-sa(dp33
-g10
-I419
-sg14
-VThe Civilization Game [2]
-p34
-sa(dp35
-g10
-I419
-sg14
-VThe Civilization Game [3]
-p36
-sa(dp37
-g10
-I525
-sg14
-VPeople Soup
-p38
-sa(dp39
-g10
-I519
-sg14
-VBirds of a Feather
-p40
-sa(dp41
-g10
-I519
-sg14
-VBirds of a Feather [2]
-p42
-sa(dp43
-g10
-I519
-sg14
-VBirds of a Feather [3]
-p44
-sa(dp45
-g10
-I525
-sg14
-VNo Substitutions
-p46
-sa(dp47
-g10
-I519
-sg14
-VTime Killer (Part 2 of 4)
-p48
-sa(dp49
-g10
-I519
-sg14
-VTime Killer (Part 2 of 4) [2]
-p50
-sa(dp51
-g10
-I519
-sg14
-VTime Killer (Part 2 of 4) [3]
-p52
-sa(dp53
-g10
-I305
-sg14
-VThe Tin Age
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: The First Spaceship
-p56
-sa(dp57
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, November 1958)
-p58
-sa(dp59
-g10
-I326
-sg14
-VForecast (Galaxy, November 1958)
-p60
-sa(dp61
-g10
-I56
-sg14
 VThe Civilization Game
-p62
-sa(dp63
-g10
-I50
-sg14
-VBirds of a Feather
-p64
-sa(dp65
-g10
-I23
-sg14
-VTime Killer (Part 2 of 4)
-p66
-sa(dp67
-g10
-I110
-sg14
+p33
+sS'author'
+p34
+I419
+sa(dp35
+g32
+VThe Civilization Game [2]
+p36
+sg34
+I419
+sa(dp37
+g32
+VThe Civilization Game [3]
+p38
+sg34
+I419
+sa(dp39
+g32
 VPeople Soup
-p68
-sa(dp69
-g10
-I142
-sg14
+p40
+sg34
+I525
+sa(dp41
+g32
+VBirds of a Feather
+p42
+sg34
+I519
+sa(dp43
+g32
+VBirds of a Feather [2]
+p44
+sg34
+I519
+sa(dp45
+g32
+VBirds of a Feather [3]
+p46
+sg34
+I519
+sa(dp47
+g32
 VNo Substitutions
+p48
+sg34
+I525
+sa(dp49
+g32
+VTime Killer (Part 2 of 4)
+p50
+sg34
+I519
+sa(dp51
+g32
+VTime Killer (Part 2 of 4) [2]
+p52
+sg34
+I519
+sa(dp53
+g32
+VTime Killer (Part 2 of 4) [3]
+p54
+sg34
+I519
+sa(dp55
+g32
+VThe Tin Age
+p56
+sg34
+I305
+sa(dp57
+g32
+VFor Your Information: The First Spaceship
+p58
+sg34
+I339
+sa(dp59
+g32
+VGalaxy's 5 Star Shelf (Galaxy, November 1958)
+p60
+sg34
+I483
+sa(dp61
+g32
+VForecast (Galaxy, November 1958)
+p62
+sg34
+I326
+sa(dp63
+g32
+VThe Civilization Game
+p64
+sg34
+I56
+sa(dp65
+g32
+VBirds of a Feather
+p66
+sg34
+I50
+sa(dp67
+g32
+VTime Killer (Part 2 of 4)
+p68
+sg34
+I23
+sa(dp69
+g32
+VPeople Soup
 p70
+sg34
+I110
+sa(dp71
+g32
+VNo Substitutions
+p72
+sg34
+I142
 sasb.

@@ -73,141 +73,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I497
-sg14
-VOn the Storm Planet
+S'title'
 p32
-sa(dp33
-g10
-I497
-sg14
-VOn the Storm Planet [2]
-p34
-sa(dp35
-g10
-I497
-sg14
-VOn the Storm Planet [3]
-p36
-sa(dp37
-g10
-I497
-sg14
-VOn the Storm Planet [4]
-p38
-sa(dp39
-g10
-I545
-sg14
-VThe Man Who Killed Immortals
-p40
-sa(dp41
-g10
-I545
-sg14
-VThe Man Who Killed Immortals [2]
-p42
-sa(dp43
-g10
-I545
-sg14
-VThe Man Who Killed Immortals [3]
-p44
-sa(dp45
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, February 1965) (Circulation:73,536)
-p46
-sa(dp47
-g10
-I499
-sg14
-VPlanet of Forgetting
-p48
-sa(dp49
-g10
-I499
-sg14
-VPlanet of Forgetting [2]
-p50
-sa(dp51
-g10
-I499
-sg14
-VPlanet of Forgetting [3]
-p52
-sa(dp53
-g10
-I499
-sg14
-VPlanet of Forgetting [4]
-p54
-sa(dp55
-g10
-I40
-sg14
-VFred Hoyle Revisited
-p56
-sa(dp57
-g10
-I339
-sg14
-VFor Your Information: Forerunners of the Planetarium
-p58
-sa(dp59
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, February 1965)
-p60
-sa(dp61
-g10
-I326
-sg14
-VForecast (Galaxy, February 1965)
-p62
-sa(dp63
-g10
-I384
-sg14
-VThe Man Who Killed Immortals
-p64
-sa(dp65
-g10
-I136
-sg14
-VPlanet of Forgetting
-p66
-sa(dp67
-g10
-I479
-sg14
 VOn the Storm Planet
+p33
+sS'author'
+p34
+I497
+sa(dp35
+g32
+VOn the Storm Planet [2]
+p36
+sg34
+I497
+sa(dp37
+g32
+VOn the Storm Planet [3]
+p38
+sg34
+I497
+sa(dp39
+g32
+VOn the Storm Planet [4]
+p40
+sg34
+I497
+sa(dp41
+g32
+VThe Man Who Killed Immortals
+p42
+sg34
+I545
+sa(dp43
+g32
+VThe Man Who Killed Immortals [2]
+p44
+sg34
+I545
+sa(dp45
+g32
+VThe Man Who Killed Immortals [3]
+p46
+sg34
+I545
+sa(dp47
+g32
+VStatement of Ownership (Galaxy, February 1965) (Circulation:73,536)
+p48
+sg34
+I326
+sa(dp49
+g32
+VPlanet of Forgetting
+p50
+sg34
+I499
+sa(dp51
+g32
+VPlanet of Forgetting [2]
+p52
+sg34
+I499
+sa(dp53
+g32
+VPlanet of Forgetting [3]
+p54
+sg34
+I499
+sa(dp55
+g32
+VPlanet of Forgetting [4]
+p56
+sg34
+I499
+sa(dp57
+g32
+VFred Hoyle Revisited
+p58
+sg34
+I40
+sa(dp59
+g32
+VFor Your Information: Forerunners of the Planetarium
+p60
+sg34
+I339
+sa(dp61
+g32
+VGalaxy Bookshelf (Galaxy, February 1965)
+p62
+sg34
+I91
+sa(dp63
+g32
+VForecast (Galaxy, February 1965)
+p64
+sg34
+I326
+sa(dp65
+g32
+VThe Man Who Killed Immortals
+p66
+sg34
+I384
+sa(dp67
+g32
+VPlanet of Forgetting
 p68
+sg34
+I136
 sa(dp69
-g10
-I111
-sg14
-VA Flask of Fine Arcturan
+g32
+VOn the Storm Planet
 p70
+sg34
+I479
 sa(dp71
-g10
-I50
-sg14
-VThe Sixth Palace
+g32
+VA Flask of Fine Arcturan
 p72
+sg34
+I111
 sa(dp73
-g10
-I217
-sg14
-VHarry Protagonist, Brain-Drainer
+g32
+VThe Sixth Palace
 p74
+sg34
+I50
 sa(dp75
-g10
-I597
-sg14
-VFin's Funeral
+g32
+VHarry Protagonist, Brain-Drainer
 p76
+sg34
+I217
+sa(dp77
+g32
+VFin's Funeral
+p78
+sg34
+I597
 sasb.

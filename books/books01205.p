@@ -72,177 +72,179 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VA Certain Place in History
+S'title'
 p32
-sa(dp33
-g10
-I742
-sg14
-VA Certain Place in History [2]
+VA Certain Place in History
+p33
+sS'author'
 p34
+I742
 sa(dp35
-g10
-I742
-sg14
-VA Certain Place in History [3]
+g32
+VA Certain Place in History [2]
 p36
+sg34
+I742
 sa(dp37
-g10
-I742
-sg14
-VThe Prologue to Light
+g32
+VA Certain Place in History [3]
 p38
+sg34
+I742
 sa(dp39
-g10
-I742
-sg14
-VThe Prologue to Light [2]
+g32
+VThe Prologue to Light
 p40
+sg34
+I742
 sa(dp41
-g10
-I742
-sg14
-VThe Prologue to Light [3]
+g32
+VThe Prologue to Light [2]
 p42
+sg34
+I742
 sa(dp43
-g10
-I742
-sg14
-VThe Prologue to Light [4]
+g32
+VThe Prologue to Light [3]
 p44
+sg34
+I742
 sa(dp45
-g10
-I742
-sg14
-VThe Prologue to Light [5]
+g32
+VThe Prologue to Light [4]
 p46
+sg34
+I742
 sa(dp47
-g10
-I742
-sg14
-VLast Contact
+g32
+VThe Prologue to Light [5]
 p48
+sg34
+I742
 sa(dp49
-g10
-I742
-sg14
-VLast Contact [2]
+g32
+VLast Contact
 p50
+sg34
+I742
 sa(dp51
-g10
-I742
-sg14
-VExiles to Glory (Part 2 of 2)
+g32
+VLast Contact [2]
 p52
+sg34
+I742
 sa(dp53
-g10
-I742
-sg14
-VExiles to Glory (Part 2 of 2) [2]
+g32
+VExiles to Glory (Part 2 of 2)
 p54
+sg34
+I742
 sa(dp55
-g10
-I742
-sg14
-VExiles to Glory (Part 2 of 2) [3]
+g32
+VExiles to Glory (Part 2 of 2) [2]
 p56
+sg34
+I742
 sa(dp57
-g10
-I742
-sg14
-VExiles to Glory (Part 2 of 2) [4]
+g32
+VExiles to Glory (Part 2 of 2) [3]
 p58
-sa(dp59
-g10
+sg34
 I742
-sg14
-VExiles to Glory (Part 2 of 2) [5]
+sa(dp59
+g32
+VExiles to Glory (Part 2 of 2) [4]
 p60
+sg34
+I742
 sa(dp61
-g10
-I719
-sg14
-VAnd Ba
+g32
+VExiles to Glory (Part 2 of 2) [5]
 p62
+sg34
+I742
 sa(dp63
-g10
-I834
-sg14
+g32
 VAnd Ba
 p64
+sg34
+I719
 sa(dp65
-g10
-I835
-sg14
+g32
 VAnd Ba
 p66
+sg34
+I834
 sa(dp67
-g10
-I836
-sg14
-VA Message From the Publisher: The Best to Jim
+g32
+VAnd Ba
 p68
+sg34
+I835
 sa(dp69
-g10
-I837
-sg14
-VStar Wars - Pro
+g32
+VA Message From the Publisher: The Best to Jim
 p70
+sg34
+I836
 sa(dp71
-g10
-I838
-sg14
-VStar Wars - Con
+g32
+VStar Wars - Pro
 p72
+sg34
+I837
 sa(dp73
-g10
-I764
-sg14
-VIons and Microwaves
+g32
+VStar Wars - Con
 p74
+sg34
+I838
 sa(dp75
-g10
-I734
-sg14
-VJim Baen and His Electric Spaceships
+g32
+VIons and Microwaves
 p76
+sg34
+I764
 sa(dp77
-g10
-I326
-sg14
-VS. F. Calendar (Galaxy, October 1977)
+g32
+VJim Baen and His Electric Spaceships
 p78
-sa(dp79
-g10
-I326
-sg14
-VDirections (Galaxy, October 1977)
-p80
-sa(dp81
-g10
-I839
-sg14
-VThe Prologue to Light
-p82
-sa(dp83
-g10
+sg34
 I734
-sg14
-VExiles to Glory (Part 2 of 2)
+sa(dp79
+g32
+VS. F. Calendar (Galaxy, October 1977)
+p80
+sg34
+I326
+sa(dp81
+g32
+VDirections (Galaxy, October 1977)
+p82
+sg34
+I326
+sa(dp83
+g32
+VThe Prologue to Light
 p84
+sg34
+I839
 sa(dp85
-g10
-I817
-sg14
-VA Certain Place in History
+g32
+VExiles to Glory (Part 2 of 2)
 p86
+sg34
+I734
 sa(dp87
-g10
-I840
-sg14
-VLast Contact
+g32
+VA Certain Place in History
 p88
+sg34
+I817
+sa(dp89
+g32
+VLast Contact
+p90
+sg34
+I840
 sasb.

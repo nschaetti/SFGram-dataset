@@ -77,111 +77,113 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I303
-sg14
-VEditorial (Galaxy, #7)
+S'title'
 p32
-sa(dp33
-g10
-I313
-sg14
-VMy Life Among the Stars: Balance of Terror (Galaxy, #7)
+VEditorial (Galaxy, #7)
+p33
+sS'author'
 p34
+I303
 sa(dp35
-g10
-I314
-sg14
-VFor Your Information (Galaxy, #7)
+g32
+VMy Life Among the Stars: Balance of Terror (Galaxy, #7)
 p36
+sg34
+I313
 sa(dp37
-g10
-I23
-sg14
-VSeven Soup Rivers
+g32
+VFor Your Information (Galaxy, #7)
 p38
+sg34
+I314
 sa(dp39
-g10
-I50
-sg14
-VMugwump Four
+g32
+VSeven Soup Rivers
 p40
+sg34
+I23
 sa(dp41
-g10
-I315
-sg14
-VLulungomeena
+g32
+VMugwump Four
 p42
+sg34
+I50
 sa(dp43
-g10
-I316
-sg14
-VSupport Unlimited
+g32
+VLulungomeena
 p44
+sg34
+I315
 sa(dp45
-g10
-I317
-sg14
-VMidnight Pearls Blue
+g32
+VSupport Unlimited
 p46
+sg34
+I316
 sa(dp47
-g10
-I318
-sg14
-VThoroughly Modern Magic
+g32
+VMidnight Pearls Blue
 p48
+sg34
+I317
 sa(dp49
-g10
-I319
-sg14
-VThis Space for Rent
+g32
+VThoroughly Modern Magic
 p50
+sg34
+I318
 sa(dp51
-g10
-I320
-sg14
-VThe Temptation of Harringay
+g32
+VThis Space for Rent
 p52
+sg34
+I319
 sa(dp53
-g10
-I63
-sg14
-VOld Rambling House
+g32
+VThe Temptation of Harringay
 p54
+sg34
+I320
 sa(dp55
-g10
-I321
-sg14
-VSongs of the Soul
+g32
+VOld Rambling House
 p56
+sg34
+I63
 sa(dp57
-g10
-I322
-sg14
-VThe Client From Hell
+g32
+VSongs of the Soul
 p58
+sg34
+I321
 sa(dp59
-g10
-I323
-sg14
-VJust Rubberface and Me
+g32
+VThe Client From Hell
 p60
+sg34
+I322
 sa(dp61
-g10
-I324
-sg14
-VThe Greatest Loss
+g32
+VJust Rubberface and Me
 p62
+sg34
+I323
 sa(dp63
-g10
-I325
-sg14
-VCoke Bottle Lenses
+g32
+VThe Greatest Loss
 p64
+sg34
+I324
 sa(dp65
-g10
-I312
-sg14
-VThe Dead-End
+g32
+VCoke Bottle Lenses
 p66
+sg34
+I325
+sa(dp67
+g32
+VThe Dead-End
+p68
+sg34
+I312
 sasb.

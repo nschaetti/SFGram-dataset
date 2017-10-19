@@ -70,135 +70,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I778
-sg14
-VSun-Planet
+S'title'
 p32
-sa(dp33
-g10
-I778
-sg14
-VSun-Planet [2]
+VSun-Planet
+p33
+sS'author'
 p34
+I778
 sa(dp35
-g10
-I778
-sg14
-VSun-Planet [3]
+g32
+VSun-Planet [2]
 p36
-sa(dp37
-g10
+sg34
 I778
-sg14
-VSun-Planet [4]
+sa(dp37
+g32
+VSun-Planet [3]
 p38
+sg34
+I778
 sa(dp39
-g10
-I499
-sg14
-VKin to Kaspar Hauser
+g32
+VSun-Planet [4]
 p40
+sg34
+I778
 sa(dp41
-g10
-I499
-sg14
-VKin to Kaspar Hauser [2]
-p42
-sa(dp43
-g10
-I742
-sg14
-VPassport for a Phoenix
-p44
-sa(dp45
-g10
-I742
-sg14
-VPassport for a Phoenix [2]
-p46
-sa(dp47
-g10
-I742
-sg14
-VNight Runners
-p48
-sa(dp49
-g10
-I742
-sg14
-VNight Runners [2]
-p50
-sa(dp51
-g10
-I742
-sg14
-VNight Runners [3]
-p52
-sa(dp53
-g10
-I806
-sg14
-VWhat Song the Sirens Sang
-p54
-sa(dp55
-g10
-I806
-sg14
-VWhat Song the Sirens Sang [2]
-p56
-sa(dp57
-g10
-I742
-sg14
-VShowcase (Galaxy, April 1977)
-p58
-sa(dp59
-g10
-I734
-sg14
-VThat Beautiful Gooney Bird
-p60
-sa(dp61
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, April 1977) (Circulation: 52,831)
-p62
-sa(dp63
-g10
-I770
-sg14
-VGalaxy Bookshelf (Galaxy, April 1977)
-p64
-sa(dp65
-g10
-I326
-sg14
-VDirections (Galaxy, April 1977)
-p66
-sa(dp67
-g10
-I772
-sg14
+g32
 VKin to Kaspar Hauser
-p68
-sa(dp69
-g10
-I741
-sg14
+p42
+sg34
+I499
+sa(dp43
+g32
+VKin to Kaspar Hauser [2]
+p44
+sg34
+I499
+sa(dp45
+g32
 VPassport for a Phoenix
-p70
-sa(dp71
-g10
-I816
-sg14
+p46
+sg34
+I742
+sa(dp47
+g32
+VPassport for a Phoenix [2]
+p48
+sg34
+I742
+sa(dp49
+g32
 VNight Runners
-p72
-sa(dp73
-g10
-I817
-sg14
+p50
+sg34
+I742
+sa(dp51
+g32
+VNight Runners [2]
+p52
+sg34
+I742
+sa(dp53
+g32
+VNight Runners [3]
+p54
+sg34
+I742
+sa(dp55
+g32
 VWhat Song the Sirens Sang
+p56
+sg34
+I806
+sa(dp57
+g32
+VWhat Song the Sirens Sang [2]
+p58
+sg34
+I806
+sa(dp59
+g32
+VShowcase (Galaxy, April 1977)
+p60
+sg34
+I742
+sa(dp61
+g32
+VThat Beautiful Gooney Bird
+p62
+sg34
+I734
+sa(dp63
+g32
+VStatement of Ownership (Galaxy, April 1977) (Circulation: 52,831)
+p64
+sg34
+I326
+sa(dp65
+g32
+VGalaxy Bookshelf (Galaxy, April 1977)
+p66
+sg34
+I770
+sa(dp67
+g32
+VDirections (Galaxy, April 1977)
+p68
+sg34
+I326
+sa(dp69
+g32
+VKin to Kaspar Hauser
+p70
+sg34
+I772
+sa(dp71
+g32
+VPassport for a Phoenix
+p72
+sg34
+I741
+sa(dp73
+g32
+VNight Runners
 p74
+sg34
+I816
+sa(dp75
+g32
+VWhat Song the Sirens Sang
+p76
+sg34
+I817
 sasb.

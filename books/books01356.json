@@ -1,0 +1,99 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1969", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/1969-07_IF/1969-07_IF_jp2.zip&file=1969-07_IF_jp2/1969-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/2/28/WOFIFJUL1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        640, 
+        649, 
+        611, 
+        40, 
+        356, 
+        326, 
+        1154, 
+        67, 
+        653, 
+        69, 
+        1188, 
+        654, 
+        1189, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1356, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "The Towns Must Roll (Part 1 of 2)"
+        }, 
+        {
+            "author": 640, 
+            "title": "Spork Conquers Civilization"
+        }, 
+        {
+            "author": 499, 
+            "title": "Authorgraphs: An Interview with Robert Bloch"
+        }, 
+        {
+            "author": 649, 
+            "title": "The Half Man"
+        }, 
+        {
+            "author": 611, 
+            "title": "Where the Beast Runs"
+        }, 
+        {
+            "author": 40, 
+            "title": "Looking Ahead"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, July 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, July 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Authorgraphs: An Interview with Robert Bloch"
+        }, 
+        {
+            "author": 1154, 
+            "title": "Spork Conquers Civilization"
+        }, 
+        {
+            "author": 67, 
+            "title": "The Half Man"
+        }, 
+        {
+            "author": 653, 
+            "title": "Where the Beast Runs"
+        }, 
+        {
+            "author": 69, 
+            "title": "The Towns Must Roll (Part 1 of 2)"
+        }, 
+        {
+            "author": 1188, 
+            "title": "On the Dead Star"
+        }, 
+        {
+            "author": 654, 
+            "title": "Autohuman 14"
+        }, 
+        {
+            "author": 1189, 
+            "title": "A Day for Dying"
+        }
+    ]
+}

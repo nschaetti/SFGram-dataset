@@ -72,129 +72,131 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I578
-sg14
-VThe Starsloggers
+S'title'
 p32
-sa(dp33
-g10
-I578
-sg14
-VThe Starsloggers [2]
-p34
-sa(dp35
-g10
-I578
-sg14
-VThe Starsloggers [3]
-p36
-sa(dp37
-g10
-I578
-sg14
-VThe Starsloggers [4]
-p38
-sa(dp39
-g10
-I497
-sg14
-VA Man of the Renaissance
-p40
-sa(dp41
-g10
-I497
-sg14
-VA Man of the Renaissance [2]
-p42
-sa(dp43
-g10
-I497
-sg14
-VA Man of the Renaissance [3]
-p44
-sa(dp45
-g10
-I497
-sg14
-VA Man of the Renaissance [4]
-p46
-sa(dp47
-g10
-I497
-sg14
-VA Man of the Renaissance [5]
-p48
-sa(dp49
-g10
-I545
-sg14
-VTo Avenge Man
-p50
-sa(dp51
-g10
-I545
-sg14
-VTo Avenge Man [2]
-p52
-sa(dp53
-g10
-I40
-sg14
-VSpacemen &Amp; Lawmen
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: The Rarest Animals
-p56
-sa(dp57
-g10
-I326
-sg14
-VForecast (Galaxy, December 1964)
-p58
-sa(dp59
-g10
-I368
-sg14
-VA Man of the Renaissance
-p60
-sa(dp61
-g10
-I356
-sg14
-VTo Avenge Man
-p62
-sa(dp63
-g10
-I16
-sg14
 VThe Starsloggers
+p33
+sS'author'
+p34
+I578
+sa(dp35
+g32
+VThe Starsloggers [2]
+p36
+sg34
+I578
+sa(dp37
+g32
+VThe Starsloggers [3]
+p38
+sg34
+I578
+sa(dp39
+g32
+VThe Starsloggers [4]
+p40
+sg34
+I578
+sa(dp41
+g32
+VA Man of the Renaissance
+p42
+sg34
+I497
+sa(dp43
+g32
+VA Man of the Renaissance [2]
+p44
+sg34
+I497
+sa(dp45
+g32
+VA Man of the Renaissance [3]
+p46
+sg34
+I497
+sa(dp47
+g32
+VA Man of the Renaissance [4]
+p48
+sg34
+I497
+sa(dp49
+g32
+VA Man of the Renaissance [5]
+p50
+sg34
+I497
+sa(dp51
+g32
+VTo Avenge Man
+p52
+sg34
+I545
+sa(dp53
+g32
+VTo Avenge Man [2]
+p54
+sg34
+I545
+sa(dp55
+g32
+VSpacemen &Amp; Lawmen
+p56
+sg34
+I40
+sa(dp57
+g32
+VFor Your Information: The Rarest Animals
+p58
+sg34
+I339
+sa(dp59
+g32
+VForecast (Galaxy, December 1964)
+p60
+sg34
+I326
+sa(dp61
+g32
+VA Man of the Renaissance
+p62
+sg34
+I368
+sa(dp63
+g32
+VTo Avenge Man
 p64
+sg34
+I356
 sa(dp65
-g10
-I566
-sg14
-VBallad of the Interstellar Merchants
+g32
+VThe Starsloggers
 p66
+sg34
+I16
 sa(dp67
-g10
-I595
-sg14
-VThe Rules of the Road
+g32
+VBallad of the Interstellar Merchants
 p68
+sg34
+I566
 sa(dp69
-g10
-I591
-sg14
-VThe Monster and the Maiden
+g32
+VThe Rules of the Road
 p70
+sg34
+I595
 sa(dp71
-g10
-I596
-sg14
-VLet Me Call Her Sweetcore
+g32
+VThe Monster and the Maiden
 p72
+sg34
+I591
+sa(dp73
+g32
+VLet Me Call Her Sweetcore
+p74
+sg34
+I596
 sasb.

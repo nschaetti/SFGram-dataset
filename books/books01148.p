@@ -70,99 +70,101 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VThis Is My Country
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VThe Reflected Men
-p34
-sa(dp35
-g10
-I499
-sg14
-VSecond Run at the Data
-p36
-sa(dp37
-g10
-I499
-sg14
-VThe Sharks of Pentreath
-p38
-sa(dp39
-g10
-I499
-sg14
-VThe Hero
-p40
-sa(dp41
-g10
-I499
-sg14
-VScramble
-p42
-sa(dp43
-g10
-I326
-sg14
-VExiled From Earth (Part 2 of 2)
-p44
-sa(dp45
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, February 1971)
-p46
-sa(dp47
-g10
-I478
-sg14
 VThis Is My Country
-p48
-sa(dp49
-g10
-I658
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
 VThe Reflected Men
-p50
-sa(dp51
-g10
-I47
-sg14
-VExiled From Earth (Part 2 of 2)
-p52
-sa(dp53
-g10
-I23
-sg14
-VDown the Digestive Tract
-p54
-sa(dp55
-g10
-I639
-sg14
+p36
+sg34
+I499
+sa(dp37
+g32
 VSecond Run at the Data
-p56
-sa(dp57
-g10
-I675
-sg14
+p38
+sg34
+I499
+sa(dp39
+g32
 VThe Sharks of Pentreath
-p58
-sa(dp59
-g10
-I691
-sg14
+p40
+sg34
+I499
+sa(dp41
+g32
 VThe Hero
-p60
-sa(dp61
-g10
-I692
-sg14
+p42
+sg34
+I499
+sa(dp43
+g32
 VScramble
+p44
+sg34
+I499
+sa(dp45
+g32
+VExiled From Earth (Part 2 of 2)
+p46
+sg34
+I326
+sa(dp47
+g32
+VGalaxy Bookshelf (Galaxy, February 1971)
+p48
+sg34
+I91
+sa(dp49
+g32
+VThis Is My Country
+p50
+sg34
+I478
+sa(dp51
+g32
+VThe Reflected Men
+p52
+sg34
+I658
+sa(dp53
+g32
+VExiled From Earth (Part 2 of 2)
+p54
+sg34
+I47
+sa(dp55
+g32
+VDown the Digestive Tract
+p56
+sg34
+I23
+sa(dp57
+g32
+VSecond Run at the Data
+p58
+sg34
+I639
+sa(dp59
+g32
+VThe Sharks of Pentreath
+p60
+sg34
+I675
+sa(dp61
+g32
+VThe Hero
 p62
+sg34
+I691
+sa(dp63
+g32
+VScramble
+p64
+sg34
+I692
 sasb.

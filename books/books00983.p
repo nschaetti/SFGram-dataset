@@ -72,153 +72,155 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I336
-sg14
-VBeyond Bedlam
+S'title'
 p32
-sa(dp33
-g10
-I336
-sg14
-VBeyond Bedlam [2]
-p34
-sa(dp35
-g10
-I336
-sg14
-VBeyond Bedlam [3]
-p36
-sa(dp37
-g10
-I336
-sg14
-VBeyond Bedlam [4]
-p38
-sa(dp39
-g10
-I363
-sg14
-VOperation Distress
-p40
-sa(dp41
-g10
-I363
-sg14
-VOperation Distress [2]
-p42
-sa(dp43
-g10
-I336
-sg14
-VThe Pilot and the Bushman
-p44
-sa(dp45
-g10
-I336
-sg14
-VThe Pilot and the Bushman [2]
-p46
-sa(dp47
-g10
-I336
-sg14
-VThe Pilot and the Bushman [3]
-p48
-sa(dp49
-g10
-I366
-sg14
-VPictures Don't Lie
-p50
-sa(dp51
-g10
-I366
-sg14
-VPictures Don't Lie [2]
-p52
-sa(dp53
-g10
-I363
-sg14
-VThe Fire and the Sword
-p54
-sa(dp55
-g10
-I363
-sg14
-VThe Fire and the Sword [2]
-p56
-sa(dp57
-g10
-I363
-sg14
-VThe Fire and the Sword [3]
-p58
-sa(dp59
-g10
-I367
-sg14
-VA Little Journey
-p60
-sa(dp61
-g10
-I305
-sg14
-VAsk a Foolish Question
-p62
-sa(dp63
-g10
-I326
-sg14
-VNext Month's Contents Page (Galaxy, August 1951)
-p64
-sa(dp65
-g10
-I339
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, August 1951)
-p66
-sa(dp67
-g10
-I326
-sg14
-VFlying Saucer Contest Winners
-p68
-sa(dp69
-g10
-I254
-sg14
-VThe Pilot and the Bushman
-p70
-sa(dp71
-g10
-I354
-sg14
-VThe Fire and the Sword
-p72
-sa(dp73
-g10
-I368
-sg14
 VBeyond Bedlam
-p74
-sa(dp75
-g10
-I356
-sg14
+p33
+sS'author'
+p34
+I336
+sa(dp35
+g32
+VBeyond Bedlam [2]
+p36
+sg34
+I336
+sa(dp37
+g32
+VBeyond Bedlam [3]
+p38
+sg34
+I336
+sa(dp39
+g32
+VBeyond Bedlam [4]
+p40
+sg34
+I336
+sa(dp41
+g32
 VOperation Distress
-p76
-sa(dp77
-g10
-I36
-sg14
+p42
+sg34
+I363
+sa(dp43
+g32
+VOperation Distress [2]
+p44
+sg34
+I363
+sa(dp45
+g32
+VThe Pilot and the Bushman
+p46
+sg34
+I336
+sa(dp47
+g32
+VThe Pilot and the Bushman [2]
+p48
+sg34
+I336
+sa(dp49
+g32
+VThe Pilot and the Bushman [3]
+p50
+sg34
+I336
+sa(dp51
+g32
 VPictures Don't Lie
-p78
-sa(dp79
-g10
-I18
-sg14
+p52
+sg34
+I366
+sa(dp53
+g32
+VPictures Don't Lie [2]
+p54
+sg34
+I366
+sa(dp55
+g32
+VThe Fire and the Sword
+p56
+sg34
+I363
+sa(dp57
+g32
+VThe Fire and the Sword [2]
+p58
+sg34
+I363
+sa(dp59
+g32
+VThe Fire and the Sword [3]
+p60
+sg34
+I363
+sa(dp61
+g32
 VA Little Journey
+p62
+sg34
+I367
+sa(dp63
+g32
+VAsk a Foolish Question
+p64
+sg34
+I305
+sa(dp65
+g32
+VNext Month's Contents Page (Galaxy, August 1951)
+p66
+sg34
+I326
+sa(dp67
+g32
+VGalaxy's 5 Star Shelf (Galaxy, August 1951)
+p68
+sg34
+I339
+sa(dp69
+g32
+VFlying Saucer Contest Winners
+p70
+sg34
+I326
+sa(dp71
+g32
+VThe Pilot and the Bushman
+p72
+sg34
+I254
+sa(dp73
+g32
+VThe Fire and the Sword
+p74
+sg34
+I354
+sa(dp75
+g32
+VBeyond Bedlam
+p76
+sg34
+I368
+sa(dp77
+g32
+VOperation Distress
+p78
+sg34
+I356
+sa(dp79
+g32
+VPictures Don't Lie
 p80
+sg34
+I36
+sa(dp81
+g32
+VA Little Journey
+p82
+sg34
+I18
 sasb.

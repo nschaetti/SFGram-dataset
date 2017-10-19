@@ -1,0 +1,100 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1962", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/1962-05_IF/1962-05_IF_jp2.zip&file=1962-05_IF_jp2/1962-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/0/0f/WOFIFMAY1962.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        573, 
+        556, 
+        40, 
+        326, 
+        341, 
+        32, 
+        67, 
+        569, 
+        1077, 
+        1078, 
+        401, 
+        1079, 
+        121, 
+        142, 
+        918
+    ], 
+    "year": 1962, 
+    "images": [], 
+    "id": 1285, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Retief of the Red-Tape Mountain"
+        }, 
+        {
+            "author": 573, 
+            "title": "Death and Taxes"
+        }, 
+        {
+            "author": 556, 
+            "title": "The 64-Square Madhouse"
+        }, 
+        {
+            "author": 40, 
+            "title": "Jots and Tittles"
+        }, 
+        {
+            "author": 326, 
+            "title": "... And Besides Those Bombs..."
+        }, 
+        {
+            "author": 341, 
+            "title": "The Other If"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, May 1962)"
+        }, 
+        {
+            "author": 32, 
+            "title": "The 64-Square Madhouse"
+        }, 
+        {
+            "author": 67, 
+            "title": "Retief of the Red-Tape Mountain"
+        }, 
+        {
+            "author": 569, 
+            "title": "The Spy"
+        }, 
+        {
+            "author": 1077, 
+            "title": "Death and Taxes"
+        }, 
+        {
+            "author": 1078, 
+            "title": "Misrule"
+        }, 
+        {
+            "author": 401, 
+            "title": "Deadly Game"
+        }, 
+        {
+            "author": 1079, 
+            "title": "The Hoplite"
+        }, 
+        {
+            "author": 121, 
+            "title": "Gramp"
+        }, 
+        {
+            "author": 142, 
+            "title": "The Expendables"
+        }
+    ]
+}

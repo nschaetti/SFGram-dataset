@@ -75,165 +75,167 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I744
-sg14
-VThe Experimenter
+S'title'
 p32
-sa(dp33
-g10
-I744
-sg14
-VThe Experimenter [2]
-p34
-sa(dp35
-g10
-I744
-sg14
-VThe End Result
-p36
-sa(dp37
-g10
-I744
-sg14
-VBut Loyal to His Own
-p38
-sa(dp39
-g10
-I744
-sg14
-VBut Loyal to His Own [2]
-p40
-sa(dp41
-g10
-I763
-sg14
-VInferno (Part 3 of 3)
-p42
-sa(dp43
-g10
-I763
-sg14
-VInferno (Part 3 of 3) [2]
-p44
-sa(dp45
-g10
-I763
-sg14
-VInferno (Part 3 of 3) [3]
-p46
-sa(dp47
-g10
-I763
-sg14
-VInferno (Part 3 of 3) [4]
-p48
-sa(dp49
-g10
-I753
-sg14
-VHelbent 4
-p50
-sa(dp51
-g10
-I326
-sg14
-VNo Mother Near
-p52
-sa(dp53
-g10
-I753
-sg14
-VCrusade
-p54
-sa(dp55
-g10
-I744
-sg14
-VShowcase: Harlequin Nova
-p56
-sa(dp57
-g10
-I764
-sg14
-VAd Astra Per ...
-p58
-sa(dp59
-g10
-I305
-sg14
-VForum: Looking Aft
-p60
-sa(dp61
-g10
-I734
-sg14
-VIn the Beginning
-p62
-sa(dp63
-g10
-I326
-sg14
-VS. F. Calendar (Galaxy, October 1975)
-p64
-sa(dp65
-g10
-I767
-sg14
-VThe Alien Viewpoint (Galaxy, October 1975)
-p66
-sa(dp67
-g10
-I770
-sg14
-VBookshelf (Galaxy, October 1975)
-p68
-sa(dp69
-g10
-I326
-sg14
-VDirections (Galaxy, October 1975)
-p70
-sa(dp71
-g10
-I728
-sg14
 VThe Experimenter
-p72
-sa(dp73
-g10
-I755
-sg14
-VBut Loyal to His Own
-p74
-sa(dp75
-g10
-I765
-sg14
-VHelbent 4
-p76
-sa(dp77
-g10
-I604
-sg14
-VInferno (Part 3 of 3)
-p78
-sa(dp79
-g10
-I766
-sg14
+p33
+sS'author'
+p34
+I744
+sa(dp35
+g32
+VThe Experimenter [2]
+p36
+sg34
+I744
+sa(dp37
+g32
 VThe End Result
-p80
-sa(dp81
-g10
-I791
-sg14
+p38
+sg34
+I744
+sa(dp39
+g32
+VBut Loyal to His Own
+p40
+sg34
+I744
+sa(dp41
+g32
+VBut Loyal to His Own [2]
+p42
+sg34
+I744
+sa(dp43
+g32
+VInferno (Part 3 of 3)
+p44
+sg34
+I763
+sa(dp45
+g32
+VInferno (Part 3 of 3) [2]
+p46
+sg34
+I763
+sa(dp47
+g32
+VInferno (Part 3 of 3) [3]
+p48
+sg34
+I763
+sa(dp49
+g32
+VInferno (Part 3 of 3) [4]
+p50
+sg34
+I763
+sa(dp51
+g32
+VHelbent 4
+p52
+sg34
+I753
+sa(dp53
+g32
 VNo Mother Near
-p82
-sa(dp83
-g10
-I792
-sg14
+p54
+sg34
+I326
+sa(dp55
+g32
 VCrusade
+p56
+sg34
+I753
+sa(dp57
+g32
+VShowcase: Harlequin Nova
+p58
+sg34
+I744
+sa(dp59
+g32
+VAd Astra Per ...
+p60
+sg34
+I764
+sa(dp61
+g32
+VForum: Looking Aft
+p62
+sg34
+I305
+sa(dp63
+g32
+VIn the Beginning
+p64
+sg34
+I734
+sa(dp65
+g32
+VS. F. Calendar (Galaxy, October 1975)
+p66
+sg34
+I326
+sa(dp67
+g32
+VThe Alien Viewpoint (Galaxy, October 1975)
+p68
+sg34
+I767
+sa(dp69
+g32
+VBookshelf (Galaxy, October 1975)
+p70
+sg34
+I770
+sa(dp71
+g32
+VDirections (Galaxy, October 1975)
+p72
+sg34
+I326
+sa(dp73
+g32
+VThe Experimenter
+p74
+sg34
+I728
+sa(dp75
+g32
+VBut Loyal to His Own
+p76
+sg34
+I755
+sa(dp77
+g32
+VHelbent 4
+p78
+sg34
+I765
+sa(dp79
+g32
+VInferno (Part 3 of 3)
+p80
+sg34
+I604
+sa(dp81
+g32
+VThe End Result
+p82
+sg34
+I766
+sa(dp83
+g32
+VNo Mother Near
 p84
+sg34
+I791
+sa(dp85
+g32
+VCrusade
+p86
+sg34
+I792
 sasb.

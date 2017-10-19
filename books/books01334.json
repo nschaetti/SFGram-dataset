@@ -1,0 +1,89 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine August 1967", 
+    "cover": "https://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/1967-08_IF/1967-08_IF_jp2.zip&file=1967-08_IF_jp2/1967-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4b/WOFIFAUG1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        499, 
+        519, 
+        40, 
+        1125, 
+        1152, 
+        67, 
+        561, 
+        55, 
+        588, 
+        1153, 
+        629, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1334, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "Faust Aleph-Null (Part 1 of 3)"
+        }, 
+        {
+            "author": 499, 
+            "title": "Clear As Mud"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Winged Helmet"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Felled Star (Part 2 of 2)"
+        }, 
+        {
+            "author": 40, 
+            "title": "No More Tomorrows"
+        }, 
+        {
+            "author": 1125, 
+            "title": "Fan Into Pro"
+        }, 
+        {
+            "author": 1152, 
+            "title": "When Women Rule"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, August 1967)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Clear As Mud"
+        }, 
+        {
+            "author": 561, 
+            "title": "The Winged Helmet"
+        }, 
+        {
+            "author": 55, 
+            "title": "Faust Aleph-Null (Part 1 of 3)"
+        }, 
+        {
+            "author": 588, 
+            "title": "The Felled Star (Part 2 of 2)"
+        }, 
+        {
+            "author": 1153, 
+            "title": "The Trouble with Vegans"
+        }, 
+        {
+            "author": 629, 
+            "title": "Paint 'Em Green"
+        }
+    ]
+}

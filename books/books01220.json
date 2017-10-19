@@ -1,0 +1,118 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1952", 
+    "cover": "https://ia800207.us.archive.org/BookReader/BookReaderImages.php?zip=/21/items/1952-07_IF/1952-07_IF_jp2.zip&file=1952-07_IF_jp2/1952-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/1/11/WOFIFJUL1952.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        929, 
+        930, 
+        931, 
+        326, 
+        221, 
+        349, 
+        932, 
+        927, 
+        933, 
+        389, 
+        365, 
+        934, 
+        935, 
+        121, 
+        936, 
+        43, 
+        937, 
+        918
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 1220, 
+    "contents": [
+        {
+            "author": 929, 
+            "title": "Let My People Go"
+        }, 
+        {
+            "author": 930, 
+            "title": "Hoiman and the Solar Circuit"
+        }, 
+        {
+            "author": 931, 
+            "title": "Robots of the World! Arise!"
+        }, 
+        {
+            "author": 931, 
+            "title": "Vital Ingredient"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Terrible Answer"
+        }, 
+        {
+            "author": 931, 
+            "title": "Mcilvaine's Star"
+        }, 
+        {
+            "author": 221, 
+            "title": "A Chat with the Editor ... (If, July 1952)"
+        }, 
+        {
+            "author": 349, 
+            "title": "Guest Editorial"
+        }, 
+        {
+            "author": 932, 
+            "title": "Personalities in Science Fiction: Charles Fort, His Objectives Fade in the West"
+        }, 
+        {
+            "author": 927, 
+            "title": "Science Briefs (If, July 1952)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh ... (If, July 1952)"
+        }, 
+        {
+            "author": 933, 
+            "title": "\"And That's How It Was, Officer\""
+        }, 
+        {
+            "author": 389, 
+            "title": "Let My People Go"
+        }, 
+        {
+            "author": 365, 
+            "title": "The One and the Many"
+        }, 
+        {
+            "author": 934, 
+            "title": "Hoiman and the Solar Circuit"
+        }, 
+        {
+            "author": 935, 
+            "title": "Robots of the World! Arise!"
+        }, 
+        {
+            "author": 121, 
+            "title": "Vital Ingredient"
+        }, 
+        {
+            "author": 936, 
+            "title": "The Terrible Answer"
+        }, 
+        {
+            "author": 43, 
+            "title": "Mcilvaine's Star"
+        }, 
+        {
+            "author": 937, 
+            "title": "The Smiler"
+        }
+    ]
+}

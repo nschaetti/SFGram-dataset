@@ -1,0 +1,136 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine May 1953", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/1953-05_IF/1953-05_IF_jp2.zip&file=1953-05_IF_jp2/1953-05_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.philsp.com/visco/Magazines/WIF123/WIF1_0002.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        363, 
+        326, 
+        436, 
+        412, 
+        956, 
+        948, 
+        952, 
+        957, 
+        542, 
+        441, 
+        194, 
+        616, 
+        218, 
+        236, 
+        958, 
+        467, 
+        959, 
+        960, 
+        918
+    ], 
+    "year": 1953, 
+    "images": [], 
+    "id": 1225, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "Mars Landscape"
+        }, 
+        {
+            "author": 951, 
+            "title": "Jupiter Five"
+        }, 
+        {
+            "author": 363, 
+            "title": "She Knew He Was Coming"
+        }, 
+        {
+            "author": 326, 
+            "title": "Pipe of Peace"
+        }, 
+        {
+            "author": 436, 
+            "title": "The Huddlers"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Kenzie Report"
+        }, 
+        {
+            "author": 363, 
+            "title": "Derelict"
+        }, 
+        {
+            "author": 363, 
+            "title": "Circle of Flight"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Contest"
+        }, 
+        {
+            "author": 951, 
+            "title": "Jupiter"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, May 1953)"
+        }, 
+        {
+            "author": 952, 
+            "title": "Personalities in Science: Dr. Roy K. Marshall"
+        }, 
+        {
+            "author": 957, 
+            "title": "Science Briefs (If, May 1953)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh (If, May 1953)"
+        }, 
+        {
+            "author": 542, 
+            "title": "Jupiter Five"
+        }, 
+        {
+            "author": 441, 
+            "title": "Derelict"
+        }, 
+        {
+            "author": 194, 
+            "title": "She Knew He Was Coming"
+        }, 
+        {
+            "author": 616, 
+            "title": "Pipe of Peace"
+        }, 
+        {
+            "author": 218, 
+            "title": "The Huddlers"
+        }, 
+        {
+            "author": 236, 
+            "title": "The Kenzie Report"
+        }, 
+        {
+            "author": 958, 
+            "title": "Field Trip"
+        }, 
+        {
+            "author": 467, 
+            "title": "Circle of Flight"
+        }, 
+        {
+            "author": 959, 
+            "title": "Say \"Hello\" for Me"
+        }, 
+        {
+            "author": 960, 
+            "title": "The Contest"
+        }
+    ]
+}

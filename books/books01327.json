@@ -1,0 +1,100 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1967", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/1967-01_IF/1967-01_IF_jp2.zip&file=1967-01_IF_jp2/1967-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/89/WOFIFJAN1967.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        545, 
+        628, 
+        581, 
+        556, 
+        499, 
+        40, 
+        1125, 
+        1138, 
+        507, 
+        1116, 
+        1139, 
+        91, 
+        384, 
+        50, 
+        111, 
+        918
+    ], 
+    "year": 1967, 
+    "images": [], 
+    "id": 1327, 
+    "contents": [
+        {
+            "author": 545, 
+            "title": "The Iron Thorn (Part 1 of 4)"
+        }, 
+        {
+            "author": 628, 
+            "title": "A Hair Perhaps"
+        }, 
+        {
+            "author": 581, 
+            "title": "The Scared Starship"
+        }, 
+        {
+            "author": 556, 
+            "title": "On the Shallow Seas"
+        }, 
+        {
+            "author": 499, 
+            "title": "Snow White and the Giants (Part 4 of 4)"
+        }, 
+        {
+            "author": 40, 
+            "title": "H. G. Wells Plus 100"
+        }, 
+        {
+            "author": 1125, 
+            "title": "- Still More Fandoms"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, January 1967)"
+        }, 
+        {
+            "author": 1138, 
+            "title": "Letter (Worlds of If, January 1967)"
+        }, 
+        {
+            "author": 507, 
+            "title": "A Hair Perhaps"
+        }, 
+        {
+            "author": 1116, 
+            "title": "The Scared Starship"
+        }, 
+        {
+            "author": 1139, 
+            "title": "On the Shallow Seas"
+        }, 
+        {
+            "author": 91, 
+            "title": "The Iron Thorn (Part 1 of 4)"
+        }, 
+        {
+            "author": 384, 
+            "title": "Snow White and the Giants (Part 4 of 4)"
+        }, 
+        {
+            "author": 50, 
+            "title": "By the Seawall"
+        }, 
+        {
+            "author": 111, 
+            "title": "The Impersonators"
+        }
+    ]
+}

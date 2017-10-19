@@ -72,159 +72,161 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I819
-sg14
-VVariations in the Visible Spectra of Certain Cepheid Stars
+S'title'
 p32
-sa(dp33
-g10
-I819
-sg14
-VVariations in the Visible Spectra of Certain Cepheid Stars [2]
-p34
-sa(dp35
-g10
-I819
-sg14
-VVariations in the Visible Spectra of Certain Cepheid Stars [3]
-p36
-sa(dp37
-g10
-I742
-sg14
-VTake My Mate, Please!
-p38
-sa(dp39
-g10
-I742
-sg14
-VTake My Mate, Please! [2]
-p40
-sa(dp41
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 3 of 4)
-p42
-sa(dp43
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 3 of 4) [2]
-p44
-sa(dp45
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 3 of 4) [3]
-p46
-sa(dp47
-g10
-I784
-sg14
-VThe Dosadi Experiment (Part 3 of 4) [4]
-p48
-sa(dp49
-g10
-I742
-sg14
-VSkitch and the Kids
-p50
-sa(dp51
-g10
-I742
-sg14
-VSkitch and the Kids [2]
-p52
-sa(dp53
-g10
-I742
-sg14
-VDinsdale Dissents
-p54
-sa(dp55
-g10
-I742
-sg14
-VDinsdale Dissents [2]
-p56
-sa(dp57
-g10
-I326
-sg14
-VBrother John's Day Out
-p58
-sa(dp59
-g10
-I819
-sg14
-VA Perfect Twilight
-p60
-sa(dp61
-g10
-I819
-sg14
-VA Perfect Twilight [2]
-p62
-sa(dp63
-g10
-I770
-sg14
-VGalaxy Bookshelf (Galaxy, July 1977)
-p64
-sa(dp65
-g10
-I734
-sg14
-VCan Trash Save Us?
-p66
-sa(dp67
-g10
-I326
-sg14
-VDirections (Galaxy, July 1977)
-p68
-sa(dp69
-g10
-I822
-sg14
 VVariations in the Visible Spectra of Certain Cepheid Stars
-p70
-sa(dp71
-g10
-I63
-sg14
-VThe Dosadi Experiment (Part 3 of 4)
-p72
-sa(dp73
-g10
-I823
-sg14
+p33
+sS'author'
+p34
+I819
+sa(dp35
+g32
+VVariations in the Visible Spectra of Certain Cepheid Stars [2]
+p36
+sg34
+I819
+sa(dp37
+g32
+VVariations in the Visible Spectra of Certain Cepheid Stars [3]
+p38
+sg34
+I819
+sa(dp39
+g32
 VTake My Mate, Please!
-p74
-sa(dp75
-g10
-I685
-sg14
+p40
+sg34
+I742
+sa(dp41
+g32
+VTake My Mate, Please! [2]
+p42
+sg34
+I742
+sa(dp43
+g32
+VThe Dosadi Experiment (Part 3 of 4)
+p44
+sg34
+I784
+sa(dp45
+g32
+VThe Dosadi Experiment (Part 3 of 4) [2]
+p46
+sg34
+I784
+sa(dp47
+g32
+VThe Dosadi Experiment (Part 3 of 4) [3]
+p48
+sg34
+I784
+sa(dp49
+g32
+VThe Dosadi Experiment (Part 3 of 4) [4]
+p50
+sg34
+I784
+sa(dp51
+g32
 VSkitch and the Kids
-p76
-sa(dp77
-g10
-I817
-sg14
+p52
+sg34
+I742
+sa(dp53
+g32
+VSkitch and the Kids [2]
+p54
+sg34
+I742
+sa(dp55
+g32
 VDinsdale Dissents
-p78
-sa(dp79
-g10
-I824
-sg14
+p56
+sg34
+I742
+sa(dp57
+g32
+VDinsdale Dissents [2]
+p58
+sg34
+I742
+sa(dp59
+g32
 VBrother John's Day Out
-p80
-sa(dp81
-g10
-I825
-sg14
+p60
+sg34
+I326
+sa(dp61
+g32
 VA Perfect Twilight
+p62
+sg34
+I819
+sa(dp63
+g32
+VA Perfect Twilight [2]
+p64
+sg34
+I819
+sa(dp65
+g32
+VGalaxy Bookshelf (Galaxy, July 1977)
+p66
+sg34
+I770
+sa(dp67
+g32
+VCan Trash Save Us?
+p68
+sg34
+I734
+sa(dp69
+g32
+VDirections (Galaxy, July 1977)
+p70
+sg34
+I326
+sa(dp71
+g32
+VVariations in the Visible Spectra of Certain Cepheid Stars
+p72
+sg34
+I822
+sa(dp73
+g32
+VThe Dosadi Experiment (Part 3 of 4)
+p74
+sg34
+I63
+sa(dp75
+g32
+VTake My Mate, Please!
+p76
+sg34
+I823
+sa(dp77
+g32
+VSkitch and the Kids
+p78
+sg34
+I685
+sa(dp79
+g32
+VDinsdale Dissents
+p80
+sg34
+I817
+sa(dp81
+g32
+VBrother John's Day Out
 p82
+sg34
+I824
+sa(dp83
+g32
+VA Perfect Twilight
+p84
+sg34
+I825
 sasb.

@@ -1,0 +1,101 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1956", 
+    "cover": "https://ia600206.us.archive.org/BookReader/BookReaderImages.php?zip=/9/items/1956-04_IF_modified/1956-04_IF_modified_jp2.zip&file=1956-04_IF_modified_jp2/1956-04_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f6/WOFIFAPR1956.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        427, 
+        956, 
+        412, 
+        363, 
+        103, 
+        326, 
+        129, 
+        144, 
+        153, 
+        1008, 
+        1023, 
+        1013, 
+        918
+    ], 
+    "year": 1956, 
+    "images": [], 
+    "id": 1250, 
+    "contents": [
+        {
+            "author": 427, 
+            "title": "Atomic Bomber"
+        }, 
+        {
+            "author": 956, 
+            "title": "Human Error"
+        }, 
+        {
+            "author": 412, 
+            "title": "The Executioner"
+        }, 
+        {
+            "author": 363, 
+            "title": "Life Hutch"
+        }, 
+        {
+            "author": 363, 
+            "title": "Atom Drive"
+        }, 
+        {
+            "author": 412, 
+            "title": "Chrome Pastures"
+        }, 
+        {
+            "author": 956, 
+            "title": "Love Story"
+        }, 
+        {
+            "author": 103, 
+            "title": "The Odd Genre (If, April 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, April 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, April 1956)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, April 1956)"
+        }, 
+        {
+            "author": 129, 
+            "title": "Human Error"
+        }, 
+        {
+            "author": 144, 
+            "title": "Atom Drive"
+        }, 
+        {
+            "author": 153, 
+            "title": "Chrome Pastures"
+        }, 
+        {
+            "author": 1008, 
+            "title": "The Executioner"
+        }, 
+        {
+            "author": 1023, 
+            "title": "Life Hutch"
+        }, 
+        {
+            "author": 1013, 
+            "title": "Love Story"
+        }
+    ]
+}

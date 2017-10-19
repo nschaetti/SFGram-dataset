@@ -74,135 +74,137 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I519
-sg14
-VThe Creature From Cleveland Depths
+S'title'
 p32
-sa(dp33
-g10
-I519
-sg14
-VThe Creature From Cleveland Depths [2]
-p34
-sa(dp35
-g10
-I519
-sg14
-VThe Creature From Cleveland Depths [3]
-p36
-sa(dp37
-g10
-I499
-sg14
-VDr. Morris Goldpepper Returns
-p38
-sa(dp39
-g10
-I578
-sg14
-VGeneral Max Shorter
-p40
-sa(dp41
-g10
-I560
-sg14
-VSodom and Gomorrah, Texas
-p42
-sa(dp43
-g10
-I560
-sg14
-VPlague of Pythons (Part 2 of 2)
-p44
-sa(dp45
-g10
-I560
-sg14
-VPlague of Pythons (Part 2 of 2) [2]
-p46
-sa(dp47
-g10
-I560
-sg14
-VPlague of Pythons (Part 2 of 2) [3]
-p48
-sa(dp49
-g10
-I560
-sg14
-VPlague of Pythons (Part 2 of 2) [4]
-p50
-sa(dp51
-g10
-I40
-sg14
-VOpportunity Knocked - but No One Was Home
-p52
-sa(dp53
-g10
-I326
-sg14
-VForecast (Galaxy, December 1962)
-p54
-sa(dp55
-g10
-I579
-sg14
-VPluto, Doorway to the Stars
-p56
-sa(dp57
-g10
-I339
-sg14
-VFor Your Information: Are We Going to Build a Space Station?
-p58
-sa(dp59
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, December 1962)
-p60
-sa(dp61
-g10
-I32
-sg14
 VThe Creature From Cleveland Depths
-p62
-sa(dp63
-g10
-I194
-sg14
-VGeneral Max Shorter
-p64
-sa(dp65
-g10
-I40
-sg14
-VPlague of Pythons (Part 2 of 2)
-p66
-sa(dp67
-g10
-I514
-sg14
+p33
+sS'author'
+p34
+I519
+sa(dp35
+g32
+VThe Creature From Cleveland Depths [2]
+p36
+sg34
+I519
+sa(dp37
+g32
+VThe Creature From Cleveland Depths [3]
+p38
+sg34
+I519
+sa(dp39
+g32
 VDr. Morris Goldpepper Returns
-p68
-sa(dp69
-g10
-I229
-sg14
-VDroozle
-p70
-sa(dp71
-g10
-I74
-sg14
+p40
+sg34
+I499
+sa(dp41
+g32
+VGeneral Max Shorter
+p42
+sg34
+I578
+sa(dp43
+g32
 VSodom and Gomorrah, Texas
+p44
+sg34
+I560
+sa(dp45
+g32
+VPlague of Pythons (Part 2 of 2)
+p46
+sg34
+I560
+sa(dp47
+g32
+VPlague of Pythons (Part 2 of 2) [2]
+p48
+sg34
+I560
+sa(dp49
+g32
+VPlague of Pythons (Part 2 of 2) [3]
+p50
+sg34
+I560
+sa(dp51
+g32
+VPlague of Pythons (Part 2 of 2) [4]
+p52
+sg34
+I560
+sa(dp53
+g32
+VOpportunity Knocked - but No One Was Home
+p54
+sg34
+I40
+sa(dp55
+g32
+VForecast (Galaxy, December 1962)
+p56
+sg34
+I326
+sa(dp57
+g32
+VPluto, Doorway to the Stars
+p58
+sg34
+I579
+sa(dp59
+g32
+VFor Your Information: Are We Going to Build a Space Station?
+p60
+sg34
+I339
+sa(dp61
+g32
+VGalaxy's 5 Star Shelf (Galaxy, December 1962)
+p62
+sg34
+I483
+sa(dp63
+g32
+VThe Creature From Cleveland Depths
+p64
+sg34
+I32
+sa(dp65
+g32
+VGeneral Max Shorter
+p66
+sg34
+I194
+sa(dp67
+g32
+VPlague of Pythons (Part 2 of 2)
+p68
+sg34
+I40
+sa(dp69
+g32
+VDr. Morris Goldpepper Returns
+p70
+sg34
+I514
+sa(dp71
+g32
+VDroozle
 p72
+sg34
+I229
 sa(dp73
-g10
-I215
-sg14
-VThe Glory of Ippling
+g32
+VSodom and Gomorrah, Texas
 p74
+sg34
+I74
+sa(dp75
+g32
+VThe Glory of Ippling
+p76
+sg34
+I215
 sasb.

@@ -71,147 +71,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VAccidental Flight
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VAccidental Flight [2]
-p34
-sa(dp35
-g10
-I363
-sg14
-VAccidental Flight [3]
-p36
-sa(dp37
-g10
-I363
-sg14
-VAccidental Flight [4]
-p38
-sa(dp39
-g10
-I363
-sg14
-VAccidental Flight [5]
-p40
-sa(dp41
-g10
-I363
-sg14
-VAccidental Flight [6]
-p42
-sa(dp43
-g10
-I363
-sg14
-VKatahut Said No
-p44
-sa(dp45
-g10
-I363
-sg14
-VKatahut Said No [2]
-p46
-sa(dp47
-g10
-I336
-sg14
-VThe Moon Is Green
-p48
-sa(dp49
-g10
-I363
-sg14
-VMartians Never Die
-p50
-sa(dp51
-g10
-I392
-sg14
-VShe Who Laughs
-p52
-sa(dp53
-g10
-I363
-sg14
-VTicket to Anywhere
-p54
-sa(dp55
-g10
-I363
-sg14
-VTicket to Anywhere [2]
-p56
-sa(dp57
-g10
-I363
-sg14
-VTicket to Anywhere [3]
-p58
-sa(dp59
-g10
-I363
-sg14
-VTicket to Anywhere [4]
-p60
-sa(dp61
-g10
-I305
-sg14
-VHomeless Facts
-p62
-sa(dp63
-g10
-I339
-sg14
-VFor Your Information: Carbon-14 and the Ice Age
-p64
-sa(dp65
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, April 1952)
-p66
-sa(dp67
-g10
-I204
-sg14
-VTicket to Anywhere
-p68
-sa(dp69
-g10
-I393
-sg14
 VAccidental Flight
-p70
-sa(dp71
-g10
-I384
-sg14
+p33
+sS'author'
+p34
+I363
+sa(dp35
+g32
+VAccidental Flight [2]
+p36
+sg34
+I363
+sa(dp37
+g32
+VAccidental Flight [3]
+p38
+sg34
+I363
+sa(dp39
+g32
+VAccidental Flight [4]
+p40
+sg34
+I363
+sa(dp41
+g32
+VAccidental Flight [5]
+p42
+sg34
+I363
+sa(dp43
+g32
+VAccidental Flight [6]
+p44
+sg34
+I363
+sa(dp45
+g32
 VKatahut Said No
-p72
-sa(dp73
-g10
-I32
-sg14
+p46
+sg34
+I363
+sa(dp47
+g32
+VKatahut Said No [2]
+p48
+sg34
+I363
+sa(dp49
+g32
 VThe Moon Is Green
-p74
-sa(dp75
-g10
-I293
-sg14
+p50
+sg34
+I336
+sa(dp51
+g32
 VMartians Never Die
-p76
-sa(dp77
-g10
-I362
-sg14
+p52
+sg34
+I363
+sa(dp53
+g32
 VShe Who Laughs
+p54
+sg34
+I392
+sa(dp55
+g32
+VTicket to Anywhere
+p56
+sg34
+I363
+sa(dp57
+g32
+VTicket to Anywhere [2]
+p58
+sg34
+I363
+sa(dp59
+g32
+VTicket to Anywhere [3]
+p60
+sg34
+I363
+sa(dp61
+g32
+VTicket to Anywhere [4]
+p62
+sg34
+I363
+sa(dp63
+g32
+VHomeless Facts
+p64
+sg34
+I305
+sa(dp65
+g32
+VFor Your Information: Carbon-14 and the Ice Age
+p66
+sg34
+I339
+sa(dp67
+g32
+VGalaxy's 5 Star Shelf (Galaxy, April 1952)
+p68
+sg34
+I340
+sa(dp69
+g32
+VTicket to Anywhere
+p70
+sg34
+I204
+sa(dp71
+g32
+VAccidental Flight
+p72
+sg34
+I393
+sa(dp73
+g32
+VKatahut Said No
+p74
+sg34
+I384
+sa(dp75
+g32
+VThe Moon Is Green
+p76
+sg34
+I32
+sa(dp77
+g32
+VMartians Never Die
 p78
+sg34
+I293
+sa(dp79
+g32
+VShe Who Laughs
+p80
+sg34
+I362
 sasb.

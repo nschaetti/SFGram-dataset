@@ -1,0 +1,91 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1973", 
+    "cover": "https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/1973-08_IF/1973-08_IF_jp2.zip&file=1973-08_IF_jp2/1973-08_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/32/WOFIFJULAUG1973.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        499, 
+        667, 
+        356, 
+        1228, 
+        478, 
+        56, 
+        695, 
+        1219, 
+        711, 
+        918
+    ], 
+    "year": 1973, 
+    "images": [], 
+    "id": 1384, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Pearsall's Return"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Invaders"
+        }, 
+        {
+            "author": 499, 
+            "title": "The Meaning of the Word"
+        }, 
+        {
+            "author": 499, 
+            "title": "Support Your Local Police"
+        }, 
+        {
+            "author": 326, 
+            "title": "Westwind"
+        }, 
+        {
+            "author": 326, 
+            "title": "Our Children's Children (Part 2 of 2)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, July-August 1973)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, July-August 1973)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, July-August 1973)"
+        }, 
+        {
+            "author": 1228, 
+            "title": "Pearsall's Return"
+        }, 
+        {
+            "author": 478, 
+            "title": "The Invaders"
+        }, 
+        {
+            "author": 56, 
+            "title": "Our Children's Children (Part 2 of 2)"
+        }, 
+        {
+            "author": 695, 
+            "title": "The Meaning of the Word"
+        }, 
+        {
+            "author": 1219, 
+            "title": "Support Your Local Police"
+        }, 
+        {
+            "author": 711, 
+            "title": "Westwind"
+        }
+    ]
+}

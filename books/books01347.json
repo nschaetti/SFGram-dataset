@@ -1,0 +1,110 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1968", 
+    "cover": "https://ia801306.us.archive.org/BookReader/BookReaderImages.php?zip=/7/items/1968-09_IF/1968-09_IF_jp2.zip&file=1968-09_IF_jp2/1968-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/62/WOFIFSEP1968.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        497, 
+        633, 
+        611, 
+        624, 
+        627, 
+        40, 
+        356, 
+        326, 
+        70, 
+        637, 
+        653, 
+        669, 
+        1169, 
+        111, 
+        69, 
+        604, 
+        918
+    ], 
+    "year": 1968, 
+    "images": [], 
+    "id": 1347, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Bulge"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Elf in the Starship Enterprise"
+        }, 
+        {
+            "author": 633, 
+            "title": "Flesh and the Iron"
+        }, 
+        {
+            "author": 611, 
+            "title": "Star Itch"
+        }, 
+        {
+            "author": 624, 
+            "title": "Love Conquers All"
+        }, 
+        {
+            "author": 627, 
+            "title": "Dreambird"
+        }, 
+        {
+            "author": 40, 
+            "title": "More Bubbles for Your Bier"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, September 1968)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, September 1968)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, September 1968)"
+        }, 
+        {
+            "author": 70, 
+            "title": "Bulge"
+        }, 
+        {
+            "author": 637, 
+            "title": "Flesh and the Iron"
+        }, 
+        {
+            "author": 653, 
+            "title": "Dreambird"
+        }, 
+        {
+            "author": 669, 
+            "title": "Star Itch"
+        }, 
+        {
+            "author": 1169, 
+            "title": "The Elf in the Starship Enterprise"
+        }, 
+        {
+            "author": 111, 
+            "title": "Dream Street"
+        }, 
+        {
+            "author": 69, 
+            "title": "Love Conquers All"
+        }, 
+        {
+            "author": 604, 
+            "title": "Like Banquo's Ghost"
+        }
+    ]
+}

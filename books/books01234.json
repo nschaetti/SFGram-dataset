@@ -1,0 +1,133 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1954", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/1954-07_IF/1954-07_IF_jp2.zip&file=1954-07_IF_jp2/1954-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/6/62/WOFIFJUL1954.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        951, 
+        956, 
+        363, 
+        984, 
+        412, 
+        948, 
+        326, 
+        985, 
+        55, 
+        153, 
+        986, 
+        161, 
+        987, 
+        631, 
+        88, 
+        434, 
+        918
+    ], 
+    "year": 1954, 
+    "images": [], 
+    "id": 1234, 
+    "contents": [
+        {
+            "author": 951, 
+            "title": "Meteor Hazards On the Moon"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Thing in the Attic"
+        }, 
+        {
+            "author": 363, 
+            "title": "Beauty and the Beast"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Small World of M-75"
+        }, 
+        {
+            "author": 984, 
+            "title": "Cartoon: No Caption"
+        }, 
+        {
+            "author": 956, 
+            "title": "A Monster Named Smith"
+        }, 
+        {
+            "author": 412, 
+            "title": "Lonesome Hearts"
+        }, 
+        {
+            "author": 956, 
+            "title": "Fair and Warmer"
+        }, 
+        {
+            "author": 956, 
+            "title": "Has Anybody Here Seen Kelly?"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Big Stink"
+        }, 
+        {
+            "author": 951, 
+            "title": "Moonquakes"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, July 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, July 1954)"
+        }, 
+        {
+            "author": 985, 
+            "title": "Breaking the Time Barrier"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, July 1954)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, July 1954)"
+        }, 
+        {
+            "author": 55, 
+            "title": "The Thing in the Attic"
+        }, 
+        {
+            "author": 153, 
+            "title": "Beauty and the Beast"
+        }, 
+        {
+            "author": 986, 
+            "title": "The Small World of M-75"
+        }, 
+        {
+            "author": 161, 
+            "title": "A Monster Named Smith"
+        }, 
+        {
+            "author": 987, 
+            "title": "Lonesome Hearts"
+        }, 
+        {
+            "author": 631, 
+            "title": "Fair and Warmer"
+        }, 
+        {
+            "author": 88, 
+            "title": "Has Anybody Here Seen Kelly?"
+        }, 
+        {
+            "author": 434, 
+            "title": "The Big Stink"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1972", 
+    "cover": "https://ia800200.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/1972-10_IF/1972-10_IF_jp2.zip&file=1972-10_IF_jp2/1972-10_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/9/9a/WOFIFSEPOCT1972.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        326, 
+        570, 
+        667, 
+        356, 
+        478, 
+        1221, 
+        698, 
+        1208, 
+        696, 
+        918
+    ], 
+    "year": 1972, 
+    "images": [], 
+    "id": 1379, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Gods On Olympus"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Emoman"
+        }, 
+        {
+            "author": 570, 
+            "title": "Black Ba"
+        }, 
+        {
+            "author": 326, 
+            "title": "Freezeout"
+        }, 
+        {
+            "author": 326, 
+            "title": "Underbelly"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Book of Rack the Healer (Part 2 of 2)"
+        }, 
+        {
+            "author": 667, 
+            "title": "Hue and Cry (If, September-October 1972)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, September-October 1972)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, September-October 1972)"
+        }, 
+        {
+            "author": 478, 
+            "title": "Gods On Olympus"
+        }, 
+        {
+            "author": 1221, 
+            "title": "The Book of Rack the Healer (Part 2 of 2)"
+        }, 
+        {
+            "author": 698, 
+            "title": "The Emoman"
+        }, 
+        {
+            "author": 1208, 
+            "title": "Freezeout"
+        }, 
+        {
+            "author": 696, 
+            "title": "Underbelly"
+        }
+    ]
+}

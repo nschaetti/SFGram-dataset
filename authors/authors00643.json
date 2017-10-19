@@ -2,7 +2,8 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1128
+        1128, 
+        1314
     ], 
     "id": 643, 
     "name": "Stephen Goldin"

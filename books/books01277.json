@@ -1,0 +1,80 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1961", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/1961-01_IF/1961-01_IF_jp2.zip&file=1961-01_IF_jp2/1961-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/fa/WOFIFJAN1961.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        419, 
+        560, 
+        40, 
+        384, 
+        1066, 
+        214, 
+        469, 
+        74, 
+        205, 
+        1067, 
+        423, 
+        918
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1277, 
+    "contents": [
+        {
+            "author": 419, 
+            "title": "Absolute Power"
+        }, 
+        {
+            "author": 560, 
+            "title": "Vassi"
+        }, 
+        {
+            "author": 560, 
+            "title": "A Matter of Taste"
+        }, 
+        {
+            "author": 40, 
+            "title": "Worlds of If (If, January 1961)"
+        }, 
+        {
+            "author": 384, 
+            "title": "Absolute Power"
+        }, 
+        {
+            "author": 1066, 
+            "title": "Vassi"
+        }, 
+        {
+            "author": 214, 
+            "title": "A Matter of Taste"
+        }, 
+        {
+            "author": 469, 
+            "title": "Assassin"
+        }, 
+        {
+            "author": 74, 
+            "title": "The Polite People of Pudibundia"
+        }, 
+        {
+            "author": 205, 
+            "title": "The Contact Point"
+        }, 
+        {
+            "author": 1067, 
+            "title": "Gingerbread Boy"
+        }, 
+        {
+            "author": 423, 
+            "title": "The House in Bel Aire"
+        }
+    ]
+}

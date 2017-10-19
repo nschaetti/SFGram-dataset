@@ -1,0 +1,70 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine March 1966", 
+    "cover": "https://ia600209.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/1966-03_IF/1966-03_IF_jp2.zip&file=1966-03_IF_jp2/1966-03_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/7/76/WOFIFMAR1966.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        611, 
+        499, 
+        545, 
+        40, 
+        67, 
+        546, 
+        371, 
+        623, 
+        1120, 
+        918
+    ], 
+    "year": 1966, 
+    "images": [], 
+    "id": 1317, 
+    "contents": [
+        {
+            "author": 611, 
+            "title": "The Long Way to Earth"
+        }, 
+        {
+            "author": 499, 
+            "title": "Dam Nuisance"
+        }, 
+        {
+            "author": 545, 
+            "title": "The Moon Is a Harsh Mistress (Part 4 of 5)"
+        }, 
+        {
+            "author": 40, 
+            "title": "If"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, March 1966)"
+        }, 
+        {
+            "author": 67, 
+            "title": "Dam Nuisance"
+        }, 
+        {
+            "author": 546, 
+            "title": "The Long Way to Earth"
+        }, 
+        {
+            "author": 371, 
+            "title": "The Moon Is a Harsh Mistress (Part 4 of 5)"
+        }, 
+        {
+            "author": 623, 
+            "title": "Ouled Nail"
+        }, 
+        {
+            "author": 1120, 
+            "title": "Draft Dodger"
+        }
+    ]
+}

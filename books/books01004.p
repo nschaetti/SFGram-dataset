@@ -72,117 +72,119 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I342
-sg14
-VWherever You May Be
+S'title'
 p32
-sa(dp33
-g10
-I342
-sg14
-VWherever You May Be [2]
-p34
-sa(dp35
-g10
-I342
-sg14
-VWherever You May Be [3]
-p36
-sa(dp37
-g10
-I342
-sg14
-VWherever You May Be [4]
-p38
-sa(dp39
-g10
-I344
-sg14
-VSpecialist
-p40
-sa(dp41
-g10
-I363
-sg14
-VA Gleeb for Earth
-p42
-sa(dp43
-g10
-I419
-sg14
-VNot Fit for Children
-p44
-sa(dp45
-g10
-I342
-sg14
-VJunkyard
-p46
-sa(dp47
-g10
-I342
-sg14
-VJunkyard [2]
-p48
-sa(dp49
-g10
-I342
-sg14
-VJunkyard [3]
-p50
-sa(dp51
-g10
-I326
-sg14
-VForecast (Galaxy, May 1953)
-p52
-sa(dp53
-g10
-I305
-sg14
-VGueffef On Progreff
-p54
-sa(dp55
-g10
-I339
-sg14
-VFor Your Information: The Birth of the Space Station (Ii)
-p56
-sa(dp57
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, May 1953)
-p58
-sa(dp59
-g10
-I56
-sg14
-VJunkyard
-p60
-sa(dp61
-g10
-I161
-sg14
 VWherever You May Be
-p62
-sa(dp63
-g10
-I23
-sg14
+p33
+sS'author'
+p34
+I342
+sa(dp35
+g32
+VWherever You May Be [2]
+p36
+sg34
+I342
+sa(dp37
+g32
+VWherever You May Be [3]
+p38
+sg34
+I342
+sa(dp39
+g32
+VWherever You May Be [4]
+p40
+sg34
+I342
+sa(dp41
+g32
 VSpecialist
-p64
-sa(dp65
-g10
-I429
-sg14
+p42
+sg34
+I344
+sa(dp43
+g32
 VA Gleeb for Earth
-p66
-sa(dp67
-g10
-I172
-sg14
+p44
+sg34
+I363
+sa(dp45
+g32
 VNot Fit for Children
+p46
+sg34
+I419
+sa(dp47
+g32
+VJunkyard
+p48
+sg34
+I342
+sa(dp49
+g32
+VJunkyard [2]
+p50
+sg34
+I342
+sa(dp51
+g32
+VJunkyard [3]
+p52
+sg34
+I342
+sa(dp53
+g32
+VForecast (Galaxy, May 1953)
+p54
+sg34
+I326
+sa(dp55
+g32
+VGueffef On Progreff
+p56
+sg34
+I305
+sa(dp57
+g32
+VFor Your Information: The Birth of the Space Station (Ii)
+p58
+sg34
+I339
+sa(dp59
+g32
+VGalaxy's 5 Star Shelf (Galaxy, May 1953)
+p60
+sg34
+I340
+sa(dp61
+g32
+VJunkyard
+p62
+sg34
+I56
+sa(dp63
+g32
+VWherever You May Be
+p64
+sg34
+I161
+sa(dp65
+g32
+VSpecialist
+p66
+sg34
+I23
+sa(dp67
+g32
+VA Gleeb for Earth
 p68
+sg34
+I429
+sa(dp69
+g32
+VNot Fit for Children
+p70
+sg34
+I172
 sasb.

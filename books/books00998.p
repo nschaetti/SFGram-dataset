@@ -76,165 +76,167 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I363
-sg14
-VThe Martian Way
+S'title'
 p32
-sa(dp33
-g10
-I363
-sg14
-VThe Martian Way [2]
-p34
-sa(dp35
-g10
-I363
-sg14
-VThe Martian Way [3]
-p36
-sa(dp37
-g10
-I363
-sg14
-VThe Martian Way [4]
-p38
-sa(dp39
-g10
-I415
-sg14
-VWarrior Race
-p40
-sa(dp41
-g10
-I402
-sg14
-VSugar Plum
-p42
-sa(dp43
-g10
-I402
-sg14
-VSugar Plum [2]
-p44
-sa(dp45
-g10
-I402
-sg14
-VSugar Plum [3]
-p46
-sa(dp47
-g10
-I336
-sg14
-VA Thought for Tomorrow
-p48
-sa(dp49
-g10
-I402
-sg14
-VThe Altar at Midnight
-p50
-sa(dp51
-g10
-I352
-sg14
-VThe Misogynist
-p52
-sa(dp53
-g10
-I402
-sg14
-VRunaway
-p54
-sa(dp55
-g10
-I402
-sg14
-VCommand Performance
-p56
-sa(dp57
-g10
-I402
-sg14
-VCommand Performance [2]
-p58
-sa(dp59
-g10
-I402
-sg14
-VCommand Performance [3]
-p60
-sa(dp61
-g10
-I305
-sg14
-VThe Next Voice
-p62
-sa(dp63
-g10
-I326
-sg14
-VForecast (Galaxy, November 1952)
-p64
-sa(dp65
-g10
-I339
-sg14
-VFor Your Information: Mars
-p66
-sa(dp67
-g10
-I340
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, November 1952)
-p68
-sa(dp69
-g10
-I416
-sg14
-VSugar Plum
-p70
-sa(dp71
-g10
-I389
-sg14
-VCommand Performance
-p72
-sa(dp73
-g10
-I3
-sg14
 VThe Martian Way
-p74
-sa(dp75
-g10
-I23
-sg14
+p33
+sS'author'
+p34
+I363
+sa(dp35
+g32
+VThe Martian Way [2]
+p36
+sg34
+I363
+sa(dp37
+g32
+VThe Martian Way [3]
+p38
+sg34
+I363
+sa(dp39
+g32
+VThe Martian Way [4]
+p40
+sg34
+I363
+sa(dp41
+g32
 VWarrior Race
-p76
-sa(dp77
-g10
-I188
-sg14
+p42
+sg34
+I415
+sa(dp43
+g32
+VSugar Plum
+p44
+sg34
+I402
+sa(dp45
+g32
+VSugar Plum [2]
+p46
+sg34
+I402
+sa(dp47
+g32
+VSugar Plum [3]
+p48
+sg34
+I402
+sa(dp49
+g32
 VA Thought for Tomorrow
-p78
-sa(dp79
-g10
-I51
-sg14
+p50
+sg34
+I336
+sa(dp51
+g32
 VThe Altar at Midnight
-p80
-sa(dp81
-g10
-I161
-sg14
+p52
+sg34
+I402
+sa(dp53
+g32
 VThe Misogynist
-p82
-sa(dp83
-g10
-I387
-sg14
+p54
+sg34
+I352
+sa(dp55
+g32
 VRunaway
+p56
+sg34
+I402
+sa(dp57
+g32
+VCommand Performance
+p58
+sg34
+I402
+sa(dp59
+g32
+VCommand Performance [2]
+p60
+sg34
+I402
+sa(dp61
+g32
+VCommand Performance [3]
+p62
+sg34
+I402
+sa(dp63
+g32
+VThe Next Voice
+p64
+sg34
+I305
+sa(dp65
+g32
+VForecast (Galaxy, November 1952)
+p66
+sg34
+I326
+sa(dp67
+g32
+VFor Your Information: Mars
+p68
+sg34
+I339
+sa(dp69
+g32
+VGalaxy's 5 Star Shelf (Galaxy, November 1952)
+p70
+sg34
+I340
+sa(dp71
+g32
+VSugar Plum
+p72
+sg34
+I416
+sa(dp73
+g32
+VCommand Performance
+p74
+sg34
+I389
+sa(dp75
+g32
+VThe Martian Way
+p76
+sg34
+I3
+sa(dp77
+g32
+VWarrior Race
+p78
+sg34
+I23
+sa(dp79
+g32
+VA Thought for Tomorrow
+p80
+sg34
+I188
+sa(dp81
+g32
+VThe Altar at Midnight
+p82
+sg34
+I51
+sa(dp83
+g32
+VThe Misogynist
 p84
+sg34
+I161
+sa(dp85
+g32
+VRunaway
+p86
+sg34
+I387
 sasb.

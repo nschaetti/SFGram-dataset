@@ -1,0 +1,96 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine December 1958", 
+    "cover": "https://ia601305.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/1958-12_IF/1958-12_IF_jp2.zip&file=1958-12_IF_jp2/1958-12_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/d/d1/WOFIFDEC1958.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        412, 
+        204, 
+        326, 
+        208, 
+        1046, 
+        586, 
+        569, 
+        479, 
+        130, 
+        8, 
+        918
+    ], 
+    "year": 1958, 
+    "images": [], 
+    "id": 1266, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "Rat in the Skull"
+        }, 
+        {
+            "author": 412, 
+            "title": "Two Whole Glorious Weeks"
+        }, 
+        {
+            "author": 363, 
+            "title": "Satellite Passage"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Night of Hoggy Darn"
+        }, 
+        {
+            "author": 412, 
+            "title": "Western Science Is so Wonderful"
+        }, 
+        {
+            "author": 363, 
+            "title": "Half Around Pluto"
+        }, 
+        {
+            "author": 363, 
+            "title": "Null-O"
+        }, 
+        {
+            "author": 204, 
+            "title": "In the Balance (If, December 1958)"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Retort (If, December 1958)"
+        }, 
+        {
+            "author": 208, 
+            "title": "Rat in the Skull"
+        }, 
+        {
+            "author": 1046, 
+            "title": "The Night of Hoggy Darn"
+        }, 
+        {
+            "author": 586, 
+            "title": "Two Whole Glorious Weeks"
+        }, 
+        {
+            "author": 569, 
+            "title": "Satellite Passage"
+        }, 
+        {
+            "author": 479, 
+            "title": "Western Science Is so Wonderful"
+        }, 
+        {
+            "author": 130, 
+            "title": "Half Around Pluto"
+        }, 
+        {
+            "author": 8, 
+            "title": "Null-O"
+        }
+    ]
+}

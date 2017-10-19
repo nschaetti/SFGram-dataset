@@ -73,183 +73,185 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I402
-sg14
-VThe Dark Door
+S'title'
 p32
-sa(dp33
-g10
-I402
-sg14
-VThe Dark Door [2]
-p34
-sa(dp35
-g10
-I402
-sg14
-VThe Dark Door [3]
-p36
-sa(dp37
-g10
-I402
-sg14
-VThe Dark Door [4]
-p38
-sa(dp39
-g10
-I363
-sg14
-VOne Man's Poison
-p40
-sa(dp41
-g10
-I363
-sg14
-VMr. Costello, Hero
-p42
-sa(dp43
-g10
-I363
-sg14
-VMr. Costello, Hero [2]
-p44
-sa(dp45
-g10
-I363
-sg14
-VMr. Costello, Hero [3]
-p46
-sa(dp47
-g10
-I431
-sg14
-VHall of Mirrors
-p48
-sa(dp49
-g10
-I336
-sg14
-VOrigins of Galactic Medicine
-p50
-sa(dp51
-g10
-I336
-sg14
-VOrigins of Galactic Medicine [2]
-p52
-sa(dp53
-g10
-I336
-sg14
-VOrigins of Galactic Medicine [3]
-p54
-sa(dp55
-g10
-I336
-sg14
-VOrigins of Galactic Medicine [4]
-p56
-sa(dp57
-g10
-I336
-sg14
-VOrigins of Galactic Medicine [5]
-p58
-sa(dp59
-g10
-I336
-sg14
-VOrigins of Galactic Medicine [6]
-p60
-sa(dp61
-g10
-I363
-sg14
-VThe Caves of Steel (Part 3 of 3)
-p62
-sa(dp63
-g10
-I363
-sg14
-VThe Caves of Steel (Part 3 of 3) [2]
-p64
-sa(dp65
-g10
-I363
-sg14
-VThe Caves of Steel (Part 3 of 3) [3]
-p66
-sa(dp67
-g10
-I363
-sg14
-VThe Caves of Steel (Part 3 of 3) [4]
-p68
-sa(dp69
-g10
-I305
-sg14
-VGone Today
-p70
-sa(dp71
-g10
-I339
-sg14
-VFor Your Information: The Deadly Trees
-p72
-sa(dp73
-g10
-I340
-sg14
-VGalaxy's Five Star Shelf (Galaxy, December 1953)
-p74
-sa(dp75
-g10
-I326
-sg14
-VWho's Predicting?
-p76
-sa(dp77
-g10
-I326
-sg14
-VForecast (Galaxy, December 1953)
-p78
-sa(dp79
-g10
-I441
-sg14
 VThe Dark Door
-p80
-sa(dp81
-g10
-I341
-sg14
-VMr. Costello, Hero
-p82
-sa(dp83
-g10
-I3
-sg14
-VThe Caves of Steel (Part 3 of 3)
-p84
-sa(dp85
-g10
-I23
-sg14
+p33
+sS'author'
+p34
+I402
+sa(dp35
+g32
+VThe Dark Door [2]
+p36
+sg34
+I402
+sa(dp37
+g32
+VThe Dark Door [3]
+p38
+sg34
+I402
+sa(dp39
+g32
+VThe Dark Door [4]
+p40
+sg34
+I402
+sa(dp41
+g32
 VOne Man's Poison
-p86
-sa(dp87
-g10
-I58
-sg14
+p42
+sg34
+I363
+sa(dp43
+g32
+VMr. Costello, Hero
+p44
+sg34
+I363
+sa(dp45
+g32
+VMr. Costello, Hero [2]
+p46
+sg34
+I363
+sa(dp47
+g32
+VMr. Costello, Hero [3]
+p48
+sg34
+I363
+sa(dp49
+g32
 VHall of Mirrors
-p88
-sa(dp89
-g10
-I401
-sg14
+p50
+sg34
+I431
+sa(dp51
+g32
 VOrigins of Galactic Medicine
+p52
+sg34
+I336
+sa(dp53
+g32
+VOrigins of Galactic Medicine [2]
+p54
+sg34
+I336
+sa(dp55
+g32
+VOrigins of Galactic Medicine [3]
+p56
+sg34
+I336
+sa(dp57
+g32
+VOrigins of Galactic Medicine [4]
+p58
+sg34
+I336
+sa(dp59
+g32
+VOrigins of Galactic Medicine [5]
+p60
+sg34
+I336
+sa(dp61
+g32
+VOrigins of Galactic Medicine [6]
+p62
+sg34
+I336
+sa(dp63
+g32
+VThe Caves of Steel (Part 3 of 3)
+p64
+sg34
+I363
+sa(dp65
+g32
+VThe Caves of Steel (Part 3 of 3) [2]
+p66
+sg34
+I363
+sa(dp67
+g32
+VThe Caves of Steel (Part 3 of 3) [3]
+p68
+sg34
+I363
+sa(dp69
+g32
+VThe Caves of Steel (Part 3 of 3) [4]
+p70
+sg34
+I363
+sa(dp71
+g32
+VGone Today
+p72
+sg34
+I305
+sa(dp73
+g32
+VFor Your Information: The Deadly Trees
+p74
+sg34
+I339
+sa(dp75
+g32
+VGalaxy's Five Star Shelf (Galaxy, December 1953)
+p76
+sg34
+I340
+sa(dp77
+g32
+VWho's Predicting?
+p78
+sg34
+I326
+sa(dp79
+g32
+VForecast (Galaxy, December 1953)
+p80
+sg34
+I326
+sa(dp81
+g32
+VThe Dark Door
+p82
+sg34
+I441
+sa(dp83
+g32
+VMr. Costello, Hero
+p84
+sg34
+I341
+sa(dp85
+g32
+VThe Caves of Steel (Part 3 of 3)
+p86
+sg34
+I3
+sa(dp87
+g32
+VOne Man's Poison
+p88
+sg34
+I23
+sa(dp89
+g32
+VHall of Mirrors
 p90
+sg34
+I58
+sa(dp91
+g32
+VOrigins of Galactic Medicine
+p92
+sg34
+I401
 sasb.

@@ -1,0 +1,123 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine September 1952", 
+    "cover": "https://ia600201.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/1952-09_IF/1952-09_IF_jp2.zip&file=1952-09_IF_jp2/1952-09_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/4/4e/WOFIFSEP1952.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        931, 
+        929, 
+        938, 
+        326, 
+        939, 
+        221, 
+        920, 
+        940, 
+        941, 
+        8, 
+        135, 
+        942, 
+        943, 
+        441, 
+        935, 
+        345, 
+        933, 
+        255, 
+        918
+    ], 
+    "year": 1952, 
+    "images": [], 
+    "id": 1221, 
+    "contents": [
+        {
+            "author": 931, 
+            "title": "The Beautiful People"
+        }, 
+        {
+            "author": 929, 
+            "title": "Holes, Incorporated"
+        }, 
+        {
+            "author": 938, 
+            "title": "Marley's Chain"
+        }, 
+        {
+            "author": 326, 
+            "title": "An Empty Bottle"
+        }, 
+        {
+            "author": 939, 
+            "title": "Shock Treatment"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sinister Paradise"
+        }, 
+        {
+            "author": 221, 
+            "title": "A Chat with the Editor ... (If, September 1952)"
+        }, 
+        {
+            "author": 221, 
+            "title": "Personalities in Science Fiction: Jules Verne"
+        }, 
+        {
+            "author": 920, 
+            "title": "Science Briefs (If, September 1952)"
+        }, 
+        {
+            "author": 940, 
+            "title": "Guest Editorial"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Postman Cometh ... (If, September 1952)"
+        }, 
+        {
+            "author": 941, 
+            "title": "Shock Treatment"
+        }, 
+        {
+            "author": 8, 
+            "title": "The Skull"
+        }, 
+        {
+            "author": 135, 
+            "title": "Sinister Paradise"
+        }, 
+        {
+            "author": 942, 
+            "title": "The Beautiful People"
+        }, 
+        {
+            "author": 943, 
+            "title": "Holes, Incorporated"
+        }, 
+        {
+            "author": 441, 
+            "title": "Marley's Chain"
+        }, 
+        {
+            "author": 935, 
+            "title": "An Empty Bottle"
+        }, 
+        {
+            "author": 345, 
+            "title": "The Space Clause"
+        }, 
+        {
+            "author": 933, 
+            "title": "The Clean and Wholesome Land"
+        }, 
+        {
+            "author": 255, 
+            "title": "The Last Supper"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine August 1957", 
+    "cover": "https://ia600204.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/1957-08_IF_modified/1957-08_IF_modified_jp2.zip&file=1957-08_IF_modified_jp2/1957-08_IF_modified_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/83/WOFIFAUG1957.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        363, 
+        497, 
+        956, 
+        948, 
+        326, 
+        1035, 
+        498, 
+        1023, 
+        39, 
+        206, 
+        441, 
+        1036, 
+        144, 
+        918
+    ], 
+    "year": 1957, 
+    "images": [], 
+    "id": 1258, 
+    "contents": [
+        {
+            "author": 363, 
+            "title": "The Tunesmith"
+        }, 
+        {
+            "author": 497, 
+            "title": "The Last Victory"
+        }, 
+        {
+            "author": 497, 
+            "title": "Wanted in Surgery"
+        }, 
+        {
+            "author": 956, 
+            "title": "The Birds and the Bees"
+        }, 
+        {
+            "author": 956, 
+            "title": "Bramble Bush"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Bridge"
+        }, 
+        {
+            "author": 948, 
+            "title": "Editor's Report (If, August 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, August 1957)"
+        }, 
+        {
+            "author": 1035, 
+            "title": "Why Guided Missiles Can Not Be Controlled"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, August 1957)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, August 1957)"
+        }, 
+        {
+            "author": 498, 
+            "title": "The Tunesmith"
+        }, 
+        {
+            "author": 1023, 
+            "title": "Wanted in Surgery"
+        }, 
+        {
+            "author": 39, 
+            "title": "The Last Victory"
+        }, 
+        {
+            "author": 206, 
+            "title": "The Birds and the Bees"
+        }, 
+        {
+            "author": 441, 
+            "title": "Bramble Bush"
+        }, 
+        {
+            "author": 1036, 
+            "title": "The Bridge"
+        }, 
+        {
+            "author": 144, 
+            "title": "The Last Brave Invader"
+        }
+    ]
+}

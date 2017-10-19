@@ -75,153 +75,155 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I874
-sg14
-VJem (Part 1 of 5)
+S'title'
 p32
-sa(dp33
-g10
-I874
-sg14
-VJem (Part 1 of 5) [2]
-p34
-sa(dp35
-g10
-I874
-sg14
-VJem (Part 1 of 5) [3]
-p36
-sa(dp37
-g10
-I874
-sg14
-VJem (Part 1 of 5) [4]
-p38
-sa(dp39
-g10
-I874
-sg14
-VJem (Part 1 of 5) [5]
-p40
-sa(dp41
-g10
-I875
-sg14
-VThe Surrogate Mouth
-p42
-sa(dp43
-g10
-I875
-sg14
-VThe Surrogate Mouth [2]
-p44
-sa(dp45
-g10
-I875
-sg14
-VThe Surrogate Mouth [3]
-p46
-sa(dp47
-g10
-I860
-sg14
-VUnemployment Problem
-p48
-sa(dp49
-g10
-I860
-sg14
-VUnemployment Problem [2]
-p50
-sa(dp51
-g10
-I849
-sg14
-VClick
-p52
-sa(dp53
-g10
-I876
-sg14
-VThe Population Explosion at Lake Stover
-p54
-sa(dp55
-g10
-I876
-sg14
-VThe Population Explosion at Lake Stover [2]
-p56
-sa(dp57
-g10
-I863
-sg14
-VTwo of a Kind
-p58
-sa(dp59
-g10
-I877
-sg14
-VThe Wind-Down Toy
-p60
-sa(dp61
-g10
-I734
-sg14
-VThe Inevitable Revolution
-p62
-sa(dp63
-g10
-I843
-sg14
-VGalaxy Bookshelf (Galaxy, November-December 1978)
-p64
-sa(dp65
-g10
-I844
-sg14
-VDirections (Galaxy, November-December 1978)
-p66
-sa(dp67
-g10
-I856
-sg14
-VThe Surrogate Mouth
-p68
-sa(dp69
-g10
-I864
-sg14
-VUnemployment Problem
-p70
-sa(dp71
-g10
-I843
-sg14
-VClick
-p72
-sa(dp73
-g10
-I878
-sg14
-VThe Population Explosion at Lake Stover
-p74
-sa(dp75
-g10
-I879
-sg14
-VTwo of a Kind
-p76
-sa(dp77
-g10
-I880
-sg14
-VThe Wind-Down Toy
-p78
-sa(dp79
-g10
-I40
-sg14
 VJem (Part 1 of 5)
+p33
+sS'author'
+p34
+I874
+sa(dp35
+g32
+VJem (Part 1 of 5) [2]
+p36
+sg34
+I874
+sa(dp37
+g32
+VJem (Part 1 of 5) [3]
+p38
+sg34
+I874
+sa(dp39
+g32
+VJem (Part 1 of 5) [4]
+p40
+sg34
+I874
+sa(dp41
+g32
+VJem (Part 1 of 5) [5]
+p42
+sg34
+I874
+sa(dp43
+g32
+VThe Surrogate Mouth
+p44
+sg34
+I875
+sa(dp45
+g32
+VThe Surrogate Mouth [2]
+p46
+sg34
+I875
+sa(dp47
+g32
+VThe Surrogate Mouth [3]
+p48
+sg34
+I875
+sa(dp49
+g32
+VUnemployment Problem
+p50
+sg34
+I860
+sa(dp51
+g32
+VUnemployment Problem [2]
+p52
+sg34
+I860
+sa(dp53
+g32
+VClick
+p54
+sg34
+I849
+sa(dp55
+g32
+VThe Population Explosion at Lake Stover
+p56
+sg34
+I876
+sa(dp57
+g32
+VThe Population Explosion at Lake Stover [2]
+p58
+sg34
+I876
+sa(dp59
+g32
+VTwo of a Kind
+p60
+sg34
+I863
+sa(dp61
+g32
+VThe Wind-Down Toy
+p62
+sg34
+I877
+sa(dp63
+g32
+VThe Inevitable Revolution
+p64
+sg34
+I734
+sa(dp65
+g32
+VGalaxy Bookshelf (Galaxy, November-December 1978)
+p66
+sg34
+I843
+sa(dp67
+g32
+VDirections (Galaxy, November-December 1978)
+p68
+sg34
+I844
+sa(dp69
+g32
+VThe Surrogate Mouth
+p70
+sg34
+I856
+sa(dp71
+g32
+VUnemployment Problem
+p72
+sg34
+I864
+sa(dp73
+g32
+VClick
+p74
+sg34
+I843
+sa(dp75
+g32
+VThe Population Explosion at Lake Stover
+p76
+sg34
+I878
+sa(dp77
+g32
+VTwo of a Kind
+p78
+sg34
+I879
+sa(dp79
+g32
+VThe Wind-Down Toy
 p80
+sg34
+I880
+sa(dp81
+g32
+VJem (Part 1 of 5)
+p82
+sg34
+I40
 sasb.

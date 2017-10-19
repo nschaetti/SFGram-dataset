@@ -1,0 +1,66 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine July 1965", 
+    "cover": "https://ia601300.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/1965-07_IF/1965-07_IF_jp2.zip&file=1965-07_IF_jp2/1965-07_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/3/38/WOFIFJUL1965.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        499, 
+        578, 
+        545, 
+        40, 
+        658, 
+        1074, 
+        356, 
+        1116, 
+        74, 
+        918
+    ], 
+    "year": 1965, 
+    "images": [], 
+    "id": 1309, 
+    "contents": [
+        {
+            "author": 499, 
+            "title": "Research Alpha"
+        }, 
+        {
+            "author": 578, 
+            "title": "The Fur People"
+        }, 
+        {
+            "author": 545, 
+            "title": "Skylark Duquesne (Part 2 of 5)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Concerning Worms and Serpents"
+        }, 
+        {
+            "author": 658, 
+            "title": "Research Alpha"
+        }, 
+        {
+            "author": 1074, 
+            "title": "Skylark Duquesne (Part 2 of 5)"
+        }, 
+        {
+            "author": 356, 
+            "title": "The Last Earthman"
+        }, 
+        {
+            "author": 1116, 
+            "title": "The Fur People"
+        }, 
+        {
+            "author": 74, 
+            "title": "In Our Block"
+        }
+    ]
+}

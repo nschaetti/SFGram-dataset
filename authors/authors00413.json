@@ -2,7 +2,8 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        997
+        997, 
+        1305
     ], 
     "id": 413, 
     "name": "Eric Frank Russell"

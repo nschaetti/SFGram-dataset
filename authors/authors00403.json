@@ -2,7 +2,8 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        995
+        995, 
+        1252
     ], 
     "id": 403, 
     "name": "Joseph Shallit"

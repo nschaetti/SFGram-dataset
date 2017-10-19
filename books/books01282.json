@@ -1,0 +1,79 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1961", 
+    "cover": "https://ia601306.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/1961-11_IF/1961-11_IF_jp2.zip&file=1961-11_IF_jp2/1961-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f8/WOFIFNOV1961.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        1073, 
+        499, 
+        326, 
+        341, 
+        67, 
+        1074, 
+        267, 
+        542, 
+        260, 
+        1075, 
+        918
+    ], 
+    "year": 1961, 
+    "images": [], 
+    "id": 1282, 
+    "contents": [
+        {
+            "author": 1073, 
+            "title": "Masters of Space (Part 1 of 2)"
+        }, 
+        {
+            "author": 1073, 
+            "title": "Masters of Space (Part 1 of 2) [2]"
+        }, 
+        {
+            "author": 499, 
+            "title": "At the End of the Orbit"
+        }, 
+        {
+            "author": 499, 
+            "title": "Gambler's World"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, November 1961)"
+        }, 
+        {
+            "author": 341, 
+            "title": "Penny Wise and Fashion Foolish"
+        }, 
+        {
+            "author": 67, 
+            "title": "Gambler's World"
+        }, 
+        {
+            "author": 1074, 
+            "title": "Masters of Space (Part 1 of 2)"
+        }, 
+        {
+            "author": 267, 
+            "title": "Sweet Their Blood and Sticky"
+        }, 
+        {
+            "author": 542, 
+            "title": "At the End of the Orbit"
+        }, 
+        {
+            "author": 260, 
+            "title": "The Mightiest Man"
+        }, 
+        {
+            "author": 1075, 
+            "title": "Quiet, Please"
+        }
+    ]
+}

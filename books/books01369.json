@@ -1,0 +1,122 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine January 1971", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/1971-01_IF/1971-01_IF_jp2.zip&file=1971-01_IF_jp2/1971-01_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/e/ed/WOFIFJANFEB1971.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        356, 
+        669, 
+        67, 
+        1172, 
+        602, 
+        74, 
+        675, 
+        666, 
+        1209, 
+        1204, 
+        1201, 
+        779, 
+        918
+    ], 
+    "year": 1971, 
+    "images": [], 
+    "id": 1369, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "To Grab Power"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Beast of 309"
+        }, 
+        {
+            "author": 326, 
+            "title": "Beneath Still Waters"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Midnight Ride of Merlanger Mckay"
+        }, 
+        {
+            "author": 326, 
+            "title": "A Slight Detour"
+        }, 
+        {
+            "author": 326, 
+            "title": "Pime Doesn't Cray"
+        }, 
+        {
+            "author": 326, 
+            "title": "Never Cry Human"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Immortal"
+        }, 
+        {
+            "author": 326, 
+            "title": "The Man Who Devoured Books"
+        }, 
+        {
+            "author": 326, 
+            "title": "Hue and Cry (If, January-February 1971)"
+        }, 
+        {
+            "author": 356, 
+            "title": "Reading Room (If, January-February 1971)"
+        }, 
+        {
+            "author": 669, 
+            "title": "The Beast of 309"
+        }, 
+        {
+            "author": 67, 
+            "title": "Pime Doesn't Cray"
+        }, 
+        {
+            "author": 1172, 
+            "title": "Never Cry Human"
+        }, 
+        {
+            "author": 602, 
+            "title": "To Grab Power"
+        }, 
+        {
+            "author": 74, 
+            "title": "The Man Underneath"
+        }, 
+        {
+            "author": 675, 
+            "title": "Beneath Still Waters"
+        }, 
+        {
+            "author": 666, 
+            "title": "The Midnight Ride of Merlanger Mckay"
+        }, 
+        {
+            "author": 1209, 
+            "title": "The Helix"
+        }, 
+        {
+            "author": 1204, 
+            "title": "A Slight Detour"
+        }, 
+        {
+            "author": 1201, 
+            "title": "The Immortal"
+        }, 
+        {
+            "author": 779, 
+            "title": "The Man Who Devoured Books"
+        }
+    ]
+}

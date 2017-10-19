@@ -1,0 +1,103 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine April 1969", 
+    "cover": "https://ia601309.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/1969-04_IF/1969-04_IF_jp2.zip&file=1969-04_IF_jp2/1969-04_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/c/ce/WOFIFAPR1969.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        611, 
+        640, 
+        499, 
+        40, 
+        1184, 
+        356, 
+        326, 
+        1154, 
+        67, 
+        28, 
+        631, 
+        680, 
+        1185, 
+        1153, 
+        918
+    ], 
+    "year": 1969, 
+    "images": [], 
+    "id": 1354, 
+    "contents": [
+        {
+            "author": 611, 
+            "title": "Toys of Tamisan (Part 1 of 2)"
+        }, 
+        {
+            "author": 640, 
+            "title": "Spork of the Ayor"
+        }, 
+        {
+            "author": 499, 
+            "title": "Authorgraphs: An Interview with Jack Williamson"
+        }, 
+        {
+            "author": 499, 
+            "title": "Retief, the Long-Awaited Master"
+        }, 
+        {
+            "author": 40, 
+            "title": "What We Think With"
+        }, 
+        {
+            "author": 1184, 
+            "title": "A Report On the Sixth International Sf Film Festival"
+        }, 
+        {
+            "author": 356, 
+            "title": "If ... And When (If, April 1969)"
+        }, 
+        {
+            "author": 40, 
+            "title": "Hue and Cry (If, April 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Sf Calendar (If, April 1969)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Authorgraphs: An Interview with Jack Williamson"
+        }, 
+        {
+            "author": 1154, 
+            "title": "Spork of the Ayor"
+        }, 
+        {
+            "author": 67, 
+            "title": "Retief, the Long-Awaited Master"
+        }, 
+        {
+            "author": 28, 
+            "title": "Toys of Tamisan (Part 1 of 2)"
+        }, 
+        {
+            "author": 631, 
+            "title": "Starbright"
+        }, 
+        {
+            "author": 680, 
+            "title": "That Season"
+        }, 
+        {
+            "author": 1185, 
+            "title": "The Light Bearer"
+        }, 
+        {
+            "author": 1153, 
+            "title": "Tourists Welcome"
+        }
+    ]
+}

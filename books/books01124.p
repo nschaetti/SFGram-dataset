@@ -74,183 +74,185 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I615
-sg14
-VAmong the Bad Baboons
+S'title'
 p32
-sa(dp33
-g10
-I615
-sg14
-VAmong the Bad Baboons [2]
-p34
-sa(dp35
-g10
-I615
-sg14
-VAmong the Bad Baboons [3]
-p36
-sa(dp37
-g10
-I615
-sg14
-VAmong the Bad Baboons [4]
-p38
-sa(dp39
-g10
-I626
-sg14
-VGoing Down Smooth
-p40
-sa(dp41
-g10
-I626
-sg14
-VGoing Down Smooth [2]
-p42
-sa(dp43
-g10
-I499
-sg14
-VA Specter Is Haunting Texas (Part 2 of 3)
-p44
-sa(dp45
-g10
-I499
-sg14
-VA Specter Is Haunting Texas (Part 2 of 3) [2]
-p46
-sa(dp47
-g10
-I499
-sg14
-VA Specter Is Haunting Texas (Part 2 of 3) [3]
-p48
-sa(dp49
-g10
-I499
-sg14
-VA Specter Is Haunting Texas (Part 2 of 3) [4]
-p50
-sa(dp51
-g10
-I499
-sg14
-VA Specter Is Haunting Texas (Part 2 of 3) [5]
-p52
-sa(dp53
-g10
-I499
-sg14
-VA Specter Is Haunting Texas (Part 2 of 3) [6]
-p54
-sa(dp55
-g10
-I499
-sg14
-VA Specter Is Haunting Texas (Part 2 of 3) [7]
-p56
-sa(dp57
-g10
-I611
-sg14
-VThe Time Trawlers
-p58
-sa(dp59
-g10
-I611
-sg14
-VThe Time Trawlers [2]
-p60
-sa(dp61
-g10
-I611
-sg14
-VThe Time Trawlers [3]
-p62
-sa(dp63
-g10
-I499
-sg14
-VThe Star Below
-p64
-sa(dp65
-g10
-I499
-sg14
-VThe Star Below [2]
-p66
-sa(dp67
-g10
-I624
-sg14
-VHemeac
-p68
-sa(dp69
-g10
-I40
-sg14
-VTony Boucher
-p70
-sa(dp71
-g10
-I339
-sg14
-VFor Your Information: In Australia, the Rain ...
-p72
-sa(dp73
-g10
-I91
-sg14
-VGalaxy Bookshelf (Galaxy, August 1968)
-p74
-sa(dp75
-g10
-I326
-sg14
-VGalaxy's Stars (Galaxy, August 1968)
-p76
-sa(dp77
-g10
-I326
-sg14
-VForecast (Galaxy, August 1968)
-p78
-sa(dp79
-g10
-I69
-sg14
 VAmong the Bad Baboons
-p80
-sa(dp81
-g10
-I204
-sg14
-VThe Star Below
-p82
-sa(dp83
-g10
-I32
-sg14
-VA Specter Is Haunting Texas (Part 2 of 3)
-p84
-sa(dp85
-g10
-I50
-sg14
+p33
+sS'author'
+p34
+I615
+sa(dp35
+g32
+VAmong the Bad Baboons [2]
+p36
+sg34
+I615
+sa(dp37
+g32
+VAmong the Bad Baboons [3]
+p38
+sg34
+I615
+sa(dp39
+g32
+VAmong the Bad Baboons [4]
+p40
+sg34
+I615
+sa(dp41
+g32
 VGoing Down Smooth
-p86
-sa(dp87
-g10
-I629
-sg14
+p42
+sg34
+I626
+sa(dp43
+g32
+VGoing Down Smooth [2]
+p44
+sg34
+I626
+sa(dp45
+g32
+VA Specter Is Haunting Texas (Part 2 of 3)
+p46
+sg34
+I499
+sa(dp47
+g32
+VA Specter Is Haunting Texas (Part 2 of 3) [2]
+p48
+sg34
+I499
+sa(dp49
+g32
+VA Specter Is Haunting Texas (Part 2 of 3) [3]
+p50
+sg34
+I499
+sa(dp51
+g32
+VA Specter Is Haunting Texas (Part 2 of 3) [4]
+p52
+sg34
+I499
+sa(dp53
+g32
+VA Specter Is Haunting Texas (Part 2 of 3) [5]
+p54
+sg34
+I499
+sa(dp55
+g32
+VA Specter Is Haunting Texas (Part 2 of 3) [6]
+p56
+sg34
+I499
+sa(dp57
+g32
+VA Specter Is Haunting Texas (Part 2 of 3) [7]
+p58
+sg34
+I499
+sa(dp59
+g32
 VThe Time Trawlers
-p88
-sa(dp89
-g10
-I631
-sg14
+p60
+sg34
+I611
+sa(dp61
+g32
+VThe Time Trawlers [2]
+p62
+sg34
+I611
+sa(dp63
+g32
+VThe Time Trawlers [3]
+p64
+sg34
+I611
+sa(dp65
+g32
+VThe Star Below
+p66
+sg34
+I499
+sa(dp67
+g32
+VThe Star Below [2]
+p68
+sg34
+I499
+sa(dp69
+g32
 VHemeac
+p70
+sg34
+I624
+sa(dp71
+g32
+VTony Boucher
+p72
+sg34
+I40
+sa(dp73
+g32
+VFor Your Information: In Australia, the Rain ...
+p74
+sg34
+I339
+sa(dp75
+g32
+VGalaxy Bookshelf (Galaxy, August 1968)
+p76
+sg34
+I91
+sa(dp77
+g32
+VGalaxy's Stars (Galaxy, August 1968)
+p78
+sg34
+I326
+sa(dp79
+g32
+VForecast (Galaxy, August 1968)
+p80
+sg34
+I326
+sa(dp81
+g32
+VAmong the Bad Baboons
+p82
+sg34
+I69
+sa(dp83
+g32
+VThe Star Below
+p84
+sg34
+I204
+sa(dp85
+g32
+VA Specter Is Haunting Texas (Part 2 of 3)
+p86
+sg34
+I32
+sa(dp87
+g32
+VGoing Down Smooth
+p88
+sg34
+I50
+sa(dp89
+g32
+VThe Time Trawlers
 p90
+sg34
+I629
+sa(dp91
+g32
+VHemeac
+p92
+sg34
+I631
 sasb.

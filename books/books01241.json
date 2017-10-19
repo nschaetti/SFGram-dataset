@@ -1,0 +1,128 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine February 1955", 
+    "cover": "https://ia600203.us.archive.org/BookReader/BookReaderImages.php?zip=/25/items/1955-02_IF/1955-02_IF_jp2.zip&file=1955-02_IF_jp2/1955-02_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/8/85/WOFIFFEB1955.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        326, 
+        363, 
+        956, 
+        988, 
+        412, 
+        948, 
+        315, 
+        1004, 
+        414, 
+        289, 
+        982, 
+        609, 
+        1005, 
+        421, 
+        234, 
+        918
+    ], 
+    "year": 1955, 
+    "images": [], 
+    "id": 1241, 
+    "contents": [
+        {
+            "author": 326, 
+            "title": "Observatory Rocket"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Odd Ones"
+        }, 
+        {
+            "author": 956, 
+            "title": "Seller of the Sky"
+        }, 
+        {
+            "author": 988, 
+            "title": "Dreamtown, U.S.A."
+        }, 
+        {
+            "author": 988, 
+            "title": "The Big Leap"
+        }, 
+        {
+            "author": 412, 
+            "title": "Our Town"
+        }, 
+        {
+            "author": 363, 
+            "title": "The Last Crusade"
+        }, 
+        {
+            "author": 412, 
+            "title": "A Witch in Time"
+        }, 
+        {
+            "author": 988, 
+            "title": "Inhibition"
+        }, 
+        {
+            "author": 956, 
+            "title": "The York Problem"
+        }, 
+        {
+            "author": 948, 
+            "title": "A Chat with the Editor (If, February 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Worth Citing (If, February 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "What Is Your Science I. Q.? (If, February 1955)"
+        }, 
+        {
+            "author": 326, 
+            "title": "Science Briefs (If, February 1955)"
+        }, 
+        {
+            "author": 315, 
+            "title": "The Odd Ones"
+        }, 
+        {
+            "author": 1004, 
+            "title": "Dreamtown, U.S.A."
+        }, 
+        {
+            "author": 414, 
+            "title": "Our Town"
+        }, 
+        {
+            "author": 289, 
+            "title": "Seller of the Sky"
+        }, 
+        {
+            "author": 982, 
+            "title": "The Big Leap"
+        }, 
+        {
+            "author": 609, 
+            "title": "The Last Crusade"
+        }, 
+        {
+            "author": 1005, 
+            "title": "A Witch in Time"
+        }, 
+        {
+            "author": 421, 
+            "title": "Inhibition"
+        }, 
+        {
+            "author": 234, 
+            "title": "The York Problem"
+        }
+    ]
+}

@@ -68,99 +68,101 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I326
-sg14
-VCase and the Dreamer
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VMayflower Three
-p34
-sa(dp35
-g10
-I499
-sg14
-VLa Befana
-p36
-sa(dp37
-g10
-I326
-sg14
-VProject 40 (Part 2 of 3)
-p38
-sa(dp39
-g10
-I326
-sg14
-VReflex
-p40
-sa(dp41
-g10
-I326
-sg14
-VDirections (Galaxy Magazine, January-February 1973)
-p42
-sa(dp43
-g10
-I326
-sg14
-VStatement of Ownership (Galaxy, January-February 1973) (Circulation: 51,602)
-p44
-sa(dp45
-g10
-I605
-sg14
-VIs the Star of Bethlehem Observable Today?
-p46
-sa(dp47
-g10
-I710
-sg14
-VIs the Star of Bethlehem Observable Today? A Comment.
-p48
-sa(dp49
-g10
-I605
-sg14
-VGalaxy Stars (Galaxy Magazine, January-February 1973)
-p50
-sa(dp51
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, January-February 1973)
-p52
-sa(dp53
-g10
-I663
-sg14
-VMayflower Three
-p54
-sa(dp55
-g10
-I341
-sg14
 VCase and the Dreamer
-p56
-sa(dp57
-g10
-I63
-sg14
-VProject 40 (Part 2 of 3)
-p58
-sa(dp59
-g10
-I711
-sg14
+p33
+sS'author'
+p34
+I326
+sa(dp35
+g32
+VMayflower Three
+p36
+sg34
+I499
+sa(dp37
+g32
 VLa Befana
-p60
-sa(dp61
-g10
-I712
-sg14
+p38
+sg34
+I499
+sa(dp39
+g32
+VProject 40 (Part 2 of 3)
+p40
+sg34
+I326
+sa(dp41
+g32
 VReflex
+p42
+sg34
+I326
+sa(dp43
+g32
+VDirections (Galaxy Magazine, January-February 1973)
+p44
+sg34
+I326
+sa(dp45
+g32
+VStatement of Ownership (Galaxy, January-February 1973) (Circulation: 51,602)
+p46
+sg34
+I326
+sa(dp47
+g32
+VIs the Star of Bethlehem Observable Today?
+p48
+sg34
+I605
+sa(dp49
+g32
+VIs the Star of Bethlehem Observable Today? A Comment.
+p50
+sg34
+I710
+sa(dp51
+g32
+VGalaxy Stars (Galaxy Magazine, January-February 1973)
+p52
+sg34
+I605
+sa(dp53
+g32
+VGalaxy Bookshelf (Galaxy, January-February 1973)
+p54
+sg34
+I341
+sa(dp55
+g32
+VMayflower Three
+p56
+sg34
+I663
+sa(dp57
+g32
+VCase and the Dreamer
+p58
+sg34
+I341
+sa(dp59
+g32
+VProject 40 (Part 2 of 3)
+p60
+sg34
+I63
+sa(dp61
+g32
+VLa Befana
 p62
+sg34
+I711
+sa(dp63
+g32
+VReflex
+p64
+sg34
+I712
 sasb.

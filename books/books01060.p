@@ -75,141 +75,143 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I519
-sg14
-VThe Rule of the Door
+S'title'
 p32
-sa(dp33
-g10
-I519
-sg14
-VThe Rule of the Door [2]
-p34
-sa(dp35
-g10
-I519
-sg14
-VThe Rule of the Door [3]
-p36
-sa(dp37
-g10
-I525
-sg14
-VThe Big Bounce
-p38
-sa(dp39
-g10
-I529
-sg14
-VThe Repairman
-p40
-sa(dp41
-g10
-I519
-sg14
-VBread Overhead
-p42
-sa(dp43
-g10
-I519
-sg14
-VBread Overhead [2]
-p44
-sa(dp45
-g10
-I519
-sg14
-VBread Overhead [3]
-p46
-sa(dp47
-g10
-I419
-sg14
-VThe Blue Tower
-p48
-sa(dp49
-g10
-I504
-sg14
-VTraders Risk
-p50
-sa(dp51
-g10
-I506
-sg14
-VGraveyard of Dreams
-p52
-sa(dp53
-g10
-I506
-sg14
-VGraveyard of Dreams [2]
-p54
-sa(dp55
-g10
-I506
-sg14
-VGraveyard of Dreams [3]
-p56
-sa(dp57
-g10
-I305
-sg14
-VRepeat Performance
-p58
-sa(dp59
-g10
-I339
-sg14
-VFor Your Information: A Century of New Animals
-p60
-sa(dp61
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, February 1958)
-p62
-sa(dp63
-g10
-I498
-sg14
 VThe Rule of the Door
-p64
-sa(dp65
-g10
-I19
-sg14
-VGraveyard of Dreams
-p66
-sa(dp67
-g10
-I509
-sg14
+p33
+sS'author'
+p34
+I519
+sa(dp35
+g32
+VThe Rule of the Door [2]
+p36
+sg34
+I519
+sa(dp37
+g32
+VThe Rule of the Door [3]
+p38
+sg34
+I519
+sa(dp39
+g32
 VThe Big Bounce
-p68
-sa(dp69
-g10
-I16
-sg14
+p40
+sg34
+I525
+sa(dp41
+g32
 VThe Repairman
-p70
-sa(dp71
-g10
-I32
-sg14
+p42
+sg34
+I529
+sa(dp43
+g32
 VBread Overhead
-p72
-sa(dp73
-g10
-I172
-sg14
+p44
+sg34
+I519
+sa(dp45
+g32
+VBread Overhead [2]
+p46
+sg34
+I519
+sa(dp47
+g32
+VBread Overhead [3]
+p48
+sg34
+I519
+sa(dp49
+g32
 VThe Blue Tower
-p74
-sa(dp75
-g10
-I400
-sg14
+p50
+sg34
+I419
+sa(dp51
+g32
 VTraders Risk
+p52
+sg34
+I504
+sa(dp53
+g32
+VGraveyard of Dreams
+p54
+sg34
+I506
+sa(dp55
+g32
+VGraveyard of Dreams [2]
+p56
+sg34
+I506
+sa(dp57
+g32
+VGraveyard of Dreams [3]
+p58
+sg34
+I506
+sa(dp59
+g32
+VRepeat Performance
+p60
+sg34
+I305
+sa(dp61
+g32
+VFor Your Information: A Century of New Animals
+p62
+sg34
+I339
+sa(dp63
+g32
+VGalaxy's 5 Star Shelf (Galaxy, February 1958)
+p64
+sg34
+I483
+sa(dp65
+g32
+VThe Rule of the Door
+p66
+sg34
+I498
+sa(dp67
+g32
+VGraveyard of Dreams
+p68
+sg34
+I19
+sa(dp69
+g32
+VThe Big Bounce
+p70
+sg34
+I509
+sa(dp71
+g32
+VThe Repairman
+p72
+sg34
+I16
+sa(dp73
+g32
+VBread Overhead
+p74
+sg34
+I32
+sa(dp75
+g32
+VThe Blue Tower
 p76
+sg34
+I172
+sa(dp77
+g32
+VTraders Risk
+p78
+sg34
+I400
 sasb.

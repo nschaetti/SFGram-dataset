@@ -2,7 +2,10 @@
     "countries": [], 
     "gender": "", 
     "books": [
-        1000
+        1000, 
+        1249, 
+        1255, 
+        1260
     ], 
     "id": 422, 
     "name": "James V. McConnell"

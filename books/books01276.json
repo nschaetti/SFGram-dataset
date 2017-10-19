@@ -1,0 +1,90 @@
+{
+    "similar_books": [], 
+    "genres": [], 
+    "author": 918, 
+    "countries": [
+        2
+    ], 
+    "title": "IF Magazine November 1960", 
+    "cover": "https://ia601307.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/1960-11_IF/1960-11_IF_jp2.zip&file=1960-11_IF_jp2/1960-11_IF_0000.jp2&scale=0&rotate=0", 
+    "cover_art": "http://www.isfdb.org/wiki/images/f/f2/WOFIFNOV1960.jpg", 
+    "author_name": "IF Magazine", 
+    "images_urls": [], 
+    "authors": [
+        560, 
+        519, 
+        499, 
+        419, 
+        40, 
+        537, 
+        498, 
+        133, 
+        142, 
+        1065, 
+        74, 
+        554, 
+        63, 
+        918
+    ], 
+    "year": 1960, 
+    "images": [], 
+    "id": 1276, 
+    "contents": [
+        {
+            "author": 560, 
+            "title": "Mindsnake"
+        }, 
+        {
+            "author": 519, 
+            "title": "Superjoemulloy"
+        }, 
+        {
+            "author": 519, 
+            "title": "The Quality of Mercy"
+        }, 
+        {
+            "author": 499, 
+            "title": "Esidarap Ot Pirt Dnuor"
+        }, 
+        {
+            "author": 419, 
+            "title": "The Impersonator"
+        }, 
+        {
+            "author": 40, 
+            "title": "Worlds of If (If, November 1960)"
+        }, 
+        {
+            "author": 537, 
+            "title": "The Quality of Mercy"
+        }, 
+        {
+            "author": 498, 
+            "title": "Esidarap Ot Pirt Dnuor"
+        }, 
+        {
+            "author": 133, 
+            "title": "The Impersonator"
+        }, 
+        {
+            "author": 142, 
+            "title": "Mindsnake"
+        }, 
+        {
+            "author": 1065, 
+            "title": "Superjoemulloy"
+        }, 
+        {
+            "author": 74, 
+            "title": "Mcgonigal's Worm"
+        }, 
+        {
+            "author": 554, 
+            "title": "Don't Think About It"
+        }, 
+        {
+            "author": 63, 
+            "title": "Egg and Ashes"
+        }
+    ]
+}

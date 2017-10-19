@@ -77,147 +77,149 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I497
-sg14
-VThe Day After Doomsday (Part 1 of 2)
+S'title'
 p32
-sa(dp33
-g10
-I497
-sg14
-VThe Day After Doomsday (Part 1 of 2) [2]
-p34
-sa(dp35
-g10
-I497
-sg14
-VThe Day After Doomsday (Part 1 of 2) [3]
-p36
-sa(dp37
-g10
-I519
-sg14
-VOh, Rats!
-p38
-sa(dp39
-g10
-I519
-sg14
-VOh, Rats! [2]
-p40
-sa(dp41
-g10
-I499
-sg14
-VSatisfaction Guaranteed
-p42
-sa(dp43
-g10
-I419
-sg14
-VWall of Crystal, Eye of Night
-p44
-sa(dp45
-g10
-I419
-sg14
-VWall of Crystal, Eye of Night [2]
-p46
-sa(dp47
-g10
-I562
-sg14
-VRainbird
-p48
-sa(dp49
-g10
-I497
-sg14
-VAn Old Fashioned Bird Christmas
-p50
-sa(dp51
-g10
-I556
-sg14
-VThe Watery Wonders of Captain Nemo
-p52
-sa(dp53
-g10
-I562
-sg14
-VThe Little Man Who Wasn't Quite
-p54
-sa(dp55
-g10
-I565
-sg14
-VWay Out There
-p56
-sa(dp57
-g10
-I339
-sg14
-VFor Your Information: Dragons and Hot-Air Balloons
-p58
-sa(dp59
-g10
-I483
-sg14
-VGalaxy's 5 Star Shelf (Galaxy, December 1961)
-p60
-sa(dp61
-g10
-I569
-sg14
-VThe Watery Wonders of Captain Nemo
-p62
-sa(dp63
-g10
-I326
-sg14
-VForecast (Galaxy, December 1961)
-p64
-sa(dp65
-g10
-I91
-sg14
-VWall of Crystal, Eye of Night
-p66
-sa(dp67
-g10
-I423
-sg14
-VAn Old Fashioned Bird Christmas
-p68
-sa(dp69
-g10
-I30
-sg14
 VThe Day After Doomsday (Part 1 of 2)
-p70
-sa(dp71
-g10
-I470
-sg14
+p33
+sS'author'
+p34
+I497
+sa(dp35
+g32
+VThe Day After Doomsday (Part 1 of 2) [2]
+p36
+sg34
+I497
+sa(dp37
+g32
+VThe Day After Doomsday (Part 1 of 2) [3]
+p38
+sg34
+I497
+sa(dp39
+g32
 VOh, Rats!
-p72
-sa(dp73
-g10
-I257
-sg14
+p40
+sg34
+I519
+sa(dp41
+g32
+VOh, Rats! [2]
+p42
+sg34
+I519
+sa(dp43
+g32
 VSatisfaction Guaranteed
-p74
-sa(dp75
-g10
-I74
-sg14
+p44
+sg34
+I499
+sa(dp45
+g32
+VWall of Crystal, Eye of Night
+p46
+sg34
+I419
+sa(dp47
+g32
+VWall of Crystal, Eye of Night [2]
+p48
+sg34
+I419
+sa(dp49
+g32
 VRainbird
-p76
-sa(dp77
-g10
-I554
-sg14
+p50
+sg34
+I562
+sa(dp51
+g32
+VAn Old Fashioned Bird Christmas
+p52
+sg34
+I497
+sa(dp53
+g32
+VThe Watery Wonders of Captain Nemo
+p54
+sg34
+I556
+sa(dp55
+g32
 VThe Little Man Who Wasn't Quite
+p56
+sg34
+I562
+sa(dp57
+g32
+VWay Out There
+p58
+sg34
+I565
+sa(dp59
+g32
+VFor Your Information: Dragons and Hot-Air Balloons
+p60
+sg34
+I339
+sa(dp61
+g32
+VGalaxy's 5 Star Shelf (Galaxy, December 1961)
+p62
+sg34
+I483
+sa(dp63
+g32
+VThe Watery Wonders of Captain Nemo
+p64
+sg34
+I569
+sa(dp65
+g32
+VForecast (Galaxy, December 1961)
+p66
+sg34
+I326
+sa(dp67
+g32
+VWall of Crystal, Eye of Night
+p68
+sg34
+I91
+sa(dp69
+g32
+VAn Old Fashioned Bird Christmas
+p70
+sg34
+I423
+sa(dp71
+g32
+VThe Day After Doomsday (Part 1 of 2)
+p72
+sg34
+I30
+sa(dp73
+g32
+VOh, Rats!
+p74
+sg34
+I470
+sa(dp75
+g32
+VSatisfaction Guaranteed
+p76
+sg34
+I257
+sa(dp77
+g32
+VRainbird
 p78
+sg34
+I74
+sa(dp79
+g32
+VThe Little Man Who Wasn't Quite
+p80
+sg34
+I554
 sasb.

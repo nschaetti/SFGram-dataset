@@ -74,159 +74,161 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I499
-sg14
-VHumans, Go Home!
+S'title'
 p32
-sa(dp33
-g10
-I499
-sg14
-VHumans, Go Home! [2]
-p34
-sa(dp35
-g10
-I499
-sg14
-VHumans, Go Home! [3]
-p36
-sa(dp37
-g10
-I499
-sg14
-VHumans, Go Home! [4]
-p38
-sa(dp39
-g10
-I499
-sg14
-VHumans, Go Home! [5]
-p40
-sa(dp41
-g10
-I499
-sg14
-VHumans, Go Home! [6]
-p42
-sa(dp43
-g10
-I499
-sg14
-VOut of Phase
-p44
-sa(dp45
-g10
-I499
-sg14
-VOut of Phase [2]
-p46
-sa(dp47
-g10
-I570
-sg14
-VPasser
-p48
-sa(dp49
-g10
-I326
-sg14
-VCitadel
-p50
-sa(dp51
-g10
-I657
-sg14
-VRevival Meeting
-p52
-sa(dp53
-g10
-I326
-sg14
-VDune Messiah (Part 3 of 5)
-p54
-sa(dp55
-g10
-I499
-sg14
-VCredo: Willy Ley: The First Citizen of the Moon
-p56
-sa(dp57
-g10
-I40
-sg14
-VUnnatural Selection
-p58
-sa(dp59
-g10
-I597
-sg14
-VMartians and Venusians
-p60
-sa(dp61
-g10
-I326
-sg14
-VForecast (Galaxy, September 1969)
-p62
-sa(dp63
-g10
-I326
-sg14
-VGalaxy's Stars (Galaxy, September 1969)
-p64
-sa(dp65
-g10
-I91
-sg14
-VGalaxy Book Shelf (Galaxy, September 1969)
-p66
-sa(dp67
-g10
-I339
-sg14
-VFor Your Information (Galaxy, September 1969)
-p68
-sa(dp69
-g10
-I356
-sg14
-VCredo: Willy Ley: The First Citizen of the Moon (Obituary)
-p70
-sa(dp71
-g10
-I658
-sg14
 VHumans, Go Home!
-p72
-sa(dp73
-g10
-I659
-sg14
-VThe Martian Surface
-p74
-sa(dp75
-g10
-I63
-sg14
-VDune Messiah (Part 3 of 5)
-p76
-sa(dp77
-g10
-I660
-sg14
+p33
+sS'author'
+p34
+I499
+sa(dp35
+g32
+VHumans, Go Home! [2]
+p36
+sg34
+I499
+sa(dp37
+g32
+VHumans, Go Home! [3]
+p38
+sg34
+I499
+sa(dp39
+g32
+VHumans, Go Home! [4]
+p40
+sg34
+I499
+sa(dp41
+g32
+VHumans, Go Home! [5]
+p42
+sg34
+I499
+sa(dp43
+g32
+VHumans, Go Home! [6]
+p44
+sg34
+I499
+sa(dp45
+g32
 VOut of Phase
-p78
-sa(dp79
-g10
-I661
-sg14
+p46
+sg34
+I499
+sa(dp47
+g32
+VOut of Phase [2]
+p48
+sg34
+I499
+sa(dp49
+g32
+VPasser
+p50
+sg34
+I570
+sa(dp51
+g32
 VCitadel
-p80
-sa(dp81
-g10
-I662
-sg14
+p52
+sg34
+I326
+sa(dp53
+g32
 VRevival Meeting
+p54
+sg34
+I657
+sa(dp55
+g32
+VDune Messiah (Part 3 of 5)
+p56
+sg34
+I326
+sa(dp57
+g32
+VCredo: Willy Ley: The First Citizen of the Moon
+p58
+sg34
+I499
+sa(dp59
+g32
+VUnnatural Selection
+p60
+sg34
+I40
+sa(dp61
+g32
+VMartians and Venusians
+p62
+sg34
+I597
+sa(dp63
+g32
+VForecast (Galaxy, September 1969)
+p64
+sg34
+I326
+sa(dp65
+g32
+VGalaxy's Stars (Galaxy, September 1969)
+p66
+sg34
+I326
+sa(dp67
+g32
+VGalaxy Book Shelf (Galaxy, September 1969)
+p68
+sg34
+I91
+sa(dp69
+g32
+VFor Your Information (Galaxy, September 1969)
+p70
+sg34
+I339
+sa(dp71
+g32
+VCredo: Willy Ley: The First Citizen of the Moon (Obituary)
+p72
+sg34
+I356
+sa(dp73
+g32
+VHumans, Go Home!
+p74
+sg34
+I658
+sa(dp75
+g32
+VThe Martian Surface
+p76
+sg34
+I659
+sa(dp77
+g32
+VDune Messiah (Part 3 of 5)
+p78
+sg34
+I63
+sa(dp79
+g32
+VOut of Phase
+p80
+sg34
+I660
+sa(dp81
+g32
+VCitadel
 p82
+sg34
+I661
+sa(dp83
+g32
+VRevival Meeting
+p84
+sg34
+I662
 sasb.

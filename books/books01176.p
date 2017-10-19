@@ -75,123 +75,125 @@ sS'contents'
 p29
 (lp30
 (dp31
-g10
-I742
-sg14
-VThe Splendid Freedom
+S'title'
 p32
-sa(dp33
-g10
-I744
-sg14
-VNature's Children
-p34
-sa(dp35
-g10
-I744
-sg14
-VIncident
-p36
-sa(dp37
-g10
-I499
-sg14
-VTarget of Opportunity
-p38
-sa(dp39
-g10
-I745
-sg14
-VThe Company of Glory (Part 2 of 3)
-p40
-sa(dp41
-g10
-I499
-sg14
-VFamily Program
-p42
-sa(dp43
-g10
-I499
-sg14
-VThe August Revolution
-p44
-sa(dp45
-g10
-I746
-sg14
-VShowcase (Galaxy, September 1974)
-p46
-sa(dp47
-g10
-I341
-sg14
-VGalaxy Bookshelf (Galaxy, September 1974)
-p48
-sa(dp49
-g10
-I326
-sg14
-VGalaxy Stars (Galaxy, September 1974)
-p50
-sa(dp51
-g10
-I747
-sg14
-VForum: Television: Never-Never Land and Clarke's Third Law
-p52
-sa(dp53
-g10
-I734
-sg14
-VTechnology and Brainpower: Two Revolutions
-p54
-sa(dp55
-g10
-I326
-sg14
-VDirections (Galaxy, September 1974)
-p56
-sa(dp57
-g10
-I748
-sg14
 VThe Splendid Freedom
-p58
-sa(dp59
-g10
-I740
-sg14
-VFamily Program
-p60
-sa(dp61
-g10
-I132
-sg14
-VThe Company of Glory (Part 2 of 3)
-p62
-sa(dp63
-g10
-I722
-sg14
+p33
+sS'author'
+p34
+I742
+sa(dp35
+g32
 VNature's Children
-p64
-sa(dp65
-g10
-I749
-sg14
+p36
+sg34
+I744
+sa(dp37
+g32
 VIncident
-p66
-sa(dp67
-g10
-I750
-sg14
+p38
+sg34
+I744
+sa(dp39
+g32
 VTarget of Opportunity
-p68
-sa(dp69
-g10
-I751
-sg14
+p40
+sg34
+I499
+sa(dp41
+g32
+VThe Company of Glory (Part 2 of 3)
+p42
+sg34
+I745
+sa(dp43
+g32
+VFamily Program
+p44
+sg34
+I499
+sa(dp45
+g32
 VThe August Revolution
+p46
+sg34
+I499
+sa(dp47
+g32
+VShowcase (Galaxy, September 1974)
+p48
+sg34
+I746
+sa(dp49
+g32
+VGalaxy Bookshelf (Galaxy, September 1974)
+p50
+sg34
+I341
+sa(dp51
+g32
+VGalaxy Stars (Galaxy, September 1974)
+p52
+sg34
+I326
+sa(dp53
+g32
+VForum: Television: Never-Never Land and Clarke's Third Law
+p54
+sg34
+I747
+sa(dp55
+g32
+VTechnology and Brainpower: Two Revolutions
+p56
+sg34
+I734
+sa(dp57
+g32
+VDirections (Galaxy, September 1974)
+p58
+sg34
+I326
+sa(dp59
+g32
+VThe Splendid Freedom
+p60
+sg34
+I748
+sa(dp61
+g32
+VFamily Program
+p62
+sg34
+I740
+sa(dp63
+g32
+VThe Company of Glory (Part 2 of 3)
+p64
+sg34
+I132
+sa(dp65
+g32
+VNature's Children
+p66
+sg34
+I722
+sa(dp67
+g32
+VIncident
+p68
+sg34
+I749
+sa(dp69
+g32
+VTarget of Opportunity
 p70
+sg34
+I750
+sa(dp71
+g32
+VThe August Revolution
+p72
+sg34
+I751
 sasb.

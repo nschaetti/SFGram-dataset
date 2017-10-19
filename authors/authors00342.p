@@ -10,16 +10,13 @@ p2
 Ntp3
 Rp4
 (dp5
-S'id'
+S'gender'
 p6
-I342
-sS'gender'
-p7
 S''
-p8
+p7
 sS'books'
-p9
-(lp10
+p8
+(lp9
 I975
 aI976
 aI977
@@ -45,7 +42,10 @@ aI1004
 aI1006
 aI1008
 aI1012
-asS'name'
+asS'id'
+p10
+I342
+sS'name'
 p11
 VDon Sibley
 p12
