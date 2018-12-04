@@ -71,6 +71,22 @@ The dataset is composed of the following files and directories.
 
 ## Authors
 
+The authors directory and the file authors.json contain the data describing each authors in the dataset. This description gives a large field of information such as name, country, gender, biography and the list of books. The complete list of fields contained in each author’s profile is the following.
+
+| Field | Type | Description |
+| name | String | Author's name |
+| countries | Array | List of country IDs linked to the author. |
+| gender | String | Author's gender (f or m). |
+| wikipedia | JSON object | JSON object containing the author's Wikipedia page's URL if found. |
+| n_books | Integer | Number of books written by this author if the dataset. |
+| summary | String | A short biography found on Wikipedia (if it exists). |
+| born | Formatted string | Birth day written as YYYY-MM-DD HH:MM:SS |
+| books | Array | A list of IDs of books written by this author. |
+| id | Integer | The author's ID. |
+| died | Formatted string | Death day, if exists, written as YYYY-MM-DD HH:MM:SS. |
+
+The following code shows the profile of the author Ayn Rand as an example.
+
     {
       "name": "Ayn Rand",
       "countries": [ 2, 16 ],
@@ -89,7 +105,92 @@ The dataset is composed of the following files and directories.
 
 ## Books
 
+The books directory directory and file contain all the information about documents such as title, author’s name and image urls. The complete list of fields contained in each book’s file is the following.
+
+| Field | Type | Description |
+|-------|------|-------------|
+| content_name | String | The name of the text file in the “book-contents” directory which contains the book. |
+| author_name | String | Name of the main author. |
+| images_urls | Array | A list of strings corresponding to the URLs where the images in the “book-images” where found. |
+| year | Integer | The year when the book was published. |
+| images | Array | An array containing all URLs to images linked to this book. |
+| id | Integer | The unique ID of this book. |
+| category | String | The book category. |
+| genres | Array | An array of string defining all the genres which the book belong, as defined on goodreads. |
+| copyright | String | A string defining the copyright linked to this book (mostly on the public domain) |
+| title | String | The title of the book. |
+| wikipedia | JSON object | A JSON object containing the URL to the Wikipedia page if available. |
+| average_rating | Float | The average rating specified on goodreads. |
+| goodreads | JSON object | A JSON object containing the URL to the goodread page if available. |
+| similar_books | Array | An array of string which correspond to the title of books similar to this one (defined on goodread) |
+| description | String | A short abstract of the book. |
+| loc_class | String | The class of the book as defined by the Gutenberg project. |
+| gutenberg | JSON object | A JSON object containing the URL and ID of this book on the website of the Gutenberg project. |
+| authors | Array | An array of ID corresponding to the authors who participated to the creation of this document. |
+| language | String | The language corresponding to the available content. |
+| countries | Array | A list of ID corresponding to the countries linked to authors of this document. |
+| release_date | Formatted string | The release date as YYYY-MM-DD. |
+| author | Integer | The ID of the main author. |
+| cover | String | The URL to the cover. |
+| content_cleaned | Boolean | True if the content has been cleaned of copyright information and reference. |
+| classes | Array | The different classes defining this document as specified on goodread. |
+| content_available | Boolean | True if the content of this document is available in the dataset. |
+| n_authors | Integer | The exact number of authors who participated to the creation of this document. |
+
+The following JSON sample shows an example of book information.
+
+    {
+        "content_name": "8681.txt.utf-8",
+        "author_name": "Robert Barr",
+        "images_urls": [],
+        "year": 1894,
+        "images": [],
+        "id": 229,
+        "category": "Text",
+        "genres": [],
+        "copyright": "Public domain in the USA.",
+        "title": "The Face and the Mask",
+        "wikipedia": {
+            "found": false
+        },
+        "average_rating": 4.43,
+        "rating_count": 1,
+        "goodreads": {
+            "url": "https://www.goodreads.com/book/show/9066959-the-face-and-the-mask",
+            "found": true
+        },
+        "similar_books": [],
+        "description": "Novel by the teacher, journalist, editor and novelist, born in Glasgow, Scotland and educated in Canada. In 1876 he became a member of the staff of the Detroit Free Press, in which his contributions appeared under the signature \"Luke Sharp.\" In 1881 he removed to London, to establish the weekly English edition of the Free Press, and in 1892 he joined Jerome K. Jerome in founding the Idler magazine, from whose co-editorship he retired in 1895. He was a prolific author, producing many popular novels of the day.",
+        "loc_class": "PR: Language and Literatures: English literature",
+        "gutenberg": {
+            "url": "http://www.gutenberg.org/ebooks/8681",
+            "num": 8681
+        },
+        "authors": [
+            75
+        ],
+        "language": "English",
+        "countries": [
+            8,
+            1
+        ],
+        "release_date": "2004-11-14T00:00:00",
+        "author": 75,
+        "cover": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "content_cleaned": false,
+        "classes": [
+            "to-read",
+            "21st-century-lit",
+            "books-i-have",
+            "short-story-thurs"
+        ],
+        "content_available": true,
+        "n_authors": 1
+    }
+
 ## Countries
+
+
 
 ## Years
 
