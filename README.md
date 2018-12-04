@@ -52,6 +52,9 @@ If you find SFGram useful for an academic publication, then please use the follo
   howpublished = {\url{https://github.com/nschaetti/EchoTorch}},
 }
 ```
+## Download
+
+[Download v0.1](https://github.com/nschaetti/SFGram-dataset/archive/master.zip)
 
 ## The dataset
 
@@ -231,8 +234,6 @@ The following JSON sample shows an example.
      "n_books": 5,
      "year": 2017
     }
-
-## Download
 
 ## Documents
 
