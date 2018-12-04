@@ -28,6 +28,45 @@ SFGram (Science-Fiction Gram) is a dataset of public science-fiction novels, boo
 ![IF1](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book01282-cover-215x300.jpg)
 ![IF2](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book01292-cover-220x300.jpg)
 
+| Magazine | Start | End |
+|----------|-------|-----|
+| Galaxy Magazine | January 1950 | March 1995 |
+| IF Magazine | March 1952 | September 1986 |
+
+## Contributors
+
+## Quote
+
+## The dataset
+
+The dataset is composed of the following files and directories.
+
+## Authors
+
+    {
+      "name": "Ayn Rand",
+      "countries": [ 2, 16 ],
+      "gender": "f",
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Ayn_Rand",
+        "found": true
+        },
+      "n_books": 1,
+      "summary": "Ayn Rand (; born Alisa Zinov'yevna Rosenbaum, Russian: February 2 [O.S. January 20] 1905 \u2013 March 6, 1982) was a Russian-American novelist, philosopher, playwright, and screenwriter. She is known for her two best-selling novels, The Fountainhead and Atlas Shrugged, and for developing a philosophical system she called Objectivism. Educated in Russia, she moved to the United States in 1926. She had a play produced on Broadway in 1935\u20131936. After two early novels that were initially unsuccessful in America, she achieved fame with her 1943 novel, The Fountainhead.\nIn 1957, Rand published her best-known work, the novel Atlas Shrugged. Afterward, she turned to non-fiction to promote her philosophy, publishing her own magazines and releasing several collections of essays until her death in 1982. Rand advocated reason as the only means of acquiring knowledge, and rejected faith and religion. She supported rational and ethical egoism, and rejected altruism. In politics, she condemned the initiation of force as immoral, and opposed collectivism and statism as well as anarchism, and instead supported laissez-faire capitalism, which she defined as the system based on recognizing individual rights. In art, Rand promoted romantic realism. She was sharply critical of most philosophers and philosophical traditions known to her, except for Aristotle, Thomas Aquinas, and classical liberals.\nLiterary critics received Rand's fiction with mixed reviews, and academia generally ignored or rejected her philosophy, though academic interest has increased in recent decades. The Objectivist movement attempts to spread her ideas, both to the public and in academic settings. She has been a significant influence among libertarians and American conservatives.",
+      "born": "1905-02-02 00:00:00",
+      "books": [ 6 ],
+      "id": 5,
+      "died": "1982-03-06 00:00:00"
+    }
+
+## Books
+
+## Countries
+
+## Years
+
+## Download
+
 ## Documents
 
 | Title  | Authors | Years |
