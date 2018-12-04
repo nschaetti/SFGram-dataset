@@ -35,11 +35,39 @@ SFGram (Science-Fiction Gram) is a dataset of public science-fiction novels, boo
 
 ## Contributors
 
+* **Nils Schaetti** - *Initial work* - [nschaetti](https://github.com/nschaetti/)
+
 ## Quote
+
+
+If you find SFGram useful for an academic publication, then please use the following BibTeX to cite it:
+
+```
+@misc{echotorch,
+  author = {Schaetti, Nils},
+  title = {SFGram: a dataset containing thousands of scienc-fiction books and novels},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/nschaetti/EchoTorch}},
+}
+```
 
 ## The dataset
 
 The dataset is composed of the following files and directories.
+
+| File | Type | Description |
+|------|------|-------------|
+| authors | Directory | Contains all author files containing information about the different authors. Each file is named “authorsXXXXX.json” where XXXXX is the author ID with preceding zeros. |
+| book-contents | Directory | Contains all text documents containing novels and books. Each file is named “bookXXXXX.txt” where XXXXX is the book ID with preceding zeros. |
+| book-covers | Directory | Directory containing all book covers. Each file is named “bookXXXXX-NAME.jpg” where XXXXX is the book ID and name the name of the original file found at the creation of the dataset. |
+| book-images | Directory | Directory containing images found on the Wikipedia page of the corresponding book if it exists. |
+| books | Directory | Contains all the book JSON files defining information about each book. |
+| authors.json | JSON file | A JSON file containing all JSON object present in the “authors” directory in a list named “authors”. |
+| books.json | JSON file | A JSON file containing all JSON object present in the “book” directory in a list named “books”. |
+| countries.json | JSON file | A JSON file containing a list of object. Each object represents a country described by its name and by an ID. The object also contains a list of IDs corresponding to the book published by author linked to this country. |
+| years.json | JSON file | A JSON file containing a list of object. Each object represents a year with the list of IDs corresponding to books published that year. |
 
 ## Authors
 
