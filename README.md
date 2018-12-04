@@ -43,7 +43,7 @@ SFGram (Science-Fiction Gram) is a dataset of public science-fiction novels, boo
 If you find SFGram useful for an academic publication, then please use the following BibTeX to cite it:
 
 ```
-@misc{echotorch,
+@misc{sfgram,
   author = {Schaetti, Nils},
   title = {SFGram: a dataset containing thousands of scienc-fiction books and novels},
   year = {2018},
@@ -74,6 +74,7 @@ The dataset is composed of the following files and directories.
 The authors directory and the file authors.json contain the data describing each authors in the dataset. This description gives a large field of information such as name, country, gender, biography and the list of books. The complete list of fields contained in each author’s profile is the following.
 
 | Field | Type | Description |
+|-------|------|-------------|
 | name | String | Author's name |
 | countries | Array | List of country IDs linked to the author. |
 | gender | String | Author's gender (f or m). |
@@ -190,9 +191,46 @@ The following JSON sample shows an example of book information.
 
 ## Countries
 
+The countries file contains the information of each country such as books and authors.
 
+| Field | Type | Description |
+|-------|------|-------------|
+| books | Array | A list of ID of books whose authors are linked to this country. |
+| id | Integer | The ID corresponding to this country. |
+| name | String | Country’s name. |
+| authors | Array | An array of IDs corresponding to the authors linked to this country. |
+
+The following JSON sample shows an example of the United Kingdom with bokos and authors.
+
+    {
+       "movies": [],
+       "books": [
+          950, 1, 2, 8, 9, 17, 18, 20, 31, 32, 46, 47, 48, 49, 51, 63, 69, 79, 86, 87, 135, 153, 164, 201, 229, 233, 234, 321, 349, 380, 392, 478, 483, 623, 649, 710, 725, 749, 763, 798, 836, 926, 928
+       ],
+       "id": 1,
+       "name": "United Kingdom",
+       "authors": [
+          1, 7, 10, 11, 33, 54, 57, 75, 76, 77, 106, 160, 246
+       ]
+    }
 
 ## Years
+
+The years JSON file contains the information for each year in the dataset such as movies and books.
+
+| Field | Type | Description |
+|-------|------|-------------|
+| n_books | Integer | How many books were published this year. |
+| books | Array | An array of IDs corresponding to books published this year. |
+
+The following JSON sample shows an example.
+
+    {
+     "movies": [],
+     "books": [],
+     "n_books": 5,
+     "year": 2017
+    }
 
 ## Download
 
