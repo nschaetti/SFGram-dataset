@@ -1,8 +1,34 @@
 # SFGram
 The SFGram dataset containing thousands of scienc-fiction books, novels and movie information
 
-Documents
-=========
+## A database of public Science-Fiction books, novels and movies
+
+SFGram (Science-Fiction Gram) is a dataset of public science-fiction novels, books and movie covers. It is designed to be used by researchers to study the evolution of the science-fiction literature over time and to test machine learning algorithms on authorship attribution and document classification tasks. All the documents are now published on the public domain and were obtained from the Gutenberg project or the archive.org website.
+
+## Book covers
+
+![HGWells1](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00001-2493-186x300.jpg)
+![HGWells2](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00002-8909-195x300.jpg)
+![Burroughs](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00003-40395-196x300.jpg)
+![Astounding](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00019-16172887-202x300.jpg)
+![Abbott](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00032-433567-188x300.jpg)
+
+## Book images
+
+![HGWells3](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00001-Two_complete_science_adventure_books_1951win_n4-207x300.jpg)
+![Illustration1](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00002-Correa-Martians_vs._Thunder_Child-300x228.jpg)
+![Fantastic](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00006-Famous_fantastic_mysteries_195306-219x300.jpg)
+![Verne1](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00010-A_Journey_to_the_Centre_of_the_Earth-1874-214x300.jpg)
+![Verne2](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00012-Ile_Mysterieuse_02-188x300.jpg)
+
+## Some SF magazines
+
+![Galaxy1](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00972-cover-233x300.jpg)
+![Galaxy2](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book00975-cover-211x300.jpg)
+![IF1](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book01282-cover-215x300.jpg)
+![IF2](http://www.nilsschaetti.ch/wp-content/uploads/2017/11/book01292-cover-220x300.jpg)
+
+## Documents
 
 | Title  | Authors | Years |
 |--------|---------|-------|
